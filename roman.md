@@ -2,6 +2,17 @@
 
 *Livre I — L’Ascension d’une légende oubliée*
 
+## Sommaire
+
+1. [Chapitre 1 — La légendaire inutile](#chapitre-1)
+2. [Chapitre 2 — La véritable valeur d’une rune](#chapitre-2)
+3. [Chapitre 3 — Le prix d’un rêve](#chapitre-3)
+4. [Chapitre 4 — La voie de l’artisan](#chapitre-4)
+
+---
+
+<span id="chapitre-1"></span>
+
 # Chapitre 1 — La légendaire inutile
 
 ---
@@ -3398,6 +3409,8 @@ Puis sourit.
 
 **Fin du chapitre 1 — La légendaire inutile**
 
+<span id="chapitre-2"></span>
+
 # Chapitre 2 — La véritable valeur d’une rune
 
 ---
@@ -4323,6 +4336,8 @@ Pas par une nouvelle chasse.
 
 ---
 
+<span id="chapitre-3"></span>
+
 # Chapitre 3 — Le prix d’un rêve
 
 ---
@@ -4788,6 +4803,8 @@ En passant près de l’épée, elle redressa le fourreau contre le mur. Elle vo
 Hasol posa la pièce sur son chevet. De son lit, elle pouvait encore en voir le reflet avant de souffler la lumière.
 
 ---
+
+<span id="chapitre-4"></span>
 
 # Chapitre 4 — La voie de l’artisan
 
