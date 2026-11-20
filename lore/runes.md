@@ -102,6 +102,10 @@ Pour les futures acquisitions, appliquer DEC-007 aux butins de monstre, sans dé
 
 **DEC-023 :** Hasol conserve HAS-R001 à HAS-R010, dix runes équipées sur dix emplacements. Aucun achat, remplacement, sacrifice ni amélioration personnelle n’est raconté dans ces chapitres. L’ancienne validation des cadeaux et de la composition reste distincte du statut de lecture des caractéristiques maternelles.
 
+**Refonte du chapitre 3 — DEC-026 :** ce suivi reste inchangé. La comparaison au marché n’aboutit à aucun achat ; ORV-R001 conserve sa séquence de trois réussites et un échec jusqu’à +3, sans valeur d’affixe nouvelle ni propriétaire final inventé. Les identifiants, étoiles, grades et améliorations ci-dessous sont préservés.
+
+**Adaptation du chapitre 4 — DEC-027 :** même équipement personnel et même commande CLI-R001, trois tentatives jusqu’à +2 puis restitution. La cliente conserve son choix ouvert en attendant les caractéristiques du porteur ; aucune vente ou acquisition nouvelle n’est racontée. Les comparaisons sur ardoise et fiches sont des exemples pédagogiques, pas des runes supplémentaires à identifier.
+
 - Quatre Fatal, quatre Gardien, deux Énergie ; un Fatal, deux Gardien, un Énergie actifs.
 - Deux runes rares (bleues), 6★, +6 ; HAS-R003 Fatal rare (bleue), 3★, +3 ; les sept autres maternelles, 3★ peu communes (vertes) ou rares (bleues) selon leurs fiches, à +0.
 - Bonus fixes inchangés : PV +445, Attaque +102, Défense +96, Vitesse +13, Mana +20 ; Résistance +6 % distincte. Pourcentages d’ensemble séparés : Attaque +35 %, Défense +30 %, PV +15 % ; aucun total complexe supplémentaire.
@@ -136,4 +140,4 @@ Pour les futures acquisitions, appliquer DEC-007 aux butins de monstre, sans dé
 
 ## Autres pierres et commandes aperçues au chapitre 4
 
-Plusieurs commandes simples sont réalisées sans inventaire détaillé ni nombre exact de tentatives. Une fiche Gardien rare (bleue), 3★, vise +1, mal lu +2 par Hasol ; aucune tentative n’est engagée sur cette fiche. Les pierres de vitrine et les exemples de comparaison ne permettent pas toujours de retrouver ensemble, étoiles, affixes ou propriétaire. Ces identités et valeurs restent **À DÉFINIR** ; ne pas fabriquer de lignes individuelles exhaustives ni ajouter ces runes à l’équipement d’Hasol.
+Plusieurs commandes simples sont réalisées sans inventaire détaillé ni nombre exact de tentatives. Une fiche Gardien rare (bleue), 3★, vise +1, mal lu +2 par Hasol ; aucune tentative n’est engagée sur cette fiche. Valeurs, propriétaire et identité individuelle de cette commande restent **À DÉFINIR**. Dans la version initiale, d’autres pierres de vitrine ou d’atelier étaient aperçues sans étoiles récupérables ; l’adaptation DEC-027 conserve des étalages génériques plutôt que d’inventer leurs caractéristiques. Les fiches de comparaison actuelles et l’ardoise sont pédagogiques : ne pas fabriquer de lignes individuelles ni les ajouter à l’équipement d’Hasol.

@@ -234,7 +234,7 @@ Le texte est présent à la suite du chapitre 1 dans `roman.md`, avec les fenêt
 
 **Séquence 4, amélioration :** Hasol commence à améliorer une nouvelle rune **Fatal rare (bleue), 3★, jusqu’à 【 +3 】**, distincte du cadeau paternel rare (bleu), 6★, déjà +6 ; progression par tentatives et ressources, Bénédiction runique utile mais non infaillible. Les secondaires et leur évolution doivent être consignées. Les exemples d’anciens brouillons sur la distribution de bonus ne sont pas automatiquement canon.
 
-**Séquence 5, test réaliste :** mannequin d'entraînement de niveau 10 : Hasol perd en **42 secondes**, porte **1 coup** et en reçoit **3**. L'échec montre que l'équipement ne remplace ni réflexes ni technique.
+**Séquence 5, test réaliste :** mannequin simulant un guerrier ordinaire de niveau 10, arrêt à la troisième touche reçue ; temps mesuré jusqu'à cette touche. Hasol conserve ces réglages pour ses essais comparatifs (DEC-025). Elle perd en **42 secondes**, porte **1 coup** et en reçoit **3**. L'échec montre que l'équipement ne remplace ni réflexes ni technique. Le chapitre 3 refondu explicite désormais la reprise de ce protocole à 78 secondes (DEC-026), sans nouvelle modification du chapitre 2.
 
 **Séquence 6, première chasse :** Bois des Crocs Gris ; combat contre **trois loups de niveau 5**, **12 XP chacun, soit 36 XP** pour Hasol si elle reçoit l'intégralité des éliminations. Elle subit une griffure au bras, utilise une potion et constate sa fragilité. Compteur Croissance runique depuis l'activation : **3 / 1 000**, sous réserve de la convention de suivi adoptée.
 
@@ -242,11 +242,13 @@ Le texte est présent à la suite du chapitre 1 dans `roman.md`, avec les fenêt
 
 **Vérification :** 10/10 runes, deux cadeaux paternels rares (bleus), 6★, +6 conservés, huit ajouts maternels 3★ verts ou bleus, composition arrêtée avant rédaction des fiches, Fatal et Gardien complets, ensembles calculés sans Lame, 36 XP, blessure et potion, nouvelle Fatal rare (bleue), 3★, +3 clairement identifiée.
 
-## Chapitre 3 — « Le prix d'un rêve » [TRAME VALIDÉE ; TEXTE INTÉGRÉ — DEC-023]
+## Chapitre 3 — « Le prix d'un rêve » [TRAME VALIDÉE ; REFONTE EN LECTURE — DEC-026]
 
-Texte complet transmis dans `new.txt`, ajouté sur demande de l'auteur le 20 novembre 2026. L'intégration ne constitue pas une validation littéraire globale. Sept sections ; journée suivant la chasse du chapitre 2, Hasol niveau 10 du début à la fin. Aucun gain d'XP, nouvelle élimination ou changement des dix runes personnelles.
+Texte initial transmis dans `new.txt` et intégré par DEC-023, puis refondu sur demande explicite de l'auteur (DEC-026). Nouvelle version à relire, sans validation littéraire globale implicite. Sept sections et événements conservés ; journée suivant la chasse du chapitre 2, Hasol niveau 10 du début à la fin. Aucun gain d'XP, nouvelle élimination ou changement des dix runes personnelles. Les autres chapitres restent intacts.
 
-**Ouverture :** Hasol travaille les déplacements et la garde après les loups ; nouvelle épreuve contre mannequin, survie **1 minute 18 secondes** au lieu de 42 secondes. Progrès mesuré, encore insuffisant.
+**Direction éditoriale choisie par l'auteur :** théorie acquise mais assurance fragilisée, moins de reformulations et de bilans ; les gestes et le travail portent davantage le sens. La mère protège sans décider à sa place, Orven évalue méthode et consignes. Le premier salaire est la récompense propre à ce chapitre ; l'endurance magique et l'enseignement fixe/pourcentage restent au chapitre 4.
+
+**Ouverture :** Hasol travaille les déplacements et la garde après les loups ; nouvelle épreuve avec le même guerrier ordinaire simulé niveau 10 et arrêt à la troisième touche reçue. Deux touches sont déjà reçues avant les derniers échanges ; le balayage au mollet constitue la troisième et entraîne la chute et l'arrêt à **1 minute 18 secondes**, contre 42 la veille (DEC-025 et DEC-026). Progrès technique montré par le recul et les appuis, sans victoire ni total de dégâts inventé. Griffure encore douloureuse, carnet technique bref et arrêt avant un nouvel essai.
 
 **Économie :** une rune Fatal verte lui fait envie, mais son prix la dépasse ; développer la frustration matérielle et le coût des pierres de mana. Son rêve exige une source de revenus.
 
@@ -254,27 +256,31 @@ Texte complet transmis dans `new.txt`, ajouté sur demande de l'auteur le 20 nov
 
 **Rencontre Orven :** sa mère la présente à **Maître Orven**, marchand et spécialiste des runes depuis plus de 25 ans. Mentor compétent, prudent, pas admirateur aveugle. Il est surpris par les dix cercles mais ne quantifie pas encore le bonus d'échec de Hasol.
 
+**Choix de la mère — DEC-026 :** elle attendait qu'Hasol soit prête à envisager l'artisanat sans abandonner son rêve de chasseuse ; la demande de financer ses propres améliorations ouvre cette possibilité. Elle refait le bandage et propose la rencontre, mais Hasol formule elle-même sa demande de travail. Passifs et dix cercles sont révélés une fois la porte de l'atelier fermée ; aucune statistique magique partagée à ce stade.
+
 **Premier travail :** Orven lui confie l'amélioration de runes **blanches jusqu'à +3**. Première rune **ORV-R001, Énergie commune (blanche), 2★** : +1 réussite, +2 échec, nouvelle tentative +2 réussite, +3 réussite ; apparition d'une caractéristique secondaire de Défense à +3. **Règle résolue par DEC-006 :** une rune blanche native sans secondaire en gagne une à +3 et son grade affiché devient peu commun (vert) ; conserver son grade d’origine dans l’historique. La principale PV et la secondaire Défense restent non chiffrées. L’échec au passage +2 est une divergence préexistante du roman avec la source, distincte de l’adoption de la règle d’évolution des secondaires. Ressources fournies par l'atelier, rune jamais équipée par Hasol.
 
-**Fin :** premier paiement ; fierté de gagner elle-même les moyens de progresser. Orven voit une apprentie sérieuse, pas encore une anomalie statistiquement démontrée.
+**Fin :** premier paiement et engagement à l'essai pour le lendemain ; fierté concrète, sans disparition immédiate du doute. Orven reconnaît le travail et exige le respect des commandes et des ressources, sans qualifier Hasol de prodige. Retour avec la mère puis préparation des affaires, mention « Pas encore » pour les collines et pièce laissée sur le chevet en raccord avec le chapitre 4. Ni nouveau dialogue avec le père ni réconciliation ; bilans répétitifs réduits.
 
 **Vérification :** nom Orven ; aucune découverte des 30 % avant Ch7 ; échec au +2 ; coût des consommables ; récompense financière sans montant inventé.
 
-## Chapitre 4 — « La voie de l'artisan » [TEXTE TRANSMIS COMME VALIDÉ ; INTÉGRÉ — DEC-023]
+## Chapitre 4 — « La voie de l'artisan » [ADAPTATION EN LECTURE — DEC-027]
 
-**Provenance :** texte complet dans `new.txt`, désigné comme validé par les consignes mobiles qui le suivent. Intégration expressément demandée le 20 novembre 2026, sans réécriture globale ni adoption automatique des consignes du chapitre 5.
+**Provenance :** version initiale de `new.txt`, désignée comme validée par les consignes mobiles qui la suivent, importée par DEC-023. Après la refonte du chapitre 3, l'auteur autorise explicitement son adaptation (DEC-027). La nouvelle rédaction est à relire, sans validation littéraire implicite ni adoption automatique des consignes du chapitre 5.
 
 **Période :** première journée complète à l'atelier, lendemain de l'épreuve du chapitre 3, puis début de la journée suivante. Dix sections, Hasol dix-neuf ans, niveau 10, dix emplacements occupés, équipement personnel inchangé.
 
 **Apprentissage :** préparation et suivi des commandes, respect des budgets et ressources d'autrui. **CLI-R001, Gardien commune (blanche), 2★, +0 → +2** : un échec au premier passage +1 puis deux réussites, trois tentatives autorisées, rune rendue au client sans secondaire.
 
-**Deux ressources — DEC-024 :** chaque tentative consomme pierres de mana et Mana personnel, succès ou échec. Difficulté selon étoiles, grade et palier ; aucune valeur définitive de coût ni table inventée. Le repos et les potions restaurent le Mana sans supprimer toute fatigue mentale.
+**Deux ressources — DEC-024, mise en pratique dans DEC-027 :** chaque tentative consomme pierres de mana et Mana personnel, succès ou échec. Hasol connaît cette dépense ; elle apprend à suivre sa réserve pendant une journée complète, pas à découvrir une règle élémentaire après trois ans de théorie. Difficulté selon étoiles, grade et palier ; aucune valeur définitive de coût ni table inventée. Le repos et les potions restaurent le Mana sans supprimer toute fatigue mentale.
 
-**Principales fixes et pourcentages — DEC-011 complétée :** dialogue pédagogique avec les exemples +50 Attaque et +10 % sur 200, 500 et 2000 naturels, sans les transformer en nouvelles runes d'inventaire. Assiette naturelle avant bonus fixes, mais ensembles et arrondis toujours ouverts. Évoquer la valeur affective des cadeaux paternels sans les remplacer ; conseil à une cliente fondé sur les besoins du porteur.
+**Principales fixes et pourcentages — DEC-011 complétée :** une scène centrale avec les exemples +50 Attaque et +10 % sur 200, 500 et 2000 naturels, sans les transformer en nouvelles runes d'inventaire. Assiette naturelle avant bonus fixes, mais ensembles et arrondis toujours ouverts. Valeur affective des cadeaux paternels évoquée par le souvenir du coffret unique, sans remplacement. La cliente met la méthode en pratique : profil et équipement à demander avant tout choix, pas de reprise intégrale du cours avec elle, la mère ou le carnet.
 
 **Découverte émotionnelle :** Orven constate l'endurance de Hasol, Mana naturel 355 et bonus connu +20, réserve disponible non chiffrée. Son Mana trouve une utilité réelle, mais l'artisan lui fait arrêter le travail lorsqu'elle commence à mal lire une consigne. Ni maîtrise automatique, ni découverte des 30 %.
 
 **Famille et fin :** mère attentive ; père affectueux mais absorbé par son travail, distance non résolue. Hasol poursuit son rêve de chasseuse tout en donnant une valeur propre au métier. Aucune nouvelle XP, compétence, élimination, amélioration personnelle ou rencontre de Yoon ; griffure refermée mais sensible.
+
+**Direction de la révision — DEC-027 :** le premier salaire appartient au chapitre 3 ; ici, la progression repose sur la commande réellement rendue, le suivi d'une journée et les premières initiatives. Section VIII « Le travail du lendemain » : rémunération sans nouveau discours sur la valeur humaine, supervision maintenue. La mère écoute son expérience, le père ne la réconcilie pas avec lui, mais sa réaction ne décide plus seule de la satisfaction d'Hasol. Fin dominée par la fierté et l'autonomie : poste préparé, information manquante signalée, question apportée et comparaison commencée sous contrôle. Tous les événements et les dix sections sont conservés.
 
 ## Chapitre 5 — « Le premier lien » [TRAME ANTÉRIEURE VALIDÉE ; NOUVEL APPORT À ARBITRER]
 

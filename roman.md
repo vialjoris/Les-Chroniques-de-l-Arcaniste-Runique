@@ -3899,12 +3899,15 @@ Dans la salle, l’odeur du cuir usé et du bois frappé lui était familière. 
 
 Elle choisit un mannequin simulant un guerrier ordinaire de niveau dix. Pour mesurer sa garde sans attendre d’être réellement mise hors de combat, elle régla l’exercice sur un arrêt après trois touches reçues.
 
+Elle vérifia les réglages une seconde fois. Lorsqu’elle recommencerait, elle garderait le même adversaire simulé et la même condition d’arrêt. Sinon, tenir plus longtemps ne lui apprendrait pas grand-chose sur ses progrès.
+
 Puis elle prit position.
 
 <div class="system-window">
   <div class="system-header">◆ EXERCICE D’ENTRAÎNEMENT ◆</div>
   <p><strong>Adversaire simulé :</strong> Guerrier ordinaire — Niveau 10</p>
   <p><strong>Condition d’arrêt :</strong> 3 touches reçues</p>
+  <p><strong>Mesure :</strong> Temps écoulé jusqu’à la troisième touche reçue</p>
   <p>Début du combat.</p>
 </div>
 
@@ -4326,1550 +4329,463 @@ Pas par une nouvelle chasse.
 
 ## I. Soixante-dix-huit secondes
 
-Le mannequin leva son épée.
+Hasol avait déjà reçu deux touches lorsque le mannequin leva de nouveau son épée. Son épaule gardait la sensation du premier choc ; le second avait atteint son côté pendant un changement d’appui trop lent. Elle n’avait plus droit à l’erreur.
 
-Hasol recula d’un pas.
+Elle avait repris les réglages de la veille : un guerrier ordinaire de niveau dix, un arrêt à la troisième touche reçue, le temps mesuré jusqu’à cette dernière. Rien ne devait changer, sinon sa manière de se battre.
 
-Pas deux.
+La lame de bois descendit. Hasol recula d’un pas, retint le second. L’arme passa devant son visage et souleva quelques mèches échappées de sa queue-de-cheval. Elle sentit l’envie de fuir plus loin lui tirer les jambes, mais son pied arrière resta à sa place. Quand le mannequin pivota, elle put ramener sa garde sans chercher le sol.
 
-Un seul.
+Le coup suivant heurta le plat de son épée. La secousse réveilla la griffure sous son bandage ; elle expira entre ses dents et desserra un peu les épaules. Une autre attaque se prépara. Cette fois, elle en vit le départ dans le mouvement du buste et se dégagea avant que la lame arrive.
 
-La lame de bois fendit l’air devant son visage et passa suffisamment près pour soulever quelques mèches échappées de sa queue-de-cheval.
+Le soulagement lui coûta son attention. Elle suivit des yeux l’épée qui la dépassait et ne vit pas la jambe du mannequin partir vers les siennes.
 
-Elle sentit son cœur accélérer.
+Le balayage la toucha au mollet — troisième touche — et lui emporta les appuis. La construction s’immobilisa tandis qu’elle tombait sur le dos, le souffle coupé.
 
-Son premier réflexe fut de bondir en arrière.
-
-Elle le retint.
-
-Ne recule pas plus que nécessaire.
-
-Le mannequin pivota sur son pied gauche.
-
-Hasol déplaça le sien, ramena son épée devant elle et reçut le coup suivant sur le plat de sa lame.
-
-Le choc remonta jusqu’à son épaule.
-
-Sa blessure au bras protesta aussitôt.
-
-Elle serra les dents.
-
-— Pas maintenant…
-
-Une troisième attaque arriva.
-
-Cette fois, elle vit le mouvement partir de l’épaule du mannequin avant même que l’épée ne se lève.
-
-Elle esquiva.
-
-Un sourire passa sur son visage.
-
-Puis le mannequin lui balaya les jambes.
-
-Hasol tomba lourdement sur le dos.
-
-L’air quitta ses poumons.
-
-Une notification apparut au-dessus d’elle.
-
-<div class="system-window monster">
-  <div class="system-header">✦ ÉVALUATION D'ENTRAÎNEMENT ✦</div>
-  <h3>Mannequin de combat — Niveau 10</h3>
-  <p><strong>Résultat :</strong> Défaite</p>
-  <p><strong>Temps de résistance :</strong> 1 min 18 s</p>
-  <p><strong>Évaluation :</strong> Insuffisante</p>
+<div class="system-window">
+  <div class="system-header">◆ EXERCICE TERMINÉ ◆</div>
+  <p><strong>Adversaire simulé :</strong> Guerrier ordinaire — Niveau 10</p>
+  <p><strong>Durée jusqu’à la troisième touche reçue :</strong> 1 min 18 s</p>
+  <p><strong>Touches reçues :</strong> 3</p>
+  <p><strong>Résultat :</strong> Défaite — condition d’arrêt atteinte</p>
 </div>
 
-Hasol fixa le plafond de la salle d’entraînement.
+Hasol contempla la fenêtre, puis le plafond derrière elle. Soixante-dix-huit secondes au lieu de quarante-deux. Trente-six secondes gagnées, avec le même équipement et le même adversaire.
 
-Son bras lui faisait mal.
+Elle aurait préféré les lire debout.
 
-Ses jambes tremblaient.
+En se redressant sur son bras valide, elle aperçut le banc et son carnet resté ouvert. Elle avait passé le début de la matinée à reprendre les déplacements qu’elle connaissait depuis des années : garder les pieds assez écartés, déplacer la garde avec le corps, ne pas croiser les jambes pour aller plus vite. Sans adversaire, elle savait faire. Devant une arme, elle cherchait encore à réparer ses gestes après les avoir commencés.
 
-Et elle venait encore de perdre contre un adversaire qui répétait inlassablement les mêmes mouvements.
+Pourtant, cette fois, elle avait retenu ce pas inutile. Elle pouvait se rappeler le moment précis, le pied qui n’avait pas quitté le sol. Ce n’était pas seulement un nombre plus agréable dans une fenêtre.
 
-Elle ferma les yeux.
+Elle récupéra son épée et se tourna vers le mannequin. Son pouce chercha presque le réglage de départ. Alors la manche frotta contre le bandage déplacé et une douleur plus nette remonta de son avant-bras.
 
-— Soixante-dix-huit secondes…
+Hasol baissa l’arme.
 
-Quarante-deux.
+La veille, une griffe avait suffi à lui ouvrir la peau entre ses protections. Elle n’allait pas tirer sur cette blessure pour vérifier si elle pouvait gagner quelques secondes de plus avant midi. Elle s’assit sur le banc, remit le tissu en place avec précaution et attendit que la douleur s’apaise.
 
-C’était le temps qu’elle avait tenu lors de sa précédente tentative.
+Dans son carnet, sous le résultat précédent, elle inscrivit : *78 s. Recul plus court. Garde mieux conservée. Regard accroché à l’arme sur le balayage.*
 
-Trente-six secondes supplémentaires.
+La couverture abîmée se rabattit sous sa paume. Zio lui avait conseillé de conserver ces traces, à l’Académie. Elle était contente, aujourd’hui, de ne pas avoir arraché les pages des mauvais jours.
 
-Elle avait presque doublé sa durée de résistance.
-
-Pourtant, allongée sur le sol, elle ne parvenait pas à considérer cela comme une victoire.
-
-Le mannequin retourna lentement à sa position initiale.
-
-Le bruit de ses articulations mécaniques résonna dans la pièce.
-
-Hasol se redressa en prenant appui sur son bras valide.
-
-La veille, sa mère lui avait demandé de ne pas retourner chasser avant d’avoir repris correctement ses entraînements.
-
-Elle avait accepté.
-
-Sans enthousiasme, mais sans discuter.
-
-La griffure reçue au Bois des Crocs Gris lui rappelait suffisamment pourquoi.
-
-Elle avait donc passé la matinée à travailler ses déplacements.
-
-Un pas.
-
-Une garde.
-
-Un changement d’appui.
-
-Encore.
-
-Et encore.
-
-Au début, ces exercices lui avaient semblé presque humiliants.
-
-Elle connaissait les positions fondamentales depuis des années. Elle les avait répétées sous les ordres de plusieurs instructeurs de l’Académie.
-
-Mais elle avait fini par remarquer quelque chose.
-
-Lorsqu’elle s’entraînait seule, elle exécutait chaque mouvement correctement.
-
-Lorsqu’un adversaire avançait vers elle, elle oubliait la moitié de ce qu’elle savait.
-
-Son corps cherchait à fuir avant même que son esprit ait décidé comment répondre.
-
-Elle avait beau posséder dix runes, aucune ne lui indiquait où poser le pied.
-
-Hasol ramassa son épée.
-
-Elle contempla le mannequin.
-
-— Encore une fois.
-
-Puis elle baissa les yeux vers son bandage.
-
-Le tissu avait légèrement glissé.
-
-Sa mère l’avait pourtant avertie.
-
-Pas de mouvements brusques si la blessure tire.
-
-Hasol soupira.
-
-— D’accord. Pas tout de suite.
-
-Elle posa son arme contre le mur et s’assit sur le banc.
-
-Une partie d’elle aurait voulu recommencer immédiatement.
-
-Une autre se souvenait trop bien de la douleur provoquée par les crocs du premier loup.
-
-Elle avait gagné trente-six secondes.
-
-C’était peu.
-
-Mais c’était trente-six secondes qu’elle n’aurait pas eues la veille.
-
-Elle ouvrit son carnet et nota le résultat.
-
-Sous la ligne précédente, elle ajouta :
-
-Je regarde encore trop souvent l’arme au lieu de regarder le corps de l’adversaire.
-
-Elle hésita.
-
-Puis écrivit :
-
-J’ai réussi à ne pas reculer inutilement pendant les premières attaques.
-
-Enfin, après un instant de réflexion :
-
-Ne pas considérer chaque défaite comme une preuve que je suis incapable de progresser.
-
-Hasol contempla cette dernière phrase.
-
-Elle ne savait pas encore si elle y croyait.
-
-Mais elle décida de la conserver.
+Avant de quitter la salle, elle regarda encore le mannequin immobile. Puis elle passa son sac sur l’épaule qui ne lui faisait pas mal.
 
 ---
 
 ## II. Ce que coûte une pierre
 
-Le marché des artisans occupait plusieurs rues au sud de la capitale.
+Le marché des artisans avait débordé des boutiques jusque sur les pavés. Hasol dut se ranger contre une devanture pour laisser passer un apprenti chargé d’une caisse. Un marteau sonnait derrière des volets ouverts ; plus loin, une vendeuse rabattait un linge sur des pains encore chauds. L’odeur du métal chauffé se mêlait à celle de leur croûte.
 
-Hasol aimait cet endroit depuis l’enfance.
+Enfant, Hasol tirait sa mère vers les armuriers. Elle s’arrêtait maintenant devant les présentoirs de runes, avec cette façon nouvelle de lire les étiquettes jusqu’au bout.
 
-Les devantures débordaient de tissus, d’armes, de potions et de petites pierres gravées. Les marchands interpellaient les passants tandis que des apprentis transportaient des caisses entre les boutiques.
+Une Fatal peu commune, verte, trois étoiles, à +0, retint son regard. Principale d’Attaque, secondaire de Vitesse. Elle rapprocha mentalement ses caractéristiques de celles de son équipement. Ses dix emplacements étaient occupés, ses ensembles complets : quatre Fatal, quatre Gardien, deux Énergie. Cette pièce ne s’ajouterait pas aux autres. Il faudrait en retirer une, comparer ce qu’elle perdrait et ce qu’elle gagnerait.
 
-L’odeur du métal chauffé se mêlait à celle du pain et des épices.
+Elle se pencha néanmoins. Sur le coussin sombre, l’éclat vert soulignait les creux de la gravure.
 
-Elle avait accompagné sa mère dans ces rues des dizaines de fois.
-
-Autrefois, elle regardait surtout les épées exposées dans les vitrines.
-
-Aujourd’hui, ce furent les runes qui attirèrent son attention.
-
-Devant une boutique, plusieurs pierres étaient présentées sur un coussin de velours sombre.
-
-Hasol s’arrêta.
-
-Une rune Fatal peu commune, verte, trois étoiles, encore à +0, reposait près d’un petit écriteau.
-
-Sa caractéristique principale augmentait l’Attaque.
-
-La secondaire renforçait la Vitesse.
-
-Elle se pencha pour mieux voir.
-
-— Celle-là t’intéresse ?
-
-Le marchand, un homme aux joues rondes, venait de sortir de sa boutique.
+— Je peux vous la montrer, proposa le marchand en sortant de sa boutique.
 
 Hasol se redressa.
 
-— Je regardais seulement.
+— Quel est son prix ?
 
-— C’est une bonne pièce pour commencer. Trois étoiles, une principale utile et une secondaire qui peut servir à un épéiste.
+Il le lui annonça. Elle n’eut pas besoin d’ouvrir sa bourse. Même ses économies restées à la maison n’auraient pas suffi.
 
-Il lui annonça le prix.
+Le marchand attendit, la main près du présentoir, sans encore prendre la pierre.
 
-Hasol sentit son enthousiasme retomber.
+— Pas aujourd’hui, dit-elle. Merci. En revanche, je voudrais me renseigner sur les pierres de mana.
 
-Elle regarda discrètement sa bourse.
+Il se tourna vers les boîtes alignées derrière la vitrine. Hasol lui expliqua qu’elle avait déjà son équipement et souhaitait en améliorer une partie jusqu’à +6. Il lui montra les lots disponibles ; elle demanda ce qu’elle pourrait préparer avec chacun, puis fit répéter un prix qu’elle avait parfaitement entendu.
 
-Puis l’écriteau.
+— Vous comptez juste de quoi essayer ? demanda-t-il.
 
-Même en réunissant les quelques économies qu’elle possédait, elle n’aurait pas pu se l’offrir.
+— J’essaie surtout de voir par où commencer.
 
-— Je vois…
+— Alors gardez de quoi recommencer aussi.
 
-Le marchand suivit son regard.
+Il remit le couvercle sur une boîte. Ce petit bruit rappela à Hasol les ressources devenues ternes dans l’atelier maternel. La veille, elle avait vu leur disparition ; ici, elle en entendait le prix. Le passage de l’un à l’autre lui laissa une gêne au creux de l’estomac.
 
-— Tu cherches moins cher ?
+Elle remercia le marchand sans rien acheter. En reprenant sa marche, elle jeta un dernier regard à la Fatal peu commune, verte, trois étoiles, à +0. Elle avait encore envie de la prendre entre ses mains. Mais ce désir-là pouvait attendre : elle n’avait même pas de quoi poursuivre le travail sur ce qu’elle possédait déjà.
 
-— Pas exactement.
+Devant une guilde, des chasseurs discutaient autour d’une carte. Hasol s’arrêta à l’écart d’un homme qui traçait un itinéraire du doigt. Elle reconnut le Bois des Crocs Gris ; au-delà des routes familières, des reliefs rouges portaient un nom qu’elle lut deux fois : *Collines de Braise*.
 
-Elle hésita.
+— Ceux qu’on a repérés près du chemin oriental sont niveau onze, disait un chasseur. Pour ceux d’en haut, je ne m’avance pas.
 
-— Je voulais savoir combien je devrais économiser.
+— Ils sont descendus jusque-là ? demanda son compagnon.
 
-L’homme acquiesça.
+— Des gobelins rouges, oui.
 
-— Tu as raison de te renseigner. Mais n’oublie pas les améliorations.
+Hasol attendit une pause pour les interrompre.
 
-Il désigna un présentoir de pierres de mana.
+— Excusez-moi. Il faut combien de temps pour atteindre ces collines ?
 
-— Une rune achetée n’est pas une rune terminée.
+Le plus âgé lui montra la route.
 
-Hasol connaissait cette vérité.
+— Quelques heures. Tu cherches un groupe pour y aller ?
 
-Elle l’avait même découverte de manière assez douloureuse dans l’atelier de sa mère.
+— Je regarde les régions où je pourrais chasser. Plus tard.
 
-Sa Fatal rare, bleue, trois étoiles, avait atteint +3.
+Il suivit son regard vers la carte, puis aperçut le bandage sous sa manche.
 
-Mais il avait fallu plusieurs tentatives, dont un échec dès le premier passage.
+— Renseigne-toi bien avant. Ils sont armés, et ils ne restent pas sagement devant toi. Celui que tu vois peut t’occuper pendant que les autres se déplacent.
 
-Les ressources consommées n’étaient pas revenues lorsque l’amélioration avait finalement réussi.
+Hasol approcha de nouveau de la carte, cette fois pour regarder les chemins plutôt que le relief coloré.
 
-Elle observa les pierres de mana.
+— Ils chassent en groupe ?
 
-— Et si je voulais améliorer plusieurs runes jusqu’à +6 ?
+— Compte dessus. Si tu n’en vois qu’un, cherche les autres avant d’avancer.
 
-Le marchand la regarda avec davantage d’attention.
+Elle hocha la tête. Dans le bois, elle avait dû attendre un grondement pour comprendre que le premier loup n’était pas seul. Elle revoyait le second pelage glisser près d’un tronc, son propre bras retiré trop tard. Des armes s’ajoutaient maintenant à ce souvenir, et des adversaires capables de choisir où l’attendre.
 
-— Plusieurs ?
+— Merci. Je ne connais pas encore assez le terrain.
 
-— Oui.
+Elle laissa les hommes reprendre leur discussion et s’écarta pour un chariot. À travers les passants, les collines rouges restaient visibles au-dessus d’une épaule. Quelques heures de route : elles lui semblaient presque proches. Elle aurait voulu savoir ce qu’on voyait depuis leurs sommets.
 
-— Alors je te conseillerais de prévoir une réserve importante.
-
-Il prit une petite pierre entre ses doigts.
-
-— Chaque tentative coûte quelque chose. Plus tu avances, plus tu dois réfléchir avant de recommencer. Et même si tu possèdes assez de ressources pour une tentative, cela ne veut pas dire qu’elle réussira.
-
-Hasol acquiesça.
-
-— Merci.
-
-Elle s’éloigna de la boutique.
-
-Son regard revint malgré elle vers la rune Fatal peu commune, verte, trois étoiles.
-
-Elle n’avait même pas d’emplacement libre pour l’équiper.
-
-Ses dix cercles étaient occupés.
-
-Quatre Fatal.
-
-Quatre Gardien.
-
-Deux Énergie.
-
-Les ensembles étaient complets.
-
-Pour utiliser cette nouvelle rune peu commune, verte, trois étoiles, il faudrait remplacer une pièce existante et vérifier ce qu’elle gagnerait réellement à cet échange.
-
-Elle le savait.
-
-Mais cela ne l’empêchait pas de la trouver magnifique.
-
-Je commence déjà à vouloir acheter des runes alors que je n’ai même pas les moyens d’améliorer celles que je possède…
-
-Un sourire embarrassé lui échappa.
-
-Elle poursuivit sa marche.
-
-Plus loin, un groupe de chasseurs examinait une carte affichée devant une guilde.
-
-Hasol ralentit.
-
-Les régions proches de la capitale y étaient représentées avec leurs principaux itinéraires.
-
-Elle reconnut immédiatement le Bois des Crocs Gris.
-
-Un peu plus loin, au-delà des routes qu’elle connaissait, se trouvait une région marquée de reliefs rouges.
-
-Les Collines de Braise.
-
-Deux chasseurs discutaient devant la carte.
-
-— Les gobelins rouges se rapprochent encore du chemin oriental.
-
-— Des niveaux onze ?
-
-— Ceux qu’on a repérés, oui. Mais personne ne sait combien se cachent plus haut.
-
-Hasol leva les yeux.
-
-Niveau 11.
-
-Un seul niveau au-dessus du sien.
-
-Elle s’approcha légèrement.
-
-— Excusez-moi…
-
-Les deux hommes se tournèrent vers elle.
-
-— Oui ?
-
-— Les Collines de Braise… c’est loin ?
-
-Le plus âgé désigna la carte.
-
-— À quelques heures de route. Pourquoi ?
-
-— Je me renseignais sur les monstres.
-
-L’homme observa son épée, puis le bandage visible sous sa manche.
-
-— Tu comptes y aller ?
-
-Hasol hésita.
-
-— Pas tout de suite.
-
-— Tant mieux.
-
-Il croisa les bras.
-
-— Les gobelins rouges ne se battent pas comme les slimes. Ils utilisent des armes, se déplacent en groupe et savent profiter du terrain. Si tu en rencontres un, rien ne garantit que les autres soient loin.
-
-Son compagnon ajouta :
-
-— Et un niveau ne dit pas tout. Un monstre capable de réfléchir peut être bien plus dangereux qu’un autre possédant des caractéristiques supérieures.
-
-Hasol repensa aux trois loups.
-
-Elle avait failli tomber plusieurs fois alors qu’ils étaient de niveau 5.
-
-Des gobelins de niveau 11…
-
-Armés.
-
-Organisés.
-
-Elle regarda encore la carte.
-
-— Merci pour les informations.
-
-Le chasseur acquiesça.
-
-— Prends le temps de te préparer.
-
-Hasol s’éloigna.
-
-Elle avait envie de découvrir ces collines.
-
-D’affronter des monstres plus puissants.
-
-De gagner davantage d’expérience.
-
-Mais une pensée désagréable lui traversa l’esprit.
-
-Si je rencontre trois gobelins comme j’ai rencontré trois loups…
-
-Elle ne termina pas la phrase.
-
-Cette fois, elle connaissait suffisamment la réponse.
+Elle prit pourtant la rue qui ramenait chez elle.
 
 ---
 
 ## III. Une proposition inattendue
 
-Sa mère l’attendait dans l’atelier lorsqu’elle rentra.
+Sa mère travaillait dans l’atelier, un registre maintenu ouvert par une boîte de pierres de mana. En voyant sa fille, elle posa sa plume et regarda d’abord la manche qu’Hasol avait remontée.
 
-Plusieurs pierres de mana étaient disposées sur la table, à côté d’un registre ouvert.
+— Le bandage a bougé ?
 
-Hasol posa son sac.
+— Un peu. J’ai arrêté l’entraînement quand ça a tiré.
 
-— Je suis rentrée.
+Hasol lui tendit le bras. Les doigts de sa mère suivirent le bord du tissu, sans appuyer sur la griffure.
 
-— Comment s’est passé ton entraînement ?
+— Je te le referai avant que tu ressortes.
 
-— J’ai tenu une minute et dix-huit secondes.
+— J’ai tenu soixante-dix-huit secondes. Avec les mêmes réglages qu’hier.
 
-Sa mère releva les yeux.
+Sa mère leva les yeux et sourit. Hasol lui raconta le pas retenu, puis le balayage. Elle s’entendit décrire le combat sans s’excuser du résultat ; elle ajouta tout de même qu’il restait beaucoup à corriger, et s’assit avant que la conversation puisse s’attarder sur ses progrès.
 
-— Contre le mannequin ?
+Sa bourse tomba sur la table avec un bruit léger.
 
-Hasol acquiesça.
+— Je suis allée au marché. Je voulais savoir combien il me faudrait pour les prochaines améliorations.
 
-— Toujours une défaite.
+Elle lui rapporta les prix entendus, les lots qu’on lui avait montrés. Le registre maternel était couvert de colonnes semblables à celles des marchands. Hasol le regarda autrement qu’en entrant.
 
-— Et la dernière fois ?
+— Tu m’as déjà donné de quoi m’équiper. Je ne peux pas revenir te demander des pierres chaque fois qu’une tentative échoue.
 
-— Quarante-deux secondes.
+— Tu peux me demander de l’aide, Hasol.
 
-Un sourire apparut sur le visage de sa mère.
+— Je ne dis pas que je ne veux plus de ton aide. Je voudrais pouvoir en payer une partie. Commencer, au moins.
 
-— Alors tu as progressé.
+Sa mère rapprocha la bourse du sac pour dégager le linge propre. Pendant qu’elle défaisait le bandage, Hasol parla de la carte et des gobelins rouges. Les mains s’arrêtèrent sur son bras.
 
-Hasol baissa les yeux.
+— Tu n’as pas l’intention de partir ?
 
-— Un peu.
+— Non. Pas maintenant. Mais j’ai regardé la route en pensant à ce qu’une chasse pourrait rapporter.
 
-— Trente-six secondes de plus, ce n’est pas rien.
+— Cela m’inquiète que tu aies à peine quitté les bois et que tu cherches déjà plus loin.
 
-La jeune fille s’assit en face d’elle.
+Hasol baissa les yeux vers la griffure. Elle n’avait pas besoin qu’on la lui décrive. Elle attendit que sa mère reprenne le pansement avant de répondre.
 
-— J’aimerais progresser plus vite.
+— Je ne sais pas quoi faire d’autre pour gagner ma vie.
 
-Sa mère referma doucement le registre.
+Sa mère tira une chaise et s’assit près d’elle. Le registre resta ouvert, oublié entre les boîtes.
 
-— Je m’en doute.
+— Nous pouvons demander à Orven s’il accepterait de te voir travailler.
 
-Hasol resta silencieuse un instant.
+Hasol releva la tête. Elle connaissait l’enseigne du marchand, près de la place des Artisans, pas l’homme derrière son comptoir.
 
-Puis elle sortit sa bourse.
+— Dans son atelier ?
 
-— Maman…
+— Il améliore des runes autant qu’il en vend. Nous nous connaissons depuis longtemps ; je peux te présenter. Le travail, ce sera à toi de le demander.
 
-— Oui ?
+Hasol frotta de son pouce une trace d’encre au bord de la table.
 
-— Combien coûtent vraiment les améliorations ?
+— Tu penses que je devrais devenir artisane.
 
-Sa mère regarda la bourse, puis le visage de sa fille.
+Sa mère ne répondit pas tout de suite.
 
-— Pourquoi cette question ?
+— Je pense que tu pourrais essayer ce métier. Je sais aussi ce que tu veux devenir.
 
-Hasol lui raconta sa visite au marché.
+— Alors pourquoi maintenant ?
 
-La rune Fatal peu commune, verte, trois étoiles.
+— Parce que tu viens de me demander comment financer tes améliorations. Je ne voulais pas te pousser vers l’atelier comme si ton rêve de chasseuse était terminé. J’attendais que tu sois prête à envisager autre chose à côté.
 
-Les pierres de mana.
+Hasol regarda les objets autour d’elles : les linges soigneusement pliés, les boîtes refermées, la plume dont sa mère essuyait toujours la pointe avant de la poser. Elle avait passé tant de temps dans cette pièce sans jamais imaginer devoir y gagner sa place.
 
-Les Collines de Braise.
+— Je pourrais apprendre, dit-elle enfin. J’ai la théorie. Il me manque la pratique.
 
-Les gobelins rouges.
+— Voilà ce que tu lui diras.
 
-Lorsqu’elle termina, sa mère ne répondit pas immédiatement.
+Sa mère acheva le nœud et lui rendit son bras. Hasol le plia doucement ; le tissu tenait sans serrer la peau sensible.
 
-— Tu envisages de partir là-bas pour gagner de l’argent ?
+— Il est exigeant ?
 
-— J’y ai pensé.
+— Il fait ce travail depuis plus de vingt-cinq ans. Et il aime qu’on repose les choses là où on les a prises.
 
-— Hasol.
+Hasol ramena machinalement la plume dans sa rainure. Sa mère suivit le geste, puis elles échangèrent un sourire.
 
-La jeune fille baissa la tête.
-
-— Je sais. Ce serait dangereux.
-
-— Tu as été blessée hier par des loups de niveau cinq.
-
-— Je sais.
-
-— Et tu veux déjà envisager des gobelins de niveau onze ?
-
-Hasol serra sa bourse.
-
-— Je ne veux pas rester dépendante de vous.
-
-Sa mère se tut.
-
-Hasol continua, plus doucement :
-
-— Père m’a offert deux runes rares, bleues, six étoiles, +6, extraordinaires. Tu m’en as donné huit autres, trois étoiles, peu communes vertes ou rares bleues. Vous avez payé mes études, mes entraînements, mon équipement…
-
-Elle inspira profondément.
-
-— Et maintenant, j’ai enfin trouvé quelque chose qui pourrait me permettre de devenir une vraie chasseuse. Mais je n’ai pas les moyens de continuer.
-
-Sa mère posa une main sur la sienne.
-
-— Tu n’es pas obligée de tout financer seule dès aujourd’hui.
-
-— Je sais.
-
-Hasol releva les yeux.
-
-— Mais j’aimerais commencer.
-
-Sa mère la contempla longuement.
-
-Puis un sourire discret apparut sur son visage.
-
-— Dans ce cas, j’ai peut-être une idée.
-
-Hasol se redressa.
-
-— Vraiment ?
-
-— Tu connais Maître Orven ?
-
-Elle réfléchit.
-
-— Le marchand de runes ?
-
-— Lui-même.
-
-— Celui qui possède une boutique près de la place des Artisans ?
-
-— Oui.
-
-Sa mère se leva et prit un manteau accroché près de la porte.
-
-— Cela fait plus de vingt-cinq ans qu’il travaille dans le commerce et l’amélioration des runes. Nous nous connaissons depuis longtemps.
-
-Hasol ouvrit de grands yeux.
-
-— Tu veux lui acheter des runes ?
-
-— Non.
-
-Sa mère lui tendit son propre manteau.
-
-— Je veux lui présenter quelqu’un.
-
-Hasol resta immobile.
-
-Puis elle comprit.
-
-— Moi ?
-
-— Toi.
-
-— Mais pourquoi ?
-
-Sa mère lui adressa un regard amusé.
-
-— Parce que tu as passé trois ans à étudier la théorie runique à l’Académie, que tu as réussi ta première amélioration jusqu’à +3 et que tu possèdes une compétence qui pourrait être utile dans un atelier.
-
-Hasol hésita.
-
-— Une seule rune rare, bleue, trois étoiles, maman.
-
-— C’est un début.
-
-— Et j’ai échoué dès la première tentative.
-
-— Tu crois qu’Orven n’a jamais raté une amélioration ?
-
-Hasol ne répondit pas.
-
-Sa mère s’approcha.
-
-— Tu voulais commencer à gagner ton propre argent.
-
-Elle lui remit correctement son col.
-
-— Alors nous allons voir si quelqu’un est prêt à te confier du travail.
+— Allons lui demander, dit Hasol.
 
 ---
 
 ## IV. Maître Orven
 
-La boutique d’Orven ne ressemblait pas aux échoppes luxueuses que Hasol avait admirées au marché.
+Une enseigne de bois sombre, gravée d’une rune entourée de trois cercles, se balançait au-dessus de la porte. Derrière la vitrine, les présentoirs laissaient voir le fond de la boutique : un comptoir usé au milieu, des tiroirs, des registres empilés à portée de main. Rien de ce que Hasol avait admiré sur les coussins de velours ne semblait ici plus important que la place laissée pour travailler.
 
-Sa devanture était sobre.
+La clochette tinta. Une voix leur demanda d’attendre, puis un homme aux cheveux grisonnants sortit de l’arrière-boutique en s’essuyant les doigts. Il accueillit la mère de Hasol avec un sourire et contourna son comptoir.
 
-Une enseigne de bois sombre portait le dessin d’une rune entourée de trois cercles.
+— Tu passes enfin autrement qu’entre deux courses.
 
-Derrière la vitrine, plusieurs pierres étaient exposées sur des supports de tailles différentes.
+— Cette fois, c’est Hasol qui vient te voir.
 
-Certaines étaient blanches.
+La jeune fille s’inclina et donna son nom. Orven répéta « Shun » à mi-voix ; son regard passa de la mère à la fille.
 
-D’autres vertes ou bleues.
+— L’Arcaniste runique de l’Académie ? J’ai entendu parler de toi.
 
-Mais ce qui attira surtout l’attention de Hasol fut la quantité de registres empilés derrière le comptoir.
+Hasol resserra sa prise sur la lanière de son sac. Elle aurait voulu savoir ce qu’il avait entendu, puis regretta aussitôt cette pensée. Elle n’était pas venue pour lui faire reprendre chaque jugement.
 
-La porte tinta lorsqu’elles entrèrent.
+— Je cherche du travail, Maître Orven. J’ai étudié la théorie runique pendant trois ans. Je n’ai encore effectué qu’une amélioration jusqu’à +3, avec ma mère, mais je voudrais apprendre à travailler dans un atelier.
 
-— J’arrive !
+Il abaissa les yeux vers sa manche, sans la questionner sur le bandage.
 
-Une voix grave retentit depuis l’arrière-boutique.
+— Pour gagner ta vie, ou pour payer ton équipement de chasse ?
 
-Quelques instants plus tard, un homme aux cheveux grisonnants apparut, les manches retroussées jusqu’aux coudes.
+— Pour commencer, mon équipement.
 
-Ses mains portaient de petites marques anciennes, souvenirs d’années passées à manipuler des outils et des pierres chargées de mana.
+— Au moins, c’est clair.
 
-Lorsqu’il aperçut la mère de Hasol, son visage s’éclaira.
+Il plia le linge qu’il tenait et le posa derrière le comptoir.
 
-— Voilà une visite inattendue !
+— J’ai besoin que les travaux soient suivis même lorsqu’ils n’ont plus rien de nouveau. Tu viendrais pour les commandes, pas pour essayer ce qui te plaît sur mes étagères.
 
-— Bonjour, Orven.
+— Je comprends. Je peux aussi préparer les ressources et tenir les notes.
 
-— Cela fait longtemps.
+— Nous allons voir cela.
 
-Il contourna son comptoir.
+Sa mère demanda s’ils pouvaient poursuivre en privé. Orven leur ouvrit l’atelier et referma la porte derrière elles. Hasol attendit qu’il ait tiré des chaises pour parler de Bénédiction runique, puis du passif découvert au niveau dix. Elle expliqua les paliers rétroactifs, les années de chasse dont les éliminations avaient été prises en compte.
 
-— Et tu n’es pas venue seule, à ce que je vois.
+À l’annonce des dix cercles, il cessa de faire tourner sa plume.
 
-Son regard se posa sur Hasol.
+— Dix, à ton niveau ?
 
-Elle s’inclina immédiatement.
-
-— Bonjour, Maître Orven. Je m’appelle Hasol Shun.
-
-L’homme resta silencieux une seconde.
-
-— Shun…
-
-Il regarda sa mère.
-
-— Ta fille ?
-
-— Oui.
-
-— Celle de l’Académie impériale ?
-
-Hasol sentit ses épaules se raidir.
-
-Elle connaissait trop bien ce changement d’expression.
-
-La curiosité.
-
-Puis la reconnaissance.
-
-Puis, généralement, la déception.
-
-Orven l’observa quelques instants.
-
-— Arcaniste runique, n’est-ce pas ?
-
-— Oui, monsieur.
-
-— Classe légendaire.
-
-— Oui.
-
-Il hocha lentement la tête.
-
-— J’ai entendu parler de toi.
-
-Hasol baissa les yeux.
-
-— Je vois.
-
-Orven sembla remarquer sa réaction.
-
-Il ne posa aucune question sur son renvoi de l’Académie.
-
-À la place, il désigna la table au fond de la boutique.
-
-— Venez vous asseoir. J’imagine que vous n’avez pas fait le déplacement uniquement pour me présenter une future cliente.
-
-Sa mère sourit.
-
-— Tu me connais bien.
-
-Orven écouta leur histoire sans les interrompre.
-
-Hasol lui expliqua sa compétence Bénédiction runique.
-
-Puis sa découverte de Croissance runique.
-
-Lorsqu’elle mentionna ses dix cercles de mana, le marchand releva brusquement la tête.
-
-— Combien ?
-
-Hasol hésita.
-
-— Dix.
-
-— Dix cercles ?
-
-Elle acquiesça.
-
-Orven regarda sa mère.
-
-Celle-ci ne souriait plus.
-
-— C’est pour cela que je voulais te parler en privé.
-
-L’homme resta silencieux.
-
-Puis il se leva et ferma la porte séparant la boutique de l’atelier.
-
-Il revint s’asseoir.
-
-— Montre-moi.
-
-Hasol ouvrit son interface runique et la partagea avec lui.
+Elle partagea son état runique. Cette fois, la main sur sa lanière resta immobile.
 
 <div class="system-window legendary">
   <div class="system-header">✦ ÉTAT RUNIQUE — HASOL SHUN ✦</div>
-  <p><strong>Classe :</strong> Arcaniste runique</p>
-  <p><strong>Rareté :</strong> <span class="legendary-text">Légendaire</span></p>
+  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text">Légendaire</span></p>
   <p><strong>Niveau :</strong> 10</p>
-  <hr>
-  <p><strong>Cercles de mana :</strong> 10</p>
-  <p><strong>Emplacements runiques :</strong> 10</p>
-  <p><strong>Runes équipées :</strong> 10 / 10</p>
-  <hr>
-  <p><strong>Compétences passives :</strong></p>
-  <p>Bénédiction runique</p>
-  <p>Croissance runique</p>
+  <p><strong>Cercles de mana :</strong> 10 — <strong>Emplacements occupés :</strong> 10 / 10</p>
+  <p><strong>Compétences passives :</strong> Bénédiction runique ; Croissance runique</p>
 </div>
 
-Orven lut lentement.
+Orven se pencha pour lire les effets qu’elle lui montrait, puis revint aux emplacements. Il regarda sa mère ; elle acquiesça, sans rien ajouter.
 
-Puis relut.
+— Je n’ai pas rencontré de cas pareil en plus de vingt-cinq ans de métier, dit-il enfin.
 
-— Je travaille avec des runes depuis plus de vingt-cinq ans…
+Hasol sentit revenir cette attente dangereuse, celle qui lui faisait chercher dans un visage la promesse que tout allait changer. Orven posa pourtant la plume sur la table et passa à une question pratique.
 
-Il se frotta le menton.
+— Qui est au courant ?
 
-— Et je n’ai jamais rencontré quelqu’un possédant une configuration pareille à ce niveau.
+— Ma mère. Et vous, maintenant.
 
-Hasol sentit son cœur accélérer.
+— Très bien. Cela restera entre nous ici.
 
-— Vous pensez que c’est utile ?
+Elle referma la fenêtre partagée. Ses caractéristiques magiques restèrent dans son interface privée ; il ne les lui demanda pas.
 
-Orven leva les yeux.
+— Pour l’atelier, reprit-il, ce sont surtout tes connaissances et ta façon de travailler que je dois vérifier. Ton passif ne me dira pas si tu sais suivre une consigne.
 
-— Utile ?
+— Je peux vous montrer.
 
-Il eut un rire bref.
-
-— Dix emplacements représentent un potentiel considérable. Mais je suppose que tu l’as déjà compris.
-
-Elle acquiesça.
-
-— Ma mère m’a aidée à construire mes ensembles.
-
-— Bien.
-
-Il désigna l’interface.
-
-— Et combien de temps as-tu passé à apprendre à combattre avec ce nouvel équipement ?
-
-Hasol baissa les yeux.
-
-— Pas longtemps.
-
-— Voilà.
-
-Il referma la fenêtre partagée.
-
-— Une rune n’apprend pas à son porteur à manier une épée. Et dix runes n’apprennent pas dix fois plus vite.
-
-Hasol eut un sourire embarrassé.
-
-— Je commence à m’en rendre compte.
-
-Orven croisa les bras.
-
-— Alors pourquoi es-tu venue ?
-
-Sa mère la regarda, mais ne répondit pas à sa place.
-
-Hasol prit une inspiration.
-
-— Je cherche du travail.
-
-Le marchand haussa un sourcil.
-
-— Du travail ?
-
-— Je connais la théorie des runes. J’ai appris les bases de leur amélioration. Et je voudrais gagner de quoi financer mes propres équipements.
-
-Orven la contempla.
-
-— Tu veux devenir chasseuse ou artisane ?
-
-La question la surprit.
-
-— Chasseuse.
-
-— Pourtant, tu viens me demander une place dans mon atelier.
-
-Hasol baissa les yeux vers ses mains.
-
-— Parce que j’ai besoin de progresser.
-
-Elle hésita, puis ajouta :
-
-— Et parce que je ne veux plus demander à mes parents de payer chaque fois que j’essaie.
-
-Orven resta silencieux.
-
-Puis il se leva.
-
-— Suis-moi.
+Sa voix était sortie plus vite qu’elle ne l’aurait voulu. Orven repoussa sa chaise, dégagea un coin d’établi et lui fit signe d’approcher. Sa mère resta près de la porte, là où elle ne gênerait pas leurs mouvements.
 
 ---
 
 ## V. La première commande
 
-L’atelier se trouvait derrière la boutique.
+Orven prit sur un plateau une Énergie commune, blanche, deux étoiles, à +0, et la posa devant elle. Hasol consulta son état, vérifia le symbole circulaire et les inscriptions : une principale de PV, aucune secondaire. Elle la plaça au centre du support sans engager d’énergie.
 
-Une longue table occupait le centre de la pièce.
+— Jusqu’à +3 ? demanda-t-elle.
 
-Des outils étaient rangés le long des murs, à côté de boîtes contenant des pierres de mana.
+— C’est l’épreuve. Les ressources sont fournies par l’atelier. Tu m’indiques chaque résultat avant de continuer ; si je te demande d’arrêter, tu t’arrêtes.
 
-Plusieurs runes attendaient sur des plateaux numérotés.
+Il ouvrit une boîte de pierres de mana, puis attira son registre vers lui. Hasol posa son sac sous la chaise. Elle aurait aimé que sa mère ne soit pas là pour la voir échouer ; aussitôt, elle fut soulagée d’entendre le léger froissement de son manteau derrière elle.
 
-Orven en prit une.
+Elle connaissait les étapes. Elle les reprit néanmoins dans l’ordre, en séparant les ressources de la première tentative du reste de la réserve. Sous son poignet, le bord du support était froid.
 
-Une pierre blanche, marquée d’un symbole circulaire.
-
-— Voici une rune Énergie commune, blanche, deux étoiles, à +0.
-
-Hasol l’examina.
-
-Elle possédait une caractéristique principale de Points de vie et aucune secondaire.
-
-— Tu connais la différence entre le rang et le grade ?
-
-— Oui, monsieur. Les étoiles déterminent le rang de la rune et influencent l’échelle de sa caractéristique principale. Le grade détermine notamment combien de secondaires elle possède au départ.
-
-— Et l’amélioration ?
-
-— Elle renforce la principale à chaque réussite. Aux paliers, une secondaire peut apparaître ou être renforcée.
+— Je commence.
 
 Orven acquiesça.
 
-— Très bien.
+La lumière naquit au creux des gravures. Hasol sentit la vibration familière dans ses doigts et accompagna le flux jusqu’à ce que les lignes se rejoignent. Ses épaules étaient montées sans qu’elle s’en aperçoive.
 
-Il posa la rune commune, blanche, deux étoiles, devant elle.
+— Relâche-toi, dit Orven. Tu n’as pas besoin de tenir la table.
 
-— Je reçois régulièrement des commandes de chasseurs qui veulent améliorer des runes communes jusqu’à +3. Ce ne sont pas les travaux les plus prestigieux, mais ils demandent du temps et des ressources.
+Elle desserra sa main libre. L’éclat se stabilisa, puis la notification confirma le passage de +0 à +1 et l’augmentation de la principale. Aucune secondaire : le palier n’était pas encore atteint.
 
-Il désigna un petit lot de pierres de mana.
+Hasol communiqua le résultat. La plume d’Orven gratta le papier.
 
-— Les ressources sont fournies par l’atelier. Tu ne paieras pas les consommables sur tes propres économies.
+— Tu peux poursuivre.
 
-Hasol releva les yeux.
+Elle renouvela les ressources et vérifia le niveau de départ. À +1, la rune Énergie commune, blanche, deux étoiles, gardait la même apparence discrète. Hasol était déjà moins gênée par le regard de l’artisan lorsqu’une vibration irrégulière traversa le support. Elle voulut la corriger ; le flux lui échappa et les inscriptions s’éteignirent.
 
-— Vous me laisseriez essayer ?
-
-— Je te laisserai passer une épreuve.
-
-Il s’assit de l’autre côté de la table.
-
-— Si le résultat me convient, nous discuterons du reste.
-
-Hasol sentit ses mains devenir moites.
-
-Elle repensa à l’Académie.
-
-Aux évaluations.
-
-Aux regards des instructeurs.
-
-Elle ne voulait pas échouer une fois de plus devant quelqu’un qui avait accepté de lui donner sa chance.
-
-Orven poussa doucement la rune commune, blanche, deux étoiles, vers elle.
-
-— Tu peux commencer.
-
-Hasol posa la rune commune, blanche, deux étoiles, au centre du support.
-
-Elle vérifia son identité.
-
-Son grade.
-
-Son rang.
-
-Son amélioration actuelle.
-
-Puis elle plaça les pierres de mana nécessaires à la première tentative.
-
-Elle inspira profondément.
-
-La lumière apparut sous ses doigts.
-
-Un cercle d’inscriptions se dessina autour de la rune commune, blanche, deux étoiles.
-
-Hasol sentit son mana circuler dans la pierre.
-
-La structure vibra.
-
-Puis se stabilisa.
-
-<div class="system-window success">
-  <div class="system-header">✓ AMÉLIORATION RÉUSSIE</div>
-  <h3>Rune Énergie commune (blanche), 2★</h3>
-  <p><strong>Amélioration :</strong> +0 → <span class="upgrade-badge">+1</span></p>
-  <p><strong>Caractéristique principale :</strong> PV augmentés</p>
-  <p><strong>Secondaires :</strong> Aucune</p>
-</div>
-
-Hasol retint un sourire.
-
-Elle avait réussi.
-
-Orven ne manifesta aucune surprise particulière.
-
-— Continue.
-
-Elle prépara la deuxième tentative.
-
-Les pierres de mana commencèrent à luire.
-
-La rune commune, blanche, deux étoiles, répondit.
-
-Puis une vibration irrégulière traversa le support.
-
-Hasol sentit le flux lui échapper.
-
-— Ah…
-
-La lumière s’éteignit.
-
-<div class="system-window monster">
-  <div class="system-header">✦ AMÉLIORATION ÉCHOUÉE ✦</div>
-  <h3>Rune Énergie commune (blanche), 2★</h3>
+<div class="system-window">
+  <div class="system-header">◆ TENTATIVE D’AMÉLIORATION ◆</div>
+  <p><strong>Rune :</strong> Énergie commune (blanche), 2★</p>
   <p><strong>Tentative :</strong> +1 → +2</p>
   <p><strong>Résultat :</strong> Échec</p>
-  <p><strong>État conservé :</strong> <span class="upgrade-badge">+1</span></p>
+  <p><strong>État conservé :</strong> <span class="upgrade-badge">+1</span> — rune intacte</p>
   <p>Les ressources engagées ont été consommées.</p>
 </div>
 
-Hasol baissa les mains.
+Le silence qui suivit lui sembla trop long. Elle regarda les pierres ternies, puis la main d’Orven, dont la plume n’avait pas encore bougé.
 
-Son estomac se contracta.
+— Je suis désolée.
 
-— Je suis désolée…
+Il lui désigna le support.
 
-Orven regarda la rune commune, blanche, deux étoiles.
+— Vérifie d’abord l’état.
 
-Puis les pierres de mana devenues ternes.
+Hasol se pencha. Son cœur battait jusque dans sa gorge, mais les lignes de l’interface étaient nettes. Elle les lut, confirma le maintien à +1, contrôla la principale et l’absence de secondaire. Rien n’avait changé.
 
-— Pourquoi ?
+Orven nota l’échec et les ressources utilisées.
 
-Elle cligna des yeux.
+— C’était prévu dans les moyens de l’épreuve. Tu ne dépasses pas ce que je t’autorise, tu ne caches pas une tentative, et tu me demandes avant de reprendre dans une autre boîte. Pour celle-ci, tu peux recommencer.
 
-— Pardon ?
+Elle hocha la tête. Il avait déjà rapproché le registre de sa place initiale ; elle n’y lut ni déception ni indulgence particulière. Il attendait son prochain geste.
 
-— Pourquoi t’excuses-tu ?
+Hasol écarta les consommables épuisés. Elle prit le temps de retrouver la position de ses mains, sans chercher à rendre la tentative plus rapide pour effacer la précédente. La chaleur revint sous ses doigts. Lorsque la vibration changea, elle n’essaya pas de la brusquer ; elle maintint son attention sur les inscriptions jusqu’à leur stabilisation.
 
-— J’ai échoué.
+Cette fois, le passage de +1 à +2 réussit. La principale de PV augmenta encore. Hasol annonça le résultat et attendit l’accord d’Orven avant de préparer la suite.
 
-— Je l’ai remarqué.
+À +3, la première secondaire devait apparaître. Elle savait la règle ; cela ne l’empêcha pas d’observer avec une impatience presque douloureuse les lignes qui s’illuminaient. Une goutte de sueur glissa près de son oreille. Elle la laissa descendre.
 
-Il prit une plume et nota quelque chose dans son registre.
+L’éclat se resserra au bord de la pierre, puis prit une teinte verte.
 
-— La rune commune, blanche, deux étoiles, est intacte. L’amélioration est restée à +1. Les ressources ont été consommées. C’est un échec, pas une catastrophe.
-
-Hasol resta silencieuse.
-
-Orven releva les yeux.
-
-— Tu pensais réussir toutes tes tentatives ?
-
-— Non, monsieur.
-
-— Alors ne fais pas cette tête.
-
-Il reposa sa plume.
-
-— Le travail d’un artisan ne consiste pas à prétendre que les échecs n’existent pas. Il consiste à les prévoir, à en tenir compte et à continuer sans perdre sa méthode.
-
-Hasol regarda la rune commune, blanche, deux étoiles.
-
-Puis les pierres de mana restantes.
-
-— Je peux recommencer ?
-
-— C’est précisément pour cela qu’elles sont là.
-
-Elle inspira.
-
-Cette fois, elle prit davantage de temps pour stabiliser son flux.
-
-La lumière revint.
-
-Plus douce.
-
-Plus régulière.
-
-Et la rune commune, blanche, deux étoiles, répondit.
-
-<div class="system-window success">
-  <div class="system-header">✓ AMÉLIORATION RÉUSSIE</div>
-  <h3>Rune Énergie commune (blanche), 2★</h3>
-  <p><strong>Amélioration :</strong> +1 → <span class="upgrade-badge">+2</span></p>
-  <p><strong>Caractéristique principale :</strong> PV augmentés</p>
-  <p><strong>Secondaires :</strong> Aucune</p>
-</div>
-
-Hasol laissa échapper un souffle.
-
-Orven hocha la tête.
-
-— Encore une.
-
-Le dernier palier.
-
-+3.
-
-Hasol savait ce qu’il représentait.
-
-Une rune commune blanche, dépourvue de secondaire à l’origine, pouvait recevoir sa première caractéristique secondaire.
-
-Elle posa les mains de chaque côté du support.
-
-Puis fit circuler son mana.
-
-Pendant quelques secondes, rien ne se produisit.
-
-La rune commune, blanche, deux étoiles, semblait absorber toute l’énergie sans réagir.
-
-Hasol sentit une goutte de sueur glisser le long de sa tempe.
-
-Elle maintint le flux.
-
-Sans le forcer.
-
-Sans chercher à aller plus vite.
-
-Puis les inscriptions de la pierre s’illuminèrent.
-
-Un nouvel éclat apparut sur sa surface.
-
-Vert.
-
-Hasol ouvrit de grands yeux.
+Hasol retira lentement les mains.
 
 <div class="rune-window success">
-  <div class="system-header">✦ AMÉLIORATION RÉUSSIE ✦</div>
+  <div class="system-header">✓ AMÉLIORATION RÉUSSIE</div>
   <h3>Rune Énergie peu commune (verte), 2★ <span class="upgrade-badge">+3</span></h3>
-  <p><strong>Rang :</strong> 2★</p>
-  <p><strong>Grade d'origine :</strong> Commun — Blanc</p>
-  <p><strong>Grade actuel :</strong> <span class="success-text">Peu commun — Vert</span></p>
-  <hr>
-  <p><strong>Caractéristique principale :</strong></p>
-  <p class="rune-bonus">PV augmentés</p>
-  <p><strong>Nouvelle caractéristique secondaire :</strong></p>
-  <p class="rune-bonus">Défense augmentée</p>
-  <p><strong>Secondaires :</strong> 1 / 4</p>
-  <p><strong>Ensemble :</strong> Énergie</p>
+  <p><strong>Dernier passage :</strong> +2 → +3</p>
+  <p><strong>Grade d’origine :</strong> Commun — Blanc</p>
+  <p><strong>Grade actuel :</strong> Peu commun — Vert</p>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV renforcés</span></p>
+  <p><strong>Première secondaire apparue :</strong> <span class="rune-bonus">Défense</span></p>
+  <p><strong>Nombre de secondaires :</strong> 1 / 4 — rang inchangé</p>
 </div>
 
-Hasol resta immobile.
-
-La pierre blanche avait désormais une lueur verte.
-
-Une nouvelle inscription était apparue près de son bord.
-
-Une caractéristique secondaire de Défense.
-
-Elle l’avait obtenue elle-même.
-
-— J’ai réussi…
-
-Orven se pencha sur la rune peu commune, verte, deux étoiles.
-
-Il l’examina attentivement.
-
-Puis consulta le registre.
-
-— Une réussite à +1. Un échec à +2, puis deux réussites jusqu’à +3.
-
-Il vérifia l’état de la pierre.
-
-— Pas de dégradation visible. La nouvelle secondaire est correctement stabilisée.
-
-Hasol attendit.
-
-Orven posa la rune peu commune, verte, deux étoiles, sur un linge propre.
+Elle aurait voulu tendre immédiatement la pierre à sa mère. Elle la laissa sur son support et se recula pour qu’Orven l’examine. Il suivit la nouvelle inscription avec sa lentille, compara l’état final à ses notes et posa l’ensemble sur un linge propre.
 
 — Le travail est acceptable.
 
-Elle cligna des yeux.
+Hasol attendit une suite. Il n’en ajouta pas.
 
-— Acceptable ?
+— Donc… j’ai terminé l’épreuve ?
 
-— Tu préfères que je dise extraordinaire ?
+— Oui. Maintenant, nous allons regarder ce que tu as fait.
 
-Hasol rougit.
+Il tourna le registre vers elle. Elle déchiffra les quatre tentatives : réussite à +1, échec au passage +2, réussite à +2, réussite à +3. Les ressources de la tentative ratée occupaient leur ligne comme les autres. Hasol posa le doigt près de cette inscription, puis le retira pour ne pas toucher l’encre fraîche.
 
-— Non, monsieur !
-
-Il eut un sourire presque imperceptible.
-
-— Alors acceptable me semble être un bon début.
-
-Sa mère, restée silencieuse près de la porte, détourna légèrement le visage.
-
-Hasol était presque certaine qu’elle cachait un sourire.
+Derrière elle, sa mère avait cessé de retenir son sourire.
 
 ---
 
 ## VI. Le poids des premières pièces
 
-Orven ne lui proposa pas immédiatement un emploi définitif.
+Orven lui fit parcourir une fiche de commande. À l’identité et à l’état de départ s’ajoutaient les instructions, les ressources prévues et la limite autorisée. Il lui montra où reporter chaque tentative, puis comment rapprocher la fiche du bon plateau.
 
-Il lui montra d’abord comment vérifier les commandes.
+— Il y a des pierres à l’atelier et d’autres confiées par des clients. Tu vérifies à qui appartient ce que tu prends, y compris les consommables. Une boîte ouverte n’est pas une réserve où puiser librement.
 
-Comment identifier une rune avant toute intervention.
+Hasol suivait les lignes du registre. Certaines avaient été corrigées ; les anciennes indications restaient lisibles sous les traits. Ici, on n’arrachait pas une page parce qu’elle contenait une erreur.
 
-Comment distinguer une pierre appartenant à l’atelier d’une rune confiée par un client.
+— Et si les ressources sont épuisées avant le palier demandé ?
 
-Il insista particulièrement sur ce dernier point.
+— Tu m’appelles. Tu n’en engages pas d’autres sans accord.
 
-— Une rune que tu possèdes, tu peux décider de l’améliorer ou de la laisser de côté. Une rune confiée par un client ne t’appartient pas.
+Il posa la fiche sur son plateau et referma le registre de l’épreuve. La rune Énergie peu commune, verte, deux étoiles, à +3, resta sur le linge, avec ses notes. Hasol ramassa les consommables épuisés et les mit à l’endroit qu’il lui indiquait. Elle essuya ensuite le support, en prenant garde à son bras.
 
-Hasol acquiesça.
+Orven attendit qu’elle ait terminé.
 
-— Je comprends.
+— Si tu es toujours intéressée, je te prends à l’essai. Nous commencerons par les travaux simples, sous ma supervision. Pas de commande plus difficile parce que tu te sens en confiance.
 
-— Non, tu connais la phrase. Tu comprendras vraiment le jour où quelqu’un te confiera une pièce qu’il a mis des années à obtenir.
+Hasol posa le linge.
 
-Il posa son registre devant elle.
+— Je peux venir demain.
 
-— Chaque tentative doit être consignée. Même celles qui échouent.
+— Demain, alors. Avec ton carnet. Et un bras qui te permette de travailler sans arracher ton pansement.
 
-Hasol parcourut les colonnes.
+— Je vérifierai cela, dit sa mère.
 
-Nom de la rune.
+— Je peux aussi le vérifier moi-même, protesta Hasol.
 
-Rang.
+Orven jeta un coup d’œil au bandage.
 
-Grade initial.
+— Ce sera encore mieux.
 
-Amélioration de départ.
+Elle ne sut pas quoi répondre ; sa mère eut un rire qu’elle n’essaya plus de cacher.
 
-Ressources utilisées.
+De retour dans la boutique, Hasol remit son sac à l’épaule. Elle cherchait comment remercier l’artisan sans lui promettre d’être une apprentie parfaite lorsqu’il ouvrit un tiroir et déposa une petite bourse sur le comptoir.
 
-Résultat.
+— Pour ton travail.
 
-État final.
+Elle ne la prit pas tout de suite.
 
-Elle observa la quantité de lignes.
+— Mais c’était une épreuve.
 
-— Vous notez vraiment tout ?
-
-— Depuis longtemps.
-
-— Cela doit prendre énormément de temps.
-
-— Moins que de chercher pendant trois jours pourquoi une commande n’a pas été terminée.
-
-Elle eut un petit rire.
-
-Orven lui montra ensuite plusieurs commandes simples.
-
-Des runes communes blanches de différents ensembles, destinées à être améliorées jusqu’à +3.
-
-— Si tu acceptes de travailler ici, tu commenceras par celles-ci.
-
-Hasol releva brusquement les yeux.
-
-— Vous m’acceptez ?
-
-— À l’essai.
-
-Il leva un doigt.
-
-— Tu suivras mes consignes. Tu ne toucheras pas aux commandes plus difficiles sans autorisation. Et tu ne laisseras pas ton envie de progresser transformer mon atelier en champ de bataille.
-
-Hasol se redressa.
-
-— Oui, monsieur !
-
-— Tu viendras également avec un bras correctement soigné.
-
-Elle baissa les yeux vers son bandage.
-
-— Oui…
-
-— Et tu ne travailleras pas jusqu’à l’épuisement.
-
-Cette fois, sa mère intervint.
-
-— Je soutiens entièrement cette condition.
-
-Hasol regarda alternativement les deux adultes.
-
-— Vous vous êtes mis d’accord avant de venir ?
-
-Orven croisa les bras.
-
-— Je commence à comprendre pourquoi ta mère m’a demandé de te surveiller.
-
-— Maman !
-
-Sa mère éclata de rire.
-
-Pendant quelques instants, l’atmosphère de l’atelier sembla plus légère.
-
-Avant leur départ, Orven ouvrit un petit tiroir derrière son comptoir.
-
-Il en sortit une bourse contenant quelques pièces.
-
-Puis la posa devant Hasol.
-
-Elle la regarda sans comprendre.
-
-— Qu’est-ce que c’est ?
-
-— Ton paiement.
-
-Hasol resta figée.
-
-— Pour… la rune peu commune, verte, deux étoiles ?
-
-— Pour le travail effectué.
-
-— Mais vous m’avez dit que c’était une épreuve.
-
-— C’en était une.
-
-Orven referma le tiroir.
+Orven repoussa le tiroir de la hanche.
 
 — Cela ne signifie pas que ton temps ne vaut rien.
 
-Hasol prit lentement la bourse.
+Hasol regarda la bourse. À l’Académie, le mot *épreuve* signifiait qu’on attendait un résultat d’elle. Elle n’avait pas pensé qu’il pût se terminer par ce geste, une somme posée devant elle plutôt qu’une appréciation à emporter.
 
-Elle en sentit le poids dans sa paume.
-
-Ce n’était pas une fortune.
-
-Elle le comprit immédiatement en comptant les pièces.
-
-Elle ne pourrait pas acheter la rune Fatal peu commune, verte, trois étoiles, du marché.
-
-Elle ne pourrait pas non plus financer toutes les améliorations dont elle rêvait.
-
-Mais cet argent était différent de celui que son père lui avait donné pendant son enfance.
-
-Différent des ressources que sa mère avait sorties de ses réserves.
-
-Elle venait de le gagner.
-
-Elle-même.
-
-Grâce à une compétence qu’elle avait considérée pendant trois ans comme inutile.
-
-Sa gorge se serra.
+Elle tendit la main. Le cuir gardait un pli sous ses doigts ; à travers, elle sentait le bord des pièces.
 
 — Merci, Maître Orven.
 
-L’homme acquiesça.
+— À demain, Hasol.
 
-— Remercie-moi en arrivant à l’heure lorsque tu commenceras.
+Elle franchit le seuil avec sa mère. Le soleil descendait derrière les toits, et le marché commençait à rentrer ses caisses. Devant une échoppe, un apprenti balayait la poussière autour de ses chaussures.
 
-Hasol sourit.
+Hasol ouvrit la bourse à l’abri de son sac. Elle en vérifia le contenu, compta les pièces, puis refit le nœud avec soin. Ce salaire ne lui permettrait pas d’acheter la Fatal peu commune, verte, trois étoiles, à +0, admirée le matin. Elle ne retournerait pas non plus remplir d’un coup ses réserves de pierres de mana.
 
-— Je serai là.
+Elle marcha pourtant quelques pas avant de ranger la bourse, simplement pour en sentir encore le poids.
 
-— Et n’oublie pas ton carnet.
+— Je crois que je l’ai remercié trop bas, dit-elle.
 
-Elle regarda le registre.
+Sa mère tourna la tête.
 
-— Vous voulez que je note mes améliorations ?
+— Il t’a entendue.
 
-— Tes améliorations, tes erreurs et les questions que tu n’auras pas osé poser.
+— Je voulais dire davantage.
 
-Il lui adressa un regard sérieux.
+— Tu le reverras demain.
 
-— Surtout les questions.
+Hasol sourit. Demain, il ne s’agirait plus de demander si elle pouvait essayer. Elle aurait une heure d’arrivée, des consignes, une place à l’établi qu’on lui avait laissé nettoyer.
 
-Hasol inclina la tête.
-
-— Compris.
-
-Sur le chemin du retour, sa mère marchait à côté d’elle.
-
-Le soleil descendait lentement derrière les toits de la capitale.
-
-Hasol tenait toujours sa bourse.
-
-Elle l’avait rangée dans son sac à plusieurs reprises, avant de la ressortir presque aussitôt.
-
-Sa mère finit par sourire.
-
-— Tu comptes la regarder jusqu’à la maison ?
-
-Hasol rougit.
-
-— Peut-être.
-
-— Tu as pourtant déjà eu de l’argent de poche.
-
-— Ce n’est pas pareil.
-
-Sa mère tourna légèrement la tête.
-
-— Ah bon ?
-
-Hasol contempla les pièces.
-
-— Celui-là, je l’ai gagné.
-
-Elle resta silencieuse un instant.
-
-Puis ajouta :
-
-— Je croyais que ma classe ne servait à rien.
-
-Sa mère ne répondit pas immédiatement.
-
-Hasol poursuivit :
-
-— À l’Académie, tout le monde me demandait pourquoi je ne pouvais pas lancer de sorts. Pourquoi je n’avais pas de compétence offensive. Pourquoi je progressais si lentement.
-
-Elle referma sa main autour de la bourse.
-
-— Aujourd’hui, Maître Orven ne m’a posé aucune de ces questions.
-
-Sa mère lui adressa un regard tendre.
-
-— Il t’a demandé ce que tu savais faire.
-
-Hasol acquiesça.
-
-— Oui.
-
-Elle sentit un sourire naître sur ses lèvres.
-
-— Et pour une fois, j’avais quelque chose à lui montrer.
-
-Sa mère posa doucement une main sur son épaule.
-
-Elles poursuivirent leur chemin sans parler.
-
-Hasol ne savait pas encore si elle deviendrait une grande artisane.
-
-Elle ne savait même pas si elle en avait envie.
-
-Son rêve restait le même.
-
-Explorer les donjons.
-
-Affronter des monstres.
-
-Devenir une chasseuse capable de protéger ses compagnons.
-
-Mais elle commençait à comprendre que le chemin vers ce rêve ne ressemblerait peut-être pas à celui des autres.
-
-Et, pour la première fois, cette idée ne lui faisait plus aussi peur.
+Quand la rue s’élargit, elle prit le bras de sa mère du côté où cela ne tirait pas sur la griffure. Elles continuèrent ainsi jusqu’à la maison, sans chercher à remplir le silence.
 
 ---
 
 ## VII. Ce qui mérite d’être gagné
 
-La nuit était tombée lorsque Hasol retrouva sa chambre.
+Dans sa chambre, Hasol posa l’épée contre le mur et commença par sortir son carnet. À la page suivante, elle recopia brièvement le suivi de l’épreuve : Énergie commune blanche, deux étoiles, de +0 à +3 ; un échec au passage +2 ; grade final peu commun vert, deux étoiles, première secondaire de Défense.
 
-Elle posa son épée contre le mur.
+Elle n’ajouta pas de conclusion. Sous les résultats, elle nota l’heure convenue avec Orven et souligna la consigne sur les ressources autorisées. Puis elle glissa le carnet dans son sac pour ne pas l’oublier le matin.
 
-Puis s’assit à son bureau.
+La fatigue la rattrapa lorsqu’elle se pencha pour retirer ses bottes. Son avant-bras protesta ; elle termina plus lentement, assise sur le bord du lit. Sous la manche, le nouveau bandage était resté propre. Elle laissa son épée à sa place au lieu de reprendre les déplacements dans la chambre.
 
-Son carnet d’entraînement était toujours ouvert à la page du matin.
+Elle avait encore en tête la carte des chasseurs. Elle sortit un feuillet et y inscrivit le nom des Collines de Braise, les gobelins rouges de niveau onze, la route qu’on lui avait montrée. À côté, elle écrivit : *Pas encore.* Le feuillet rejoignit le carnet, pas ses provisions de chasse.
 
-Temps de résistance : 1 min 18 s.
+Avant de ranger sa bourse, elle ouvrit son équipement. Toujours niveau dix, dix cercles et dix emplacements occupés. Les deux cadeaux de son père, Fatal et Gardien rares, bleues, six étoiles, à +6, n’avaient pas changé. La Fatal maternelle rare, bleue, trois étoiles, restait à +3 ; les sept autres cadeaux trois étoiles, peu communs verts ou rares bleus, à +0. Aucun nouvel éclat ne s’était ajouté à ceux de la veille.
 
-Elle relut la phrase.
+Hasol referma l’interface. Ce soir, ce n’était pas là qu’elle avait envie de regarder.
 
-Puis tourna la page.
+Elle vida les pièces sur le bureau. Leur tintement lui parut trop sonore dans la maison assoupie. Elle en retint une qui roulait vers le bord, la ramena sous la lampe et la fit tourner entre ses doigts. Une pièce ordinaire, avec une marque près de la tranche.
 
-Elle inscrivit soigneusement :
+Elle imagina la montrer à son père. Il aurait peut-être souri ; il aurait peut-être demandé ce qu’elle comptait gagner ensuite. Elle ne trouva pas les mots qu’elle aurait employés pour lui raconter l’après-midi, et resta un moment le coude posé sur le bureau, la pièce au creux de la main.
 
-Premier travail chez Maître Orven.
+Puis elle rangea l’argent dans la bourse, sauf celle-là.
 
-En dessous, elle nota :
+Demain, elle retournerait chez Orven pour sa première journée complète. Elle avait peur de mal lire une commande, de chercher trop longtemps un outil, de laisser le silence s’installer après une question dont elle connaissait la réponse. Cette peur n’avait pas disparu avec le paiement. Elle prépara néanmoins une tenue qui ne gênerait pas son bras et vérifia une dernière fois que son carnet était dans le sac.
 
-Rune Énergie commune (blanche), 2★, +0 → +3, devenue peu commune (verte), 2★, à +3.
+En passant près de l’épée, elle redressa le fourreau contre le mur. Elle voulait toujours la reprendre, sortir de la capitale et voir au-delà des sentiers qu’elle connaissait. Pour le moment, la route du lendemain passait par la place des Artisans.
 
-Une tentative échouée au passage +2.
-
-Première secondaire obtenue : Défense.
-
-Elle réfléchit quelques instants.
-
-Puis ajouta :
-
-Ne pas confondre un échec avec la fin d’un travail.
-
-Hasol contempla cette phrase.
-
-Elle lui rappela étrangement ce qu’elle avait écrit après son entraînement contre le mannequin.
-
-Elle eut un petit rire.
-
-— On dirait que tout le monde essaie de m’apprendre la même chose…
-
-Elle posa sa plume.
-
-Puis ouvrit son interface d’équipement.
-
-Dix cercles.
-
-Dix runes équipées.
-
-Les deux cadeaux rares, bleus, six étoiles, +6, de son père occupaient toujours leurs emplacements.
-
-La Fatal rare, bleue, six étoiles, +6.
-
-La Gardien rare, bleue, six étoiles, +6.
-
-Autour d’elles se trouvaient les huit runes trois étoiles, peu communes vertes ou rares bleues, offertes par sa mère.
-
-Parmi celles-ci, la Fatal rare, bleue, trois étoiles, +3, représentait sa première amélioration personnelle.
-
-Les sept autres, trois étoiles, peu communes vertes ou rares bleues, attendaient encore à +0.
-
-Hasol contempla l’ensemble.
-
-Quatre Fatal.
-
-Quatre Gardien.
-
-Deux Énergie.
-
-Un ensemble Fatal complet.
-
-Deux ensembles Gardien complets.
-
-Un ensemble Énergie complet.
-
-Elle possédait déjà davantage de possibilités qu’elle n’aurait osé l’espérer quelques jours auparavant.
-
-Mais il restait tellement de travail.
-
-Améliorer ses runes.
-
-Apprendre à manier son épée avec son nouvel équipement.
-
-Gagner suffisamment d’argent pour acheter des pierres de mana.
-
-Comprendre comment survivre face à des monstres plus dangereux.
-
-Elle pensa aux Collines de Braise.
-
-Aux gobelins rouges.
-
-À leur niveau onze.
-
-Puis à son bras encore douloureux.
-
-Elle ouvrit son carnet à une nouvelle page.
-
-Écrivit :
-
-Collines de Braise — gobelins rouges, niveau 11.
-
-Elle hésita.
-
-Puis souligna les mots suivants :
-
-Pas encore.
-
-Hasol contempla cette décision.
-
-Quelques jours plus tôt, elle aurait peut-être considéré cette prudence comme une preuve de faiblesse.
-
-Aujourd’hui, elle se souvenait des crocs du loup, de la chute provoquée par le mannequin et du regard inquiet de sa mère.
-
-Elle n’avait pas besoin de se précipiter vers un danger qu’elle ne comprenait pas.
-
-Elle avait besoin de se préparer.
-
-Elle rangea sa bourse dans un petit coffret.
-
-Les pièces tintèrent doucement contre le bois.
-
-Un son modeste.
-
-Presque insignifiant.
-
-Mais Hasol sourit.
-
-Pendant trois ans, elle avait attendu qu’une compétence vienne enfin changer sa vie.
-
-Elle avait espéré qu’un nouveau niveau lui offrirait une puissance capable de faire taire les moqueries.
-
-Elle avait voulu rattraper ses camarades.
-
-Prouver à son père qu’il n’avait pas eu tort de croire en elle.
-
-Aujourd’hui, elle n’avait gagné aucun niveau.
-
-Elle n’avait vaincu aucun monstre.
-
-Elle n’avait même pas réussi à battre le mannequin de combat.
-
-Pourtant, quelque chose avait avancé.
-
-Trente-six secondes supplémentaires.
-
-Une nouvelle méthode d’entraînement.
-
-Un artisan prêt à lui confier du travail.
-
-Et quelques pièces gagnées de ses propres mains.
-
-Hasol ferma son carnet.
-
-Elle regarda son épée.
-
-Puis ses mains.
-
-— Demain, on recommence.
-
-Sa voix était calme.
-
-Il n’y avait plus l’urgence désespérée qui l’avait poussée, quelques nuits auparavant, à quitter sa chambre pour tuer un dernier slime.
-
-Elle voulait toujours devenir forte.
-
-Peut-être plus que jamais.
-
-Mais elle commençait enfin à comprendre que la force ne se trouvait pas uniquement dans les chiffres d’une fenêtre.
-
-Elle se construisait aussi dans les gestes répétés.
-
-Les erreurs reconnues.
-
-Les décisions difficiles.
-
-Et les efforts que personne ne voyait.
-
-Hasol souffla la bougie.
-
-Dans l’obscurité, elle sentit la présence familière de ses dix cercles de mana.
-
-Ils ne lui promettaient aucune victoire.
-
-Ils lui offraient simplement la possibilité de continuer.
-
-Et, ce soir-là, cela lui suffisait.
+Hasol posa la pièce sur son chevet. De son lit, elle pouvait encore en voir le reflet avant de souffler la lumière.
 
 ---
 
@@ -5879,2760 +4795,675 @@ Et, ce soir-là, cela lui suffisait.
 
 ## I. Les mains d’une apprentie
 
-La première pièce que Hasol avait gagnée par son propre travail reposait sur sa table de chevet.
+Au réveil, Hasol chercha la pièce sur son chevet avant même de regarder l’heure. Le métal avait perdu le reflet de la lampe ; une lumière grise en soulignait maintenant la tranche. Elle la prit, retrouva du pouce la petite marque qu’elle avait remarquée la veille, puis la rangea avec le reste de son salaire.
 
-Elle l’avait sortie de sa bourse la veille, avant de se coucher, simplement pour la regarder.
+Son sac attendait près de la porte. Elle en vérifia le contenu, en sortit le carnet pour s’assurer qu’une plume n’avait pas coulé contre les pages et le remit à sa place. Il lui restait assez de temps pour déjeuner sans courir. Cette avance lui plaisait, bien qu’elle ne sût pas encore quoi en faire : elle fit deux fois le tour de sa chambre avant de s’habiller.
 
-Ce n’était pourtant qu’une pièce ordinaire.
+La manche accrocha légèrement la peau de son avant-bras. La potion appliquée après la chasse et les soins de sa mère avaient refermé la griffure, mais elle la sentait encore lorsqu’elle étendait le coude. Hasol termina le mouvement plus lentement. Elle avait laissé son épée contre le mur ; son regard y revint pendant qu’elle attachait ses cheveux.
 
-Elle en avait tenu des centaines entre ses doigts au cours de sa vie. Fille d’une famille de marchands prospères, elle n’avait jamais eu à s’inquiéter du prix d’un repas ou de l’usure de ses vêtements.
+Elle aurait pu emporter ses affaires et décider plus tard d’un entraînement. Elle souleva pourtant son sac sans y ajouter le nécessaire. La veille, le bras avait tiré après le mannequin. Aujourd’hui, elle aurait besoin de garder les mains sûres pendant plusieurs heures.
 
-Mais celle-ci était différente.
+Dans la rue, les premiers chariots obligeaient déjà les passants à se ranger. Hasol longea un mur tandis qu’un homme soulevait les volets de sa boutique. Un volet lui échappa, claqua contre la façade et lui arracha un juron. Elle lui retint le coin le temps qu’il retrouve sa prise, reçut un remerciement distrait et poursuivit son chemin. Au marché, les étalages étaient encore à moitié couverts ; elle passa devant sans s’arrêter. Elle connaissait désormais un peu mieux le prix de ce qu’elle désirait, mais ce matin elle avait surtout une heure à respecter.
 
-Elle n’avait pas été glissée dans sa main par son père, ni déposée dans sa bourse par sa mère.
-
-Elle l’avait gagnée en travaillant.
-
-Hasol resta quelques instants assise sur le bord de son lit, la pièce posée au creux de sa paume.
-
-Puis elle referma les doigts autour du métal.
-
-Je vais pouvoir acheter mes propres pierres de mana.
-
-La pensée lui arracha un sourire.
-
-Elle avait encore beaucoup de chemin à parcourir avant de pouvoir financer toutes les améliorations dont elle rêvait. Une poignée de pièces ne suffirait certainement pas à transformer ses dix runes en équipement exceptionnel.
-
-Mais c’était un commencement.
-
-Et, après trois années passées à avoir l’impression de n’avancer nulle part, un commencement lui semblait déjà précieux.
-
-Elle rangea soigneusement la pièce dans sa bourse, puis entreprit de s’habiller.
-
-Son bras portait encore les traces de sa rencontre avec les loups des Crocs Gris. La potion utilisée après le combat et les soins de sa mère avaient refermé la griffure, mais la peau restait sensible lorsqu’elle étendait complètement le coude.
-
-Elle fit quelques mouvements prudents.
-
-La douleur était supportable.
-
-Je pourrai m’entraîner ce soir.
-
-Elle hésita.
-
-Puis se souvint des paroles de sa mère.
-
-« Tu n’as pas besoin de rattraper trois années en une seule journée. »
-
-Hasol baissa les yeux vers son bras.
-
-— D’accord…, murmura-t-elle.
-
-Elle renonça à emporter son équipement d’entraînement.
-
-Pour aujourd’hui, elle se consacrerait à l’atelier.
-
-La capitale s’éveillait lorsqu’elle quitta la demeure familiale.
-
-Les rues étaient encore fraîches. Des marchands soulevaient les volets de leurs boutiques, tandis que les premiers chariots chargés de marchandises traversaient les grandes avenues.
-
-Hasol avançait d’un pas rapide.
-
-Elle connaissait déjà le chemin menant à la boutique de Maître Orven, mais elle regardait malgré elle les enseignes au passage.
-
-Une armurerie.
-
-Un marchand de potions.
-
-Une échoppe proposant des composants de monstres.
-
-Et, un peu plus loin, une vitrine derrière laquelle étaient exposées plusieurs runes.
-
-Elle ralentit.
-
-Parmi les pierres présentées, certaines portaient de magnifiques inscriptions.
-
-Hasol s’arrêta devant une rune dont l’éclat bleuté attirait particulièrement son regard.
-
-Elle examina l’étiquette.
-
-Puis le prix.
-
-Son sourire disparut.
-
-Un jour…
-
-Elle reprit sa marche.
-
-Quelques minutes plus tard, elle arriva devant l’atelier d’Orven.
-
-Une petite clochette tinta lorsqu’elle poussa la porte.
-
-L’odeur familière de pierre chauffée et de bois ciré l’accueillit immédiatement.
+La clochette d’Orven tinta dans une boutique presque silencieuse. Une odeur de bois ciré et de pierre chauffée venait de l’arrière-boutique.
 
 — Bonjour, Maître Orven !
 
-Aucune réponse.
-
-Hasol referma doucement la porte.
-
-— Maître Orven ?
-
 — Derrière.
 
-La voix provenait de l’arrière-boutique.
+Il avait dégagé un espace sur l’établi où elle s’était installée pour l’épreuve. À côté, des boîtes et leurs fiches formaient une rangée qu’un registre ouvert venait interrompre. Orven rapprochait une feuille de la fenêtre ; il la posa lorsqu’elle entra.
 
-Elle s’y dirigea.
+— Le tablier est au crochet. Tu peux mettre ton sac dessous.
 
-Orven se tenait devant un grand établi couvert de registres et de boîtes de rangement. Il examinait une rune à travers une petite lentille cerclée de cuivre.
+Hasol noua les liens dans son dos. Le tissu était plus large qu’elle ne l’avait imaginé ; elle dut en rabattre un côté pour ne pas le prendre sous son coude.
 
-Sans lever les yeux, il désigna un tablier suspendu au mur.
+— Il faudra que je l’ajuste.
 
-— Mets ça.
+— Tant que tu ne décides pas d’ajuster les commandes avec, cela me va.
 
-Hasol obéit immédiatement.
+Elle leva les yeux. Orven avait déjà repris sa fiche, mais le coin de sa bouche bougeait.
 
-— Vous avez déjà commencé ?
+— Ton bras ?
 
-— Depuis un moment.
+— La peau est refermée. Ça tire encore si je tends trop le coude.
 
-Elle regarda les commandes disposées sur la table.
+Il déplaça vers elle un plateau vide. Hasol le prit à deux mains, le posa sur sa place de travail et essaya la position de ses avant-bras. En rapprochant sa chaise, elle pouvait atteindre le support sans étirer la blessure.
 
-— Je peux vous aider ?
+— Comme cela, je suis bien.
 
-— C’est précisément pour cela que je t’ai engagée.
+— Signale-le si ça change.
 
-Hasol rougit.
+Elle posa le carnet au sec, loin du récipient où elle rincerait ses doigts, puis regarda les boîtes.
 
-— Oui, monsieur…
+— Je commence par les commandes à rendre aujourd’hui ?
 
-Orven posa enfin sa lentille.
+Orven lui indiqua la première fiche.
 
-Son regard descendit vers le bras de la jeune fille.
+— Vérifie d’abord ce qui est arrivé. Ensuite, nous répartirons le travail.
 
-— Ta blessure ?
-
-— Elle guérit.
-
-— Elle te gêne pour manipuler les pierres ?
-
-— Non.
-
-Il lui tendit une petite rune.
-
-— Alors montre-moi.
-
-Hasol la prit avec précaution.
-
-Elle la fit tourner entre ses doigts, examina les inscriptions et la reposa sur le support qu’il lui indiquait.
-
-Orven observa son geste.
-
-— Bien. Mais ne force pas sur ton bras pour me prouver que tu peux travailler.
-
-Elle baissa les yeux.
-
-— Compris.
-
-Il désigna trois boîtes.
-
-— Commence par vérifier leur contenu. Ensuite, nous parlerons de ce que tu vas réellement faire ici.
-
-Hasol se redressa.
-
-— Oui, Maître Orven !
-
-Elle s’approcha de l’établi.
-
-Pour la première fois, elle ne venait pas dans cette boutique comme une cliente qui espérait trouver une rune à sa portée.
-
-Elle y venait comme une apprentie.
-
-Et cette différence lui donnait l’impression que le monde venait de s’agrandir.
+Hasol rapprocha la feuille de son plateau. Elle avait craint de rester plantée derrière lui, à attendre qu’on lui trouve une occupation. Le bruit des pages qu’elle tournait l’aida à quitter cette inquiétude. Au bout de quelques instants, elle dut repousser une mèche derrière son oreille et se pencher pour déchiffrer une annotation : elle avait déjà oublié de surveiller l’expression de son employeur.
 
 ---
 
 ## II. Ce que la pierre exige
 
-Les trois boîtes contenaient des commandes confiées par des clients.
+Les commandes ne se ressemblaient pas. Certaines étaient accompagnées de longues indications ; d’autres tenaient en quelques lignes, avec un montant encadré et une heure de restitution. Hasol rapprocha chaque fiche de sa boîte, contrôla les états de départ et laissa à part les travaux qu’Orven ne lui avait pas confiés. Il venait vérifier sans lui prendre les feuilles des mains.
 
-Hasol commença par les classer.
+Une Gardien commune, blanche, deux étoiles, à +0, devait être rendue dans la matinée. Le propriétaire demandait +2 ; trois tentatives au maximum étaient prévues dans le budget.
 
-Orven lui demanda de vérifier le grade, le rang en étoiles et le niveau d’amélioration de chaque rune avant de consulter les instructions du propriétaire.
+Hasol suivit du doigt la limite inscrite.
 
-Elle découvrit rapidement que les demandes étaient très différentes.
+— Si je n’atteins pas +2 dans les trois, je m’arrête là.
 
-Certains chasseurs souhaitaient simplement renforcer une rune bon marché.
+— Oui. Celle-ci sera pour toi, sous ma surveillance.
 
-D’autres demandaient un travail plus délicat, parfois sur des pierres dont la valeur dépassait largement ce que Hasol pouvait espérer gagner en plusieurs semaines.
+Elle installa la Gardien commune blanche, deux étoiles, à +0, sur le support. La principale était présente, sans secondaire. Elle vérifia les indications de la commande, puis sépara les ressources autorisées du reste des réserves. Le volume posé devant elle lui parut soudain bien réduit. Dans l’atelier maternel, sa mère avait ouvert les boîtes ; ici, une ligne du registre déterminait ce qu’elle aurait le droit de prendre ensuite.
 
-— Pourquoi ne commence-t-on pas par les plus chères ? demanda-t-elle.
+Orven approcha une chaise, non pour s’installer à sa place, mais pour voir le support de côté.
 
-Orven leva les yeux.
+— Ce matin, surveille aussi ta réserve entre les tentatives. Pas seulement les consommables.
 
-— Parce que tu es encore une apprentie.
+— Je l’ai regardée après l’épreuve, dit Hasol. Pas après chaque passage.
 
-Hasol rougit.
+Elle savait conduire le Mana depuis ses cercles et connaissait la dépense qu’exigeait ce travail. Mais elle n’avait encore enchaîné que de courtes séries, entourée de quelqu’un qui décidait du moment où elles finissaient. Elle ouvrit brièvement son interface privée pour prendre un repère avant de commencer.
 
-— Je voulais dire… pour vous.
+— Tu me préviens avant de te sentir à court, reprit Orven. Avec des commandes différentes, le rythme change. Les étoiles, le grade et le palier ne demandent pas le même effort.
 
-— Et moi, je préfère commencer par ce qui doit être rendu aujourd’hui.
+Il lui montra sur une fiche la place où noter ses observations entre deux résultats.
 
-Il tapota un registre.
+— Tu as l’habitude d’observer les flux. Apprends à te surveiller au milieu du travail aussi.
 
-— Un atelier n’est pas un coffre rempli de trésors qu’on ouvre selon ses envies. Les clients ont des engagements, des budgets et parfois des expéditions qui dépendent de nous.
+Hasol hocha la tête. Elle tira son carnet vers elle, y écrivit quelques mots, puis leva les yeux sur Orven qui attendait.
 
-Il lui tendit une fiche.
+— Je vais vous laisser une marge avant de noter votre prochaine phrase.
 
-— Lis.
+— Généreuse précaution.
 
-Hasol parcourut les lignes.
+Elle sourit et reposa sa plume.
 
-La commande concernait une rune Gardien commune (blanche), 2★, actuellement à +0.
+Le support était froid sous le bord de ses mains. Elle engagea son Mana, sentit la circulation gagner les gravures et accompagna la lumière qui montait depuis les pierres préparées. Le mouvement lui était déjà moins étranger que la veille. Une irrégularité apparut pourtant sur le côté ; son attention s’y accrocha, elle corrigea trop vite. L’éclat se rompit avant d’avoir tenu.
 
-Son propriétaire souhaitait une amélioration jusqu’à +2, dans la limite des ressources prévues.
-
-— C’est une petite commande, observa-t-elle.
-
-— Pour nous, peut-être.
-
-Orven posa la rune commune, blanche, deux étoiles, devant elle.
-
-— Pour son propriétaire, elle représente peut-être plusieurs journées de chasse.
-
-Hasol releva les yeux.
-
-Le vieil artisan la regardait sérieusement.
-
-— Ne l’oublie jamais.
-
-Elle acquiesça.
-
-Puis commença à préparer les pierres de mana nécessaires.
-
-Orven la laissa travailler quelques instants.
-
-Lorsqu’elle eut terminé, il désigna le support d’amélioration.
-
-— Avant de commencer, explique-moi ce que tu vas dépenser.
-
-Hasol répondit avec application :
-
-— Les pierres de mana nécessaires à la tentative.
-
-— Et ?
-
-Elle hésita.
-
-— Et… du temps ?
-
-Orven croisa les bras.
-
-— Tu oublies quelque chose.
-
-Hasol regarda les pierres.
-
-Puis la rune commune, blanche, deux étoiles.
-
-Elle réfléchit.
-
-— Mon Mana ?
-
-— Exactement.
-
-Il tira une chaise et s’assit près d’elle.
-
-— Une amélioration runique ne consiste pas simplement à poser une pierre de mana à côté d’une rune en attendant qu’elle absorbe de l’énergie.
-
-Il prit une petite pierre de mana et la fit rouler entre ses doigts.
-
-— Celle-ci fournit une partie de l’énergie nécessaire à la transformation. Mais il faut encore la guider, maintenir les inscriptions et empêcher les flux de se disperser.
-
-Il posa la pierre sur le support.
-
-— C’est le rôle de l’artisan.
-
-Hasol observa les gravures qui parcouraient le métal.
-
-— Donc je dois utiliser mon propre Mana pour conduire l’amélioration ?
-
-— Oui.
-
-Orven lui montra comment positionner ses mains.
-
-— À chaque tentative, tu dépenses des pierres de mana et une partie de ta réserve personnelle. Que tu réussisses ou que tu échoues.
-
-Hasol fronça légèrement les sourcils.
-
-— Même si la rune ne change pas ?
-
-— Même dans ce cas.
-
-Il tapota le support.
-
-— Une tentative ratée ne signifie pas qu’aucune énergie n’a été utilisée. Cela signifie que l’énergie engagée n’a pas produit le résultat recherché.
-
-Hasol repensa immédiatement à sa première commande.
-
-À la rune Énergie peu commune (verte), 2★, d’origine commune (blanche), qu’elle avait améliorée jusqu’à +3.
-
-Elle se souvenait de la résistance ressentie au moment de l’échec.
-
-De cette impression étrange que quelque chose avait été tiré hors de ses cercles de mana.
-
-Sur le moment, elle avait attribué cette sensation à sa concentration.
-
-— C’est donc pour cela que je me sentais un peu différente après mes tentatives…
-
-Orven acquiesça.
-
-— Tu avais commencé à vider ta réserve.
-
-Il se pencha vers elle.
-
-— Et il y a une autre chose que tu dois comprendre. Le coût en Mana n’est pas toujours le même.
-
-Hasol saisit immédiatement son carnet.
-
-Orven remarqua le mouvement.
-
-— Tu comptes tout noter ?
-
-— Oui.
-
-— Même lorsque je te demande simplement de respirer ?
-
-Elle releva les yeux.
-
-Il avait conservé une expression parfaitement sérieuse.
-
-Hasol mit quelques secondes à comprendre.
-
-Puis elle sourit.
-
-— Seulement si c’est une technique importante.
-
-Un petit rire échappa au vieil artisan.
-
-— Bien répondu.
-
-Il désigna la rune commune, blanche, deux étoiles.
-
-— Le rang en étoiles, le grade et le palier d’amélioration influencent la difficulté du travail.
-
-Il prit une autre pierre dans une boîte voisine.
-
-— Une petite rune commune que l’on souhaite faire passer de +0 à +1 n’exige pas le même effort qu’une rune rare de six étoiles déjà améliorée jusqu’à +14.
-
-Hasol contempla les deux pierres.
-
-— Parce que la seconde contient davantage de puissance ?
-
-— Entre autres. Ses inscriptions sont plus complexes, et le passage à un palier élevé demande un contrôle beaucoup plus exigeant.
-
-Il reposa la seconde rune rare, six étoiles.
-
-— À mesure que la difficulté augmente, les ressources nécessaires deviennent plus importantes.
-
-Hasol réfléchit.
-
-— Alors un artisan ne peut pas travailler toute la journée, même s’il possède beaucoup de pierres de mana.
-
-— Voilà.
-
-Orven sourit légèrement.
-
-— Les pierres remplissent les coffres. Le Mana, lui, ne se trouve pas dans un tiroir chaque fois qu’on en a besoin.
-
-Elle regarda ses mains.
-
-— Et lorsqu’il n’en reste plus ?
-
-— On s’arrête.
-
-— Même s’il reste des commandes ?
-
-— Même s’il reste des commandes.
-
-Il la fixa quelques instants.
-
-— Un artisan qui travaille au-delà de ses limites ne rend service à personne.
-
-Hasol acquiesça.
-
-Puis elle posa les doigts sur le support.
-
-— Je peux essayer ?
-
-Orven se leva.
-
-— Vas-y.
-
-Elle inspira profondément.
-
-Le Mana circula dans ses bras.
-
-Les inscriptions du support s’illuminèrent progressivement, et les pierres de mana disposées autour de la rune commune, blanche, deux étoiles, commencèrent à vibrer.
-
-Hasol concentra son attention sur les lignes gravées.
-
-Elle sentit le flux quitter ses doigts.
-
-Une sensation familière lui traversa la poitrine.
-
-Mais cette fois, elle y prêta attention.
-
-Une partie de son Mana venait réellement de disparaître de sa réserve.
-
-La lumière s’intensifia.
-
-Puis vacilla.
-
-Hasol tenta de corriger le flux.
-
-Trop tard.
-
-Les inscriptions s’éteignirent.
+Hasol retira ses doigts. La chaleur resta un instant dans sa paume.
 
 <div class="system-window rune-window">
-  <div class="system-header">✦ AMÉLIORATION RUNIQUE ✦</div>
+  <div class="system-header">◆ TENTATIVE D’AMÉLIORATION ◆</div>
   <p><strong>Rune :</strong> Gardien commune (blanche), 2★</p>
   <p><strong>Tentative :</strong> +0 → +1</p>
-  <hr>
   <p><strong>Résultat :</strong> Échec</p>
-  <p><strong>Niveau d'amélioration :</strong> <span class="upgrade-badge">+0</span></p>
+  <p><strong>État conservé :</strong> <span class="upgrade-badge">+0</span> — rune intacte, caractéristiques inchangées</p>
   <p><strong>Pierres de mana engagées :</strong> Consommées</p>
-  <p><strong>Mana personnel :</strong> Consommé</p>
-  <p><strong>État de la rune :</strong> Inchangé</p>
+  <p><strong>Mana personnel :</strong> Dépensé</p>
 </div>
 
-Hasol resta immobile.
+Elle eut un regard pour les ressources devenues ternes. Une tentative sur trois. Elle aurait aimé disposer d’un résultat à inscrire en face de cette dépense ; sa main resta suspendue au-dessus du registre avant de s’y poser.
 
-Une légère fatigue lui parcourait les bras.
+Orven attendait le contrôle. Hasol vérifia la Gardien commune blanche, deux étoiles, restée à +0, puis nota l’échec et les ressources engagées. Elle consulta sa réserve. La dépense existait bien, même si rien n’avait changé sur la pierre. Elle referma l’interface et revint aux lignes de son registre.
 
-Mais ce n’était pas ce qui l’inquiétait.
+— J’ai repris le flux trop brusquement, dit-elle.
 
-— J’ai encore échoué…
+— Je l’ai vu. Reprends ta position avant de préparer la suivante.
 
-Orven s’approcha.
+Hasol rapprocha les coudes, desserra les doigts. Elle aurait voulu que la seconde tentative efface vite la première ; cette impatience lui rendait le bord du support trop étroit. Elle prit le temps d’écarter les consommables épuisés et de vérifier ce qu’il restait dans le lot.
 
-Il examina la rune commune, blanche, deux étoiles.
+Orven n’ajouta rien. De l’autre côté de la table, sa plume reprit son bruit sec.
 
-Puis les pierres épuisées.
+Cette fois, Hasol garda son attention sur l’ensemble des gravures. Quand la vibration se modifia, elle accompagna le mouvement sans pousser davantage. La lumière resta présente, se resserra, puis une notification confirma le passage.
 
-— Oui.
-
-Hasol baissa la tête.
-
-— Je suis désolée.
-
-— Pourquoi ?
-
-Elle releva les yeux.
-
-— J’ai gaspillé des ressources.
-
-Orven posa la rune commune, blanche, deux étoiles, sur la table.
-
-— Tu as échoué à une tentative. Ce n’est pas la même chose.
-
-Hasol hésita.
-
-— Mais les pierres ont disparu…
-
-— Elles étaient prévues pour cela.
-
-Il lui montra le registre.
-
-— Le client a accepté un nombre limité de tentatives. Tant que tu respectes cette limite et les procédures de l’atelier, tu fais ton travail.
-
-Hasol regarda la fiche.
-
-— Donc je peux recommencer ?
-
-— Après avoir vérifié ce qui s’est passé.
-
-Elle acquiesça.
-
-Puis examina attentivement le support.
-
-Elle avait tenté de corriger le flux trop brusquement lorsque les inscriptions avaient commencé à vaciller.
-
-Peut-être aurait-elle dû stabiliser l’énergie plus tôt.
-
-Elle reprit sa position.
-
-Cette fois, elle ne chercha pas à forcer.
-
-Elle accompagna la circulation du Mana avec davantage de patience.
-
-Les inscriptions s’illuminèrent.
-
-La rune commune, blanche, deux étoiles, vibra.
-
-Puis une lumière douce se répandit sur sa surface.
-
-<div class="system-window rune-window">
-  <div class="system-header">✦ AMÉLIORATION RÉUSSIE ✦</div>
+<div class="rune-window success">
+  <div class="system-header">✓ AMÉLIORATION RÉUSSIE</div>
   <p><strong>Rune :</strong> Gardien commune (blanche), 2★</p>
   <p><strong>Tentative :</strong> +0 → +1</p>
-  <hr>
-  <p class="success-text"><strong>Résultat :</strong> Réussite</p>
-  <p><strong>Nouveau niveau :</strong> <span class="upgrade-badge">+1</span></p>
-  <p><strong>Caractéristique principale :</strong> Renforcée</p>
-  <p><strong>Pierres de mana engagées :</strong> Consommées</p>
-  <p><strong>Mana personnel :</strong> Consommé</p>
+  <p><strong>Niveau atteint :</strong> <span class="upgrade-badge">+1</span></p>
+  <p><strong>Principale :</strong> Renforcée — aucune secondaire</p>
+  <p><strong>Ressources engagées :</strong> Pierres de mana consommées et Mana personnel dépensé</p>
 </div>
 
-Hasol sentit son cœur bondir.
+Hasol laissa échapper son souffle. Elle annonça le résultat, le reporta sur la fiche et écarta la plume pour qu’Orven puisse contrôler. Il parcourut les deux lignes, puis la limite autorisée.
 
-— J’ai réussi !
-
-Orven examina la pierre.
+— Il en reste une, dit-elle.
 
 — Oui.
 
-Il la reposa.
-
-— Maintenant, note les deux tentatives.
-
-Hasol attrapa immédiatement sa plume.
-
-Elle inscrivit l’échec.
-
-Puis la réussite.
-
-Et, dans une colonne qu’elle n’avait pas utilisée lors de sa première commande, elle ajouta :
-
-Mana personnel consommé.
-
-Elle contempla ces mots quelques instants.
-
-Jusqu’à présent, elle avait considéré l’amélioration comme une question de pierres de mana, de connaissances et de chance.
-
-Elle venait de découvrir qu’une autre ressource entrait en jeu.
-
-Une ressource qu’elle avait toujours possédée.
-
-Et dont elle n’avait jamais su quoi faire.
+Elle venait de tirer le support un peu plus près lorsque la clochette de la boutique retentit. Orven lui fit signe de ne rien engager et passa devant. Hasol laissa les dernières ressources à leur place ; elle essuya ses doigts avant de le rejoindre.
 
 ---
 
 ## III. Le prix d’une erreur
 
-En milieu de matinée, la clochette de la boutique retentit.
+Le jeune chasseur attendait près du comptoir, une bourse tenue dans sa main. Sa veste était propre, usée aux coudes ; il avait frotté ses bottes sans parvenir à enlever toute la poussière des coutures. Il demanda sa Gardien commune blanche, deux étoiles, avec une hésitation sur l’heure à laquelle il avait promis de revenir.
 
-Un jeune chasseur entra, tenant une petite bourse entre ses mains.
+— Vous arrivez bien, répondit Orven. Nous pouvons regarder où en est votre commande.
 
-Sa tenue était propre, mais usée aux coudes. Une épée courte pendait à sa ceinture, et ses bottes portaient encore la poussière des plaines.
+Hasol apporta le plateau et la fiche. Elle posa celle-ci tournée vers le client, comme elle avait vu l’artisan le faire.
 
-Orven leva les yeux de son établi.
+— Elle est à +1, indiqua Orven. La première tentative a échoué, la seconde a réussi. Il reste de quoi en faire une dans les trois que vous avez autorisées.
 
-— Bonjour. Que puis-je faire pour vous ?
+Le chasseur se pencha sur le relevé. Son pouce frottait le nœud de sa bourse.
 
-Le jeune homme s’approcha.
+— Et si la dernière échoue, elle reste à +1 comme maintenant ?
 
-— Je viens chercher ma rune Gardien commune, blanche, deux étoiles.
+Orven lui expliqua l’état attendu pour cette tentative et la dépense à engager. Hasol regardait malgré elle la dernière ligne vide. Le budget n’était plus un encadré sur une feuille : son propriétaire était devant elle, à réfléchir avant de donner son accord.
 
-Hasol releva immédiatement la tête.
+— Je pars demain avec deux amis, dit le jeune homme. J’espérais avoir un peu plus de Défense avant.
 
-C’était la commande sur laquelle elle venait de travailler.
+Il souleva un coin du linge, regarda la Gardien commune blanche, deux étoiles, à +1, puis le reposa sans la prendre.
 
-Elle sentit son ventre se contracter.
+— On peut aussi la rendre ainsi, rappela Orven. Vous n’êtes pas obligé d’utiliser ce qui reste.
 
-Et s’il était déçu ?
+Le chasseur fit glisser la fiche vers lui et relut le relevé. Hasol attendit. Elle connaissait l’impatience de vouloir mieux s’équiper avant de sortir ; elle s’interdit d’en faire une réponse à sa place.
 
-Orven consulta le registre.
+— Essayons d’atteindre +2. Avec la dernière tentative, pas plus.
 
-— Votre rune commune, blanche, deux étoiles, est actuellement à +1. Il reste une tentative autorisée dans le budget prévu. Nous pouvons nous arrêter ici ou essayer d’atteindre +2.
+Orven confirma la limite et l’inscrivit. Le jeune homme regarda alors Hasol.
 
-Le jeune chasseur hésita.
+— C’est vous qui vous en occupez ?
 
-— Vous pensez que ça vaut la peine ?
+La question lui serra le ventre. Elle avait pourtant préparé la réponse en venant au comptoir.
 
-Orven lui montra la rune commune, blanche, deux étoiles.
+— Oui, sous la supervision de Maître Orven.
 
-— Cela dépend de ce que vous recherchez.
+Il tourna les yeux vers l’artisan, qui acquiesça. Cela sembla lui suffire.
 
-— Je pars chasser demain avec deux amis. J’aimerais simplement avoir un peu plus de Défense.
+Hasol revint à l’établi. Le client resta dans la boutique ; elle entendait de temps à autre le cuir de ses bottes sur le plancher. Elle relut l’autorisation avant de disposer les dernières ressources. Ses doigts cherchaient à aller vite, comme si l’attente derrière la cloison était une faute qu’elle aurait pu réparer. Elle les arrêta sur le bord de la table.
 
-Hasol observa le visage du jeune homme.
+Orven s’installa à côté du support.
 
-Il semblait avoir à peine quelques années de moins qu’elle.
+— Je suis prêt.
 
-Elle reconnut cette inquiétude.
+Elle vérifia le niveau de départ de la Gardien commune blanche, deux étoiles, à +1. Puis elle commença.
 
-Le désir d’être prêt.
+La circulation se forma sous ses mains. Hasol eut conscience du bruit du magasin, de l’artisan près de son épaule, et dut ramener son attention aux lignes qu’elle accompagnait. Le flux ne demandait pas qu’elle oublie le client ; il demandait qu’elle cesse de deviner son visage pendant qu’elle travaillait.
 
-De posséder un peu plus de puissance avant de franchir les portes de la ville.
+La résistance augmenta. Elle ajusta son geste, sentit une tension dans la nuque et expira sans retirer ses mains. L’éclat tint.
 
-Orven prit quelques instants pour lui expliquer les risques et les ressources restantes.
+<div class="rune-window success">
+  <div class="system-header">✓ COMMANDE ACHEVÉE</div>
+  <p><strong>Rune :</strong> Gardien commune (blanche), 2★</p>
+  <p><strong>Dernière tentative :</strong> +1 → +2 — Réussite</p>
+  <p><strong>Niveau final :</strong> <span class="upgrade-badge">+2</span></p>
+  <p><strong>Principale :</strong> Renforcée — aucune secondaire</p>
+  <p><strong>Suivi :</strong> Trois tentatives effectuées sur trois autorisées</p>
+</div>
 
-Le jeune chasseur finit par acquiescer.
+— +2, annonça Hasol.
 
-— Essayons.
+Elle souriait déjà, mais attendit qu’Orven eût examiné le résultat. Il compara la fiche à l’état final, puis lui laissa le plateau à rapporter.
 
-Hasol sentit son cœur accélérer.
+Au comptoir, le jeune chasseur se redressa.
 
-Orven tourna la tête vers elle.
+— C’est terminé ?
 
-— Tu as entendu ?
+— Oui. Vous pouvez vérifier.
 
-— Oui.
-
-— Une seule tentative supplémentaire. Pas davantage.
-
-Elle acquiesça.
-
-Le jeune homme observa la jeune fille derrière le comptoir.
-
-— C’est elle qui va s’en occuper ?
-
-La question n’avait rien de méchant.
-
-Pourtant, Hasol sentit ses joues chauffer.
-
-Orven répondit calmement :
-
-— Sous ma supervision.
-
-Le chasseur hésita.
-
-Puis acquiesça.
-
-— D’accord.
-
-Hasol prit la rune commune, blanche, deux étoiles.
-
-Ses doigts tremblaient légèrement.
-
-Elle les immobilisa contre le bord du support.
-
-Une seule tentative.
-
-Elle prépara les pierres de mana.
-
-Vérifia les inscriptions.
-
-Puis ferma les yeux quelques secondes.
-
-Lorsqu’elle fit circuler son Mana, elle essaya de ne penser ni au client ni au résultat.
-
-Seulement au flux.
-
-À la pierre.
-
-À ce qu’elle devait faire.
-
-La lumière s’intensifia.
-
-Hasol sentit la résistance augmenter.
-
-Elle ralentit.
-
-Une seconde passa.
-
-Puis une autre.
-
-Les inscriptions se stabilisèrent.
-
-La rune commune, blanche, deux étoiles, s’illumina.
-
-La tentative réussit.
-
-Hasol ouvrit les yeux.
-
-— +2…
-
-Orven examina la pierre.
-
-Puis la tendit au jeune chasseur.
-
-— Votre commande est terminée.
-
-Le jeune homme la prit avec précaution.
-
-Son visage s’éclaira.
-
-— Merci !
-
-Il regarda Hasol.
+Elle lui présenta la Gardien commune blanche, deux étoiles, désormais à +2, avec le relevé des tentatives. Il la prit entre ses doigts et consulta son état. Ses épaules s’abaissèrent un peu ; il remercia Orven, puis se tourna vers elle.
 
 — Merci à vous aussi.
 
-Elle resta interdite une seconde.
+— Je vous en prie. Bonne chasse demain.
 
-Puis s’inclina légèrement.
+L’homme rangea sa commande avec soin et quitta la boutique. Hasol resta un instant face au comptoir vide. Elle avait répondu sans trébucher sur les mots ; le remerciement lui revenait maintenant, avec un léger retard qui lui donnait envie de sourire de nouveau.
 
-— Je vous en prie.
+Orven lui tendit la fiche.
 
-Lorsqu’il quitta la boutique, elle demeura quelques instants à regarder la porte.
+— Restitution.
 
-Orven rangeait déjà le registre.
+— Oui.
 
-— Quelque chose ne va pas ?
-
-Hasol secoua la tête.
-
-— Non.
-
-Elle sourit.
-
-— C’est simplement la première fois qu’un chasseur me remercie pour quelque chose qui l’aidera à combattre.
-
-Orven s’arrêta.
-
-Il la contempla brièvement.
-
-Puis referma le registre.
-
-— Alors souviens-toi de ce sentiment.
-
-Hasol releva les yeux.
-
-— Pourquoi ?
-
-— Parce que certains jours, tu passeras des heures à travailler sans obtenir le résultat que tu espérais.
-
-Il désigna la porte.
-
-— Et d’autres jours, une simple amélioration suffira à rendre quelqu’un heureux.
-
-Hasol baissa les yeux vers ses mains.
-
-Elle n’avait pas affronté de monstre.
-
-Elle n’avait gagné aucune expérience.
-
-Elle n’avait même pas amélioré son propre équipement.
-
-Pourtant, quelque chose dans cette matinée lui donnait l’impression d’avoir avancé.
+Elle porta la mention à l’endroit prévu, vérifia que rien n’était resté dans la boîte, puis la rangea. Le jeune homme serait sur la route le lendemain, avec la Gardien commune blanche, deux étoiles, à +2, qu’elle venait de lui rendre. Hasol avait envie de réussir d’autres commandes. Elle prit néanmoins le temps de nettoyer son support avant de demander la suite.
 
 ---
 
 ## IV. Deux runes, deux avenirs
 
-Après le départ du client, Orven lui demanda de ranger plusieurs pierres sur une étagère.
+Un peu plus tard, Orven la fit venir au comptoir pour ranger des documents. Elle trouva deux fiches de comparaison, l’une consacrée aux principales fixes, l’autre aux pourcentages. À côté, des annotations portaient sur les besoins des porteurs.
 
-Hasol obéit.
+— Vous gardez cela pour conseiller les clients ?
 
-Elle venait de terminer lorsqu’elle remarqua deux fiches posées côte à côte sur le comptoir.
+— Pour éviter de conseiller deux personnes différentes comme si elles n’en faisaient qu’une.
 
-L’une concernait une caractéristique principale fixe.
+Hasol parcourut les rubriques. Elle savait définir les deux types de principales ; ce qui l’intéressait était la décision inscrite au bout.
 
-L’autre une caractéristique principale exprimée en pourcentage.
+— J’aurais tendance à regarder ce que le pourcentage apportera plus tard, dit-elle. Surtout si le client manque d’argent et veut conserver son équipement.
 
-Elle les observa avec curiosité.
+— C’est une question à poser. Mais il faut aussi qu’il puisse s’en servir maintenant.
 
-— Maître Orven ?
+Orven prit une ardoise et essuya une ancienne addition du revers d’un linge. Il écrivit *Attaque +50* et *Attaque +10 %*, en laissant entre les deux une traînée blanche.
 
-— Hmm ?
+— Des exemples de calcul, précisa-t-il. Pas les caractéristiques de deux pièces que je te demande de vendre.
 
-— Pourquoi certains clients préfèrent-ils les principales fixes alors que d’autres recherchent des pourcentages ?
+Hasol approcha sa chaise. L’artisan traça une première ligne : *200 naturels*. Elle inscrivit elle-même vingt sous le pourcentage, cinquante sous la valeur fixe. À la ligne suivante, avec cinq cents naturels, les deux colonnes donnaient cinquante. Orven ajouta enfin deux mille ; Hasol posa deux cents sous les dix pour cent et laissa le premier gain à cinquante.
 
-Orven leva les yeux.
+Elle recula l’ardoise pour embrasser les trois lignes.
 
-Un sourire discret apparut sur son visage.
+— Je vois ce qui me manquait. Je pensais à la croissance sans regarder ce qu’il faudrait attendre pour qu’elle change le choix.
 
-— Voilà une question intéressante.
+— Et sans savoir si le client gardera son équipement jusque-là. Une principale fixe aide souvent davantage au début. Avec la croissance naturelle, le pourcentage prend l’avantage selon les valeurs que tu compares. Tu ne trouveras pas un niveau à partir duquel tous les clients doivent changer en même temps.
 
-Il posa sa plume.
+Il souligna le mot *naturels*.
 
-— Dis-moi d’abord ce que tu en penses.
+— Le pourcentage de principale se calcule ici, avant d’ajouter les bonus fixes runiques. Ne le prends pas sur un total où tu aurais déjà tout mélangé.
 
-Hasol réfléchit.
+Hasol suivit le trait de craie.
 
-— Une caractéristique fixe donne directement une valeur. Une caractéristique en pourcentage dépend de la statistique du porteur.
+— Et les deux colonnes ne disent pas si je casse un ensemble en remplaçant une pièce.
 
-— Bien.
+— Ni ce que tu perds en secondaires. Dans une vraie comparaison, regarde le rang en étoiles, l’amélioration, le grade, les affixes, les ensembles. Si tu places une pièce très travaillée en face d’une autre qui ne l’est pas, le signe pour cent ne fera pas tout le travail à ta place.
 
-— Alors… les pourcentages devraient être meilleurs, non ?
+Il remit les fiches côte à côte. Hasol les lut de nouveau. Elle pouvait maintenant distinguer ce qui relevait du calcul de principale et ce qui exigerait d’autres informations. Elle marqua du doigt la rubrique de l’équipement porté : sans elle, les deux colonnes ne suffiraient pas à conseiller le client.
 
-Orven croisa les bras.
+La craie laissa une poussière pâle sur son index. Elle la frotta du pouce avant de parler.
 
-— Pourquoi ?
+— Mon père m’a offert une Fatal rare bleue, six étoiles, à +6, avec soixante-dix d’Attaque fixe. Et une Gardien rare bleue, six étoiles, à +6, avec soixante-dix de Défense fixe.
 
-— Parce qu’ils peuvent augmenter avec la puissance du chasseur.
+Orven attendit. Hasol avait commencé d’une voix posée, mais la suite lui venait moins facilement.
 
-— Ils peuvent, oui.
+— Si j’avance assez loin, un jour il faudra peut-être les remplacer.
 
-Il se leva.
-
-Puis prit une petite ardoise rangée près de son établi.
-
-— Viens.
-
-Hasol s’approcha.
-
-Orven traça deux colonnes.
-
-Au-dessus de la première, il écrivit :
-
-Attaque +50
-
-Au-dessus de la seconde :
-
-Attaque +10 %
-
-— Ce sont deux valeurs d’exemple, précisa-t-il. Nous allons oublier un instant les grades et les rangs pour comparer uniquement leur fonctionnement.
-
-Hasol acquiesça.
-
-Orven désigna la première colonne.
-
-— Une rune dont la principale apporte cinquante points d’Attaque fixes ajoute cette valeur au porteur.
-
-Il tapota la seconde.
-
-— Une principale de dix pour cent, elle, dépend de l’Attaque naturelle du chasseur.
-
-Hasol se pencha.
-
-— Donc il faut connaître ses statistiques avant de choisir.
-
-— Exactement.
-
-Orven inscrivit un premier nombre.
-
-200 Attaque naturelle.
-
-— Imaginons un jeune chasseur possédant deux cents points d’Attaque naturelle. Combien lui apporte la première rune ?
-
-— Cinquante.
-
-— Et la seconde ?
-
-Hasol réfléchit une seconde.
-
-— Dix pour cent de deux cents…
-
-Elle releva les yeux.
-
-— Vingt.
-
-Orven acquiesça.
-
-— Laquelle est la meilleure ?
-
-— La première.
-
-— Pourquoi ?
-
-— Parce qu’elle apporte trente points de plus.
-
-Il sourit.
-
-— Bien.
-
-Puis il effaça le nombre.
-
-À sa place, il écrivit :
-
-500 Attaque naturelle.
-
-— Et maintenant ?
-
-Hasol calcula mentalement.
-
-— Dix pour cent de cinq cents… cinquante.
-
-Elle sourit.
-
-— Les deux sont équivalentes !
-
-— Exactement.
-
-Orven effaça une nouvelle fois l’ardoise.
-
-Puis inscrivit :
-
-2 000 Attaque naturelle.
-
-Hasol resta quelques secondes à regarder le nombre.
-
-— Deux mille…
-
-Elle réfléchit.
-
-Puis ses yeux s’agrandirent.
-
-— Deux cents !
-
-Orven acquiesça.
-
-— La rune en pourcentage apporte désormais deux cents points d’Attaque.
-
-Il désigna la première colonne.
-
-— Tandis que la rune fixe en apporte toujours cinquante.
-
-Hasol contempla les chiffres.
-
-La différence était immense.
-
-— Donc plus les caractéristiques naturelles augmentent, plus les principales en pourcentage deviennent intéressantes…
-
-— Généralement, oui.
+Elle revit le coffret de bois sombre sur la table du salon, les bandes métalliques, la main de son père qui en rapprochait le couvercle pour qu’elle puisse l’ouvrir. Le souvenir était précis jusque dans la chaleur de la pièce. Elle regrettait aussitôt d’avoir mêlé cela à une leçon de comparaison.
 
 Orven posa la craie.
 
-— Les chasseurs débutants ont souvent des caractéristiques naturelles modestes. Une rune fixe leur apporte immédiatement une contribution appréciable.
+— Ce serait un choix d’équipement, Hasol. Pas un jugement sur le cadeau.
 
-Il montra la seconde colonne.
+Elle regarda l’ardoise sans répondre.
 
-— Mais lorsqu’un chasseur gagne des niveaux, ses caractéristiques naturelles progressent. Et une principale en pourcentage profite directement de cette croissance.
+— Ton père t’a donné de quoi commencer avec de bonnes chances, poursuivit-il. Si tu trouves un jour mieux pour continuer, cela n’enlèvera rien à ce qu’il t’a donné ce soir-là.
 
-Hasol réfléchit.
+Hasol ramena vers elle les fiches pour en aligner les coins. Elle comprenait la distinction. Il lui restait un malaise qu’un calcul ne pouvait pas faire disparaître, et Orven ne lui demanda pas de l’expliquer.
 
-— C’est pour cela que les chasseurs de haut niveau recherchent davantage de runes en pourcentage ?
+— Je ne compte pas les changer maintenant, dit-elle enfin.
 
-— Exactement.
+— J’espère bien que tu ne vas pas dépenser ton salaire de ce matin avant de l’avoir gagné.
 
-Il marqua une pause.
+Elle releva la tête, surprise, puis rit.
 
-— Mais attention. Ne transforme pas cette observation en règle absolue.
+— Celui d’hier n’y suffirait pas.
 
-Elle releva les yeux.
+— Nous sommes donc sauvés, pour le moment.
 
-— Pourquoi ?
-
-— Parce que tu ne compares pas toujours deux runes identiques.
-
-Il prit une petite pierre dans une boîte.
-
-— Une rune possède un grade, un rang en étoiles, un niveau d’amélioration, des caractéristiques secondaires et un ensemble.
-
-Il posa la pierre devant elle.
-
-— Une excellente rune fixe peut rester préférable à une mauvaise rune en pourcentage.
-
-Hasol acquiesça lentement.
-
-Orven poursuivit :
-
-— Et il faut aussi distinguer les principales des bonus d’ensemble. Ce sont des contributions différentes. Tu ne dois pas les mélanger sans connaître l’ordre de calcul.
-
-Il reprit la craie.
-
-— Pour notre comparaison, le pourcentage de la principale est appliqué à la caractéristique naturelle, avant l’ajout des bonus fixes de l’équipement.
-
-Hasol saisit son carnet.
-
-Elle écrivit rapidement :
-
-Principale fixe : ajout direct.
-
-Principale en % : calcul sur la caractéristique naturelle.
-
-Comparer les gains réels à équipement comparable.
-
-Orven observa les lignes.
-
-— Tu as compris ?
-
-— Je crois.
-
-Il croisa les bras.
-
-— Alors dis-moi quelle rune tu choisirais pour un chasseur débutant.
-
-Hasol regarda les colonnes.
-
-— Celle qui lui apporte le meilleur gain réel, même si c’est une principale fixe.
-
-— Et pour un chasseur expérimenté ?
-
-— Je comparerais les valeurs. Mais une principale en pourcentage aurait probablement davantage d’intérêt.
-
-Orven acquiesça.
-
-— Bien.
-
-Hasol contempla l’ardoise.
-
-Puis son expression changea légèrement.
-
-— Maître Orven…
-
-— Oui ?
-
-— Est-ce que cela signifie que mes runes finiront par devenir moins intéressantes ?
-
-Le vieil artisan l’observa.
-
-Elle baissa les yeux.
-
-— Mon père m’a offert deux runes rares, bleues, six étoiles, +6, pour ma Révélation.
-
-Elle hésita.
-
-— Une rune Fatal rare (bleue), 6★, +6, avec une principale d’Attaque fixe. Et une rune Gardien rare (bleue), 6★, +6, avec une principale de Défense fixe.
-
-Orven acquiesça.
-
-Il se souvenait des deux pierres.
-
-Elles étaient d’une qualité remarquable pour une jeune chasseuse.
-
-— Et alors ?
-
-Hasol serra légèrement son carnet.
-
-— Si je deviens beaucoup plus forte un jour… je devrai peut-être les remplacer.
-
-Elle prononça ces mots avec une hésitation qui surprit Orven.
-
-Le vieil artisan resta silencieux.
-
-Puis il tira une chaise.
-
-— Assieds-toi.
-
-Hasol obéit.
-
-Il posa une petite boîte vide devant elle.
-
-— Dis-moi, petite. Pourquoi ton père t’a-t-il offert ces runes rares, bleues, six étoiles ?
-
-Elle cligna des yeux.
-
-— Pour m’aider à devenir chasseuse.
-
-— Et est-ce qu’elles t’ont aidée ?
-
-Hasol pensa à ses trois années d’Académie.
-
-Aux entraînements.
-
-Aux slimes.
-
-Aux nuits passées à rentrer épuisée.
-
-Puis aux loups des Crocs Gris.
-
-Sans ces deux runes rares, bleues, six étoiles, elle aurait probablement été encore plus vulnérable.
-
-— Oui, murmura-t-elle.
-
-Orven acquiesça.
-
-— Alors elles ont rempli leur rôle.
-
-Il referma la boîte.
-
-— Un jour, tu trouveras peut-être un équipement mieux adapté à tes besoins. Cela ne rendra pas les cadeaux de ton père moins précieux.
-
-Hasol releva les yeux.
-
-Orven poursuivit :
-
-— Une rune n’est pas obligée de rester équipée toute une vie pour avoir compté dans celle de son propriétaire.
-
-La jeune fille resta silencieuse.
-
-Elle repensa au soir de sa Révélation.
-
-À son père qui lui tendait les deux écrins.
-
-À son sourire fier.
-
-À la façon dont il l’avait appelée ma princesse.
-
-Une légère douleur lui traversa la poitrine.
-
-Elle baissa les yeux.
-
-— Je crois que je comprends.
-
-Orven lui adressa un sourire discret.
-
-— Et puis, tu n’es encore que niveau dix. Avant de t’inquiéter de remplacer deux runes rares six étoiles, tu as probablement quelques autres problèmes à résoudre.
-
-Hasol cligna des yeux.
-
-Puis elle éclata de rire.
-
-— Oui…
-
-Il se leva.
-
-— Bien. Alors retourne travailler.
-
-Elle rangea soigneusement son carnet.
-
-Mais, avant de rejoindre son établi, elle jeta un dernier regard vers l’ardoise.
-
-Deux colonnes.
-
-Deux façons différentes de gagner de la puissance.
-
-Et, pour la première fois, elle comprenait qu’un équipement pouvait évoluer avec son porteur.
+Il lui confia le rangement des documents. Hasol effaça l’ardoise après avoir gardé une courte note sur la comparaison. La trace des colonnes resta visible sous le linge, mais elle ne recommença pas le calcul dans son carnet : elle voulait conserver la place pour les questions qu’elle aurait en face d’un vrai client.
 
 ---
 
 ## V. Une réserve inhabituelle
 
-L’après-midi fut consacré aux commandes les plus simples.
+L’après-midi, le rythme changea. Les passages dans la boutique s’espacèrent et Orven prépara les commandes simples qu’il pouvait lui faire exécuter. Hasol apportait une fiche à son établi, rapprochait les ressources du bon lot, attendait le contrôle avant de commencer. Au début, elle demandait encore où déposer chaque chose ; peu à peu, elle n’eut plus besoin de se retourner pour trouver le linge propre ou la boîte des consommables épuisés.
 
-Orven avait préparé plusieurs runes destinées à de jeunes chasseurs.
+Les résultats se succédaient sans régularité. Une amélioration tenait ; une autre tentative s’éteignait avant son terme. Elle notait les échecs à leur place, reprenait les contrôles et poursuivait seulement dans les limites de la commande. Orven corrigea un mouvement de son poignet. Plus tard, il lui demanda de rapprocher la fiche plutôt que de tourner la tête pendant qu’elle préparait le support.
 
-Hasol devait vérifier les fiches, préparer les ressources et effectuer les améliorations autorisées sous sa supervision.
+Les indications étaient courtes, souvent données au milieu d’une autre tâche. Hasol appréciait qu’il lui laissât le temps de les appliquer sans rester devant elle à attendre un aveu d’incompréhension. Lorsqu’elle ne voyait pas ce qu’il voulait, elle lui demandait de montrer le geste.
 
-Les premières tentatives se déroulèrent sans difficulté particulière.
+Entre deux travaux, elle se leva pour boire. Son dos protesta lorsqu’elle se redressa. Elle était restée penchée malgré ses précautions ; elle déplaça sa chaise avant de se rasseoir.
 
-Elle réussit une amélioration.
+Elle surveillait désormais sa réserve. La dépense n’avait pas toujours la même présence dans ses sensations, mais l’énergie engagée manquait bien ensuite, y compris après un échec. Les pauses lui permettaient de récupérer sans qu’elle cherchât à en tirer un rythme régulier. Elle ne prit pas de potion : ce jour-là, elle n’en avait pas besoin pour continuer.
 
-Échoua à la suivante.
-
-Puis réussit de nouveau.
-
-À chaque fois, elle sentait le Mana quitter sa réserve.
-
-Ce n’était pas une douleur.
-
-Plutôt une légère sensation de vide, comme si elle puisait dans une énergie profondément enfouie derrière ses cercles.
-
-Lorsqu’elle ouvrait sa fiche, elle pouvait constater que sa réserve disponible avait diminué.
-
-Mais elle récupérait peu à peu une partie de cette énergie entre les tentatives.
-
-Orven lui avait expliqué que le Mana se régénérait naturellement avec le repos.
-
-Les potions pouvaient accélérer cette récupération, mais elles avaient un coût et ne remplaçaient pas une véritable pause.
-
-Hasol nota soigneusement ses observations.
-
-Puis reprit son travail.
-
-Le soleil avait déjà commencé à descendre lorsqu’Orven posa sa plume.
-
-Il regarda les commandes terminées.
-
-Puis le registre.
-
-Son front se plissa légèrement.
-
-— Hasol.
-
-La jeune fille releva la tête.
-
-— Oui ?
+Une lumière plus oblique vint toucher le bord des fiches. Hasol achevait une vérification lorsqu’Orven posa sa plume.
 
 — Arrête-toi un instant.
 
-Elle immobilisa ses mains.
+Elle retira ses mains et lui présenta le travail qu’elle venait de terminer. Il l’examina, puis parcourut les lignes du registre.
 
-— J’ai fait quelque chose de mal ?
+— Tu as surveillé ta réserve comme prévu ?
 
-— Non.
+— Oui. Elle a diminué, mais il m’en reste une bonne partie.
 
-Il examina les fiches.
-
-Puis les pierres de mana restantes.
-
-— Combien de tentatives as-tu effectuées aujourd’hui ?
-
-Hasol consulta son carnet.
-
-Elle compta les lignes.
-
-Puis recommença pour être certaine.
-
-— Depuis ce matin ?
-
-— Oui.
-
-Elle lui indiqua le total.
-
-Orven resta silencieux.
-
-Puis il regarda les commandes terminées.
-
-— Et tu as encore suffisamment de Mana ?
-
-Hasol cligna des yeux.
-
-— Oui.
-
-— Combien ?
-
-Elle ouvrit sa fiche.
-
-La jauge avait diminué au fil des améliorations.
-
-Mais elle était loin d’être vide.
-
-Hasol observa la barre lumineuse.
-
-— Il m’en reste encore une bonne partie.
-
-Orven posa lentement son registre.
-
-— Montre-moi.
-
-Hasol hésita.
-
-Puis partagea les informations nécessaires.
+Orven releva les yeux. Il revint aux commandes terminées, suivit du doigt les tentatives, puis demanda s’il pouvait voir les informations utiles. Hasol hésita le temps de refermer les autres rubriques de son interface privée. Ils étaient seuls dans l’atelier ; elle partagea son niveau et sa capacité de Mana, avec le bonus distingué.
 
 <div class="system-window character-sheet">
   <div class="system-header">✦ CARACTÉRISTIQUES — HASOL SHUN ✦</div>
-  <p><strong>Classe :</strong> Arcaniste runique</p>
-  <p><strong>Rareté :</strong> <span class="legendary-text">Légendaire</span></p>
+  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text">Légendaire</span></p>
   <p><strong>Niveau :</strong> 10</p>
-  <hr>
   <p><strong>Mana naturel :</strong> 355</p>
-  <p class="rune-bonus"><strong>Bonus runique connu :</strong> Mana +20</p>
-  <hr>
-  <p><strong>État :</strong> Réserve partiellement consommée par les améliorations de la journée</p>
+  <p><strong>Bonus runique connu :</strong> <span class="rune-bonus">Mana +20</span></p>
+  <p><strong>Réserve disponible :</strong> Partiellement consommée par le travail de la journée</p>
 </div>
 
-Orven contempla la fenêtre.
+Orven se rapprocha pour lire. Il resta silencieux plus longtemps qu’elle ne l’avait prévu, puis posa sa main à plat près du registre.
 
-Il ne dit rien pendant plusieurs secondes.
+— Trois cent cinquante-cinq naturels. Tu ne m’avais pas montré cela hier.
 
-Hasol commença à s’inquiéter.
+— Vous ne me l’aviez pas demandé.
 
-— Maître Orven ?
+— C’est vrai.
 
-Il leva une main.
+Il eut un petit sourire, aussitôt absorbé par un nouveau regard sur les informations.
 
-— Attends.
+— Tes dix cercles m’avaient déjà donné de quoi réfléchir. Mais ce que tu viens de faire aujourd’hui, avec encore cette marge…
 
-Il regarda de nouveau son registre.
+Il laissa la phrase en suspens. Hasol regarda les fiches terminées. Elle avait l’impression d’entendre parler de son Mana sur un ton auquel elle n’était pas habituée.
 
-Puis la fiche de Hasol.
+— Vous vous attendiez à ce que je doive m’arrêter plus tôt ?
 
-Enfin, il s’adossa à son fauteuil.
+— Pour récupérer, oui. C’est une bonne endurance. Je ne vais pas te donner une comparaison précise sur une seule journée et des commandes de ce genre, mais la marge est réelle.
 
-— Trois cent cinquante-cinq points de Mana naturel…
+Hasol ramena sa main près de la fenêtre partagée. Les mêmes chiffres lui avaient si souvent laissé un goût amer après une montée de niveau. Elle savait, en entrant chez Orven, qu’ils pourraient servir au travail. Elle n’avait pas imaginé le plaisir de voir les commandes faites et de comprendre qu’il lui restait encore des moyens pour celles qui attendaient.
 
-Il releva les yeux vers elle.
+— Je regardais surtout ce qu’il me manquait pour combattre, dit-elle. Je n’avais jamais travaillé assez longtemps comme cela pour voir ce que cette réserve permettait.
 
-— Au niveau dix.
+Orven acquiesça.
 
-Hasol baissa légèrement la tête.
+— Ici, nous pouvons en faire quelque chose. Il faudra apprendre à organiser tes journées avec, pas les remplir jusqu’à ce que tu tombes.
 
-— Oui.
+Elle ferma le partage. Devant elle, le support avait gardé un peu de chaleur. Hasol posa ses mains de chaque côté sans engager de Mana ; elle aimait déjà ce moment où tout était préparé et où il lui restait à choisir de commencer.
 
-Orven resta silencieux.
+— Elle ne m’a pas empêchée de rater, dit-elle en regardant une ligne du registre.
 
-Puis il demanda :
+— Elle n’est pas là pour te donner de la précision. Ça, nous y travaillons.
 
-— Tu as toujours eu une réserve aussi importante pour ton niveau ?
-
-Elle hésita.
-
-— Mon Mana a beaucoup augmenté pendant mes années à l’Académie.
-
-— Je vois.
-
-— Mais…
-
-Elle serra légèrement les doigts.
-
-— Je n’ai jamais vraiment su quoi en faire.
-
-Orven tourna la tête.
-
-Hasol contempla ses mains.
-
-— Je ne possède aucun sort offensif.
-
-Elle eut un petit rire embarrassé.
-
-— Pendant trois ans, mes caractéristiques magiques augmentaient beaucoup plus vite que ce dont j’avais besoin pour combattre.
-
-Elle baissa les yeux.
-
-— Les autres étudiants gagnaient de la force, de la vitesse ou de nouvelles compétences. Moi, je regardais surtout mon Mana augmenter.
-
-Orven ne répondit pas immédiatement.
-
-Il avait entendu parler de la situation de Hasol.
-
-Une classe légendaire.
-
-Trois années à l’Académie.
-
-Une progression exceptionnellement lente.
-
-Une jeune fille qui avait fini par chercher du travail dans une boutique de runes.
-
-Mais il n’avait pas encore mesuré ce que cela représentait réellement.
-
-Il contempla les commandes.
-
-Puis le Mana qu’il restait à son apprentie.
-
-— Tu sais combien d’apprentis seraient déjà obligés de faire une longue pause après une telle journée ?
-
-Hasol secoua la tête.
-
-— Non.
-
-— Beaucoup.
-
-Il posa le registre devant elle.
-
-— La plupart des jeunes artisans doivent répartir leurs tentatives sur plusieurs périodes de travail. Certains ne peuvent traiter qu’un nombre limité de commandes avant de devoir récupérer.
-
-Hasol regarda les lignes inscrites.
-
-— Pourtant, je ne suis pas particulièrement fatiguée…
-
-Orven leva un sourcil.
-
-— Vraiment ?
-
-Elle hésita.
-
-— Enfin… un peu.
-
-— Ah.
-
-Il croisa les bras.
-
-— Voilà une réponse plus intéressante.
-
-Hasol rougit.
-
-Orven poursuivit :
-
-— Ta réserve de Mana est remarquable pour ton niveau. Elle te permet de travailler plus longtemps avant d’atteindre la limite imposée par ta réserve magique.
-
-Il désigna les commandes.
-
-— Et cela pourrait devenir un avantage considérable dans ce métier.
-
-Hasol releva brusquement la tête.
-
-— Un avantage ?
-
-— Oui.
-
-— Même si je ne suis que niveau dix ?
-
-Orven eut un sourire amusé.
-
-— Petite, nous ne sommes pas dans une arène.
-
-Elle resta interdite.
-
-Il reprit :
-
-— Une rune ne te demande pas de courir plus vite qu’un loup. Elle ne te demande pas de porter une armure plus lourde que celle de ton adversaire.
-
-Il posa une main sur l’établi.
-
-— Elle exige des connaissances, de la précision, de la patience et du Mana.
-
-Hasol contempla les inscriptions gravées dans le bois.
-
-Orven poursuivit :
-
-— Et sur ce dernier point, tu disposes manifestement d’une réserve inhabituelle.
-
-La jeune fille sentit quelque chose se serrer dans sa poitrine.
-
-Pendant trois ans, elle avait entendu que ses caractéristiques magiques étaient inutiles.
-
-Que sa classe était une déception.
-
-Que son Mana ne servait à rien puisqu’elle ne pouvait pas lancer de sorts offensifs.
-
-Elle avait fini par regarder ses propres progrès avec amertume.
-
-Chaque augmentation de Mana lui rappelait ce qu’elle n’obtenait pas.
-
-Et voilà qu’un artisan expérimenté venait de lui expliquer que cette même réserve pouvait devenir un véritable atout.
-
-Hasol baissa les yeux.
-
-— Je…
-
-Elle chercha ses mots.
-
-— Je n’avais jamais pensé à ça.
-
-Orven l’observa.
-
-Puis son expression s’adoucit légèrement.
-
-— C’est souvent le problème lorsqu’on essaie d’utiliser un outil pour une tâche à laquelle il n’est pas destiné.
-
-Hasol releva les yeux.
-
-— Un outil ?
-
-Il prit un petit marteau sur son établi.
-
-— Regarde.
-
-Il le posa devant elle.
-
-— Excellent pour travailler certaines pièces de métal.
-
-Puis il désigna une petite lentille.
-
-— Beaucoup moins pratique pour examiner une inscription runique.
-
-Hasol sourit.
-
-— Oui.
-
-— Pourtant, ce n’est pas parce qu’un marteau ne remplace pas une lentille qu’il est inutile.
-
-Il reprit l’outil.
-
-— Tu as passé trois ans à essayer de devenir une chasseuse comme les autres.
-
-Hasol baissa légèrement la tête.
-
-Orven poursuivit :
-
-— Peut-être devrais-tu aussi apprendre à utiliser ce que ta classe sait faire différemment.
-
-Elle resta silencieuse.
-
-Puis regarda les runes disposées sur l’établi.
-
-Pour la première fois, l’idée de devenir une bonne artisane ne lui sembla plus être simplement une solution pour gagner de l’argent.
-
-Elle y entrevoyait une possibilité.
-
-Une véritable possibilité.
+Il n’y avait ni reproche ni promesse dans sa voix. Hasol étira doucement ses doigts. Elle avait envie de reprendre, non pour modifier ce qu’Orven venait de dire, mais parce qu’une commande encore dans sa boîte lui paraissait désormais un travail qu’elle pourrait apprendre à mener jusqu’au bout.
 
 ---
 
 ## VI. La limite invisible
 
-— Dans ce cas, je peux continuer !
+— Je peux préparer la suivante ?
 
-Hasol s’était redressée si brusquement qu’Orven en resta un instant surpris.
+Orven regarda son établi, puis la lumière dans la fenêtre.
 
-— Continuer ?
+— Lis-moi d’abord celle-ci.
 
-— Oui !
+Il lui plaça une fiche sous les yeux. Hasol y reconnut la désignation d’une Gardien rare bleue, trois étoiles. Elle passa à la consigne et lut :
 
-Elle désigna les commandes restantes.
+— Amélioration jusqu’à +2.
 
-— Puisqu’il me reste encore beaucoup de Mana, je pourrais terminer celles-ci avant de rentrer.
+Orven ne bougea pas. Elle s’approcha de la feuille, trouva le trait qu’elle avait pris pour la courbe du chiffre et se reprit.
 
-Orven regarda les boîtes.
+— Non. +1.
 
-Puis son apprentie.
+La chaleur lui monta au visage. Aucun consommable n’avait été préparé, elle n’avait pas touché au support ; pourtant, elle revit déjà sa main aller vers une ligne de plus dans le registre.
 
-— Non.
+— Je l’ai mal lu.
 
-Hasol cligna des yeux.
+— Oui. Si tu gardais +2 en tête, tu pourrais engager une tentative que personne n’a autorisée. Pour cette commande, nous n’avons encore rien fait. Tu la laisses ainsi.
 
-— Pourquoi ?
+Hasol s’adossa. Elle aurait voulu remettre la fiche bien droit et lui montrer qu’à présent elle ne se tromperait plus. Orven la retira de l’espace de travail.
 
-— Parce que la journée est presque terminée.
+— Les améliorations s’arrêtent pour toi aujourd’hui.
 
-— Mais je peux encore travailler !
+Elle entrouvrit la bouche. Il lui restait du Mana ; elle venait de le montrer. Mais les caractères sur la feuille lui avaient paru moins nets avant même qu’il lui demandât de lire. Elle avait changé plusieurs fois de place pour que ses épaules cessent de tirer, en continuant à considérer chaque geste comme une simple gêne à corriger.
 
-— Je n’en doute pas.
+— J’ai la tête lourde, reconnut-elle.
 
-— Alors…
+Orven repoussa sa propre tasse, oubliée depuis trop longtemps.
 
-Orven leva une main.
+— La réserve et l’attention ne s’épuisent pas ensemble. Une potion peut restaurer du Mana ; elle ne fera pas disparaître le besoin de repos mental. Aujourd’hui, tu as assez conduit de flux et vérifié de lignes.
 
-— Assieds-toi.
+Hasol regarda la place laissée libre par la fiche. L’erreur la gênait davantage parce qu’elle était petite. Elle n’avait pas ignoré une règle difficile ; elle avait lu ce qu’elle s’attendait à voir.
 
-Hasol obéit, visiblement déconcertée.
+Elle prit son carnet et inscrivit un repère dans la marge, à l’endroit où commençait cette fin d’après-midi. Puis elle remit le capuchon sur sa plume.
 
-Le vieil artisan prit une petite feuille et la plaça devant elle.
+— Je vais ranger les lots qui sont terminés.
 
-Il y avait inscrit plusieurs observations concernant une commande.
+— Après une pause. Sans fiche à lire pendant que tu bois.
 
-— Lis-moi la deuxième ligne.
+Hasol retira la main qu’elle tendait déjà vers le registre. Orven la vit et lui désigna la chaise près de la porte.
 
-Hasol se pencha.
+Elle s’y assit avec sa tasse. Pendant quelques minutes, elle écouta les bruits de la rue. Un chariot passa sur un pavé disjoint ; le battement sourd se prolongea sous les roues. Elle découvrit combien elle avait envie de ne rien suivre jusqu’au bout.
 
-— Rune Gardien… rare… trois étoiles…
+Lorsqu’elle se releva, Orven lui laissa les boîtes vides et les linges, pas les commandes en attente. Elle nettoya son espace sans essayer de négocier une dernière tentative. Au moment de repousser le support, son bras tira légèrement et elle changea de main.
 
-Elle poursuivit.
+— Il restera du travail demain, dit-elle.
 
-Puis hésita.
+— J’y compte. Sinon, j’aurais mal organisé ma boutique.
 
-Orven attendit.
-
-Hasol fronça les sourcils.
-
-Elle relut la ligne.
-
-— Amélioration jusqu’à +2…
-
-Elle s’interrompit.
-
-Puis regarda de nouveau.
-
-— Non. Jusqu’à +1.
-
-Orven acquiesça.
-
-— Exactement.
-
-Hasol sentit ses joues chauffer.
-
-— J’ai mal lu.
-
-— Oui.
-
-— Je suis désolée…
-
-— Ce n’est pas grave. Tu n’as encore rien touché.
-
-Il reprit la feuille.
-
-— Mais imagine que tu aies commencé l’amélioration sans vérifier.
-
-Hasol baissa les yeux.
-
-Elle aurait pu engager une tentative non autorisée.
-
-Consommer des ressources qui n’appartenaient pas à l’atelier.
-
-Et peut-être compromettre la confiance du client.
-
-Orven posa la feuille.
-
-— Voilà pourquoi je t’ai demandé de t’arrêter.
-
-Hasol contempla ses mains.
-
-— Mais il me reste du Mana…
-
-— Je sais.
-
-Il s’assit en face d’elle.
-
-— Et c’est précisément ce que je veux t’apprendre.
-
-Il désigna sa tête.
-
-— Ta réserve de Mana et ta capacité de concentration sont deux choses différentes.
-
-Hasol releva les yeux.
-
-— Deux limites ?
-
-— Exactement.
-
-Orven prit sa tasse, désormais froide.
-
-— Lorsque tu améliores une rune, tu dois maintenir des flux précis, surveiller les inscriptions, gérer les ressources et prendre des décisions.
-
-Il posa la tasse.
-
-— Même si tu disposes encore de Mana, ton esprit peut finir par se fatiguer.
-
-Hasol réfléchit.
-
-— Donc je pourrais encore effectuer une amélioration… mais être moins attentive ?
-
-— Oui.
-
-Il croisa les bras.
-
-— Et une erreur d’attention peut coûter beaucoup plus cher qu’une tentative ordinaire.
-
-Elle baissa les yeux.
-
-Orven poursuivit :
-
-— Les potions de Mana peuvent restaurer une partie de ta réserve magique. Elles ne remplacent pas une nuit de sommeil.
-
-Il marqua une pause.
-
-— Et elles ne rendent pas automatiquement ton jugement plus sûr.
-
-Hasol contempla les commandes restantes.
-
-Elle avait voulu les terminer.
-
-Pas seulement pour aider Orven.
-
-Elle avait aussi voulu prouver quelque chose.
-
-Prouver qu’elle pouvait travailler plus longtemps.
-
-Qu’elle possédait enfin un avantage.
-
-Qu’elle n’était plus simplement cette étudiante incapable de suivre les autres.
-
-Elle serra les doigts.
-
-— Je crois que je comprends…
-
-Orven l’observa.
-
-— Vraiment ?
-
-Elle acquiesça.
-
-— Je ne dois pas confondre avoir encore du Mana et être capable de travailler correctement.
-
-Un sourire discret apparut sur le visage du vieil artisan.
-
-— Voilà.
-
-Hasol baissa la tête.
-
-— Je voulais seulement être utile.
-
-Orven resta silencieux quelques instants.
-
-Puis il posa doucement une main sur le registre.
-
-— Hasol.
-
-Elle releva les yeux.
-
-— Tu as déjà été utile aujourd’hui.
-
-La jeune fille resta immobile.
-
-Il poursuivit :
-
-— Tu as terminé plusieurs commandes. Tu as appris à mieux préparer tes ressources. Tu as reconnu certaines de tes erreurs.
-
-Il désigna les runes rangées sur l’étagère.
-
-— Et tu as aidé un jeune chasseur à préparer son équipement.
-
-Hasol sentit sa gorge se serrer.
-
-Orven ajouta :
-
-— Tu n’as pas besoin de t’épuiser pour que cette journée ait de la valeur.
-
-Elle baissa lentement les yeux.
-
-Cette phrase lui rappelait étrangement les paroles de sa mère.
-
-Et, pendant un instant, elle eut envie de pleurer.
-
-Elle n’en comprenait pas complètement la raison.
-
-Peut-être parce qu’elle avait passé trop longtemps à mesurer sa valeur au nombre d’heures d’entraînement, de slimes vaincus ou de tentatives supplémentaires.
-
-Peut-être parce qu’elle ne savait plus très bien comment s’arrêter sans avoir l’impression d’abandonner.
-
-Orven se leva.
-
-— Allez. Nous allons terminer la journée par quelque chose qui ne demande pas de Mana.
-
-Hasol releva la tête.
-
-— Quoi ?
-
-Il désigna les étagères.
-
-— Ranger.
-
-Elle cligna des yeux.
-
-Puis un petit rire lui échappa.
-
-— Compris, Maître Orven.
+Hasol eut un rire qui défit un peu la tension de sa nuque. Elle replia le linge en deux et alla le poser avec les autres.
 
 ---
 
 ## VII. Le bon choix
 
-Alors qu’ils terminaient de ranger l’atelier, la clochette retentit de nouveau.
+Ils rangeaient encore lorsque la clochette annonça une cliente. La femme portait une armure légère et un petit coffret sous le bras ; elle salua Orven avec l’aisance d’une habituée. Hasol resta en retrait, les mains sèches, tandis qu’il allait chercher les documents demandés.
 
-Une femme entra.
+— J’aurais aussi besoin d’un conseil, dit la chasseuse en posant le coffret fermé sur le comptoir. Pour le jeune de mon groupe.
 
-Elle portait une armure légère et tenait un petit coffret sous le bras.
+Orven disposa devant elle deux fiches de comparaison. L’une proposait le choix d’une principale fixe, l’autre celui d’un pourcentage. La cliente se pencha sur la seconde.
 
-Son visage était marqué par plusieurs années de chasse, mais ses mouvements restaient souples et assurés.
+— Je pensais partir là-dessus. Il commence à nous accompagner sur des expéditions plus exigeantes. Autant prendre ce que recherchent les chasseurs expérimentés.
 
-Orven la reconnut immédiatement.
+Orven se tourna vers Hasol.
 
-— Vous êtes de retour.
+— Tu peux regarder avec nous.
 
-La femme sourit.
+Elle posa le linge qu’elle tenait et vint près du comptoir. Elle n’aurait plus eu envie de reprendre une amélioration ; parler avec une personne dont elle pouvait demander les besoins lui semblait un autre exercice. Elle prit néanmoins le temps de lire avant de répondre.
 
-— Je viens récupérer les fiches que je vous avais demandées.
+— Vous connaissez ses caractéristiques naturelles ?
 
-Elle posa le coffret sur le comptoir.
+— Pas exactement. Elles ne sont pas encore très élevées.
 
-— Et j’aurais besoin d’un conseil.
+— Et ce qui lui manque pendant vos sorties ? Vous cherchez surtout à l’aider dans quel rôle ?
 
-Orven acquiesça.
+La chasseuse lui décrivit ce qu’elle attendait du jeune membre et les difficultés qu’il rencontrait encore. Hasol l’écouta sans transformer ces indications en statistiques. Elle demanda aussi combien de temps le groupe espérait conserver le prochain équipement.
 
-— Je vous écoute.
+— Quelques mois, probablement. Nous lui trouverons mieux après, si les expéditions se passent bien.
 
-La chasseuse expliqua qu’elle souhaitait acheter une rune pour un jeune membre de son groupe.
+Hasol rapprocha les deux fiches. Elle sentit Orven près d’elle, silencieux, et évita de tourner les yeux vers lui pour y chercher sa réponse.
 
-Il venait de commencer à participer à des expéditions plus exigeantes.
+— Je ne choisirais pas seulement parce que la seconde ressemble aux équipements des plus anciens. Il faut voir ce qu’elle lui apporte à lui, pendant les chasses qui viennent. Le fixe peut être plus utile maintenant ; je ne peux pas vous l’assurer sans ses valeurs.
 
-Elle hésitait entre deux modèles.
+Elle montra les rubriques à compléter, sans annoncer de résultat.
 
-L’un possédait une caractéristique principale fixe.
+— Si vous rapportez son profil et ce qu’il porte déjà, nous pourrons comparer sans oublier ce qu’un remplacement ferait perdre. Vous aurez les deux possibilités sous les yeux.
 
-L’autre une caractéristique principale en pourcentage.
+La cliente parcourut les documents, puis releva la tête vers Orven.
 
-— J’aurais tendance à choisir la seconde, expliqua-t-elle. Les pourcentages sont généralement recherchés par les chasseurs expérimentés.
+— Vous allez me faire revenir avant de dépenser ?
 
-Orven tourna la tête vers Hasol.
+— Cela arrive, répondit-il.
 
-— Qu’en penses-tu ?
+Elle sourit.
 
-La jeune fille se figea.
+— Il dira que je m’inquiète trop pour lui. Mais je préfère lui demander que lui rapporter quelque chose qui ne lui sert pas.
 
-— Moi ?
+Hasol lui remit les fiches dans l’ordre. La chasseuse les rangea avec ses autres papiers et la remercia pour les questions. Cette fois, Hasol ne resta pas à chercher si elle avait trop parlé ; elle lui souhaita une bonne soirée.
 
-— Oui.
+Après son départ, Orven ferma le tiroir des documents.
 
-Elle regarda la cliente.
+— Tu as laissé le choix ouvert quand il manquait les données. C’était ce qu’il fallait faire.
 
-Puis les deux fiches.
+Hasol eut envie de lui demander si toutes ses questions avaient été les bonnes. Elle regarda plutôt la place où la cliente avait posé ses mains.
 
-Son cœur accéléra.
+— J’aimerais voir la comparaison quand elle reviendra.
 
-Elle venait à peine d’apprendre cette distinction.
+— Tu seras là.
 
-Et voilà qu’Orven lui demandait de conseiller une véritable chasseuse.
-
-Hasol prit une inspiration.
-
-— Est-ce que… je peux vous poser une question ?
-
-La femme sourit.
-
-— Bien sûr.
-
-— Le chasseur à qui vous destinez cette rune possède-t-il déjà des caractéristiques naturelles élevées ?
-
-La cliente réfléchit.
-
-— Pas particulièrement. Il débute encore.
-
-Hasol acquiesça lentement.
-
-Elle examina de nouveau les fiches.
-
-Puis demanda :
-
-— Est-ce qu’il compte conserver cette rune longtemps ?
-
-— Probablement quelques mois. Ensuite, nous essaierons de lui trouver un meilleur équipement.
-
-Hasol réfléchit.
-
-Elle repensa à l’ardoise.
-
-Aux deux colonnes.
-
-À la différence entre une valeur fixe et un pourcentage.
-
-Puis elle releva les yeux.
-
-— Dans ce cas, je ne choisirais pas automatiquement la rune en pourcentage.
-
-La chasseuse leva un sourcil.
-
-— Ah ?
-
-Hasol sentit ses joues chauffer.
-
-Mais elle poursuivit :
-
-— Si ses caractéristiques naturelles sont encore modestes, une principale fixe peut lui apporter davantage de statistiques immédiatement.
-
-Elle désigna les fiches.
-
-— Il faudrait comparer les gains réels de ces deux runes sur son profil, en tenant compte de leur rang, de leur amélioration et de leurs secondaires.
-
-La femme l’écoutait attentivement.
-
-Hasol ajouta :
-
-— Et puisqu’il compte probablement remplacer cette rune dans quelques mois, il vaut peut-être mieux privilégier celle qui l’aidera le plus pendant ses prochaines chasses.
-
-Un silence suivit.
-
-Hasol baissa légèrement les yeux.
-
-J’en ai trop dit ?
-
-Puis la chasseuse sourit.
-
-— C’est raisonnable.
-
-Elle regarda Orven.
-
-— Votre apprentie a de bons réflexes.
-
-Le vieil artisan acquiesça.
-
-— Elle apprend.
-
-Hasol sentit ses joues devenir brûlantes.
-
-La cliente reprit ses fiches.
-
-— Je vais demander les caractéristiques exactes de mon compagnon avant de choisir. Vous avez raison, ce serait dommage de dépenser davantage sans savoir ce qu’il y gagne.
-
-Hasol s’inclina légèrement.
-
-— Merci.
-
-La femme eut un petit rire.
-
-— C’est plutôt à moi de vous remercier.
-
-Elle quitta la boutique quelques instants plus tard.
-
-Hasol resta immobile.
-
-Orven rangea les documents.
-
-Puis se tourna vers elle.
-
-— Alors ?
-
-Hasol cligna des yeux.
-
-— Alors… quoi ?
-
-— Qu’as-tu appris ?
-
-Elle réfléchit.
-
-Puis un sourire apparut sur son visage.
-
-— Qu’il ne faut pas vendre une rune simplement parce qu’elle paraît plus impressionnante.
-
-Orven acquiesça.
-
-— Et ?
-
-— Qu’il faut comprendre les besoins du client.
-
-— Exactement.
-
-Il referma le registre.
-
-— Un artisan qui connaît parfaitement les runes mais ignore les besoins de ceux qui les utilisent ne fait que manipuler des pierres.
-
-Hasol contempla les étagères.
-
-Elle repensa au jeune chasseur venu récupérer sa rune Gardien commune, blanche, deux étoiles.
-
-À son sourire lorsqu’il avait obtenu son amélioration.
-
-Puis à cette femme qui venait de repartir avec une meilleure idée de ce qu’elle devait rechercher.
-
-Elle n’avait pas seulement appris à augmenter des chiffres.
-
-Elle avait commencé à comprendre ce que ces chiffres représentaient pour les gens.
-
-Une chance supplémentaire de survivre.
-
-Une meilleure protection.
-
-Un peu plus de confiance avant une expédition.
-
-Et parfois, simplement, la possibilité de rentrer chez soi.
+Elle reprit son linge. Le coffret n’avait pas été ouvert, aucune vente n’avait eu lieu, et pourtant cette cliente avait une raison de revenir les voir. Hasol acheva le dernier rangement avec plus de calme qu’elle n’en avait mis, le matin, à aligner les boîtes.
 
 ---
 
-## VIII. Un talent qui ne suffit pas
+## VIII. Le travail du lendemain
 
-Lorsque la boutique ferma enfin, le ciel avait pris une teinte orangée.
+Orven tourna l’enseigne lorsque le ciel commençait à prendre une teinte orangée. Hasol vida l’eau utilisée pour le nettoyage, essuya l’emplacement du support et vérifia que son carnet n’était pas resté sous un plateau. En retirant le tablier, elle trouva une trace de craie sur le pli de sa manche.
 
-Orven rangea les derniers registres.
+L’artisan achevait de rapprocher les fiches rendues du registre. Elle attendit près du comptoir, les mains encore occupées à défaire un nœud récalcitrant.
 
-Hasol nettoya soigneusement son établi, puis suspendit son tablier à son crochet.
+— Viens regarder avant de partir.
 
-Ses doigts étaient légèrement engourdis.
+Il lui montra ce qui avait été terminé et ce qui restait prévu. Elle reconnut ses lignes parmi celles d’Orven. Une annotation était moins lisible que les autres ; elle la reprécisa à sa demande, sans effacer la mention initiale.
 
-Elle avait encore du Mana.
+— Pour demain, dit-il, nous reprendrons les commandes simples. Et nous continuerons les comparaisons.
 
-Mais sa tête lui semblait lourde.
+— Je peux préparer les fiches avant que vous arriviez à l’établi ?
 
-La fatigue était différente de celle qu’elle ressentait après un entraînement à l’épée.
+— Les rapprocher des boîtes et signaler ce qui manque, oui. Tu me laisses vérifier avant les améliorations.
 
-Ses muscles n’étaient pas particulièrement douloureux.
+Hasol acquiesça. Elle n’avait plus à demander si elle pourrait revenir : ils organisaient ce qu’elle ferait en revenant.
 
-Pourtant, elle avait l’impression d’avoir passé des heures à résoudre des problèmes sans jamais pouvoir détourner son attention.
+Orven lui remit sa rémunération de la journée. Elle en vérifia le contenu, la rangea et le remercia. Le poids rejoignit celui de la veille dans sa bourse ; elle commençait à penser à la part qu’elle mettrait de côté plutôt qu’à une vitrine précise où tout dépenser.
 
-Elle comprenait désormais ce qu’Orven avait voulu lui expliquer.
+— Tu as travaillé sérieusement, ajouta-t-il. Les fiches ont suivi les commandes, et tu n’as pas essayé de décider pour la cliente ce qu’il nous manquait pour savoir.
 
-Le Mana n’était pas la seule limite.
+Hasol releva les yeux.
 
-— Hasol.
+— J’ai aussi mal lu une consigne.
 
-Elle se retourna.
+— Oui. C’est pour cela que je vérifierai encore demain.
 
-— Oui ?
+Elle laissa passer un instant, puis sourit.
 
-Orven lui tendit sa rémunération.
+— Je comptais bien vous laisser faire.
 
-Elle la prit avec précaution.
+— Voilà qui m’épargne une discussion.
 
-— Merci, Maître Orven.
+Orven rassembla les documents. Hasol suspendit enfin le tablier, dégagea son sac du crochet et y glissa son carnet. Sa tête était lourde ; à présent qu’elle n’avait plus à se tenir penchée, elle sentait la fatigue prendre toute sa place.
 
-Il acquiesça.
+À la porte, elle se retourna.
 
-Puis lui désigna une chaise.
+— Pour devenir une bonne artisane… il faudra apprendre à faire tout cela sans vous avoir à côté chaque fois.
 
-— Avant de partir, j’aimerais te dire quelque chose.
+Orven avait la main sur le verrou. Il ne répondit pas tout de suite.
 
-Hasol se redressa immédiatement.
+— Cela s’apprend aussi, dit-il. Une première journée ne suffit pas à confier une boutique. Elle peut suffire à préparer la suivante.
 
-— Oui ?
+Hasol regarda derrière lui l’espace qu’elle avait nettoyé. Le lendemain, elle saurait où poser ses affaires et par quoi commencer. Cela ne lui donnait pas les réponses aux commandes difficiles, mais elle avait envie de retrouver cette place.
 
-Orven prit quelques instants pour choisir ses mots.
+— À demain, Maître Orven.
 
-— Tu possèdes une réserve de Mana exceptionnelle pour ton niveau.
+— À demain. Et repose ce bras.
 
-La jeune fille baissa légèrement les yeux.
-
-Il poursuivit :
-
-— C’est un avantage réel. Dans ce métier, pouvoir effectuer davantage de tentatives avant de devoir récupérer peut faire une grande différence.
-
-Hasol sentit un sourire lui échapper.
-
-Mais Orven leva un doigt.
-
-— Cependant, ne confonds pas cet avantage avec du talent.
-
-Elle releva brusquement la tête.
-
-— Pardon ?
-
-— Tu as une grande réserve de Mana. Très bien.
-
-Il désigna les registres.
-
-— Mais cela ne signifie pas que tu sais déjà choisir les meilleures runes, gérer les commandes difficiles ou reconnaître toutes les erreurs possibles.
-
-Hasol resta silencieuse.
-
-Orven poursuivit :
-
-— Tu pourrais posséder dix fois plus de Mana que moi. Si tu ne sais pas comment l’utiliser, cela ne ferait que te permettre de commettre davantage d’erreurs dans la même journée.
-
-La jeune fille baissa les yeux.
-
-Elle comprenait ce qu’il voulait dire.
-
-Orven se leva.
-
-— Ce qui m’intéresse chez toi, ce n’est pas seulement ta réserve.
-
-Hasol releva lentement la tête.
-
-— Alors… quoi ?
-
-Il désigna son carnet.
-
-— Tu poses des questions.
-
-Elle cligna des yeux.
-
-— Des questions ?
-
-— Beaucoup trop, parfois.
-
-Hasol rougit.
-
-Orven eut un petit sourire.
-
-— Mais tu cherches à comprendre. Tu vérifies tes notes. Et lorsque tu échoues, tu essaies de trouver pourquoi.
-
-Il marqua une pause.
-
-— Ce sont des qualités importantes pour une apprentie.
-
-Hasol resta immobile.
-
-Pendant trois ans, elle avait entendu qu’elle ne progressait pas assez vite.
-
-Qu’elle manquait de puissance.
-
-Qu’elle ne méritait pas sa classe.
-
-Personne ne lui avait jamais expliqué que sa manière de travailler pouvait aussi représenter une qualité.
-
-Elle baissa les yeux vers son carnet.
-
-Les pages étaient couvertes de petites écritures.
-
-De corrections.
-
-De calculs.
-
-De questions.
-
-Elle avait longtemps considéré ces notes comme les preuves de tout ce qu’elle ne savait pas encore faire.
-
-Orven semblait y voir autre chose.
-
-— Merci…, murmura-t-elle.
-
-Le vieil artisan acquiesça.
-
-— Ne me remercie pas trop vite. Demain, nous reprendrons les commandes.
-
-Hasol sourit.
-
-— Oui !
-
-Il lui lança un regard amusé.
-
-— Et tu t’arrêteras lorsque je te le demanderai.
-
-Elle rougit.
-
-— Oui, Maître Orven.
-
-— Même s’il te reste du Mana.
-
-— Oui…
-
-— Même si tu penses pouvoir terminer trois commandes supplémentaires.
-
-Hasol baissa les yeux.
-
-— Compris.
-
-Orven eut un petit rire.
-
-Puis il ouvrit la porte.
-
-L’air frais du soir pénétra dans la boutique.
-
-— Allez. Rentre chez toi.
-
-Hasol s’inclina.
-
-— À demain !
-
-Elle franchit le seuil.
-
-Puis s’arrêta.
-
-— Maître Orven ?
-
-Il leva les yeux.
-
-— Hmm ?
-
-Elle hésita.
-
-— Vous pensez vraiment que je pourrais devenir une bonne artisane ?
-
-Orven la contempla quelques instants.
-
-Puis il répondit simplement :
-
-— Je pense que tu pourrais apprendre à le devenir.
-
-Hasol resta silencieuse.
-
-Il poursuivit :
-
-— Et pour le moment, c’est largement suffisant.
-
-La jeune fille sourit.
-
-— Alors je vais travailler dur.
-
-Orven secoua la tête avec amusement.
-
-— Je n’en doute pas une seconde.
-
-Il referma doucement la porte.
-
-Hasol resta quelques instants devant la boutique.
-
-Puis elle prit le chemin de la maison.
-
-Cette fois, elle ne regarda pas les vitrines des marchands de runes avec la même frustration.
-
-Elle savait encore qu’elle ne pouvait pas acheter la plupart des pierres exposées.
-
-Mais elle venait de découvrir une manière d’avancer.
-
-Pas aussi rapide qu’elle l’aurait souhaité.
-
-Pas aussi spectaculaire qu’une victoire contre un monstre puissant.
-
-Mais une manière réelle.
-
-Et surtout, une manière qui dépendait de son propre travail.
+Elle le promit sans ajouter de programme pour la soirée. Dans la rue, l’air frais lui fit du bien. Les boutiques fermaient ; derrière certaines vitres, une lampe mettait encore en valeur ce qu’on ne pouvait pas acheter tout de suite. Hasol continua vers la maison en tenant sa lanière du côté valide. Elle songeait aux ressources qu’elle apprendrait à prévoir, aux questions qu’elle pourrait poser avant qu’un client dépense, et à son propre équipement dont elle financerait peu à peu les améliorations. Elle n’avait rien acheté aujourd’hui. Elle n’en éprouva pas le besoin en passant devant les derniers étals.
 
 ---
 
 ## IX. Ce que son père ne voyait pas
 
-La demeure familiale était éclairée lorsqu’elle rentra.
+Une odeur de soupe chaude flottait dans le couloir. Hasol posa ses chaussures près de la porte et trouva sa mère au salon, occupée à refermer une boîte de composants. Celle-ci s’interrompit en la voyant.
 
-Une odeur de soupe chaude flottait dans le couloir.
+— Viens t’asseoir. Tu as l’air d’avoir regardé de très petites écritures toute la journée.
 
-Hasol retira ses chaussures et se dirigea vers le salon.
+— Elles ont rétréci après le milieu de l’après-midi.
 
-Sa mère était installée près de la fenêtre, occupée à examiner une petite boîte de composants runiques.
+Sa mère sourit, puis suivit le mouvement prudent avec lequel elle retirait son sac.
 
-Lorsqu’elle aperçut sa fille, elle posa immédiatement son travail.
+— Et le bras ?
 
-— Te voilà.
+Hasol lui présenta l’avant-bras avant qu’elle le demande. La peau était restée fermée ; elle tira légèrement lorsqu’elle tourna le poignet.
 
-Hasol sourit.
+— Je n’ai pas forcé. Orven a rapproché le travail, et j’ai laissé l’épée ici.
 
-— Je suis rentrée, maman.
+— Je l’avais remarquée.
 
-Sa mère observa son visage.
+Sa mère lui rendit son bras. Hasol s’installa près d’elle et commença par raconter le jeune chasseur, sa dernière tentative, le moment où il avait vérifié la commande devant elle. Elle entendit son propre récit accélérer ; elle ralentit en arrivant au budget, pour expliquer pourquoi ils avaient attendu son accord.
 
-Puis ses mains.
+Sa mère ne lui demanda ni les calculs ni le détail de chaque flux. Elle voulait savoir comment Hasol s’était sentie lorsque le client avait demandé qui allait travailler. Cette fois, la jeune femme put en rire un peu.
 
-— Tu as travaillé toute la journée ?
+— J’ai cru qu’il allait dire non. Il a regardé Orven, puis il m’a laissée faire.
 
-— Oui !
+— Et tu as pu travailler avec lui dans la boutique ?
 
-Elle s’assit près d’elle.
+— J’ai surtout essayé de ne pas écouter ses bottes.
 
-— Et j’ai appris énormément de choses.
+Sa mère eut un rire discret. Hasol poursuivit avec les commandes de l’après-midi, puis la surprise d’Orven devant sa réserve. Elle ne reprit pas toute la leçon : elle décrivit le registre, le travail déjà fait et cette marge qui restait, plus concrète à ses yeux que la capacité affichée seule.
 
-Sa mère sourit.
+— Je savais que le Mana me servirait à l’atelier. Mais aujourd’hui, j’ai vu ce que ça pouvait changer dans une journée.
 
-— Raconte-moi.
+Elle s’arrêta, cherchant ce qui lui plaisait tant dans cette idée.
 
-Hasol commença par lui expliquer les commandes.
+— J’ai envie de savoir comment organiser la suivante. Pas seulement de refaire une tentative qui m’a plu.
 
-Le jeune chasseur.
+Sa mère la regarda avec un sourire qui ne cherchait pas à lui dicter la suite.
 
-Les améliorations réussies.
+— Tu me raconteras.
 
-Celles qui avaient échoué.
+Hasol lui rapporta aussi la lecture de +2 au lieu de +1 et l’arrêt imposé. En le disant, elle posa machinalement deux doigts entre ses sourcils.
 
-Puis elle parla de la différence entre les caractéristiques principales fixes et celles exprimées en pourcentage.
+— J’ai encore envie de penser que j’aurais pu me reprendre.
 
-Sa mère l’écoutait attentivement.
+— Tu l’as fait. Tu n’as rien engagé, puis tu t’es arrêtée.
 
-Lorsqu’elle arriva à l’exemple des deux runes, elle prit même un petit papier pour vérifier les calculs avec elle.
+Sa mère se leva pour aller chercher leur repas. Hasol l’aida du côté où son bras ne tirait pas, et la conversation passa aux habitudes de la boutique, à la place des boîtes qu’Orven semblait reconnaître sans les regarder, au tablier qui lui allait trop grand. Elle put parler de son travail sans avoir à en défendre l’existence. Lorsqu’elle avoua avoir envie de retourner à l’établi, sa mère lui dit simplement qu’elle était contente que cette première journée lui eût donné envie de la suivante.
 
-— Donc, conclut Hasol, une principale en pourcentage devient généralement plus intéressante lorsque les caractéristiques naturelles du porteur augmentent suffisamment.
+Plus tard, en traversant le couloir, Hasol aperçut la lumière du bureau paternel. La porte était entrouverte. À l’intérieur, son père examinait des contrats parmi des lettres et des registres ; elle reconnut la courbe de son dos lorsqu’il suivait une ligne difficile.
 
-Sa mère acquiesça.
+Elle ralentit. Elle aurait aimé lui raconter le client comme elle venait de le faire à sa mère, en gardant le temps de chercher ses mots. Depuis plusieurs années, elle ne savait plus très bien comment obtenir ce temps avec lui.
 
-— Exactement.
+Il leva les yeux avant qu’elle ait décidé de frapper.
 
-Elle sourit.
+— Hasol ? Tu rentres de chez Orven ?
 
-— Je vois que Maître Orven ne perd pas son temps.
-
-Hasol eut un petit rire.
-
-— Il m’a aussi appris quelque chose d’autre.
-
-— Ah ?
-
-La jeune fille se redressa.
-
-— Chaque amélioration consomme du Mana personnel.
-
-Sa mère acquiesça.
-
-— Bien sûr.
-
-Hasol cligna des yeux.
-
-— Tu le savais ?
-
-Sa mère eut un petit rire.
-
-— Hasol, je travaille avec les runes depuis bien avant ta naissance.
-
-La jeune fille rougit.
-
-— Ah… oui.
-
-Sa mère lui caressa doucement les cheveux.
-
-— Mais je suis contente que tu commences à le comprendre par toi-même.
-
-Hasol poursuivit son récit.
-
-Elle expliqua comment Orven lui avait demandé de vérifier sa réserve.
-
-Comment il avait été surpris par la quantité de Mana qu’il lui restait après plusieurs commandes.
-
-Et comment il lui avait expliqué que sa réserve exceptionnelle pouvait devenir un avantage dans l’artisanat.
-
-Sa mère resta silencieuse quelques instants.
-
-Puis un sourire tendre apparut sur son visage.
-
-— Je m’en doutais un peu.
-
-Hasol releva brusquement la tête.
-
-— Vraiment ?
-
-— Oui.
-
-Sa mère prit sa main.
-
-— Depuis ta Révélation, j’ai toujours pensé que ta classe possédait des possibilités que nous ne comprenions pas encore.
-
-Hasol baissa les yeux.
-
-— Pourtant, pendant trois ans…
-
-Elle ne termina pas.
-
-Sa mère resserra doucement ses doigts.
-
-— Je sais.
-
-Un silence passa.
-
-Puis elle poursuivit :
-
-— Tu as passé tellement de temps à chercher comment utiliser ton Mana pour combattre que tu n’as peut-être jamais eu l’occasion de découvrir ce qu’il pouvait t’apporter ailleurs.
-
-Hasol contempla leurs mains.
-
-— Tu crois que je pourrais devenir une bonne artisane ?
-
-Sa mère sourit.
-
-— Je crois que tu peux devenir beaucoup de choses, ma chérie.
-
-Elle marqua une pause.
-
-— Mais je sais aussi que tu veux toujours devenir chasseuse.
-
-Hasol releva les yeux.
-
-— Oui.
-
-Sa réponse était venue immédiatement.
-
-Sa mère acquiesça.
-
-— Alors ne considère pas ton travail chez Orven comme un abandon de ce rêve.
-
-Elle désigna la bourse de Hasol.
-
-— Tu apprends un métier. Tu gagnes de l’argent. Tu comprends mieux tes runes.
-
-Puis elle sourit.
-
-— Tout cela pourra aussi t’aider à devenir la chasseuse que tu souhaites être.
-
-Hasol sentit une chaleur douce se répandre dans sa poitrine.
-
-Elle avait craint, pendant un instant, que son enthousiasme pour l’artisanat signifie qu’elle s’éloignait de son objectif.
-
-Mais peut-être n’avait-elle pas besoin de choisir immédiatement entre les deux.
-
-Peut-être pouvait-elle apprendre à faire de l’un le soutien de l’autre.
-
-Plus tard, lorsqu’elle traversa le couloir menant à sa chambre, Hasol aperçut une lumière sous la porte du bureau de son père.
-
-Elle ralentit.
-
-La porte était entrouverte.
-
-À l’intérieur, son père examinait plusieurs documents commerciaux.
-
-Des registres.
-
-Des contrats.
-
-Des lettres portant les sceaux de différentes maisons marchandes.
-
-Hasol resta quelques instants immobile.
-
-Elle aurait voulu lui raconter sa journée.
-
-Lui dire qu’elle avait gagné de l’argent.
-
-Qu’un artisan expérimenté avait découvert une utilité à son Mana.
-
-Qu’elle commençait enfin à comprendre comment progresser.
-
-Mais elle ne savait pas comment commencer.
-
-Depuis son départ de l’Académie, leurs conversations étaient devenues plus courtes.
-
-Son père ne lui parlait pas durement.
-
-Il continuait à lui demander si elle mangeait correctement, si elle avait besoin de quelque chose, si ses blessures guérissaient.
-
-Pourtant, les discussions qui autrefois semblaient ne jamais devoir finir s’étaient peu à peu réduites à quelques phrases.
-
-Hasol leva légèrement la main.
-
-Puis la baissa.
-
-Il travaille…
-
-Elle allait poursuivre son chemin lorsqu’il releva les yeux.
-
-— Hasol ?
-
-Elle s’arrêta.
-
-— Oui, papa ?
+— Oui. J’ai déjà mangé avec maman.
 
 Il posa sa plume.
 
-— Tu rentres seulement ?
+— Elle m’a dit qu’il te prenait à l’essai. Cela se passe bien ?
 
-— Oui. J’étais chez Maître Orven.
+— Oui. J’ai terminé des commandes sous sa surveillance aujourd’hui.
 
-Son père acquiesça.
+Il acquiesça. Hasol s’avança jusqu’au bord de la porte.
 
-— Ta mère m’a dit qu’il t’avait engagée.
+— Il a regardé ma réserve de Mana. Elle me donne une bonne endurance pour les améliorations. J’ai pu travailler longtemps sans être à court.
 
-Hasol sentit son cœur accélérer.
-
-— Oui.
-
-Un silence passa.
-
-Puis son père demanda :
-
-— Cela se passe bien ?
-
-Elle sourit timidement.
-
-— Très bien.
-
-Il acquiesça.
-
-— Tant mieux.
-
-Hasol hésita.
-
-Puis ajouta :
-
-— J’ai appris quelque chose d’intéressant aujourd’hui.
-
-Son père releva les yeux.
-
-Elle poursuivit :
-
-— Ma réserve de Mana peut être très utile pour améliorer des runes. Maître Orven m’a expliqué que je pouvais effectuer davantage de tentatives que beaucoup d’apprentis de mon niveau.
-
-Son père resta silencieux.
-
-Puis un petit sourire apparut sur son visage.
+Son père lui sourit.
 
 — C’est une bonne nouvelle.
 
-Hasol sentit sa poitrine se réchauffer.
+— Oui, dit-elle. Je suis contente.
 
-— Oui !
-
-Elle attendit.
-
-Peut-être allait-il lui poser une question.
-
-Lui demander comment fonctionnait l’amélioration.
-
-Combien de commandes elle avait terminées.
-
-Ou simplement lui proposer de lui raconter sa journée.
-
-Mais son regard revint vers les documents.
+Elle avait prononcé ces derniers mots sans les préparer. Il baissa les yeux vers le contrat, puis les releva brièvement vers son bras.
 
 — Fais attention à ne pas trop te fatiguer, ma princesse.
 
-Hasol baissa légèrement les yeux.
+Le surnom lui fit encore quelque chose, comme la pression d’une main familière dont elle n’aurait pas su retenir le geste.
 
-— Oui, papa.
-
-Il reprit sa plume.
+— Je vais me reposer. Bonne nuit, papa.
 
 — Bonne nuit.
 
-— Bonne nuit.
+Il reprit sa plume. Hasol attendit une respiration, puis ramena doucement la porte dans la position où elle l’avait trouvée.
 
-Elle referma doucement la porte.
+Dans le couloir, le bruit du travail continuait derrière le bois. Elle était déçue ; elle aurait voulu une question de plus. Elle garda pourtant la phrase qu’elle venait de prononcer : *Je suis contente.* Elle n’avait pas eu besoin de la corriger en voyant son père revenir à ses contrats.
 
-Dans le couloir, elle resta immobile quelques instants.
-
-Son père lui avait souri.
-
-Il avait même utilisé ce surnom qu’elle aimait tant.
-
-Pourtant, elle ressentait encore cette distance étrange.
-
-Comme si elle se trouvait devant une porte qu’elle connaissait depuis toujours, mais dont elle avait oublié comment tourner la poignée.
-
-Elle baissa les yeux vers sa bourse.
-
-Puis reprit le chemin de sa chambre.
-
-Un jour, je pourrai lui montrer.
-
-Elle ne savait pas encore quoi.
-
-Une rune exceptionnelle.
-
-Une véritable réussite.
-
-Peut-être simplement la preuve qu’elle avait trouvé sa place.
-
-Mais elle voulait croire que ce jour viendrait.
+Elle reprit son sac et monta dans sa chambre. Le récit du jeune chasseur lui appartenait encore, avec le merci au comptoir et la fiche qu’elle avait elle-même marquée comme rendue.
 
 ---
 
 ## X. Une autre manière d’avancer
 
-Dans sa chambre, Hasol posa son carnet sur son bureau.
+Hasol alluma la lampe et ouvrit son carnet à la page de la journée. Il y avait déjà les résultats et la courte note de l’ardoise. Elle n’avait pas besoin de recopier les explications d’Orven pour remplir l’espace restant.
 
-Elle alluma une petite lampe.
+Elle ajouta trois observations : *Préparer les fiches avant les ressources. Attention moins sûre en fin d’après-midi. Demander le profil du porteur, pas seulement ce qu’on veut acheter.*
 
-Puis ouvrit une page neuve.
+Sous ces lignes, elle garda une question pour le lendemain : *Comparer les progressions à des rangs différents dans les tables.* Elle avait compris le choix à valeurs données ; pour préparer des améliorations, il lui faudrait aussi apprendre où chercher celles qui viendraient après.
 
-En haut, elle écrivit :
+Elle rangea la rémunération de la journée avec ce qu’elle avait gagné la veille et sépara la part qu’elle voulait conserver pour ses pierres de mana. La somme restait modeste face à ses projets, mais elle pouvait décider de son usage. Elle refit le nœud sans compter une nouvelle fois.
 
-Apprentissage chez Maître Orven — Première journée complète.
+Son interface personnelle lui confirma l’équipement qu’elle connaissait : niveau dix, dix cercles et dix emplacements occupés, quatre Fatal, quatre Gardien, deux Énergie. La Fatal rare bleue, six étoiles, à +6, et la Gardien rare bleue, six étoiles, à +6, offertes par son père, étaient intactes. Les huit cadeaux maternels trois étoiles, peu communs verts ou rares bleus, n’avaient pas changé non plus : la Fatal rare bleue, trois étoiles, à +3, gardait seule son amélioration parmi eux ; les sept autres restaient à +0.
 
-Elle resta quelques instants à contempler le titre.
+Hasol referma la fenêtre. Elle posa ses affaires pour le matin et s’assit afin de retirer ses bottes sans tirer sur son bras. Dans le silence, ses oreilles semblaient retrouver les petits sons de l’atelier : la plume d’Orven, le linge sur le métal, la clochette. Elle sourit en pensant qu’elle saurait désormais lesquels annonçaient une interruption et lesquels pouvaient simplement accompagner son travail.
 
-Puis commença à noter ce qu’elle avait appris.
+Elle n’essaya pas de prolonger la soirée. Le carnet rejoignit le sac, fermé sur la question qu’elle avait choisie.
 
-Chaque tentative d’amélioration consomme des pierres de mana et du Mana personnel.
+Le lendemain, elle arriva à l’atelier avec assez d’avance pour suspendre ses affaires sans se presser. Orven était déjà là. Elle le salua, enfila le tablier et en rabattit le côté avant de rapprocher les fiches des boîtes.
 
-Les deux ressources sont consommées même en cas d’échec.
+— Celles-ci sont à vérifier, dit-elle. Il manque une indication sur celle du dessus.
 
-Le coût augmente avec la difficulté : rang, grade et palier visé.
+Orven la rejoignit. Ils regardèrent ensemble la rubrique laissée vide ; il mit la commande à part avant de lui présenter les documents de comparaison préparés sur l’établi.
 
-La réserve de Mana limite le nombre de tentatives possibles.
+— Nous allons reprendre les profils des porteurs. Pas lancer les améliorations.
 
-La concentration et la fatigue mentale constituent une limite supplémentaire.
+Hasol hocha la tête. Elle consulta les rubriques, puis tira son carnet vers elle.
 
-Elle relut ses notes.
-
-Puis tourna légèrement la page.
-
-Cette fois, elle inscrivit :
-
-Caractéristiques principales : fixes et pourcentages.
-
-Elle dessina deux colonnes.
-
-Dans la première, elle écrivit :
-
-Flat : ajout direct.
-
-Dans la seconde :
-
-% : calcul sur la caractéristique naturelle.
-
-Elle reprit les exemples de Maître Orven.
-
-Deux cents points d’Attaque.
-
-Cinq cents.
-
-Deux mille.
-
-Puis elle nota une phrase qu’elle voulait absolument retenir :
-
-La meilleure rune n’est pas forcément la plus chère. C’est celle qui convient le mieux à son porteur.
-
-Hasol reposa sa plume.
-
-Elle contempla les pages.
-
-Pendant trois ans, ses carnets avaient surtout contenu des programmes d’entraînement.
-
-Des listes de slimes vaincus.
-
-Des objectifs qu’elle n’arrivait pas à atteindre.
-
-Des chiffres qui lui rappelaient constamment la distance qui la séparait des autres étudiants.
-
-Aujourd’hui, elle avait écrit autre chose.
-
-Des connaissances.
-
-Des observations.
-
-Des possibilités.
-
-Elle ouvrit son interface.
-
-Son niveau n’avait pas changé.
-
-Elle était toujours niveau dix.
-
-Elle possédait toujours dix cercles de mana.
-
-Et ses dix runes étaient toujours équipées.
-
-Quatre Fatal.
-
-Quatre Gardien.
-
-Deux Énergie.
-
-Les deux runes rares (bleues), 6★, +6, offertes par son père occupaient toujours leurs premiers emplacements.
-
-Les huit runes 3★, peu communes vertes ou rares bleues, offertes par sa mère complétaient son équipement.
-
-Parmi elles, sa rune Fatal rare (bleue), 3★, +3, restait la seule qu’elle avait personnellement améliorée.
-
-Les sept autres, 3★, peu communes vertes ou rares bleues, étaient encore à +0.
-
-Elle n’avait gagné aucun nouveau niveau.
-
-Aucune compétence.
-
-Aucune puissance supplémentaire.
-
-Et pourtant, elle avait l’impression que quelque chose avait changé.
-
-Hasol contempla sa réserve de Mana.
-
-Pendant trois ans, ce chiffre avait été une source de frustration.
-
-Elle se souvenait des examens à l’Académie.
-
-Des professeurs qui examinaient ses caractéristiques magiques avec perplexité.
-
-De leurs remarques sur cette réserve anormalement importante pour une chasseuse incapable de lancer des sorts offensifs.
-
-Elle se souvenait surtout de la honte qu’elle ressentait lorsqu’un autre étudiant gagnait une compétence spectaculaire pendant qu’elle découvrait simplement que son Mana avait encore augmenté.
-
-À l’époque, elle aurait volontiers échangé une partie de cette réserve contre davantage de force ou de vitesse.
-
-Aujourd’hui, elle n’en était plus aussi certaine.
-
-Elle posa doucement une main sur sa poitrine.
-
-Derrière sa peau, elle sentait la présence familière de ses dix cercles.
-
-Ils étaient silencieux.
-
-Mais ils étaient là.
-
-Et ils représentaient désormais bien plus qu’un simple moyen d’équiper davantage de runes.
-
-Hasol ferma les yeux.
-
-Elle revit les inscriptions lumineuses sur l’établi.
-
-La rune qui vibrait sous ses doigts.
-
-Le Mana qui circulait entre les pierres.
-
-Puis le visage du jeune chasseur lorsqu’il avait récupéré son équipement.
-
-Un sourire apparut sur ses lèvres.
-
-Elle avait toujours voulu devenir assez forte pour aider les autres.
-
-Elle avait imaginé cette force sous la forme d’une épée.
-
-D’un monstre vaincu.
-
-D’un compagnon protégé.
-
-Mais peut-être existait-il d’autres façons d’être utile.
-
-Peut-être qu’améliorer une rune pouvait aussi sauver une vie.
-
-Pas immédiatement.
-
-Pas sous ses yeux.
-
-Mais un jour, quelque part dans un donjon, lorsqu’un chasseur parviendrait à encaisser une attaque qu’il n’aurait pas supportée auparavant.
-
-Ou lorsqu’une épée renforcée lui permettrait d’abattre un monstre avant que celui-ci ne blesse ses compagnons.
-
-Hasol ouvrit les yeux.
-
-Elle prit sa plume.
-
-Puis écrivit une dernière phrase au bas de la page.
-
-Je ne veux pas seulement posséder de bonnes runes. Je veux comprendre pourquoi elles sont bonnes.
-
-Elle resta quelques instants à regarder les mots.
-
-Puis referma son carnet.
-
-Le lendemain matin, lorsqu’elle revint à l’atelier, Orven l’attendait déjà.
-
-Plusieurs commandes étaient disposées sur l’établi.
-
-Hasol suspendit sa sacoche.
-
-Puis enfila son tablier.
-
-— Bonjour, Maître Orven !
-
-Il leva les yeux.
-
-— Bonjour, Hasol.
-
-Elle s’approcha.
-
-— Qu’est-ce que nous allons faire aujourd’hui ?
-
-Orven désigna une petite pile de fiches.
-
-— Commence par examiner celles-ci.
-
-Hasol les prit.
-
-Il s’agissait de plusieurs demandes d’amélioration.
-
-Certaines concernaient des principales fixes.
-
-D’autres des principales en pourcentage.
-
-Elle releva les yeux.
-
-— Vous voulez que je choisisse lesquelles améliorer ?
-
-— Pas encore.
+— J’ai aussi une question. Si deux principales en pourcentage ont la même valeur maintenant, mais pas le même rang en étoiles, comment vérifier ce qu’elles apporteront après plusieurs améliorations ? Je ne veux pas supposer que leur progression restera la même.
 
 Orven posa sa tasse.
 
-— Je veux que tu m’expliques à quels clients elles conviendraient le mieux.
+— Voilà une bonne raison d’ouvrir les tables.
 
-Hasol sourit.
+Il alla chercher un manuel dont les coins portaient des réparations de papier. Hasol dégagea la place nécessaire entre eux. Lorsqu’il posa le livre, elle évita de le rapprocher d’un trait, comme elle l’aurait fait avec un cahier neuf : une couture dépassait légèrement de la couverture.
 
-— Compris !
+— Il a beaucoup servi ?
 
-Elle s’installa à son établi.
+— Suffisamment pour que tu ne poses pas ta tasse dessus.
 
-Puis ouvrit son carnet.
+— Je n’ai pas de tasse.
 
-Orven l’observa quelques instants.
+— Nous prenons de bonnes habitudes à l’avance.
 
-Il repensa à la réserve de Mana qu’elle lui avait montrée la veille.
+Elle rit et ouvrit son carnet à la page marquée. Orven tourna les premiers feuillets jusqu’aux tables utiles. La lumière du matin glissait sur le bord de l’établi ; Hasol déplaça légèrement sa chaise pour ne pas lui faire d’ombre.
 
-À ses dix cercles.
+Elle avait préparé la place, repéré une information manquante et apporté sa question. La fierté qu’elle en éprouvait était tranquille, assez solide pour ne pas lui faire précipiter la suite.
 
-À sa manière de poser des questions.
+Hasol posa sa plume près de la première ligne.
 
-Et à cette détermination presque excessive qui semblait la pousser à continuer même lorsqu’il lui demandait de s’arrêter.
+— Je commence par cette comparaison. Vous regarderez quand j’aurai terminé ?
 
-Il avait rencontré de nombreux apprentis au cours de ses vingt-cinq années de métier.
-
-Certains étaient naturellement habiles.
-
-D’autres possédaient une excellente mémoire.
-
-Quelques-uns avaient une réserve de Mana particulièrement généreuse.
-
-Mais Hasol présentait une combinaison inhabituelle.
-
-Une réserve remarquable.
-
-Une classe entièrement tournée vers les runes.
-
-Et une volonté de travailler qui semblait avoir été forgée par des années de déceptions.
-
-Il était encore trop tôt pour savoir jusqu’où elle pourrait progresser.
-
-Une grande réserve ne suffisait pas à faire un grand artisan.
-
-Et le sérieux d’une apprentie ne garantissait pas qu’elle saurait un jour gérer les améliorations les plus difficiles.
-
-Mais Orven commençait à penser qu’il avait eu raison de lui donner sa chance.
-
-Il prit une nouvelle fiche.
-
-— Hasol.
-
-Elle releva immédiatement la tête.
-
-— Oui ?
-
-— Lorsque tu auras terminé tes comparaisons, viens me montrer tes calculs.
-
-— Bien sûr !
-
-Elle se replongea dans son travail.
-
-Puis s’arrêta brusquement.
-
-— Maître Orven ?
-
-Il soupira.
-
-— Quoi encore ?
-
-Hasol leva timidement la main.
-
-— Est-ce que je peux vous poser une question ?
-
-Orven contempla le plafond.
-
-Puis son apprentie.
-
-— J’aurais dû m’en douter.
-
-Hasol rougit.
-
-— Désolée…
-
-Il eut un petit sourire.
-
-— Vas-y.
-
-Elle désigna l’une des fiches.
-
-— Si deux runes possèdent la même principale en pourcentage, mais pas le même rang en étoiles, comment compare-t-on leur progression après plusieurs améliorations ?
-
-Orven resta silencieux une seconde.
-
-Puis un sourire plus franc apparut sur son visage.
-
-— Voilà une question qui mérite qu’on ouvre les tables.
-
-Il tira une chaise près d’elle.
-
-Puis posa un vieux manuel sur l’établi.
-
-Les pages étaient usées.
-
-Certaines portaient des annotations écrites de sa main.
-
-D’autres avaient été réparées avec de fines bandes de papier.
-
-Hasol se pencha immédiatement.
-
-Orven ouvrit le livre.
-
-— Commençons par le début.
-
-La jeune fille saisit sa plume.
-
-Et, tandis que la lumière du matin traversait les fenêtres de l’atelier, une nouvelle leçon commença.
-
-Hasol ne savait pas encore combien de temps il lui faudrait pour devenir une bonne artisane.
-
-Elle ignorait combien de runes elle échouerait à améliorer, combien de pierres de mana elle gaspillerait et combien de journées elle passerait à répéter les mêmes gestes.
-
-Elle savait seulement qu’elle avait trouvé un endroit où ses efforts pouvaient enfin prendre une forme différente.
-
-Pendant trois ans, elle avait cherché désespérément une manière d’utiliser la puissance que sa classe lui avait donnée.
-
-Elle n’avait jamais imaginé qu’une partie de la réponse l’attendrait derrière le comptoir d’une petite boutique.
-
-Et pourtant, ce matin-là, tandis qu’elle écoutait Maître Orven lui expliquer les subtilités d’une inscription runique, Hasol souriait.
-
-Elle avait encore énormément à apprendre.
-
-Mais, pour la première fois depuis longtemps, elle n’avait pas peur de la longueur du chemin.
-
-Elle avait hâte de le parcourir.
+Orven acquiesça. Elle se pencha sur le livre et se mit au travail.

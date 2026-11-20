@@ -68,35 +68,36 @@ Le chapitre 2 est désormais présent dans `roman.md` comme version de lecture, 
 - Composition validée : quatre Fatal, quatre Gardien, deux Énergie ; un ensemble Fatal, deux Gardien, un Énergie. Bonus d’ensemble séparés : Attaque +35 %, Défense +30 %, PV +15 %.
 - HAS-R003, nouvelle Fatal rare (bleue), 3★, améliorée de +0 à +3 : un échec initial puis trois réussites. Les autres nouvelles runes restent à +0.
 - Bonus fixes proposés : PV +445, Attaque +102, Défense +96, Vitesse +13, Mana +20 ; Résistance +6 % en bonus distinct, sans taux naturel défini.
-- Entraînement : mannequin de niveau 10, exercice arrêté après trois touches reçues ; défaite en 42 secondes, une touche portée.
+- Entraînement : mannequin simulant un guerrier ordinaire de niveau 10 ; temps mesuré jusqu’à la troisième touche reçue, défaite en 42 secondes, une touche portée. Hasol prévoit de garder le même adversaire simulé et cette condition d’arrêt pour comparer ses essais (DEC-025).
 - Chasse : trois loups de niveau 5, 12 XP chacun, soit 36 XP gagnés. L’XP totale et le seuil suivant restent non chiffrés. Croissance runique : trois éliminations admissibles supplémentaires, sans remettre à zéro le reliquat historique inconnu.
 - Blessure : griffure à l’avant-bras, nettoyée à l’eau puis traitée avec une petite quantité de potion ; soins vérifiés par la mère au retour. Ne pas supposer une guérison complète immédiate.
 - Évolution : espoir soutenu par l’aide maternelle, impatience, confrontation aux limites techniques et au danger ; décision de travailler les appuis et de chercher comment financer les améliorations.
 - Père vivant, sans nouvelle réconciliation. Aucun compagnon recruté, aucune nouvelle compétence offensive. Orven et Yoon ne sont pas encore rencontrés dans ce chapitre.
 
-## Hasol — État raconté au chapitre 3, DEC-023
+## Hasol — État raconté au chapitre 3, refonte DEC-026
 
-**Texte intégré sur demande de l’auteur, sans validation littéraire globale implicite.** Les faits prolongent l’état de lecture du chapitre 2 ; aucun chiffre naturel n’est remplacé.
+**Texte initial intégré par DEC-023, puis refondu sur demande de l’auteur dans DEC-026 ; nouvelle version à relire, sans validation littéraire globale implicite.** Les faits prolongent l’état de lecture du chapitre 2 ; aucun chiffre naturel n’est remplacé.
 
 - **Âge, niveau, équipement :** dix-neuf ans, niveau 10, dix cercles, dix emplacements occupés ; HAS-R001 à HAS-R010 inchangées. Principales, secondaires et ensembles conservés comme au chapitre 2.
 - **XP et compteur :** aucun gain d’XP ni monstre tué dans ce chapitre ; conserver les 36 XP et trois éliminations nouvelles connues du chapitre 2 sans supposer le reliquat historique nul.
-- **Entraînement :** survit 78 secondes contre le mannequin niveau 10, contre 42 auparavant ; perd encore mais commence à distinguer progression technique et niveau. Aucun total de dégâts ou décompte de touches nouveau n’est fixé.
+- **Entraînement :** tient 78 secondes contre le guerrier ordinaire simulé niveau 10, contre 42 auparavant, avec les mêmes réglages. Deux touches déjà reçues, balayage au mollet constituant la troisième, chute et arrêt (DEC-025 et DEC-026). Progrès dans les appuis et le recul ; aucun total de dégâts ou nombre de touches portées fixé pour cet essai.
 - **Blessure :** bras encore douloureux et bandé après les loups de la veille ; arrêt de l’exercice lorsque la blessure tire, chasse reportée.
 - **Économie :** visite le marché sans achat ; sa mère la présente à Orven. Réussit l’épreuve sur ORV-R001, rune d’atelier Énergie commune (blanche), 2★, devenue peu commune (verte), 2★, +3. Première rémunération, engagement à l’essai, aucun montant inventé.
 - **Connaissances :** apprend l’existence des Collines de Braise et des gobelins rouges niveau 11 ; choisit de se préparer plutôt que de partir. Partage ses dix cercles, Bénédiction runique et Croissance runique avec Orven en privé.
-- **Évolution :** fierté du premier revenu, accepte qu’une défaite ou un échec d’amélioration ne définisse pas sa valeur. Son rêve reste de devenir chasseuse. Pas de rencontre de Yoon, de nouvelle compétence ou d’avantage d’échec chiffré.
+- **Évolution :** fierté du premier revenu, malgré la peur de décevoir encore. Ses connaissances théoriques restent disponibles sous le doute : comparaison d’équipement, contrôles de la rune, suivi des consignes. Elle demande elle-même le travail et prépare le lendemain ; l’artisanat devient un choix pour financer son rêve de chasseuse, pas son abandon. Le carnet conserve des observations pratiques plutôt qu’un nouveau manifeste ; une pièce laissée sur le chevet marque sa première rémunération. Pas de rencontre de Yoon, de nouvelle compétence ou d’avantage d’échec chiffré.
 
-## Hasol — État raconté au chapitre 4, DEC-023 et DEC-024
+## Hasol — État raconté au chapitre 4, adaptation DEC-027
 
-**Version désignée comme validée dans la transmission mobile, intégrée sur demande de l’auteur.** Dernière scène : matin suivant sa première journée complète chez Orven.
+**Version initiale importée par DEC-023, désignée comme validée dans la transmission mobile ; adaptation ultérieure expressément autorisée, DEC-027.** La nouvelle rédaction est à relire, sans validation littéraire implicite. Dernière scène : matin suivant sa première journée complète chez Orven.
 
 - **Niveau et caractéristiques :** reste niveau 10 ; PV 3058, Attaque 213, Défense 192, Vitesse 115, Mana naturel 355, Puissance arcanique 211, sans gain naturel. Les bonus runiques sont ceux de l’inventaire du chapitre 2 ; aucun nouveau total complexe.
 - **Équipement :** dix cercles et dix runes personnelles inchangées ; quatre Fatal, quatre Gardien, deux Énergie. Deux cadeaux paternels rares (bleus), 6★, +6 ; HAS-R003 Fatal rare (bleue), 3★, +3 ; sept autres runes maternelles 3★ à +0. Aucun remplacement, sacrifice ou amélioration personnelle.
 - **Mana :** bonus runique connu +20 ; réserve disponible partiellement consommée par le travail, valeur exacte **À DÉFINIR**. Ne pas confondre capacité naturelle, capacité avec équipement et solde disponible. Récupération entre tentatives et repos non quantifiés.
 - **Travail :** commande CLI-R001, Gardien commune (blanche), 2★, +0 → +2, rendue au client ; autres commandes simples sans inventaire individuel récupérable. Rémunération non chiffrée, aucune XP gagnée racontée.
 - **Blessure et fatigue :** griffure décrite comme refermée mais sensible ; renonce à emporter son matériel d’entraînement. Fatigue mentale en fin de journée malgré du Mana restant ; Orven la fait arrêter après une erreur de lecture sans conséquence sur une commande.
-- **Connaissances :** comprend le coût personnel en Mana des améliorations, les limites de concentration et l’assiette naturelle des principales en pourcentage. Découvre que sa réserve est un avantage d’endurance, pas une maîtrise automatique ni une garantie de réussite.
-- **Relations :** confiance naissante envers Orven ; appui de sa mère. Le père sourit et l’appelle « ma princesse », puis revient à ses registres : affection intacte, distance non résolue. Ray absent, Yoon pas encore rencontrée.
+- **Connaissances :** connaît déjà le coût personnel en Mana et apprend à suivre sa réserve pendant une journée réelle. Met la théorie fixe/pourcentage au service des besoins d’un porteur ; calcule sur les caractéristiques naturelles et réclame les informations manquantes plutôt que conseiller à l’aveugle. Découvre concrètement son avantage d’endurance et sa limite de concentration, sans maîtrise automatique ni garantie de réussite.
+- **Relations :** confiance naissante envers Orven fondée sur le travail ; la mère écoute le vécu sans refaire les calculs. Le père sourit et l’appelle « ma princesse », puis revient à ses registres : affection intacte, distance non résolue. Hasol reste déçue mais conserve la satisfaction de sa journée sans attendre qu’il la confirme. Ray absent, Yoon pas encore rencontrée.
+- **Autonomie débutante — DEC-027 :** rémunération de la journée rangée et part réservée aux pierres de mana, montants non chiffrés. Le lendemain, prépare son poste, signale une rubrique manquante et apporte une question sur les tables ; travail toujours contrôlé par Orven. La fierté de ces gestes remplace un nouveau bilan général sur sa valeur.
 - **Compétences et secrets :** Bénédiction runique et Croissance runique seules ; aucun sort offensif, Aura runique non obtenue, Œil runique inconnu. Orven connaît les dix cercles et sa réserve naturelle ; aucune mesure des 30 % avant le chapitre 7.
 
 ## Maître Orven — État raconté aux chapitres 3 et 4
@@ -104,13 +105,15 @@ Le chapitre 2 est désormais présent dans `roman.md` comme version de lecture, 
 - **Rôle :** marchand et artisan runique, plus de vingt-cinq ans d’expérience, connaissance ancienne de la mère de Hasol ; devient employeur à l’essai puis mentor. Dernière apparition : chapitre 4.
 - **Apparence :** cheveux grisonnants, mains marquées par le travail ; classe, âge exact, niveau, caractéristiques et équipement personnel **À DÉFINIR**.
 - **Attitude :** exigeant et pragmatique, respecte les commandes et leurs budgets ; consigne les tentatives, explique les échecs sans humilier, rémunère le travail de l’épreuve et refuse l’épuisement.
+- **Refonte du chapitre 3 — DEC-026 :** évalue les contrôles et le respect des ressources autorisées ; fait examiner l’état de la rune après l’échec plutôt que donner un long discours rassurant. Engagement à l’essai, ni promesse de prodige ni emploi définitif.
+- **Adaptation du chapitre 4 — DEC-027 :** confie une vraie commande dans un budget limité, surveille la réserve, fait arrêter les améliorations à cause d’une erreur d’attention, puis reconnaît la méthode et organise le travail du lendemain. L’initiative d’Hasol progresse, la supervision n’est pas levée.
 - **Connaissances au chapitre 3 :** réputation d’Hasol, classe et passifs, dix cercles révélés en privé avec sa mère. Au chapitre 4, découvre sa capacité naturelle de Mana 355 et son endurance inhabituelle ; ne quantifie pas son avantage sur les échecs.
 - **Enseignement raconté :** séparation des runes d’atelier et de clients, limites d’autorisation, coût en pierres et Mana, principales fixes et en pourcentage, valeur affective des cadeaux, fatigue mentale et besoins des chasseurs.
 - **Futur séparé :** comparaison des taux d’échec et recommandation au Griffon d’Argent au chapitre 7, non encore survenues.
 
 ## Parents de Hasol — Actualisation des chapitres 3 et 4
 
-- **Mère :** soigne et surveille la blessure ; présente Hasol à Orven sans répondre à sa place. Soutient son autonomie et son métier sans lui demander d’abandonner la chasse ; connaît l’utilité artisanale du Mana. Dernière apparition : chapitre 4. Nom, âge, classe et caractéristiques exacts **À DÉFINIR**.
+- **Mère :** soigne et surveille la blessure ; présente Hasol à Orven sans répondre à sa place. **Choix confirmé par l’auteur, explicité dans la refonte DEC-026 :** elle respectait son rêve de chasseuse et attendait qu’elle soit prête à envisager l’artisanat, sans ancienne proposition refusée inventée. Soutient son autonomie et son métier sans lui demander d’abandonner la chasse ; connaît l’utilité artisanale du Mana. Dernière apparition : chapitre 4. Nom, âge, classe et caractéristiques exacts **À DÉFINIR**.
 - **Père :** vivant, occupé par les documents de commerce. Informé par la mère de l’embauche ; apprend de Hasol l’intérêt de son Mana chez Orven. Sourire et surnom affectueux ne constituent pas une réconciliation ; aucune réaction au futur pouvoir Aura runique, encore inconnu. Dernière apparition : chapitre 4. Nom, âge, classe et caractéristiques exacts **À DÉFINIR**.
 
 ## Ray Corvus — État raconté au chapitre 1, DEC-021

@@ -153,6 +153,7 @@ Les valeurs actuelles du manuscrit restent Mana 30 et Puissance arcanique 20 au 
 - Les ressources de l’épreuve du chapitre 3 sont fournies par l’atelier. Le chapitre 4 montre des commandes de clients avec budget et tentatives autorisées limités ; l’apprentie ne peut pas engager des ressources ou un palier supplémentaire sans autorisation.
 - Les échecs montrés aux chapitres 3 et 4 consomment les ressources mais laissent les runes intactes à leur niveau précédent. Cela n’établit pas les conséquences de tous les échecs aux paliers non racontés.
 - L’absence de montant ou de décompte de Mana dans une ancienne fenêtre ne signifie pas que le coût est nul. Aucun débit rétroactif chiffré n’est ajouté aux chapitres précédents.
+- **Précision narrative — DEC-027 :** Hasol connaît le coût personnel en Mana avant sa première journée complète. Le chapitre 4 adapté montre l’apprentissage du suivi de sa réserve et de ses limites en situation, pas la découverte tardive de la règle. Aucune modification des coûts, de la régénération ou des caractéristiques n’en découle.
 
 ## 10. Questions à définir
 

@@ -35,33 +35,33 @@ DEC-019 : texte adapté depuis `old.txt` sur demande de l’auteur ; DEC-020 val
 - Lendemain matin : huit cadeaux maternels 3★ verts ou bleus s’ajoutent aux deux cadeaux paternels rares (bleus), 6★, +6 ; dix pièces au total, quatre Fatal, quatre Gardien, deux Énergie.
 - Première amélioration personnelle : HAS-R003, Fatal rare (bleue), 3★, +0 → +3 ; une tentative initiale échouée puis trois réussites ; deux secondaires conservées et Vitesse renforcée au palier.
 - Équipement des dix pièces ; un Fatal, deux Gardien, un Énergie actifs. Pas d’ensemble Lame.
-- Entraînement : 42 secondes contre le mannequin niveau 10, une touche portée, trois reçues, arrêt de l’exercice.
+- Entraînement : 42 secondes contre le mannequin simulant un guerrier ordinaire niveau 10, une touche portée, trois reçues ; chronomètre arrêté à la troisième touche. Hasol décide de conserver le même adversaire simulé et la même condition d’arrêt pour comparer ses essais (DEC-025). Aucun épuisement des PV n’est déduit de l’arrêt.
 - Plus tard : chasse de trois loups niveau 5, griffure à l’avant-bras, potion, 36 XP et trois éliminations admissibles supplémentaires. Hasol reste niveau 10, dix cercles.
 - Retour : soins maternels, mise en garde contre la précipitation, objectifs de travail technique et de financement. Aucun chapitre 3 rédigé par cette adaptation.
 
-## 3. Chapitre 3 — Le prix d’un rêve, texte intégré depuis `new.txt`
+## 3. Chapitre 3 — Le prix d’un rêve, version refondue DEC-026
 
-**DEC-023 : intégration autorisée le 20 novembre 2026**, sans validation littéraire globale implicite. La journée suit la chasse du chapitre 2 ; les dates calendaires et les quantités non annoncées restent **À DÉFINIR**.
+**DEC-023 : intégration initiale depuis `new.txt` ; DEC-026 : refonte expressément autorisée, nouvelle version à relire.** La journée suit la chasse du chapitre 2 ; les dates calendaires et les quantités non annoncées restent **À DÉFINIR**. Les événements sont conservés, pas remplacés par une nouvelle trame.
 
-- Matin : exercices d’appuis puis défaite contre le mannequin niveau 10 en **1 min 18 s**, soit **36 secondes de plus** que les 42 secondes précédentes. Griffure encore douloureuse ; Hasol s’arrête et note les progrès et erreurs dans son carnet.
+- Matin : exercices d’appuis puis défaite contre le guerrier ordinaire simulé niveau 10 en **1 min 18 s**, soit **36 secondes de plus** que les 42 secondes précédentes. Même protocole (DEC-025 et DEC-026) : deux touches déjà reçues, balayage au mollet constituant la troisième, chute et arrêt immédiat. Griffure encore douloureuse ; Hasol renonce à un nouvel essai et note brièvement les observations techniques dans son carnet.
 - Marché : Fatal peu commune (verte), 3★, +0, principale Attaque et secondaire Vitesse, valeurs et prix non chiffrés. Hasol n’achète rien, ses dix emplacements sont déjà occupés.
 - Carte et discussion : découvre les Collines de Braise et les gobelins rouges de niveau 11, mais renonce à y aller sans préparation. Aucun déplacement vers ces collines ni combat nouveau.
-- Retour : sa mère l’accompagne chez Orven pour demander du travail. Celui-ci découvre les dix cercles et les passifs dans un échange privé, sans mesurer l’avantage relatif sur les échecs.
+- Retour : sa mère refait le bandage et propose la rencontre avec Orven, sans demander à Hasol d’abandonner son rêve de chasseuse ; elle attendait qu’elle soit prête à envisager l’artisanat. Hasol demande elle-même le travail. Les passifs et les dix cercles sont révélés après fermeture de la porte de l’atelier ; les statistiques magiques restent privées et l’avantage relatif sur les échecs n’est pas mesuré.
 - Épreuve : rune d’atelier **ORV-R001, Énergie commune (blanche), 2★, +0**, principale PV sans secondaire. Réussite +1, échec +2, réussite +2 puis +3 ; première secondaire Défense et grade actuel **peu commun (vert)**. Valeurs exactes non transmises.
-- Fin de journée : premier paiement non chiffré, engagement à l’essai, exigences de soin du bras et de repos. Hasol note « Pas encore » au sujet des Collines de Braise.
+- Fin de journée : premier paiement non chiffré et engagement à l’essai pour commencer le lendemain ; consignes sur les commandes, ressources et soin du bras. Hasol note « Pas encore » au sujet des Collines de Braise, prépare ses affaires et laisse une pièce sur le chevet, en raccord avec l’ouverture du chapitre 4. Aucun échange nouveau avec le père ni réconciliation.
 - Bilan : niveau 10, dix cercles, mêmes dix runes personnelles ; aucun gain d’XP ni nouvelle élimination raconté, compteur de Croissance runique inchangé depuis le chapitre 2, reliquat historique toujours inconnu.
 
-## 4. Chapitre 4 — La voie de l’artisan, texte intégré depuis `new.txt`
+## 4. Chapitre 4 — La voie de l’artisan, version adaptée DEC-027
 
-**DEC-023 : intégration autorisée ; texte désigné comme validé dans la transmission mobile.** Aucun autre chapitre n’est importé par cette autorisation.
+**DEC-023 : import de la version désignée comme validée dans la transmission mobile ; DEC-027 : adaptation autorisée après la refonte du chapitre 3, nouvelle rédaction à relire.** Dix sections et événements conservés ; aucun autre chapitre modifié par cette adaptation.
 
 - Lendemain du premier paiement : première journée complète à l’atelier. La griffure est décrite comme refermée par les soins précédents, mais encore sensible ; pas de reprise forcée de l’entraînement à l’épée.
 - Matin : commande client **CLI-R001, Gardien commune (blanche), 2★**, +0 → +2. Un échec au premier passage +1, puis réussite +1 et réussite +2 dans les trois tentatives autorisées. Rune rendue à son propriétaire, sans secondaire ; ressources et montants non chiffrés.
-- Orven explique le coût des améliorations en pierres **et Mana personnel**, consommés même en cas d’échec. Hasol apprend à distinguer budget autorisé, réserve magique et concentration.
+- Orven fait suivre les deux ressources, pierres **et Mana personnel**, consommées même en cas d’échec. Hasol connaît la règle mais apprend à surveiller sa réserve pendant une journée entière ; budget autorisé, réserve magique et concentration restent distincts.
 - Enseignement DEC-011 complété par DEC-024 : principales fixes et en pourcentage, assiette naturelle avant bonus fixes, exemples pédagogiques +50 Attaque et +10 %. Aucun remplacement des cadeaux paternels ; la valeur affective des runes est distinguée de leur utilité future.
 - Après-midi : plusieurs commandes simples, quantité exacte **À DÉFINIR**. Orven constate une réserve de Mana inhabituellement endurante : 355 naturels et bonus runique connu +20 ; le solde disponible n’est pas chiffré. Il ne découvre pas les 30 % d’échecs en moins.
 - Fin de travail : erreur de lecture d’une consigne sans tentative engagée, arrêt imposé malgré le Mana restant, distinction entre fatigue mentale et manque de Mana ; conseil à une cliente, rangement et rémunération non chiffrée.
-- Soir : récit à la mère ; échange bref et affectueux mais encore distant avec le père, sans réconciliation. Le chapitre se termine le matin suivant, au début d’une nouvelle leçon sur les tables.
+- Soir : récit du vécu à la mère sans répétition du cours ; échange bref et affectueux mais encore distant avec le père, sans réconciliation. Le souvenir des cadeaux conserve le coffret unique. Le lendemain, Hasol prépare les fiches, signale une information manquante et apporte sa question sur les progressions par étoiles avant de commencer une comparaison sous contrôle d’Orven. Initiative et fierté concrètes, pas compétence nouvelle.
 - Bilan : Hasol reste niveau 10, dix cercles et dix runes personnelles inchangées, aucune compétence nouvelle ni élimination supplémentaire. Réserve de Mana consommée puis récupération non quantifiée, pas de solde numérique inventé.
 
 ## 5. Événements futurs — non encore racontés
