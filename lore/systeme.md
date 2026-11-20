@@ -139,6 +139,8 @@ Hasol possède une classe fonctionnellement **de soutien**, mais sa Puissance ar
 
 Ce décalage est au cœur du personnage : ses caractéristiques magiques ne lui donnent pas une compétence offensive. Au début, elle ne peut pas exploiter cette puissance comme un mage malgré ses statistiques. Ne pas changer sa classe ou lui accorder un sort pour expliquer les chiffres.
 
+**Futur CANON — DEC-031 :** un premier sort offensif se débloque au niveau 40 et exploite pleinement la réserve de Mana exceptionnelle de Hasol. Elle termine le livre I autour du niveau 45. Il s'agit d'un événement futur, distinct de l'utilisation combattive d'une aura d'arme ; aucune compétence offensive de ce type n'est à introduire avant le niveau 40. Nom, effet, portée, coût, durée, récupération et lien chiffré avec le Mana ou la Puissance arcanique restent **À DÉFINIR**. « Exploiter pleinement » ne signifie pas automatiquement consommer toute la réserve, infliger des dégâts égaux au Mana, ignorer la Défense ou garantir une victoire.
+
 Ces repères complètent l’échelle propre au roman ; ils ne sont pas extraits des fiches de Summoners War. La rareté légendaire, le rôle de soutien et le profil statistique magique sont trois informations distinctes. L’équivalence Légendaire ≈ 4★ natif ne signifie pas qu’Hasol doit reprendre toutes les caractéristiques d’un monstre de soutien.
 
 Les valeurs actuelles du manuscrit restent Mana 30 et Puissance arcanique 20 au niveau 1, 310 et 186 au niveau 9, 355 et 211 au niveau 10. Les nouveaux repères ne les remplacent pas automatiquement et ne définissent pas leurs valeurs intermédiaires. Ne pas calculer les gains par division des normes par soixante ; la progression et la date du dépassement restent à établir.
@@ -155,7 +157,80 @@ Les valeurs actuelles du manuscrit restent Mana 30 et Puissance arcanique 20 au 
 - L’absence de montant ou de décompte de Mana dans une ancienne fenêtre ne signifie pas que le coût est nul. Aucun débit rétroactif chiffré n’est ajouté aux chapitres précédents.
 - **Précision narrative — DEC-027 :** Hasol connaît le coût personnel en Mana avant sa première journée complète. Le chapitre 4 adapté montre l’apprentissage du suivi de sa réserve et de ses limites en situation, pas la découverte tardive de la règle. Aucune modification des coûts, de la régénération ou des caractéristiques n’en découle.
 
-## 10. Questions à définir
+## 10. Armes imprégnées d’une aura — seuil d’utilisation, CANON DEC-028
+
+- Il faut être **au minimum niveau 10 pour utiliser une arme imprégnée d’une aura**. Le seuil concerne le personnage qui utilise l’arme, pas l’artisan qui l’a enchantée.
+- Cette restriction est distincte de l’équipement des runes, qui reste sans niveau minimum (DEC-008). Elle ne fixe aucune condition supplémentaire pour les armes ordinaires.
+- Hasol ne pouvait donc pas utiliser une telle arme pendant ses années d’Académie, où elle restait sous le niveau 10. Le seuil explique pourquoi elle n’avait pas eu recours à cette possibilité auparavant ; il ne signifie pas qu’elle ignorait l’existence des auras.
+- L’explication est prévue au chapitre 5, à l’occasion de la découverte de l’aura de l’arme de Zio et de l’éventuelle visite chez le forgeron. Elle n’a pas encore été racontée.
+- Les conséquences exactes d’une tentative d’utilisation sous le niveau 10 restent **À DÉFINIR** : ne pas inventer blessure, rejet de l’arme, perte d’enchantement ou consommation de Mana. Aucune exception liée à l’origine de l’aura n’est établie.
+- Cette décision ne valide pas à elle seule les coûts, durées, effets ou modalités des enchantements et d’Aura runique encore à arbitrer pour la suite.
+
+## 11. XP des boss, compteurs et moyens d'Hasol — futur CANON DEC-032
+
+- Dans la trajectoire future d'Hasol, l'essentiel de l'XP provient des boss de donjon après l'abandon rapide du farm intensif de petits monstres au profit du groupe. Aucun montant, bonus de boss, mécanisme de partage ou barème d'XP universel n'est défini par cette orientation.
+- Croissance runique suit les monstres admissibles, pas le volume d'XP. Une élimination de boss ne doit pas être transformée en plusieurs centaines d'éliminations parce qu'elle rapporte beaucoup d'XP. Le seuil de 1 000 reste inchangé ; l'attribution des éliminations en groupe ne se déduit pas du seul partage d'XP et reste à préciser avant un calcul détaillé.
+- Cette activité permet de monter de niveau tout en franchissant peu souvent les seuils de mille monstres. L'évolution ultérieure DEC-038 ajoute un autre mode de gain sans modifier cette observation sur le compteur initial. Le nombre total de cercles à vingt-cinq ans et en fin de livre reste **À DÉFINIR**, sans calcul automatique depuis le niveau du personnage.
+- Vers vingt-cinq ans, Œil runique contribue à la réputation artisanale et à des moyens financiers colossaux, suffisants pour financer des améliorations personnelles jusqu'à +15. La capacité à payer ne garantit ni la réussite de chaque tentative ni un travail illimité ; temps, Mana et fatigue restent applicables.
+- La vue des caractéristiques finales prédéterminées à +15 ne fixe pas les probabilités de réussite et ne change pas les affixes. Les runes effectivement améliorées doivent être suivies individuellement, sans créer un inventaire futur chiffré absent des sources.
+
+## 12. Équipes et accès aux donjons — CANON DEC-035
+
+- Une équipe compte au maximum cinq membres et cinquante points de classe. Les deux plafonds s'appliquent simultanément ; une place libre ne suffit pas si le budget de points est épuisé.
+- L'accès aux donjons demande **au minimum trois membres**. Les chasses extérieures en solo et en duo ne sont pas interdites par cette règle.
+- Le duo Hasol/Yoon (20 + 10 = 30 points) ne remplit pas ce minimum. L'adhésion de Ray **commun**, cinq points (DEC-036), porte le groupe à trois membres, 35/50, accès rendu possible sous cette condition d'effectif. Ne pas en déduire qu'il n'existe aucune autre condition de donjon.
+- Zio rare rejoint ultérieurement le trio : quatre membres, 45/50 (20 + 10 + 5 + 10). Le futur Ranger commun prévu par DEC-037 ajoute cinq points : cinq membres et 50/50. Le calendrier reste à définir ; cette adhésion future de Zio ne vaut pas entrée dès sa première supervision.
+- Nature, contrôle et exceptions de la restriction de donjon, statut d'un accompagnateur extérieur et conséquences d'une perte de membre en cours d'expédition restent **À DÉFINIR**. Ne pas inventer verrou magique, sanction, partage d'XP ou règle de butin.
+
+## 13. Ranger et apprentissages futurs d'Hasol — CANON DEC-037
+
+- La Ranger commune du groupe est **Samia Claire** (DEC-041) ; elle combine archerie, détection des pièges et ouverture des coffres. Les techniques et compétences exactes du personnage ne sont pas encore décrites.
+- Vers la fin du livre I, Hasol apprend ces fonctions d'exploration auprès de Samia. Cet apprentissage conduit à une **amélioration du même passif Œil runique**, qui conserve son nom et ses effets de lecture des runes tout en permettant de voir les pièges. Ce n'est ni un second passif ni un renommage en Œil arcanique.
+- **Main runique** est un sort actif permettant d'ouvrir les coffres, acquis à la suite de cet apprentissage. Il ne s'agit pas du premier sort offensif du niveau 40 ; aucun effet de combat n'est établi pour Main runique.
+- Déclencheurs exacts de l'évolution, niveaux, coûts, portée, durée, récupération, difficulté, types de pièges et coffres concernés restent **À DÉFINIR**. Détecter ne signifie pas automatiquement désamorcer ; ouvrir des coffres ne signifie pas contourner toute protection ou réussir sans limite.
+- Dans le livre II, l'évolution d'Œil runique appartient à l'ancien passif accessible avec Arcaniste Astral ; les adaptations détaillées de cette classe restent à documenter. **Main runique doit être réapprise rapidement**, selon des conditions encore à définir. Aucun accès automatique au niveau 1 ou transfert global des anciennes compétences actives n'est adopté.
+- Après ce réapprentissage, Hasol pourra couvrir ces fonctions sans Ranger indispensable dans l'équipe. Cela ne supprime pas l'intérêt de cette classe ni ne fixe le devenir du personnage dans la seconde chronologie.
+
+### Cas futur du boss invocateur — DEC-039
+
+- Un boss de donjon niveau 32 invoque en masse des monstres niveau 11 tant qu'un piège n'est pas désactivé. Le groupe de quatre doit fuir et Zio propose un Ranger avant le retour ; il s'agit d'un cas narratif précis, pas du fonctionnement universel des boss ou des donjons.
+- Position et nature du piège, débit et limites des invocations, moyens de le repérer et de le désactiver, comportement du boss après désactivation et résultat du retour **À DÉFINIR**. La désactivation n'établit pas une victoire automatique ; aucune invulnérabilité préalable du boss n'est fixée.
+- **Admissibilité précisée par DEC-040 :** les invocations de ce donjon peuvent alimenter Croissance runique lorsqu'Hasol les élimine personnellement et remplit les conditions de niveau du compteur initial. L'auteur prévoit qu'elle exploite ce mécanisme dans sa seconde vie. XP, partage, cadence, nombre exact d'invocations et gains restent **À DÉFINIR** ; ne pas inventer un plafond, une interdiction de farm ou une source infinie d'XP.
+- **Fenêtre connue :** les monstres niveau 11 satisfont les seuils de l'ancien effet quand Hasol est niveau 10–19 (monstres 1+) et 20–29 (monstres 10+). Dès son niveau 30, ils ne satisfont plus l'exigence de monstres 20+. L'accès au passif dès le niveau 1 d'Arcaniste Astral ne définit pas à lui seul son admissibilité avant le niveau 10.
+- Garder le piège actif pour produire des invocations ne signifie pas achever le boss plusieurs fois. Les invocations niveau 11 ne sont pas des boss et n'alimentent pas le compteur de cent boss de DEC-038. Les conditions d'accès à trois membres restent applicables ; le souvenir d'Hasol et son autonomie technique n'accordent pas une entrée en solo.
+
+## 14. Évolution de Croissance runique après cent boss — futur CANON DEC-038
+
+- **Déclencheur :** cent boss de donjon achevés personnellement par Hasol ; ce jalon survient vers le niveau 38 dans la trajectoire prévue. Le niveau 38 n'est pas une condition minimale supplémentaire fixée pour le déblocage. Achever personnellement ne signifie pas devoir combattre seule : un combat de groupe peut compter si elle porte le coup final.
+- **Nouvel effet :** un cercle de Mana par tranche de cent boss de donjon personnellement achevés, **quel que soit leur niveau**. Ne pas ajouter de seuil de niveau de boss ou de dégressivité non décidée.
+- **Premier gain immédiat :** les cent boss qui déclenchent l'évolution donnent son premier cercle ; les gains suivants correspondent aux totaux 200, 300, etc. Ne pas demander cent autres boss pour ce premier gain ni compter les cent initiaux deux fois.
+- **Cumul confirmé :** l'ancien effet par mille monstres admissibles reste actif. Un même boss peut avancer le compteur des boss et, s'il remplit les conditions de l'ancien effet, celui des mille monstres. Il reste une seule élimination dans le compteur initial ; son XP ne le transforme pas en un grand nombre de monstres.
+- **Suivi :** conserver deux compteurs distincts et leurs gains déjà attribués. Si les deux seuils sont franchis sur le même boss, chaque effet accorde son gain ; ne pas réattribuer les anciens paliers du compteur de mille au moment de l'évolution.
+- **État futur :** aucun centième boss ni cercle supplémentaire n'est réputé déjà acquis dans les chapitres actuels. Le total de cercles, l'équipement associé, le nombre de boss avant la fin du livre et le chapitre exact restent **À DÉFINIR**.
+- **Livre II :** l'évolution relève du passif futur hérité, mais ses compteurs dans la seconde vie et leur éventuel report ne sont pas fixés. Ne pas transférer automatiquement les cent boss ou les cercles gagnés de la première chronologie.
+
+## 15. Sage runique de Yoon : soutien et cercles au sol — CANON DEC-046
+
+| Capacité | Forme fixée | Obtention et usage connus |
+|---|---|---|
+| Résonance runique | Renforcement actif ciblé, temporaire, principales des runes ; ajoute les deux premières secondaires de chaque rune au niveau 40 | Disponible à la rencontre niveau 5 ; niveau initial exact à définir ; évolution 40, DEC-050 |
+| Chant runique | Zone de soin progressif posée ; pas de canalisation continue | Disponible à la rencontre niveau 5 ; niveau initial exact à définir |
+| Domaine des Entraves Runiques | Zone de contrôle de foule par ralentissement des ennemis | Prochain sort, niveau 20 ; pas de déblocage déplacé au niveau 10 |
+| Second soin, nom à définir | Marque runique posée sur un allié ; soin sur la durée ciblé | Niveau 30, DEC-049 ; distinct du cercle de soin au sol |
+| Tempête arcanique | Zone posée de dégâts sur la durée, cercle rouge runique | Niveau 50, DEC-048 ; aucun usage anticipé au niveau 30 |
+
+- Yoon est une soutien polyvalente. Son soin sur la durée reste très inférieur à celui d'une soigneuse pure ; ce principe qualitatif ne donne ni taux, ni plafonnement ni ratio universel de soins.
+- Elle pose ses zones en **cercles au sol avec des écritures runiques**, signature de Sage runique. Rayon, portée de placement, durée, limites de cumul, mobilité ou déplacement éventuel des cercles et interactions entre zones restent **À DÉFINIR**.
+- **Couleurs narratives — DEC-047 et DEC-048 :** vert pour la zone de soin, violet pour la zone de ralentissement, rouge pour Tempête arcanique au niveau 50. Ces couleurs décrivent les effets dans le monde ; elles ne remplacent pas les conventions HTML des bonus runiques et temporaires.
+- **Tempête arcanique — DEC-048 :** sort actif de zone infligeant des dégâts sur la durée. Nom et niveau 50 fixés ; coût, puissance, assiette des dégâts, durée, rayon, cadence, récupération, alliés éventuellement affectés, persistance hors zone et cumul avec les autres cercles **À DÉFINIR**. Le nom ne donne ni foudre, vent, projection ou effet offensif instantané supplémentaires. Ne pas déduire des compétences d'Hasol une formule applicable à ce sort de Yoon.
+- **Marque de soin — DEC-049 :** au niveau 30, second soin sur la durée sous forme d'une marque runique posée sur un allié. Ce libellé est descriptif, pas un nom officiel décidé. Le ciblage distingue ce soin du cercle au sol ; ne pas supposer qu'il affecte plusieurs personnes ou reste actif indéfiniment. Coût, durée, cadence, assiette, puissance par rapport au cercle, récupération, portée, nombre de marques et cumul **À DÉFINIR**. Ce sort ne garantit pas la puissance de soins d'une soigneuse pure.
+- Le soin est posé, permettant à Yoon d'agir ensuite ; l'ancienne version qui exigeait un chant constamment maintenu par concentration est remplacée. Cela ne définit pas le temps de lancement, le maintien en Mana ou les possibilités exactes de plusieurs sorts simultanés. Le coût de maintien déjà établi du Domaine n'est pas supprimé par analogie.
+- Résonance affecte l'allié choisi, pas automatiquement tous les alliés proches. Avant le niveau 40 de Yoon, seules les principales sont amplifiées. Au niveau 40, DEC-050 ajoute les deux premières secondaires présentes sur chaque rune ; les secondaires suivantes et les bonus d'ensemble restent exclus. Principales fixes ou en pourcentage, modalités de calcul et amplification numérique à définir.
+- **Évolution de Résonance — DEC-050 :** l'actif ciblé reste actif ciblé, sans conversion en aura passive. Une rune sans secondaire ne reçoit pas d'affixe, une rune n'en ayant qu'une ne bénéficie que de celle-ci. L'ordre exact désignant les deux premières secondaires (apparition ou affichage), les coefficients appliqués et leur interaction avec les autres contributions restent **À DÉFINIR** ; ne pas inventer un facteur identique pour toutes les caractéristiques ou une règle d'arrondi.
+- Paramètres de soin de la transmission (10 % des PV maximums de Yoon toutes les cinq secondes, cinq mètres, trente secondes) non adoptés automatiquement. Avant une démonstration chiffrée, définir l'assiette et vérifier le résultat par rapport au rôle de soutien souhaité.
+- Le niveau final de Yoon est **54 au chapitre 16** ; Domaine au niveau 20, marque de soin au 30, évolution de Résonance au 40 et Tempête arcanique au 50 sont établis. Caractéristiques, gains intermédiaires, paramètres et autres capacités éventuelles restent **À DÉFINIR**. Ce repère est distinct du niveau final approximatif 45 d'Hasol, sans nouvelle formule d'XP.
+
+## 16. Questions à définir
 
 - Tables complètes par rang des principales PV, Attaque, Défense, Vitesse, Mana et éventuelles autres caractéristiques, au-delà des valeurs adoptées ci-dessus.
 - Valeurs initiales et gains des secondaires, distincts des tables ci-dessus.

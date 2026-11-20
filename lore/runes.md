@@ -98,6 +98,10 @@ Toutes les nouvelles runes appartiennent à Hasol, sont offertes par sa mère au
 
 Pour les futures acquisitions, appliquer DEC-007 aux butins de monstre, sans déduire la rareté du niveau du monstre. Les cadeaux paternels rares (bleus), 6★, +6 gardent leur rang sans qu’une provenance de chasse précise leur soit inventée.
 
+### Futur financier et équipement vers vingt-cinq ans — DEC-032
+
+**CANON pour les moyens, inventaire détaillé À DÉFINIR :** Hasol devient une artisane réputée et dispose de fonds colossaux permettant de financer ses runes jusqu'à +15. Ne pas reporter ces améliorations sur HAS-R001 à HAS-R010 dans les états actuels ni supposer que toutes les anciennes runes sont conservées. Nombre de pièces déjà à +15, identités, grades, étoiles, caractéristiques et calendrier restent à établir lors de la préparation des scènes. Le nombre de cercles croît peu après l'abandon du farm intensif ; aucun emplacement supplémentaire n'est créé du seul fait de sa richesse ou de son niveau.
+
 ## Chapitres 3 et 4 — Équipement personnel inchangé
 
 **DEC-023 :** Hasol conserve HAS-R001 à HAS-R010, dix runes équipées sur dix emplacements. Aucun achat, remplacement, sacrifice ni amélioration personnelle n’est raconté dans ces chapitres. L’ancienne validation des cadeaux et de la composition reste distincte du statut de lecture des caractéristiques maternelles.

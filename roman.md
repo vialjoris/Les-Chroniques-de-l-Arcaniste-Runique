@@ -1927,7 +1927,7 @@ Elle aurait voulu lui rappeler qu’ils avaient encore parlé de leur future éq
 
 Qu’il lui avait promis de lui montrer ses premiers sorts.
 
-Qu’elle l’avait félicité lorsqu’il avait obtenu sa classe rare de mage.
+Qu’elle l’avait félicité lorsqu’il avait obtenu sa classe commune de mage.
 
 Mais les mots restèrent coincés dans sa gorge.
 

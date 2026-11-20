@@ -14,7 +14,7 @@
 - **Quelques mois après l’entrée, Hasol niveau 3 :** tentative de recrutement par un groupe de quatre étudiants (deux rares et deux communs, trente points). Son entrée serait permise à cinq membres et cinquante points, mais elle est refusée pour son absence de compétence utile au combat au regard de ses vingt points de classe. D’autres refus suivent, certains liés à un manque réel de points disponibles.
 - **Deuxième année :** Hasol atteint le niveau 7.
 - **Troisième année, section VII :** Hasol atteint le niveau 8 et subit les moqueries sur ce niveau ; ses camarades approchent du niveau 30. Les éliminations s’accumulent sans fixer à ce stade un total exact.
-- **Pendant cette période, au retour des plaines — DEC-021 :** Ray Corvus, ancien ami d’enfance et mage de classe rare, accompagne deux harceleurs, rit et minimise leur amitié. Le guerrier lui arrache son carnet ; Zio le récupère, dénonce la complicité de Ray et encourage Hasol à noter ses progrès. Il s’agit d’un seul épisode développé, pas d’une seconde intervention. Les niveaux de Ray et Zio à cette date restent **À DÉFINIR** ; aucun pardon ni rapprochement avec Ray n’a lieu.
+- **Pendant cette période, au retour des plaines — DEC-021, rareté corrigée par DEC-036 :** Ray Corvus, ancien ami d’enfance et mage de classe commune, accompagne deux harceleurs, rit et minimise leur amitié. Le guerrier lui arrache son carnet ; Zio le récupère, dénonce la complicité de Ray et encourage Hasol à noter ses progrès. Il s’agit d’un seul épisode développé, pas d’une seconde intervention. Les niveaux de Ray et Zio à cette date restent **À DÉFINIR** ; aucun pardon ni rapprochement avec Ray n’a lieu.
 - **Vers la fin de la troisième année, section VIII :** passage 8 → 9 montré une seule fois, dans les plaines. Le total de plus de huit mille slimes est établi avant l’expulsion ; ne pas annoncer le niveau 9 dans la section précédente.
 - **Avant la consultation finale du statut de niveau 9 :** un entretien avec un professeur expose les normes magiques du niveau 60 (Mana 1000 ; Puissance arcanique 600 pour un soutien, 2000 pour un mage) et le profil de croissance de mage d’Hasol. Aucun pouvoir futur n’est annoncé.
 - **À dix-neuf ans :** expulsion, dîner familial douloureux, père vivant ; barre d’XP à un point du niveau 10.
@@ -66,12 +66,61 @@ DEC-019 : texte adapté depuis `old.txt` sur demande de l’auteur ; DEC-020 val
 
 ## 5. Événements futurs — non encore racontés
 
-Le nouveau chapitre 4 décale l’ancienne trame des chapitres 4 à 7 vers les chapitres **5 à 8** (DEC-023). Les retrouvailles avec Zio et la présentation de Yoon restent à venir au chapitre 5 ; routine au chapitre 6, découverte des 30 % d’échecs en moins au chapitre 7, alpha au chapitre 8. Voir `../PLAN_DIRECTEUR.md` et les points à arbitrer avant rédaction du chapitre 5.
+**Plan du livre I validé — DEC-045 :** seize chapitres, référence détaillée dans `../PLAN_DIRECTEUR.md`. Les textes 1 à 4 existent avec leurs statuts littéraires distincts ; les suivants ne sont pas encore racontés. Les anciens découpages après le chapitre 8 ne sont plus actifs.
+
+| Chapitre | Titre validé | Jalon de continuité |
+|---|---|---|
+| 1 | La légendaire inutile | Révélation, Académie, niveau 10 et dix cercles |
+| 2 | La véritable valeur d'une rune | Dix runes, mannequin, trois loups et griffure |
+| 3 | Le prix d'un rêve | Orven, épreuve et premier salaire |
+| 4 | La voie de l'artisan | Première journée complète, endurance et fatigue |
+| 5 | Le premier lien | Yoon, chasses, forgeron, duo, niveau 11 et Aura runique |
+| 6 | Deux chemins, un même objectif | Vies parallèles, expérimentation critique de l'aura, passage étroit |
+| 7 | Le talent d'une légende | Mesure des échecs, Griffon d'Argent, améliorations |
+| 8 | La puissance des dix runes | Victoire du duo sur l'alpha niveau 12 |
+| 9 | Douze cercles | Douze runes ; Hasol 19, Yoon 24 avant le sauvetage |
+| 10 | Ceux qui riaient autrefois | Sauvetage, niveau 20, Œil runique, Ray ; trio à 35/50 |
+| 11 | Le dernier départ | Zio rejoint à 45/50 ; décès du père lors du voyage commercial |
+| 12 | La légende prend sa place | Donjon invocateur, Samia à 50/50, renommée vers vingt-cinq ans |
+| 13 | Ce que nous construisons | Vie commune, mariage, transmission de Samia |
+| 14 | Le centième boss | Évolution de Croissance runique vers le niveau 38 |
+| 15 | Enfin, la magie | Premier sort offensif au niveau 40 et préparation de la crise |
+| 16 | Celle qui demeure | Hasol trente-quatre ans, environ niveau 45 ; Yoon 54 ; autodestruction de Zio et rune temporelle |
+
+Les dates intermédiaires, paramètres encore ouverts et scènes détaillées restent **À DÉFINIR**. Les quinze années se répartissent en plusieurs périodes développées, pas en une ellipse unique. La validation de ce plan n'est ni une validation littéraire des textes actuels ni un découpage validé des livres II et III.
+
+**Yoon — CANON, DEC-046 :** niveau 5 à la rencontre au chapitre 5 avec Résonance active ciblée et soin progressif en zone runique posée ; niveau exact d'obtention initial de ces capacités à définir. Prochain sort au niveau 20 : Domaine des Entraves Runiques, montré ou raconté au chapitre 9 avant son niveau 24 au sauvetage du chapitre 10. Niveau 54 au chapitre 16. Le soin reste inférieur à celui d'une soigneuse spécialisée ; la zone posée remplace le chant continuellement maintenu des anciennes variantes, sans changement des événements encore à rédiger.
+
+**Sort futur de Yoon — CANON, DEC-048 :** Tempête arcanique obtenue au niveau 50, avant son niveau final 54. Cercle rouge runique de dégâts sur la durée ; chapitre et première utilisation **À DÉFINIR**, sans effet déjà acquis lors des premières chasses. La proposition de niveau 30 n'est plus active.
+
+**Second soin de Yoon — CANON, DEC-049 :** au niveau 30, elle obtient un soin sur la durée en marque runique sur un allié, distinct du soin de zone disponible lors de ses premières chasses. Chapitre exact, nom officiel, paramètres et première utilisation **À DÉFINIR**. Ce jalon vient après le Domaine du niveau 20 et avant Tempête arcanique du niveau 50 ; il n'est pas acquis au sauvetage de Ray où Yoon est niveau 24.
+
+**Évolution de Résonance — CANON, DEC-050 :** au niveau 40 de Yoon, l'actif ciblé commence à amplifier les deux premières secondaires de chaque rune, en plus des principales. Il reste actif et n'affecte pas les ensembles ou les secondaires suivantes. Chapitre et date à fixer ; ne pas confondre avec le niveau 40 d'Hasol pour son premier sort offensif. Aucun effet sur les secondaires lors du sauvetage de Ray, où Yoon est niveau 24.
 
 Les déblocages futurs, le sauvetage de Ray et les événements des livres I et II doivent rester séparés des connaissances présentes des personnages. Se reporter aux sections futures du plan sans en importer les révélations dans le chapitre 1.
 
+**Mort future du père — CANON, DEC-029, DEC-033 et DEC-045 :** au chapitre 11, il meurt au cours d'un voyage commercial lointain, **avant la large reconnaissance de la réputation artisanale d'Hasol**, sans véritable réconciliation. Il connaît ses débuts chez Orven mais ne voit pas sa pleine reconnaissance publique. L'ancien contexte de raid est remplacé. Date, âge d'Hasol, destination, cause du décès et détails de l'annonce restent **À DÉFINIR** ; aucun de ces événements n'est encore raconté.
+
+**Progression future d'Hasol — CANON, DEC-031 et DEC-045 :** premier sort offensif au niveau 40 au chapitre 15, exploitant pleinement sa grande réserve de Mana ; arrivée autour du niveau 45 à la catastrophe du chapitre 16, à trente-quatre ans. Le décès du père a lieu au chapitre 11 ; dates exactes et détails de l'apprentissage restent **À DÉFINIR**. Ce plan n'est pas un événement déjà écrit.
+
+**Évolution future de Croissance runique — CANON, DEC-038 et DEC-045 :** au chapitre 14, vers le niveau 38, après cent boss de donjon achevés personnellement, le passif évolue et donne immédiatement le premier cercle de son nouvel effet. Les suivants sont accordés à 200, 300, etc. boss, sans condition sur leur niveau, avec cumul du compteur initial de mille monstres lorsqu'ils y sont admissibles. Date et nombre total de cercles **À DÉFINIR** ; aucune nouvelle élimination ou progression ajoutée aux scènes actuelles.
+
+**Maturité artisanale — CANON, DEC-032 :** après le déblocage d'Œil runique au niveau 20, Hasol construit une réputation et dispose vers vingt-cinq ans de fonds colossaux permettant de financer ses runes jusqu'à +15. Ce jalon doit précéder le chapitre 13 dans le découpage de travail. Son niveau et le calendrier précis des améliorations restent **À DÉFINIR**. Le farm intensif est rapidement délaissé au profit des donjons en groupe et de l'XP des boss ; relativement peu de nouveaux cercles, sans nombre exact fixé.
+
+**Union future — CANON, DEC-034 et DEC-045 :** amorce du rapprochement après l'entrée de Zio au chapitre 11, puis amour et mariage au chapitre 13, après le décès du père et la reconnaissance artisanale installée au 12. Durée précise, scènes et âge au mariage **À DÉFINIR**. Aucun mariage déjà vécu dans les chapitres actuels ; aucune reconduction automatique dans le livre II.
+
+**Évolution future du groupe — CANON, DEC-035 et DEC-036 :** après le sauvetage de Ray, mage de classe commune, sa famille lui impose d'aider Hasol. Elle l'accepte pour ouvrir l'accès aux donjons, soumis à un minimum de trois membres : trio à 35/50 points, confiance encore fragile. Zio rejoint ensuite cette équipe, date à définir : quatre membres et 45/50 points. Le quotidien partagé avec Hasol construit leur rapprochement avant le mariage. Aucun donjon du duo ni appartenance de Zio aux premières chasses supervisées n'est ajouté rétroactivement.
+
+**Cinquième membre et transmission — CANON, DEC-037 :** un Ranger commun rejoint le groupe du livre I, le complétant à cinq membres et 50/50 points ; identité et recrutement à définir. Vers la fin du livre, Hasol apprend auprès de lui : détection des pièges ajoutée à Œil runique, sans changement de nom, et ouverture des coffres par Main runique active. Au livre II, Main runique est réapprise rapidement ; la date et les conditions sont à fixer avant les scènes d'exploration concernées. Aucun de ces apprentissages n'est déjà raconté dans les chapitres actuels.
+
+**Identité précisée — CANON, DEC-041 et DEC-042 :** la Ranger commune est **Samia Claire**, une femme, amie de Yoon à l'Académie, du même âge qu'elle et d'un niveau légèrement inférieur lors de son introduction. Elle accepte de venir dès qu'elle apprend que Zio est dans le groupe. Motif exact, date et valeurs chiffrées de niveau à définir ; ni la retraite initiale à quatre ni la proposition de Zio ne sont changées. Hasol apprend ensuite auprès de Samia vers la fin du livre I.
+
+**Retraite précédant le recrutement — CANON, DEC-039 :** après l'entrée de Zio et avant celle du Ranger, Hasol, Yoon, Ray et Zio affrontent un boss de donjon niveau 32. Il invoque en masse des monstres niveau 11 tant qu'un piège n'est pas désactivé. Le groupe de quatre fuit ; Zio propose alors le recrutement avant une nouvelle tentative. Âges et niveaux des personnages, chapitre, blessures, ressources et issue du retour **À DÉFINIR**, sans gain d'XP ou élimination déjà attribués.
+
+**Réemploi dans le livre II — CANON, DEC-040 :** Hasol se souvient de cette rencontre et utilise volontairement le donjon et son piège actif pour accumuler les invocations niveau 11 personnellement éliminées et gagner des cercles. Scène à placer dans une fenêtre compatible avec les seuils du passif : les niveaux 10 à 29 d'Hasol sont admissibles selon les règles actuelles ; dès le niveau 30, les monstres niveau 11 ne suffisent plus. Âge, chapitre, groupe d'accès, XP, rythme et gains exacts à définir. Ce réemploi ne modifie pas la retraite initiale du livre I.
+
 **Enseignement désormais raconté — DEC-011 et DEC-024 :** chapitre 4, sections IV et VII. Ne plus le planifier comme une première découverte future. Il ne constitue ni une découverte anticipée des 30 % d’échecs en moins ni une annonce d’Œil runique.
 
-## 6. Propositions de développement
+## 6. Développements encore ouverts
 
-Le découpage après le chapitre 8 reste proposé, non figé. Les nouvelles consignes mobiles sur le chapitre 5, ses niveaux et Aura runique ainsi que la proposition d’évolution au chapitre 6 ne sont pas des événements racontés ; les contradictions et paramètres ouverts doivent être arbitrés avant rédaction.
+Le plan des seize chapitres du livre I est validé par DEC-045, mais les paramètres techniques et dates laissés ouverts ne sont pas validés implicitement. Hasol passe 10 → 11 et obtient Aura runique au chapitre 5 ; les niveaux intermédiaires de Yoon et les détails de l'évolution expérimentée au chapitre 6 restent à établir. Les livres II et III ne disposent pas encore d'un découpage validé ; les propositions de conversation ne sont pas des événements déjà racontés.
