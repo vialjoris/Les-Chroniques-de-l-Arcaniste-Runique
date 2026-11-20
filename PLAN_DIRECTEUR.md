@@ -69,7 +69,8 @@ L’auteur adopte les quatre lignes de progression des principales de taux criti
 - **Précision de l’auteur — DEC-014 :** la principale augmente à chaque amélioration réussie de +1 à +15, avec un gain plus important à +15. Une secondaire est aussi ajoutée ou renforcée à +3, +6, +9, +12 **et +15**. Les règles d’ajout jusqu’à +12 suivent DEC-006 ; à +15, les quatre secondaires déjà présentes impliquent le renforcement de l’une d’elles, pas une cinquième. Ce palier secondaire final est une adaptation propre au roman.
 - Les tentatives peuvent échouer ; elles consomment des ressources (pierres de mana) ; préciser les conséquences exactes d'un échec seulement si établies dans le chapitre.
 - **Bénédiction runique** : passif initial de Hasol augmentant les chances de réussite, sans les garantir.
-- En chapitre 6, Orven établit que Hasol subit environ **30 % d'échecs en moins que lui, en relatif**, et non « 30 points de pourcentage » (exemple pédagogique : 40 % d'échec pour Orven contre 28 % pour Hasol). Le chiffre exact de chaque série de tests peut être créé de manière cohérente, sans prétendre à une probabilité universelle.
+- En chapitre 7 après insertion du chapitre d'artisanat (DEC-023), Orven établit que Hasol subit environ **30 % d'échecs en moins que lui, en relatif**, et non « 30 points de pourcentage » (exemple pédagogique : 40 % d'échec pour Orven contre 28 % pour Hasol). Le chiffre exact de chaque série de tests peut être créé de manière cohérente, sans prétendre à une probabilité universelle.
+- **Coût et limites — DEC-024 :** chaque tentative consomme des pierres de mana et du Mana personnel, même en cas d'échec. Difficulté selon étoiles, grade et palier ; barèmes **[À CONFIRMER]**. Repos et potions restaurent le Mana sans supprimer toute fatigue mentale. La grande réserve de Hasol donne de l'endurance, pas une maîtrise automatique. Enseignement raconté au chapitre 4, distinct de la mesure des échecs au chapitre 7.
 - **Œil runique** : déblocage **uniquement au niveau 20**, après le sauvetage de Ray ; révèle les caractéristiques finales prédéterminées d'une rune à +15. Personne ne connaît ni ne prédit ce pouvoir avant sa découverte.
 
 ## 3.3 Ensembles officiels
@@ -90,7 +91,7 @@ L’auteur souhaite qu’Orven explique dans l’histoire que les principales en
 
 Présenter ce principe comme un conseil d’équipement contextualisé, à rang en étoiles et amélioration comparables, pas comme une supériorité absolue de toute rune en pourcentage sur toute rune fixe. Le point de bascule dépend des valeurs comparées et de la caractéristique naturelle concernée ; aucun niveau universel n’est fixé. L’intention d’une bascule rapide devra être vérifiée avec la progression chiffrée du roman avant de publier un exemple.
 
-Cette décision admet les principales PV %, Attaque % et Défense %, sans adopter ces mêmes unités en secondaires. Le barème complet des principales et l’ordre exact des opérations restent à documenter. Ne pas modifier rétroactivement les deux cadeaux rares (bleus), 6★, +6 du père.
+Cette décision admet les principales PV %, Attaque % et Défense %, sans adopter ces mêmes unités en secondaires. **Assiette précisée par DEC-024, racontée au chapitre 4 :** pourcentage calculé sur la caractéristique naturelle, avant ajout des bonus fixes runiques. Comparaison pédagogique +50 Attaque / +10 % : +20 à 200 naturels, +50 à 500, +200 à 2000. Ces exemples ne définissent pas de nouvelles tables. Le barème complet, les ensembles et les arrondis restent à documenter. Ne pas modifier rétroactivement les deux cadeaux rares (bleus), 6★, +6 du père.
 
 ## 3.4 Deux runes initiales de Hasol
 
@@ -135,13 +136,13 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 - Orthographe canonique : **Orven**, pas Orwen.
 - Marchand / artisan runique avec plus de 25 ans d'expérience.
 - Rencontre au chapitre 3 ; devient employeur et mentor de Hasol.
-- **Ne découvre la supériorité chiffrée de Hasol sur le taux d'échec qu'au chapitre 6.**
+- **Ne découvre la supériorité chiffrée de Hasol sur le taux d'échec qu'au chapitre 7** (ancien chapitre 6, décalé par DEC-023). Au chapitre 4, seule l'endurance liée à son Mana est remarquée.
 - Recommande Hasol à la grande guilde **Griffon d'Argent** pour des améliorations jusqu'à +6, afin qu'elle gagne des ressources pour ses propres runes.
-- **Enseignement futur validé — DEC-011 :** explique à Hasol l’intérêt des principales fixes à bas niveau, puis des principales en pourcentage quand les caractéristiques naturelles grandissent. Le chapitre et la scène de cette explication restent à placer ; ne pas considérer qu’elle a déjà eu lieu ni réécrire un chapitre sans autorisation.
+- **Enseignement raconté — DEC-011 et DEC-024 :** chapitre 4, section IV, puis conseil à une cliente en VII ; intérêt des principales fixes à bas niveau et des pourcentages avec la croissance, calcul sur les caractéristiques naturelles. Ne pas le répéter ensuite comme une première découverte.
 
 ## Yoon Notos
 - 16 ans au début de son arc ; classe **Sage runique**, Rare.
-- Niveau 5 au chapitre 4, niveau 7 avant la chasse du chapitre 5, niveau 8 à la fin du chapitre 5 et au chapitre 6.
+- Ancienne trajectoire décalée après DEC-023 : niveau 5 lors de la rencontre au chapitre 5, niveau 7 avant la chasse du chapitre 6, niveau 8 à la fin du chapitre 6 et au chapitre 7. **[À CONFIRMER avant rédaction]** Les nouvelles consignes mobiles développent deux chasses dès le chapitre 5 sans fixer son niveau final ; ne pas appliquer automatiquement l'ancienne trajectoire.
 - **Résonance runique** : amplifie temporairement **uniquement les caractéristiques principales des runes équipées** sur un allié ; **pas** les secondaires ni les bonus d'ensemble.
 - Fréquente l'Académie en semaine, chasse avec Hasol le week-end.
 - Niveau 20 : obtient **Domaine des Entraves Runiques**, cercle lumineux au sol qui ralentit les ennemis à l'intérieur, épargne les alliés, consomme du mana pour être maintenu ; adversaires puissants partiellement résistants.
@@ -149,14 +150,14 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 - Relation avec Hasol : partenariat durable, confiance construite par l'action, complicité et différences de rythme ; éviter que Yoon soit une simple source de buff.
 
 ## Zio Notos
-- Frère aîné de Yoon ; classe **Gardien**, Rare ; niveau **45** au chapitre 4.
+- Frère aîné de Yoon ; classe **Gardien**, Rare ; niveau **45** prévu au chapitre 5 après décalage DEC-023, pas attribué à son intervention passée à l'Académie.
 - A défendu Hasol d'intimidateurs à l'Académie.
-- Intervient pour sauver Hasol et Yoon au chapitre 4 ; conseille de prévoir les dangers au lieu de seulement réagir.
+- Intervient pour sauver Hasol et Yoon au chapitre 5 ; conseille de prévoir les dangers au lieu de seulement réagir.
 - Au dénouement du livre I, se sacrifie en se faisant exploser pour tuer un **démon stellaire**, permettant à Hasol de survivre.
 
 ## Ray Corvus
-- Étudiant de l'Académie impériale, classe **mage**, Rare, niveau **22** à sa première rencontre importante.
-- Appartient au groupe d'étudiants qui sous-estiment / humilient Hasol, mais **la nature précise de son implication antérieure reste [À CONFIRMER]**.
+- Étudiant de l'Académie impériale, classe **mage**, Rare. **[VALIDÉ — DEC-021]** Apparaît dès le chapitre 1, section VII ; son niveau à cette date reste **[À CONFIRMER]**. Le niveau **22** est prévu lors du futur sauvetage, pas attribué rétroactivement à l'Académie.
+- **[VALIDÉ — DEC-021]** Ami d'enfance de Hasol, leurs familles étant liées commercialement ; ils jouaient dans les jardins Shun et projetaient des aventures communes. Il devient complice des humiliations : rit, minimise leur amitié et ne défend pas Hasol lorsque son carnet est arraché. Zio le confronte ; Ray part sans présenter d'excuses. Sa spécialité magique reste **[À CONFIRMER]**.
 - Hasol et Yoon le sauvent d'un loup alpha élite de niveau 25 à 27 ; Ray s'excuse, puis rejoint **progressivement** l'équipe, sans conversion instantanée.
 - Son intégration porte l'équipe à 40/50 points.
 
@@ -185,17 +186,19 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 - Monstres admissibles : niveaux de Hasol 10–19 → monstres de niveau 1+ ; 20–29 → niveau 10+ ; 30–39 → niveau 20+, et ainsi de suite.
 - Entre niveau 10 et niveau 19, Hasol tue **au moins 2 000 monstres admissibles supplémentaires en solo**, permettant 10→11→12 cercles/emplacements. Éviter de compter deux fois les 8 000 premiers.
 
-# 6. PLAN NARRATIF DES CHAPITRES 1 À 7
+# 6. PLAN NARRATIF DES CHAPITRES 1 À 8
 
-> Les sept chapitres suivent une trame déjà approuvée. Les sections suivantes sont des **consignes de préservation et de développement**, pas une autorisation à remplacer les scènes validées. Pour les chapitres dont le texte complet n'est pas disponible dans le dépôt, récupérer les versions validées avant toute réécriture.
+> Les chapitres 1 à 4 sont présents dans le manuscrit, avec leurs statuts distincts ci-dessous. L'insertion de « La voie de l'artisan » décale les anciennes trames 4 à 7 vers 5 à 8 (DEC-023). Les sections futures sont des **consignes de préservation et de développement**, pas une autorisation à remplacer les scènes validées ni à rédiger le chapitre 5. Les nouveaux apports mobiles qui affectent sa progression sont signalés sans validation implicite des réponses de ChatGPT.
 
-## Chapitre 1 — « La légendaire inutile » [TEXTE VALIDÉ — DEC-018]
+## Chapitre 1 — « La légendaire inutile » [TEXTE VALIDÉ — DEC-018 ET DEC-022]
 
 **Validation de l’auteur le 19 novembre 2026 :** version actuelle de `roman.md`, après reprise DEC-016 et correction DEC-017. Niveau 8 en section VII, passage au niveau 9 en section VIII ; treize sections au total. Les corrections runiques sont intégrées. Toute modification rétroactive demande une nouvelle autorisation ; les questions des chapitres suivants ne remettent pas silencieusement ce texte en chantier.
 
+**Révision DEC-021 validée le 20 novembre 2026 — DEC-022 :** les sections I et VII sont actualisées depuis les deux premiers apports de `new.txt`, puis approuvées par « ok je valide ». L'auteur confirme que « Modif chap 2 » désigne en réalité la scène d'Académie du chapitre 1. Les sections II à VI et VIII à XIII, les statistiques et le chapitre 2 sont préservés. Cette validation ne porte pas sur le chapitre 2 ou les propositions futures.
+
 **Période :** enfance de Hasol → 16 ans → trois années d'Académie → 19 ans, niveau 10.
 
-**Ouverture :** présenter le système de Révélation à 16 ans et les quatre raretés ; les classes astrales sont historiquement exceptionnelles. Introduire Hasol dans sa famille aisée et chaleureuse. Son père l'appelle « ma princesse », lui offre entraînements, livres et confiance. Décrire ses deux cercles précoces, éveillés à 7 et 10 ans.
+**Ouverture actualisée — DEC-021 :** la veille de ses seize ans, Hasol peine à dormir et se remémore l'éveil de son premier cercle à sept ans. Scène de joie avec son père, puis soirée près de la cheminée : il explique la Révélation, les quatre raretés, les gains naturels et les limites des équipes avec cinq pièces de bois. Elle souhaite un groupe où chacun s'entraide ; il lui promet son soutien même en cas de classe commune ou de difficultés. Retour à la veille de la Révélation ; deuxième cercle à dix ans, livres, cours et salle d'entraînement évoqués. L'exposition passe par leur relation, sans changer les règles.
 
 **Révélation :** cérémonie au temple, stèle dorée, émergence de la classe légendaire **Arcaniste runique**, Bénédiction runique. Joie familiale et fierté publique. Pas de prophétie temporelle.
 
@@ -207,7 +210,7 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 
 **Profil magique — reprise DEC-016 validée dans DEC-018 :** un professeur explique les normes au niveau 60 et le contraste soutien/mage de DEC-015 lors d’un entretien évoqué dans la section du niveau 9. Ces chiffres sont des repères, pas des prédictions ou une promesse de compétence offensive.
 
-**Dégradation sur trois ans :** déceptions des enseignants, élèves qui progressent vers le niveau 30, Hasol qui n'atteint que le niveau 9, plus de 8 000 slimes de niveau 1 tués pour 1 XP chacun. Insérer des scènes de travail répétitif sans les rendre mécaniques : saisons, fatigue, obsession, évolution des relations. Zio la défend une fois contre les harceleurs. Le père se distancie par peur et déception sans cesser de l'aimer ; la mère demeure un soutien.
+**Dégradation sur trois ans :** déceptions des enseignants, élèves qui progressent vers le niveau 30, Hasol qui n'atteint que le niveau 9, plus de 8 000 slimes de niveau 1 tués pour 1 XP chacun. Insérer des scènes de travail répétitif sans les rendre mécaniques : saisons, fatigue, obsession, évolution des relations. **Scène développée DEC-021, section VII, Hasol niveau 8 :** son ancien ami Ray Corvus participe aux rires, minimise leur amitié et reste passif pendant la confiscation du carnet. Zio le fait rendre, confronte Ray et encourage Hasol à noter ses progrès, sans combat ni réconciliation avec Ray. Cette scène remplace l'ancien épisode et le résumé de l'intervention, sans doublon. Le père se distancie par peur et déception sans cesser de l'aimer ; la mère demeure un soutien.
 
 **Expulsion :** Académie refuse de prolonger sa scolarité ; scène de solitude et humiliation. Dîner familial pénible, père déçu, mère protectrice ; **père vivant**. Hasol sort secrètement la nuit.
 
@@ -239,7 +242,9 @@ Le texte est présent à la suite du chapitre 1 dans `roman.md`, avec les fenêt
 
 **Vérification :** 10/10 runes, deux cadeaux paternels rares (bleus), 6★, +6 conservés, huit ajouts maternels 3★ verts ou bleus, composition arrêtée avant rédaction des fiches, Fatal et Gardien complets, ensembles calculés sans Lame, 36 XP, blessure et potion, nouvelle Fatal rare (bleue), 3★, +3 clairement identifiée.
 
-## Chapitre 3 — « Le prix d'un rêve » [TRAME VALIDÉE]
+## Chapitre 3 — « Le prix d'un rêve » [TRAME VALIDÉE ; TEXTE INTÉGRÉ — DEC-023]
+
+Texte complet transmis dans `new.txt`, ajouté sur demande de l'auteur le 20 novembre 2026. L'intégration ne constitue pas une validation littéraire globale. Sept sections ; journée suivant la chasse du chapitre 2, Hasol niveau 10 du début à la fin. Aucun gain d'XP, nouvelle élimination ou changement des dix runes personnelles.
 
 **Ouverture :** Hasol travaille les déplacements et la garde après les loups ; nouvelle épreuve contre mannequin, survie **1 minute 18 secondes** au lieu de 42 secondes. Progrès mesuré, encore insuffisant.
 
@@ -249,13 +254,31 @@ Le texte est présent à la suite du chapitre 1 dans `roman.md`, avec les fenêt
 
 **Rencontre Orven :** sa mère la présente à **Maître Orven**, marchand et spécialiste des runes depuis plus de 25 ans. Mentor compétent, prudent, pas admirateur aveugle. Il est surpris par les dix cercles mais ne quantifie pas encore le bonus d'échec de Hasol.
 
-**Premier travail :** Orven lui confie l'amélioration de runes **blanches jusqu'à +3**. Première rune **Énergie** : +1 réussite, +2 échec, nouvelle tentative +2 réussite, +3 réussite ; apparition d'une caractéristique secondaire de Défense à +3. **Règle résolue par DEC-006 :** une rune blanche native sans secondaire en gagne une à +3 et son grade affiché devient vert ; conserver son grade d’origine dans l’historique. Le barème numérique de la secondaire reste à définir. L’échec au passage +2 est une divergence préexistante du roman avec la source, distincte de l’adoption de la règle d’évolution des secondaires.
+**Premier travail :** Orven lui confie l'amélioration de runes **blanches jusqu'à +3**. Première rune **ORV-R001, Énergie commune (blanche), 2★** : +1 réussite, +2 échec, nouvelle tentative +2 réussite, +3 réussite ; apparition d'une caractéristique secondaire de Défense à +3. **Règle résolue par DEC-006 :** une rune blanche native sans secondaire en gagne une à +3 et son grade affiché devient peu commun (vert) ; conserver son grade d’origine dans l’historique. La principale PV et la secondaire Défense restent non chiffrées. L’échec au passage +2 est une divergence préexistante du roman avec la source, distincte de l’adoption de la règle d’évolution des secondaires. Ressources fournies par l'atelier, rune jamais équipée par Hasol.
 
 **Fin :** premier paiement ; fierté de gagner elle-même les moyens de progresser. Orven voit une apprentie sérieuse, pas encore une anomalie statistiquement démontrée.
 
-**Vérification :** nom Orven ; aucune découverte des 30 % avant Ch6 ; échec au +2 ; coût des consommables ; récompense financière crédible.
+**Vérification :** nom Orven ; aucune découverte des 30 % avant Ch7 ; échec au +2 ; coût des consommables ; récompense financière sans montant inventé.
 
-## Chapitre 4 — « Le premier lien » [TRAME VALIDÉE]
+## Chapitre 4 — « La voie de l'artisan » [TEXTE TRANSMIS COMME VALIDÉ ; INTÉGRÉ — DEC-023]
+
+**Provenance :** texte complet dans `new.txt`, désigné comme validé par les consignes mobiles qui le suivent. Intégration expressément demandée le 20 novembre 2026, sans réécriture globale ni adoption automatique des consignes du chapitre 5.
+
+**Période :** première journée complète à l'atelier, lendemain de l'épreuve du chapitre 3, puis début de la journée suivante. Dix sections, Hasol dix-neuf ans, niveau 10, dix emplacements occupés, équipement personnel inchangé.
+
+**Apprentissage :** préparation et suivi des commandes, respect des budgets et ressources d'autrui. **CLI-R001, Gardien commune (blanche), 2★, +0 → +2** : un échec au premier passage +1 puis deux réussites, trois tentatives autorisées, rune rendue au client sans secondaire.
+
+**Deux ressources — DEC-024 :** chaque tentative consomme pierres de mana et Mana personnel, succès ou échec. Difficulté selon étoiles, grade et palier ; aucune valeur définitive de coût ni table inventée. Le repos et les potions restaurent le Mana sans supprimer toute fatigue mentale.
+
+**Principales fixes et pourcentages — DEC-011 complétée :** dialogue pédagogique avec les exemples +50 Attaque et +10 % sur 200, 500 et 2000 naturels, sans les transformer en nouvelles runes d'inventaire. Assiette naturelle avant bonus fixes, mais ensembles et arrondis toujours ouverts. Évoquer la valeur affective des cadeaux paternels sans les remplacer ; conseil à une cliente fondé sur les besoins du porteur.
+
+**Découverte émotionnelle :** Orven constate l'endurance de Hasol, Mana naturel 355 et bonus connu +20, réserve disponible non chiffrée. Son Mana trouve une utilité réelle, mais l'artisan lui fait arrêter le travail lorsqu'elle commence à mal lire une consigne. Ni maîtrise automatique, ni découverte des 30 %.
+
+**Famille et fin :** mère attentive ; père affectueux mais absorbé par son travail, distance non résolue. Hasol poursuit son rêve de chasseuse tout en donnant une valeur propre au métier. Aucune nouvelle XP, compétence, élimination, amélioration personnelle ou rencontre de Yoon ; griffure refermée mais sensible.
+
+## Chapitre 5 — « Le premier lien » [TRAME ANTÉRIEURE VALIDÉE ; NOUVEL APPORT À ARBITRER]
+
+**[CONTRADICTION de versions avant rédaction]** Les consignes ultérieures de `new.txt` développent deux journées de chasse, Chant runique disponible dès le niveau 1, une visite chez un forgeron, une aura de Terre d'un mois, puis Hasol 10 → 11 et Aura runique. Cela remplace notamment l'ancienne fin au niveau 10 et affecte le chapitre 6. Aucun texte du chapitre 5 n'est fourni ou ajouté par DEC-023 ; vérifier les décisions explicites de l'auteur et les paramètres provisoires avant rédaction, sans valider globalement les consignes relayées ni la réponse finale de ChatGPT sur Infiltration runique. Les éléments ci-dessous conservent la trame antérieure pour ne perdre aucun événement, pas pour imposer ses anciens niveaux contre une nouvelle décision.
 
 **Objectif :** introduire une coopération authentique et un danger qui force Hasol à admettre ses limites.
 
@@ -273,7 +296,9 @@ Le texte est présent à la suite du chapitre 1 dans `roman.md`, avec les fenêt
 
 **Fin :** Hasol niveau **10**, Yoon niveau **5**. Première confiance réciproque, mais blessure et inquiétude persistantes.
 
-## Chapitre 5 — « Deux chemins, un même objectif » [TRAME VALIDÉE]
+## Chapitre 6 — « Deux chemins, un même objectif » [TRAME ANTÉRIEURE VALIDÉE ; RACCORD À CONFIRMER]
+
+**[À CONFIRMER]** Le passage 10 → 11 ci-dessous était prévu avant les nouvelles consignes du chapitre 5. S'il a désormais lieu au chapitre 5, ne pas le raconter deux fois ni inventer un passage au niveau 12 pour compenser. Le niveau de Yoon après les deux chasses et la place éventuelle d'Infiltration runique restent à arbitrer ; une réponse de ChatGPT ne vaut pas décision de l'auteur.
 
 **Concept :** alternance entre les deux vies : Hasol travaille chez Orven en semaine et s'entraîne à l'épée le soir ; Yoon étudie à l'Académie, s'entraîne et chasse dans son cadre scolaire.
 
@@ -289,7 +314,7 @@ Le texte est présent à la suite du chapitre 1 dans `roman.md`, avec les fenêt
 
 **Vérification :** ne pas laisser Yoon au niveau 5 après cette semaine ; ne pas attribuer à Résonance un effet sur secondaires/ensembles.
 
-## Chapitre 6 — « Le talent d'une légende » [TRAME VALIDÉE]
+## Chapitre 7 — « Le talent d'une légende » [TRAME VALIDÉE, DÉCALÉE PAR DEC-023]
 
 **Motivation :** Hasol veut éviter de souffrir à chaque chasse et surtout ne plus mettre Yoon en danger. Elle comprend qu'elle doit améliorer significativement ses runes avant le samedi suivant.
 
@@ -305,7 +330,7 @@ Le texte est présent à la suite du chapitre 1 dans `roman.md`, avec les fenêt
 
 **Fin :** anticipation du samedi et du prochain défi commun.
 
-## Chapitre 7 — « La puissance des dix runes » [TRAME APPROUVÉE]
+## Chapitre 8 — « La puissance des dix runes » [TRAME APPROUVÉE, DÉCALÉE PAR DEC-023]
 
 **Ouverture :** samedi au **Bois des Crocs Gris** ; Hasol et Yoon comparent leurs progrès depuis la première chasse. Les six runes +6 et les quatre +3 doivent produire une différence **visible** dans les gestes et les combats.
 
@@ -321,26 +346,26 @@ Le texte est présent à la suite du chapitre 1 dans `roman.md`, avec les fenêt
 
 **Fin :** victoire méritée, fatigue, confiance renouvelée ; transition vers une progression sur plusieurs mois. **Ray n'apparaît pas encore dans un sauvetage.**
 
-# 7. PLAN FUTUR — LIVRE I, APRÈS LE CHAPITRE 7
+# 7. PLAN FUTUR — LIVRE I, APRÈS LE CHAPITRE 8
 
-> Le **sens général** des arcs suivants est validé. La **numérotation des chapitres 8+ et le découpage en scènes** ci-dessous sont des **[PROPOSITIONS]** de travail, pas un canon immuable. Ne pas étirer ni condenser sans vérifier le rythme avec l'auteur.
+> Le **sens général** des arcs suivants est validé. La **numérotation des chapitres 9+ et le découpage en scènes** ci-dessous sont des **[PROPOSITIONS]** de travail, pas un canon immuable. Les numéros sont décalés d'un après insertion de « La voie de l'artisan » (DEC-023), sans supprimer d'événement. Ne pas étirer ni condenser sans vérifier le rythme avec l'auteur.
 
-## Arc A — La croissance qui coûte (chapitres 8 à 10 environ) [DIRECTION VALIDÉE ; DÉCOUPAGE PROPOSÉ]
+## Arc A — La croissance qui coûte (chapitres 9 à 11 environ) [DIRECTION VALIDÉE ; DÉCOUPAGE PROPOSÉ]
 
-### Chapitre 8 proposé — « Le poids des journées »
+### Chapitre 9 proposé — « Le poids des journées »
 - Quelques semaines après la chasse de l'alpha : alternance entre travail runique, entraînement, chasses solo de Hasol et vie scolaire de Yoon.
 - Montrer que les revenus de Hasol ne suffisent pas toujours à suivre les coûts des améliorations ; Orven la met en garde contre la fatigue et les risques de chasse excessive.
 - Yoon progresse plus rapidement en niveaux grâce à sa classe rare et à l'Académie ; Hasol ressent un décalage, sans jalousie simpliste.
 - Introduire la discipline des comptages : monstres admissibles tués **personnellement** par Hasol, XP, pierres de mana, runes.
 - **[PROPOSITION]** Première étape vers 1 000 éliminations supplémentaires et 11e cercle ; choisir le moment selon rythme et compteurs.
 
-### Chapitre 9 proposé — « Un cercle de plus »
+### Chapitre 10 proposé — « Un cercle de plus »
 - Hasol accumule les éliminations solo admissibles ; insister sur la répétition, la prudence, les changements de terrains et le prix physique.
 - **[PROPOSITION]** Franchissement du premier nouveau seuil de 1 000 kills depuis le niveau 10 : **10→11 cercles/emplacements**. Équiper une rune **verte** supplémentaire et l'améliorer, en documentant son identité.
 - Yoon se distingue à l'Académie et continue les chasses du week-end ; développer leurs conversations sur la différence de rythme.
 - Une inquiétude croissante de la mère et d'Orven, sans conflit artificiel.
 
-### Chapitre 10 proposé — « Douze cercles »
+### Chapitre 11 proposé — « Douze cercles »
 - Plusieurs mois ont passé ; Hasol atteint au moins **2 000 éliminations solo admissibles supplémentaires** au total depuis le niveau 10 : **12 cercles et 12 emplacements**.
 - Elle équipe deux nouvelles runes **vertes** et monte progressivement les douze runes à **【 +6 】**.
 - Composition canonique avant sauvetage de Ray : **4 Fatal + 4 Vitesse + 2 Énergie + 2 Gardien**. Après DEC-020, l’équipement initial n’a plus de Lame : la transition devra passer de quatre à deux Gardien, avec acquisition des quatre Vitesse et utilisation des deux nouveaux emplacements. Identités remplacées, rangs et calendrier à définir avant rédaction ; ne pas réintroduire un ancien remplacement de Lame qui n’existent plus dans le nouvel équipement.
@@ -348,28 +373,28 @@ Le texte est présent à la suite du chapitre 1 dans `roman.md`, avec les fenêt
 - Avant le sauvetage : Hasol **niveau 19**, Yoon **niveau 24**. La montée de Yoon à 20 doit avoir été montrée ou explicitement racontée : elle débloque **Domaine des Entraves Runiques**.
 - **Important :** répartir cette évolution sur un temps crédible ; les trois chapitres proposés peuvent devenir un arc plus long si nécessaire.
 
-## Arc B — Sauvetage, révélation et troisième compagnon (chapitres 11 à 14 environ)
+## Arc B — Sauvetage, révélation et troisième compagnon (chapitres 12 à 15 environ)
 
-### Chapitre 11 proposé — « Ceux qui riaient autrefois »
+### Chapitre 12 proposé — « Ceux qui riaient autrefois »
 - Rencontre d'étudiants de l'Académie impériale, dont **Ray Corvus**, mage rare niveau **22** ; certains reconnaissent Hasol et la jugent toujours faible.
 - Faire ressentir le contraste entre le souvenir de la « légendaire inutile » et sa puissance réelle, sans exposition triomphale prématurée.
 - Un **loup alpha élite niveau 25 à 27** attaque ; Ray et son groupe se retrouvent en difficulté. Le danger est réel, avec pertes potentielles à définir avec l'auteur.
 - Hasol et Yoon décident de les aider malgré les humiliations passées. Yoon utilise **Domaine des Entraves Runiques** (ralentit ennemis, alliés épargnés, coût de maintien) et **Résonance** ; Hasol combat avec ses **12 runes toutes +6**.
 
-### Chapitre 12 proposé — « L'Œil runique »
+### Chapitre 13 proposé — « L'Œil runique »
 - Fin du combat contre l'alpha élite ; **Hasol porte le coup fatal**, atteint **niveau 20**.
 - Déblocage **pour la première fois** de **Œil runique** ; surprise et expérimentation prudente.
 - Loot : **rune Vitesse rare (bleue) 3★ +0**, selon le niveau 25 à 27 du loup alpha élite ; principale Vitesse, secondaires liées à **chance critique** et **dégâts critiques** ; **valeurs exactes à confirmer**. L'Œil runique permet de voir ses **caractéristiques finales prédéterminées à +15**, sans garantir qu'Hasol puisse immédiatement la monter à +15.
 - Ne pas présenter ce pouvoir comme déjà connu par Orven, Yoon ou Hasol.
 - Ray réalise l'ampleur de son erreur et présente des excuses ; la réconciliation n'est pas automatique.
 
-### Chapitre 13 proposé — « La dette et le choix »
+### Chapitre 14 proposé — « La dette et le choix »
 - Conséquences du sauvetage : blessures, témoignages, réactions de l'Académie ou de guildes, risque de révélation des cercles.
 - Ray cherche à réparer concrètement plutôt qu'à simplement prononcer « pardon » ; développer sa personnalité et son passé, à faire valider.
 - Hasol et Yoon débattent de la confiance, de l'utilité d'un mage et des risques d'une nouvelle recrue.
 - Tester la complémentarité entre les trois classes lors d'une mission à faible enjeu avant l'adhésion.
 
-### Chapitre 14 proposé — « Trois voies, un serment »
+### Chapitre 15 proposé — « Trois voies, un serment »
 - Ray rejoint progressivement l'équipe **3/5, 40/50 points**, seulement après avoir mérité la confiance.
 - Définir sa spécialité magique et ses limites **[À CONFIRMER]** ; éviter un mage omnipotent.
 - Premier combat du trio mettant en scène protection, contrôle runique et magie offensive ; conflits de coordination plausibles.
@@ -426,13 +451,14 @@ Le texte est présent à la suite du chapitre 1 dans `roman.md`, avec les fenêt
 1. **Point résolu le 19 novembre 2026 — cadeaux initiaux :** deux runes bleues 6★ +6, principales Attaque +70 et Défense +70 ; deux secondaires renforcées chacune, valeurs et historique dans `lore/runes.md`. Voir DEC-001, DEC-005 et la correction prioritaire DEC-006 dans `lore/decisions.md`.
 2. **Règle d’amélioration résolue par DEC-006 puis DEC-014 :** principale augmentée à chaque niveau, plus fortement à +15 ; secondaire ajoutée ou renforcée à +3, +6, +9, +12 et +15, avec un maximum de quatre. À +15, renforcer une des quatre secondaires présentes. Les gains numériques des secondaires restent à définir en dehors des deux cadeaux déjà documentés.
 3. **Règles d'arrondi et ordre de calcul des bonus d'ensemble**, ainsi que le traitement des PV maximums lors d'un changement d'équipement.
-4. **Répartition précise des six runes +6 et quatre runes +3 à la fin du chapitre 6**, avec identifiants persistants.
-5. **Niveaux exacts de Hasol et Yoon à la fin du chapitre 7** ; assurer cohérence XP.
+4. **Répartition précise des six runes +6 et quatre runes +3 à la fin du chapitre 7**, avec identifiants persistants.
+5. **Niveaux exacts de Hasol et Yoon à la fin du chapitre 8** ; assurer cohérence XP. Arbitrer d'abord les nouvelles consignes des chapitres 5 et 6 et éviter tout doublon du passage au niveau 11.
 6. **Valeurs des runes vertes acquises pendant l'ellipse**, calendrier des 2 000 éliminations solo, remplacement des Lame par Vitesse.
-7. **Spécialité et rôle antérieur de Ray**, notamment sa responsabilité dans les moqueries.
+7. **Spécialité magique de Ray** et niveau lors de son apparition au chapitre 1. Son rôle antérieur est désormais fixé par DEC-021 : ami d'enfance devenu complice des humiliations, sans excuses abouties lors de l'intervention de Zio.
 8. **Échelle et règles des pierres de mana, prix et récompenses**, si l'auteur souhaite des montants numériques réguliers.
 9. **Chronologie détaillée des quinze années** du livre I, placement du raid fatal au père et des grands arcs.
 10. **Mécanique exacte des passifs de la classe astrale** et origine des changements de la seconde chronologie.
+11. **Coûts personnels en Mana des améliorations**, récupération et fatigue : règles qualitatives établies au chapitre 4, barèmes et grade de référence pour le coût à définir. La principale en pourcentage utilise désormais la statistique naturelle ; cela ne résout pas le calcul des ensembles et arrondis.
 
 # 10. Structure de dépôt recommandée
 
@@ -471,11 +497,11 @@ Pour chaque personnage : âge à la date du chapitre, classe/rareté, niveau, XP
 7. **Après validation du chapitre :** mettre à jour `personnages.md`, `runes.md`, `chronologie.md` et éventuellement `systeme.md` ; consigner les changements et les points en suspens.
 8. **Ne pas écrire les révélations futures dans les dialogues ou pensées des personnages** tant qu'ils n'ont aucune raison de les connaître. La bible contient des spoilers réservés à l'auteur et à Codex.
 9. **Ne pas confondre proposé et validé.** Demander l'arbitrage de l'auteur sur toute contradiction ou information canonique manquante qui influe matériellement sur le chapitre.
-10. **Respecter la trame des sept premiers chapitres** ; les corrections de systèmes et de caractéristiques ne sont pas une permission de changer les relations ou l'ordre des événements.
+10. **Respecter la trame des huit premiers chapitres après insertion du chapitre d'artisanat**, en distinguant les raccords encore à arbitrer aux chapitres 5 et 6 ; les corrections de systèmes et de caractéristiques ne sont pas une permission de changer les relations ou l'ordre des événements.
 
 # 12. Prompt de démarrage Codex (à copier)
 
-> Tu travailles sur le roman français LitRPG « Les Chroniques de l'Arcaniste Runique ». Commence par lire intégralement `PLAN_DIRECTEUR.md`, `AGENTS.md`, `roman.md` et les fichiers `lore/`. Distingue strictement les éléments [VALIDÉ], [À CONFIRMER] et [PROPOSITION]. Ne modifie pas encore le manuscrit. Fais d'abord un audit de cohérence du chapitre 1, particulièrement des deux runes bleues qui doivent avoir deux secondaires chacune, puis propose une liste courte des décisions que je dois confirmer. Après mon accord, corrige le chapitre 1 sans changer sa trame, et mets à jour les fichiers de référence. Ensuite nous avancerons chapitre par chapitre jusqu'au chapitre 7, avec une prose longue, immersive, des statistiques exactes et des fenêtres HTML stylées.
+> Tu travailles sur le roman français LitRPG « Les Chroniques de l'Arcaniste Runique ». Commence par lire intégralement `PLAN_DIRECTEUR.md`, `AGENTS.md`, `roman.md` et les fichiers `lore/`. Distingue strictement les éléments [VALIDÉ], [À CONFIRMER] et [PROPOSITION]. Ne modifie pas encore le manuscrit. Le chapitre 1 révisé est validé (DEC-022) ; les chapitres 2 à 4 sont présents avec leurs statuts distincts. Ne les réécris pas et ne réimporte pas les textes de `new.txt`. Prépare d'abord la continuité du prochain chapitre autorisé et la liste courte des arbitrages nécessaires, notamment les nouvelles consignes mobiles du chapitre 5 et les raccords de niveaux du chapitre 6. Après mon accord explicite, avance chapitre par chapitre selon la numérotation actualisée jusqu'au chapitre 8, avec une prose longue, immersive, des statistiques établies et des fenêtres HTML stylées, puis synchronise les références.
 
 ---
 

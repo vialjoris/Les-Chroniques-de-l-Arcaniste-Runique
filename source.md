@@ -79,6 +79,17 @@ Les fiches consultées ne fournissent pas de Mana et de Puissance arcanique dire
 
 ## Références internes
 
+### Apports futurs depuis ChatGPT mobile — `new.txt`
+
+- **Provenance annoncée par l’auteur :** travail poursuivi dans ChatGPT en mode conversation depuis son téléphone, puis copié dans `new.txt`.
+- **Statut :** support de transmission ; chapitres, variantes et décisions doivent être identifiés avant intégration dans `roman.md`.
+- **Priorité :** une proposition de ChatGPT n’est pas canon par sa simple présence. Les décisions explicites de l’auteur suivent l’ordre de priorité défini dans `AGENTS.md` ; signaler les contradictions qui subsistent.
+- **Traitement :** lecture complète, contrôle de continuité, prévention des doublons, adaptation des fenêtres en HTML/CSS, intégration ciblée puis mise à jour des références.
+- **Préservation :** ne pas vider le fichier de transmission ni remplacer un chapitre validé sans autorisation. La provenance permet de retrouver le texte reçu, même après intégration.
+- **Disponibilité au moment de cette consigne :** aucun `new.txt` présent ; aucun nouvel apport n’est réputé lu ou intégré.
+- **Publication :** l’auteur indique que le dépôt GitHub est public. Les fichiers poussés peuvent exposer les révélations futures et les conversations copiées ; aucune publication n’est effectuée par la seule mise en place de ce workflow.
+- **Choix confirmé :** l’auteur accepte cette accessibilité publique, y compris pour l’intrigue et les documents de travail. Ne pas réitérer les avertissements de spoilers à chaque intégration. Une publication effective reste soumise à autorisation ; les secrets et données privées de tiers ne sont pas couverts par cette acceptation.
+
 ### Archive narrative `old.txt`
 
 - **Provenance :** anciens chapitres copiés par l’auteur, signalés le 19 novembre 2026.
@@ -96,6 +107,15 @@ La copie est conservée intacte. Son existence ne donne pas autorisation de remp
 **Adaptation ultérieure autorisée — DEC-019 et DEC-020 :** le chapitre 2 est ajouté dans `roman.md` comme version de lecture après demande explicite de l’auteur. Les huit nouvelles runes 3★ et les deux cadeaux rares (bleus), 6★, +6 sont suivis individuellement ; quatre Fatal, quatre Gardien et deux Énergie remplacent la composition de l’archive. Fenêtres reconstruites en HTML depuis les règles actuelles, sans prétendre reproduire les images perdues. Le chapitre 1 validé et `old.txt` sont conservés inchangés. Le chapitre 2 n’est pas encore validé dans son ensemble.
 
 **Usage autorisé ultérieurement — DEC-016 :** sur demande de reprise du chapitre 1, le motif du refus de recrutement lié aux vingt points est adapté dans `roman.md`, sans copie en bloc de l’archive. L’arithmétique respecte les deux plafonds : quatre étudiants et trente points, puis cinq personnes et cinquante points si Hasol était admise. Les autres scènes restaurées du manuscrit sont conservées. Après correction de la chronologie des niveaux dans DEC-017, la version est validée par l’auteur le 19 novembre 2026 dans DEC-018. Aucun chapitre 2 n’est intégré par cette opération ; l’archive reste subordonnée aux décisions récentes et au chapitre 1 validé.
+
+### Intégrations depuis la transmission mobile `new.txt` — 20 novembre 2026
+
+- **Chapitre 1 — DEC-021 puis DEC-022 :** nouvelle section I et scène Ray/Zio en VII intégrées sur demande puis validées par l’auteur. « Modif chap 2 » est un intitulé erroné confirmé, non un changement de numérotation ; le reste du chapitre et ses statistiques sont conservés.
+- **Chapitres 3 et 4 — DEC-023 :** ajout des textes complets « Le prix d’un rêve » et « La voie de l’artisan », sans remplacement des chapitres 1 et 2 ni reconstitution à partir d’`old.txt`. Le chapitre 4 est déclaré validé dans les consignes mobiles qui suivent son texte ; l’autorisation locale d’import n’est pas une validation globale de tout `new.txt`.
+- **Règles propres au roman — DEC-024 :** coût en pierres et Mana personnel, fatigue mentale distincte et assiette naturelle des principales en pourcentage, tirés des consignes et du chapitre 4 transmis. Les chiffres pédagogiques +50 / +10 % ne sont pas des affixes attestés par les tables externes ; aucun coût numérique, taux de récupération ou formule d’ensemble n’en découle.
+- **Limites de provenance :** certains rangs, affixes ou quantités de commandes ne sont pas récupérables ; rester **À DÉFINIR**, sans compléter depuis une inspiration externe. Les instructions de conversation, courriels et signatures restent hors du manuscrit.
+- **Suite non importée :** consignes du chapitre 5 et échange final sur Infiltration runique, à distinguer du texte romanesque et des décisions explicites. Aucun chapitre 5 n’est présent dans `roman.md` par cet import, aucune évolution future n’est considérée comme déjà survenue.
+- **Conservation :** `new.txt` et `old.txt` intacts ; aucun commit ni push autorisé par la seule intégration locale.
 
 ### Règle originale d’obtention et de présentation
 

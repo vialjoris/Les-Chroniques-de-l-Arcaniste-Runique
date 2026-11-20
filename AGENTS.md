@@ -29,6 +29,25 @@ Les inspirations externes répertoriées dans `source.md` ne sont pas des règle
 
 **Archive `old.txt` :** anciens chapitres 1 à 6 copiés par l’auteur, sans les dernières décisions et sans les fenêtres qui étaient des images. Des en-têtes précisent qu’il s’agit de reconstitutions, pas de copies mot pour mot. Utiliser ce fichier comme matériau narratif à auditer, jamais comme remplacement automatique du manuscrit ou des décisions actuelles. Le conserver intact. Reconstituer les fenêtres manquantes en HTML uniquement à partir de faits établis ; signaler toute statistique irrécupérable. Aucun chapitre 7 n’est présent dans cette copie. Voir la notice de provenance dans `source.md`.
 
+### Transmission depuis les sessions mobiles — `new.txt`
+
+L’auteur poursuit aussi le travail dans ChatGPT en mode conversation depuis son téléphone. Il déposera les nouveaux textes et décisions dans `new.txt` pour leur intégration au projet. Ce fichier est un support de transmission, pas un second manuscrit ni un remplacement automatique du canon.
+
+Lorsqu’un nouvel apport est signalé :
+
+1. Vérifier que `new.txt` existe et le lire intégralement ; ne pas supposer son contenu à partir d’une annonce.
+2. Distinguer chapitres, extraits, variantes, commentaires de conversation et décisions de l’auteur. Ne pas traiter une réponse de ChatGPT ou une proposition non approuvée comme une décision explicite de l’auteur.
+3. Comparer au manuscrit actuel pour repérer les passages déjà intégrés, les versions concurrentes et l’ordre des chapitres. Ne pas ajouter deux fois un texte ou un chapitre portant le même numéro.
+4. Vérifier les règles récentes et les références : niveaux, XP, runes, ensembles, compétences, chronologie et relations. Demander un arbitrage sur toute contradiction matérielle non résolue par une décision explicite.
+5. Intégrer les chapitres concernés dans l’unique `roman.md`, avec les titres cohérents et les fenêtres HTML/CSS. N’intégrer ni les instructions de conversation ni les commentaires éditoriaux au milieu du roman.
+6. Ne pas remplacer un chapitre validé sans autorisation explicite de révision. Si un chapitre existe déjà en version de lecture, identifier la version retenue avant remplacement. Ne pas confondre la demande d’intégration avec une validation littéraire globale.
+7. Mettre à jour les références nécessaires et rapporter quels chapitres, décisions et fenêtres ont été intégrés, ainsi que les points encore ouverts.
+8. Conserver `new.txt` intact par défaut, comme trace de provenance. Ne pas le vider, le supprimer ou le renommer sans demande ; l’absence de nettoyage ne doit pas provoquer de doublon au prochain import.
+
+Le dépôt GitHub est déclaré **public** par l’auteur. Ne pas assimiler une demande d’intégration locale à une autorisation de commit ou de push. Avant une publication demandée, rappeler au besoin que les fichiers suivis, notamment le plan, `lore/`, `old.txt` et `new.txt`, peuvent révéler l’intrigue et les échanges de travail. Ne pas en déduire une autorisation de publier des données privées ou secrets éventuellement présents dans un apport.
+
+**Choix confirmé par l’auteur :** l’accessibilité publique du roman, des révélations et des documents de travail ne le gêne pas. Respecter ce choix sans répéter systématiquement les avertissements sur les spoilers ni lui redemander de passer en privé. Cette acceptation ne remplace pas une autorisation de commit/push et ne couvre pas les secrets ou données privées de tiers qui pourraient apparaître dans un nouvel apport.
+
 ## 3. Lecture préalable et organisation du projet
 
 Avant toute intervention, lire ce guide et les sources pertinentes. Avant un chapitre, consulter :
@@ -129,6 +148,7 @@ Quatre secondaires constituent le maximum. **La principale augmente à chaque am
 - Une amélioration ne crée pas une nouvelle identité et ne remplace pas arbitrairement les affixes.
 - Distinguer les runes personnelles des runes confiées par un client ou un mentor.
 - Les tentatives consomment des ressources et peuvent échouer ; ne pas inventer les autres conséquences d’un échec.
+- **Coût et fatigue — DEC-024, enseignés au chapitre 4 :** chaque tentative consomme des pierres de mana et du Mana personnel, réussite ou échec. Le coût dépend de la difficulté (étoiles, grade, palier), sans barème numérique validé. Distinguer capacité naturelle, bonus runiques et réserve disponible. Le repos et les potions restaurent le Mana sans supprimer toute fatigue mentale ; la grande réserve de Hasol donne de l’endurance, pas une maîtrise automatique.
 - Bénédiction runique augmente les chances de réussite sans garantir le succès.
 - Les rangs de 1 à 6 étoiles sont adoptés ; ne pas importer automatiquement les six emplacements fixes, tarifs ou règles de destruction de Summoners War.
 
@@ -136,17 +156,19 @@ Quatre secondaires constituent le maximum. **La principale augmente à chaque am
 
 Ensembles validés : Fatal, quatre pièces, +35 % Attaque ; Vitesse, quatre pièces, +30 % Vitesse ; Énergie, deux pièces, +15 % PV ; Gardien, deux pièces, +15 % Défense ; Lame, deux pièces, +12 % chance critique. Ne pas remplacer ces valeurs par celles d’une source externe.
 
-**Principales fixes et pourcentages — DEC-011 :** Orven expliquera dans une scène future que les principales fixes sont plus avantageuses à bas niveau et que les pourcentages prennent rapidement l’avantage avec la croissance des caractéristiques naturelles. Les principales PV %, Attaque % et Défense % sont admises, sans validation automatique de ces unités en secondaires. Comparer à rang en étoiles et amélioration comparables ; ne pas inventer un niveau universel de bascule. Vérifier les chiffres avant toute démonstration et signaler si la progression validée ne permet pas la bascule rapide souhaitée. Le placement de cette explication reste à définir ; ne pas la considérer comme déjà racontée.
+**Principales fixes et pourcentages — DEC-011 complétée par DEC-024 :** Orven explique ce principe au chapitre 4, section IV, puis le met en pratique avec une cliente en VII. Les principales fixes favorisent le bas niveau ; les pourcentages prennent l’avantage avec la croissance naturelle selon les valeurs comparées. Les principales PV %, Attaque % et Défense % sont admises, sans validation automatique de ces unités en secondaires. **Le pourcentage de principale est calculé sur la caractéristique naturelle, avant ajout des bonus fixes runiques.** Cela ne fixe pas l’ordre de calcul des ensembles, Résonance runique ou les arrondis. Comparer à rang en étoiles et amélioration comparables ; aucun niveau universel de bascule. Ne plus traiter cet enseignement comme une première découverte future.
 
 ## 8. Garde-fous de continuité
 
 - Le chapitre 1 restauré est à préserver ; toute correction doit rester dans le périmètre autorisé.
 - **Chapitre 1 validé le 19 novembre 2026 — DEC-018 :** la version actuelle de `roman.md`, après reprise DEC-016 et correction DEC-017 (niveau 8 en section VII, passage au niveau 9 en VIII), est la référence narrative. Ne pas la modifier rétroactivement sans nouvelle autorisation, y compris pour adapter les chapitres d’`old.txt`. La validation ne porte pas sur les propositions ouvertes des chapitres suivants et n’autorise pas leur rédaction.
+- **Révision ciblée DEC-021 validée le 20 novembre 2026 — DEC-022 :** les sections I et VII ont été actualisées depuis `new.txt` puis approuvées : ouverture familiale la veille de la Révélation avec souvenir à sept ans ; scène développée de Ray et Zio pendant l’Académie, Hasol niveau 8. « Modif chap 2 » était un intitulé erroné confirmé par l’auteur, pas un déplacement au chapitre 2. Les autres sections restent préservées. Ray est un ami d’enfance devenu complice des humiliations ; il part sans excuses, et Zio intervient une seule fois. Ne pas attribuer à Ray ou Zio, dans ce souvenir, les niveaux prévus lors des retrouvailles futures. La validation ne s’étend pas au chapitre 2 ou aux propositions futures.
+- **Chapitres 3 et 4 intégrés — DEC-023 :** textes complets de `new.txt` ajoutés sur demande du 20 novembre 2026, sans réécriture globale ni modification des deux premiers chapitres. Le chapitre 3 est une intégration autorisée sans validation littéraire implicite ; le chapitre 4 est désigné comme validé dans la transmission mobile. Hasol reste niveau 10, dix cercles et dix runes personnelles inchangées. Le chapitre 4 « La voie de l’artisan » décale les anciennes trames 4 à 7 vers 5 à 8 ; le chapitre 5 n’est pas rédigé par cet import. Les nouvelles consignes mobiles qui affectent ses niveaux et compétences restent à arbitrer avant rédaction, sans valider une réponse de ChatGPT par défaut.
 - Le père de Hasol est vivant au chapitre 1. Préserver l’amour sous les maladresses et la blessure relationnelle non résolue.
 - Hasol n’a aucun sort offensif au début. Dix emplacements ne la rendent pas immédiatement invincible.
 - Croissance runique se débloque au niveau 10. Huit paliers rétroactifs font passer de deux à dix cercles et emplacements, avec deux runes équipées.
 - Ne pas compter deux fois les éliminations déjà récompensées. Si le reliquat historique est inconnu, ne pas le fixer arbitrairement à zéro.
-- Écrire **Orven**, pas Orwen. Il ne découvre l’avantage chiffré de Hasol qu’au chapitre 6 : environ 30 % d’échecs en moins relativement à son propre taux, pas trente points de pourcentage.
+- Écrire **Orven**, pas Orwen. Après insertion du chapitre d’artisanat (DEC-023), il ne découvre l’avantage chiffré de Hasol qu’au chapitre 7 : environ 30 % d’échecs en moins relativement à son propre taux, pas trente points de pourcentage. Au chapitre 4, il découvre seulement son endurance liée au Mana, distincte de ce taux.
 - Résonance runique de Yoon amplifie seulement les principales des runes équipées sur sa cible, pas les secondaires ni les ensembles.
 - Yoon a une progression et une personnalité propres ; elle ne se réduit pas à un bonus pour Hasol.
 - Œil runique ne se débloque qu’au niveau 20, après le sauvetage prévu. Personne ne doit prédire ce pouvoir avant sa découverte.

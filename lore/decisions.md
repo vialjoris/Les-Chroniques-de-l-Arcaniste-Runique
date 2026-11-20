@@ -112,7 +112,7 @@
 
 ## DEC-011 — Enseignement d’Orven sur les principales fixes et en pourcentage
 
-- **Statut : CANON pour l’enseignement futur et la direction d’équilibrage ; seuils et placement À DÉFINIR.**
+- **Statut : CANON pour l’enseignement et la direction d’équilibrage ; placement résolu par DEC-023 au chapitre 4, assiette complétée par DEC-024.** Les formulations futures ci-dessous décrivent la décision initiale ; seuils réels et tables restent À DÉFINIR.
 - **Validation :** 19 novembre 2026, l’auteur demande qu’Orven explique dans l’histoire l’avantage des principales fixes à bas niveau, puis celui des pourcentages avec la progression.
 - **Décision :** prévoir cet enseignement dans une scène future avec Orven. Les principales PV %, Attaque % et Défense % sont admises ; aucune validation supplémentaire des secondaires en pourcentage n’en découle.
 - **Justification :** décision narrative explicite de l’auteur et intérêt d’une évolution des choix d’équipement avec les caractéristiques naturelles.
@@ -121,6 +121,7 @@
 - **Préservation :** pas de changement des deux runes rares (bleues), 6★, +6 du père ni de réécriture du chapitre 1. L’enseignement n’a pas encore eu lieu dans le manuscrit.
 - **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/systeme.md`, `AGENTS.md`, `lore/chronologie.md`, `lore/decisions.md` et futur passage concerné dans `roman.md`.
 - **Questions en attente :** chapitre et scène ; exemples chiffrés ; tables des principales en pourcentage et point de bascule réel selon le profil.
+- **Actualisation du 20 novembre 2026 — DEC-023 et DEC-024 :** scène désormais racontée au chapitre 4, sections IV et VII ; exemples +50 Attaque / +10 % et calcul du pourcentage sur la caractéristique naturelle. Le placement et ces exemples ne sont plus ouverts, sans résoudre les tables ou les calculs des ensembles et arrondis.
 
 ## DEC-012 — Explication des points de classe au chapitre 1
 
@@ -226,6 +227,49 @@
 - **Remplace :** la proposition cinq Fatal, trois Gardien et deux Énergie de DEC-013 et de la première version de lecture. DEC-013 reste valable pour huit ajouts maternels 3★ et conservation des cadeaux du père.
 - **Fichiers concernés :** `roman.md`, `AGENTS.md`, `PLAN_DIRECTEUR.md`, `lore/systeme.md`, `lore/runes.md`, `lore/chronologie.md`, `lore/personnages.md`, `lore/decisions.md`.
 - **Questions en attente sur les nombres par ensemble :** aucune. Les valeurs individuelles et les nouvelles scènes restent soumises à lecture avec le chapitre 2.
+
+## DEC-021 — Révision ciblée du chapitre 1 depuis la transmission mobile
+
+- **Statut : CANON — révision narrative validée par l’auteur dans DEC-022.** L’intégration initiale ne valait pas validation ; celle-ci a ensuite été donnée explicitement.
+- **Autorisation :** 20 novembre 2026, l’auteur confirme que l’intitulé « Modif chap 2 » est une erreur et que cette scène concerne la section VII du chapitre 1, puis demande l’« upgrade du chapitre 1 » et l’actualisation des références.
+- **Source :** `new.txt`, blocs « Refonte chap 1 » et « Modif chap 2 », conservés intacts. Les en-têtes de courriel et signatures ne sont pas intégrés au roman.
+- **Section I :** nouvelle ouverture la veille des seize ans de Hasol ; souvenir de l’éveil du premier cercle à sept ans et de la soirée avec son père. Les raretés, la progression et les points d’équipe sont expliqués en dialogue. Les coûts 5/10/20/25 et les limites de cinq membres et cinquante points restent inchangés. Une précision rend explicite le remplacement du compagnon rare par un commun dans l’exemple à quarante points, plutôt qu’un ajout illégal au groupe déjà plein en points.
+- **Section VII :** la scène développée remplace l’ancien épisode d’humiliation et le résumé de l’intervention de Zio, sans doublon. Hasol est niveau 8. Ray Corvus est un ami d’enfance, issu d’une famille liée commercialement aux Shun ; devenu mage de classe rare, il participe aux rires, minimise leur amitié et refuse de la défendre. Zio récupère le carnet, confronte Ray et encourage Hasol à reconnaître ses progrès au-delà du niveau.
+- **Préservé :** sections II à VI et VIII à XIII, chapitre 2, statistiques, XP, runes, compétences, huit paliers rétroactifs, ordre des niveaux 8 → 9 → 10 et relation non réconciliée avec le père. Aucun niveau précis n’est attribué à Ray ou Zio pendant cette scène d’Académie.
+- **Portée :** remplace seulement les deux passages concernés de la version DEC-018 et précise l’implication antérieure de Ray, auparavant à confirmer. N’autorise ni l’intégration des chapitres 3 et 4 ni l’adoption des nouvelles mécaniques présentes plus loin dans `new.txt`.
+- **Fichiers concernés :** `roman.md`, `PLAN_DIRECTEUR.md`, `AGENTS.md`, `lore/personnages.md`, `lore/chronologie.md`, `lore/decisions.md`. Les règles du système et l’inventaire runique ne changent pas.
+
+## DEC-022 — Validation du chapitre 1 révisé
+
+- **Statut : VALIDÉ — CANON.**
+- **Validation :** 20 novembre 2026, après le compte rendu d’intégration DEC-021, l’auteur déclare « ok je valide », puis demande l’ajout des chapitres 3 et 4 et l’actualisation des références.
+- **Périmètre :** chapitre 1 de `roman.md` après les remplacements ciblés des sections I et VII. Le souvenir familial et la scène de Ray et Zio sont désormais validés ; les autres sections restent celles de DEC-018.
+- **Limite :** cette validation ne porte pas sur le chapitre 2 ni sur les propositions futures et les réponses de ChatGPT présentes dans `new.txt`.
+- **Fichiers concernés :** `AGENTS.md`, `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `lore/chronologie.md`, `lore/decisions.md`. Aucun nouveau changement du texte du chapitre 1.
+
+## DEC-023 — Intégration des chapitres 3 et 4 depuis `new.txt`
+
+- **Statut : INTÉGRATION AUTORISÉE.** Les faits et règles transmis sont documentés ; l’import ne constitue pas une validation littéraire globale de tous les chapitres. Le chapitre 4 est désigné comme validé dans la transmission mobile, dans les consignes qui suivent son texte ; cette provenance est conservée sans étendre la validation aux consignes de rédaction du chapitre 5.
+- **Autorisation :** 20 novembre 2026, « ajoute les chapitre 3 et 4 en actualisant les references ».
+- **Source :** textes complets « Le prix d’un rêve » et « La voie de l’artisan » de `new.txt`. Aucun recours à une reconstitution depuis `old.txt` ; sources conservées intactes, instructions de conversation exclues du manuscrit.
+- **Chapitre 3 :** lendemain de la première chasse aux loups ; 78 secondes contre le mannequin au lieu de 42, griffure encore douloureuse, marché et tentation des Collines de Braise sans départ, présentation à Orven par la mère. Première commande : Énergie commune (blanche), 2★, +0 → +3, trois réussites et un échec au passage +2 ; première secondaire Défense, grade actuel peu commun (vert). Paiement et engagement à l’essai, montants non chiffrés.
+- **Chapitre 4 :** première journée complète puis ouverture de la journée suivante chez Orven. Commande Gardien commune (blanche), 2★, +0 → +2 en trois tentatives (échec +0 → +1, puis deux réussites). Apprentissage des responsabilités envers les clients, coût personnel en Mana, comparaison des principales fixes et en pourcentage, découverte de l’endurance magique de Hasol et de sa fatigue mentale. Échange avec le père, toujours distant malgré son affection.
+- **État final :** Hasol dix-neuf ans, niveau 10, dix cercles et emplacements occupés, mêmes dix runes et mêmes caractéristiques naturelles qu’au chapitre 2. Aucun monstre éliminé ni gain d’XP raconté dans ces deux chapitres ; aucune compétence nouvelle, pas de révélation des 30 % ni d’Œil runique. Orven connaît désormais ses dix cercles et sa capacité naturelle de Mana 355 ; le Mana disponible après travail n’est pas chiffré.
+- **Structure :** le nouveau chapitre 4 est consacré à l’artisanat. Les anciens chapitres 4 à 7 deviennent 5 à 8 ; les références futures sont décalées sans suppression d’événements. La découverte chiffrée des échecs est donc réservée au chapitre 7. Aucun chapitre 5 rédigé ni ajouté par cette opération ; les nouvelles consignes sur sa progression et ses pouvoirs restent à arbitrer avant rédaction.
+- **Fichiers concernés :** `roman.md`, `PLAN_DIRECTEUR.md`, `AGENTS.md`, `source.md` et les cinq références actives de `lore/`.
+- **À DÉFINIR :** valeurs absentes des runes de marché ou d’atelier, statistiques détaillées des commandes et quantités de travail de la journée. La prise de conscience tardive du coût personnel en Mana malgré trois ans de théorie est un point de vraisemblance à relire, pas une autorisation de réécrire les études de Hasol.
+- **CONTRADICTIONS de formulation relevées après import, laissées à arbitrer :** les chapitres 3 et 4 évoquent les « crocs » du loup pour la blessure antérieure, alors que le chapitre 2 montre une griffure ; le souvenir de « deux écrins » au chapitre 4 diffère du coffret unique au chapitre 1. L’affirmation que personne n’avait reconnu la manière de travailler de Hasol doit être nuancée au regard de l’encouragement de Zio sur son carnet, désormais validé. Aucun de ces passages n’a été réécrit silencieusement lors de l’import.
+
+## DEC-024 — Mana personnel, fatigue et assiette des principales en pourcentage
+
+- **Statut : CANON pour les règles transmises retenues lors de l’intégration des chapitres 3 et 4 ; barèmes numériques À DÉFINIR.**
+- **Source et périmètre :** consignes de réorganisation puis texte « La voie de l’artisan » dans `new.txt`, intégrés sur demande de l’auteur du 20 novembre 2026 (DEC-023). Complète DEC-011 et DEC-015 sans changer les fiches naturelles existantes.
+- **Amélioration :** chaque tentative consomme des pierres de mana et du Mana personnel, même en cas d’échec. Le coût en Mana dépend de la difficulté, notamment du rang en étoiles, du grade et du palier visé. Aucune table définitive de coûts n’est inventée ; la comparaison d’une commune 2★ +0 → +1 avec une rare 6★ +14 → +15 illustre la difficulté, pas un tarif.
+- **Limites :** le repos restaure le Mana ; les potions peuvent restaurer la réserve sans supprimer toute fatigue mentale. Une réserve encore suffisante ne garantit pas la concentration ou la sûreté du travail. Ni taux de régénération, ni volume quotidien universel, ni multiplicateur d’endurance n’est fixé.
+- **Hasol :** Mana naturel 355 au niveau 10, bonus runique connu +20 ; son endurance dans l’atelier est un avantage distinct de Bénédiction runique et de la future mesure de ses échecs. Aucun gain de maîtrise automatique ni suppression de la fatigue.
+- **Principales en pourcentage :** calculées sur la caractéristique naturelle, avant ajout des bonus fixes runiques. Les exemples +50 Attaque et +10 % donnent +20 à 200 naturels, +50 à 500 et +200 à 2000 ; ce sont des valeurs pédagogiques, pas les affixes de nouvelles runes définies. Cette assiette ne fixe ni le calcul des ensembles, ni Résonance runique, ni les arrondis, ni l’adoption de pourcentages en secondaires.
+- **Échec :** les commandes racontées conservent leur niveau et leur intégrité après les échecs montrés ; ne pas extrapoler une règle universelle de destruction ou de dégradation à des paliers non documentés.
+- **Fichiers concernés :** `lore/systeme.md`, `lore/decisions.md`, `PLAN_DIRECTEUR.md`, `AGENTS.md`, `source.md`, états dans `lore/personnages.md`, `lore/runes.md` et `lore/chronologie.md`.
 
 ## Questions de système toujours ouvertes
 

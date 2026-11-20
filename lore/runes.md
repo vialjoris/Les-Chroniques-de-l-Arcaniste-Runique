@@ -2,7 +2,7 @@
 
 ## Périmètre
 
-État à la fin du chapitre 1. Sources : `roman.md`, `PLAN_DIRECTEUR.md` et décisions DEC-001, DEC-004, DEC-005 et DEC-006 dans `decisions.md`. Les identifiants ci-dessous sont des repères documentaires stables, pas des informations ajoutées aux interfaces du roman.
+Historique du chapitre 1, inventaire de lecture du chapitre 2 et suivi des chapitres 3 et 4 (DEC-023). Sources : `roman.md`, `PLAN_DIRECTEUR.md` et décisions de `decisions.md`. Les identifiants ci-dessous sont des repères documentaires stables, pas des informations ajoutées aux interfaces du roman. Les runes travaillées chez Orven restent distinctes de l’équipement personnel de Hasol.
 
 **État validé le 19 novembre 2026 — DEC-018 :** les deux cadeaux et leurs caractéristiques actuelles font partie du chapitre 1 validé. Les propositions d’équipement futur ci-dessous ne sont pas approuvées par cette validation.
 
@@ -97,3 +97,43 @@ Toutes les nouvelles runes appartiennent à Hasol, sont offertes par sa mère au
 - Les pourcentages d’ensemble restent affichés séparément des bonus fixes ; aucun total complexe n’est publié avant validation des règles de calcul et d’arrondi.
 
 Pour les futures acquisitions, appliquer DEC-007 aux butins de monstre, sans déduire la rareté du niveau du monstre. Les cadeaux paternels rares (bleus), 6★, +6 gardent leur rang sans qu’une provenance de chasse précise leur soit inventée.
+
+## Chapitres 3 et 4 — Équipement personnel inchangé
+
+**DEC-023 :** Hasol conserve HAS-R001 à HAS-R010, dix runes équipées sur dix emplacements. Aucun achat, remplacement, sacrifice ni amélioration personnelle n’est raconté dans ces chapitres. L’ancienne validation des cadeaux et de la composition reste distincte du statut de lecture des caractéristiques maternelles.
+
+- Quatre Fatal, quatre Gardien, deux Énergie ; un Fatal, deux Gardien, un Énergie actifs.
+- Deux runes rares (bleues), 6★, +6 ; HAS-R003 Fatal rare (bleue), 3★, +3 ; les sept autres maternelles, 3★ peu communes (vertes) ou rares (bleues) selon leurs fiches, à +0.
+- Bonus fixes inchangés : PV +445, Attaque +102, Défense +96, Vitesse +13, Mana +20 ; Résistance +6 % distincte. Pourcentages d’ensemble séparés : Attaque +35 %, Défense +30 %, PV +15 % ; aucun total complexe supplémentaire.
+- Le coût personnel en Mana des travaux chez Orven ne change pas les affixes des runes équipées.
+
+## ORV-R001 — Énergie travaillée lors de l’épreuve du chapitre 3
+
+- **Désignation actuelle :** Énergie peu commune (verte), 2★, +3 ; grade d’origine commun (blanc), aucune secondaire à +0.
+- **Détenteur lors du travail :** atelier d’Orven ; propriétaire final (atelier ou client) **À DÉFINIR** dans la transmission. N’appartient pas à l’équipement personnel d’Hasol.
+- **Principale :** PV fixes ; valeur initiale, valeurs à +1/+2/+3 et gains exacts **À DÉFINIR**. Le texte n’indique que leur augmentation.
+- **Secondaire :** Défense, apparue à +3 ; valeur exacte **À DÉFINIR**. Une seule secondaire sur quatre possibles, pas de changement d’étoiles.
+- **Historique :** +0 → +1 réussi ; +1 → +2 échoué (rune intacte à +1) ; +1 → +2 réussi ; +2 → +3 réussi, grade actuel devenu peu commun (vert).
+- **Ressources :** fournies par l’atelier pour l’épreuve ; consommées aussi lors de l’échec. Coût personnel en Mana établi par DEC-024, mais aucun débit numérique récupérable.
+- **État :** travail terminé et rune laissée chez Orven ; jamais équipée par Hasol. Aucune livraison au propriétaire final ni revente racontée.
+
+## CLI-R001 — Gardien confiée par le jeune chasseur au chapitre 4
+
+- **Désignation :** Gardien commune (blanche), 2★, +0 au début, +2 à la restitution.
+- **Propriétaire :** jeune chasseur client non nommé, distinct d’Hasol et d’Orven. Équipement effectif après restitution non montré.
+- **Principale :** le client recherche un gain de Défense, mais le libellé exact de la principale n’est pas affiché dans la transmission ; caractéristique et valeurs initiale/finales **À DÉFINIR**, sans déduire un affixe du seul ensemble Gardien.
+- **Secondaires :** aucune à +0 ni à +2, aucun palier +3 atteint. Grade et étoiles inchangés.
+- **Historique :** +0 → +1 échoué, rune inchangée et ressources consommées ; +0 → +1 réussi ; +1 → +2 réussi. Trois tentatives au total, dernière tentative confirmée par le client ; commande limitée à +2.
+- **État :** rendue au client, jamais équipée par Hasol. Budget, pierres et Mana consommés non chiffrés ; aucune tentative supplémentaire engagée.
+
+## MAR-R001 — Fatal observée au marché au chapitre 3
+
+- **Désignation :** Fatal peu commune (verte), 3★, +0.
+- **Détenteur :** marchand non nommé ; Hasol n’achète pas la rune, ses emplacements étant déjà occupés.
+- **Principale :** Attaque ; valeur exacte et unité fixe ou pourcentage **À DÉFINIR**.
+- **Secondaire :** Vitesse ; valeur exacte **À DÉFINIR**. Une seule secondaire, conforme au grade natif vert.
+- **État :** exposée à la vente ; prix non chiffré dans la transmission. Les mentions ultérieures de cette Fatal verte renvoient à cette même pièce, pas à une acquisition nouvelle.
+
+## Autres pierres et commandes aperçues au chapitre 4
+
+Plusieurs commandes simples sont réalisées sans inventaire détaillé ni nombre exact de tentatives. Une fiche Gardien rare (bleue), 3★, vise +1, mal lu +2 par Hasol ; aucune tentative n’est engagée sur cette fiche. Les pierres de vitrine et les exemples de comparaison ne permettent pas toujours de retrouver ensemble, étoiles, affixes ou propriétaire. Ces identités et valeurs restent **À DÉFINIR** ; ne pas fabriquer de lignes individuelles exhaustives ni ajouter ces runes à l’équipement d’Hasol.

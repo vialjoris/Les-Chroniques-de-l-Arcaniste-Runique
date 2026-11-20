@@ -105,13 +105,15 @@ Les exemples vérifiés sont conservés dans `../source.md`. Cette équivalence 
 
 ## 7. Principales fixes et principales en pourcentage — DEC-011
 
-**CANON — intention de progression :** les principales en valeur fixe favorisent les personnages de bas niveau ; les principales en pourcentage deviennent rapidement plus avantageuses avec la croissance des caractéristiques naturelles. Orven expliquera ce principe dans une scène future, dont le placement n’est pas encore fixé.
+**CANON — intention de progression :** les principales en valeur fixe favorisent les personnages de bas niveau ; les principales en pourcentage deviennent rapidement plus avantageuses avec la croissance des caractéristiques naturelles. Cet enseignement est désormais raconté au chapitre 4, section IV, puis mis en pratique dans le conseil à une cliente, section VII (DEC-023 et DEC-024).
 
 Les principales PV %, Attaque % et Défense % sont admises par cette décision. Leur présence en principales ne valide pas les mêmes caractéristiques en pourcentage comme secondaires ; cette question reste distincte.
 
 Comparer des runes à rang en étoiles et amélioration comparables, et tenir compte de leur grade et de leurs secondaires pour juger l’équipement complet. La supériorité d’une principale ne suffit pas à établir celle de toute la rune. Ne pas transformer le conseil en règle universelle indépendante des valeurs.
 
-La vitesse de bascule recherchée est une intention d’équilibrage ; aucun seuil de niveau universel, barème de progression naturelle ou ordre de calcul nouveau n’est fixé. Avant un exemple chiffré, vérifier les valeurs des deux principales, l’assiette du pourcentage, les arrondis et la progression du personnage. Si les chiffres ne permettent pas une bascule rapide, signaler l’écart et demander un arbitrage plutôt que modifier les gains validés.
+**Assiette CANON — DEC-024 :** une principale en pourcentage se calcule sur la caractéristique naturelle, avant l’ajout des bonus fixes runiques. L’exemple pédagogique du chapitre 4 compare Attaque +50 et Attaque +10 % : pour 200 naturels, +50 contre +20 ; pour 500, +50 contre +50 ; pour 2000, +50 contre +200. Ces valeurs ne constituent ni une table par étoiles ni deux nouvelles runes identifiées dans l’inventaire.
+
+La vitesse de bascule recherchée est une intention d’équilibrage ; aucun seuil de niveau universel ni barème de progression naturelle n’est fixé. Les ensembles, l’interaction avec Résonance runique et les arrondis ne sont pas définis par cette seule assiette. Si les chiffres ne permettent pas une bascule rapide, signaler l’écart et demander un arbitrage plutôt que modifier les gains validés.
 
 Les principales fixes Attaque +70 et Défense +70 des deux cadeaux rares (bleus), 6★, +6, restent inchangées au chapitre 1. Leur remplacement futur doit être raconté et consigné, pas imposé rétroactivement.
 
@@ -141,7 +143,18 @@ Ces repères complètent l’échelle propre au roman ; ils ne sont pas extraits
 
 Les valeurs actuelles du manuscrit restent Mana 30 et Puissance arcanique 20 au niveau 1, 310 et 186 au niveau 9, 355 et 211 au niveau 10. Les nouveaux repères ne les remplacent pas automatiquement et ne définissent pas leurs valeurs intermédiaires. Ne pas calculer les gains par division des normes par soixante ; la progression et la date du dépassement restent à établir.
 
-## 9. Questions à définir
+## 9. Coût des améliorations et fatigue — CANON, DEC-024
+
+- Chaque tentative d’amélioration consomme **des pierres de mana et du Mana personnel de l’artisan**, qu’elle réussisse ou échoue.
+- Le coût en Mana augmente avec la difficulté, notamment selon le rang en étoiles, le grade et le palier d’amélioration visé. Les valeurs exactes et l’usage du grade d’origine ou du grade actuel dans une future table restent **À DÉFINIR** ; ne pas inventer de formule.
+- La réserve disponible limite le travail possible. Le repos restaure le Mana ; des potions peuvent restaurer la réserve sans supprimer toute fatigue mentale. Les rythmes de récupération, les effets chiffrés des potions et le nombre de tentatives réalisables par jour restent **À DÉFINIR**.
+- La fatigue mentale limite la concentration même lorsqu’il reste du Mana. Posséder une grande réserve ne garantit ni précision, ni expérience, ni réussite. Ne pas déduire d’un soin magique une récupération automatique de l’attention.
+- Au chapitre 4, Orven découvre l’endurance de Hasol : **355 Mana naturels**, bonus runique connu **+20**, réserve disponible partiellement consommée mais non chiffrée. Ce constat ne donne ni un ratio d’endurance par rapport aux apprentis ni le taux d’échec de Bénédiction runique, réservé au chapitre 7.
+- Les ressources de l’épreuve du chapitre 3 sont fournies par l’atelier. Le chapitre 4 montre des commandes de clients avec budget et tentatives autorisées limités ; l’apprentie ne peut pas engager des ressources ou un palier supplémentaire sans autorisation.
+- Les échecs montrés aux chapitres 3 et 4 consomment les ressources mais laissent les runes intactes à leur niveau précédent. Cela n’établit pas les conséquences de tous les échecs aux paliers non racontés.
+- L’absence de montant ou de décompte de Mana dans une ancienne fenêtre ne signifie pas que le coût est nul. Aucun débit rétroactif chiffré n’est ajouté aux chapitres précédents.
+
+## 10. Questions à définir
 
 - Tables complètes par rang des principales PV, Attaque, Défense, Vitesse, Mana et éventuelles autres caractéristiques, au-delà des valeurs adoptées ci-dessus.
 - Valeurs initiales et gains des secondaires, distincts des tables ci-dessus.
@@ -151,6 +164,7 @@ Les valeurs actuelles du manuscrit restent Mana 30 et Puissance arcanique 20 au 
 - Les valeurs individuelles du don maternel dans la version de lecture du chapitre 2 restent à valider avec le texte (DEC-019). La composition quatre Fatal, quatre Gardien, deux Énergie est fixée par DEC-020, sans nouvelle question sur les nombres par ensemble.
 - Obtention de runes sur les monstres de niveau supérieur à 60 et probabilités de butin.
 - Progression naturelle de Hasol : croissance physique après la nouvelle base 4★ et progression magique cohérente avec DEC-015. Les normes magiques au niveau 60 sont connues, mais les courbes et le niveau de franchissement de 1000 Mana par Hasol restent à définir.
-- Placement de l’explication d’Orven sur principales fixes et pourcentages ; tables et règles de calcul permettant de vérifier la bascule rapide souhaitée.
+- Tables des principales permettant de vérifier la bascule rapide souhaitée entre fixe et pourcentage ; l’explication et l’assiette naturelle sont désormais établies au chapitre 4, sans ordre de calcul des ensembles ou arrondis supplémentaires.
+- Coûts en Mana et en pierres par tentative, traitement du grade initial ou actuel, régénération, effets des potions et limites de travail ; ne pas transformer les exemples ou la réserve 355 en barème.
 
 Ne pas appliquer automatiquement les coûts, les restrictions d’emplacements, les règles de retrait ou de destruction, ni l’absence d’échec jusqu’à +3 de Summoners War. Le roman prévoit un échec lors d’une tentative de passage à +2 au chapitre 3.
