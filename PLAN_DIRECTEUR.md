@@ -510,6 +510,8 @@ La fréquence globale d’obtention d’une rune reste **[À CONFIRMER]**. Ces t
 
 **Deuil :** plusieurs scènes, réactions propres à la mère et aux compagnons, conséquences durables. La mort du père n'est ni un simple obstacle à lever ni une douleur résolue par la prochaine réussite.
 
+**Focalisation [VALIDÉ — DEC-090] :** ne pas expliquer au lecteur l’origine de l’hostilité d’Armin envers le Griffon d’Argent. Il reste dans la même incertitude qu’Hasol, qui trouve l’exigence injuste. Aucune scène privée, pensée parentale ou explication omnisciente ne doit révéler la raison cachée. Cause réelle et savoir d’Iseria restent **[À CONFIRMER]**, sans obligation de les fixer pour écrire ce conflit ni promesse de révélation ultérieure. Aucun jugement objectif sur le bien-fondé d’Armin ou lien avec son décès déduit.
+
 ## Chapitre 12 — « La légende prend sa place » [PLAN VALIDÉ — DEC-045]
 
 **La limite des quatre :** Hasol, Yoon, Ray et Zio affrontent un **boss de donjon niveau 32** qui invoque en masse des **monstres niveau 11** tant qu'un piège reste actif. Ils fuient. Zio, le plus expérimenté, propose de recruter une Ranger avant le retour. Le niveau 32 n'est pas attribué à Hasol ; ni invulnérabilité du boss, ni désactivation ou victoire automatiques ne sont ajoutées.
@@ -615,6 +617,8 @@ Les deux premières morts de Ray se répètent : l’ancienne idée de onze dram
 - **Origines Astrea [PROPOSITION DE L’AUTEUR — DEC-087] :** une scène montrerait Hasol utilisant sa mémoire parfaite pour rapprocher sa classe astrale des origines de la famille de sa mère et ouvrir une piste face à une difficulté. Indices, nature du lien, difficulté, placement et résultat **[À CONFIRMER]**. Ni hérédité astrale, ni vérité du fondateur supposé, ni résolution de la catastrophe mondiale validées par cette idée ; mémoire parfaite ne vaut pas omniscience.
 
 # 9. Questions ouvertes à trancher avant rédaction définitive
+
+**Préparation sur téléphone :** les questions des chapitres **10 à 16**, les acquis utiles et les limites de délégation sont regroupés dans `lore/transmission_mobile_chapitres_10_16.md`. Document de travail à compléter avec l’auteur, pas une validation des réponses ni un substitut au chapitre 9 et aux références. **DEC-090 :** la cause du conflit d’Armin et le savoir d’Iseria peuvent rester indéfinis pour préserver la focalisation ; ce ne sont pas des préalables obligatoires à la rédaction.
 
 1. **Point résolu le 19 novembre 2026 — cadeaux initiaux :** deux runes bleues 6★ +6, principales Attaque +70 et Défense +70 ; deux secondaires renforcées chacune, valeurs et historique dans `lore/runes.md`. Voir DEC-001, DEC-005 et la correction prioritaire DEC-006 dans `lore/decisions.md`.
 2. **Règle d’amélioration résolue par DEC-006 puis DEC-014 :** principale augmentée à chaque niveau, plus fortement à +15 ; secondaire ajoutée ou renforcée à +3, +6, +9, +12 et +15, avec un maximum de quatre. À +15, renforcer une des quatre secondaires présentes. Les gains numériques des secondaires restent à définir en dehors des deux cadeaux déjà documentés.

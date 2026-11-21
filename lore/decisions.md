@@ -978,6 +978,15 @@
 - **Limites :** aucun inventaire exhaustif de vêtements, aucune pièce, matière, protection chiffrée, propriété magique ou variation d’équipement runique déduits. Pas de changement automatique d’apparence physique, de caractère ou de statistiques selon les tenues. Aucun chapitre réécrit.
 - **Fichiers concernés :** `lore/personnages.md`, `PLAN_DIRECTEUR.md`, `AGENTS.md` et présent registre.
 
+## DEC-090 — Conflit d’Armin avec le Griffon : maintenir le lecteur aux côtés d’Hasol
+
+- **Statut : CANON pour le choix de focalisation ; cause du différend et connaissances d’Iseria À DÉFINIR.**
+- **Source :** réponse directe de l’auteur le 21 novembre 2026 à la question sur l’hostilité d’Armin et le savoir d’Iseria : « j'aimé bien que le lecteur ne le sache pas ça permet d'etre dans le meme etat d'esprit d'hasol qui trouve injuste la situation ».
+- **Décision :** ne pas révéler au lecteur les raisons de l’hostilité d’Armin envers le Griffon d’Argent dans le traitement de ce conflit au livre I. Maintenir le lecteur dans la même incertitude qu’Hasol, qui perçoit l’exigence de son père comme injuste et non justifiée.
+- **Application :** pas de scène explicative entre les parents, de monologue intérieur révélateur d’Armin ou d’Iseria, ni de commentaire omniscient donnant au lecteur une explication refusée à Hasol. Montrer les réactions et le refus d’expliquer sans inventer d’indices désignant un complot ou une faute de la guilde.
+- **Limites :** le sentiment d’injustice d’Hasol n’établit ni qu’Armin a objectivement tort ni qu’il a secrètement raison. La cause réelle et ce qu’Iseria en sait restent ouverts ; ne pas affirmer qu’elle sait ou ignore. Ces inconnues ne bloquent pas l’écriture du conflit dès lors qu’aucune scène ne les tranche implicitement. Aucun lien causal entre guilde, voyage et décès, aucune révélation ultérieure ou résolution obligatoire du mystère validés.
+- **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `AGENTS.md` et présent registre. Aucun chapitre modifié ou rédigé.
+
 ## Questions de système toujours ouvertes
 
 - Barème numérique des gains secondaires, au-delà des choix individuels consignés pour les deux cadeaux ; règle d’apparition résolue par DEC-006.

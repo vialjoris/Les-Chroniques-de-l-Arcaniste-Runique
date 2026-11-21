@@ -37,6 +37,8 @@ Les inspirations externes répertoriées dans `source.md` ne sont pas des règle
 
 ### Transmission depuis les sessions mobiles — `new.txt`
 
+**Préparation mobile des chapitres 10 à 16 :** questionnaire et synthèse de départ dans `lore/transmission_mobile_chapitres_10_16.md`, demandés par l’auteur le 21 novembre 2026. Les réponses futures ne sont pas encore acquises. Le chapitre 9 reste validé ; ce dossier ne remplace pas les textes et références nécessaires à la rédaction. Après un retour mobile, synchroniser les réponses explicitement approuvées sans canoniser les propositions de ChatGPT.
+
 L’auteur poursuit aussi le travail dans ChatGPT en mode conversation depuis son téléphone. Il déposera les nouveaux textes et décisions dans `new.txt` pour leur intégration au projet. Ce fichier est un support de transmission, pas un second manuscrit ni un remplacement automatique du canon.
 
 Lorsqu’un nouvel apport est signalé :
@@ -172,6 +174,7 @@ Ensembles actifs validés : Fatal, quatre pièces, +35 % Attaque ; Vitesse, quat
 
 ## 8. Garde-fous de continuité
 
+- **Conflit d’Armin et du Griffon — DEC-090 :** au livre I, le lecteur ne connaît pas les raisons du père et reste aux côtés d’Hasol, qui trouve sa demande injuste. Ne pas expliquer le différend par une scène entre parents, leurs pensées ou un commentaire omniscient. Cause réelle et savoir d’Iseria à définir, sans blocage pour la rédaction si ces inconnues sont préservées ; aucun complot ou lien avec le décès déduit.
 - **Parents — DEC-086 :** Armin Shun et Iseria Astrea, nom d’épouse Shun. Iseria est une soigneuse pure de Terre ; statistiques de référence au niveau 60 et répertoire délégués dans `lore/personnages.md`, pas niveau présent ou disponibilité automatique de tous les sorts. Pas de statistiques à développer pour Armin. Astrea est une famille perdue dont un héros astral **serait** le fondateur : conditionnel obligatoire, pas d’hérédité astrale ni de dernière survivante déduites. Connaissances des personnages et révélation au lecteur restent à définir.
 - Le chapitre 1 restauré est à préserver ; toute correction doit rester dans le périmètre autorisé.
 - **Chapitre 1 validé le 19 novembre 2026 — DEC-018 :** la version actuelle de `roman.md`, après reprise DEC-016 et correction DEC-017 (niveau 8 en section VII, passage au niveau 9 en VIII), est la référence narrative. Ne pas la modifier rétroactivement sans nouvelle autorisation, y compris pour adapter les chapitres d’`old.txt`. La validation ne porte pas sur les propositions ouvertes des chapitres suivants et n’autorise pas leur rédaction.
