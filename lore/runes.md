@@ -2,7 +2,14 @@
 
 ## Périmètre
 
-Historique du chapitre 1, inventaire de lecture du chapitre 2 et suivi des chapitres 3 et 4 (DEC-023). Sources : `roman.md`, `PLAN_DIRECTEUR.md` et décisions de `decisions.md`. Les identifiants ci-dessous sont des repères documentaires stables, pas des informations ajoutées aux interfaces du roman. Les runes travaillées chez Orven restent distinctes de l’équipement personnel de Hasol.
+Historique des chapitres 1 à 9 ; état courant : fin du chapitre 9 validé (DEC-072). Sources : manuscrit et versions retenues de `new.txt`, plan et décisions. Les tableaux 1 à 4 ci-dessous sont des instantanés historiques, pas l’équipement actuel. Les identifiants restent documentaires et stables, y compris après transfert de propriétaire. Les commandes clients et runes de recyclage restent distinctes de l’équipement personnel.
+
+## État courant — fin du chapitre 9, CANON
+
+- **Hasol :** douze cercles, **12/12 runes équipées : 4 Fatal + 4 Arcanique + 4 Gardien**. Fatal +35 % Attaque, Arcanique +1 200 PA, deux Gardien +15 % Défense chacun, soit +30 %. Pas d’Énergie, de Vitesse ou de Lame équipée. Toutes les pièces ne sont pas uniformément +6.
+- **Yoon :** deux cercles équipables, **HAS-R009 et HAS-R010**, Énergie désormais **épiques (violettes), 3★, +9**, données et équipées au chapitre 9 ; Énergie actif, +15 % PV. **YOO-R001 et YOO-R002**, anciennes runes +6, restent stockées ; ensembles, grades, étoiles et affixes **À DÉFINIR**.
+- **Cadeaux paternels inchangés :** HAS-R001 Fatal rare (bleue), 6★, +6 et HAS-R002 Gardien rare (bleue), 6★, +6 restent équipées ; aucun passage à +9 déduit.
+- **Fiches individuelles incomplètes :** pas de total effectif inventé, de nouvel affixe attribué au hasard ou de grade natif supposé à partir de l’ensemble. Les états historiques restent disponibles ci-dessous ; leur ancienne mention « actuelle » vaut au chapitre de la fiche, pas après toutes les améliorations.
 
 **État validé le 19 novembre 2026 — DEC-018 :** les deux cadeaux et leurs caractéristiques actuelles font partie du chapitre 1 validé. Les propositions d’équipement futur ci-dessous ne sont pas approuvées par cette validation.
 
@@ -145,3 +152,92 @@ Pour les futures acquisitions, appliquer DEC-007 aux butins de monstre, sans dé
 ## Autres pierres et commandes aperçues au chapitre 4
 
 Plusieurs commandes simples sont réalisées sans inventaire détaillé ni nombre exact de tentatives. Une fiche Gardien rare (bleue), 3★, vise +1, mal lu +2 par Hasol ; aucune tentative n’est engagée sur cette fiche. Valeurs, propriétaire et identité individuelle de cette commande restent **À DÉFINIR**. Dans la version initiale, d’autres pierres de vitrine ou d’atelier étaient aperçues sans étoiles récupérables ; l’adaptation DEC-027 conserve des étalages génériques plutôt que d’inventer leurs caractéristiques. Les fiches de comparaison actuelles et l’ardoise sont pédagogiques : ne pas fabriquer de lignes individuelles ni les ajouter à l’équipement d’Hasol.
+
+## Chapitres 5 et 6 — Équipement et runes sacrifiées
+
+**CANON — DEC-072/075 :** HAS-R001 à HAS-R010 restent équipées, dix pièces sur dix cercles ; pas d’amélioration personnelle ou de remplacement raconté dans ces deux chapitres. Le forgeron imprègne l’épée de Terre pour un mois au chapitre 5, financement de Zio, prix non chiffré ; ce travail n’ajoute aucune rune équipée à Hasol.
+
+Au chapitre 6, Orven fait trier le lot destiné à la récupération : conserver les pièces encore utiles, payer la valeur de récupération de celles cédées à Hasol. **Lot documentaire REC-L001 : runes communes (blanches), 1★**, nombre exact, améliorations et affixes individuels **À DÉFINIR**. Il s’agit d’un lot de provenance, pas d’un nouvel ID individuel pour toutes les pierres. Certaines sont définitivement détruites lors des essais d’Aura : 200 Mana et une rune par activation. Nombre d’essais et répartition des pierres restantes/détruites non récupérables ; ne pas fabriquer d’IDs ou de comptes exacts. Aucun prélèvement sur les commandes clients, aucun cadeau maternel ou paternel détruit.
+
+**Raccord autorisé par l'auteur — DEC-072 :** la petite rune examinée au chapitre 6 en section III, décrite avec des secondaires, est désormais **rare (bleue), 1★**, et non commune blanche. Ce choix éditorial répond à sa demande de changer la couleur, sans supprimer les secondaires ni inventer leurs valeurs ou une amélioration. Cette pièce figure dans le lot de récupération ; son ensemble, ses affixes et son devenir individuel restent **À DÉFINIR**. Le lot comprend donc aussi cette pièce bleue, distincte des communes blanches 1★ utilisées dans les essais ; ne pas recolorer tout le lot.
+
+## Chapitre 7 — Deux Arcanique et réorganisation, CANON
+
+**Source :** version retenue de `new.txt`, lignes 20323–20831, et notes 21763–21828. Les identités non explicitées restent ouvertes ; aucun changement des affixes antérieurs par simple correction documentaire.
+
+| Groupe d’IDs | Composition à la fin du 7 | Amélioration et identité connues |
+|---|---|---|
+| HAS-R001, HAS-R003, HAS-R004, HAS-R005 | Quatre Fatal équipées | HAS-R001 rare (bleue), 6★, +6 inchangée ; les trois maternelles 3★ améliorées, répartition +3/+6 **À DÉFINIR** |
+| HAS-R002 et une parmi HAS-R006/007/008 | Deux Gardien équipées | HAS-R002 rare (bleue), 6★, +6 inchangée ; identité de la maternelle maintenue et amélioration **À DÉFINIR** |
+| Deux parmi HAS-R006/007/008 | Deux Gardien maternelles stockées | Toutes 3★, grade natif et affixes historiques conservés ; aucun événement ne permet de désigner la paire retirée ou d’inventer son amélioration |
+| HAS-R009, HAS-R010 | Deux Énergie équipées | 3★, niveaux individuels +3/+6 **À DÉFINIR** à cette étape ; ne pas appliquer encore le +9 du chapitre 9 |
+| HAS-R011, HAS-R012 | Deux Arcanique équipées, acquises via Orven | Principale PA ; grade, étoiles, amélioration individuelle +3/+6 et affixes chiffrés **À DÉFINIR** |
+
+**Bilan ferme :** dix runes équipées, **six +6 et quatre +3**, deux cadeaux paternels compris dans les six +6. Fatal +35 % Attaque, une Gardien +15 % Défense, Énergie +15 % PV ; Arcanique **2/4 inactif**. Les deux Gardien retirées sont conservées, ni vendues ni sacrifiées. L’identité de la paire n’est pas récupérable par son seul rôle défensif : principale et ensemble sont distincts.
+
+**HAS-R011 et HAS-R012 — fiches individuelles :** propriétaire Hasol, ensemble Arcanique, achat au chapitre 7 après les premières commandes du Griffon d’Argent ; principale Puissance arcanique, valeur/unité, grade natif, grade courant, couleur, étoiles et secondaires **À DÉFINIR** ; état équipée du 7 au 9. Aucun rang 2★ ne peut être rétroactivement attribué à ces premières acquisitions sur la seule base des achats du 9. Leur amélioration individuelle n’est pas affichée ; ne pas sélectionner lesquelles complètent le bilan six +6/quatre +3.
+
+**Affixes maternels :** HAS-R004/005/008/010, nativement peu communes (vertes), 3★, restent vertes à +3 avec leur secondaire renforcée, mais deviennent rares (bleues) à +6 lors de l’ajout de la deuxième. HAS-R003/006/007/009, nativement rares (bleues), 3★, gardent deux secondaires jusqu’à +6. Renforcements et valeurs manquants restent inconnus ; les listes historiques à +0/+3 ne sont pas des listes finales inchangées.
+
+## Chapitre 8 — Même inventaire, victoire sur l’alpha
+
+Les dix pièces et le bilan six +6/quatre +3 du 7 sont conservés. Aucun butin individualisé ou remplacement nouveau récupérable. Les critiques d’épée tirent profit de la PA, dont les principales Arcanique ; Résonance amplifie uniquement les principales avant le niveau 40 de Yoon, pas les secondaires ni l’ensemble. Aucun sacrifice d’Aura déduit de ces critiques.
+
+## Chapitre 9 — Améliorations, transfert et douze runes, CANON
+
+**Source :** dernière version retenue, lignes 29195–33081 ; variantes antérieures non importées.
+
+| Étape | Équipement Hasol | Équipement/stock Yoon |
+|---|---|---|
+| Début et améliorations personnelles | Dix pièces, 4 Fatal/2 Gardien/2 Énergie/2 Arcanique ; Énergie montées à +9, certaines Fatal maternelles également | Deux anciennes runes +6 équipées, détails inconnus |
+| Onzième cercle | Deux nouvelles Arcanique 2★ +6 remplacent directement les deux Énergie +9 ; une ancienne Gardien maternelle rééquipée : **4 Fatal/4 Arcanique/3 Gardien, 11/11** | Reçoit les deux Énergie +9 ; retire et stocke ses anciennes +6, refuse de les céder après le conseil d’Hasol |
+| Douzième cercle, Hasol niveau 19 | Dernière Gardien maternelle rééquipée : **4 Fatal/4 Arcanique/4 Gardien, 12/12** | Deux Énergie +9 équipées sur ses deux cercles ; anciennes +6 en réserve pour ses futurs cercles, Yoon niveau 24 à la fin |
+
+### HAS-R009 et HAS-R010 — Énergie épiques (violettes), 3★, +9, transférées à Yoon
+
+- **Identité :** anciens cadeaux maternels du chapitre 2, pas de nouvelles runes créées ou renommées au don. Propriétaire Hasol jusqu’au chapitre 9, puis **Yoon Notos**, état équipée chez Yoon.
+- **HAS-R009 :** native rare (bleue), 3★ ; historique à +0 : principale PV +100, secondaires Défense +3 et Résistance +3 %. À +3/+6, renforcements ; à +9, ajout d’une troisième secondaire et grade affiché épique (violet). Principale finale, valeurs renforcées et nouvelle secondaire **À DÉFINIR** ; ne pas conserver +100 comme valeur à +9.
+- **HAS-R010 :** native peu commune (verte), 3★ ; historique à +0 : principale Défense +7, secondaire PV +30. À +3, renforcement de l’existante ; à +6, ajout de la deuxième et grade rare (bleu) ; à +9, troisième et grade épique (violet). Principale finale, valeurs, deuxième et troisième secondaires **À DÉFINIR**. Le don ne transforme pas sa principale Défense en PV.
+- **Limite documentaire :** le texte associe les deux Énergie à une hausse des PV et des soins de Yoon sans afficher leurs affixes ; cela ne valide pas rétroactivement deux principales PV. L’ensemble +15 % PV s’applique ; Chant est désormais explicitement validé à 10 % des PV maximums de Yoon toutes les 5 s. Gain individuel exact et soin effectif restent ouverts faute de fiche complète, pas faute de règle de soin.
+- Les deux atteignent effectivement +9 avec des échecs et consommation de ressources ; nombre total et coûts **À DÉFINIR**. À +9, trois secondaires, jamais deux bleues inchangées ni quatrième ajoutée prématurément.
+
+### HAS-R013 et HAS-R014 — Arcanique, grade/couleur À DÉFINIR, 2★, +6
+
+- **Propriétaire :** Hasol ; deux achats au chapitre 9 auprès d’un fournisseur d’Orven grâce aux rémunérations du Griffon d’Argent.
+- **Principale :** Puissance arcanique, valeur et unité **À DÉFINIR** ; secondaires, grade natif et grade courant **À DÉFINIR**, ne pas déduire un grade du rang 2★.
+- **Amélioration :** déjà +6 à l’achat, pas une amélioration par Hasol racontée dans cette scène. Les deux remplacent HAS-R009/010 et restent équipées en fin de chapitre 9.
+- Avec HAS-R011/012, quatre Arcanique : **+1 200 PA**, indépendamment des valeurs de principales. Ce bonus contribue à lui seul +15 points de CC et +12 points de DCC selon DEC-076, sans fixer le taux total d’Hasol.
+
+### Suivi final des anciennes runes
+
+- **HAS-R001/002 :** rares (bleues), 6★, +6, équipées et inchangées, affixes de leurs fiches initiales conservés.
+- **HAS-R003/004/005 :** Fatal maternelles 3★, toutes équipées ; certaines atteignent +9, dont une pièce offensive explicitement mise en avant, sans identification individuelle possible. Grade actuel **À DÉFINIR par pièce** ; toute pièce effectivement +9 a trois secondaires et devient épique (violette), étoiles inchangées. Ne pas attribuer +9 à HAS-R003 par simple préférence ni inventer les gains.
+- **HAS-R006/007/008 :** trois Gardien maternelles 3★, **toutes rééquipées à la fin du 9**. Paire retirée au 7, première remise au onzième cercle et seconde au douzième : correspondance d’IDs **À DÉFINIR**. Grade courant, améliorations et affixes mis à jour à établir ; historiques natifs préservés. Ne pas ajouter de nouvelles Gardien pour remplacer ces mêmes pierres.
+- **HAS-R011/012 :** premières Arcanique toujours équipées, grades/étoiles/améliorations/valeurs individuels non récupérables ; aucune amélioration +9 propre à ces pièces n’est affirmée.
+- **Aucun achat Vitesse réalisé :** ensemble cher et recherché, ambition ultérieure seulement. Ancienne composition du plan 4 Fatal/4 Vitesse/2 Énergie/2 Gardien remplacée par la version validée ; pas de Vitesse fictive inscrite à l’inventaire.
+
+### YOO-R001 et YOO-R002 — Anciennes runes de Yoon, +6
+
+Deux identifiants distincts, propriétaire Yoon ; elles étaient équipées avant le cadeau et sont stockées après. Ensembles, grades/couleurs, étoiles, principales et secondaires **À DÉFINIR**. Ni vente, ni don accepté par Hasol, ni destruction. « Quand tu auras quatre cercles » est une perspective d’équipement, pas quatre cercles déjà obtenus ou une date fixée. Leurs futurs retours à l’équipement devront être consignés sans créer d’autres identités.
+
+## Objets futurs — ne pas ajouter au présent
+
+- **Anneau runique — DEC-077 :** futur cadeau de la famille de Ray, remis par Ray après le sauvetage. Accessoire à inventaire spécialisé, pas une rune à placer dans un cercle ; capacité, grade, étoiles éventuelles et statistiques **À DÉFINIR**. Ne pas le compter parmi les douze runes actuelles. Combat en le portant puis niveau 21 : Aimant runique ; effets cachés de fréquence/étoiles/grades. Tranches DEC-007 = plafonds ; exemple monstre 30, 1★/2★/3★ ordinaires 50/35/15 %, avec Aimant 20/30/50 %. Pas d’extrapolation aux autres niveaux ni de rune garantie.
+- **Rune temporelle — DEC-079 :** acquise à la fin du livre I, grade et étoiles **À DÉFINIR**, distincte de l’ensemble Arcanique. Première activation au cliffhanger du I, 12 DONG/1 DING ; douzième activation à la fin de R11 au II, 12 DONG/12 DING puis destruction définitive. Identifiant individuel et circonstances précises d’obtention à consigner lors de la scène autorisée, pas comme butin déjà acquis.
+- **Lame/Arcanique — DEC-076, arbitrage auteur :** Lame est retiré du catalogue actif et remplacé par Arcanique. Ancien contrat historique conservé ; aucune Lame équipée par Hasol, aucune conversion matérielle fictive.
+- **Œil/Bénédiction — arbitrage final auteur, futur seulement :** les **types de secondaires** sont prédéterminés quel que soit l’artisan ; Œil montre les **maxima accessibles à Hasol si elle améliore**, pas des valeurs finales garanties. Un autre artisan obtient les mêmes types et des valeurs pouvant être inférieures. Bénédiction favorise les maxima sans garantie ni suppression des échecs. Aucun affixe ancien retouché, aucun Œil attribué à Hasol avant son niveau 20 au futur chapitre 10.
+
+### Grades du butin — arbitrage final auteur
+
+Distributions **conditionnelles à une rune obtenue**, pas probabilité qu’une rune tombe sur chaque monstre ; grades natifs, distincts des évolutions de couleur par amélioration.
+
+| Grade natif | Couleur | Ordinaire | Avec Aimant |
+|---|---|---:|---:|
+| Commun | Blanc | 74 % | 39 % |
+| Peu commun | Vert | 20 % | 35 % |
+| Rare | Bleu | 5 % | 20 % |
+| Épique | Violet | 0,9 % | 5 % |
+| Légendaire | Orange | 0,1 % | 1 % |
+| **Total** | — | **100 %** | **100 %** |
+
+**À DÉFINIR :** fréquence globale de drop et relation statistique grade/étoiles. Ne pas supposer leur indépendance ni multiplier les tables pour inventer une probabilité conjointe. Aucun nouveau grade, rang, affixe ou butin individuel ne se déduit de ces distributions pour l’inventaire actuel.

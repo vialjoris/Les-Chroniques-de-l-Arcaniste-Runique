@@ -77,7 +77,19 @@ Les gains naturels déjà racontés sont conservés ; les nouvelles fiches 9 et 
 
 Les fiches consultées ne fournissent pas de Mana et de Puissance arcanique directement transposables au roman. Ne pas leur attribuer une conversion automatique depuis l’Attaque. Ces deux caractéristiques gardent leurs valeurs précédentes lors de la correction ; leur éventuel rééchelonnement nécessite une décision distincte.
 
+## Classe de Zio — Paladin d'Eden Eternal
+
+- **Source :** Les guides d'Eden eternal — « [EEFR]Guide sur le Paladin », par Kwai.
+- **URL :** https://lesguidesedeneternal.blogspot.com/2017/05/eefrguide-sur-le-paladin.html
+- **Publication :** 26 mai 2017 ; **consultation :** 20 novembre 2026.
+- **Statut — DEC-053 :** inspiration explicitement désignée par l'auteur pour les passifs et sorts de Zio. Les glyphes peuvent servir de référence pour représenter ses cercles runiques et les valeurs apportées par ses runes dans l'adaptation.
+- **Contenu utile :** profil tank/soutien, défense au bouclier, gestion de l'attention ennemie, bénédictions et possibilités de soin. Ces éléments décrivent le guide, pas une liste de compétences déjà validées pour Zio.
+- **Limites :** sa classe canonique reste Gardien, Rare. Ni les valeurs, ni les compétences, soins, glyphes, équipements, nombres d'emplacements ou mécaniques propres au jeu ne sont adoptés automatiquement. Construire séparément la fiche naturelle, les bonus runiques et les compétences ; chaque rune devra suivre les règles et l'inventaire du roman.
+- **Provenance des chiffres de Zio :** la fiche naturelle au niveau 60, le profil magique de soutien, le niveau final 61 et l'autodestruction au niveau 50 viennent des décisions de l'auteur, pas de ce guide. Aucune origine externe précise des quatre valeurs physiques n'est déclarée par l'auteur.
+
 ## Références internes
+
+**Adaptation du Paladin pour Zio — CANON, DEC-058 :** l'auteur valide la liste proposée de six actifs et trois passifs, avec noms, niveaux, effets qualitatifs et limites consignés dans `lore/systeme.md`. Dernier Rempart devient le nom officiel de son autodestruction au niveau 50. Cette adaptation propre au roman ne constitue pas une transcription des compétences du jeu ni une adoption de ses chiffres. Paramètres numériques, équipement et inventaire restent à définir ; Zio conserve sa classe Gardien, Rare, et un soin personnel secondaire.
 
 ### Apports futurs depuis ChatGPT mobile — `new.txt`
 
@@ -86,7 +98,7 @@ Les fiches consultées ne fournissent pas de Mana et de Puissance arcanique dire
 - **Priorité :** une proposition de ChatGPT n’est pas canon par sa simple présence. Les décisions explicites de l’auteur suivent l’ordre de priorité défini dans `AGENTS.md` ; signaler les contradictions qui subsistent.
 - **Traitement :** lecture complète, contrôle de continuité, prévention des doublons, adaptation des fenêtres en HTML/CSS, intégration ciblée puis mise à jour des références.
 - **Préservation :** ne pas vider le fichier de transmission ni remplacer un chapitre validé sans autorisation. La provenance permet de retrouver le texte reçu, même après intégration.
-- **Disponibilité au moment de cette consigne :** aucun `new.txt` présent ; aucun nouvel apport n’est réputé lu ou intégré.
+- **Disponibilité historique au moment de la consigne initiale :** aucun `new.txt` présent à cette date. Le fichier a depuis été fourni puis actualisé ; voir les notices d'intégration ci-dessous, sans confondre disponibilité et validation de son contenu.
 - **Publication :** l’auteur indique que le dépôt GitHub est public. Les fichiers poussés peuvent exposer les révélations futures et les conversations copiées ; aucune publication n’est effectuée par la seule mise en place de ce workflow.
 - **Choix confirmé :** l’auteur accepte cette accessibilité publique, y compris pour l’intrigue et les documents de travail. Ne pas réitérer les avertissements de spoilers à chaque intégration. Une publication effective reste soumise à autorisation ; les secrets et données privées de tiers ne sont pas couverts par cette acceptation.
 
@@ -127,16 +139,36 @@ La copie est conservée intacte. Son existence ne donne pas autorisation de remp
 
 ### Règle originale d’obtention et de présentation
 
-L’auteur établit une règle propre au roman (DEC-007) : niveaux de monstre 1–10 → 1★, 11–20 → 2★, 21–30 → 3★, 31–40 → 4★, 41–50 → 5★, 51–60 → 6★. Les niveaux supérieurs à 60 restent à définir. Cette correspondance ne provient pas du guide et ne fixe ni la rareté ni la probabilité de butin. L’auteur impose aussi de préciser rareté et étoiles à chaque mention d’une rune identifiable, une fois identifiée.
+L'auteur établit une règle propre au roman (DEC-007, précisée par DEC-077) : niveaux de monstre 1–10 → 1★ maximum, 11–20 → 2★, 21–30 → 3★, 31–40 → 4★, 41–50 → 5★, 51–60 → 6★. Il s'agit désormais explicitement de plafonds, les rangs inférieurs restant possibles ; les distributions chiffrées du niveau 30 et des grades viennent de ses arbitrages locaux du 21 novembre, pas du guide externe. Les niveaux supérieurs à 60 et la fréquence globale de butin restent à définir. L'auteur impose aussi de préciser rareté et étoiles à chaque mention d'une rune identifiable, une fois identifiée.
 
 L’auteur précise également que toutes les runes sont équipables à tout niveau du personnage, indépendamment de leur rareté, de leurs étoiles et de leur amélioration (DEC-008). Les tranches d’obtention ne sont pas des restrictions d’équipement ; un emplacement disponible reste nécessaire.
 
 ### Repères magiques originaux du roman
 
-**Source : décision explicite de l’auteur du 19 novembre 2026 — DEC-015**, et non une donnée de Summoners War : norme au niveau 60 de 1000 Mana ; Puissance arcanique 600 pour un soutien, 2000 pour un mage. Hasol est de classe soutien mais possède un profil de mage en Puissance arcanique ; son Mana dépassera largement 1000. Le moment du dépassement et les valeurs futures exactes restent à définir. Ne pas extrapoler une courbe linéaire ou une conversion depuis l’Attaque du jeu.
+**Source : décision explicite de l’auteur du 19 novembre 2026 — DEC-015**, et non une donnée de Summoners War : norme au niveau 60 de 1000 Mana ; Puissance arcanique 600 pour un soutien, 2000 pour un mage. Hasol est de classe soutien mais possède un profil de mage en Puissance arcanique ; son Mana dépassera largement 1000. **DEC-054** fixe ensuite sa fiche naturelle au niveau 60 : PV 12 180, Attaque 350, Défense 250, Vitesse 130, Mana 3 500 et Puissance arcanique 2 150, hors runes, ensembles et effets temporaires. Ces valeurs sont fournies par l'auteur, avec correction explicite de Vitesse 110 à 130, sans nouvelle provenance externe revendiquée. Le moment du dépassement de 1000 Mana et les valeurs intermédiaires restent à définir. Ne pas extrapoler une courbe linéaire ou une conversion depuis l’Attaque du jeu.
+
+### Décisions originales récentes — provenance conversationnelle
+
+- **DEC-051/052 :** fiche naturelle de Yoon au niveau 60 et effets qualitatifs de la Vitesse, définis par l'auteur. Aucune formule externe d'incantation ou d'esquive adoptée.
+- **DEC-063 à DEC-067 :** positionnement de Yoon/Zio, normes de cercles par classe, légendes astrales, difficulté croissante des cercles naturels et disponibilités du groupe proviennent des précisions de l'auteur. L'influence d'Hasol sur la collecte de mana reste une hypothèse à émettre au livre II, pas une règle issue d'un jeu.
+- **DEC-068 à DEC-070 :** Ray niveau 56 en fin de livre I et faible endurance magique sont fixés par l'auteur. Son répertoire de six actifs et trois passifs de feu est une proposition originale de l'assistant explicitement validée, pas une liste transposée d'un jeu externe. Les coûts et autres paramètres numériques restent à définir.
+- **Courbes de cercles proposées :** suggestions de l'assistant non validées, conservées dans `lore/pistes.md`. Ni le choix du niveau final de Ray ni la validation de ses compétences ne les adoptent.
 
 - `PLAN_DIRECTEUR.md` : bible éditoriale mêlant canon validé, propositions et questions ouvertes, à distinguer explicitement.
 - `roman.md` : manuscrit unique ; les faits racontés dans les chapitres validés doivent être préservés, sous réserve des corrections autorisées par l’auteur.
 - `AGENTS.md` : consignes de travail, priorité des sources et contrôles de continuité.
 
 Les fichiers de `lore/` doivent consigner les règles, états et décisions avec leur statut. Leur existence seule ne garantit pas qu’ils soient renseignés ou à jour.
+
+### Transmission du 21 novembre 2026 et arbitrages de la session locale
+
+- `new.txt` comporte plusieurs versions narratives et de longues conversations. Chapitre 5 : version 2, « Une rencontre inattendue » ; chapitre 9 : dernière version corrigée, suivie du message explicite « Chapitre 9 validé ». Les chapitres 6, 7 et 8 disposent chacun d'un texte complet. Les chapitres 1 à 4 présents dans la transmission ne remplacent pas les révisions locales plus récentes.
+- L'auteur valide explicitement les chapitres 5 à 8 dans la session locale et choisit la version 2 du chapitre 5. Il autorise l'intégration des chapitres 5 à 9 avec ajouts ciblés de fenêtres LitRPG et corrections techniques indispensables, sans réécriture générale. L'audit et les propositions concernant les chapitres 1 à 4 restent séparés du manuscrit jusqu'à lecture et validation.
+- Les affinités élémentaires, les paramètres de Vague runique, les compétences astrales sélectionnées, la remise à zéro des compteurs et le découpage activation/réveil viennent des réponses directes de l'auteur dans cette session, non d'une inspiration externe. Voir DEC-072 à DEC-080.
+- Les développements des livres II et III proviennent des messages de l'auteur dans `new.txt`, avec synthèses de ChatGPT utilisées comme repères et non comme validations autonomes. La note globale supposait à tort les neuf chapitres déjà intégrés dans le dépôt ; le manuscrit local s'arrêtait au chapitre 4 avant cet import.
+- **Arbitrages complémentaires directs :** Chant à 10 % des PV maximums de Yoon toutes les cinq secondes ; Lame retiré au profit d'Arcanique ; seuil d'arme à aura maintenu au niveau 10 même pour Hasol astrale. Les étoiles sont plafonnées par le niveau du monstre ; les tables de butin sont originales au roman. La distribution ordinaire des grades a été corrigée par l'auteur à **74 % blanc / 20 % vert / 5 % bleu / 0,9 % violet / 0,1 % orange**, contre **39 / 35 / 20 / 5 / 1 %** avec Aimant, chaque total valant 100 %.
+- **Œil et retours :** l'auteur précise que les types de secondaires sont identiques quel que soit l'artisan, mais qu'Œil affiche les maxima accessibles à Hasol, sans garantie de tous les obtenir ; un autre artisan peut obtenir des valeurs plus faibles. Les retours lors des défaites face au démon sont déclenchés par la détresse **avant le coup fatal**, et non par un mécanisme post-mortem nouveau.
+- Les archives `new.txt` et `old.txt` restent intactes. Les rapports d'audit assurent la traçabilité des retouches ; cette intégration locale n'autorise aucun commit ni push.
+- **Demande locale complémentaire :** fenêtres de repères du lore au début et à la fin des chapitres. Elles sont préparées comme aides pour le lecteur, sans nouvelle scène système ni transfert de connaissances aux personnages ; les propositions des chapitres 1 à 4 restent séparées et non canoniques.
+- **DEC-081 — règle originale de l'auteur :** les monstres invoqués comptent pour Croissance sous ses conditions habituelles et donnent **50 % de l'XP d'un monstre classique comparable**. L'auteur veut faire de l'exploitation des **invocations infinies** du donjon, piège actif et boss en vie, un levier majeur dans les **livres II et III**. Aucun quota anti-farm, accès solitaire, suppression des coûts ou barème externe d'XP adopté ; base, partage et arrondis restent ouverts.
+- **DEC-082 — complément narratif direct :** d'autres groupes perturbent l'exploitation et tuent le boss au livre II ; cette expérience motive Hasol à tout faire pour **privatiser le donjon au livre III**. L'auteur n'a fixé ni droit de propriété, ni méthode, ni prix ou succès ; aucun mécanisme emprunté à un autre univers ne doit les remplacer.

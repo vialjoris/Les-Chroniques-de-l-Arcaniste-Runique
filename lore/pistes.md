@@ -9,7 +9,19 @@ Ce document conserve une synthèse des idées évoquées dans la conversation av
 - **À DÉFINIR :** information ou choix encore manquant.
 - **CONTRADICTION :** variante incompatible avec une décision récente ; ne pas la réintroduire sans arbitrage explicite.
 
-Le plan du livre I en seize chapitres est validé par **DEC-045** et conservé intégralement dans `../PLAN_DIRECTEUR.md`. Ne pas reconstruire un autre plan concurrent du livre I à partir des pistes ci-dessous. Les livres II et III n’ont pas encore de découpage validé.
+Le plan du livre I en seize chapitres est validé par **DEC-045** ; versions retenues des textes 5 à 9 validées par **DEC-072**, versions locales 1 à 4 préservées. **DEC-080 :** le livre II a désormais seize chapitres et onze réincarnations, vies 2 à 12 ; livre III, vie 13 et bonheur durable avec Zio, nombre de chapitres ouvert. Les anciens plans ci-dessous sont des **archives non actives**, pas des solutions concurrentes à `../PLAN_DIRECTEUR.md`.
+
+### Actualisation prioritaire — DEC-072 à DEC-080 et arbitrages de session
+
+- **CANON raconté :** Hasol 10→11/Aura au 5, Infiltration au 6, deux propriétés de Bénédiction et Griffon/Arcanique au 7, victoire sur l’alpha 12 au 8, Hasol 19/douze cercles et Yoon 24 au 9. Au 7 : 4 Fatal/2 Gardien/2 Énergie/2 Arcanique, six +6/quatre +3. Au 9 : 4 Fatal/4 Arcanique/4 Gardien ; deux Énergie épiques (violettes), 3★, +9 données à Yoon qui n’a que deux cercles et stocke ses anciennes +6. Vitesse reste un projet.
+- **CANON technique :** Aura 200 Mana/rune détruite/24 h ; Infiltration sur activation critique, trente secondes et plancher PA ; Bénédiction réduit relativement les échecs d’environ 30 % et favorise très fréquemment le maximum variable, sans garantie. Arcanique quatre pièces +1 200 PA ; critiques `5 + PA/80 + bonus CC` et `150 + PA/100 + bonus DCC`. **Lame retiré de l’actif**, historique conservé.
+- **Yoon :** trois capacités dès le niveau 1 ; Résonance active ciblée, Chant zone autonome **10 % de ses propres PV maximums toutes les 5 s**, désormais explicitement validé ; Vague faible de Lumière, 5 Mana, 20 % PA, 10 m, incantation 5 s, aucune recharge. Les propositions transmises neutre/1 s pour Vague sont remplacées par les précisions de session.
+- **Futurs validés :** Ray en période de test imposée par sa famille, Anneau spécialisé et plaisanterie du mariage après sauvetage ; Aimant au niveau 21 après combat avec l’anneau. Tranches = plafonds ; seul exemple de rang au monstre 30 : 1★/2★/3★ ordinaires 50/35/15 %, Aimant 20/30/50 %, sans extrapolation ni rune garantie. **Grades désormais clarifiés**, blanc/vert/bleu/violet/orange : ordinaires **74/20/5/0,9/0,1 %**, Aimant **39/35/20/5/1 %**, totaux 100 %. Tables conditionnelles à rune obtenue ; fréquence globale ouverte, aucune indépendance grade/étoiles validée.
+- **Famille :** réserve du père au 7, dernière dispute au 11 sur le Griffon d’Argent, dont il exige l’abandon sans se justifier ; refus d’Hasol, pas de réconciliation avant voyage et décès. Origine du différend et cause de mort inconnues, aucun lien causal guilde/décès validé.
+- **Vies astrales :** niveau 1 Bénédiction/Croissance/Œil-pièges/Main active coffres-portes sans restriction/Aura ; Main remplace le réapprentissage, pas Aimant ouvrant des coffres. **Arme imprégnée utilisable personnellement au niveau 10 seulement, même Hasol astrale** ; potentiel au 1 intéressant pour les recruteurs, pas exemption. Aimant à reconditionner par combat avec l’anneau dans chaque vie ; compteurs de Croissance zéro, report des cercles ouvert. Équipe astrale principale quatre à 50/50, Samia hors équipe mais présente dans l’histoire ; groupe du I inchangé.
+- **Trilogie :** activation/cliffhanger fin I, 12 DONG/1 DING ; réveil au II une semaine avant la Révélation. R1 Ray poison/mort, R2 nouvel échec, R3 Ray sauvé/drame terminal ouvert, R4 père mort, R5 père sauvé/Hasol vaincue à 34 ans contre le démon : **détresse et retour avant le coup fatal**, également pour les défaites suivantes, pas résurrection après mort. Puis progression et victoire, annonce des morts des Notos à 45 ans, répartition ouverte. R11 bibliothèque/>100 000 livres/Mémoire parfaite, 12 DONG/12 DING/rune détruite ; III vie 13 sans retour, prologue grand-mère, catastrophe mondiale des 45 ans, bonheur durable avec Zio/enfants/petits-enfants.
+- **Œil/Bénédiction — résolu :** types de secondaires prédéterminés pour tout artisan ; Œil affiche les **maxima accessibles à Hasol si elle améliore**, jamais un résultat garanti. Autre artisan : mêmes types, valeurs pouvant être inférieures. Maxima fréquents de Bénédiction et échecs possibles préservés. Pouvoir futur au niveau 20, inconnu des personnages au chapitre 9.
+- **À DÉFINIR :** affixes et identités non récupérables, valeur isolée du reliquat historique déjà inclus dans les compteurs du 9, fréquence globale de drop et distribution conjointe grade/étoiles, cumul des livres et report des cercles entre vies. **32 cercles fin II en R11 avant le dernier retour**, **36 fin III** et **16 fin I** conservés, pas niveaux ou reports implicites. Les tables de grades, Œil/Bénédiction et retour préfatal ne sont plus ouverts. **DEC-081 valide l'exploitation des invocations infinies comme levier majeur des livres II et III**, avec compteur de Croissance admissible et XP ×0,5 d'un monstre comparable ; scènes, gains, débit, base d'XP, partage et arrondis restent ouverts.
 
 **Provenance :** échanges de cette session, notamment la proposition initiale de douze chapitres par livre, la discussion d’un rythme plus confortable à seize, les questions éditoriales et la réflexion sur l’XP. Les titres et intrigues non validés proposés par l’assistant sont identifiés comme tels ; les anciennes conversations mobiles restent dans `../new.txt`.
 
@@ -36,14 +48,51 @@ Le plan du livre I en seize chapitres est validé par **DEC-045** et conservé i
 
 ### Compétences — détails transmis à reprendre avant rédaction
 
-**Provenance :** consignes et échanges dans `../new.txt`. Le placement d’Aura runique au chapitre 5 et de son expérimentation critique au chapitre 6 est maintenant validé par DEC-045. Les paramètres non arbitrés restent distingués de ce placement : cette liste ne les adopte pas.
+**Historique des questions antérieures à l’import — remplacé sur les points arbitrés ci-dessous.** Provenance : consignes et échanges de `../new.txt`. Les paramètres adoptés dans DEC-074 à DEC-076 ne sont plus de simples propositions ; les variantes restent ici pour leur provenance.
 
-- **Aura runique :** coût transmis de 200 Mana, destruction définitive d’une rune quelconque, élément choisi, arme personnelle ou alliée, durée de 24 heures. La rune sacrifiée ne doit pas être créée gratuitement ; les dix runes équipées ne sont pas une réserve à détruire implicitement. Paramètres à arbitrer selon le plan actuel.
-- **Critique et Infiltration runique :** dans son message copié, l’auteur situe le critique au lancement d’Aura runique, pas sur un coup d’épée ; il évoque un minimum de dégâts lié à la Puissance arcanique et un effet de trente secondes. La réponse de ChatGPT reformule un plancher par coup, sans plafonner les dégâts supérieurs, puis le maintien de l’aura normale jusqu’à vingt-quatre heures. Reprendre les attributions exactes dans la source avant de fermer la mécanique ; ne pas inventer de probabilité critique ou de formule générale de dégâts.
-- **Ressources d’expérimentation :** la réponse de ChatGPT suggérait un accord avec Orven pour des runes destinées au recyclage, puis une découverte au mannequin. L’accord précis, la propriété et la provenance des runes restent à construire, pas un droit de prendre les runes des clients.
-- **Yoon — ancienne proposition, formes remplacées par DEC-046 :** la transmission proposait Chant runique dès le niveau 1 avec 10 % des PV maximums toutes les cinq secondes et concentration nécessaire. L'auteur a désormais retenu Résonance **active ciblée** et soin **en zone posée**, sans canalisation continue ; prochains contrôles au niveau 20 et cercles d'écritures runiques au sol. Niveau initial exact d'obtention, montant, assiette et cadence des soins, rayon, durée et coûts restent à définir. Ne pas réintroduire l'aura passive ou le chant maintenu comme variantes encore ouvertes.
+- **Aura runique — désormais CANON, DEC-075 :** 200 Mana, rune quelconque détruite, élément choisi, arme personnelle/alliée, 24 h ; origine et valeur des ressources à suivre. Ni les dix runes équipées ni les commandes clients ne sont une réserve gratuite.
+- **Infiltration — désormais CANON, DEC-075 :** critique d’activation d’Aura, pas d’épée ; trente premières secondes, plancher par attaque égal à la PA effective actuelle d’Hasol sans réduction par la Défense, sans réduction de la Défense elle-même ; dégâts supérieurs possibles. Aura 24 h conservée ; aucune formule générale de dégâts supplémentaires.
+- **Ressources — raconté au 6 :** tri des runes destinées à récupération puis cession à leur valeur de recyclage par Orven ; essais au mannequin, coûts et repos. Nombre et identités de toutes les pièces sacrifiées non récupérables ; aucun droit sur les runes clients.
+- **Yoon — historique précisé :** concentration continue et Résonance passive remplacées par zone autonome et actif ciblé. Les **10 % des PV maximums de Yoon toutes les 5 s** sont désormais explicitement validés par l’auteur en session ; rayon, coût, durée et cumul ouverts. Trois compétences initiales au niveau 1, dont Vague ajoutée ; Domaine niveau 20 conservé. Ne pas rouvrir les paramètres déjà arbitrés.
 - **Évolution retenue ensuite — DEC-050 :** au niveau 40, Résonance reste active ciblée mais inclut les deux premières secondaires de chaque rune, en plus des principales. L'exclusion de toutes les secondaires ne vaut donc plus après ce niveau ; ensembles et secondaires suivantes restent exclus. Les anciennes formulations ne doivent pas annuler cette décision plus récente.
-- **Forgeron :** l’enchantement de Terre payé par Zio appartient au plan validé. Le mois de durée et le prix élevé non chiffré viennent de la transmission ; la durée n’est pas automatiquement adoptée par DEC-045. Le niveau 10 minimum d’utilisation est, lui, déjà canonique (DEC-028).
+- **Forgeron — raconté au 5 :** Terre financée par Zio, un mois, prix élevé sans montant ; changement d’élément exige refaire et repayer. Niveau 10 minimum maintenu pour l’utilisation, y compris astrale.
+
+### Courbes de cercles des cinq personnages — PROPOSITIONS NON VALIDÉES
+
+**Provenance :** proposition de l'assistant demandée par l'auteur après DEC-067. Le choix du niveau final de Ray (DEC-068), puis la validation de ses compétences (DEC-069), ne valident pas ces courbes. Les étapes proposées ne sont pas des gains automatiques au passage de niveau.
+
+**Contraintes CANON :** difficulté naturelle croissante avec le niveau ; normes au niveau 60 : Commune 4, Rare 6, Légendaire 8. Yoon étudie et chasse avec Hasol les week-ends et vacances ; Ray a terminé l'Académie et chasse énormément avec Hasol pendant ses propres niveaux 30–40 ; Zio a un autre groupe avant de rejoindre celui d'Hasol quand Yoon termine l'Académie. Aucun effet de proximité avec Hasol confirmé.
+
+| Personnage | Courbe proposée : niveau → nombre total de cercles |
+|---|---|
+| Yoon | Ancienne proposition 5 → 2 ; vers 10 → 3 ; 20 → 4 ; 24 → 4 : **remplacée/incompatible avec ses deux cercles en fin de chapitre 9, niveau 24**. Suite vers 30 → 5 ; 40 → 6 ; 50 → 7 ; fin I à 54 → 7 non validée ; **60 → 8 CANON** |
+| Ray | recrutement à 22 → 3 ; vers 30 → 4 ; vers 35 → 6 ; vers 40 → 8 ; vers 50 → 9 ; fin du livre I à 56 → 9 ; **60 → 10 CANON** |
+| Zio | retrouvailles à 45 → 6 ; adhésion → 6 ou 7 selon son niveau ; vers 50 → 7 ; **60 → 8 CANON** ; fin du livre I à 61 → 8 |
+| Samia | recrutement → 4 ou 5 selon son niveau ; vers 40 → 5 ; vers 45 → 6 ; fin du livre I à 52 → 7 ; référence à 60 → 7 |
+
+- **Yoon :** progression régulière par l'Académie et les chasses, sans effacer ses activités propres. Niveau de sortie de l'Académie à définir.
+- **Ray :** forte croissance pendant les chasses en duo, puis ralentissement. Les passages 4 → 6 → 8 sont des totaux espacés, pas deux gains simultanés. Ne pas donner à Hasol les mêmes niveaux. Les neuf cercles à 56 restent une suggestion.
+- **Zio :** l'essentiel de sa construction précède son adhésion ; son autre groupe et son expérience restent significatifs. Nombre au niveau 61 encore ouvert dans le canon.
+- **Samia :** sept cercles est **CANON**, mais leur rattachement au niveau 52 ou 60 reste **À DÉFINIR**. Le tableau propose de les atteindre à 52 et de les conserver à 60. Le nombre au recrutement doit rester compatible avec le niveau finalement choisi.
+
+**Hasol — répartition proposée, distincte des cercles naturels :**
+
+| Jalon | Total et statut |
+|---|---|
+| Avant Croissance runique | **2 — CANON** |
+| Déblocage au niveau 10 | **10 — CANON** |
+| Chapitres 5 à 8 | 10, état prévu sans gain anticipé |
+| Chapitre 9 | 11 puis **12 — total CANON** |
+| Chapitre 11 ou 12, nouveau palier de monstres admissibles | 13 — **PROPOSITION** |
+| Centième boss vers le niveau 38 au chapitre 14 | 14 — **PROPOSITION de total** ; gain immédiat d'un cercle **CANON** |
+| Entre l'évolution du passif et la catastrophe | 15 — **PROPOSITION** |
+| Fin du livre I, vers le niveau 45 | **16 — CANON** |
+
+**À DÉFINIR :** répartition des gains après le chapitre 9 entre monstres et boss, éventuels gains naturels supplémentaires, compteurs, dates et équipement. Ne pas inventer des centaines de boss pour remplir le tableau, remettre le reliquat historique à zéro ou compter deux fois les éliminations. Les 32 cercles de fin du livre II et les 36 de fin du livre III sont canoniques, pas leurs courbes ni leurs niveaux.
+
+### Hypothèse du livre II — jalon validé, vérité non établie
+
+**CANON — DEC-066 :** l'hypothèse sera émise que faire équipe avec Hasol permet de collecter davantage de mana et de recevoir plus vite des cercles. **À DÉFINIR :** personne qui la formule, observations, scène et vérification éventuelle. Ne pas la transformer en passif ou cause certaine des courbes ci-dessus, ni la faire formuler dès le livre I.
 
 ## 3. Lecture thématique de la trilogie
 
@@ -61,11 +110,11 @@ Le plan du livre I en seize chapitres est validé par **DEC-045** et conservé i
 
 ## 4. Livre II — ancienne proposition en douze chapitres
 
-**Statut de toute cette section : PROPOSITION HISTORIQUE DE L’ASSISTANT, non validée.**
+**Statut de cette section et de ses anciennes contraintes : ARCHIVE DE PROPOSITION DE L’ASSISTANT, non active, remplacée sur les points tranchés par DEC-078 à DEC-080.** Le livre II a seize chapitres et onze réincarnations, pas la seule seconde vie de ce découpage. Les anciennes mentions ci-dessous de réapprentissage de Main, d’avenir affectif non choisi ou de Samia sans place décidée ne sont pas des règles actuelles : voir l’actualisation prioritaire et le plan. Les titres et scènes proposés restent non validés.
 
 Titre envisagé : **La Seconde Révélation**, provisoire. Ce titre avait aussi été proposé dans les anciens échanges de `new.txt` ; il n’est pas le titre officiel adopté du livre II.
 
-L’auteur a ensuite envisagé seize chapitres par livre pour un rythme plus confortable ; seul le découpage de seize chapitres du livre I a été validé. Les douze unités ci-dessous sont donc du matériau à redistribuer, pas douze chapitres obligatoires ni un plan actuel à imposer.
+**Historique :** douze unités suggérées avant le choix des seize chapitres du II ; matériau éventuellement réutilisable après contrôle, pas un plan concurrent ou une répartition validée.
 
 1. **Avant que tout commence.** Activation de la rune, retour avant la Révélation, choc devant les parents vivants, puis classe Arcaniste Astral. Les prémisses sont canoniques ; le déroulement précis de la scène reste à construire.
 2. **Une fille revenue trop tôt.** La famille célèbre sa classe tandis qu’Hasol porte un deuil inexplicable pour eux. Elle commence un carnet de souvenirs et essaie maladroitement de retrouver une proximité avec son père.
@@ -80,17 +129,17 @@ L’auteur a ensuite envisagé seize chapitres par livre pour un rythme plus con
 11. **La vérité qu’elle ne peut plus cacher.** Un danger la pousse à partager une partie de son histoire avec certains proches. Ils ne retrouvent aucun souvenir et peuvent la croire tout en contestant ses méthodes ou son désir de les protéger contre leur volonté.
 12. **Un avenir sans carte.** Une mission empêche une catastrophe locale et apporte un élément important sur la menace future. Victoire rendue possible par les relations présentes, pas par une répétition parfaite de l’ancienne équipe ; transition vers un danger dont le calendrier n’est plus fiable.
 
-### Contraintes acquises depuis cette proposition
+### Anciennes contraintes de cette proposition — archive, actualisation prioritaire en tête
 
 - **CANON — DEC-037 :** Œil runique amélioré doit couvrir la détection des pièges ; Main runique fera l’objet d’un réapprentissage rapide, pas d’un transfert automatique de toutes les actives.
-- **CANON — DEC-040 :** le donjon au boss niveau 32 et aux invocations niveau 11 doit être réexploité pour les cercles dans la seconde vie. Cette scène ne figurait pas dans le découpage initial ; elle doit trouver sa place dans une future version, avec les seuils d’admissibilité et le minimum de trois membres respectés.
+- **CANON — DEC-040/081/082 :** le donjon au boss niveau 32 et aux invocations infinies niveau 11 est un levier majeur des livres II et III, XP ×0,5 et conditions de Croissance maintenues. Au II, d'autres groupes tuent le boss et gênent le maintien de la production ; au III, Hasol fait tout pour privatiser le donjon. **À DÉFINIR :** scènes, vies, intervenants, autorité et modalités de privatisation, moyens financiers éventuels, calendrier et résultat. Pas de quota anti-farm inventé, d'exclusivité automatique, de groupe nécessairement malveillant ou de réapparition du boss présumée.
 - Les anciens passifs sont accessibles dès le niveau 1 d’Arcaniste Astral, mais leurs détails d’adaptation et les compteurs ne sont pas tous définis. Ne pas attribuer à Hasol ses anciennes runes, ses cercles ou tous ses sorts actifs par simple souvenir.
 - Son mariage avec Zio appartient à la première chronologie ; il ne connaît pas cette vie commune. L’avenir affectif de la seconde vie reste ouvert.
 - Classe, relations et place de Samia dans cette seconde vie restent à définir. L’autonomie technique d’Hasol ne signifie pas que Samia doit disparaître du récit.
 
 ## 5. Livre III — ancienne proposition en douze chapitres
 
-**Statut de toute cette section : PROPOSITION HISTORIQUE DE L’ASSISTANT, non validée.**
+**Statut : ARCHIVE DE PROPOSITION DE L’ASSISTANT, non active.** La poursuite d’une simple seconde chronologie et l’absence de fin heureuse décidée ci-dessous sont **remplacées** par DEC-079/080 : vie 13, mémoire parfaite, rune détruite, prologue grand-mère, catastrophe mondiale des 45 ans à empêcher et bonheur durable avec Zio. Les douze titres et scènes ci-dessous ne sont pas adoptés.
 
 Titre envisagé : **Le Dernier Serment**, provisoire. Le livre III comme dernier tome est canonique (DEC-030), pas ce titre ni ce déroulement. Les douze unités ci-dessous devront être réévaluées avec l’éventuelle cible à seize chapitres.
 
@@ -161,11 +210,17 @@ Ces pistes complètent le plan validé ; elles ne déplacent pas ses événement
 | Cinquième membre simple archer sans identité | **Précisé** : Samia Claire, Ranger commune, amie de Yoon, DEC-037/041/042 |
 | Père mort lors d’un raid ou après sa pleine reconnaissance | **Corrigé** : voyage commercial lointain, avant la large reconnaissance, DEC-029/033 |
 | Œil arcanique distinct ou nouveau nom de l’Œil | **Écarté** : même Œil runique amélioré, DEC-037 |
-| Main runique transférée automatiquement au niveau 1 | **Écarté** au profit du réapprentissage rapide, DEC-037 |
+| Main runique à réapprendre rapidement dans les nouvelles vies | **Remplacé** par accès dès le niveau 1 astral, Main active/coffres/portes sans restriction, DEC-078 ; ancien rejet du transfert conservé uniquement en archive |
 | Résonance en aura passive et soin canalisé en continu | **Remplacés** par l'actif ciblé et la zone de soin posée, DEC-046 |
 | Premier cercle seulement cent boss après l’évolution | **Écarté** : premier cercle immédiat sur les cent boss initiaux, DEC-038 |
 | Interdire le farm des invocations par principe | **Incompatible** avec l’exploitation volontaire prévue au livre II, DEC-040 |
 | Ultime de Zio simplement épuisant ou issue incertaine pour le démon | **Corrigé** : autodestruction tuant Zio et le démon stellaire, DEC-045 |
+| Douze runes uniformément +6 et 4 Fatal/4 Vitesse/2 Énergie/2 Gardien au 9 | **Remplacé** par 4 Fatal/4 Arcanique/4 Gardien avec améliorations individuelles non uniformes ; Énergie +9 chez Yoon, DEC-072 |
+| Onze drames obligatoirement différents au II | **Remplacé** : répétition de Ray et défaites contre le démon, DEC-079/080 |
+| Activation temporelle ouvrant le II | **Précisé** : activation/cliffhanger à la fin du I, réveil au II, DEC-079/080 |
+| Lame actif à côté d’Arcanique | **Retiré de l’actif** par arbitrage auteur, référence historique conservée |
+| Interdire toute nouvelle boucle après la première par défaut de trilogie | **Remplacé** par onze réincarnations au II puis vie 13 sans nouvelle chance, DEC-079/080 |
+| Aimant ouvrant des coffres | **Écarté** : Main est l’active d’ouverture ; Aimant concerne les butins et se reconditionne dans chaque vie |
 
 ## 8. Utilisation et conservation
 

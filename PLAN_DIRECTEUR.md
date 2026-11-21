@@ -2,7 +2,7 @@
 ## Dossier de transmission à Codex — plan narratif, canon et trajectoires
 
 > **Statut du document :** synthèse du canon établi dans les échanges et propositions de structuration. Les passages indiqués **[VALIDÉ]** sont des décisions de l'auteur ; **[À CONFIRMER]** signale une valeur ou une décision encore ouverte ; **[PROPOSITION]** désigne une piste créative que Codex ne doit pas imposer comme canon.
-> **Cadre validé — DEC-045 :** les seize chapitres du livre I, leurs titres, leur séquence et leurs jalons constituent désormais le plan canonique. Cette validation ne vaut ni validation littéraire des textes 1 à 4, dont les statuts propres sont conservés, ni adoption des paramètres encore ouverts, ni autorisation de rédiger le manuscrit. Elle ne valide aucun découpage des livres II et III.
+> **Cadre validé — DEC-045, actualisé par DEC-072 à DEC-080 :** seize chapitres au livre I et seize au livre II ; nombre du livre III à définir. Les versions retenues des chapitres 5 à 9 sont validées par l’auteur dans la session d’intégration. Les versions locales 1 à 4 sont préservées avec leurs statuts propres. Les événements 5 à 9 sont désormais racontés ; les chapitres 10 à 16 restent un plan, sans autorisation de rédaction nouvelle.
 >
 > **Instruction fondamentale :** lire ce document et les chapitres déjà rédigés avant d'écrire ; ne jamais réécrire silencieusement une décision validée. Le manuscrit complet se trouve dans un unique `roman.md` ; les fichiers de référence sont distincts.
 
@@ -12,7 +12,7 @@
 
 - **Titre :** *Les Chroniques de l'Arcaniste Runique*.
 - **Livre I :** *L'Ascension d'une légende oubliée*.
-- **Format cible [VALIDÉ — DEC-030] :** trilogie ; le livre III sera le dernier. La répartition précise des arcs entre les livres II et III et le dénouement final restent à définir. La catastrophe à la fin du livre I et le retour temporel au début du livre II sont conservés.
+- **Format cible [VALIDÉ — DEC-030 et DEC-080] :** trilogie ; livre I : vie 1, seize chapitres ; livre II : onze réincarnations R1 à R11 (vies 2 à 12), seize chapitres ; livre III : vie 13 et dénouement heureux durable avec Zio, nombre de chapitres à définir. L’activation temporelle clôt le livre I en cliffhanger ; le réveil ouvre le livre II.
 - **Genre :** fantasy LitRPG, aventure, progression, drame, relations humaines, runes et classes.
 - **Protagoniste :** Hasol Shun, fille de bonne famille, yeux turquoise, longs cheveux brun sombre attachés en queue-de-cheval.
 - **Voix :** troisième personne centrée principalement sur Hasol, prose française immersive, scènes développées, émotions incarnées par des gestes et des interactions, dialogues naturels, rythme non précipité.
@@ -34,11 +34,19 @@
 - Les classes ne déterminent **pas** mécaniquement la victoire. Équipement, niveau, compétences et expérience comptent.
 - Les statistiques naturelles augmentent à chaque niveau sans répartition manuelle par le personnage. La rareté influence les chances de gains élevés, sans garantie déterministe.
 - Rumeur non prouvée : les activités pratiquées avant de monter de niveau pourraient influer sur les gains ; ne pas présenter comme une loi confirmée.
-- Équipe : **5 membres maximum, 50 points de classe maximum**. Hasol (20) + Yoon (10) = 30/50 ; avec Ray commun (5), trois membres et 35/50 ; puis avec Zio rare (10), quatre membres et 45/50 (DEC-035 corrigée par DEC-036). Samia Claire, Ranger commune (5), complète le groupe à cinq membres et 50/50. Placements validés par DEC-045 : duo au chapitre 5, Ray au 10, Zio au 11, Samia au 12. Dates exactes à définir ; aucun de ces états futurs n'est déjà survenu.
+- Équipe : **5 membres maximum, 50 points de classe maximum**. Duo Hasol (20) + Yoon (10) = 30/50, constitué au chapitre 5. Futur : Ray commun (5), trois membres et 35/50 au 10 ; Zio rare (10), quatre et 45/50 au 11 ; Samia Claire, Ranger commune (5), cinq et 50/50 au 12. Ne pas appliquer au groupe de première vie la composition astrale ultérieure de quatre membres à 50/50, sans Samia.
 - **Donjons [VALIDÉ — DEC-035] :** minimum trois membres pour accéder aux donjons. Cette contrainte motive l'acceptation de Ray par Hasol, distincte d'un pardon. Les modalités précises de cette condition restent **[À CONFIRMER]**, sans inventer contrôle magique, sanction ou dérogation ; elle ne s'applique pas aux chasses extérieures déjà racontées.
 - Si Hasol monte de niveau durant une période de chasse partagée, examiner systématiquement si Yoon doit monter aussi : sa classe rare nécessite moins d'XP. Ne pas inventer une formule d'XP précise si elle n'est pas définie.
 
 # 3. Runes et amélioration [VALIDÉ sauf précisions]
+
+## Repères de cercles et de Vitesse [VALIDÉ — DEC-052, DEC-063 à DEC-067]
+
+- **Normes au niveau 60 :** Commune 4 cercles, Rare 6, Légendaire 8. Classe astrale : nombre inconnu ; les légendes parlent de plus de dix, sans norme vérifiée ni total exact.
+- **Exceptions :** Yoon et Zio ont huit cercles chacun au niveau 60, dans le haut du panier des classes rares. Ray et Samia sont des prodiges de classe commune ; les nombres individuels validés ne deviennent pas des normes ni des plafonds.
+- **Obtention naturelle :** plus le personnage monte de niveau, plus elle devient difficile. Aucun barème ni application automatique aux compteurs de Croissance runique. Les courbes envisagées restent des **[PROPOSITIONS]** dans `lore/pistes.md`.
+- **Vitesse :** augmente l'incantation et le déplacement ; la mobilité favorise l'esquive, sans probabilité automatique ou coefficient fixé.
+- **Livre II seulement :** une hypothèse attribuera à la proximité d'Hasol en équipe une collecte de mana accrue et des cercles plus rapides. Son émission est validée, pas sa véracité ; aucun effet d'équipe confirmé.
 
 ## 3.1 Grades et affixes
 
@@ -60,7 +68,7 @@
 
 Chaque rune possède un rang de **1 à 6 étoiles**, indépendant de son grade de couleur et de son niveau d’amélioration. Le grade détermine le nombre initial de secondaires ; le rang influence les valeurs de la principale selon les tables définies. Une rune bleue n’est donc pas nécessairement une rune trois étoiles.
 
-**Règle propre au roman — DEC-007 :** les runes obtenues sur les monstres de niveaux 1–10 sont 1★ ; 11–20, 2★ ; 21–30, 3★ ; 31–40, 4★ ; 41–50, 5★ ; 51–60, 6★. Le cas des monstres de niveau supérieur à 60 reste à définir. Ne pas en déduire une rareté ou une chance de butin. Toujours préciser rareté et étoiles lorsqu’une rune identifiable est mentionnée ; les caractéristiques encore inconnues restent explicitement à définir dans les références.
+**DEC-007, précisée par l’auteur en session : plafonds de rang du butin** — monstres 1–10 : au plus 1★ ; 11–20 : au plus 2★ ; 21–30 : au plus 3★ ; 31–40 : au plus 4★ ; 41–50 : au plus 5★ ; 51–60 : au plus 6★. Le rang maximal n’est pas garanti. Au-delà de 60 et distributions hors exemple monstre 30 : **[À CONFIRMER]**. Ne pas en déduire un grade ou une rune à chaque élimination ; préciser grade et étoiles de toute pièce identifiable, sinon les noter à définir.
 
 **Équipement — DEC-008 :** les runes sont équipables à tout niveau du personnage, indépendamment de leur rareté, de leurs étoiles et de leur amélioration, sous réserve de disposer d’un emplacement. Les tranches ci-dessus ne concernent que l’obtention sur les monstres. Hasol peut équiper ses deux cadeaux rares (bleus), 6★, +6 au niveau 1.
 
@@ -71,10 +79,10 @@ L’auteur adopte les quatre lignes de progression des principales de taux criti
 - Jalons affichés : **【 +3 】, 【 +6 】, 【 +9 】, 【 +12 】, 【 +15 】** ; les niveaux intermédiaires +1, +2, etc. existent.
 - **Précision de l’auteur — DEC-014 :** la principale augmente à chaque amélioration réussie de +1 à +15, avec un gain plus important à +15. Une secondaire est aussi ajoutée ou renforcée à +3, +6, +9, +12 **et +15**. Les règles d’ajout jusqu’à +12 suivent DEC-006 ; à +15, les quatre secondaires déjà présentes impliquent le renforcement de l’une d’elles, pas une cinquième. Ce palier secondaire final est une adaptation propre au roman.
 - Les tentatives peuvent échouer ; elles consomment des ressources (pierres de mana) ; préciser les conséquences exactes d'un échec seulement si établies dans le chapitre.
-- **Bénédiction runique** : passif initial de Hasol augmentant les chances de réussite, sans les garantir.
+- **Bénédiction runique — DEC-076** : passif initial dont Orven découvre les deux propriétés au chapitre 7 : environ 30 % d’échecs en moins relativement à son taux et maximum des renforcements variables obtenu très fréquemment, sans garantie. Aucun choix libre d’affixe ni dépassement des limites ; fréquence exacte à définir.
 - En chapitre 7 après insertion du chapitre d'artisanat (DEC-023), Orven établit que Hasol subit environ **30 % d'échecs en moins que lui, en relatif**, et non « 30 points de pourcentage » (exemple pédagogique : 40 % d'échec pour Orven contre 28 % pour Hasol). Le chiffre exact de chaque série de tests peut être créé de manière cohérente, sans prétendre à une probabilité universelle.
 - **Coût et limites — DEC-024 :** chaque tentative consomme des pierres de mana et du Mana personnel, même en cas d'échec. Difficulté selon étoiles, grade et palier ; barèmes **[À CONFIRMER]**. Repos et potions restaurent le Mana sans supprimer toute fatigue mentale. La grande réserve de Hasol donne de l'endurance, pas une maîtrise automatique. Enseignement raconté au chapitre 4, distinct de la mesure des échecs au chapitre 7.
-- **Œil runique** : déblocage **uniquement au niveau 20**, après le sauvetage de Ray ; révèle les caractéristiques finales prédéterminées d'une rune à +15. Personne ne connaît ni ne prédit ce pouvoir avant sa découverte.
+- **Œil runique — arbitrage final auteur :** déblocage **uniquement au niveau 20**, après le sauvetage de Ray. Les **types de secondaires sont prédéterminés**, quel que soit l’artisan ; l’Œil affiche les **valeurs maximales accessibles à Hasol si elle améliore la rune**, pas un résultat garanti. Un autre artisan obtient les mêmes types, avec des valeurs pouvant être inférieures. Bénédiction favorise fréquemment les maxima sans les garantir et n’empêche pas les échecs. Personne ne connaît ni ne prédit ce pouvoir avant sa découverte ; aucun accès au chapitre 9.
 
 ## 3.3 Ensembles officiels
 
@@ -84,7 +92,15 @@ L’auteur adopte les quatre lignes de progression des principales de taux criti
 | Vitesse | 4 | +30 % Vitesse |
 | Énergie | 2 | +15 % PV |
 | Gardien | 2 | +15 % Défense |
-| Lame | 2 | +12 % chance critique |
+| Arcanique | 4 | +1 200 Puissance arcanique ; deux ou trois pièces n’activent rien |
+
+**Arcanique — CANON, DEC-076, arbitrage auteur en session :** rare sur le marché et très coûteux, sans confondre disponibilité et grade d’une pièce. **Lame est retiré du catalogue actif, remplacé par Arcanique** ; son ancien contrat deux pièces/+12 % reste uniquement dans l’historique. Aucune Lame n’était équipée par Hasol ; pas de conversion matérielle rétroactive.
+
+**Critiques — CANON, DEC-076 :** `CC (%) = 5 + PA effective / 80 + bonus CC` ; `DCC (%) = 150 + PA effective / 100 + bonus DCC`. Ces formules concernent aussi les attaques ordinaires à l’épée ; ni plafond artificiel ni surcritique. À CC ≥ 100 %, toute action éligible est critique. Ordre détaillé des contributions à la PA effective et arrondis encore ouverts : ne pas produire de fiche totale avec des affixes inconnus.
+
+## 3.3 ter Affinités élémentaires [VALIDÉ — DEC-073]
+
+Cycle **Eau > Feu > Terre > Eau** : avantage ×1,25 sur les dégâts finaux et la précision ; désavantage inverse ×0,75. **Lumière et Ténèbres sont neutres entre elles**, mais ont l’avantage sur les éléments du cycle : ×1,20, et inversement ×0,80 pour le cycle face à elles. Aucun double élément, effet de soin ou multiplicateur supplémentaire déduit ; appliquer les règles de précision sans inventer son assiette ou ses plafonds. Vague runique de Yoon est de Lumière selon la précision de session, pas neutre comme dans l’ancienne note.
 
 Le bonus d'ensemble s'active selon le nombre de runes de cet ensemble équipées. Préciser dans `systeme.md` l'ordre exact des opérations (bonus plat, pourcentage, arrondis) **avant** de publier des totaux calculés complexes ; sinon afficher les bonus séparément sans fabriquer un total.
 
@@ -119,7 +135,8 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 - Âge 16 à la Révélation ; 19 ans à l'expulsion et au niveau 10 ; 34 ans environ à la fin du livre I.
 - Classe **Arcaniste runique**, Légendaire ; deux cercles de mana avant la Révélation (premier à 7 ans, second à 10 ans).
 - Départ : aucun sort offensif, grandes statistiques de Mana et Puissance arcanique, faibles capacités physiques.
-- **Profil magique — DEC-015 :** classe de soutien mais Puissance arcanique comparable au profil d’un mage. Repères normaux au niveau 60 : Mana 1000 ; Puissance arcanique 600 pour un soutien, 2000 pour un mage. Hasol est hors norme en Mana et dépassera largement 1000 ; le niveau du franchissement et ses valeurs futures exactes restent à fixer. Ces normes ne sont pas des plafonds et ne constituent pas une formule de progression. Ne pas lui accorder de sort offensif pour autant.
+- **Profil magique — DEC-015 :** classe de soutien mais Puissance arcanique comparable au profil d’un mage. Repères normaux au niveau 60 : Mana 1000 ; Puissance arcanique 600 pour un soutien, 2000 pour un mage. Hasol est hors norme en Mana et dépassera largement 1000 ; le niveau du franchissement et ses valeurs intermédiaires restent à fixer. Ces normes ne sont pas des plafonds et ne constituent pas une formule de progression. Ne pas lui accorder de sort offensif pour autant.
+- **Référence naturelle au niveau 60 [VALIDÉ — DEC-054] :** PV 12 180, Attaque 350, Défense 250, Vitesse 130, Mana 3 500, Puissance arcanique 2 150, hors runes, ensembles et effets temporaires. Ne remplace pas les fiches actuelles ni la fin du livre I vers le niveau 45. Courbe, valeurs intermédiaires et date d'atteinte du niveau 60 **[À CONFIRMER]**.
 - Traits : travailleuse, sensible, tenace, apprend progressivement à coopérer et à utiliser ses limites comme ressort tactique ; ne devient pas arrogante après ses premiers succès.
 - Passifs : Bénédiction runique dès le niveau 1 ; Croissance runique au niveau 10 ; Œil runique au niveau 20.
 - **Progression future [VALIDÉ — DEC-031] :** premier sort offensif au niveau 40, conçu pour exploiter pleinement sa réserve de Mana exceptionnelle ; Hasol atteint environ le niveau 45 à la fin du livre I. Nom, effet, coût, conditions détaillées et valeurs de caractéristiques restent **[À CONFIRMER]**. L'usage combattif d'une aura sur une arme n'est pas ce premier sort offensif.
@@ -129,7 +146,7 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 ## Père de Hasol
 - Affectueux durant l'enfance, l'appelle « ma princesse », finance son éducation et offre les deux runes bleues.
 - Sa fierté se transforme en inquiétude et en distance pendant les trois années d'échec ; **il est vivant pendant le chapitre 1**.
-- Meurt **au chapitre 11, pendant un voyage commercial lointain, avant la large reconnaissance de la réputation artisanale d'Hasol** — DEC-029, DEC-033 et placement DEC-045. Il connaît ses débuts chez Orven, mais ne voit pas sa pleine reconnaissance publique. Le dernier échange difficile et l'absence de réconciliation satisfaisante préservent la douleur du non-dit ; date, intensité et contenu de cette conversation, destination, cause exacte du décès et modalités de l'annonce restent **[À CONFIRMER]**.
+- Meurt **au chapitre 11, pendant un voyage commercial lointain, avant la large reconnaissance artisanale d’Hasol**. Dernière grande dispute désormais fixée sur le Griffon d’Argent (DEC-080), dont il exige l’abandon sans expliquer son hostilité ; Hasol refuse sans justification. Pas de réconciliation. Origine du différend, date, destination, cause du décès et annonce **[À CONFIRMER]** ; aucun lien causal guilde/décès ou motif du voyage déduit.
 - Éviter la caricature du père cruel : l'amour persiste sous les maladresses.
 
 ## Mère de Hasol
@@ -148,10 +165,12 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 ## Yoon Notos
 - 16 ans au début de son arc ; classe **Sage runique**, Rare.
 - **Rôle [VALIDÉ — DEC-046] :** soutien polyvalent, pas soigneuse pure. Son soin sur la durée reste très inférieur à celui d'une soigneuse spécialisée ; son apport combine renforcement, placement des zones et contrôle du terrain.
-- Niveau 5 lors de la rencontre au chapitre 5. Les niveaux de fin des chapitres 5 à 8 restent **[À CONFIRMER]** : les deux chasses du chapitre 5 rendent obsolète l'ancienne trajectoire automatique 5→7→8. Le chapitre 9 montre sa progression et le déblocage du niveau 20 avant son niveau 24 au sauvetage du chapitre 10 (DEC-045).
+- Niveau 5 lors de la rencontre racontée au chapitre 5 ; niveaux de fin 5 à 8 **[À CONFIRMER]**, sans suite automatique 5→7→8. Au chapitre 9, elle annonce les niveaux 13, 20 avec Domaine, 22 puis 24 ; elle possède encore deux cercles équipables. Les huit du niveau 60 ne sont pas déjà acquis.
 - **Résonance runique [DEC-046 et DEC-050] : actif ciblé**, amplifiant temporairement **les caractéristiques principales des runes équipées** d'un allié choisi. Avant le niveau 40 de Yoon, les secondaires sont exclues ; **au niveau 40, l'évolution inclut aussi les deux premières secondaires de chaque rune**. Les troisième et quatrième secondaires et les bonus d'ensemble restent exclus. Ce n'est pas une aura passive ; amplification, durée, coût, portée, récupération et règle précise d'ordre des secondaires **[À CONFIRMER]**.
-- **Chant runique [DEC-046] : zone de soin posée**, prodiguant des soins progressifs modestes relativement à une soigneuse pure. Yoon peut agir après l'avoir posée ; ne plus lui imposer un chant continuellement maintenu par concentration. Cadence, valeur, assiette, rayon, durée, coût et cumul **[À CONFIRMER]** ; l'ancien exemple 10 % toutes les cinq secondes n'est pas adopté automatiquement.
-- Fréquente l'Académie en semaine, chasse avec Hasol le week-end.
+- **Chant runique [VALIDÉ — arbitrage auteur en session] : zone de soin posée autonome**, chaque impulsion soigne **10 % des PV maximums de Yoon toutes les cinq secondes**, pas des PV maximums de chaque bénéficiaire. Yoon peut agir après le placement, sans canalisation continue ; rayon, durée totale, coût et cumul **[À CONFIRMER]**. Soutien polyvalent, pas soigneuse pure.
+- **Vague runique [VALIDÉ — DEC-074] :** actif offensif de Lumière dès le niveau 1 ; 5 Mana, dégâts de 20 % de sa Puissance arcanique, portée 10 m, incantation 5 s, aucune recharge. Faible attaque de soutien, aucun effet supplémentaire ; Défense normale. Résonance et Chant sont également présents dès le niveau 1. Le texte transmis proposait auparavant une seconde et une attaque sans affinité : les précisions de session Lumière/5 s sont prioritaires.
+- **Arbitrage résolu :** les valeurs 10 %/5 s de la transmission sont explicitement validées par l’auteur ; elles ne sont plus une question ouverte de DEC-046. Sans fiche complète des PV de Yoon, le soin effectif ne peut toutefois pas être chiffré.
+- Fréquente l'Académie en semaine ; au début du livre I, chasse avec Hasol uniquement les week-ends et vacances (DEC-067).
 - **Prochain sort au niveau 20 [confirmé DEC-046] : Domaine des Entraves Runiques**, contrôle de foule par zone de ralentissement, alliés épargnés, Mana consommé pour le maintien ; adversaires puissants partiellement résistants. Aucun nouveau sort de contrôle au niveau 10 n'est ajouté. Paramètres chiffrés **[À CONFIRMER]**.
 - **Second soin au niveau 30 [VALIDÉ — DEC-049] :** Yoon pose une marque runique sur un allié pour un soin sur la durée, distinct du cercle de soin au sol. Nom du sort, puissance relative, durée, coût, portée, nombre de marques et cumul avec le soin de zone **[À CONFIRMER]**. Ne pas le transformer en soin instantané, en régénération permanente ou en soin de groupe automatique.
 - **Évolution au niveau 40 [VALIDÉ — DEC-050] :** Résonance conserve sa forme active ciblée et ajoute les deux premières secondaires de chaque rune aux caractéristiques amplifiées. Pas de transformation en passif, pas de création d'affixes manquants ni d'amplification des ensembles.
@@ -163,6 +182,15 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 - Relation avec Hasol : partenariat durable, confiance construite par l'action, complicité et différences de rythme ; éviter que Yoon soit une simple source de buff.
 
 ## Zio Notos
+
+- **Dernier Rempart [VALIDÉ — DEC-071, précision de DEC-058] :** Zio choisit les PV sacrifiés ; plus le pourcentage conservé est faible, plus l'explosion est puissante. Un sacrifice partiel peut être non mortel ; 0 % conservé entraîne sa mort et maximise le sort. Au chapitre 16, il choisit de tout sacrifier pour être certain de vaincre le démon ; tous deux meurent. Formule et paramètres **[À CONFIRMER]**, sans obligation d'être déjà mortellement blessé ni victoire automatique contre toute cible.
+
+- **Fiche future [VALIDÉ — DEC-053] :** niveau **61** à la fin du livre I ; autodestruction débloquée au niveau **50**. Caractéristiques naturelles au niveau **60**, hors runes et compétences : PV **11 850**, Attaque **648**, Défense **593**, Vitesse **115**, Mana **1 000**, Puissance arcanique **600** (profil de soutien). Fiche au niveau 61 et gains intermédiaires **[À CONFIRMER]**, sans extrapolation.
+- **Cercles [VALIDÉ — DEC-055] :** **huit cercles runiques au niveau 60**, soit huit emplacements ; acquisition, occupation et nombre au niveau 61 **[À CONFIRMER]**, sans progression générale déduite.
+- **Inspiration désignée — DEC-053 :** Paladin d'Eden Eternal pour les passifs et sorts ; glyphes comme référence pour adapter les valeurs des runes dans les cercles. Classe Gardien, Rare, conservée. Adaptation des compétences validée par DEC-058 ci-dessous ; inventaire **[À CONFIRMER]**, sans reprise automatique des chiffres du guide.
+- **Actifs [VALIDÉ — DEC-058] :** niveau 1, **Heurt du Gardien**, coup de bouclier renforcé par le Mana pour déséquilibrer et interrompre sans garantie ; 10, **Défi du Gardien**, provocation ciblée sans contrôle absolu ; 20, **Égide protectrice**, absorption limitée sur un allié sans soin ni transfert automatique des blessures ; 30, **Bénédiction de vigueur**, soin personnel progressif limité ; 40, **Rempart de lumière**, protection directionnelle devant le bouclier avec position et effet maintenus ; 50, **Dernier Rempart**, autodestruction au prix de sa vie.
+- **Passifs [VALIDÉ — DEC-058] :** niveau 1, **Maîtrise du bouclier**, améliore les blocages corrects sans couvrir tous les angles ; 20, **Ancrage du Gardien**, résistance accrue aux déséquilibres et déplacements forcés en position défensive, sans immunité ; 60, **Volonté inébranlable**, meilleur maintien des protections malgré douleur et fatigue, sans supprimer dégâts, coûts ou incapacités et sans maintien après la mort.
+- **Limites des compétences [VALIDÉ — DEC-058] :** protecteur avec soin personnel secondaire, pas remplaçant de Yoon. Effets détaillés dans `lore/systeme.md`. Coûts, durées, récupérations, puissances, portées et modalités précises **[À CONFIRMER]**. Au niveau 45 du chapitre 5, seules les capacités jusqu'au niveau 40 sont disponibles ; aucun pouvoir supérieur déduit pour la scène d'Académie.
 - Frère aîné de Yoon ; classe **Gardien**, Rare ; niveau **45** prévu au chapitre 5 après décalage DEC-023, pas attribué à son intervention passée à l'Académie.
 - **Présence et popularité [VALIDÉ — DEC-043] :** Zio est très beau et fort, ce qui le rend très populaire. Détails physiques et portée exacte de sa notoriété **[À CONFIRMER]** ; cette popularité n'impose ni arrogance ni comportement séducteur et ne garantit pas la victoire.
 - A défendu Hasol d'intimidateurs à l'Académie.
@@ -172,8 +200,12 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 - **Adhésion future [VALIDÉ — DEC-035, DEC-036 et DEC-045] :** au chapitre 11, après Ray, Zio rejoint officiellement Hasol, Yoon et Ray ; leur équipe compte alors quatre membres et 45/50 points. Le temps partagé en mission et au quotidien construit le rapprochement avec Hasol. Date et circonstances précises restent **[À CONFIRMER]** ; il reste superviseur extérieur au début. Ni ce groupe ni le mariage ne sont automatiquement reproduits dans la seconde chronologie.
 
 ## Ray Corvus
+
+- **Endurance magique [VALIDÉ — DEC-070] :** épuise rapidement son Mana en combat ; gérer les dépenses et les moments où il économise ses sorts. Combustion maîtrisée améliore son efficacité sans supprimer cette faiblesse. Coûts et récupération **[À CONFIRMER]**.
+- **Spécialité et compétences [VALIDÉ — DEC-069] :** mage de feu commun. Actifs : Boule de feu (1), Souffle ardent (10), Trait incandescent (20), Mur de flammes (30), Déflagration (40), Fournaise (50). Passifs : Affinité du feu (1), Résistance à la chaleur (20), Combustion maîtrisée (40). Effets et limites dans `lore/systeme.md`. Ses flammes peuvent menacer ses alliés ; aucune immunité ni exclusion automatique. Au sauvetage niveau 22, seules les compétences jusqu'au niveau 20 sont disponibles ; les neuf sont disponibles au niveau 56 final. Paramètres chiffrés et scènes d'obtention **[À CONFIRMER]**.
+- **Fin du livre I [VALIDÉ — DEC-068] :** niveau **56** au chapitre 16. Statistiques et cercles à ce niveau **[À CONFIRMER]**, sans transfert automatique de la fiche de référence au niveau 60.
 - Étudiant de l'Académie impériale, classe **mage**, **Commune — correction prioritaire DEC-036**, soit cinq points d'équipe. **[VALIDÉ — DEC-021]** Apparaît dès le chapitre 1, section VII ; son niveau à cette date reste **[À CONFIRMER]**. Le niveau **22** est prévu lors du futur sauvetage, pas attribué rétroactivement à l'Académie.
-- **[VALIDÉ — DEC-021]** Ami d'enfance de Hasol, leurs familles étant liées commercialement ; ils jouaient dans les jardins Shun et projetaient des aventures communes. Il devient complice des humiliations : rit, minimise leur amitié et ne défend pas Hasol lorsque son carnet est arraché. Zio le confronte ; Ray part sans présenter d'excuses. Sa spécialité magique reste **[À CONFIRMER]**.
+- **[VALIDÉ — DEC-021]** Ami d'enfance de Hasol, leurs familles étant liées commercialement ; ils jouaient dans les jardins Shun et projetaient des aventures communes. Il devient complice des humiliations : rit, minimise leur amitié et ne défend pas Hasol lorsque son carnet est arraché. Zio le confronte ; Ray part sans présenter d'excuses. Sa spécialité de feu est désormais validée par DEC-069.
 - **Savoir et amitié [VALIDÉ — DEC-044] :** véritable rat de bibliothèque, Ray possède de très nombreuses connaissances, davantage qu'Hasol. Leur proximité d'enfance vient notamment de cette curiosité et de ce savoir partagés ; ils passaient beaucoup de temps ensemble. Domaines précis, lectures, scènes d'enfance et limites de ce savoir **[À CONFIRMER]**. Ne pas le rendre omniscient, annuler les acquis théoriques d'Hasol ou utiliser son érudition comme excuse de son comportement à l'Académie.
 - Au chapitre 10 (DEC-045), Hasol et Yoon le sauvent d'un loup alpha élite de niveau 25 à 27. **[VALIDÉ — DEC-035]** Sa famille, informée du sauvetage, lui impose d'aider Hasol. Les débuts sont difficiles ; elle l'accepte parce qu'un duo limite leurs possibilités et que les donjons exigent au moins trois membres. Coopération utilitaire d'abord, confiance et éventuelles réparations sincères construites ensuite, sans conversion instantanée.
 - Son intégration porte l'équipe à trois membres et 35/50 points (DEC-036).
@@ -186,7 +218,7 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 - **Motif du recrutement [VALIDÉ — DEC-039 et DEC-045] :** au chapitre 12, après l'adhésion de Zio, les quatre affrontent en donjon un boss niveau 32 qui invoque en masse des monstres niveau 11 tant qu'un piège n'est pas désactivé. Ils fuient ; Zio, le plus expérimenté, propose de recruter une Ranger avant de revenir. Samia est déjà une amie de Yoon (DEC-041) et rejoint le groupe dans ce chapitre ; modalités de présentation, conditions détaillées d'adhésion et résultat de la seconde expédition restent **[À CONFIRMER]**. Le niveau 32 est celui du boss, pas celui d'Hasol.
 - Au chapitre 13, dans la progression vers la fin du livre I, Hasol apprend auprès de Samia l'ouverture des coffres et la détection des pièges. Cet apprentissage long conduit à une amélioration d'Œil runique et à l'obtention de Main runique, sans niveau exact ni recette de déblocage définis ; pas de capacités gratuites dès le recrutement.
 - Œil runique garde son nom et sa lecture des caractéristiques finales des runes ; il gagne la détection des pièges. Main runique est un sort actif d'ouverture des coffres. Coûts, portée, limites, délai de récupération et types de pièges ou serrures couverts restent **[À CONFIRMER]**.
-- Livre II : Hasol doit pouvoir assurer ces fonctions sans recrutement indispensable d'une Ranger. Elle retrouve le passif selon la règle des anciens passifs et **réapprend rapidement Main runique**, pas automatiquement au niveau 1. Cela ne décide ni du sort de Samia ni de sa place éventuelle dans la seconde vie.
+- **Nouvelles vies — DEC-078 :** Œil runique amélioré et Main runique active sont disponibles dès le niveau 1 astral, cette dernière ouvrant coffres et portes sans restriction. Cette décision remplace le réapprentissage de DEC-037. Samia ne rejoint pas l’équipe astrale de quatre membres à 50/50, mais reste dans l’histoire ; son rôle précis est à construire. Son recrutement et sa transmission au livre I restent inchangés.
 
 # 5. Progression vérifiée de Hasol
 
@@ -212,12 +244,12 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 - Après plus de 8 000 slimes de niveau 1 éliminés sur trois ans : **8 tranches**, soit passage de **2 à 10 cercles / emplacements**, avec seulement 2 runes équipées à l'instant du déblocage.
 - Monstres admissibles : niveaux de Hasol 10–19 → monstres de niveau 1+ ; 20–29 → niveau 10+ ; 30–39 → niveau 20+, et ainsi de suite.
 - Entre niveau 10 et niveau 19, Hasol tue **au moins 2 000 monstres admissibles supplémentaires en solo**, permettant 10→11→12 cercles/emplacements. Éviter de compter deux fois les 8 000 premiers.
-- **Rythme ultérieur [VALIDÉ — DEC-032] :** Hasol abandonne rapidement le farm intensif de petits monstres pour suivre son groupe en donjon. Son XP provient surtout des boss, tandis que les seuils de 1 000 monstres sont franchis peu souvent. Ne pas convertir un gros gain d'XP en nombreuses éliminations ou en cercle supplémentaire. Le moment précis de cette transition et le nombre final de cercles restent **[À CONFIRMER]** ; aucun gain rétroactif n'est ajouté.
+- **Rythme ultérieur [VALIDÉ — DEC-032] :** Hasol délaisse le farm intensif au profit du groupe et des donjons ; beaucoup d’XP de boss mais peu de seuils de mille monstres. Moment précis de la transition et répartition des gains **[À CONFIRMER]** ; total final du I fixé à seize cercles par DEC-056, sans gain rétroactif ou conversion d’XP en éliminations.
 - **Évolution future [VALIDÉ — DEC-038 et DEC-045] :** au chapitre 14, vers le niveau 38, après avoir personnellement achevé cent boss de donjon, Croissance runique gagne un effet supplémentaire : un cercle par tranche de cent boss personnellement achevés, quel que soit leur niveau. Les cent premiers donnent immédiatement le premier cercle lors de l'évolution ; les suivants arrivent à 200, 300, etc. L'ancien effet de mille monstres demeure. Un boss peut avancer les deux compteurs s'il satisfait aussi l'admissibilité de l'ancien, sans compter plusieurs éliminations dans ce dernier. « Vers le niveau 38 » est un repère de trajectoire, pas un niveau minimum supplémentaire imposé. Total de cercles et calendrier exact **[À CONFIRMER]**.
 
 # 6. PLAN NARRATIF DU LIVRE I — CHAPITRES 1 À 16 [VALIDÉ — DEC-045]
 
-> L'auteur valide le plan des chapitres par « je valides le plan des chapitres » : titres, ordre et jalons des seize chapitres du livre I sont **CANON** (DEC-045). Les chapitres 1 à 4 sont présents dans le manuscrit, avec leurs statuts littéraires distincts ci-dessous, intégralement préservés. L'insertion de « La voie de l'artisan » maintient les anciennes trames 4 à 7 aux places 5 à 8 (DEC-023). La validation ferme notamment le placement de Hasol 10→11 et d'Aura runique à la fin du chapitre 5 ; elle ne valide pas les paramètres encore ouverts ni les réponses de ChatGPT par défaut. Aucun chapitre nouveau n'est autorisé à la rédaction par cette seule validation. Les livres II et III ne reçoivent aucun découpage validé, à douze ou à seize chapitres.
+> Titres, ordre et jalons du livre I sont **CANON** (DEC-045). Les versions locales 1 à 4 restent préservées. **DEC-072 :** versions retenues et validées des chapitres 5 à 9 dans `new.txt` : 5 V2, lignes 10967–15157 ; 6, 15170–18270 ; 7, 18305–21697 ; 8, 22013–25089 ; dernière version 9, 29195–33081. Ces bornes sont des repères de provenance de cet import, pas des numéros immuables. Ne pas réimporter les variantes antérieures ni rédiger le 10. Le livre II a désormais seize chapitres ; son découpage scène par scène reste à établir.
 
 ## Chapitre 1 — « La légendaire inutile » [TEXTE VALIDÉ — DEC-018 ET DEC-022]
 
@@ -311,33 +343,33 @@ Texte initial transmis dans `new.txt` et intégré par DEC-023, puis refondu sur
 
 **Direction de la révision — DEC-027 :** le premier salaire appartient au chapitre 3 ; ici, la progression repose sur la commande réellement rendue, le suivi d'une journée et les premières initiatives. Section VIII « Le travail du lendemain » : rémunération sans nouveau discours sur la valeur humaine, supervision maintenue. La mère écoute son expérience, le père ne la réconcilie pas avec lui, mais sa réaction ne décide plus seule de la satisfaction d'Hasol. Fin dominée par la fierté et l'autonomie : poste préparé, information manquante signalée, question apportée et comparaison commencée sous contrôle. Tous les événements et les dix sections sont conservés.
 
-## Chapitre 5 — « Le premier lien » [PLAN VALIDÉ — DEC-045]
+## Chapitre 5 — « Le premier lien » [TEXTE VALIDÉ — DEC-072]
 
-**Portée de la validation :** les deux chasses, la visite chez le forgeron et la fin Hasol 10→11 avec Aura runique sont désormais placées dans ce chapitre. L'ancienne fin au niveau 10 est abandonnée. Aucun texte du chapitre 5 n'est ajouté par cette décision. DEC-046 tranche les formes de Yoon : Résonance active ciblée, soin progressif en zone runique posée. Leurs paramètres restent **[À CONFIRMER]**, sans adoption automatique des chiffres ou des autres réponses de ChatGPT.
+**État raconté :** version V2 retenue ; rencontre de Yoon, deux chasses, morsure, secours de Zio, soins maternels, forgeron, secret des dix cercles et constitution du duo. Hasol 10→11 et Aura runique à la fin ; pas de nouveau cercle. Chant autonome à 10 % des PV maximums de Yoon toutes les cinq secondes validé en session ; coût/rayon/durée/cumul encore ouverts.
 
 **Objectif :** introduire une coopération authentique et un danger qui force Hasol à admettre ses limites.
 
 **Rencontres :** retrouver **Zio Notos**, classe rare Gardien, niveau 45, qui l'avait défendue à l'Académie. Introduire sa sœur **Yoon Notos**, 16 ans, **Sage runique rare**, niveau **5**.
 
-**Découverte du pouvoir de Yoon :** présenter ses talents de soutien et les demandes de recrutement qu'elle reçoit. **Résonance runique**, active ciblée, amplifie temporairement les **caractéristiques principales des runes équipées sur la cible**, et rien d'autre. Son soin sur la durée, inférieur à une spécialisation de soins, est une zone posée en cercle d'écritures runiques. Montrer le besoin de placement et de protection sans l'immobiliser dans un chant continu ; paramètres chiffrés à définir. Les deux capacités sont utilisables lors de la rencontre niveau 5, mais leur niveau initial exact d'obtention reste à arbitrer.
+**Découverte racontée des pouvoirs de Yoon :** soutien très demandé, trois compétences dès le niveau 1. **Résonance**, active ciblée, amplifie les principales des runes de l’allié choisi, sans secondaires ou ensembles à cette étape ; **Chant**, cercle autonome soignant 10 % des PV maximums de Yoon toutes les 5 s ; **Vague**, faible attaque de Lumière dont les paramètres sont rappelés dans sa fiche. Placement et protection restent nécessaires ; coûts et paramètres non documentés de Résonance/Chant **[À CONFIRMER]**.
 
 **Chasse :** premiers combats en binôme, apprentissage du rythme et de la communication. Hasol protège Yoon et se fait **mordre au bras** ; la scène doit faire mal et rappeler le danger réel. Zio intervient et évite un pire résultat.
 
 **Leçon de Zio :** « anticiper » au lieu de seulement « réagir » ; développer son conseil en dialogue et en observation tactique. Il ne résout pas les problèmes de Hasol à sa place.
 
-**Arme de Terre et forgeron — [VALIDÉ, DEC-028 et DEC-045] :** l'arme de Zio conduit à une visite chez le forgeron ; il finance l'enchantement de Terre de l'arme d'Hasol. Le porteur doit être au minimum niveau 10 pour utiliser une arme imprégnée d'une aura. Hasol vient seulement d'atteindre ce seuil ; elle ne pouvait pas y recourir pendant ses années d'Académie, sans que cela signifie qu'elle ignorait cette technique. Ne pas inventer d'explication physiologique ni de conséquence d'un essai sous le seuil. Cette restriction ne concerne pas l'équipement des runes, toujours sans niveau minimum. Durée et paramètres non arbitrés de l'enchantement restent **[À CONFIRMER]**, pas automatiquement un mois.
+**Arme de Terre et forgeron — raconté :** Zio finance l’enchantement de Terre de l’épée d’Hasol, pour un mois ; prix élevé sans montant. Le forgeron rappelle le niveau 10 minimum du porteur (DEC-028) et la nécessité de refaire et repayer l’opération pour changer d’élément. Ne pas ajouter de conséquence sous le seuil. Ce seuil est distinct de l’équipement des runes, sans niveau minimum.
 
 **Secret :** Yoon et Zio découvrent les **dix cercles/emplacements** de Hasol et promettent de ne pas en parler. L'information reste limitée.
 
 **Équipe :** Hasol et Yoon deviennent partenaires durables, **2/5 membres, 30/50 points**. Yoon étudie à l'Académie en semaine, chasse avec Hasol le week-end.
 
-**Seconde chasse :** laisser à Hasol le temps de récupérer après la morsure avant la reprise ; ne pas imposer le lendemain. Le binôme apprend à anticiper ensemble, sans effacer la blessure par commodité.
+**Seconde chasse racontée :** dimanche après contrôle et nouveaux soins maternels ; peau refermée mais tissus sensibles, bandage et engagement de rentrer si la douleur augmente. Zio n’accompagne pas cette reprise. La récupération n’est pas une invulnérabilité.
 
-**Fin [VALIDÉ — DEC-045] :** Hasol passe **10→11** et débloque **Aura runique** ; le niveau final de Yoon reste **[À CONFIRMER]**. Première confiance réciproque, mais limites et inquiétude persistantes. Les paramètres transmis dans `new.txt` — coût de 200 Mana, rune sacrifiée, durée de 24 heures, effet détaillé — ne sont pas adoptés par raccourci : ils restent à arbitrer. Ne pas tester immédiatement le pouvoir avec une rune équipée ni inventer d'autres chiffres.
+**Fin racontée [DEC-072/075] :** Hasol passe **10→11** et débloque **Aura runique**, après exploitation réussie des faiblesses élémentaires ; niveau final de Yoon **[À CONFIRMER]**. Arme personnelle ou alliée, élément choisi, 200 Mana et destruction définitive d’une rune quelconque par activation, durée 24 h. Aucun essai immédiat dans le bois, aucun sacrifice de ses dix runes équipées. Yoon voit la fenêtre ; l’approvisionnement reste à discuter avec Orven.
 
-## Chapitre 6 — « Deux chemins, un même objectif » [PLAN VALIDÉ — DEC-045]
+## Chapitre 6 — « Deux chemins, un même objectif » [TEXTE VALIDÉ — DEC-072]
 
-**Provenance et raccord :** trame issue de l'ancien chapitre 5 d'`old.txt`, conservée dans ses journées de travail, d'étude et de coopération. Hasol a déjà atteint le niveau 11 au chapitre 5 : ne pas répéter 10→11, ni inventer un passage au niveau 12 pour compenser. Infiltration runique n'est pas validée par une réponse de ChatGPT.
+**Raccord et faits racontés :** Hasol reste niveau 11, dix cercles et équipement inchangé. Orven autorise le tri puis la cession rémunérée à valeur de récupération de runes destinées au recyclage ; aucun prélèvement sur les biens clients. Travail, cours de Yoon, entraînements et repos alternent. Infiltration runique est découverte lors des essais, sans nouveau passage 10→11.
 
 **Concept :** alternance entre les deux vies : Hasol travaille chez Orven en semaine et s'entraîne à l'épée le soir ; Yoon étudie à l'Académie, s'entraîne et chasse dans son cadre scolaire.
 
@@ -345,35 +377,39 @@ Texte initial transmis dans `new.txt` et intégré par DEC-023, puis refondu sur
 
 **Progression de Hasol :** amélioration de la précision, de la discipline, des réflexes et de la lecture des adversaires ; les revenus d'Orven servent à l'achat de ressources, pas à une montée instantanée de puissance.
 
-**Aura runique :** expérimentation pendant l'entraînement, avec découverte critique d'une évolution du pouvoir ; mécanisme et paramètres encore ouverts à définir avant rédaction. Cette exploration ne remplace ni les journées parallèles des deux partenaires ni la coopération en chasse par un simple tutoriel d'Aura.
+**Aura et Infiltration — raconté, DEC-075 :** chaque essai coûte 200 Mana et une rune détruite ; récupération nécessaire. Une activation critique d’Aura déclenche Infiltration pendant ses trente premières secondes : plancher de dégâts par attaque avec l’arme égal à la PA effective actuelle d’Hasol, que la Défense ne peut abaisser. La Défense n’est pas réduite et les dégâts supérieurs restent possibles. L’aura normale dure 24 h. Un critique d’épée ne déclenche jamais Infiltration. Orven assiste à la découverte ; Yoon en est informée ensuite.
 
 **Retrouvailles du week-end :** commencer par des **loups de niveau 5**, puis confronter le duo à des loups de **niveau 7, 8 et 9**. L'espace se resserre ; les personnages exploitent un **passage étroit** pour limiter les attaques simultanées.
 
 **Tactique :** Yoon choisit quand cibler Hasol avec Résonance runique, active (DEC-046), et où poser sa zone de soin ; Hasol utilise placement, garde et épée pour abattre **trois loups** dans le passage. Éviter que le renforcement ou le soin règlent tout : coordination, limites de placement et fatigue restent perceptibles, sans paramètre numérique inventé.
 
-**Résultat :** Hasol reste au niveau **11** en l'absence de nouvelle décision ; gains exacts et niveau final de Yoon **[À CONFIRMER]**. **Pas de blessure majeure**, dix cercles toujours. Aura runique est déjà débloquée, son expérimentation progresse ; aucun autre déblocage gratuit. Le duo gagne en assurance sans devenir invincible.
+**Résultat raconté :** Hasol reste **11**, dix cercles et même équipement ; gains exacts et niveau final de Yoon **[À CONFIRMER]**. **Pas de blessure majeure**. Infiltration est l’effet conditionnel d’Aura découvert aux essais, pas un sort offensif direct ou un nouveau niveau gratuit.
 
 **Vérification :** suivre réellement les activités et l'XP de Yoon sans figer l'ancienne suite 5→7→8 ; ne pas attribuer à Résonance un effet sur secondaires/ensembles. Préserver le combat des loups de niveaux 7, 8 et 9 dans le passage étroit.
 
-## Chapitre 7 — « Le talent d'une légende » [PLAN VALIDÉ — DEC-045 ; DÉCALAGE DEC-023]
+## Chapitre 7 — « Le talent d'une légende » [TEXTE VALIDÉ — DEC-072]
 
 **Motivation :** Hasol veut éviter de souffrir à chaque chasse et surtout ne plus mettre Yoon en danger. Elle comprend qu'elle doit améliorer significativement ses runes avant le samedi suivant.
 
-**Provenance :** ancien chapitre 6 d'`old.txt`, à adapter aux décisions actuelles sans réimporter ses anciennes statistiques ni ses Lame.
+**Provenance :** version mobile retenue du chapitre 7 ; l’ancienne trame du chapitre 6 d’`old.txt` n’est qu’un historique, sans réimport de ses statistiques ou Lame.
 
 **Observation d'Orven :** après une série suffisamment large d'améliorations, Orven compare ses résultats à ceux de Hasol. Il constate **30 % d'échecs en moins, relativement à son propre taux**. Il la qualifie de **prodige** ; la surprise est authentique et justifiée par son expérience de plus de 25 ans.
+
+**Seconde propriété découverte :** les renforcements variables atteignent très fréquemment le maximum autorisé, sans résultat garanti, fréquence précise ni affixe choisi. Cette propriété préexistait ; ne pas retoucher les gains antérieurs. Les formules critiques et l’ensemble Arcanique sont établis dans cette version (DEC-076).
 
 **Recommandation :** Orven la recommande à une grande guilde, **Griffon d'Argent**, qui a besoin de quelqu'un pour monter des runes jusqu'à **【 +6 】**. Enjeux : réputation d'Orven, regard sceptique des professionnels, prix des ressources, exigences de qualité.
 
 **Semaine de travail :** scènes concrètes d'améliorations pour la guilde, succès et échecs, fatigue, gains financiers, achats de pierres de mana et amélioration des propres runes de Hasol. Garder un équilibre entre artisanat et entraînement.
 
-**Équipement final du chapitre :** **10 runes équipées : 6 au niveau 【 +6 】 et 4 au niveau 【 +3 】**. Composition à conserver depuis l’inventaire actualisé du chapitre 2 selon DEC-013, sans réintroduire les deux Lame de l’ancienne version. Les deux cadeaux rares (bleus), 6★, déjà +6 comptent dans les six +6 : ne pas raconter leur première amélioration à ce niveau. Les huit autres runes sont les acquisitions maternelles 3★, sous réserve d’un remplacement explicitement autorisé et raconté. Les niveaux exacts par identifiant doivent être consignés dans `runes.md`.
+**Équipement final raconté :** **4 Fatal, 2 Gardien, 2 Énergie, 2 Arcanique ; 10/10, six +6 et quatre +3**. Les deux cadeaux paternels rares (bleus), 6★, +6 sont inchangés et compris dans les six +6. Deux Gardien maternelles sont retirées et conservées, remplacées par deux Arcanique à principale PA ; grades, étoiles, affixes chiffrés et répartition individuelle des améliorations non affichés restent à définir. Arcanique 2/4 : bonus inactif. Ne pas choisir arbitrairement lesquelles des trois Gardien maternelles sont stockées ; voir `lore/runes.md`.
+
+**Famille — raconté, DEC-080 :** le père reconnaît le nom du Griffon d’Argent et se ferme lorsque Hasol annonce sa collaboration ; première réserve, pas grande dispute ni révélation de son passé. La mère accepte que les cadeaux soient conservés plutôt qu’équipés à vie.
 
 **Niveaux personnages :** Hasol **11**, sauf nouvelle décision préalable ; niveau de Yoon **[À CONFIRMER]**. Pas de nouvelle compétence. La récompense est une montée en puissance runique, pas une montée de niveau arbitraire. La guilde constitue un débouché professionnel, pas une notoriété déjà équivalente à celle de ses vingt-cinq ans.
 
 **Fin :** anticipation du samedi et du prochain défi commun.
 
-## Chapitre 8 — « La puissance des dix runes » [PLAN VALIDÉ — DEC-045 ; DÉCALAGE DEC-023]
+## Chapitre 8 — « La puissance des dix runes » [TEXTE VALIDÉ — DEC-072]
 
 **Ouverture :** samedi au **Bois des Crocs Gris** ; Hasol et Yoon comparent leurs progrès depuis la première chasse. Les six runes +6 et les quatre +3 doivent produire une différence **visible** dans les gestes et les combats.
 
@@ -389,13 +425,17 @@ Texte initial transmis dans `new.txt` et intégré par DEC-023, puis refondu sur
 
 **Fin :** première grande victoire du duo, méritée, fatigue et confiance renouvelée ; premiers projets ambitieux et transition vers une progression sur plusieurs périodes. **Ray n'apparaît pas encore dans un sauvetage.**
 
-## Chapitre 9 — « Douze cercles » [PLAN VALIDÉ — DEC-045]
+**Bilan raconté :** alpha niveau 12 vaincu à deux, Hasol part du niveau 11 ; aucune fiche naturelle finale chiffrée récupérable. Dix runes conservées dans la configuration du chapitre 7. Résonance augmente les principales, notamment la PA des Arcanique, et donc les critiques selon les formules, mais ni secondaires ni ensembles. Les critiques ordinaires d’épée ne sont pas Infiltration. Le compromis offensif/défensif après retrait des deux Gardien est sensible ; le duo choisit le terrain et ses lignes de tir plutôt qu’une victoire automatique.
+
+## Chapitre 9 — « Douze cercles » [DERNIER TEXTE VALIDÉ — DEC-072]
 
 **Durée et travail :** plusieurs périodes d'entraînement, de travail à l'atelier et de farm initial, pas une progression instantanée. Conserver le coût des ressources, la fatigue, la prudence, les changements de terrain et les inquiétudes de la mère et d'Orven. Hasol discipline ses suivis : XP, éliminations personnelles admissibles, pierres et runes sont distincts.
 
-**Deux nouveaux cercles :** au moins **2 000 éliminations personnelles admissibles supplémentaires**, notamment en solo, permettent les deux nouveaux paliers **10→11→12 cercles/emplacements**. Préserver le reliquat historique inconnu sans le remettre arbitrairement à zéro ni recompter les huit paliers déjà récompensés. Les deux nouveaux emplacements reçoivent des runes **peu communes (vertes), rangs À DÉFINIR**, suivies par identifiants.
+**Deux nouveaux cercles racontés :** farm de loups niveau 5, deux paliers **10→11→12** ; Hasol niveau 12 quand Yoon annonce 13, puis niveau 19 au douzième cercle. **Raccord validé :** les fenêtres suivent 999/1 000 puis 1 998/2 000 éliminations après les huit paliers déjà récompensés, **reliquat historique inclus** ; ce ne sont pas les seules éliminations depuis le niveau 10. Valeur isolée du reliquat **À DÉFINIR**, sans effacement ni double récompense des anciens milliers. Les nouveaux emplacements accueillent les deux anciennes Gardien maternelles, pas deux nouvelles pièces vertes inventées.
 
-**Équipement avant Ray :** douze runes progressivement à **【 +6 】**, composition canonique **4 Fatal + 4 Vitesse + 2 Énergie + 2 Gardien**, soit les quatre ensembles actifs. Depuis les quatre Fatal, quatre Gardien et deux Énergie de DEC-020, acquérir quatre Vitesse, passer de quatre à deux Gardien et utiliser les deux nouveaux emplacements. Raretés et rangs des pièces non encore identifiées, remplacements, principales, secondaires et calendrier restent **[À CONFIRMER]** ; ne pas réintroduire des Lame ni prétendre remplacer des Lame inexistantes.
+**Équipement raconté avant Ray :** amélioration des deux Énergie maternelles 3★ jusqu’à +9 (grade actuel épique/violet, troisième secondaire à consigner sans l’inventer), ainsi que de certaines Fatal maternelles non identifiées. Au onzième cercle : achat de deux Arcanique, grade **À DÉFINIR**, 2★, déjà +6, principale PA ; elles remplacent directement les deux Énergie +9 données à Yoon. Rééquipement d’une Gardien maternelle stockée : **4 Fatal + 4 Arcanique + 3 Gardien, 11/11**. Au douzième cercle : dernière Gardien rééquipée, **4 Fatal + 4 Arcanique + 4 Gardien, 12/12**. Fatal +35 % Attaque, Arcanique +1 200 PA, deux Gardien +30 % Défense. Vitesse reste une ambition coûteuse, non équipée. Le total n’est plus « douze runes +6 ».
+
+**Yoon et Samia — raconté :** deux cercles équipables, deux Énergie épiques (violettes), 3★, +9 reçues d’Hasol ; ses deux anciennes runes, grades/étoiles/affixes **À DÉFINIR**, +6, sont stockées pour ses futurs cercles. Hasol refuse de les prendre : « Tu les porteras quand tu auras quatre cercles. » Samia apparaît dans les exercices d’Académie avec Yoon, mais ne rejoint pas encore l’équipe d’Hasol.
 
 **Deux trajectoires :** montrer Yoon à l'Académie, ses choix, sa personnalité et sa vie hors d'Hasol, ainsi que leurs différences de rythme sans jalousie simpliste. Son passage au **niveau 20** et **Domaine des Entraves Runiques** doivent être montrés ou explicitement racontés avant son niveau 24 : ralentissement des ennemis dans le cercle lumineux, alliés épargnés, Mana consommé pour le maintien et résistance partielle des adversaires puissants.
 
@@ -403,25 +443,44 @@ Texte initial transmis dans `new.txt` et intégré par DEC-023, puis refondu sur
 
 ## Chapitre 10 — « Ceux qui riaient autrefois » [PLAN VALIDÉ — DEC-045]
 
-**Retrouvailles et danger :** Ray Corvus, **mage commun niveau 22**, et d'autres anciens de l'Académie reconnaissent Hasol et la sous-estiment. Un **loup alpha élite niveau 25 à 27** met leur groupe en danger. Hasol et Yoon choisissent de les sauver malgré le passé ; Yoon utilise Domaine des Entraves Runiques et Résonance, Hasol ses douze runes +6. Le danger, les blessures et les conséquences ne sont pas effacés par une démonstration triomphale ; pertes éventuelles **[À CONFIRMER]**.
+**Retrouvailles et danger :** Ray Corvus, **mage commun niveau 22**, et d’autres anciens de l’Académie reconnaissent Hasol et la sous-estiment. Un **loup alpha élite niveau 25 à 27** met leur groupe en danger. Hasol et Yoon les sauvent malgré le passé ; Domaine et Résonance de Yoon, douze runes dans l’état réel de fin du chapitre 9 pour Hasol, sans les ramener toutes à +6. Blessures, pertes éventuelles et ressources **[À CONFIRMER]**. Aucun texte de ce chapitre n’est ajouté par la mise à jour documentaire.
 
-**Révélation :** Hasol porte le **coup fatal**, passe **19→20** et débloque **Œil runique pour la première fois**. Ni elle, ni Yoon, ni Orven ne prédisent ce pouvoir. Surprise et expérimentation prudente : lecture des caractéristiques finales prédéterminées à +15, sans réussite garantie des améliorations.
+**Révélation :** Hasol porte le **coup fatal**, passe **19→20** et débloque **Œil runique pour la première fois**. Ni elle, ni Yoon, ni Orven ne prédisent ce pouvoir. Lecture des types de secondaires prédéterminés et des maxima accessibles à Hasol si elle améliore la rune jusqu’à +15, sans garantie de valeurs atteintes ou de réussite des tentatives. Autre artisan : mêmes types, valeurs pouvant être inférieures. Aucun texte du chapitre 10 rédigé par cette précision.
 
-**Butin conservé de l'ancien plan :** **rune Vitesse rare (bleue), 3★, +0**, principale **Vitesse**, secondaires **chance critique et dégâts critiques** ; valeurs exactes **[À CONFIRMER]**. Son rang vient du niveau du monstre ; ne pas la monter immédiatement à +15 par facilité.
+**Butin conservé de l’ancien plan :** **rune Vitesse rare (bleue), 3★, +0**, principale **Vitesse**, secondaires **chance critique et dégâts critiques**, valeurs **[À CONFIRMER]**. Ce butin précis atteint le plafond 3★ de son monstre ; cela ne garantit pas ce rang à tous les monstres de la tranche. Pas de +15 immédiat par facilité.
 
 **Dette puis coopération :** après avoir appris le sauvetage, la famille de Ray lui impose d'aider Hasol. Hasol et Yoon débattent des possibilités et des risques ; Hasol accepte pour accéder aux donjons, **minimum trois membres**. Trio **3/5, 35/50 points** : Hasol 20 + Yoon 10 + Ray 5. Forme précise de la pression familiale, réactions de l'Académie ou des guildes, témoignages et risque de révélation des cercles restent à construire ; la famille n'apprend pas automatiquement les secrets d'Hasol.
 
-**Réparation en plusieurs scènes :** distinguer trois étapes, sans pardon instantané : aide d'abord contrainte, coopération éprouvée en mission, puis engagement personnel choisi au fil des chapitres suivants. Des excuses éventuelles ne rétablissent pas immédiatement la confiance. Spécialité magique de Ray et limites **[À CONFIRMER]**.
+**Précision DEC-077 :** la famille impose à Ray une période de test parce qu’elle connaît les difficultés de recrutement d’Hasol ; celle-ci reste libre de l’acceptation définitive. Ray lui remet aussi un **Anneau runique**, inventaire spécialisé pour les runes, sans capacité ni bonus chiffré ajouté ; l’inventaire ordinaire mêle les objets sans tri des runes. Scène humoristique obligatoire : Hasol ironise sur une demande en mariage, Ray prend la plaisanterie au sérieux et se justifie. Aucun début de romance ni pardon instantané n’en découle.
+
+**Jalon ultérieur, niveau 21 — DEC-077 :** après équipement de l’anneau et combat en le portant, **Aimant runique** ; chapitre précis **[À CONFIRMER]**, pas au niveau 20 ni nécessairement dans le 10. L’interface dit seulement que les chances d’obtention de runes sont améliorées. Effets cachés : fréquence, étoiles et grades favorisés, jusque légendaires. **Arbitrage auteur :** les tranches de DEC-007 fixent un **plafond d’étoiles**, pas un rang garanti. Exemple au monstre niveau 30 : distribution ordinaire 1★/2★/3★ = 50/35/15 %, avec Aimant = 20/30/50 %. Ne pas extrapoler d’autres tables de rang ni garantir une rune par monstre.
+
+**Grades — arbitrage final auteur, distributions conditionnelles à une rune obtenue :**
+
+| Grade natif | Couleur | Ordinaire | Avec Aimant |
+|---|---|---:|---:|
+| Commun | Blanc | 74 % | 39 % |
+| Peu commun | Vert | 20 % | 35 % |
+| Rare | Bleu | 5 % | 20 % |
+| Épique | Violet | 0,9 % | 5 % |
+| Légendaire | Orange | 0,1 % | 1 % |
+| **Total** | — | **100 %** | **100 %** |
+
+La fréquence globale d’obtention d’une rune reste **[À CONFIRMER]**. Ces tables ne définissent pas l’indépendance entre grade et étoiles : ne pas multiplier leurs probabilités pour inventer une distribution conjointe. Effets cachés à découvrir, pas table immédiatement connue d’Hasol.
+
+**Réparation en plusieurs scènes :** distinguer trois étapes, sans pardon instantané : aide d'abord contrainte, coopération éprouvée en mission, puis engagement personnel choisi au fil des chapitres suivants. Des excuses éventuelles ne rétablissent pas immédiatement la confiance. Répertoire de mage de feu de Ray validé par DEC-069 ; paramètres numériques **[À CONFIRMER]**.
 
 ## Chapitre 11 — « Le dernier départ » [PLAN VALIDÉ — DEC-045]
 
 **Le trio à l'épreuve :** premières expéditions difficiles, protection, contrôle runique et magie offensive doivent se coordonner. Le savoir livresque de Ray devient utile sans le rendre omniscient ni effacer son comportement passé. Début d'un engagement personnel au-delà de la dette ; coopération ne signifie pas confiance déjà acquise.
 
-**Zio rejoint officiellement le groupe :** quatre membres, **4/5, 45/50 points**. Son rôle initial de superviseur extérieur est préservé. Missions et quotidien partagé ouvrent les premiers rapprochements avec Hasol, sans couple déjà établi ni mariage immédiat ; raisons et date exacte de son adhésion **[À CONFIRMER]**.
+**Période de chasses avec Ray — [VALIDÉ, DEC-067] :** Ray a terminé l'Académie. Pendant que Yoon poursuit ses études et chasse avec Hasol uniquement les week-ends et vacances, Ray effectue énormément de chasses en duo avec Hasol durant sa propre tranche de niveaux 30–40. Cette activité contribue à expliquer ses dix cercles au niveau 60 : l'obtention des cercles naturels devient plus difficile avec le niveau. Durée, gains exacts et niveaux correspondants d'Hasol **[À CONFIRMER]**. Ces chasses à deux ne dérogent pas au minimum de trois membres en donjon. L'influence d'Hasol sur la collecte de mana reste une hypothèse future du livre II.
+
+**Zio rejoint officiellement le groupe :** quatre membres, **4/5, 45/50 points**. **[VALIDÉ, DEC-067]** Il appartient auparavant à un autre groupe et rejoint celui d'Hasol lorsque Yoon termine l'Académie. Son rôle initial de superviseur extérieur est préservé. Missions et quotidien partagé ouvrent les premiers rapprochements avec Hasol, sans couple déjà établi ni mariage immédiat ; circonstances du départ de l'autre groupe et date exacte **[À CONFIRMER]**.
 
 **Artisanat :** Œil runique donne ses premiers résultats économiques ; Orven reste mentor, pas distributeur de contrats. La pleine notoriété et les fonds colossaux de ses vingt-cinq ans ne sont pas encore acquis d'un seul coup.
 
-**Départ du père et mort :** après un dernier échange difficile avec Hasol, son père part en voyage commercial lointain ; sa mort est annoncée, **sans véritable réconciliation**, avant la large reconnaissance artisanale de sa fille. Préserver l'affection sous les maladresses et plusieurs occasions manquées de dialogue ; pas de retour au contexte de raid. Date, destination, cause, contenu et intensité du dernier échange, modalités de l'annonce **[À CONFIRMER]**.
+**Dernière grande dispute — DEC-080 :** le père exige qu’Hasol cesse de travailler pour le Griffon d’Argent ; elle refuse sans explication, lui demande ses raisons, il se ferme et invoque son autorité. Tous deux restent aimants et fiers ; ni excuses définitives ni révélation du différend. Ce conflit précise le dernier échange sans changer le titre du chapitre. Après la dispute, départ commercial lointain et décès avant la large reconnaissance artisanale d’Hasol, sans réconciliation. Origine du conflit, date, destination, cause et annonce du décès **[À CONFIRMER]**. Aucun lien causal entre guilde, départ et mort n’est validé ; pas de complot ou de faute d’Hasol déduits.
 
 **Deuil :** plusieurs scènes, réactions propres à la mère et aux compagnons, conséquences durables. La mort du père n'est ni un simple obstacle à lever ni une douleur résolue par la prochaine réussite.
 
@@ -431,7 +490,7 @@ Texte initial transmis dans `new.txt` et intégré par DEC-023, puis refondu sur
 
 **Samia Claire :** Yoon présente son amie de l'Académie, une femme **Ranger commune**, cinq points, spécialisée dans l'archerie, la détection des pièges et l'ouverture des coffres. Même âge que Yoon, niveau légèrement inférieur au recrutement ; chiffres **[À CONFIRMER]**. Elle accepte dès qu'elle apprend la présence de Zio, beau, fort et populaire ; ses sentiments précis, son motif profond et une éventuelle connaissance antérieure restent à construire, sans rivalité amoureuse imposée. Groupe complet : **5/5, 50/50 points**.
 
-**Retour au donjon :** seconde tentative à construire pour montrer l'utilité de Samia et la nouvelle coopération ; déroulement et issue **[À CONFIRMER]**, pas de victoire garantie par le seul recrutement. Piège, rythme des invocations, blessures, ressources et XP restent à établir avant tout calcul.
+**Retour au donjon :** seconde tentative à construire pour montrer l'utilité de Samia et la nouvelle coopération ; déroulement et issue **[À CONFIRMER]**, pas de victoire garantie par le seul recrutement. **[VALIDÉ — DEC-081]** Les invocations sont infinies tant que le piège reste actif et le boss en vie ; elles comptent pour Croissance sous les conditions habituelles et donnent **×0,5 l'XP d'un monstre classique comparable**. Piège, rythme, blessures, ressources, XP de base, partage et arrondis restent à établir avant tout calcul.
 
 **Reconnaissance installée :** la réputation construite depuis les chapitres 10 et 11 s'affirme **vers vingt-cinq ans**, avant le chapitre 13. Grâce à Œil runique, Hasol est une artisane réputée et dispose de **fonds colossaux** pour financer ses runes jusqu'à +15. Montrer l'accumulation du travail, des résultats et des responsabilités, pas une richesse gagnée en un épisode. Inventaire exact, grades, rangs et calendrier des +15 **[À CONFIRMER]** ; les moyens de payer ne garantissent pas la réussite de toutes les améliorations.
 
@@ -463,9 +522,11 @@ Texte initial transmis dans `new.txt` et intégré par DEC-023, puis refondu sur
 
 **Catastrophe :** Hasol a **trente-quatre ans**, environ **niveau 45** ; **Yoon est niveau 54** (DEC-046). L'événement apocalyptique emporte Yoon, Ray et les proches concernés ; construire les pertes à partir des vies et des choix développés, pas par une liste expéditive. La situation précise de Samia reste **[À CONFIRMER]** dans le cadre où Hasol demeure seule survivante parmi les proches concernés, sans inventer une scène de mort individuelle.
 
-**Ultime de Zio : AUTODESTRUCTION.** Zio, devenu le mari d'Hasol, déclenche une explosion qui **le tue et tue le démon stellaire**, permettant à Hasol de survivre. Ce n'est ni un simple épuisement ni une attaque dont l'issue pour le démon resterait indécise. Préserver ses motivations propres sans les réduire à son seul statut d'époux ; paramètres de l'ultime **[À CONFIRMER]**, sans restriction cosmique ajoutée.
+**Ultime de Zio : AUTODESTRUCTION.** Zio, devenu le mari d'Hasol et de **niveau 61**, déclenche cette capacité obtenue au **niveau 50** (DEC-053) : une explosion qui **le tue et tue le démon stellaire**, permettant à Hasol de survivre. Ce n'est ni un simple épuisement ni une attaque dont l'issue pour le démon resterait indécise. Préserver ses motivations propres sans les réduire à son seul statut d'époux ; paramètres de l'ultime **[À CONFIRMER]**, sans restriction cosmique ajoutée.
 
-**Fin du livre I :** Hasol récupère sur l'ennemi une **rune arcanique temporelle — rareté et rang en étoiles À DÉFINIR**. Son activation **ouvre le livre II**, elle n'est pas racontée ici. Le retour est de **trente-quatre à seize ans, soit dix-huit ans en arrière**, pas quinze. Aucune nouvelle régression ni explication cosmique n'est créée.
+**Cercles d'Hasol en fin de livre I [VALIDÉ — DEC-056] :** **seize cercles runiques**, soit **seize emplacements**, vers le niveau 45. Acquisition détaillée après les douze du chapitre 9, répartition entre les compteurs de monstres et de boss, occupation et inventaire finaux **[À CONFIRMER]**. Aucun transfert automatique au livre II.
+
+**Fin du livre I — « Dernier Retour », DEC-079/080 :** Hasol récupère une **Rune temporelle, grade et étoiles À DÉFINIR**. Son activation constitue désormais le cliffhanger : **douze DONG puis un DING**, horloge runique et sablier qui progresse aux deux séries de sons. Le **réveil** ouvre le livre II, exactement une semaine avant la cérémonie de Révélation, et non un réveil déjà montré à la fin du I. Le décalage est d’environ dix-huit ans depuis ses trente-quatre ans, pas quinze ; l’âge exact au jour de retour ne doit pas effacer la semaine avant ses seize ans.
 
 # 7. GARDE-FOUS TRANSVERSAUX DU LIVRE I
 
@@ -474,54 +535,72 @@ Texte initial transmis dans `new.txt` et intégré par DEC-023, puis refondu sur
 - **Famille et deuil :** préserver l'amour maladroit du père, le non-dit et les conséquences du décès au-delà du chapitre 11. Il connaît les débuts chez Orven, pas la pleine réussite publique de sa fille. La mère et chaque compagnon réagissent différemment.
 - **Menace :** les modalités d'indices tels que déséquilibres magiques, raids plus fréquents ou monstres inhabituels restent des **[PROPOSITIONS]** de mise en scène. Ni origine de l'apocalypse ni rune temporelle ne doivent être expliquées prématurément.
 - **Coopération :** Orven reste mentor ; Yoon, Ray, Zio et Samia ont leurs choix et leurs limites. Construire les missions, les responsabilités, les décisions éthiques et les pertes sur la durée. Richesse, niveau, rareté et nombre d'emplacements ne garantissent aucune victoire.
-- **Séparation des vies :** le donjon invocateur prépare le réemploi voulu au livre II (DEC-040), sans télégraphier ce futur aux personnages du livre I. Les anciens passifs, dont Œil runique amélioré, sont accessibles au niveau 1 dans la seconde vie selon les règles à préciser ; Main runique est réapprise rapidement, pas transférée automatiquement avec toutes les actives. Aucun report des compteurs ou des cercles n'est fixé. Mariage et composition de la première vie ne sont pas imposés à la seconde.
-- **Statuts :** aucun jalon futur n'est déjà survenu dans le manuscrit. La validation du plan ne valide pas littérairement les versions de lecture des chapitres 2 à 4, ne rouvre pas le chapitre 1 et n'autorise aucune rédaction nouvelle. Les livres II et III conservent leurs directions et propositions propres, sans plan de chapitres validé par DEC-045.
+- **Séparation des vies :** le donjon invocateur prépare le réemploi voulu au livre II (DEC-040), sans annonce au livre I. Les accès au niveau 1 astral sont précisés par DEC-078 ci-dessous ; compteurs de Croissance remis à zéro à chaque nouvelle vie, report des cercles non fixé. Aucun transfert général des sorts ou équipements. Mariage et groupe du livre I ne sont pas automatiquement reconduits.
+- **Statuts :** les faits 5 à 9 sont racontés ; les 10 à 16 restent futurs. La validation des 5 à 9 ne rouvre pas les 1 à 4 et n’autorise pas le chapitre 10. DEC-080 fixe seize chapitres au livre II, pas leurs titres ou leur répartition détaillée.
 
 # 8. LIVRE II — DIRECTION CANONIQUE
 
-## Prémisse [VALIDÉ]
+## Cadre et capacités [VALIDÉ — DEC-078 à DEC-080]
 
-- Hasol active la rune temporelle et revient **à 16 ans, juste avant la première Révélation**.
-- Sa nouvelle classe est **Arcaniste Astral**, rareté **Astrale** (25 points d'équipe).
-- La classe conserve un fonctionnement apparenté à l'Arcaniste runique, mais **tous les passifs acquis durant la première vie sont accessibles dès le niveau 1** ; leurs effets exacts dans la seconde vie restent **[À CONFIRMER]**.
-- Hasol est **la seule à conserver des souvenirs** de la chronologie précédente : émotions vives, souvenirs importants, mais dates et détails secondaires parfois flous.
-- Les autres personnages **n'ont aucun souvenir** de la première chronologie ; leurs **classes et personnalités sont mystérieusement différentes**. La cause reste **[À CONFIRMER]** et ne doit pas être résolue d'avance.
-- **Autonomie d'exploration [VALIDÉ — DEC-037] :** l'amélioration d'Œil runique acquise en première vie relève du passif conservé, avec détection des pièges. Main runique, active, fait l'objet d'un réapprentissage rapide, pas d'un accès automatique au niveau 1. Prévoir ce réapprentissage avant les explorations qui reposeraient sur l'ouverture des coffres ; niveau et conditions à définir. La composition du livre II n'exige donc pas de Ranger pour ces fonctions, sans interdire ce rôle ni imposer la disparition du personnage.
-- **Souvenir exploité [VALIDÉ — DEC-040] :** Hasol se souvient du donjon au boss niveau 32 et aux invocations niveau 11 maintenues par le piège (DEC-039). Dans sa seconde vie, elle l'utilise volontairement pour augmenter ses cercles par Croissance runique en laissant le mécanisme actif le temps de ses éliminations personnelles. Le niveau 11 a été choisi par l'auteur pour cet usage, pas seulement pour le combat du livre I. Avec les seuils déjà validés, ces monstres sont admissibles entre les niveaux 10 et 29 d'Hasol, pas dès le niveau 30 qui exige des monstres niveau 20+. Niveau exact de la scène, gains, nombre d'invocations, ressources et XP restent **[À CONFIRMER]**, sans accès solitaire implicite au donjon ni équivalence entre invocations et boss.
+- **Seize chapitres**, racontant les onze réincarnations R1 à R11, soit les vies 2 à 12. Pas d’équivalence « une vie = un chapitre » imposée ; titres et découpage détaillé **[À CONFIRMER]**. Les anciens essais à douze unités sont archivés dans `lore/pistes.md`, non actifs.
+- Le réveil de R1 ouvre le livre, **une semaine avant la Révélation**. Hasol devient **Arcaniste Astral, Astrale, 25 points**. Elle seule conserve des souvenirs, imparfaits jusqu’à R11 ; flashs et cauchemars de faits vécus, pas prophéties infaillibles. Les autres n’ont aucun souvenir des vies antérieures ; variations de classes et personnalités et leur cause restent à encadrer, sans altérer les raretés explicitement conservées ci-dessous.
+- **Dès le niveau 1 astral :** Bénédiction runique, Croissance runique, Œil runique avec détection des pièges, **Main runique active ouvrant coffres et portes sans restriction**, **Aura runique active**. Main remplace le réapprentissage antérieur ; ne pas attribuer l’ouverture à Aimant. Cette liste ne transfère pas toutes les anciennes actives ni le sort offensif du niveau 40.
+- **Aimant runique :** doit être obtenu à nouveau dans **chaque vie**, après combat avec un Anneau runique ; niveau d’obtention dans ces vies **[À CONFIRMER]**, pas automatiquement 21 ou 1. **Mémoire runique :** seulement en R11, ensuite conservée en vie 13.
+- Les compteurs de Croissance repartent de zéro à **chaque nouvelle vie**. Le report ou non des cercles reste **[À CONFIRMER]** ; ne pas confondre compteurs et emplacements, ni modifier le reliquat historique inconnu de la première vie.
+- **Arbitrage auteur résolu :** Aura est accessible au niveau 1 astral, mais le **seuil d’utilisation personnelle d’une arme imprégnée reste niveau 10**, même pour Hasol. Ce potentiel peut impressionner les recruteurs sans permettre son usage personnel au niveau 1 ; ne pas inventer d’exception ou de conséquence sous le seuil.
+- **Groupe astral principal, lorsqu’il est réuni :** Hasol 25 + Yoon 10 + Zio 10 + Ray 5 = **4/5 membres, 50/50 points**. Samia n’y entre plus, sans être effacée de l’histoire. La présence des quatre n’est pas imposée à toutes les boucles : Ray est hors équipe en R1 ; les Notos ont leur propre parcours dans la vie de leur raid fatal.
+- **Donjon connu — DEC-040/081 :** exploitation volontaire des **invocations infinies niveau 11** du boss niveau 32, piège actif et boss maintenu en vie, pour les éliminations personnelles de Croissance. **Levier majeur des livres II et III [VALIDÉ]** : conserver sa place dans les deux tomes, pas seulement une visite ponctuelle au II. XP des monstres invoqués **×0,5 celle d'un monstre classique comparable**. Admissibilité connue aux niveaux 10–29 d'Hasol, plus au 30 ; avant 10, fonctionnement **[À CONFIRMER]**. Minimum trois membres, aucun accès solitaire ni quota anti-farm inventé. Gains exacts, XP de base, partage, arrondis, rythme et scènes dans les vies **[À CONFIRMER]** ; ne pas achever répétitivement le boss ni supprimer les coûts de combat.
+- **Difficulté du II / projet du III — DEC-082 [VALIDÉ] :** au II, les autres groupes gênent Hasol et tuent le boss, interrompant les invocations qu'elle cherche à entretenir. Au III, elle fait tout pour **privatiser le donjon** et sécuriser son exploitation. Autorité, statut, méthode, prix, calendrier et réussite **[À CONFIRMER]** ; ne pas supposer une propriété achetable ou une exclusivité déjà acquise. Aucune hostilité délibérée des groupes ou règle de réapparition du boss déduite.
 
-## Arcs possibles [PROPOSITIONS]
+## Trajectoire des réincarnations [VALIDÉ — DEC-079/080]
 
-Les anciens essais de découpage du livre II et du livre III, proposés en douze unités avant la discussion d'un rythme à seize chapitres, sont conservés dans [`lore/pistes.md`](lore/pistes.md). Ils ne sont pas validés par DEC-045 et ne constituent pas un second plan canonique.
+| Réincarnation | Vie absolue | Jalon retenu | Sons à la sortie |
+|---|---:|---|---|
+| R1 | 2 | Ray, meilleur ami commun au potentiel moyen, hors équipe, empoisonné en raid académique ; maladie puis décès malgré les soins | 12 DONG + 2 DING |
+| R2 | 3 | Cauchemars de sa mort ; Hasol recrute Ray plus tôt au lieu d’une autre recrue commune et participe au raid, mais échoue encore à le sauver | 12 DONG + 3 DING |
+| R3 | 4 | Cauchemars plus précis sur le mode d’empoisonnement ; intervention réussie, Ray survit ; autre drame terminal **[À CONFIRMER]** | 12 DONG + 4 DING |
+| R4 | 5 | Relation heureuse avec le père ; internat dans l’Académie la plus prestigieuse du monde ; même voyage marchand fatal ; annonce, flashs et retour | 12 DONG + 5 DING |
+| R5 | 6 | Père sauvé ; défaite d’Hasol vers 34 ans contre le démon, détresse et retour **avant le coup fatal** | 12 DONG + 6 DING |
+| R6 à R10 | 7 à 11 | Préparation et puissance croissantes contre le démon ; victoire dans une vie à déterminer, puis annonce des morts de Zio et Yoon en raid quand Hasol a 45 ans ; répartition et autres drames **[À CONFIRMER]** | 12 DONG + 7 à 11 DING selon la sortie |
+| R11 | 12 | Bibliothèque, plus de 100 000 livres lus : Mémoire runique, mémoire parfaite, retour intégral du sacrifice de Zio ; ultime instabilité émotionnelle | 12 DONG + 12 DING ; Rune temporelle détruite |
 
-1. **La Révélation différente :** Hasol reconnaît le temple et ses parents, mais la stèle révèle l'Arcaniste Astral. Le choc émotionnel prime sur la démonstration de puissance. Son père vivant la bouleverse.
-2. **Les visages familiers, les inconnus :** retrouvailles avec Yoon, Zio, Ray et Orven ; leurs différences empêchent Hasol de « rejouer » mécaniquement le passé. Elle doit apprendre à les connaître de nouveau.
-3. **L'avantage et son prix :** passifs accessibles tôt, mais limitations matérielles, XP et connaissances incomplètes ; Hasol peut anticiper certaines catastrophes, pas contrôler toutes les variables.
-4. **Les choix qui changent le monde :** chaque intervention modifie les trajectoires ; interroger ce que signifie sauver des proches devenus différents.
-5. **L'énigme des classes altérées :** indices graduels sur les différences entre chronologies ; ne pas imposer de solution sans décision de l'auteur.
-6. **Le démon et le temps :** réexaminer l'apocalypse et la rune temporelle ; enjeux personnels et cosmiques réunis.
-7. **Exploitation du donjon connu — intention validée DEC-040, scène à construire :** transformer le souvenir d'une retraite de la première vie en préparation d'une progression choisie. Hasol garde délibérément le piège actif pour les invocations, avec une équipe répondant aux conditions d'accès. Ce souvenir précis reste compatible avec une mémoire globalement imparfaite ; ne pas en déduire la connaissance infaillible de tous les donjons.
+Les deux premières morts de Ray se répètent : l’ancienne idée de onze drames tous différents est remplacée. Le sauvetage de Ray ne déclenche pas lui-même la sortie de R3. Poison, contamination, responsables, dates et soins exacts **[À CONFIRMER]**, sans maladie universellement incurable inventée. Le potentiel moyen de Ray en R1 ne révoque pas son statut de prodige dans la première vie.
+
+**Notos :** dans une vie postérieure à la victoire sur le démon, Hasol n’a pas eu besoin d’être défendue par Zio à l’Académie et n’a pas construit la même relation avec lui. Zio et Yoon sont membres d’un groupe parmi les plus célèbres du pays ; ils meurent lors d’un raid, Zio tentant de protéger sa sœur. Hasol l’apprend à 45 ans, leurs noms provoquent les flashs. Ni absence de romance comme cause de l’accident ni numéro de boucle ou circonstances du raid inventés.
+
+**Rune temporelle — DEC-079, arbitrage final auteur :** notification d’instabilité émotionnelle et d’activation lors des drames prévus ; horloge et sablier qui progresse à chaque DONG puis DING. Douze DONG à chaque activation, DING correspondant au numéro d’activation ; fin du I : un DING, fin de R11 : douze. **Défaites contre le démon : la détresse déclenche le retour avant le coup fatal**, pas après la mort ; cela précise R5 et les défaites suivantes sans ajouter de résurrection. Seuil émotionnel, modalités initiales et cumul des plus de 100 000 livres **[À CONFIRMER]**. Pas d’automatisme universel « toute mort ou toute émotion = retour ».
+
+**Fin du livre II :** Mémoire runique rend les douze vies présentes avec une précision parfaite ; larmes, souvenir de Zio et de son sacrifice, ultime activation **12 DONG/12 DING**, Rune temporelle fissurée puis réduite en poussière. Le réveil suivant appartient au livre III.
+
+**Jalon conservé — DEC-057 :** **32 cercles et emplacements en fin de livre II, en R11 avant le dernier retour** ; ne pas en déduire 32 cercles au réveil de la vie 13. Niveau, acquisition, compteurs et équipement restent ouverts.
 
 # 8 bis. LIVRE III — DERNIER LIVRE DE LA TRILOGIE
 
-- **[VALIDÉ — DEC-030] :** un troisième livre est prévu et constitue le dernier tome.
-- **[À CONFIRMER] :** titre, période, intrigue propre, articulation avec la fin du livre II, résolution des mystères et sort final des personnages.
-- Cette décision ne déplace pas automatiquement les événements établis des livres I et II. Elle n'établit ni nouveau retour temporel, ni troisième chronologie, ni nouvelle classe, ni fin heureuse ou tragique.
-- Toute répartition détaillée entre les livres II et III reste une **[PROPOSITION]** tant que l'auteur ne l'a pas choisie.
+**Cadre [VALIDÉ — DEC-080] :** treizième et dernière vie ; aucune nouvelle chance temporelle, Rune temporelle détruite. Hasol conserve Mémoire runique et se rappelle les douze vies dans leurs détails. Mémoire parfaite n’est pas connaissance des conséquences inédites de ses choix.
+
+- **Prologue validé :** Hasol devenue grand-mère, extrêmement célèbre pour sa classe astrale ; Zio est vivant, leur mariage et leur famille sont heureux. Elle garde ses petits-enfants ; à la demande de son petit-fils, elle commence à leur raconter sa dernière vie pour les endormir. Le cadre révèle le bonheur durable, pas sa méthode. Noms, nombres et âges des enfants et petits-enfants **[À CONFIRMER]** ; le texte de scène proposé par ChatGPT n’est pas validé mot pour mot.
+- **Début du récit principal :** réveil une semaine avant la Révélation. Grâce à sa mémoire parfaite, Hasol rapproche les faits et conclut dès le début qu’une **catastrophe mondiale surviendra l’année de ses 45 ans** ; elle prépare sans relâche puissance, ressources et alliances pour sauver le monde et ses proches.
+- **Continuité :** cette catastrophe ne remplace ni la crise de ses 34 ans au livre I ni l’issue de Dernier Rempart. Origine, responsables, nature précise, indices de la déduction et lien éventuel avec le démon stellaire **[À CONFIRMER]** ; aucune cause commune imposée.
+- **Relations et dénouement :** amour réciproque reconstruit avec Zio qui ne se souvient de rien, mariage, enfants et bonheur durable ; la résolution laisse une vraie place à la vie familiale. Le lecteur connaît déjà les solutions de Ray et du père apprises au II ; la méthode pour sauver Yoon/Zio et le monde reste à construire. Pas d’amour dû à Hasol ni d’effacement de l’autonomie de ses proches.
+- **Jalon conservé — DEC-057 :** **36 cercles et emplacements à la fin du livre III**, sans niveau, âge précis, acquisition ou inventaire imposé. Aucun retour supplémentaire ni report de 32 au réveil n’en découle.
+- **[À CONFIRMER] :** titre, nombre de chapitres, scènes détaillées, coûts et prix de la résolution, devenir individuel des autres personnages ; reprise de la scène familiale en épilogue seulement **[PROPOSITION]**.
 
 # 9. Questions ouvertes à trancher avant rédaction définitive
 
 1. **Point résolu le 19 novembre 2026 — cadeaux initiaux :** deux runes bleues 6★ +6, principales Attaque +70 et Défense +70 ; deux secondaires renforcées chacune, valeurs et historique dans `lore/runes.md`. Voir DEC-001, DEC-005 et la correction prioritaire DEC-006 dans `lore/decisions.md`.
 2. **Règle d’amélioration résolue par DEC-006 puis DEC-014 :** principale augmentée à chaque niveau, plus fortement à +15 ; secondaire ajoutée ou renforcée à +3, +6, +9, +12 et +15, avec un maximum de quatre. À +15, renforcer une des quatre secondaires présentes. Les gains numériques des secondaires restent à définir en dehors des deux cadeaux déjà documentés.
 3. **Règles d'arrondi et ordre de calcul des bonus d'ensemble**, ainsi que le traitement des PV maximums lors d'un changement d'équipement.
-4. **Répartition précise des six runes +6 et quatre runes +3 à la fin du chapitre 7**, avec identifiants persistants.
-5. **Niveaux exacts de Yoon après les chasses du chapitre 5 et aux chapitres 6 à 8 ; gains et niveaux finaux du chapitre 8.** Hasol 10→11 et Aura runique en fin de chapitre 5 sont résolus par DEC-045 : ne pas répéter ce passage au chapitre 6. Résonance active ciblée et soin en zone posée, Domaine au niveau 20 et Yoon 54 au chapitre 16 sont fixés par DEC-046. Leurs paramètres numériques, les niveaux d'obtention initiaux, les compétences après le niveau 20, ainsi que les paramètres d'Aura et de son évolution restent à arbitrer ; aucun coût de 200 Mana ou effet de 24 heures n'est adopté par défaut.
-6. **Identités, rangs et valeurs des nouvelles runes du chapitre 9**, calendrier des 2 000 éliminations personnelles admissibles et reliquat historique. La composition douze runes +6 est fixée : quatre Fatal, quatre Vitesse, deux Énergie, deux Gardien. Documenter le passage de quatre à deux Gardien et l'acquisition de quatre Vitesse avec deux nouveaux emplacements ; aucun remplacement de Lame. Valeurs exactes de la Vitesse rare (bleue), 3★, +0 du chapitre 10 encore à confirmer.
-7. **Spécialité magique de Ray** et niveau lors de son apparition au chapitre 1. Son rôle antérieur est désormais fixé par DEC-021 : ami d'enfance devenu complice des humiliations, sans excuses abouties lors de l'intervention de Zio.
+4. **Répartition individuelle des six +6 et quatre +3 au chapitre 7**, identité des deux Gardien maternelles retirées, grades/étoiles des deux premières Arcanique, affixes et améliorations ultérieures. Les configurations globales racontées 7 et 9 sont acquises ; ne pas inventer une correspondance d’ID.
+5. **Niveaux de Yoon en fin de 5 à 8 et niveaux finaux du 8, gains naturels et XP intermédiaires.** Aura 200 Mana/rune détruite/24 h et Infiltration 30 s canoniques. Résonance et Chant dès le niveau 1 ; Chant 10 % des PV max de Yoon toutes les 5 s explicitement validé, coût/rayon/durée/cumul ouverts. Les précisions Lumière/5 s de Vague priment l’ancienne proposition sans élément/1 s.
+6. **Inventaire détaillé du chapitre 9 et reliquat :** total final 4 Fatal/4 Arcanique/4 Gardien, pas de Vitesse équipée ; deux nouvelles Arcanique 2★ +6, grade et affixes chiffrés à définir. Deux Énergie maternelles 3★ +9 désormais épiques/violettes données à Yoon ; ses anciennes +6 restent stockées. Identifier les Fatal maternelles +9 sans toucher aux cadeaux paternels. Valeurs du futur butin Vitesse rare (bleu), 3★, +0 du chapitre 10 encore ouvertes.
+7. **Paramètres numériques des compétences de Ray** et niveau lors de son apparition au chapitre 1. Sa spécialité de feu et son répertoire sont validés par DEC-069. Son rôle antérieur est fixé par DEC-021 : ami d'enfance devenu complice des humiliations, sans excuses abouties lors de l'intervention de Zio.
 8. **Échelle et règles des pierres de mana, prix et récompenses**, si l'auteur souhaite des montants numériques réguliers.
 9. **Chronologie détaillée des quinze années** du livre I et dates des scènes. Les placements sont résolus par DEC-045 : mort du père et adhésion de Zio au chapitre 11, Samia et réputation installée vers vingt-cinq ans au 12, mariage et transmission au 13, centième boss au 14, premier sort offensif au 15, catastrophe au 16. Restent notamment les circonstances du décès, la durée du deuil, les étapes sentimentales, le calendrier exact des apprentissages et leur mécanique, l'issue du retour au donjon, les inventaires futurs et le sort individuel de Samia dans la catastrophe.
-10. **Mécanique exacte des passifs de la classe astrale** et origine des changements de la seconde chronologie.
+10. **Vies astrales :** report des cercles (compteurs remis à zéro), acquisition et équipement des 32 cercles de R11 avant le dernier retour, cumul des livres pour Mémoire, devenir des autres personnages et origine des variations. Déclencheur terminal de R3 et répartition R6–R10 à fixer. Aura au niveau 1 ne lève pas le seuil d’arme au niveau 10 ; les défaites contre le démon déclenchent le retour par détresse **avant le coup fatal**, deux arbitrages résolus.
 11. **Coûts personnels en Mana des améliorations**, récupération et fatigue : règles qualitatives établies au chapitre 4, barèmes et grade de référence pour le coût à définir. La principale en pourcentage utilise désormais la statistique naturelle ; cela ne résout pas le calcul des ensembles et arrondis.
 12. **Proposition de coefficients d'XP et courbe de référence**, conservée avec son statut non adopté dans `lore/pistes.md`. Ne pas appliquer un barème ni l'ajouter au récit avant arbitrage ; l'auteur ne souhaite pas d'exposition détaillée de l'XP dans le roman.
+13. **Courbes de cercles des cinq personnages :** propositions conservées dans `lore/pistes.md`, non validées par le choix du niveau final de Ray ou de ses compétences. Rattachement des sept cercles de Samia, totaux de fin de livre I hors Hasol et paliers intermédiaires à arbitrer.
+14. **Butin :** fréquence globale de rune et distribution conjointe grade/étoiles ouvertes, sans indépendance inventée. Tables de grades explicitement validées ; seul exemple de rang au niveau 30, pas d’extrapolation. **Œil/Bénédiction résolu :** types prédéterminés, maxima accessibles à Hasol affichés sans garantie ; mêmes types pour un autre artisan, valeurs pouvant être inférieures. Ne pas rouvrir Lame retiré, Chant 10 %/5 s ou plafonds d’étoiles.
 
 # 10. Structure de dépôt recommandée
 
@@ -556,15 +635,15 @@ Pour chaque personnage : âge à la date du chapitre, classe/rareté, niveau, XP
 3. **Rédiger un chapitre long et immersif** : scènes vécues, descriptions sensorielles utiles, émotions crédibles, dialogues et tactique claire. Éviter les résumés déguisés en chapitres.
 4. **Conserver le manuscrit dans un seul `roman.md`** ; ajouter les nouveaux chapitres à la suite avec titres Markdown et séparateurs `---`.
 5. **Fenêtres de système en HTML** compatibles avec les classes CSS existantes ; stat naturelle en texte normal, bonus runique bleu, buff temporaire vert, badges d'amélioration visibles.
-6. **Contrôler la logique :** XP et niveaux, 50 points / 5 membres, cercles, nombres de runes, secondaires par grade, ensembles, coût et échecs d'amélioration, blessures et guérison, jours d'Académie de Yoon, secrets connus par chaque personnage.
+6. **Contrôler la logique :** XP et niveaux, 50 points / 5 membres, cercles, nombres de runes, secondaires par grade, ensembles, coût et échecs d'amélioration, blessures et guérison, disponibilités réelles (Académie de Yoon, chasses de Ray, autre groupe de Zio), secrets connus par chaque personnage. Pour Ray, contrôler les niveaux de déblocage, le risque des flammes pour les alliés et l'épuisement rapide du Mana, sans inventer de décompte chiffré.
 7. **Après validation du chapitre :** mettre à jour `personnages.md`, `runes.md`, `chronologie.md` et éventuellement `systeme.md` ; consigner les changements et les points en suspens.
 8. **Ne pas écrire les révélations futures dans les dialogues ou pensées des personnages** tant qu'ils n'ont aucune raison de les connaître. La bible contient des spoilers réservés à l'auteur et à Codex.
 9. **Ne pas confondre proposé et validé.** Demander l'arbitrage de l'auteur sur toute contradiction ou information canonique manquante qui influe matériellement sur le chapitre.
-10. **Respecter le plan canonique des seize chapitres du livre I — DEC-045**, leurs titres, leur ordre et leurs jalons, en distinguant les paramètres encore ouverts. Préserver les statuts littéraires propres des textes 1 à 4 ; la validation du plan n'autorise ni leur réécriture ni la rédaction d'un nouveau chapitre. Les corrections de systèmes et de caractéristiques ne sont pas une permission de changer les relations ou l'ordre des événements. Aucun découpage des livres II et III n'est validé par extension.
+10. **Respecter DEC-045 et DEC-072 à DEC-080** : titres et ordre du livre I, versions 1 à 4 préservées, versions 5 à 9 validées, aucun chapitre 10 sans demande. Seize chapitres au II, découpage détaillé encore ouvert ; III ultime vie, structure à définir. Une correction technique ne permet pas de réécrire les relations ou les scènes.
 
 # 12. Prompt de démarrage Codex (à copier)
 
-> Tu travailles sur le roman français LitRPG « Les Chroniques de l'Arcaniste Runique ». Commence par lire intégralement `AGENTS.md`, `PLAN_DIRECTEUR.md`, `roman.md` et les fichiers `lore/`. Distingue strictement les éléments [VALIDÉ], [À CONFIRMER] et [PROPOSITION]. Ne modifie pas encore le manuscrit. Le plan du livre I compte seize chapitres dont les titres, la séquence et les jalons sont validés par DEC-045 ; cela ne valide aucun découpage des livres II et III, ni les paramètres encore ouverts. Le chapitre 1 révisé est validé (DEC-022) ; les chapitres 2 à 4 sont présents avec leurs statuts littéraires distincts et ne reçoivent aucune nouvelle validation implicite. Ne les réécris pas et ne réimporte pas les textes de `new.txt`. Prépare d'abord la continuité du prochain chapitre autorisé et la liste courte des arbitrages nécessaires. Hasol 10→11 et Aura runique sont placées à la fin du chapitre 5 ; ne pas répéter ce passage au chapitre 6. Les paramètres d'Aura et les niveaux intermédiaires de Yoon restent à établir. La validation du plan n'autorise pas à rédiger : attends mon accord explicite pour le chapitre concerné, puis respecte la séquence canonique 1 à 16, avec une prose longue, immersive, des statistiques établies et des fenêtres HTML stylées, avant de synchroniser les références.
+> Tu travailles sur le roman français LitRPG « Les Chroniques de l’Arcaniste Runique ». Lis `AGENTS.md`, le plan, le manuscrit et `lore/`, notamment DEC-072 à DEC-080. Distingue [VALIDÉ], [À CONFIRMER] et [PROPOSITION]. Préserve les versions locales des chapitres 1 à 4 ; leur audit précède toute retouche et les révisions séparées restent des propositions. Les versions retenues des 5 à 9 sont validées ; pas de réécriture générale ni réimport des variantes. État courant : Hasol 19, douze cercles et 4 Fatal/4 Arcanique/4 Gardien ; Yoon 24, deux cercles et les Énergie maternelles 3★ +9 reçues d’Hasol. Prépare la continuité avant tout prochain chapitre et attends son autorisation explicite. Seize chapitres au I et au II ; onze réincarnations au II, dernière vie 13 au III ; aucun nouveau retour au-delà. Les inconnues et contradictions techniques restent à arbitrer, pas à combler par invention.
 
 ---
 

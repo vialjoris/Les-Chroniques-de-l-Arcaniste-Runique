@@ -1,6 +1,6 @@
 # Système LitRPG — Règles runiques
 
-Ce fichier est en cours de constitution : les sections ci-dessous documentent les décisions runiques récentes et ne remplacent pas encore toutes les règles de `PLAN_DIRECTEUR.md`. Sources : décisions explicites de l’auteur consignées dans `decisions.md` et article cité dans `../source.md`.
+Ce fichier documente les règles établies et leurs limites. Sources : décisions explicites de l’auteur consignées dans `decisions.md`, transmission `new.txt` et inspirations identifiées dans `../source.md`. Les réponses de ChatGPT ne constituent pas à elles seules une validation. Actualisation du 21 novembre 2026 : DEC-072 à DEC-080 ; les états futurs restent distincts des chapitres déjà racontés.
 
 ## 1. Trois dimensions distinctes d’une rune — CANON
 
@@ -19,6 +19,30 @@ Ne pas confondre ces dimensions : une rune bleue peut avoir un rang qui n’est 
 - Une augmentation d’un taux doit être distinguée d’une multiplication relative : par exemple, un bonus de taux critique de +3 % désigne un ajout de trois points de pourcentage au taux, pas une hausse relative de 3 %.
 - PV %, Attaque % et Défense % sont admis comme principales par DEC-011 ; leur adoption comme secondaires reste à confirmer. Ne pas confondre les deux décisions.
 - Les bonus d’ensemble restent distincts des caractéristiques individuelles et conservent les valeurs validées du plan.
+
+### Effets de la Vitesse — CANON, DEC-052
+
+La Vitesse augmente la vitesse d'incantation et la vitesse de déplacement. Cette mobilité favorise l'esquive par le mouvement ; elle ne définit pas à elle seule un taux automatique d'esquive. Coefficients, limites et relations chiffrées avec les temps d'incantation et le déplacement **À DÉFINIR**. Ne pas déduire de cette décision un effet supplémentaire sur la vitesse d'attaque.
+
+### Puissance arcanique et critiques — CANON, DEC-076
+
+Les formules retenues sont `CC (%) = 5 + PA effective / 80 + bonus directs de CC` et `DCC (%) = 150 + PA effective / 100 + bonus directs de DCC`. Elles concernent les actions éligibles, y compris les attaques normales à l'épée, pas seulement les sorts. La PA effective doit rester distinguée de la PA naturelle, des contributions runiques et des effets temporaires ; ne pas inventer leur ordre de calcul.
+
+Le taux reste une probabilité ; à 100 % ou davantage, l'action éligible est critique. Aucun mécanisme de surcritique n'est adopté. Arrondis et interactions détaillées **À DÉFINIR**. L'éligibilité au critique d'Aura runique concerne son lancement (section 10), pas une assimilation de tous les effets de compétence aux coups d'épée.
+
+### Affinités élémentaires — CANON, DEC-073
+
+Toutes les attaques réellement élémentaires sont concernées. Le tableau donne le coefficient appliqué aux **dégâts finaux et à la précision**, ligne = élément de l'attaque, colonne = élément adverse. Ne pas attribuer arbitrairement un élément à une attaque dont l'affinité n'est pas établie.
+
+| Attaque → cible | Eau | Feu | Terre | Lumière | Ténèbres |
+|---|---:|---:|---:|---:|---:|
+| Eau | ×1 | ×1,25 | ×0,75 | ×0,80 | ×0,80 |
+| Feu | ×0,75 | ×1 | ×1,25 | ×0,80 | ×0,80 |
+| Terre | ×1,25 | ×0,75 | ×1 | ×0,80 | ×0,80 |
+| Lumière | ×1,20 | ×1,20 | ×1,20 | ×1 | ×1 |
+| Ténèbres | ×1,20 | ×1,20 | ×1,20 | ×1 | ×1 |
+
+Cycle : Eau > Feu > Terre > Eau. Deux éléments identiques sont neutres ; Lumière et Ténèbres sont neutres entre eux. La précision est multipliée, pas augmentée en points : 80 % ×1,25 donne 100 %, avant tout éventuel plafond encore **À DÉFINIR**. Arrondis, plafonds, attaques multiélémentaires et articulation avec le plancher d'Infiltration runique restent ouverts. L'ancienne Vague sans élément est remplacée par Lumière (DEC-074), sans attribuer cet élément à toute la classe de Yoon.
 
 ## 3. Tables des principales adoptées par l’auteur
 
@@ -63,9 +87,9 @@ Les valeurs et gains numériques des secondaires ne sont pas fournis par l’art
 
 ## 5. Obtention et désignation — règle propre au roman
 
-**CANON — DEC-007 :** le rang d’une rune obtenue sur un monstre dépend du niveau de ce monstre.
+**CANON — DEC-007 précisée par DEC-077 :** le niveau du monstre fixe le **rang maximal** d'une rune obtenue, pas un rang garanti. Un rang inférieur peut être obtenu.
 
-| Niveau du monstre | Rang de la rune obtenue |
+| Niveau du monstre | Rang maximal de la rune obtenue |
 |---|---|
 | 1 à 10 inclus | 1★ |
 | 11 à 20 inclus | 2★ |
@@ -76,9 +100,32 @@ Les valeurs et gains numériques des secondaires ne sont pas fournis par l’art
 
 Cette règle est une création du roman, pas une règle extraite de Summoners War. Elle ne définit ni la probabilité d’obtenir une rune, ni son ensemble, ni sa rareté. Elle n’impose pas à chaque monstre de donner une rune. Les règles au-delà du niveau 60 restent à définir ; ne pas ajouter de rang supérieur à 6★ ni supposer une règle de plafonnement.
 
+**Précision directe de l'auteur du 21 novembre 2026 — DEC-077 :** Aimant favorise les rangs élevés **dans le plafond**, sans le dépasser. Exemple fixé **uniquement pour un monstre niveau 30, à condition qu'une rune soit obtenue** :
+
+| Rang | Distribution ordinaire | Distribution avec Aimant |
+|---|---:|---:|
+| 1★ | 50 % | 20 % |
+| 2★ | 35 % | 30 % |
+| 3★ | 15 % | 50 % |
+
+Ces distributions conditionnelles ne sont ni une probabilité globale d'obtenir une rune, ni une table universelle à extrapoler aux autres niveaux. La fréquence globale du butin runique reste **À DÉFINIR** ; aucun monstre ne donne automatiquement une rune.
+
+**Grades — CANON, réponse directe de l'auteur du 21 novembre 2026, DEC-077 :** la clarification suivante remplace la phrase initialement corrompue. Distributions **conditionnelles à l'obtention d'une rune**, distinctes des étoiles :
+
+| Grade de la rune obtenue | Sans Aimant | Avec Aimant |
+|---|---:|---:|
+| Commun — blanc | 74 % | 39 % |
+| Peu commun — vert | 20 % | 35 % |
+| Rare — bleu | 5 % | 20 % |
+| Épique — violet | 0,9 % | 5 % |
+| Légendaire — orange | 0,1 % | 1 % |
+| **Total** | **100 %** | **100 %** |
+
+Le taux violet ordinaire **0,9 %** est la correction explicite de l'auteur à la première version totalisant 100,1 %, pas une normalisation inventée. **Aucune indépendance entre étoiles et grade n'est établie** : ne pas multiplier ces probabilités pour fabriquer une distribution conjointe.
+
 Toujours indiquer la rareté et les étoiles d’une rune identifiable dans le récit, les dialogues, fenêtres et références, une fois ces informations connues. Exemple : « rune Fatal rare (bleue), 6★, +6 ». Une explication abstraite du système ou un compteur d’emplacements n’exige pas d’inventer une rune précise. Une information inconnue dans une fiche documentaire doit rester « À DÉFINIR ».
 
-Conséquence sur le butin futur prévu : la rune Vitesse rare (bleue) du loup alpha élite de niveau 25 à 27 sera 3★, sans fixer ses valeurs encore ouvertes. Les cadeaux achetés ou offerts ne changent pas de rang selon le niveau de leur nouveau propriétaire : les deux cadeaux paternels restent rares (bleus), 6★, +6.
+Conséquence sur le butin futur prévu : le loup alpha élite de niveau 25 à 27 permet **au maximum 3★**. Le rang 3★ de la rune Vitesse rare (bleue) prévue reste un choix narratif documenté, pas un rang garanti pour tous ses butins. Les cadeaux achetés ou offerts ne changent pas de rang selon le niveau de leur nouveau propriétaire : les deux cadeaux paternels restent rares (bleus), 6★, +6.
 
 ### Équipement sans restriction de niveau — CANON
 
@@ -121,6 +168,10 @@ Les principales fixes Attaque +70 et Défense +70 des deux cadeaux rares (bleus)
 
 Un ensemble Fatal nécessite quatre pièces, Gardien et Énergie deux pièces. Le chapitre 2 possède quatre Fatal, quatre Gardien et deux Énergie : un Fatal, deux Gardien, un Énergie. Les deux paires Gardien apportent +15 % Défense chacune, soit +30 % au total, sans multiplication des deux bonus. Une pièce isolée n’ajoute pas un ensemble ; les caractéristiques individuelles de la pièce restent néanmoins applicables.
 
+**Arcanique — CANON, DEC-076 :** quatre pièces donnent **+1 200 Puissance arcanique** ; deux ou trois pièces ne donnent aucun bonus d'ensemble. L'ensemble est rare et très coûteux. Les deux premières pièces du chapitre 7 ne l'activent pas ; les quatre du chapitre 9 l'activent. Ce bonus contribue indirectement aux critiques selon les formules ci-dessus.
+
+**Remplacement confirmé par l'auteur le 21 novembre 2026 — DEC-076 :** **Lame est retiré du système actif et remplacé par Arcanique**, comme les anciens ensembles critiques fusionnés. L'ancienne règle Lame, deux pièces pour +12 % de chance critique, n'est conservée que comme historique ; ne plus la proposer pour un équipement futur. Aucun chapitre ancien n'est réécrit par cet arbitrage ; les caractéristiques individuelles de CC/DCC restent distinctes et admises.
+
 ### Principales 3★ de la version de lecture du chapitre 2
 
 Choisies à partir du tableau de la source dans la délégation de l’auteur : principales à +0 Attaque +7, Défense +7, PV +100, Vitesse +3. HAS-R003, Fatal rare (bleue), 3★, passe de +0 à +3 avec Attaque +7 → +12 → +17 → +22, soit +5 par niveau. Les secondaires de cet inventaire et leur gain chiffré sont des choix éditoriaux, pas des valeurs attestées par le guide.
@@ -135,7 +186,7 @@ Choisies à partir du tableau de la source dans la délégation de l’auteur : 
 | Puissance arcanique | Classe de soutien | 600 |
 | Puissance arcanique | Mage | 2000 |
 
-Hasol possède une classe fonctionnellement **de soutien**, mais sa Puissance arcanique suit un profil **de mage**, pas le profil ordinaire d’un soutien. Sa réserve de mana est hors norme et dépassera largement 1000. Le niveau exact de franchissement et ses valeurs finales ne sont pas encore fixés.
+Hasol possède une classe fonctionnellement **de soutien**, mais sa Puissance arcanique suit un profil **de mage**, pas le profil ordinaire d’un soutien. Sa réserve de mana est hors norme et dépassera largement 1000. DEC-054 fixe sa référence naturelle au niveau 60 à 3 500 Mana et 2 150 de Puissance arcanique ; le niveau exact de franchissement de 1000 et les valeurs intermédiaires restent **À DÉFINIR**.
 
 Ce décalage est au cœur du personnage : ses caractéristiques magiques ne lui donnent pas une compétence offensive. Au début, elle ne peut pas exploiter cette puissance comme un mage malgré ses statistiques. Ne pas changer sa classe ou lui accorder un sort pour expliquer les chiffres.
 
@@ -144,6 +195,39 @@ Ce décalage est au cœur du personnage : ses caractéristiques magiques ne lui 
 Ces repères complètent l’échelle propre au roman ; ils ne sont pas extraits des fiches de Summoners War. La rareté légendaire, le rôle de soutien et le profil statistique magique sont trois informations distinctes. L’équivalence Légendaire ≈ 4★ natif ne signifie pas qu’Hasol doit reprendre toutes les caractéristiques d’un monstre de soutien.
 
 Les valeurs actuelles du manuscrit restent Mana 30 et Puissance arcanique 20 au niveau 1, 310 et 186 au niveau 9, 355 et 211 au niveau 10. Les nouveaux repères ne les remplacent pas automatiquement et ne définissent pas leurs valeurs intermédiaires. Ne pas calculer les gains par division des normes par soixante ; la progression et la date du dépassement restent à établir.
+
+### Référence de Hasol au niveau 60 — CANON, DEC-054
+
+Sans runes, ensembles ni effets temporaires : PV 12 180, Attaque 350, Défense 250, Vitesse 130, Mana 3 500 et Puissance arcanique 2 150. La Vitesse 110 initialement proposée par l'auteur est remplacée explicitement par 130, compatible avec les 115 naturels déjà racontés au niveau 10. Les fiches et gains existants restent inchangés ; aucune courbe linéaire, valeur intermédiaire, date d'atteinte du niveau 60, formule de dégâts ou compétence supplémentaire n'est déduite. La fin du livre I reste située vers le niveau 45. L'avantage des principales en pourcentage sur les principales fixes reste à vérifier selon les valeurs comparées, sans seuil universel déduit de cette fiche.
+
+### Référence de Yoon au niveau 60 — CANON, DEC-051
+
+Sans runes ni effets temporaires : PV 10 380, Attaque 417, Défense 703, Vitesse 111, Mana 1 000 et Puissance arcanique 900. Le Mana suit le repère normal de soutien ; la Puissance arcanique correspond au repère de soutien 600 augmenté de 300. Il s'agit d'une fiche individuelle, pas d'une nouvelle norme pour tous les soutiens. Aucune courbe naturelle, formule de soin ou de dégâts n'en découle ; Yoon reste une soutien polyvalente aux soins inférieurs à ceux d'une spécialiste, et niveau 54 à la fin du livre I.
+
+**Cercles runiques — CANON, DEC-055 :** Yoon dispose de **huit cercles runiques au niveau 60**, distincts des cercles de sorts posés au sol. Cette référence ne fixe ni les paliers d'obtention, ni le nombre au niveau 54, ni les runes effectivement équipées. Elle ne constitue pas une règle universelle pour les autres personnages.
+
+**Positionnement parmi les classes rares — CANON, DEC-063 et DEC-064 :** Yoon et Zio se situent dans le haut du panier de leur classe rare pour le nombre de cercles runiques, avec huit chacun au niveau 60, contre une norme de six. Répartition et plafond éventuel restent **À DÉFINIR**. Ne pas en déduire une supériorité générale en combat ni une nouvelle rareté de classe.
+
+### Nombre normal de cercles runiques au niveau 60 — CANON, DEC-064
+
+| Classe | Nombre normal de cercles au niveau 60 |
+|---|---:|
+| Commune | 4 |
+| Rare | 6 |
+| Légendaire | 8 |
+| Astrale | Inconnue ; les légendes parlent de plus de 10 cercles |
+
+Ces nombres sont des normes, pas des plafonds ni des totaux obligatoires pour chaque personnage. Ils ne fixent ni les paliers d'acquisition avant le niveau 60, ni les écarts possibles, ni l'occupation effective des emplacements. Les nombres individuels déjà validés restent inchangés.
+
+**Classe astrale — CANON pour l'existence de la légende, DEC-065 :** le nombre réel de cercles est inconnu ; les légendes parlent de **plus de dix cercles**. Ce récit n'est pas une norme vérifiée au niveau 60 et ne fixe aucun total exact ni plafond. Ne pas transformer la légende en certitude du système ou extrapoler une progression linéaire.
+
+### Difficulté d'obtention des cercles naturels — CANON, DEC-067
+
+Plus le niveau du personnage augmente, plus l'obtention des cercles naturels devient difficile. Aucun seuil, rythme, coût ou mécanisme chiffré n'est fixé. Les très nombreuses chasses de Ray avec Hasol durant ses propres niveaux 30–40 contribuent à expliquer ses dix cercles au niveau 60, sans fixer les gains de cette période. Ne pas appliquer automatiquement cette difficulté aux compteurs spécifiques de Croissance runique ni confirmer l'hypothèse ci-dessous.
+
+### Hypothèse future au livre II : faire équipe avec Hasol — DEC-066
+
+**CANON pour l'émission de l'hypothèse, pas pour sa véracité :** dans le livre II, l'idée sera avancée que faire équipe avec Hasol permet de collecter davantage de mana et donc d'obtenir plus vite des cercles de mana. Auteur de l'hypothèse, observations, moment et vérification éventuelle **À DÉFINIR**. Aucun effet d'équipe, passif ou mécanisme de collecte n'est confirmé ; ne pas en déduire une hausse de réserve naturelle, de régénération ou d'XP. Ne pas présenter cette idée comme la cause certaine des cercles élevés des compagnons, ni modifier les conditions de Croissance runique.
 
 ## 9. Coût des améliorations et fatigue — CANON, DEC-024
 
@@ -157,29 +241,46 @@ Les valeurs actuelles du manuscrit restent Mana 30 et Puissance arcanique 20 au 
 - L’absence de montant ou de décompte de Mana dans une ancienne fenêtre ne signifie pas que le coût est nul. Aucun débit rétroactif chiffré n’est ajouté aux chapitres précédents.
 - **Précision narrative — DEC-027 :** Hasol connaît le coût personnel en Mana avant sa première journée complète. Le chapitre 4 adapté montre l’apprentissage du suivi de sa réserve et de ses limites en situation, pas la découverte tardive de la règle. Aucune modification des coûts, de la régénération ou des caractéristiques n’en découle.
 
-## 10. Armes imprégnées d’une aura — seuil d’utilisation, CANON DEC-028
+### Bénédiction runique — CANON, DEC-076
+
+Orven mesure au chapitre 7 environ **30 % d'échecs en moins relativement à son propre taux**, pas trente points de pourcentage. Pour un taux de référence `p`, l'observation correspond à environ `0,70 × p`, sans établir une table universelle pour tous les artisans et paliers.
+
+Second effet caché : lors d'un renforcement variable déclenché par une amélioration réussie, Hasol obtient très souvent le maximum autorisé. Ni maximum garanti, ni fréquence chiffrée validée, ni choix libre de la caractéristique, ni dépassement des plafonds ou renforcement supplémentaire. Les propriétés préexistaient à leur découverte ; ne pas réécrire les résultats antérieurs ni annuler les coûts des échecs.
+
+**Œil/Bénédiction — CANON, clarification de l'auteur du 21 novembre 2026, DEC-076 :** les **types de secondaires sont prédéterminés et identiques quel que soit l'artisan**. Œil montre les **maxima accessibles si Hasol améliore la rune**, pas des valeurs finales garanties. Un autre artisan conserve les mêmes types mais peut atteindre des valeurs plus faibles. Bénédiction favorise les maxima **sans les garantir**, et les tentatives peuvent toujours échouer. Cette lecture conserve identité, types et potentiel de la rune ; elle remplace l'ancienne promesse de valeurs à +15 figées et garanties, sans réécrire les améliorations déjà racontées.
+
+## 10. Armes imprégnées d’une aura — CANON DEC-028 et DEC-075
 
 - Il faut être **au minimum niveau 10 pour utiliser une arme imprégnée d’une aura**. Le seuil concerne le personnage qui utilise l’arme, pas l’artisan qui l’a enchantée.
 - Cette restriction est distincte de l’équipement des runes, qui reste sans niveau minimum (DEC-008). Elle ne fixe aucune condition supplémentaire pour les armes ordinaires.
 - Hasol ne pouvait donc pas utiliser une telle arme pendant ses années d’Académie, où elle restait sous le niveau 10. Le seuil explique pourquoi elle n’avait pas eu recours à cette possibilité auparavant ; il ne signifie pas qu’elle ignorait l’existence des auras.
-- L’explication est prévue au chapitre 5, à l’occasion de la découverte de l’aura de l’arme de Zio et de l’éventuelle visite chez le forgeron. Elle n’a pas encore été racontée.
+- L'explication appartient au chapitre 5 v2, version retenue et validée par DEC-072 ; ne pas la présenter comme une découverte encore à écrire dans les chapitres suivants.
 - Les conséquences exactes d’une tentative d’utilisation sous le niveau 10 restent **À DÉFINIR** : ne pas inventer blessure, rejet de l’arme, perte d’enchantement ou consommation de Mana. Aucune exception liée à l’origine de l’aura n’est établie.
-- Cette décision ne valide pas à elle seule les coûts, durées, effets ou modalités des enchantements et d’Aura runique encore à arbitrer pour la suite.
+- Le seuil ne définit pas le tarif des enchantements du forgeron, qui reste **À DÉFINIR** ; Aura runique dispose désormais des paramètres distincts ci-dessous.
+
+### Aura runique et Infiltration runique — CANON, DEC-075
+
+- Aura runique se débloque au chapitre 5 dans la première vie, lors du passage au niveau 11. Chaque lancement consomme **200 Mana et détruit définitivement une rune**. L'aura élémentaire dure jusqu'à **24 heures** ; ne pas en déduire un tarif de forge.
+- Le critique se produit **au lancement d'Aura runique**. Il déclenche Infiltration runique pendant les **trente premières secondes**, pas pendant toute la journée. Un critique ordinaire à l'épée ne déclenche jamais cet effet.
+- Pendant l'infiltration, les coups de l'arme imprégnée ont un plancher de dégâts égal à la **Puissance arcanique effective d'Hasol**, sans réduction de ce plancher par la Défense adverse. Exemple de l'auteur : PA 300 contre Défense 1 000 → au moins 300 dégâts ; ce n'est ni une soustraction de 300 Défense ni un plafond si le coup inflige normalement davantage.
+- Après trente secondes, l'aura élémentaire normale subsiste jusqu'à son terme. Chaque nouvelle tentative d'activation critique paie de nouveau son coût ; aucune relance gratuite n'est déduite. Paramètres non précisés (remplacement/cumul des auras, ordre avec affinités et critiques des coups, arrondis) **À DÉFINIR**.
+- **Compatibilité tranchée par l'auteur — DEC-078 :** Aura active est disponible au niveau 1 astral, **mais le seuil d'utilisation d'une arme à aura reste niveau 10, sans exception**. Ne pas montrer Hasol utilisant personnellement cette arme au niveau 1. L'intérêt des recruteurs vient du potentiel de sa classe, sans noms ou scènes de recrutement inventés.
 
 ## 11. XP des boss, compteurs et moyens d'Hasol — futur CANON DEC-032
 
 - Dans la trajectoire future d'Hasol, l'essentiel de l'XP provient des boss de donjon après l'abandon rapide du farm intensif de petits monstres au profit du groupe. Aucun montant, bonus de boss, mécanisme de partage ou barème d'XP universel n'est défini par cette orientation.
 - Croissance runique suit les monstres admissibles, pas le volume d'XP. Une élimination de boss ne doit pas être transformée en plusieurs centaines d'éliminations parce qu'elle rapporte beaucoup d'XP. Le seuil de 1 000 reste inchangé ; l'attribution des éliminations en groupe ne se déduit pas du seul partage d'XP et reste à préciser avant un calcul détaillé.
-- Cette activité permet de monter de niveau tout en franchissant peu souvent les seuils de mille monstres. L'évolution ultérieure DEC-038 ajoute un autre mode de gain sans modifier cette observation sur le compteur initial. Le nombre total de cercles à vingt-cinq ans et en fin de livre reste **À DÉFINIR**, sans calcul automatique depuis le niveau du personnage.
+- Cette activité permet de monter de niveau tout en franchissant peu souvent les seuils de mille monstres. L'évolution ultérieure DEC-038 ajoute un autre mode de gain sans modifier cette observation sur le compteur initial. Le nombre total de cercles à vingt-cinq ans reste **À DÉFINIR** ; DEC-056 fixe **seize cercles runiques en fin de livre I**, sans calcul automatique depuis le niveau du personnage.
 - Vers vingt-cinq ans, Œil runique contribue à la réputation artisanale et à des moyens financiers colossaux, suffisants pour financer des améliorations personnelles jusqu'à +15. La capacité à payer ne garantit ni la réussite de chaque tentative ni un travail illimité ; temps, Mana et fatigue restent applicables.
-- La vue des caractéristiques finales prédéterminées à +15 ne fixe pas les probabilités de réussite et ne change pas les affixes. Les runes effectivement améliorées doivent être suivies individuellement, sans créer un inventaire futur chiffré absent des sources.
+- Œil révèle les types prédéterminés et les maxima accessibles à +15 si Hasol améliore la rune, **pas des valeurs garanties** (DEC-076). Il ne fixe pas les probabilités de réussite et ne change pas les types de secondaires. Les runes effectivement améliorées doivent être suivies individuellement, sans créer un inventaire futur chiffré absent des sources.
 
 ## 12. Équipes et accès aux donjons — CANON DEC-035
 
 - Une équipe compte au maximum cinq membres et cinquante points de classe. Les deux plafonds s'appliquent simultanément ; une place libre ne suffit pas si le budget de points est épuisé.
 - L'accès aux donjons demande **au minimum trois membres**. Les chasses extérieures en solo et en duo ne sont pas interdites par cette règle.
 - Le duo Hasol/Yoon (20 + 10 = 30 points) ne remplit pas ce minimum. L'adhésion de Ray **commun**, cinq points (DEC-036), porte le groupe à trois membres, 35/50, accès rendu possible sous cette condition d'effectif. Ne pas en déduire qu'il n'existe aucune autre condition de donjon.
-- Zio rare rejoint ultérieurement le trio : quatre membres, 45/50 (20 + 10 + 5 + 10). Le futur Ranger commun prévu par DEC-037 ajoute cinq points : cinq membres et 50/50. Le calendrier reste à définir ; cette adhésion future de Zio ne vaut pas entrée dès sa première supervision.
+- Au livre I, Zio rare rejoint le trio au chapitre 11, quand Yoon termine l'Académie (DEC-067) : quatre membres, 45/50 (20 + 10 + 5 + 10). Samia, Ranger commune prévue par DEC-037, ajoute cinq points au chapitre 12 : cinq membres et 50/50. Dates précises à définir ; Zio n'est pas membre officiel dès sa première supervision.
+- **Nouvelles vies — CANON, DEC-078/080 :** Samia ne rejoint plus l'équipe principale. Lorsque Hasol Astrale, Yoon Rare, Zio Rare et Ray Commun sont réunis : 25 + 10 + 10 + 5 = **50/50 points et 4/5 membres**. La place restante ne permet pas un ajout à cinq points. Cette composition de référence n'impose pas les mêmes rencontres ou recrutements à chaque réincarnation ; Samia n'est pas effacée du récit et l'équipe du livre I reste inchangée.
 - Nature, contrôle et exceptions de la restriction de donjon, statut d'un accompagnateur extérieur et conséquences d'une perte de membre en cours d'expédition restent **À DÉFINIR**. Ne pas inventer verrou magique, sanction, partage d'XP ou règle de butin.
 
 ## 13. Ranger et apprentissages futurs d'Hasol — CANON DEC-037
@@ -187,34 +288,43 @@ Les valeurs actuelles du manuscrit restent Mana 30 et Puissance arcanique 20 au 
 - La Ranger commune du groupe est **Samia Claire** (DEC-041) ; elle combine archerie, détection des pièges et ouverture des coffres. Les techniques et compétences exactes du personnage ne sont pas encore décrites.
 - Vers la fin du livre I, Hasol apprend ces fonctions d'exploration auprès de Samia. Cet apprentissage conduit à une **amélioration du même passif Œil runique**, qui conserve son nom et ses effets de lecture des runes tout en permettant de voir les pièges. Ce n'est ni un second passif ni un renommage en Œil arcanique.
 - **Main runique** est un sort actif permettant d'ouvrir les coffres, acquis à la suite de cet apprentissage. Il ne s'agit pas du premier sort offensif du niveau 40 ; aucun effet de combat n'est établi pour Main runique.
-- Déclencheurs exacts de l'évolution, niveaux, coûts, portée, durée, récupération, difficulté, types de pièges et coffres concernés restent **À DÉFINIR**. Détecter ne signifie pas automatiquement désamorcer ; ouvrir des coffres ne signifie pas contourner toute protection ou réussir sans limite.
-- Dans le livre II, l'évolution d'Œil runique appartient à l'ancien passif accessible avec Arcaniste Astral ; les adaptations détaillées de cette classe restent à documenter. **Main runique doit être réapprise rapidement**, selon des conditions encore à définir. Aucun accès automatique au niveau 1 ou transfert global des anciennes compétences actives n'est adopté.
-- Après ce réapprentissage, Hasol pourra couvrir ces fonctions sans Ranger indispensable dans l'équipe. Cela ne supprime pas l'intérêt de cette classe ni ne fixe le devenir du personnage dans la seconde chronologie.
+- Dans la première vie, déclencheurs exacts, niveaux, coûts, portée, durée, récupération et protections concernées restent **À DÉFINIR**. Détecter ne signifie pas automatiquement désamorcer.
+- **Remplacement explicite de la règle de réapprentissage — DEC-078 :** dans les nouvelles vies astrales, Œil runique avec détection des pièges et **Main runique active** sont disponibles dès le niveau 1. Main ouvre les **coffres et les portes sans restriction** ; ce choix de l'auteur remplace l'idée transmise qui attribuait leur ouverture à Aimant runique. Ne pas ajouter un échec lié à une serrure ou une catégorie de porte exclue ; coût, portée et modalités non fixés restent **À DÉFINIR**. Cela n'accorde aucun désamorçage de piège.
+- Cette autonomie explique l'absence de Samia dans l'équipe principale des nouvelles vies, sans supprimer l'intérêt général des Rangers ni modifier l'apprentissage auprès d'elle au livre I.
 
 ### Cas futur du boss invocateur — DEC-039
 
 - Un boss de donjon niveau 32 invoque en masse des monstres niveau 11 tant qu'un piège n'est pas désactivé. Le groupe de quatre doit fuir et Zio propose un Ranger avant le retour ; il s'agit d'un cas narratif précis, pas du fonctionnement universel des boss ou des donjons.
-- Position et nature du piège, débit et limites des invocations, moyens de le repérer et de le désactiver, comportement du boss après désactivation et résultat du retour **À DÉFINIR**. La désactivation n'établit pas une victoire automatique ; aucune invulnérabilité préalable du boss n'est fixée.
-- **Admissibilité précisée par DEC-040 :** les invocations de ce donjon peuvent alimenter Croissance runique lorsqu'Hasol les élimine personnellement et remplit les conditions de niveau du compteur initial. L'auteur prévoit qu'elle exploite ce mécanisme dans sa seconde vie. XP, partage, cadence, nombre exact d'invocations et gains restent **À DÉFINIR** ; ne pas inventer un plafond, une interdiction de farm ou une source infinie d'XP.
+- Position et nature du piège, débit d'invocation, moyens de le repérer et de le désactiver, comportement du boss après désactivation et résultat du retour **À DÉFINIR**. **DEC-081 : les invocations sont infinies tant que le piège reste actif et le boss en vie** ; ne pas inventer de limite de stock. La désactivation n'établit pas une victoire automatique ; aucune invulnérabilité préalable du boss n'est fixée.
+- **Admissibilité — DEC-040/081 :** les monstres invoqués alimentent Croissance runique lorsqu'Hasol les élimine personnellement et remplit les conditions de niveau du compteur initial. Leur XP est **la moitié de celle d'un monstre classique comparable (×0,5)**. XP de base, partage, arrondis, cadence et gains effectifs restent **À DÉFINIR**. La production infinie ne garantit ni sécurité, ni ressources inépuisables, ni temps de combat illimité.
+- **Levier narratif des livres II et III — DEC-081 :** exploiter volontairement cette production infinie est une stratégie majeure pour les cercles. Le coefficient d'XP distingue leur acquisition de la progression de niveaux ; il n'arrête pas l'XP et ne supprime pas les seuils du passif. Aucun quota anti-farm ne doit annuler ce choix explicite de l'auteur.
+- **Accès et concurrence — DEC-082 :** au livre II, d'autres groupes gênent Hasol et tuent le boss, interrompant la production. Au livre III, elle cherche à **privatiser le donjon** pour sécuriser l'exploitation. Statut, autorité, modalités, coût et succès à définir ; pas de propriété ou fermeture automatique liée à sa classe. Ni réapparition du boss ni destruction définitive du donjon déduites de sa mort.
 - **Fenêtre connue :** les monstres niveau 11 satisfont les seuils de l'ancien effet quand Hasol est niveau 10–19 (monstres 1+) et 20–29 (monstres 10+). Dès son niveau 30, ils ne satisfont plus l'exigence de monstres 20+. L'accès au passif dès le niveau 1 d'Arcaniste Astral ne définit pas à lui seul son admissibilité avant le niveau 10.
 - Garder le piège actif pour produire des invocations ne signifie pas achever le boss plusieurs fois. Les invocations niveau 11 ne sont pas des boss et n'alimentent pas le compteur de cent boss de DEC-038. Les conditions d'accès à trois membres restent applicables ; le souvenir d'Hasol et son autonomie technique n'accordent pas une entrée en solo.
 
-## 14. Évolution de Croissance runique après cent boss — futur CANON DEC-038
+## 14. Croissance runique et évolution après cent boss — CANON et futur DEC-038
+
+Dans la première vie, le passif se débloque au niveau 10 et accorde un cercle et un emplacement par **1 000 éliminations personnelles admissibles**, avec huit paliers rétroactifs après plus de huit mille slimes : deux à dix cercles. Admissibilité connue : Hasol 10–19 → monstres 1+ ; Hasol 20–29 → monstres 10+ ; Hasol 30–39 → monstres 20+, et ainsi de suite. Ne pas déduire de ce tableau une règle avant le niveau 10 astral.
+
+Le chapitre 9 validé raconte deux gains supplémentaires, dix à douze cercles (DEC-072). Son suivi local d'éliminations supplémentaires ne fixe pas à zéro le reliquat historique inconnu de la première vie : articulation des compteurs à vérifier avant une nouvelle fenêtre chiffrée, sans recompter les huit paliers déjà attribués.
 
 - **Déclencheur :** cent boss de donjon achevés personnellement par Hasol ; ce jalon survient vers le niveau 38 dans la trajectoire prévue. Le niveau 38 n'est pas une condition minimale supplémentaire fixée pour le déblocage. Achever personnellement ne signifie pas devoir combattre seule : un combat de groupe peut compter si elle porte le coup final.
 - **Nouvel effet :** un cercle de Mana par tranche de cent boss de donjon personnellement achevés, **quel que soit leur niveau**. Ne pas ajouter de seuil de niveau de boss ou de dégressivité non décidée.
 - **Premier gain immédiat :** les cent boss qui déclenchent l'évolution donnent son premier cercle ; les gains suivants correspondent aux totaux 200, 300, etc. Ne pas demander cent autres boss pour ce premier gain ni compter les cent initiaux deux fois.
 - **Cumul confirmé :** l'ancien effet par mille monstres admissibles reste actif. Un même boss peut avancer le compteur des boss et, s'il remplit les conditions de l'ancien effet, celui des mille monstres. Il reste une seule élimination dans le compteur initial ; son XP ne le transforme pas en un grand nombre de monstres.
 - **Suivi :** conserver deux compteurs distincts et leurs gains déjà attribués. Si les deux seuils sont franchis sur le même boss, chaque effet accorde son gain ; ne pas réattribuer les anciens paliers du compteur de mille au moment de l'évolution.
-- **État futur :** aucun centième boss ni cercle supplémentaire n'est réputé déjà acquis dans les chapitres actuels. Le total de cercles, l'équipement associé, le nombre de boss avant la fin du livre et le chapitre exact restent **À DÉFINIR**.
-- **Livre II :** l'évolution relève du passif futur hérité, mais ses compteurs dans la seconde vie et leur éventuel report ne sont pas fixés. Ne pas transférer automatiquement les cent boss ou les cercles gagnés de la première chronologie.
+- **État futur :** le centième boss n'est pas encore acquis au chapitre 9 ; il est placé au chapitre 14 par DEC-045. **DEC-056 fixe seize cercles runiques, soit seize emplacements, à la fin du livre I**, vers le niveau 45. L'équipement associé, l'occupation effective, le nombre final de boss et la répartition des gains entre les deux compteurs restent **À DÉFINIR** ; ne pas déduire ces compteurs du seul total final. Préserver les dix cercles des chapitres antérieurs et les douze du chapitre 9.
+- **Nouvelles vies — CANON, DEC-078 :** les compteurs de Croissance runique repartent à zéro à chaque nouvelle vie. Cette remise à zéro ne s'applique pas au reliquat historique encore inconnu de la première vie et n'établit ni le nombre de cercles disponibles au réveil ni un report des cercles acquis. Ne pas transférer les éliminations/boss antérieurs ou réattribuer leurs anciens gains.
+
+**Exceptions de classe commune — CANON, DEC-062 :** Ray et Samia sont des prodiges et possèdent un nombre de cercles runiques anormalement élevé pour leur classe : dix pour Ray au niveau 60, sept pour Samia (rattachement chronologique à définir). Ces exceptions ne changent pas leur rareté et ne fixent ni norme chiffrée ni plafond pour les autres personnages de classe commune.
 
 ## 15. Sage runique de Yoon : soutien et cercles au sol — CANON DEC-046
 
 | Capacité | Forme fixée | Obtention et usage connus |
 |---|---|---|
-| Résonance runique | Renforcement actif ciblé, temporaire, principales des runes ; ajoute les deux premières secondaires de chaque rune au niveau 40 | Disponible à la rencontre niveau 5 ; niveau initial exact à définir ; évolution 40, DEC-050 |
-| Chant runique | Zone de soin progressif posée ; pas de canalisation continue | Disponible à la rencontre niveau 5 ; niveau initial exact à définir |
+| Résonance runique | Renforcement actif ciblé, temporaire, principales des runes ; ajoute les deux premières secondaires de chaque rune au niveau 40 | Niveau 1 ; évolution 40, DEC-050/074 |
+| Chant runique | Zone verte posée, autonome ; restaure 10 % des PV maximums de Yoon toutes les cinq secondes | Niveau 1, DEC-074 ; durée, coût et portée à définir |
+| Vague runique | Petite onde offensive de Lumière, dégâts modestes ; ne transforme pas Yoon en mage spécialisée | Niveau 1, DEC-074 |
 | Domaine des Entraves Runiques | Zone de contrôle de foule par ralentissement des ennemis | Prochain sort, niveau 20 ; pas de déblocage déplacé au niveau 10 |
 | Second soin, nom à définir | Marque runique posée sur un allié ; soin sur la durée ciblé | Niveau 30, DEC-049 ; distinct du cercle de soin au sol |
 | Tempête arcanique | Zone posée de dégâts sur la durée, cercle rouge runique | Niveau 50, DEC-048 ; aucun usage anticipé au niveau 30 |
@@ -227,20 +337,110 @@ Les valeurs actuelles du manuscrit restent Mana 30 et Puissance arcanique 20 au 
 - Le soin est posé, permettant à Yoon d'agir ensuite ; l'ancienne version qui exigeait un chant constamment maintenu par concentration est remplacée. Cela ne définit pas le temps de lancement, le maintien en Mana ou les possibilités exactes de plusieurs sorts simultanés. Le coût de maintien déjà établi du Domaine n'est pas supprimé par analogie.
 - Résonance affecte l'allié choisi, pas automatiquement tous les alliés proches. Avant le niveau 40 de Yoon, seules les principales sont amplifiées. Au niveau 40, DEC-050 ajoute les deux premières secondaires présentes sur chaque rune ; les secondaires suivantes et les bonus d'ensemble restent exclus. Principales fixes ou en pourcentage, modalités de calcul et amplification numérique à définir.
 - **Évolution de Résonance — DEC-050 :** l'actif ciblé reste actif ciblé, sans conversion en aura passive. Une rune sans secondaire ne reçoit pas d'affixe, une rune n'en ayant qu'une ne bénéficie que de celle-ci. L'ordre exact désignant les deux premières secondaires (apparition ou affichage), les coefficients appliqués et leur interaction avec les autres contributions restent **À DÉFINIR** ; ne pas inventer un facteur identique pour toutes les caractéristiques ou une règle d'arrondi.
-- Paramètres de soin de la transmission (10 % des PV maximums de Yoon toutes les cinq secondes, cinq mètres, trente secondes) non adoptés automatiquement. Avant une démonstration chiffrée, définir l'assiette et vérifier le résultat par rapport au rôle de soutien souhaité.
+- **Chant, validation directe ultérieure de l'auteur le 21 novembre 2026 — DEC-074 :** soin de **10 % des PV maximums de Yoon toutes les cinq secondes**, zone posée autonome. Cette validation fixe assiette, quantité et cadence ; elle ne valide pas les anciens cinq mètres/trente secondes. **Durée, coût et portée restent À DÉFINIR** ; ne pas extrapoler ces chiffres à la marque de soin niveau 30.
+- **Vague runique — CANON, DEC-074 :** **5 Mana**, dégâts de base **20 % de la Puissance arcanique de Yoon**, **10 mètres**, incantation **5 secondes**, **aucun temps de recharge**, aucun effet supplémentaire ; dégâts soumis à la Défense et aux affinités. Les cinq secondes remplacent l'ancienne proposition d'environ une seconde. Son élément **Lumière** remplace l'ancienne absence d'affinité ; seule cette attaque est ainsi fixée, pas toute la classe ou les autres sorts.
+- La validation chiffrée de Chant provient de la réponse directe ultérieure de l'auteur, **pas d'une approbation automatique de la note de ChatGPT**. La note qui exclut toutes les secondaires de Résonance décrit le fonctionnement avant 40, pas une annulation de DEC-050.
 - Le niveau final de Yoon est **54 au chapitre 16** ; Domaine au niveau 20, marque de soin au 30, évolution de Résonance au 40 et Tempête arcanique au 50 sont établis. Caractéristiques, gains intermédiaires, paramètres et autres capacités éventuelles restent **À DÉFINIR**. Ce repère est distinct du niveau final approximatif 45 d'Hasol, sans nouvelle formule d'XP.
 
-## 16. Questions à définir
+## 16. Gardien de Zio — CANON DEC-053
+
+- **Fiche naturelle au niveau 60 :** PV 11 850, Attaque 648, Défense 593, Vitesse 115, Mana 1 000, Puissance arcanique 600. Profil magique de soutien selon DEC-015 ; runes et effets de compétences comptés séparément.
+- **Dernier Rempart — autodestruction :** obtenu au niveau 50, utilisé au niveau 61 lors de la catastrophe finale du livre I. Il tue Zio et le démon stellaire, permettant à Hasol de survivre (DEC-045 et DEC-058). Mécanisme détaillé, portée, conditions et calcul des dégâts **À DÉFINIR**.
+- Le Paladin d'Eden Eternal inspire ses passifs et sorts ; ses glyphes servent de référence pour adapter les bonus de runes dans les cercles. Aucun nombre de cercles, inventaire, coefficient, soin ou passif externe adopté automatiquement ; classe Gardien, Rare, conservée.
+- La fiche au niveau 61 et les gains intermédiaires restent **À DÉFINIR**. Ce niveau ne fixe aucune règle de butin au-delà de 60.
+- **Cercles de Zio — CANON, DEC-055 :** huit cercles runiques au niveau 60, soit huit emplacements. L'occupation, l'inventaire, les étapes d'acquisition et le nombre au niveau 61 restent **À DÉFINIR**. Ce nombre vient de l'auteur, pas du nombre de glyphes du guide ; aucune règle universelle de progression n'en découle.
+
+### Compétences du Gardien — CANON, DEC-058
+
+**Précision CANON — DEC-071 :** Dernier Rempart n'est pas systématiquement mortel. Zio choisit les PV qu'il sacrifie ; plus le pourcentage conservé est faible, plus l'explosion est puissante. Conserver 0 % est fatal et maximise le sort. Au dénouement, il choisit de tout sacrifier pour être certain de vaincre le démon. Ni obligation d'être déjà blessé avant le lancement, ni formule, dégâts infinis ou victoire universelle n'en découlent. Assiette exacte du pourcentage et interactions restent à définir.
+
+Progression propre à Zio, validée par l'auteur ; ce n'est pas un calendrier universel de déblocage des classes. Il protège et tient la ligne, avec un soin personnel secondaire, sans remplacer le soutien de Yoon.
+
+| Niveau | Type | Compétence | Effet et limites validés |
+|---|---|---|---|
+| 1 | Actif | Heurt du Gardien | Coup de bouclier renforcé par le Mana, destiné à déséquilibrer et interrompre une action. Interruption non garantie contre une cible trop résistante ou une attaque impossible à arrêter. |
+| 1 | Passif | Maîtrise du bouclier | Améliore l'efficacité défensive du bouclier lors d'un blocage correct. Ne couvre pas automatiquement tous les angles ; placement et technique essentiels. |
+| 10 | Actif | Défi du Gardien | Provocation ciblée incitant un ennemi à concentrer ses attaques sur Zio. Pas de contrôle absolu de l'esprit ; efficacité et résistance selon la cible à définir. |
+| 20 | Actif | Égide protectrice | Protection magique posée sur un allié, absorbant une quantité limitée de dégâts. Peut être brisée, ne rend pas invulnérable, ne soigne pas les blessures et ne transfère pas automatiquement celles-ci à Zio. |
+| 20 | Passif | Ancrage du Gardien | Résistance accrue aux déséquilibres et déplacements forcés lorsqu'il prend appui pour défendre une position. Pas d'immunité : une force suffisante peut le déplacer ou briser sa garde. |
+| 30 | Actif | Bénédiction de vigueur | Soin personnel progressif de maintien en première ligne. Ni soin instantané ni restauration automatique des blessures graves ; puissance et coût limitants à définir. |
+| 40 | Actif | Rempart de lumière | Protection élargie devant son bouclier pour abriter ses alliés. Directionnelle ; Zio maintient sa position et l'effet. Les attaques venant d'autres directions restent dangereuses. |
+| 50 | Actif | Dernier Rempart | Sacrifice de PV réglable (DEC-071). Moins Zio conserve de PV en pourcentage, plus l'explosion est puissante. Sacrifice partiel possible ; à 0 % conservé, mort de Zio et puissance maximale. Préparation, portée, formule, déclenchement et sécurité des alliés restent à définir. |
+| 60 | Passif | Volonté inébranlable | Améliore le maintien des protections malgré douleur et fatigue. Ne supprime ni dégâts, ni coûts en Mana, ni incapacités physiques ; aucun maintien après la mort. |
+
+- **Paramètres À DÉFINIR :** coûts, durées, récupérations, puissances, portées, nombres de cibles, cumuls, modalités de lancement et interactions, sans ajouter de formule ou d'immunité implicite. Rempart de lumière exige le maintien de position et d'effet, sans coût de maintien chiffré déduit.
+- **Continuité :** au niveau 45 prévu au chapitre 5, Zio dispose des capacités jusqu'au niveau 40, mais pas de Dernier Rempart ni de Volonté inébranlable. À l'Académie, son niveau reste inconnu : ne pas lui attribuer rétroactivement une capacité de niveau supérieur. Dates de découverte de l'ultime et du passif de niveau 60 à fixer.
+
+**Jalons de cercles d'Hasol — CANON, DEC-057 :** 32 cercles et emplacements à la fin du livre II, 36 à la fin du livre III. Niveaux correspondants, acquisition, compteurs et équipement restent **À DÉFINIR** ; ces totaux ne définissent pas une progression par niveau ni un report automatique depuis la première vie. Les seize cercles de fin du livre I (DEC-056) sont préservés. Les chiffres des équipements simulés ne deviennent pas des règles de calcul.
+
+Avec la dernière activation en fin de livre II, le jalon de **32 cercles se situe avant ce dernier retour** ; il ne valide pas 32 cercles au réveil de la vie 13. Le report des cercles reste non validé, distinct de la remise à zéro des compteurs de Croissance et de la conservation de Mémoire runique.
+
+## 17. Mage de feu de Ray — CANON, DEC-069
+
+Ray reste de classe commune. Son répertoire repose sur des techniques directes, rendues efficaces par la maîtrise, les choix tactiques et les runes, sans pouvoirs exceptionnels supplémentaires déduits de ses cercles. Progression individuelle, pas calendrier universel des classes.
+
+| Niveau | Type | Compétence | Effet et limites validés |
+|---|---|---|---|
+| 1 | Actif | Boule de feu | Projectile enflammé avec petite déflagration à l'impact ; peut manquer ou être intercepté, sans poursuite automatique. Reste son sort emblématique. |
+| 1 | Passif | Affinité du feu | Facilite la manipulation du feu magique et la stabilité de ses sorts ; aucun contrôle libre de tous les incendies ou technique hors répertoire. |
+| 10 | Actif | Souffle ardent | Jet de flammes en cône à courte portée ; exige un maintien et expose Ray. Pas une respiration de dragon. |
+| 20 | Actif | Trait incandescent | Projectile concentré, plus rapide et précis que Boule de feu, monocible ; ni explosion de zone ni pénétration automatique des armures. |
+| 20 | Passif | Résistance à la chaleur | Réduit les effets de la chaleur et des brûlures sur Ray ; protection partielle, sans immunité à son propre feu ou à celui des adversaires. |
+| 30 | Actif | Mur de flammes | Ligne de feu temporaire gênant une approche ou couvrant un repli ; traversable à ses risques, non solide et sans contrôle absolu. |
+| 40 | Actif | Déflagration | Explosion de feu autour d'un point visible ; incantation plus exigeante que les projectiles, sans projection ni étourdissement garanti. |
+| 40 | Passif | Combustion maîtrisée | Réduit les pertes de Mana lors des sorts de feu, améliorant l'endurance ; ni sort gratuit ni récupération automatique de Mana. |
+| 50 | Actif | Fournaise | Zone de flammes intenses maintenue, consommation soutenue de Mana et concentration ; choix entre maintien du sort et reprise de mobilité et des autres possibilités d'action. |
+
+- **Sécurité des alliés :** les flammes de Ray peuvent menacer ses compagnons dans leur trajectoire ou leur zone. Aucune exclusion automatique des alliés ; modalités précises des dégâts et interactions avec les protections **À DÉFINIR**. Ne pas généraliser cette décision à tous les sorts de tous les personnages.
+- **Coordination :** ralentissement de Yoon, protection de Zio et informations de terrain de Samia offrent des occasions tactiques, sans multiplicateur de dégâts, invulnérabilité ou incantation ininterruptible automatiques. La coopération en duo avec Hasol ne lui donne pas de protection automatique.
+- **Paramètres À DÉFINIR :** coûts, puissance, durée, portée, récupération, temps d'incantation, cumuls, contraintes de maintien et interruptions. Ni météore gigantesque ni feu ignorant toute défense adoptés.
+- **Continuité :** au niveau 22 du sauvetage, compétences jusqu'au niveau 20 seulement ; au niveau 56 de fin de livre I, six actifs et trois passifs disponibles. Niveau à l'Académie et scènes exactes de déblocage restent à définir.
+
+**Endurance magique de Ray — CANON, DEC-070 :** ses sorts épuisent rapidement sa réserve de Mana. Il doit gérer sa consommation ; sa Puissance arcanique et ses nombreux cercles ne garantissent pas une longue autonomie. Combustion maîtrisée limite les pertes mais ne supprime pas cette faiblesse. Aucun barème de coût, rythme de régénération, nombre de sorts avant épuisement ou essoufflement physique automatique n'est défini.
+
+## 18. Anneau runique et Aimant runique — futur CANON, DEC-077
+
+- L'Anneau runique offert par la famille de Ray après son sauvetage est remis personnellement par Ray. Il possède un **inventaire spécialisé réservé aux runes** ; l'inventaire ordinaire mélange les objets et n'offre pas ce tri natif. Ce n'est ni un emplacement de rune supplémentaire ni un bonus statistique établi. Capacité, transferts et conservation à travers les retours **À DÉFINIR**.
+- Dans la première vie, **Aimant runique se débloque au niveau 21 après un combat en portant l'anneau**. L'interface indique seulement que les chances d'obtention de runes sont améliorées, sans taux affiché. Les effets réels favorisent aussi davantage d'étoiles et une meilleure qualité selon les distributions conditionnelles de la section 5 ; seule la fréquence globale reste non chiffrée. Ne pas révéler immédiatement ces effets cachés à Hasol ni garantir un butin.
+- Dans **chaque nouvelle vie**, Aimant doit être redébloqué **après avoir combattu avec l'anneau** ; il n'est pas un ancien passif automatiquement présent au niveau 1 astral. Niveau exact de ce nouveau déblocage **À DÉFINIR** ; ne pas imposer automatiquement 21 à toutes les vies.
+- L'ouverture des coffres et portes appartient à **Main runique**, pas à Aimant (correction explicite DEC-078). Le niveau du monstre fixe le plafond d'étoiles ; distributions conditionnelles pour le seul niveau 30 et tables de grades validées en section 5. La probabilité globale d'obtention et la dépendance éventuelle entre étoiles et grade restent inconnues.
+
+## 19. Arcaniste Astral — futur CANON, DEC-078
+
+Hasol reste Arcaniste runique légendaire au livre I, vingt points. Dans les nouvelles vies, Arcaniste Astral vaut **25 points**. Dès son niveau 1, cette classe donne :
+
+| Capacité | Type et périmètre retenus |
+|---|---|
+| Bénédiction runique | Passif avec ses propriétés établies |
+| Croissance runique | Passif ; compteurs remis à zéro à chaque nouvelle vie, pas report automatique de cercles |
+| Œil runique | Passif, types prédéterminés et maxima accessibles à +15 si Hasol améliore, sans garantie de réalisation ; détection des pièges |
+| Main runique | **Actif**, ouverture des coffres et portes **sans restriction** |
+| Aura runique | **Actif** disponible dès le niveau 1 ; utilisation d'une arme à aura seulement au niveau 10, sans exception |
+
+Cette liste explicite remplace la simplification « anciens passifs seulement » et l'ancien réapprentissage rapide de Main. Elle n'accorde pas toutes les actives anciennes ni le sort offensif du niveau 40. **Aimant runique reste conditionné au combat avec l'anneau dans chaque vie ; Mémoire runique reste inaccessible avant R11**. L'accès à Croissance avant le niveau 10 ne définit pas les seuils d'admissibilité des monstres dans cette tranche.
+
+## 20. Rune temporelle et Mémoire runique — futur CANON, DEC-079
+
+- **Comptage :** vie 1 au livre I ; R1 à R11 = vies totales 2 à 12 au livre II ; vie 13 au livre III. Le livre I se termine sur l'activation, ses sons et le basculement ; le réveil de R1 ouvre le livre II. Chaque retour mène **une semaine avant la Révélation**.
+- **Activation n (1 à 12) :** **12 DONG puis n DING**. La première quitte la vie 1 pour R1 ; à la fin de Rk, l'activation k+1 mène à la vie suivante. Les drames peuvent se répéter : ne pas imposer onze tragédies entièrement différentes.
+- **Signature visuelle :** une horloge runique avec sablier accompagne les sons ; le mécanisme progresse à chaque DONG et à chaque DING. Les détails supplémentaires proposés par ChatGPT ne sont pas des lois physiques du système.
+- Les drames provoquent la notification d'instabilité émotionnelle de l'hôte puis l'activation temporelle. **Clarification CANON de l'auteur — DEC-079 :** face à sa propre mort imminente, notamment contre le démon en R5, la détresse d'Hasol déclenche la rune **avant le coup fatal**. Raconter ce dernier instant sans instaurer une mort effective suivie d'un déclenchement post mortem : le déclencheur reste l'instabilité émotionnelle, pas la mort.
+- Hasol seule conserve des souvenirs, **imparfaits avant R11**, revenant notamment en flashs et cauchemars. Ceux-ci sont des souvenirs vécus, pas une vision infaillible du futur. En **R11**, dans une bibliothèque, la condition « l'hôte a lu **plus de 100 000 livres** » débloque **Mémoire runique**, passif de mémoire parfaite. Le caractère cumulatif du seuil entre vies reste **À DÉFINIR**.
+- Le retour précis du souvenir de Zio et de son sacrifice submerge Hasol : dernière activation **12 DONG + 12 DING**, puis rune fissurée et réduite en poussière. Fin du livre II. Le livre III présente sa dernière vie, mémoire parfaite conservée et **aucun nouveau retour**. Mémoire parfaite ne signifie ni omniscience ni connaissance des conséquences inédites de ses changements.
+- Âges, niveaux, cercles, inventaires, monnaie et autres reports ne se déduisent pas de ce mécanisme. Les jalons de 32 et 36 cercles aux fins des livres II et III restent distincts des compteurs remis à zéro.
+
+## 21. Questions à définir
 
 - Tables complètes par rang des principales PV, Attaque, Défense, Vitesse, Mana et éventuelles autres caractéristiques, au-delà des valeurs adoptées ci-dessus.
 - Valeurs initiales et gains des secondaires, distincts des tables ci-dessus.
 - Barèmes numériques des renforcements des secondaires, au-delà des valeurs individuelles des deux cadeaux.
 - Arrondis intermédiaires et calcul des bonus d’ensemble.
-- Effets exacts de précision et résistance, taux naturels de critique et dégâts critiques, plafonds éventuels et calculs associés.
+- Effets exacts de précision et résistance, arrondis des critiques et interactions des bonus ; formules CC/DCC désormais fixées par DEC-076, coefficients élémentaires par DEC-073.
 - Les valeurs individuelles du don maternel dans la version de lecture du chapitre 2 restent à valider avec le texte (DEC-019). La composition quatre Fatal, quatre Gardien, deux Énergie est fixée par DEC-020, sans nouvelle question sur les nombres par ensemble.
 - Obtention de runes sur les monstres de niveau supérieur à 60 et probabilités de butin.
 - Progression naturelle de Hasol : croissance physique après la nouvelle base 4★ et progression magique cohérente avec DEC-015. Les normes magiques au niveau 60 sont connues, mais les courbes et le niveau de franchissement de 1000 Mana par Hasol restent à définir.
 - Tables des principales permettant de vérifier la bascule rapide souhaitée entre fixe et pourcentage ; l’explication et l’assiette naturelle sont désormais établies au chapitre 4, sans ordre de calcul des ensembles ou arrondis supplémentaires.
 - Coûts en Mana et en pierres par tentative, traitement du grade initial ou actuel, régénération, effets des potions et limites de travail ; ne pas transformer les exemples ou la réserve 355 en barème.
+- Arbitrages matériels restants : fréquence globale des runes, distributions d'étoiles aux niveaux autres que 30 et dépendance éventuelle étoiles/grade ; durée, coût et portée de Chant ; cumul des livres de Mémoire et report des cercles entre vies. Voir DEC-074 à DEC-079. Tables de grades, lecture du potentiel par Œil et déclenchement avant coup fatal sont désormais arbitrés, comme le remplacement de Lame et le seuil d'arme à aura niveau 10 sans exception.
 
 Ne pas appliquer automatiquement les coûts, les restrictions d’emplacements, les règles de retrait ou de destruction, ni l’absence d’échec jusqu’à +3 de Summoners War. Le roman prévoit un échec lors d’une tentative de passage à +2 au chapitre 3.
