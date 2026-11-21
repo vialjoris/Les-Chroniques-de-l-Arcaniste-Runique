@@ -71,6 +71,7 @@ Vérifier l’existence et le contenu réel de ces fichiers : un fichier absent 
 
 ## 4. Écriture littéraire
 
+- **Direction éditoriale approuvée — DEC-083 :** consulter `lore/conversation_direction_oeuvre_2026-11-21.md` avant la rédaction de la suite. La dimension humaine prime sur l’escalade : valeur propre de l’artisanat, années réellement vécues, bonheur dans les vies interrompues, autonomie des proches et amour librement reconstruit avec Zio. Différencier les boucles par l’évolution intérieure d’Hasol, sans supprimer les répétitions validées ni répéter tous les démarrages. Ne pas affaiblir artificiellement ses pouvoirs pour créer des obstacles ; travailler aussi temps, confiance, coopération et conséquences. Samia doit compter au-delà des fonctions transmises. Le prologue heureux du III déplace l’intérêt vers la construction du bonheur, sans annuler les enjeux. Cette orientation n’autorise aucune révision rétroactive ni rédaction nouvelle.
 - Produire des chapitres longs, immersifs et riches en détails, sans remplissage artificiel.
 - Développer les émotions, dialogues, descriptions sensorielles et relations entre personnages.
 - Privilégier une narration naturelle plutôt qu’une succession de statistiques.

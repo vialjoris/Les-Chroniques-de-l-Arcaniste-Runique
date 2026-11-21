@@ -20,6 +20,17 @@
 - **Progression :** méritée, graduelle, avec limites concrètes, entraînement, blessures, argent, temps, XP et coopération.
 - **Ne pas révéler prématurément :** les pouvoirs futurs, la tragédie finale, la rune temporelle, la véritable nature de la seconde chronologie.
 
+## Direction éditoriale transversale [VALIDÉ — DEC-083]
+
+L’auteur approuve le 21 novembre 2026 l’analyse conservée intégralement dans `lore/conversation_direction_oeuvre_2026-11-21.md` et demande qu’elle guide la suite. Il s’agit d’une orientation d’écriture, pas d’une nouvelle autorisation de rédaction ou de révision.
+
+- **Livre I :** trouver sa valeur et sa place ; **livre II :** découvrir que progresser ne suffit pas à préserver les êtres aimés ; **livre III :** construire une vie heureuse sans nouvelle chance. Ces axes ne remplacent pas les jalons canoniques.
+- Donner priorité aux années vécues, aux émotions et aux choix des personnages. Le système mesure une progression, pas la valeur d’une personne ni son bonheur. L’artisanat constitue un accomplissement propre, non une attente du premier sort offensif.
+- Au II, distinguer les boucles par ce qu’elles changent en Hasol. Varier leur développement sans modifier leur nombre ni supprimer les répétitions validées ; éviter de raconter chaque démarrage et équipement à l’identique. Les vies interrompues doivent aussi contenir du bonheur et des liens qui ont compté.
+- Préserver les avantages validés d’Hasol ; ne pas leur inventer de restrictions compensatoires. Travailler les difficultés de temps, de confiance, de coopération et les conséquences imprévues. Les enjeux sociaux possibles du donjon ne valident aucun conflit précis ni antagoniste supplémentaire.
+- Chaque compagnon reste une personne au-delà de son utilité : Samia après sa transmission, Yoon dans sa trajectoire propre, Ray dans une réparation progressive. Les souvenirs d’Hasol ne lui donnent aucun droit sur Zio ; l’amour doit rester réciproque et librement reconstruit.
+- Au III, assumer la promesse du prologue heureux : l’intérêt porte sur la façon d’y parvenir, pas seulement sur la survie du couple. Mémoire parfaite ne vaut pas omniscience.
+
 # 2. Hiérarchie des classes et expérience [VALIDÉ]
 
 **Équivalence d’inspiration validée par l’auteur — DEC-009 :** Commune ≈ 2★ natif de Summoners War ; Rare ≈ 3★ natif ; Légendaire ≈ 4★ natif ; Astrale ≈ 5★ natif. Cette correspondance concerne les personnages, pas les étoiles des runes. Les exemples externes au niveau 1 sont documentés dans `source.md`. Sur demande de correction de l’auteur, le chapitre 1 utilise désormais les quatre caractéristiques de départ du Danseur du ciel Vent non éveillé, rang 4★, niveau 1 (DEC-010). Mana et Puissance arcanique conservent leurs valeurs antérieures, faute de conversion définie.
@@ -542,6 +553,8 @@ La fréquence globale d’obtention d’une rune reste **[À CONFIRMER]**. Ces t
 
 ## Cadre et capacités [VALIDÉ — DEC-078 à DEC-080]
 
+- **Nouveaux personnages [VALIDÉ — DEC-084] :** trois à quatre personnages seront introduits au livre II et repris au livre III, avec un **mélange de compagnons proches d’Hasol et d’alliés extérieurs**. Nombre exact, répartition, identités, rôles précis, moments d’introduction et trajectoires **[À CONFIRMER]**. Aucune entrée automatique dans l’équipe principale ni modification de ses plafonds.
+- **Antagonistes supplémentaires [PROPOSITION — DEC-085] :** l’auteur envisage d’en ajouter en supplément de ces trois à quatre personnages, mais précise que l’idée n’est pas encore fixée. Nombre, identités, motivations, intrigues, livres d’apparition et éventuel réemploi au III **[À CONFIRMER]**. Aucun antagoniste précis ni lien avec les drames ou le donjon n’est validé.
 - **Seize chapitres**, racontant les onze réincarnations R1 à R11, soit les vies 2 à 12. Pas d’équivalence « une vie = un chapitre » imposée ; titres et découpage détaillé **[À CONFIRMER]**. Les anciens essais à douze unités sont archivés dans `lore/pistes.md`, non actifs.
 - Le réveil de R1 ouvre le livre, **une semaine avant la Révélation**. Hasol devient **Arcaniste Astral, Astrale, 25 points**. Elle seule conserve des souvenirs, imparfaits jusqu’à R11 ; flashs et cauchemars de faits vécus, pas prophéties infaillibles. Les autres n’ont aucun souvenir des vies antérieures ; variations de classes et personnalités et leur cause restent à encadrer, sans altérer les raretés explicitement conservées ci-dessous.
 - **Dès le niveau 1 astral :** Bénédiction runique, Croissance runique, Œil runique avec détection des pièges, **Main runique active ouvrant coffres et portes sans restriction**, **Aura runique active**. Main remplace le réapprentissage antérieur ; ne pas attribuer l’ouverture à Aimant. Cette liste ne transfère pas toutes les anciennes actives ni le sort offensif du niveau 40.

@@ -27,6 +27,13 @@ Le plan du livre I en seize chapitres est validé par **DEC-045** ; versions ret
 
 ## 2. Règles et paramètres encore en discussion
 
+### Antagonistes supplémentaires — piste narrative, DEC-085
+
+- **PROPOSITION DE L’AUTEUR — 21 novembre 2026 :** ajouter des antagonistes **en supplément** des trois à quatre nouveaux compagnons proches et alliés extérieurs introduits au livre II et repris au III (DEC-084). L’auteur précise : « c'est pas encore fixe dans ma tete ».
+- **À DÉFINIR :** développement et confirmation de cette piste, nombre, identités, motivations, moyens, relations, livres et moments d’apparition, éventuelle continuité au livre III et dénouements. Ne pas imposer de fiches ou d’intrigues à ce stade.
+- **PROPOSITIONS DE L’ASSISTANT, NON APPROUVÉES :** distinguer des opposants aux intérêts légitimes d’adversaires choisissant de nuire ; explorer des tensions de réputation, d’alliance ou de coopération que la puissance seule ne résout pas ; faire varier leurs réactions selon les choix nouveaux d’Hasol, malgré ses souvenirs. Ne pas traiter ces exemples comme un cahier des charges validé.
+- **Limites :** aucun complot expliquant tous les drames, antagoniste humain obligatoire, responsabilité dans les décès ou conflit précis de privatisation n’est établi. Les autres groupes de DEC-082 ne deviennent pas automatiquement malveillants. Les nouveaux alliés de DEC-084 restent distincts de ce projet d’antagonistes.
+
 ### XP — coefficients envisagés, non adoptés comme barème
 
 **PROPOSITION DE L’AUTEUR :** distinguer le coût en XP des classes à l’aide des coefficients suivants, la classe rare servant de référence.

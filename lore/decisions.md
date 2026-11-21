@@ -897,6 +897,39 @@
 - **Préservé :** conditions de DEC-081 (boss vivant, piège actif, XP ×0,5, éliminations admissibles, coûts et effectif). Mort du boss = fin de cette production ; réapparition du boss, réinitialisation ou nouvelle ouverture du donjon ne sont pas définies. Ne pas inventer une destruction définitive du donjon ou un calendrier de réapparition.
 - **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/chronologie.md`, `lore/personnages.md`, `lore/systeme.md`, `lore/pistes.md`, `AGENTS.md`, `source.md` ; présent registre. Aucun chapitre futur rédigé.
 
+## DEC-083 — Direction humaine de la trilogie et vigilance sur les boucles
+
+- **Statut : CANON pour les orientations éditoriales ; mise en scène détaillée À DÉFINIR.**
+- **Source :** avis sur la direction de l’œuvre puis approbation explicite de l’auteur le 21 novembre 2026 : « je suis totalement d'accord , stocker cette conversation , l'écriture de la suite devra en tenir compte ». Échange conservé dans `lore/conversation_direction_oeuvre_2026-11-21.md`.
+- **Boussole thématique :** livre I, trouver sa valeur et sa place ; livre II, éprouver les limites de la réussite et de la puissance face aux pertes ; livre III, construire une vie heureuse sans nouvelle chance temporelle. Ces axes guident l’écriture sans remplacer les événements validés ni imposer des titres.
+- **Priorité humaine :** la progression chiffrée soutient le récit mais ne mesure ni la valeur personnelle ni le bonheur. Donner du poids aux années vécues, aux émotions, aux responsabilités et aux choix des compagnons plutôt qu’ajouter des pouvoirs, catastrophes ou retournements pour entretenir seuls l’intérêt.
+- **Artisanat :** préserver sa valeur propre dans l’identité d’Hasol. Son métier, sa compétence et ses liens constituent déjà un accomplissement avant le sort offensif du niveau 40 ; celui-ci ne transforme pas rétrospectivement l’artisanat en simple attente de sa « vraie » vocation.
+- **Livre II :** différencier les boucles par leurs effets intérieurs sur Hasol, pas seulement par leurs drames terminaux. Moduler le développement des vies ; éviter de répéter intégralement réveil, recrutement et équipement. Préserver les onze réincarnations, les seize chapitres et les répétitions expressément voulues, notamment les morts de Ray. Montrer aussi le bonheur, le travail et les liens réellement vécus : une vie interrompue n’est pas un simple essai sans valeur.
+- **Puissance et obstacles :** ne pas neutraliser artificiellement les avantages validés d’Hasol. Déplacer les enjeux vers le temps, la coopération, la confiance, les intérêts divergents et les conséquences imprévues, sans inventer de limitations de système compensatoires. Le donjon peut porter des enjeux d’usage et de légitimité ; aucun conflit particulier ni hostilité des autres groupes n’est validé par cet échange (DEC-082).
+- **Autonomie des proches :** chacun doit compter au-delà de sa fonction tactique. Samia reste une personne après sa transmission et hors de l’équipe astrale ; Yoon conserve sa trajectoire ; la coopération de Ray ne vaut pas pardon instantané. Les souvenirs conjugaux d’Hasol ne lui donnent aucun droit sur le Zio des nouvelles vies : choix et amour réciproques doivent se reconstruire.
+- **Livre III :** assumer le prologue familial heureux déjà validé. L’intérêt repose sur la façon de construire ce bonheur et de résoudre la crise, pas uniquement sur l’incertitude de survie du couple. Mémoire parfaite ne signifie ni omniscience ni maîtrise des personnes et des conséquences nouvelles.
+- **Limites :** aucune révision rétroactive, scène nouvelle, modification du système ou autorisation de rédiger le chapitre suivant. Les paramètres ouverts le restent ; l’appréciation critique archivée n’est pas une validation littéraire globale du manuscrit.
+- **Fichiers concernés :** `lore/conversation_direction_oeuvre_2026-11-21.md`, `PLAN_DIRECTEUR.md`, `AGENTS.md` et présent registre. Manuscrit inchangé.
+
+## DEC-084 — Nouveaux personnages introduits au livre II et repris au livre III
+
+- **Statut : CANON pour l’intention narrative ; nombre exact et détails À DÉFINIR.**
+- **Source :** déclaration directe de l’auteur le 21 novembre 2026 : « dans les livre II je compte inclure 3 - 4 nouveau personnages qui seront repris dans le livre 3 », suivie de « stocker l'information ».
+- **Décision :** introduire **trois à quatre nouveaux personnages au livre II**, puis les reprendre au **livre III**.
+- **Répartition approuvée :** à la question proposant des compagnons proches d’Hasol, des alliés extérieurs ou un mélange des deux, l’auteur répond « melange des deux ». Ces nouveaux personnages comprendront donc **des compagnons proches et des alliés extérieurs**, sans répartition chiffrée ni domaine d’activité fixé.
+- **À DÉFINIR :** nombre exact, identités, personnalités, rôles, relations, vies et moments d’introduction, place et trajectoires au livre III.
+- **Limites :** aucune intégration automatique à l’équipe principale ni modification des plafonds de membres ou de points. Les suggestions de l’assistant sur leurs fonctions, leur introduction progressive ou l’asymétrie des souvenirs ne constituent pas des décisions supplémentaires de l’auteur. Aucun personnage ou événement inventé pour compléter cette intention ; aucune autorisation de rédaction nouvelle.
+- **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/personnages.md` et présent registre. Manuscrit inchangé.
+
+## DEC-085 — Antagonistes supplémentaires : piste à développer
+
+- **Statut : PROPOSITION de l’auteur ; conception À DÉFINIR.**
+- **Source :** échange du 21 novembre 2026 : « il faudra des antagoniste aussi je pense », puis, à la question de leur inclusion parmi les trois à quatre nouveaux personnages ou en supplément : « en supplement , pour te dire c'est pas encore fixe dans ma tete ». L’auteur demande ensuite la mise à jour de la documentation.
+- **Piste retenue pour discussion :** envisager des antagonistes **en supplément** des trois à quatre compagnons proches et alliés extérieurs prévus par DEC-084. Ne pas les décompter de ce groupe.
+- **À DÉFINIR :** confirmation et développement de cette piste, nombre, identités, motivations, moyens, liens avec Hasol, livres et moments d’apparition, éventuelle continuité entre les livres II et III et issues de leurs trajectoires.
+- **Limites :** ne pas transformer cette intention encore hésitante en intrigue canonique. Les idées de l’assistant (opposition humaine, intérêts légitimes ou malveillance, réputation, alliances, imprévisibilité malgré les souvenirs) restent des **PROPOSITIONS**, pas des caractéristiques approuvées. Aucun antagoniste précis, complot commun, responsable des drames ou conflit autour du donjon n’est validé ; DEC-082 reste inchangée. Aucune autorisation de rédaction nouvelle.
+- **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `lore/pistes.md` et présent registre. Manuscrit inchangé.
+
 ## Questions de système toujours ouvertes
 
 - Barème numérique des gains secondaires, au-delà des choix individuels consignés pour les deux cadeaux ; règle d’apparition résolue par DEC-006.

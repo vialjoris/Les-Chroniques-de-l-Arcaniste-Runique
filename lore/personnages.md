@@ -4,6 +4,17 @@ Ce fichier distingue l’état courant de fin du chapitre 9, les états historiq
 
 **Chapitre 1 validé — DEC-018 puis DEC-022 :** la nouvelle ouverture et la scène Ray/Zio de DEC-021 sont explicitement approuvées par l’auteur le 20 novembre 2026. Les chapitres 3 et 4 sont intégrés sur sa demande (DEC-023) ; le statut propre à chaque texte est précisé ci-dessous, sans validation globale implicite du chapitre 2.
 
+## Nouveaux personnages des livres II et III — futur validé, DEC-084
+
+- **CANON — intention narrative :** trois à quatre nouveaux personnages seront introduits au livre II, puis repris au livre III, selon la déclaration de l’auteur du 21 novembre 2026.
+- **CANON — types de liens :** mélange de compagnons proches d’Hasol et d’alliés extérieurs, selon la précision ultérieure « melange des deux ». Répartition et domaines d’activité **À DÉFINIR**.
+- **À DÉFINIR :** nombre exact, identités, personnalités, rôles, relations, vies et moments d’introduction, trajectoires au livre III.
+- Leur présence ne valide aucune adhésion à l’équipe principale ni modification de ses plafonds. Ne pas créer de fiches individuelles spéculatives ou les présenter comme déjà apparus dans le manuscrit.
+
+## Antagonistes supplémentaires — PROPOSITION, DEC-085
+
+L’auteur envisage aussi des antagonistes **en supplément** des trois à quatre nouveaux compagnons proches et alliés extérieurs de DEC-084. Il précise que cette idée n’est pas encore fixée. Nombre, identités, motivations, rôles, livres d’apparition et éventuel réemploi au livre III sont **À DÉFINIR**. Aucun personnage précis ni responsabilité dans un drame existant ne sont validés ; ne pas créer de fiches individuelles spéculatives.
+
 ## Hasol Shun
 
 - **État courant — CANON, fin du chapitre 9 :** niveau **19**, **douze cercles et douze emplacements occupés** ; **4 Fatal + 4 Arcanique + 4 Gardien**. Bonus actifs séparés : Fatal +35 % Attaque, Arcanique +1 200 PA, deux Gardien +30 % Défense. Aucune Vitesse équipée et plus d’Énergie sur Hasol. Les deux cadeaux paternels rares (bleus), 6★, +6 sont inchangés ; les Énergie maternelles devenues épiques (violettes), 3★, +9 appartiennent à Yoon. Inventaire et limites d’identification dans `runes.md`.
