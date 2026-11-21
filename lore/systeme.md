@@ -208,6 +208,14 @@ Sans runes ni effets temporaires : PV 10 380, Attaque 417, Défense 703, Vitesse
 
 **Positionnement parmi les classes rares — CANON, DEC-063 et DEC-064 :** Yoon et Zio se situent dans le haut du panier de leur classe rare pour le nombre de cercles runiques, avec huit chacun au niveau 60, contre une norme de six. Répartition et plafond éventuel restent **À DÉFINIR**. Ne pas en déduire une supériorité générale en combat ni une nouvelle rareté de classe.
 
+### Iseria Astrea, épouse Shun — Soigneuse pure de Terre, DEC-086
+
+**CANON — profil décidé par l’auteur ; statistiques et répertoire choisis dans sa délégation.** Référence naturelle individuelle au niveau 60 : PV **9 600**, Attaque **310**, Défense **680**, Vitesse **108**, Mana **1 000**, Puissance arcanique **600**, hors runes, ensembles et effets temporaires. Niveau présent, rareté de classe, cercles, équipement et progression **À DÉFINIR**. Ce n’est ni une nouvelle norme de classe ni une fiche déjà applicable aux scènes racontées.
+
+Répertoire : **Baume tellurique** (premiers secours ciblés), **Sève réparatrice** (soin ciblé sur la durée), **Ancrage vital** (stabilisation au contact), **Purification des terres** (poison identifié, efficacité non universelle), **Reconstitution tellurique** (réparation progressive des tissus), **Source nourricière** (soin progressif de zone). Fonctions et limites canoniques dans `personnages.md` ; niveaux de déblocage, disponibilité dans le récit et paramètres chiffrés **À DÉFINIR**. Ne pas déduire du répertoire une maîtrise présente de tous les sorts.
+
+Pas de résurrection, membre recréé, soin universel, restauration de Mana ou suppression de toute fatigue ; repos et suivi des blessures restent nécessaires. Les multiplicateurs offensifs de Terre ne s’appliquent pas automatiquement aux soins. Aucun contrôle des roches ou plantes ni sort offensif déduit. La spécialisation de soin ne vient pas d’une PA de mage et ne fixe pas de ratio universel face à Yoon.
+
 ### Nombre normal de cercles runiques au niveau 60 — CANON, DEC-064
 
 | Classe | Nombre normal de cercles au niveau 60 |

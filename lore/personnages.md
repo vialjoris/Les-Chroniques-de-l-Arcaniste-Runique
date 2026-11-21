@@ -4,6 +4,16 @@ Ce fichier distingue l’état courant de fin du chapitre 9, les états historiq
 
 **Chapitre 1 validé — DEC-018 puis DEC-022 :** la nouvelle ouverture et la scène Ray/Zio de DEC-021 sont explicitement approuvées par l’auteur le 20 novembre 2026. Les chapitres 3 et 4 sont intégrés sur sa demande (DEC-023) ; le statut propre à chaque texte est précisé ci-dessous, sans validation globale implicite du chapitre 2.
 
+## Tenues quotidiennes et de combat — CANON, DEC-089
+
+- **Armin Shun, père d’Hasol :** porte des **tenues d’homme d’affaires**, cohérentes avec son activité commerciale. Coupes, couleurs et matières non fixées ; ne pas transposer automatiquement un costume moderne dans l’univers du roman.
+- **Iseria Astrea, épouse Shun :** porte **toujours des robes de style elfique**, selon la précision ultérieure de l’auteur. Le style reste constant, sans imposer une robe unique ; couleurs, matières et coupes précises non fixées. Ce choix vestimentaire ne confirme aucune ascendance elfique ni propriété magique.
+- **Qualité et statut d’Iseria — complément à DEC-089 :** ses robes sont **haut de gamme, comparables à celles réservées à la noblesse**, bien qu’elle ne dispose **d’aucun rang nobiliaire en tant qu’épouse Shun**. Ne pas en déduire un titre Astrea, un ancien rang, une interdiction légale de porter ces robes, leur provenance ou la raison de cette préférence ; ces éléments restent **À DÉFINIR**.
+- **Hasol, Yoon et Samia :** changent régulièrement de tenue au quotidien et se changent pour combattre. Aucune tenue unique permanente ; détails et évolution des équipements non définis par cette règle.
+- **Zio :** dispose d’une **armure complète pour le combat** ; pendant les jours de repos et dans les scènes civiles, porte des vêtements ordinaires qui varient. Ne pas le laisser systématiquement en armure à la maison ou pendant ses loisirs ; préserver les situations et descriptions déjà racontées.
+- **Ray :** la **robe de mage gris foncé** de DEC-088 est sa tenue de combat, pas son unique vêtement. Au quotidien, il porte des habits ordinaires variés.
+- **Application :** adapter les vêtements à l’activité et à la période de la scène, sans inventer une garde-robe exhaustive. Couleurs des autres tenues, matières, pièces d’armure, armes et propriétés magiques restent à définir selon les besoins. Changer de vêtements ne modifie pas automatiquement les runes ou leurs bonus. Aucun chapitre validé réécrit.
+
 ## Nouveaux personnages des livres II et III — futur validé, DEC-084
 
 - **CANON — intention narrative :** trois à quatre nouveaux personnages seront introduits au livre II, puis repris au livre III, selon la déclaration de l’auteur du 21 novembre 2026.
@@ -149,8 +159,9 @@ Le chapitre 2 est désormais présent dans `roman.md` comme version de lecture, 
 
 ## Maître Orven — État raconté aux chapitres 3 et 4
 
+- **Âge CANON — DEC-088 : 52 ans**, date de référence **À CONFIRMER**. Cet âge ne reste pas constant pendant les ellipses du livre I.
 - **Rôle :** marchand et artisan runique, plus de vingt-cinq ans d’expérience, connaissance ancienne de la mère de Hasol ; devient employeur à l’essai puis mentor. État historique 3–4 ci-dessous ; dernière apparition actuelle au chapitre 9.
-- **Apparence :** cheveux grisonnants, mains marquées par le travail ; classe, âge exact, niveau, caractéristiques et équipement personnel **À DÉFINIR**.
+- **Apparence :** cheveux grisonnants, mains marquées par le travail ; âge de 52 ans fixé par DEC-088, date de référence à confirmer. Classe, niveau, caractéristiques et équipement personnel **À DÉFINIR**.
 - **Attitude :** exigeant et pragmatique, respecte les commandes et leurs budgets ; consigne les tentatives, explique les échecs sans humilier, rémunère le travail de l’épreuve et refuse l’épuisement.
 - **Refonte du chapitre 3 — DEC-026 :** évalue les contrôles et le respect des ressources autorisées ; fait examiner l’état de la rune après l’échec plutôt que donner un long discours rassurant. Engagement à l’essai, ni promesse de prodige ni emploi définitif.
 - **Adaptation du chapitre 4 — DEC-027 :** confie une vraie commande dans un budget limité, surveille la réserve, fait arrêter les améliorations à cause d’une erreur d’attention, puis reconnaît la méthode et organise le travail du lendemain. L’initiative d’Hasol progresse, la supervision n’est pas levée.
@@ -160,12 +171,51 @@ Le chapitre 2 est désormais présent dans `roman.md` comme version de lecture, 
 
 ## Parents de Hasol — Actualisation des chapitres 3 et 4
 
-- **Mère :** soigne et surveille la blessure ; présente Hasol à Orven sans répondre à sa place. **Choix confirmé par l’auteur, explicité dans la refonte DEC-026 :** elle respectait son rêve de chasseuse et attendait qu’elle soit prête à envisager l’artisanat, sans ancienne proposition refusée inventée. Soutient son autonomie et son métier sans lui demander d’abandonner la chasse ; connaît l’utilité artisanale du Mana. Dernière apparition : chapitre 4. Nom, âge, classe et caractéristiques exacts **À DÉFINIR**.
-- **Père :** vivant, occupé par les documents de commerce. Informé par la mère de l’embauche ; apprend de Hasol l’intérêt de son Mana chez Orven. Sourire et surnom affectueux ne constituent pas une réconciliation ; aucune réaction au futur pouvoir Aura runique, encore inconnu. Dernière apparition : chapitre 4. Nom, âge, classe et caractéristiques exacts **À DÉFINIR**.
+- **Âges CANON — DEC-088 :** Armin a **26 ans à la naissance d’Hasol**, Iseria **20 ans**. Repères : environ 42/36 ans à ses seize ans et 45/39 ans à ses dix-neuf ans, selon les anniversaires non fixés. L’âge au décès d’Armin dépend de la date encore ouverte du chapitre 11. Ces repères complètent les anciennes rubriques d’âge à définir ci-dessous.
+- **Identités CANON — DEC-086 :** père **Armin Shun** ; mère **Iseria Astrea**, nom d’épouse **Shun** (Iseria Shun). Astrea est son nom de naissance, pas celui d’un autre personnage.
+- **Famille Astrea — CANON pour la famille perdue et l’origine supposée :** un ancien héros astral **en serait le fondateur**. L’identité du héros, la signification précise de « famille perdue », son histoire et les preuves sont **À DÉFINIR**. Ne pas affirmer cette fondation comme une certitude, déclarer Iseria dernière survivante ou attribuer une classe astrale héréditaire à Hasol. Ce que chaque personnage sait de cette origine et sa révélation au lecteur restent **À DÉFINIR**.
+- **Armin :** l’auteur ne souhaite pas développer ses statistiques. Conserver son rôle commercial et familial ; ne pas créer de fiche de combat pour combler ce manque. Classe, âge et apparence restent ouverts sans bloquer cette décision.
+- **Livre III — PROPOSITION de l’auteur, DEC-087 :** grâce à sa mémoire parfaite, Hasol rapprocherait sa classe astrale et les origines maternelles Astrea ; ce rapprochement ouvrirait une piste pour résoudre une difficulté encore **À DÉFINIR**. Ce serait une déduction à examiner, pas une preuve automatique d’hérédité ni une résolution acquise. Indices, scène, difficulté et aboutissement non fixés.
+- **Iseria — CANON, décision directe de l’auteur :** soigneuse pure, élément **Terre**. Rareté et intitulé officiel de classe, âge, niveau courant, cercles et équipement **À DÉFINIR**. Les choix délégués de statistiques et de sorts sont détaillés ci-dessous ; ils ne font pas d’elle une combattante offensive ni une artisane d’une classe particulière.
+- **Mère :** soigne et surveille la blessure ; présente Hasol à Orven sans répondre à sa place. **Choix confirmé par l’auteur, explicité dans la refonte DEC-026 :** elle respectait son rêve de chasseuse et attendait qu’elle soit prête à envisager l’artisanat, sans ancienne proposition refusée inventée. Soutient son autonomie et son métier sans lui demander d’abandonner la chasse ; connaît l’utilité artisanale du Mana. Dernière apparition dans cet état historique : chapitre 4. Identité et profil précisés par DEC-086 ci-dessus ; âge et caractéristiques au moment de ces scènes **À DÉFINIR**.
+- **Père :** vivant, occupé par les documents de commerce. Informé par la mère de l’embauche ; apprend de Hasol l’intérêt de son Mana chez Orven. Sourire et surnom affectueux ne constituent pas une réconciliation ; aucune réaction au futur pouvoir Aura runique, encore inconnu. Dernière apparition dans cet état historique : chapitre 4. Identité précisée par DEC-086 ; âge et classe **À DÉFINIR**, statistiques à ne pas développer selon l’auteur.
 - **Père, actualisation racontée au 7 :** Hasol annonce son travail pour le Griffon d’Argent ; il reconnaît le nom et se réserve, sans grande dispute ni explication. **Futur CANON — DEC-080, chapitre 11 :** hostilité ancienne envers la guilde, origine inconnue ; exige la fin de la collaboration, Hasol réclame des raisons et refuse sans justification, il invoque son autorité et ne se justifie pas. Dernière grande dispute, affection persistante, pas d’excuses définitives ni réconciliation avant son voyage commercial fatal. Décès avant la large reconnaissance publique ; date, destination, cause et annonce **À DÉFINIR**. Aucun lien causal validé entre guilde et mort ou motif du voyage ; pas de culpabilité objective d’Hasol déduite de son indépendance.
+
+### Iseria — Référence naturelle au niveau 60, choix délégué DEC-086
+
+**CANON — choix de l’assistant dans la délégation explicite de l’auteur pour les statistiques et les sorts.** Comme les autres fiches de référence du projet, ces valeurs décrivent le **niveau 60**, hors runes, ensembles et effets temporaires. Elles ne fixent ni son niveau présent ni la date où elle atteint cette référence et ne définissent aucune courbe intermédiaire.
+
+| Caractéristique | Valeur naturelle au niveau 60 |
+|---|---:|
+| PV | 9 600 |
+| Attaque | 310 |
+| Défense | 680 |
+| Vitesse | 108 |
+| Mana | 1 000 |
+| Puissance arcanique | 600 |
+
+Profil de soutien spécialisé : faible attaque physique, résistance correcte, réserve et puissance magique dans les repères ordinaires. Sa spécialisation médicale vient des effets de ses sorts, pas d’une Puissance arcanique de mage ni d’un héritage astral supposé. Cette fiche ne devient pas une norme universelle de soigneuse pure.
+
+### Iseria — Répertoire de soins de Terre, choix délégué DEC-086
+
+**CANON pour les noms, fonctions et limites ci-dessous ; niveaux de déblocage, capacités déjà disponibles aux chapitres racontés et paramètres chiffrés À DÉFINIR.** Ce répertoire ne prouve pas qu’Iseria possède déjà tous ces sorts. Ne pas l’importer rétroactivement dans les scènes validées ; les soins manuels et le suivi des blessures restent nécessaires.
+
+| Sort actif | Fonction | Limites |
+|---|---|---|
+| Baume tellurique | Soin ciblé de premiers secours : restaure des PV et aide à refermer les lésions superficielles | Ne répare pas instantanément une morsure profonde, une fracture ou les tissus fragilisés |
+| Sève réparatrice | Soin ciblé sur la durée accompagnant la récupération d’un blessé | Ni régénération permanente ni suppression du repos et du suivi médical |
+| Ancrage vital | Soin de stabilisation au contact, destiné à contenir une hémorragie pendant la prise en charge | Demande attention et maintien ; ne rend pas invulnérable et ne remplace pas le traitement de la cause |
+| Purification des terres | Soin ciblé visant à éliminer une substance toxique identifiée | Pas d’antidote universel : efficacité selon le poison, l’état du patient et la maîtrise ; aucun remède automatique au futur empoisonnement de Ray |
+| Reconstitution tellurique | Soin approfondi au contact, accélérant progressivement la réparation des tissus lésés | Immobilisation et concentration ; pas de membre recréé, de résurrection ou de guérison instantanée d’une blessure grave |
+| Source nourricière | Soin de groupe progressif dans une zone de Terre posée | Soigne seulement les bénéficiaires dans la zone ; rayon, durée, nombre de cibles et cumul à définir ; aucune restauration de Mana |
+
+**Limites communes :** Mana personnel et concentration requis ; coûts, puissances, portées, durées, incantations et récupérations restent à fixer avant toute utilisation chiffrée. Les sorts ne suppriment ni la fatigue mentale ni toutes les séquelles et ne peuvent pas faire revenir un mort. Aucun passif supplémentaire ou sort offensif ajouté. L’élément Terre ne donne pas de contrôle des roches, des plantes ou du terrain ; les affinités offensives de DEC-073 ne multiplient pas automatiquement les soins. La supériorité de soin d’une spécialiste sur Yoon ne fixe pas un ratio universel.
 
 ## Ray Corvus — État raconté au chapitre 1, DEC-021
 
+- **Apparence CANON — DEC-088, arbitrage final de l’auteur :** cheveux **sombres**, yeux **noirs**, porte des **lunettes** ; moins costaud que Zio, sans fragilité ou maladresse automatique.
+- **Tenue CANON — complément à DEC-088 :** porte une **robe de mage gris foncé**. Aucun grade, bonus magique, matériau ou enchantement déduit de cette tenue.
+- **Raccord résolu :** après avoir évoqué des cheveux gris, l’auteur confirme « tu peux garde cheveux sombre en soit ». Les cheveux sombres du chapitre 1 sont conservés et restent la référence pour la suite ; aucune correction du manuscrit ni explication de changement de couleur nécessaire.
 - **Statut : CANON — scène révisée validée par DEC-022.** Dernière apparition actuelle : chapitre 1, section VII.
 - **Classe :** mage de feu, **Commune — DEC-036 et DEC-069**, cinq points d'équipe. Âge, niveau à cette date, statistiques et équipement : **À DÉFINIR**. Le niveau 22 du sauvetage futur n’est pas son niveau attribué à cette scène. Ne pas lui attribuer rétroactivement les compétences supérieures sans connaître son niveau.
 - **Passé :** ami d’enfance de Hasol, familles liées par le commerce, jeux et promesses d’aventures communes ; souhaite devenir mage depuis l’enfance.
@@ -207,6 +257,7 @@ Le chapitre 2 est désormais présent dans `roman.md` comme version de lecture, 
 
 ## Yoon Notos — Apparition au chapitre 5, état courant au chapitre 9
 
+- **Apparence CANON — DEC-088 :** cheveux **violets tirant vers le rose**, yeux de **la même couleur que ceux de Zio**. Teinte exacte des yeux **À DÉFINIR**, non retrouvée explicitement dans le manuscrit local ; ne pas l’inventer. Longueur et coiffure non fixées.
 - **État courant CANON :** niveau **24**, **deux cercles équipables**, deux Énergie épiques (violettes), 3★, +9 reçues d’Hasol ; anciennes runes +6 stockées, identités/ensembles/grades/étoiles/affixes non récupérables. Elle refuse d’abord le cadeau coûteux, propose ses anciennes pièces puis accepte de les garder pour ses futurs cercles. Caractéristiques naturelles, âge exact après les périodes du 9 et XP **À DÉFINIR** ; les huit cercles au 60 ne sont pas acquis ici.
 - **Identité :** sœur cadette de Zio, amie de Samia Claire à l’Académie. Seize ans et niveau 5 lors de la rencontre racontée au chapitre 5 ; classe **Sage runique, Rare**, dix points d’équipe.
 - **Disponibilités au livre I — CANON, DEC-067 :** au début, chasse avec Hasol uniquement les week-ends et vacances, tout en poursuivant l'Académie. La fin de ses études coïncide avec l'adhésion officielle de Zio au chapitre 11 ; date exacte à définir.
@@ -229,6 +280,7 @@ Le chapitre 2 est désormais présent dans `roman.md` comme version de lecture, 
 
 ## Zio Notos — État raconté au chapitre 1, DEC-021
 
+- **Apparence déjà racontée à préserver — DEC-088 :** cheveux sombres soigneusement attachés, silhouette élancée, aisance sous le poids de l’équipement et grand bouclier dans le dos (chapitre 5, section I). Au chapitre 1 : étudiant plus âgé, voix grave et posée, épée et imposant bouclier. Ne pas redéfinir ces traits. Plus costaud que Ray selon la précision ultérieure de l’auteur, sans lui attribuer une carrure massive. Couleur des yeux **À DÉFINIR**, identique à celle de Yoon.
 - **Statut : CANON — scène d’Académie validée par DEC-022, état historique ci-dessous.** Dernière apparition actuelle : chapitre 5 ; retrouvailles et supervision consignées plus bas.
 - **Classe :** Gardien, Rare ; étudiant plus âgé que Hasol, connu pour son sérieux, son épée et son imposant bouclier. Âge et niveau exacts pendant l’intervention : **À DÉFINIR**. Ne pas importer rétroactivement son niveau 45 prévu lors des retrouvailles.
 - **Présence — CANON, DEC-043 :** très beau, fort et très populaire, sa beauté et sa force contribuant à cette popularité. Traits physiques précis et milieu de notoriété **À DÉFINIR**. Ni arrogance, séduction systématique, invulnérabilité ou nouveau niveau déduits de cette caractérisation ; aucune scène du chapitre 1 n'est réécrite par cette précision.
@@ -263,7 +315,7 @@ Le chapitre 2 est désormais présent dans `roman.md` comme version de lecture, 
 - **Cercles runiques au niveau 60 — CANON, DEC-055 :** **huit cercles**, soit **huit emplacements runiques**. Cela ne fixe ni leur date d'acquisition ni leur occupation effective ; aucune progression générale par niveau n'en découle.
 - **Positionnement dans sa classe — CANON, DEC-063 :** comme Yoon, Zio se situe dans le haut du panier des personnages de classe rare en nombre de cercles runiques. Huit cercles au niveau 60 ne constituent pas une norme de classe ni une garantie de supériorité générale.
 - **Équipement runique — À DÉFINIR :** inventaire, emplacements occupés, ensembles, grades, étoiles, améliorations et affixes. Bonus séparés de la fiche naturelle ; aucun glyphe externe ne constitue à lui seul une rune canonique. Nombre de cercles au niveau 61 non précisé par cette décision.
-- **Autres points À DÉFINIR :** âge, apparence précise, motivations personnelles, défauts, paramètres des compétences, progression intermédiaire et fiche au niveau 61. Ne pas extrapoler cette dernière depuis le niveau 60.
+- **Autres points À DÉFINIR :** âge, traits physiques non encore décrits (dont couleur des yeux), motivations personnelles, défauts, paramètres des compétences, progression intermédiaire et fiche au niveau 61. Préserver les descriptions existantes rappelées par DEC-088 ; ne pas extrapoler la fiche au niveau 61 depuis le niveau 60.
 
 ### Zio — Sorts et passifs CANON, DEC-058
 
@@ -281,6 +333,7 @@ Effets et limites détaillés dans `lore/systeme.md`, section Gardien. Zio reste
 
 ## Samia Claire — Présente à l’Académie au chapitre 9, future membre du groupe
 
+- **Apparence CANON — DEC-088 :** **blonde**, **yeux bleus**, **très grande beauté** et **formes harmonieuses**, selon les mots de l’auteur « forme parfaite, tres tres belle ». Aucun tempérament, comportement ou lien amoureux déduit du physique. Ces traits complètent l’ancienne mention d’apparence à définir ci-dessous.
 - **Statut courant : CANON, apparition au chapitre 9.** Femme, amie de Yoon à l’Académie ; participe aux scènes d’exercices, remarque les Énergie reçues et souhaite connaître Hasol et sa technique d’amélioration. Elle n’a pas encore rejoint son groupe. Même âge que Yoon, niveau légèrement inférieur au recrutement futur ; chiffres, équipement et apparence **À DÉFINIR**. Arrivée officielle au chapitre 12, transmission au 13.
 - **Classe :** Ranger, Commune, cinq points. Sa présence complète Hasol, Yoon, Ray et Zio : cinq membres, 50/50 points.
 - **Fonctions :** archerie, détection des pièges et ouverture des coffres. Compétences détaillées et limites **À DÉFINIR** ; le désamorçage universel de pièges n'est pas établi par la seule détection.

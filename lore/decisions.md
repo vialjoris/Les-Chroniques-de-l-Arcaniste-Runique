@@ -930,6 +930,54 @@
 - **Limites :** ne pas transformer cette intention encore hésitante en intrigue canonique. Les idées de l’assistant (opposition humaine, intérêts légitimes ou malveillance, réputation, alliances, imprévisibilité malgré les souvenirs) restent des **PROPOSITIONS**, pas des caractéristiques approuvées. Aucun antagoniste précis, complot commun, responsable des drames ou conflit autour du donjon n’est validé ; DEC-082 reste inchangée. Aucune autorisation de rédaction nouvelle.
 - **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `lore/pistes.md` et présent registre. Manuscrit inchangé.
 
+## DEC-086 — Armin Shun, Iseria Astrea et soins de Terre
+
+- **Statut : CANON pour les identités et le profil maternel ; CANON pour l’origine supposée des Astrea, pas pour sa véracité ; statistiques et sorts choisis dans la délégation de l’auteur. Autres détails À DÉFINIR.**
+- **Source :** déclaration directe du 21 novembre 2026 : « pere de hasol --> Armin Shun ; mere de hasol Iseria Astrea non d'epoux Shun ; Astrea est une fammille perdu dont un des ancien heros astral en serait le fondateur ; pas besoin de developper les stats du pere pour la mere elle des stats de soigneuse pure je te laissse choisir les sort et stats , element terre ».
+- **Identités :** père **Armin Shun** ; mère **Iseria Astrea**, nom d’épouse **Shun**. Ne pas créer deux personnages pour ses deux noms.
+- **Astrea :** famille perdue dont un ancien héros astral **serait** le fondateur. Conserver le conditionnel. Identité du héros, histoire, sens précis de « perdue », preuves, connaissances des personnages et moment de révélation **À DÉFINIR**. Ni disparition de tous les autres membres, ni statut de dernière survivante, ni hérédité astrale ou origine des pouvoirs d’Hasol établis.
+- **Armin :** ne pas développer ses statistiques ; aucune fiche de combat nécessaire. Les décisions concernant son affection, son conflit avec le Griffon d’Argent et son décès restent inchangées.
+- **Iseria :** soigneuse pure d’élément **Terre**. L’auteur délègue le choix de ses sorts et statistiques, pas la définition automatique de sa rareté, de son niveau courant, de ses cercles ou de son histoire.
+- **Choix délégué — statistiques naturelles de référence au niveau 60 :** PV **9 600**, Attaque **310**, Défense **680**, Vitesse **108**, Mana **1 000**, Puissance arcanique **600**, hors runes, ensembles et effets temporaires. Référence choisie pour rester comparable aux fiches existantes ; ni niveau courant ni progression interpolée.
+- **Choix délégué — sorts :** Baume tellurique (premiers secours ciblés), Sève réparatrice (soin ciblé sur la durée), Ancrage vital (stabilisation au contact), Purification des terres (traitement de poison identifié, non universel), Reconstitution tellurique (réparation progressive approfondie), Source nourricière (soin progressif de zone). Fonctions et limites détaillées dans `lore/personnages.md`. Niveaux de déblocage, disponibilité aux dates du récit et paramètres numériques **À DÉFINIR** ; ne pas les inventer lors d’une scène ni réécrire les soins déjà racontés.
+- **Limites :** aucun soin de résurrection, régénération de membre, effacement automatique de fatigue ou guérison universelle. Le répertoire ne résout pas par avance l’empoisonnement de Ray au livre II. Terre n’accorde pas de géomancie offensive et ses multiplicateurs d’attaque ne sont pas des bonus de soin.
+- **Fichiers concernés :** `lore/personnages.md`, `lore/systeme.md`, `PLAN_DIRECTEUR.md`, `AGENTS.md` et présent registre. Aucun chapitre modifié ou rédigé.
+
+## DEC-087 — Livre III : rapprochement entre classe astrale et origines Astrea
+
+- **Statut : PROPOSITION de l’auteur ; scène et portée À DÉFINIR.**
+- **Source :** idée exprimée le 21 novembre 2026 : « j'image une scene dans le livre 3 ou hasol avec sa memoire parfaite fait le lien entre sa classe astral et les origine de la famille de sa mere qui menerai a une piste our resoudre une difficulté ».
+- **Piste :** au livre III, la mémoire parfaite d’Hasol lui permettrait de rapprocher sa classe astrale des origines de la famille maternelle Astrea. Ce rapprochement mènerait à une piste susceptible de résoudre une difficulté.
+- **À DÉFINIR :** confirmation de la scène, place dans le livre III, souvenirs et indices rapprochés, nature du lien supposé, difficulté concernée, enquête ou actions qui en découlent, résultat et éventuel prix de la résolution.
+- **Limites :** mémoire parfaite des faits vécus n’est ni omniscience ni révélation de faits jamais connus. Aucun lien causal entre ascendance et classe, transmission héréditaire, identité du fondateur ou origine des pouvoirs d’Hasol n’est confirmé. Le héros astral reste un fondateur supposé selon DEC-086. La difficulté n’est pas automatiquement la catastrophe mondiale, et une piste n’est pas une solution garantie. Ne pas anticiper cette déduction au livre I ni donner aux personnages un savoir non établi.
+- **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `lore/pistes.md` et présent registre. Aucun chapitre rédigé ou modifié.
+
+## DEC-088 — Apparences et repères d’âge des personnages du livre I
+
+- **Statut : CANON pour les précisions explicites et les traits déjà racontés ; détails manquants À DÉFINIR ; raccord des cheveux de Ray résolu par l’arbitrage final.**
+- **Source :** précisions directes du 21 novembre 2026 : « zio a deja des descriptions dans des chapitre pour l'apparance ; il faut rester raccord ; yoon cheveux violet vers le rose yeux comme son frere ; samia blonde yeux bleu forme parfaite , tres tres belle ; Armin a eu hasol a 26ans et iseria en avait 20 ; orven a 52 ans », puis « ray cheveux gris , yeux noir avec des lunettes , moins costaux que zio ».
+- **Zio :** préserver les descriptions existantes. Au chapitre 5, section I : cheveux sombres soigneusement attachés, silhouette élancée, aisance sous l’équipement et grand bouclier dans le dos. Au chapitre 1 : voix grave et posée, épée et imposant bouclier. Plus costaud que Ray ne signifie pas carrure massive.
+- **Yoon :** cheveux violets tirant vers le rose ; même couleur d’yeux que Zio. Teinte exacte **À DÉFINIR**, non retrouvée explicitement dans le manuscrit local ; ne pas la choisir arbitrairement.
+- **Samia :** blonde, yeux bleus, très grande beauté et formes harmonieuses (l’auteur dit « forme parfaite »). Aucun tempérament ou lien amoureux déduit.
+- **Ray — arbitrage final :** cheveux **sombres**, yeux noirs, lunettes, moins costaud que Zio. L’auteur avait d’abord indiqué des cheveux gris ; après signalement des cheveux sombres déjà racontés au chapitre 1, section VII, il précise « tu peux garde cheveux sombre en soit ». **Raccord résolu :** conserver les cheveux sombres pour toute la continuité, abandonner l’option grise sans inventer de transformation et sans retoucher le manuscrit.
+- **Parents :** Armin **26 ans**, Iseria **20 ans**, à la naissance d’Hasol ; environ 42/36 ans à ses seize ans, 45/39 à ses dix-neuf ans, selon les anniversaires non fixés. Âge au décès d’Armin dépendant du calendrier encore ouvert du chapitre 11.
+- **Ray — tenue, précision directe ultérieure :** « ray porte une robe de mage gris foncée ». Retenir une **robe de mage gris foncé** ; aucun bonus, enchantement, matériau ou grade d’équipement fixé par cette description. Aucune scène antérieure réécrite.
+- **Orven :** **52 ans**, date de référence **À CONFIRMER** ; ne pas supposer cet âge constant au fil des ellipses.
+- **Fichiers concernés :** `lore/personnages.md`, `lore/chronologie.md`, `PLAN_DIRECTEUR.md` et présent registre. Aucun chapitre modifié.
+
+## DEC-089 — Vêtements variés et distinction entre quotidien et combat
+
+- **Statut : CANON pour les habitudes vestimentaires ; détails des tenues À DÉFINIR selon les scènes.**
+- **Source :** précision directe de l’auteur du 21 novembre 2026 : « yoon samia , comme hasol change regulierment de tenue et en combat leur tenu change , zio lui dispose d'une armure complete et lors des jours de repos il s'habille en civile avec des tenu qui change ; pareil pour ray qui a sa robe de combat et haille normal au quotidien ».
+- **Hasol, Yoon et Samia :** vêtements quotidiens régulièrement renouvelés et tenues distinctes pour le combat ; ne pas les figer dans une tenue unique.
+- **Zio :** armure complète de combat ; tenues civiles variées pendant le repos et la vie quotidienne. Cette précision complète ses descriptions existantes sans les remplacer ni lui imposer l’armure dans toutes les scènes.
+- **Ray :** robe de mage gris foncé pour combattre ; vêtements ordinaires variés au quotidien. Précise l’usage de la robe fixée par DEC-088, sans en changer la couleur.
+- **Iseria — complément direct de l’auteur :** « la mere de hasol porte tous le temps des robe de type elfique ». Elle porte toujours des **robes de style elfique**. Il s’agit d’un style constant, pas d’une robe unique ni d’une ascendance elfique établie ; couleurs, matières, coupes et éventuelles propriétés non fixées.
+- **Iseria — qualité des robes et statut, précision directe :** « les robes sont de haut de gamme , comme celle reservé a la noblesse pourtant elle ne dispose pas de rang en tant que femme shun ». Ses robes sont haut de gamme, comparables aux tenues réservées à la noblesse ; elle n’a pas de rang nobiliaire en tant qu’épouse Shun. Cette opposition visuelle et sociale est **CANON** ; aucun titre natal Astrea, ancien privilège, droit vestimentaire, provenance des robes ou motif caché n’est établi. Le mot « réservées » ne suffit pas à définir une interdiction légale ni une transgression.
+- **Armin — complément direct de l’auteur :** « son pere lui porte des tenue d'homme d'affaire ». Armin Shun porte des **tenues d’homme d’affaires**, en cohérence avec son activité commerciale ; coupes, couleurs et matières non fixées, sans costume moderne automatiquement importé dans la fantasy.
+- **Limites :** aucun inventaire exhaustif de vêtements, aucune pièce, matière, protection chiffrée, propriété magique ou variation d’équipement runique déduits. Pas de changement automatique d’apparence physique, de caractère ou de statistiques selon les tenues. Aucun chapitre réécrit.
+- **Fichiers concernés :** `lore/personnages.md`, `PLAN_DIRECTEUR.md`, `AGENTS.md` et présent registre.
+
 ## Questions de système toujours ouvertes
 
 - Barème numérique des gains secondaires, au-delà des choix individuels consignés pour les deux cadeaux ; règle d’apparition résolue par DEC-006.

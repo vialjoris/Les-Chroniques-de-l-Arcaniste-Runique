@@ -10,6 +10,13 @@
 - Père vivant ; réserve envers le Griffon d’Argent amorcée au 7. Dernière dispute, voyage et décès restent futurs au 11.
 - Date précise après les périodes du 9, âges actualisés, XP et statistiques naturelles intermédiaires **À DÉFINIR**. Les totaux historiques ci-dessous ne sont pas l’état présent.
 
+## Repères d’âge familiaux — CANON, DEC-088
+
+- À la naissance d’Hasol : **Armin Shun a 26 ans**, **Iseria Astrea, épouse Shun, a 20 ans**.
+- À seize ans d’Hasol : environ **42 et 36 ans** ; à ses dix-neuf ans : environ **45 et 39 ans**, selon les anniversaires encore non fixés.
+- Le décès d’Armin reste au chapitre 11 ; son âge précis dépend de la date encore ouverte de cet événement, pas de l’âge final d’Hasol.
+- **Orven a 52 ans**, date de référence **À CONFIRMER**. Ne pas conserver cet âge tout au long des ellipses.
+
 ## Samia — Jalons futurs CANON, DEC-059 et DEC-060
 
 - **Fin du livre I :** Samia Claire est **niveau 52**. Ce niveau ne tranche pas son sort précis lors de la catastrophe ; caractéristiques à ce niveau **À DÉFINIR**.

@@ -142,6 +142,8 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 
 # 4. Personnages et relations [VALIDÉ]
 
+**Tenues [VALIDÉ — DEC-089] :** Hasol, Yoon et Samia changent régulièrement de vêtements et portent des tenues distinctes pour le combat. Zio combat en armure complète et porte des tenues civiles variées pendant le repos. La robe de mage gris foncé de Ray est sa tenue de combat ; ses vêtements quotidiens sont ordinaires et variés. Adapter les descriptions à la scène, sans imposer un costume permanent ni déduire des bonus ou changements de runes.
+
 ## Hasol Shun
 - Âge 16 à la Révélation ; 19 ans à l'expulsion et au niveau 10 ; 34 ans environ à la fin du livre I.
 - Classe **Arcaniste runique**, Légendaire ; deux cercles de mana avant la Révélation (premier à 7 ans, second à 10 ans).
@@ -155,17 +157,25 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 - Motivation immédiate : devenir suffisamment forte pour ne plus être blessée lors des chasses avec Yoon et pouvoir protéger sa partenaire.
 
 ## Père de Hasol
+- **Vêtements [VALIDÉ — complément à DEC-089] :** tenues d’homme d’affaires adaptées à l’univers et à son activité commerciale ; détails non fixés.
+- **Âge [VALIDÉ — DEC-088] :** 26 ans à la naissance d’Hasol ; âge au décès à calculer lorsque la date du chapitre 11 sera fixée.
+- **Identité [VALIDÉ — DEC-086] : Armin Shun.** L’auteur ne souhaite pas développer ses statistiques.
 - Affectueux durant l'enfance, l'appelle « ma princesse », finance son éducation et offre les deux runes bleues.
 - Sa fierté se transforme en inquiétude et en distance pendant les trois années d'échec ; **il est vivant pendant le chapitre 1**.
 - Meurt **au chapitre 11, pendant un voyage commercial lointain, avant la large reconnaissance artisanale d’Hasol**. Dernière grande dispute désormais fixée sur le Griffon d’Argent (DEC-080), dont il exige l’abandon sans expliquer son hostilité ; Hasol refuse sans justification. Pas de réconciliation. Origine du différend, date, destination, cause du décès et annonce **[À CONFIRMER]** ; aucun lien causal guilde/décès ou motif du voyage déduit.
 - Éviter la caricature du père cruel : l'amour persiste sous les maladresses.
 
 ## Mère de Hasol
+- **Vêtements et statut [VALIDÉ — compléments à DEC-089] :** porte toujours des robes de style elfique **haut de gamme, comparables à celles réservées à la noblesse**, sans disposer d’un rang nobiliaire en tant qu’épouse Shun. Cela ne fixe ni une robe unique, ni une ascendance elfique, ni un titre Astrea ou une interdiction vestimentaire.
+- **Âge [VALIDÉ — DEC-088] :** 20 ans à la naissance d’Hasol.
+- **Identité [VALIDÉ — DEC-086] : Iseria Astrea**, nom d’épouse **Shun**. Soigneuse pure d’élément **Terre** ; référence statistique et répertoire de soins choisis dans la délégation de l’auteur, consignés dans `lore/personnages.md`. Niveau courant, rareté, cercles et disponibilité des sorts **[À CONFIRMER]** ; aucun soin rétroactif ajouté au manuscrit.
+- **Famille Astrea [VALIDÉ pour l’origine supposée — DEC-086] :** famille perdue dont un ancien héros astral **serait** le fondateur. Identité, histoire, preuves et révélation **[À CONFIRMER]**. Ne pas transformer cette origine en certitude ni en explication héréditaire de la classe d’Hasol.
 - Aimante, attentive, liée aux soins et à l'artisanat runique.
 - Apprend à Hasol la valeur des runes, lui donne huit runes supplémentaires au chapitre 2, puis la met en relation avec Orven.
 - Présence émotionnelle stable, mais peut s'inquiéter du surmenage de sa fille.
 
 ## Maître Orven
+- **Âge [VALIDÉ — DEC-088] : 52 ans**, date de référence **[À CONFIRMER]** ; le faire vieillir avec la chronologie.
 - Orthographe canonique : **Orven**, pas Orwen.
 - Marchand / artisan runique avec plus de 25 ans d'expérience.
 - Rencontre au chapitre 3 ; devient employeur et mentor de Hasol.
@@ -174,6 +184,7 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 - **Enseignement raconté — DEC-011 et DEC-024 :** chapitre 4, section IV, puis conseil à une cliente en VII ; intérêt des principales fixes à bas niveau et des pourcentages avec la croissance, calcul sur les caractéristiques naturelles. Ne pas le répéter ensuite comme une première découverte.
 
 ## Yoon Notos
+- **Apparence [VALIDÉ — DEC-088] :** cheveux violets tirant vers le rose ; même couleur d’yeux que Zio, teinte exacte **[À CONFIRMER]**.
 - 16 ans au début de son arc ; classe **Sage runique**, Rare.
 - **Rôle [VALIDÉ — DEC-046] :** soutien polyvalent, pas soigneuse pure. Son soin sur la durée reste très inférieur à celui d'une soigneuse spécialisée ; son apport combine renforcement, placement des zones et contrôle du terrain.
 - Niveau 5 lors de la rencontre racontée au chapitre 5 ; niveaux de fin 5 à 8 **[À CONFIRMER]**, sans suite automatique 5→7→8. Au chapitre 9, elle annonce les niveaux 13, 20 avec Domaine, 22 puis 24 ; elle possède encore deux cercles équipables. Les huit du niveau 60 ne sont pas déjà acquis.
@@ -194,6 +205,7 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 
 ## Zio Notos
 
+- **Apparence déjà racontée, à préserver — DEC-088 :** cheveux sombres soigneusement attachés, silhouette élancée, aisance sous l’équipement et grand bouclier dans le dos (chapitre 5). Plus costaud que Ray. Couleur des yeux **[À CONFIRMER]**, identique à celle de Yoon ; ne pas redéfinir les traits déjà établis.
 - **Dernier Rempart [VALIDÉ — DEC-071, précision de DEC-058] :** Zio choisit les PV sacrifiés ; plus le pourcentage conservé est faible, plus l'explosion est puissante. Un sacrifice partiel peut être non mortel ; 0 % conservé entraîne sa mort et maximise le sort. Au chapitre 16, il choisit de tout sacrifier pour être certain de vaincre le démon ; tous deux meurent. Formule et paramètres **[À CONFIRMER]**, sans obligation d'être déjà mortellement blessé ni victoire automatique contre toute cible.
 
 - **Fiche future [VALIDÉ — DEC-053] :** niveau **61** à la fin du livre I ; autodestruction débloquée au niveau **50**. Caractéristiques naturelles au niveau **60**, hors runes et compétences : PV **11 850**, Attaque **648**, Défense **593**, Vitesse **115**, Mana **1 000**, Puissance arcanique **600** (profil de soutien). Fiche au niveau 61 et gains intermédiaires **[À CONFIRMER]**, sans extrapolation.
@@ -212,6 +224,8 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 
 ## Ray Corvus
 
+- **Apparence [VALIDÉ — DEC-088, arbitrage final] :** cheveux sombres, yeux noirs, lunettes ; moins costaud que Zio. L’auteur conserve la couleur déjà racontée au chapitre 1 ; l’option des cheveux gris est abandonnée.
+- **Tenue [VALIDÉ — complément à DEC-088] :** robe de mage gris foncé, sans bonus d’équipement implicite.
 - **Endurance magique [VALIDÉ — DEC-070] :** épuise rapidement son Mana en combat ; gérer les dépenses et les moments où il économise ses sorts. Combustion maîtrisée améliore son efficacité sans supprimer cette faiblesse. Coûts et récupération **[À CONFIRMER]**.
 - **Spécialité et compétences [VALIDÉ — DEC-069] :** mage de feu commun. Actifs : Boule de feu (1), Souffle ardent (10), Trait incandescent (20), Mur de flammes (30), Déflagration (40), Fournaise (50). Passifs : Affinité du feu (1), Résistance à la chaleur (20), Combustion maîtrisée (40). Effets et limites dans `lore/systeme.md`. Ses flammes peuvent menacer ses alliés ; aucune immunité ni exclusion automatique. Au sauvetage niveau 22, seules les compétences jusqu'au niveau 20 sont disponibles ; les neuf sont disponibles au niveau 56 final. Paramètres chiffrés et scènes d'obtention **[À CONFIRMER]**.
 - **Fin du livre I [VALIDÉ — DEC-068] :** niveau **56** au chapitre 16. Statistiques et cercles à ce niveau **[À CONFIRMER]**, sans transfert automatique de la fiche de référence au niveau 60.
@@ -222,6 +236,7 @@ Cette décision admet les principales PV %, Attaque % et Défense %, sans adopte
 - Son intégration porte l'équipe à trois membres et 35/50 points (DEC-036).
 
 ## Samia Claire — Ranger [VALIDÉ, DEC-037 ET DEC-041]
+- **Apparence [VALIDÉ — DEC-088] :** blonde, yeux bleus, très grande beauté et formes harmonieuses ; aucun tempérament ou lien amoureux déduit du physique.
 - **Samia Claire est une femme, amie de Yoon à l'Académie.** Cinquième membre prévu du groupe du livre I, classe **Ranger, Commune**, cinq points : archerie, détection des pièges et ouverture des coffres. Il ne s'agit pas d'un simple rôle de dégâts à distance.
 - **Âge et niveau [VALIDÉ — DEC-042] :** même âge que Yoon, niveau légèrement inférieur lors de son introduction ; valeurs exactes au recrutement à fixer selon la chronologie. Ne pas la maintenir artificiellement à seize ans si Yoon a vieilli ni inventer un écart chiffré de niveaux. Apparence, personnalité, équipement et compétences détaillées **[À CONFIRMER]**.
 - **Acceptation [VALIDÉ — DEC-042] :** Samia accepte de venir dès qu'elle apprend que Zio fait partie du groupe. La raison exacte de cet intérêt reste **[À CONFIRMER]** : ne pas déduire automatiquement une attirance amoureuse, une connaissance antérieure de Zio ou une rivalité avec Hasol. Ne pas réduire Samia à une place dans la composition ou à une source de pouvoirs.
@@ -597,6 +612,7 @@ Les deux premières morts de Ray se répètent : l’ancienne idée de onze dram
 - **Relations et dénouement :** amour réciproque reconstruit avec Zio qui ne se souvient de rien, mariage, enfants et bonheur durable ; la résolution laisse une vraie place à la vie familiale. Le lecteur connaît déjà les solutions de Ray et du père apprises au II ; la méthode pour sauver Yoon/Zio et le monde reste à construire. Pas d’amour dû à Hasol ni d’effacement de l’autonomie de ses proches.
 - **Jalon conservé — DEC-057 :** **36 cercles et emplacements à la fin du livre III**, sans niveau, âge précis, acquisition ou inventaire imposé. Aucun retour supplémentaire ni report de 32 au réveil n’en découle.
 - **[À CONFIRMER] :** titre, nombre de chapitres, scènes détaillées, coûts et prix de la résolution, devenir individuel des autres personnages ; reprise de la scène familiale en épilogue seulement **[PROPOSITION]**.
+- **Origines Astrea [PROPOSITION DE L’AUTEUR — DEC-087] :** une scène montrerait Hasol utilisant sa mémoire parfaite pour rapprocher sa classe astrale des origines de la famille de sa mère et ouvrir une piste face à une difficulté. Indices, nature du lien, difficulté, placement et résultat **[À CONFIRMER]**. Ni hérédité astrale, ni vérité du fondateur supposé, ni résolution de la catastrophe mondiale validées par cette idée ; mémoire parfaite ne vaut pas omniscience.
 
 # 9. Questions ouvertes à trancher avant rédaction définitive
 

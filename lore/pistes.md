@@ -34,6 +34,12 @@ Le plan du livre I en seize chapitres est validé par **DEC-045** ; versions ret
 - **PROPOSITIONS DE L’ASSISTANT, NON APPROUVÉES :** distinguer des opposants aux intérêts légitimes d’adversaires choisissant de nuire ; explorer des tensions de réputation, d’alliance ou de coopération que la puissance seule ne résout pas ; faire varier leurs réactions selon les choix nouveaux d’Hasol, malgré ses souvenirs. Ne pas traiter ces exemples comme un cahier des charges validé.
 - **Limites :** aucun complot expliquant tous les drames, antagoniste humain obligatoire, responsabilité dans les décès ou conflit précis de privatisation n’est établi. Les autres groupes de DEC-082 ne deviennent pas automatiquement malveillants. Les nouveaux alliés de DEC-084 restent distincts de ce projet d’antagonistes.
 
+### Origines Astrea et classe astrale au livre III — DEC-087
+
+- **PROPOSITION DE L’AUTEUR — 21 novembre 2026 :** une scène où Hasol, grâce à sa mémoire parfaite, rapproche sa classe astrale des origines maternelles Astrea ; ce lien ouvrirait une piste pour résoudre une difficulté.
+- **À DÉFINIR :** indices déjà rencontrés et souvenirs rapprochés, hypothèse formulée, difficulté concernée, place de la scène, vérifications, actions et résultat. Ne pas assimiler d’office cette difficulté à la catastrophe mondiale.
+- **Limites :** l’idée ne confirme pas une classe héréditaire ou une causalité généalogique. Selon DEC-086, un héros astral **serait** le fondateur des Astrea : conserver cette incertitude. Aucun savoir absent des vies vécues ne peut être produit par la seule mémoire parfaite ; aucune révélation prématurée au livre I. Une piste ne garantit pas sa réussite.
+
 ### XP — coefficients envisagés, non adoptés comme barème
 
 **PROPOSITION DE L’AUTEUR :** distinguer le coût en XP des classes à l’aide des coefficients suivants, la classe rare servant de référence.
