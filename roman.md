@@ -39622,6 +39622,8 @@ Ils s’éloignèrent enfin à deux, encore surpris de pouvoir le faire.
 
 Les semaines qui suivirent apportèrent des changements beaucoup moins spectaculaires et auxquels Hasol s’attacha tout autant.
 
+Ils vivaient dans la demeure Shun, dans la suite principale qu’Hasol avait reprise. Depuis la mort d’Armin, Iseria avait du mal à y rester ; elle s’était installée dans une suite secondaire de la même demeure. Hasol savait que ce changement n’effaçait rien de leur vie passée. Sa mère était toujours là, avec ses habitudes, ses journées et les moments où l’absence pesait davantage. Vivre avec Zio ne signifiait pas quitter ce foyer ni en éloigner Iseria.
+
 Une place faite aux affaires de Zio. Des vêtements mêlés sur un dossier de chaise. Deux habitudes de sommeil à accorder et un désaccord durable sur la nécessité d’ouvrir les fenêtres dès le matin.
 
 Hasol découvrit que son mari savait laisser un livre exactement à l’endroit où elle avait prévu de poser un dossier. Zio découvrit qu’elle possédait une définition très personnelle du mot « rangé » lorsqu’un travail n’était pas tout à fait terminé.

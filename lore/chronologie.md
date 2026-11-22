@@ -25,6 +25,12 @@ Treize chapitres présents : 1–9 validés, 10–13 en lecture. Les 1–12 n’
   Iseria, Orven et amis présents ; deuil d’Armin conservé sans explication du
   différend ou de sa mort, aucun enfant inventé. Fin quelques semaines plus tard
   dans la vie commune apaisée ; Samia toujours membre du groupe de cinq, 50/50.
+- **Résidence commune — CANON, DEC-108 :** après le mariage, Hasol et Zio vivent
+  dans la demeure Shun, dans la suite principale reprise par Hasol. Iseria reste
+  dans cette demeure, dans une suite secondaire : depuis le décès d’Armin, rester
+  dans la suite principale lui est douloureux. Dates du changement de suite et de
+  l’installation de Zio **À DÉFINIR** ; ne pas les placer immédiatement après la
+  mort ni déduire une cohabitation conjugale avant leur relation au chapitre 13.
 - **À DÉFINIR :** dates calendaires, âges précis des autres, niveaux/statistiques/XP,
   cercles, compteurs et inventaires après les années. Pas de centième boss ni
   premier sort offensif au 13 ; leurs jalons 14/15 restent futurs.

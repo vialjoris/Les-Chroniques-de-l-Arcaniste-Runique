@@ -13,6 +13,12 @@ historiques lorsqu’elles parlent encore du mariage ou de Main comme futurs.
   et responsabilités commerciales maintenues, apprentissage de la disponibilité
   réciproque dans le couple. Deuil d’Armin toujours présent, ni cause du décès ni
   différend avec le Griffon révélés ; aucun enfant fixé.
+- **Résidence d’Hasol, Zio et Iseria — CANON, DEC-108 :** le couple habite dans
+  la demeure Shun ; Hasol a repris la suite principale. Depuis la mort d’Armin,
+  Iseria a du mal à y rester et s’est installée dans une suite secondaire de la
+  même demeure, sans quitter le foyer. Dates des changements de suite et de
+  l’installation de Zio **À DÉFINIR** ; aucune immédiateté après le décès,
+  cohabitation conjugale avant la relation du 13 ou transmission de propriété déduite.
 - **Hasol, compétences :** même Œil runique amélioré avec détection des pièges
   (`C13-F01`), lecture des runes conservée ; Main runique **active** d’ouverture
   des coffres (`C13-F02`). Apprentissages auprès de Samia sur plusieurs années,

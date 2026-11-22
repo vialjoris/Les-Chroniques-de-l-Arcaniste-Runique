@@ -1196,6 +1196,16 @@
 - **Limites :** onze passages du manuscrit seulement ; fenêtres et tous les octets hors de ces substitutions préservés. Aucun niveau, statistique, rune, événement ou relation modifié. Décor architectural détaillé et paramètres non fixés des compétences restent **À DÉFINIR**. Aucun commit ni push.
 - **Fichiers concernés :** `roman.md`, `lore/personnages.md` et présent registre.
 
+## DEC-108 — Résidence du couple et suites de la demeure Shun
+
+- **Statut : CANON — précision et raccords ciblés demandés explicitement par l’auteur le 22 novembre 2026.** Aucune validation littéraire globale des chapitres 10–13 ni autorisation de rédiger le 14.
+- **Source :** « zio et hasol habite dans la demeure shun , iseria sa mere et aussi dans la demeure dans une suite secondaire, depuis la mort de armin elle a du mal a rester dans la suite princpale c'était donc hasol qui l'avait recuperé » (demande directe de la session).
+- **Décision :** Hasol et Zio habitent ensemble dans la demeure Shun. Iseria y réside toujours, dans une suite secondaire ; depuis la mort d’Armin, elle a du mal à rester dans la suite principale, qu’Hasol a reprise. Cette organisation préserve la présence de la mère et la nuance de son deuil, sans rejet ni rupture familiale.
+- **Audit et application :** mentions d’habitation, retours au foyer, chambres et scènes domestiques des chapitres 1–13 vérifiés ; aucune habitation séparée incompatible ou petit logement du couple identifié. Un paragraphe ajouté au chapitre 13, section X, dans les semaines de vie commune suivant le mariage, explicite la demeure et les suites. Les visites de Zio avant la relation, sa présence croissante ensuite et les rendez-vous avec Iseria restent compatibles et sont préservés. Aucun changement aux chapitres 1–12 ni remplacement général de « maison » par « demeure ».
+- **À DÉFINIR :** dates exactes du changement de suite d’Iseria, de la reprise par Hasol et de l’installation de Zio. Ne pas imposer un déménagement immédiat après le décès ou une cohabitation conjugale avant la relation du chapitre 13. Cette résidence ne décide ni donation, ni propriété, ni héritage, ni organisation détaillée des pièces.
+- **Limites :** un seul ajout narratif ; autres octets du manuscrit, fenêtres, images et archives inchangés. Aucun niveau, statistique, rune, compétence ou événement futur modifié. Aucun commit ni push.
+- **Fichiers concernés :** `roman.md`, `lore/personnages.md`, `lore/chronologie.md` et présent registre.
+
 ## Questions de système toujours ouvertes
 
 - Barème numérique des gains secondaires, au-delà des choix individuels consignés pour les deux cadeaux ; règle d’apparition résolue par DEC-006.
