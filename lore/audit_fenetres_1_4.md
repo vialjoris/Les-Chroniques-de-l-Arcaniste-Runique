@@ -1,6 +1,16 @@
-**PROPOSITION — audit et brouillons non canoniques, à valider par l’auteur.**
+**Actualisation DEC-101/102 — quatre révisions validées et intégrées sans repères du lore en début/fin.** Comparaison : les quatre narrations étaient déjà celles de `roman.md` ; seules C3-F01/C4-F01 sont ajoutées, les 89 fenêtres modernisées préexistantes restent préservées. Copies de provenance conservées. Voir [`../docs/integration_chapitres_1_12.md`](../docs/integration_chapitres_1_12.md). Les mentions de propositions et de validation attendue ci-dessous décrivent la préparation historique, pas le statut actuel. Aucune illustration narrative ajoutée ; véritables fenêtres système conservées. La seconde passe graphique et le lecteur des douze chapitres sont contrôlés séparément.
 
 # Audit des fenêtres — chapitres 1 à 4
+
+## Actualisation du 22 novembre 2026 — DEC-091
+
+**CANON — orientation de présentation :** la décision explicite de l’auteur dans `new.txt` (ligne 51618 au moment de la transmission) remplace la demande d’encadrés d’ouverture/clôture de DEC-072. Une partie lore consultable librement en fin de livre est désormais l’orientation retenue ; son contenu et son détail restent **À DÉFINIR**. Aucune annexe n’est rédigée ici.
+
+**Effectué dans les propositions séparées :** suppression des huit blocs « REPÈRES DU LORE — OUVERTURE/CLÔTURE » et de leurs marqueurs C1-LO à C4-LC, deux par copie. Les quatre brouillons sont conservés, sans changement du texte hors blocs balisés ni des vraies fenêtres système, notamment C3-F01 et C4-F01. Décomptes des fenêtres avant → après : chapitre 1, 18 → 16 ; chapitre 2, 16 → 14 ; chapitre 3, 7 → 5 ; chapitre 4, 7 → 5. Repères : 8 → 0. Comparaison octet pour octet avec les copies avant suppression, une fois ces seuls blocs balisés retirés : réussie.
+
+**Manuscrit, intervention distincte terminée par la session principale :** les dix repères des chapitres 5 à 9 sont également supprimés ; la comparaison au manuscrit antérieur confirme que seuls ces blocs ont été retirés. Le présent travail n’est pas un audit des chapitres 10 à 12.
+
+**Historique conservé ci-dessous :** les anciens décomptes, contenus d’encadrés, contrôles et conseils de lecture décrivent la préparation du 21 novembre, non l’état actuel des copies. Ils ne rétablissent pas la demande remplacée par DEC-091. Les en-têtes de provenance des brouillons restent eux aussi historiques.
 
 ## Périmètre et provenance
 

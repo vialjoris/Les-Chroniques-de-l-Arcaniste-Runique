@@ -1,26 +1,14 @@
-**PROPOSITION — à valider après lecture ; copie non canonique, aucun remplacement de `roman.md`.**
+**COPIE DE RÉVISION APPROUVÉE — ARCHIVE PRÉSERVÉE. Le manuscrit officiel reste `roman.md`.**
 
 > Préparation : 21 novembre 2026. Origine : chapitre 4 de l’instantané `/tmp/opencode/arcaniste-integration-20261121/avant/roman.md`, version locale adaptée DEC-027, pas la version ancienne de `new.txt`.
 > SHA-256 du segment source : `8d49d9319831380f12964e2a516a1b9b88c48174abedc1193f32c6ca14aea0f6`.
-> Périmètre : texte intégral inchangé ; ajout HTML C4-F01 en section II conservé, plus deux encadrés éditoriaux pour le lecteur, ouverture et clôture, sur demande explicite de l’auteur. Aucun raccord, aucune retouche de prose. Voir `lore/audit_fenetres_1_4.md` avant lecture. Cette proposition ne valide ni le chapitre ni les paramètres ouverts.
+> Statut actualisé le 22 novembre 2026 : révision approuvée par l’auteur sans lore en début ni en fin ; encadrés déjà retirés par DEC-091. Corps de cette archive conservé, y compris les anciens marqueurs de préparation C4-F01 ; fenêtre intégrée une seule fois au manuscrit. Les paramètres ouverts ne sont pas complétés. Voir `docs/integration_chapitres_1_12.md`.
 
 <!-- DÉBUT DU CHAPITRE DE LECTURE -->
 # Chapitre 4 — La voie de l’artisan
 
 ---
 
-<!-- AJOUT PROPOSÉ C4-LO -->
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — OUVERTURE</div>
-  <p><em>Pour le lecteur — repères éditoriaux, pas une notification reçue par les personnages.</em></p>
-  <ul>
-    <li>Les runes et ressources des clients restent distinctes de celles de l’atelier.</li>
-    <li>Une commande fixe les travaux et les moyens autorisés ; une boîte ouverte n’est pas une réserve libre.</li>
-    <li>La principale et les secondaires doivent être vérifiées séparément du nom d’ensemble.</li>
-    <li>Un passif favorable n’efface ni le risque d’échec ni la nécessité des contrôles.</li>
-  </ul>
-</div>
-<!-- FIN AJOUT PROPOSÉ C4-LO -->
 
 ## I. Les mains d’une apprentie
 
@@ -707,15 +695,3 @@ Hasol posa sa plume près de la première ligne.
 
 Orven acquiesça. Elle se pencha sur le livre et se mit au travail.
 
-<!-- AJOUT PROPOSÉ C4-LC -->
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — CLÔTURE</div>
-  <p><em>Pour le lecteur — repères éditoriaux, pas une notification reçue par les personnages.</em></p>
-  <ul>
-    <li>Chaque tentative consomme des pierres de mana et du Mana personnel, même en cas d’échec.</li>
-    <li>La difficulté et le coût dépendent notamment des étoiles, du grade et du palier visé.</li>
-    <li>Une principale en pourcentage se calcule sur la caractéristique naturelle, avant les bonus fixes runiques.</li>
-    <li>Réserve et attention sont deux limites distinctes : restaurer le Mana ne supprime pas le besoin de repos mental.</li>
-  </ul>
-</div>
-<!-- FIN AJOUT PROPOSÉ C4-LC -->

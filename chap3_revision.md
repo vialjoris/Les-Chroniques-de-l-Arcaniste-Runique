@@ -1,26 +1,14 @@
-**PROPOSITION — à valider après lecture ; copie non canonique, aucun remplacement de `roman.md`.**
+**COPIE DE RÉVISION APPROUVÉE — ARCHIVE PRÉSERVÉE. Le manuscrit officiel reste `roman.md`.**
 
 > Préparation : 21 novembre 2026. Origine : chapitre 3 de l’instantané `/tmp/opencode/arcaniste-integration-20261121/avant/roman.md`, version locale refondue DEC-026, pas la version ancienne de `new.txt`.
 > SHA-256 du segment source : `71081458b50f19a365170012c7bd930aa09d996eb5f23774357367f0fc0a8026`.
-> Périmètre : texte intégral inchangé ; ajout HTML C3-F01 en section V conservé, plus deux encadrés éditoriaux pour le lecteur, ouverture et clôture, sur demande explicite de l’auteur. Aucun raccord, aucune retouche de prose. Voir `lore/audit_fenetres_1_4.md` avant lecture. Cette proposition ne valide ni le chapitre ni les paramètres ouverts.
+> Statut actualisé le 22 novembre 2026 : révision approuvée par l’auteur sans lore en début ni en fin ; encadrés déjà retirés par DEC-091. Corps de cette archive conservé, y compris les anciens marqueurs de préparation C3-F01 ; fenêtre intégrée une seule fois au manuscrit. Les paramètres ouverts ne sont pas complétés. Voir `docs/integration_chapitres_1_12.md`.
 
 <!-- DÉBUT DU CHAPITRE DE LECTURE -->
 # Chapitre 3 — Le prix d’un rêve
 
 ---
 
-<!-- AJOUT PROPOSÉ C3-LO -->
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — OUVERTURE</div>
-  <p><em>Pour le lecteur — repères éditoriaux, pas une notification reçue par les personnages.</em></p>
-  <ul>
-    <li>Bénédiction runique facilite les améliorations sans garantir leur réussite.</li>
-    <li>Une tentative peut échouer et consommer les ressources engagées.</li>
-    <li>Le bonus d’ensemble dépend du nombre de pièces équipées, pas d’une pièce simplement possédée.</li>
-    <li>Remplacer une rune exige de comparer aussi ce que l’on perd en affixes et en ensembles.</li>
-  </ul>
-</div>
-<!-- FIN AJOUT PROPOSÉ C3-LO -->
 
 ## I. Soixante-dix-huit secondes
 
@@ -491,18 +479,6 @@ En passant près de l’épée, elle redressa le fourreau contre le mur. Elle vo
 
 Hasol posa la pièce sur son chevet. De son lit, elle pouvait encore en voir le reflet avant de souffler la lumière.
 
-<!-- AJOUT PROPOSÉ C3-LC -->
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — CLÔTURE</div>
-  <p><em>Pour le lecteur — repères éditoriaux, pas une notification reçue par les personnages.</em></p>
-  <ul>
-    <li>À +3, une rune commune sans secondaire en reçoit une et devient peu commune ; ses étoiles ne changent pas.</li>
-    <li>Une rune travaillée pour l’atelier ne rejoint pas l’équipement personnel de l’artisan.</li>
-    <li>À l’atelier, chaque tentative doit être notée et respecter les ressources autorisées.</li>
-    <li>Un budget épuisé exige un nouvel accord avant de prendre d’autres ressources.</li>
-  </ul>
-</div>
-<!-- FIN AJOUT PROPOSÉ C3-LC -->
 
 ---
 

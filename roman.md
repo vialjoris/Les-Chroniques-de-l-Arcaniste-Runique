@@ -13,6 +13,9 @@
 7. [Chapitre 7 — Le talent d’une légende](#chapitre-7)
 8. [Chapitre 8 — La puissance des dix runes](#chapitre-8)
 9. [Chapitre 9 — Douze cercles](#chapitre-9)
+10. [Chapitre 10 — Ceux qui riaient autrefois](#chapitre-10)
+11. [Chapitre 11 — Le dernier départ](#chapitre-11)
+12. [Chapitre 12 — La légende prend sa place](#chapitre-12)
 
 ---
 
@@ -770,18 +773,18 @@ Une colonne dorée s’éleva jusqu’au plafond.
 
 Et devant Hasol, une fenêtre translucide apparut.
 
-<div class="system-window legendary">
-  <div class="system-header">✦ SYSTÈME — RÉVÉLATION DE CLASSE ✦</div>
+<div class="system-window legendary lit-window" data-window-id="001" data-window-type="revelation">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>SYSTÈME — RÉVÉLATION DE CLASSE</div>
   <h3>Hasol Shun</h3>
-  <p><strong>Classe éveillée :</strong> Arcaniste runique</p>
-  <p><strong>Orientation :</strong> Soutien</p>
-  <p><strong>Rareté :</strong> <span class="legendary-text">★ LÉGENDAIRE ★</span></p>
-  <p><strong>Niveau :</strong> 1</p>
+  <p class="lit-window__row"><strong>Classe éveillée :</strong> <span>Arcaniste runique</span></p>
+  <p class="lit-window__row"><strong>Orientation :</strong> <span>Soutien</span></p>
+  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">★ LÉGENDAIRE ★</span></p>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">1</span></p>
   <hr>
-  <p><strong>Cercles de mana :</strong> 2</p>
-  <p><strong>Emplacements runiques :</strong> 2</p>
+  <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">2</span></p>
+  <p class="lit-window__row"><strong>Emplacements runiques :</strong> <span class="lit-window__value">2</span></p>
   <hr>
-  <p><strong>Compétence de classe :</strong></p>
+  <p class="lit-window__section-title"><strong>Compétence de classe :</strong></p>
   <p><strong>Bénédiction runique</strong> <span class="passive-badge">Passive</span></p>
   <p>Augmente les probabilités de réussite lors de l’amélioration des runes.</p>
 </div>
@@ -982,16 +985,16 @@ Hasol prit la première rune rare à six étoiles entre ses doigts.
 
 Une fenêtre apparut.
 
-<div class="rune-window blue-grade">
-  <div class="system-header">◆ RUNE IDENTIFIÉE ◆</div>
-  <h3>Rune Fatal rare (bleue) — 6★ <span class="upgrade-badge">+6</span></h3>
-  <p><strong>Grade :</strong> <span class="rune-bonus">Rare — Bleu</span></p>
-  <p><strong>Caractéristique principale :</strong></p>
+<div class="rune-window blue-grade lit-window" data-window-id="002" data-window-type="rune">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
+  <h3>Rune Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★ <span class="upgrade-badge">+6</span></h3>
+  <p class="lit-window__row"><strong>Grade :</strong> <span class="rune-bonus lit-badge lit-badge--rune-rare">Rare — Bleu</span></p>
+  <p class="lit-window__section-title"><strong>Caractéristique principale :</strong></p>
   <p class="rune-bonus">Attaque +70</p>
-  <p><strong>Caractéristiques secondaires :</strong></p>
+  <p class="lit-window__section-title"><strong>Caractéristiques secondaires :</strong></p>
   <p class="rune-bonus">Vitesse +4</p>
   <p class="rune-bonus">PV +25</p>
-  <p><strong>Ensemble :</strong> Fatal</p>
+  <p class="lit-window__row"><strong>Ensemble :</strong> <span>Fatal</span></p>
 </div>
 
 Elle contempla les inscriptions.
@@ -1020,10 +1023,10 @@ Puis se transforma en particules bleutées qui pénétrèrent dans sa poitrine.
 
 Un symbole apparut brièvement autour de son premier cercle.
 
-<div class="system-window success">
-  <div class="system-header">✓ RUNE ÉQUIPÉE</div>
-  <p><strong>Rune Fatal rare (bleue) — 6★</strong> <span class="upgrade-badge">+6</span></p>
-  <p>Emplacements utilisés : <strong>1 / 2</strong></p>
+<div class="system-window success lit-window" data-window-id="003" data-window-type="equipement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>RUNE ÉQUIPÉE</div>
+  <p><strong>Rune Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
+  <p class="lit-window__row"><span>Emplacements utilisés :</span> <strong class="lit-window__value">1 / 2</strong></p>
 </div>
 
 Hasol ouvrit les yeux.
@@ -1034,24 +1037,24 @@ Hasol ouvrit les yeux.
 
 Elle prit aussitôt la seconde rune rare à six étoiles.
 
-<div class="rune-window blue-grade">
-  <div class="system-header">◆ RUNE IDENTIFIÉE ◆</div>
-  <h3>Rune Gardien rare (bleue) — 6★ <span class="upgrade-badge">+6</span></h3>
-  <p><strong>Grade :</strong> <span class="rune-bonus">Rare — Bleu</span></p>
-  <p><strong>Caractéristique principale :</strong></p>
+<div class="rune-window blue-grade lit-window" data-window-id="004" data-window-type="rune">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
+  <h3>Rune Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★ <span class="upgrade-badge">+6</span></h3>
+  <p class="lit-window__row"><strong>Grade :</strong> <span class="rune-bonus lit-badge lit-badge--rune-rare">Rare — Bleu</span></p>
+  <p class="lit-window__section-title"><strong>Caractéristique principale :</strong></p>
   <p class="rune-bonus">Défense +70</p>
-  <p><strong>Caractéristiques secondaires :</strong></p>
+  <p class="lit-window__section-title"><strong>Caractéristiques secondaires :</strong></p>
   <p class="rune-bonus">PV +30</p>
   <p class="rune-bonus">Mana +20</p>
-  <p><strong>Ensemble :</strong> Gardien</p>
+  <p class="lit-window__row"><strong>Ensemble :</strong> <span>Gardien</span></p>
 </div>
 
 Quelques instants plus tard, la rune Gardien rare à six étoiles rejoignit la Fatal rare à six étoiles.
 
-<div class="system-window success">
-  <div class="system-header">✓ RUNE ÉQUIPÉE</div>
-  <p><strong>Rune Gardien rare (bleue) — 6★</strong> <span class="upgrade-badge">+6</span></p>
-  <p>Emplacements utilisés : <strong>2 / 2</strong></p>
+<div class="system-window success lit-window" data-window-id="005" data-window-type="equipement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>RUNE ÉQUIPÉE</div>
+  <p><strong>Rune Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
+  <p class="lit-window__row"><span>Emplacements utilisés :</span> <strong class="lit-window__value">2 / 2</strong></p>
 </div>
 
 Hasol sentit une légère modification dans la circulation de son mana.
@@ -1064,14 +1067,14 @@ Comme si son corps venait de recevoir deux soutiens invisibles.
 
 Elle ouvrit son statut.
 
-<div class="character-sheet">
-  <div class="system-header">✦ FICHE DE PERSONNAGE ✦</div>
+<div class="character-sheet lit-window" data-window-id="006" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 1</h3>
-  <p><strong>Classe :</strong> Arcaniste runique</p>
-  <p><strong>Orientation :</strong> Soutien</p>
-  <p><strong>Rareté :</strong> <span class="legendary-text">Légendaire</span></p>
-  <table>
-    <thead><tr><th>Caractéristique</th><th>Valeur</th></tr></thead>
+  <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
+  <p class="lit-window__row"><strong>Orientation :</strong> <span>Soutien</span></p>
+  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <table class="lit-window__stats">
+    <thead><tr><th scope="col">Caractéristique</th><th scope="col">Valeur</th></tr></thead>
     <tbody>
       <tr><td>PV</td><td><strong>2940</strong> <span class="rune-bonus">+55</span></td></tr>
       <tr><td>Attaque</td><td><strong>199</strong> <span class="rune-bonus">+70</span></td></tr>
@@ -1081,12 +1084,12 @@ Elle ouvrit son statut.
       <tr><td>Puissance arcanique</td><td><strong>20</strong></td></tr>
     </tbody>
   </table>
-  <p><strong>Cercles de mana :</strong> 2</p>
-  <p><strong>Runes équipées :</strong> 2 / 2</p>
+  <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">2</span></p>
+  <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">2 / 2</span></p>
   <hr>
-  <p><strong>Équipement runique :</strong></p>
-  <p>Rune Fatal bleue 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
-  <p>Rune Gardien bleue 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
+  <p class="lit-window__section-title"><strong>Équipement runique :</strong></p>
+  <p>Rune Fatal <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
+  <p>Rune Gardien <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
   <p><strong>Bonus d'ensembles actifs :</strong> Aucun</p>
 </div>
 
@@ -1264,16 +1267,16 @@ Sa première montée de niveau survint après plusieurs exercices et chasses sup
 
 Une fenêtre apparut devant elle.
 
-<div class="system-window level-up">
-  <div class="system-header">✦ NIVEAU SUPÉRIEUR ✦</div>
+<div class="system-window level-up lit-window" data-window-id="007" data-window-type="niveau">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
   <h3>Niveau 2 atteint !</h3>
-  <p><strong>Augmentation des caractéristiques naturelles :</strong></p>
-  <p>PV : +10</p>
-  <p>Attaque : +1</p>
-  <p>Défense : +0</p>
-  <p>Vitesse : +1</p>
-  <p>Mana : +28</p>
-  <p>Puissance arcanique : +17</p>
+  <p class="lit-window__section-title"><strong>Augmentation des caractéristiques naturelles :</strong></p>
+  <p class="lit-window__row"><span>PV :</span> <span class="lit-window__value">+10</span></p>
+  <p class="lit-window__row"><span>Attaque :</span> <span class="lit-window__value">+1</span></p>
+  <p class="lit-window__row"><span>Défense :</span> <span class="lit-window__value">+0</span></p>
+  <p class="lit-window__row"><span>Vitesse :</span> <span class="lit-window__value">+1</span></p>
+  <p class="lit-window__row"><span>Mana :</span> <span class="lit-window__value">+28</span></p>
+  <p class="lit-window__row"><span>Puissance arcanique :</span> <span class="lit-window__value">+17</span></p>
 </div>
 
 Hasol resta figée.
@@ -2368,16 +2371,16 @@ La lumière du soleil couchant colorait l’herbe d’orange.
 
 Une notification apparut.
 
-<div class="system-window level-up">
-  <div class="system-header">✦ NIVEAU SUPÉRIEUR ✦</div>
+<div class="system-window level-up lit-window" data-window-id="008" data-window-type="niveau">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
   <h3>Niveau 9 atteint !</h3>
-  <p><strong>Augmentation des caractéristiques naturelles :</strong></p>
-  <p>PV : +12</p>
-  <p>Attaque : +1</p>
-  <p>Défense : +0</p>
-  <p>Vitesse : +2</p>
-  <p>Mana : +24</p>
-  <p>Puissance arcanique : +16</p>
+  <p class="lit-window__section-title"><strong>Augmentation des caractéristiques naturelles :</strong></p>
+  <p class="lit-window__row"><span>PV :</span> <span class="lit-window__value">+12</span></p>
+  <p class="lit-window__row"><span>Attaque :</span> <span class="lit-window__value">+1</span></p>
+  <p class="lit-window__row"><span>Défense :</span> <span class="lit-window__value">+0</span></p>
+  <p class="lit-window__row"><span>Vitesse :</span> <span class="lit-window__value">+2</span></p>
+  <p class="lit-window__row"><span>Mana :</span> <span class="lit-window__value">+24</span></p>
+  <p class="lit-window__row"><span>Puissance arcanique :</span> <span class="lit-window__value">+16</span></p>
 </div>
 
 Hasol contempla les chiffres.
@@ -2406,14 +2409,14 @@ Et pour la première fois depuis longtemps, elle pleura sans chercher à se rete
 
 Quelques jours avant la fin de l’année, elle consulta son statut.
 
-<div class="character-sheet">
-  <div class="system-header">✦ FICHE DE PERSONNAGE ✦</div>
+<div class="character-sheet lit-window" data-window-id="009" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 9</h3>
-  <p><strong>Classe :</strong> Arcaniste runique</p>
-  <p><strong>Orientation :</strong> Soutien</p>
-  <p><strong>Rareté :</strong> <span class="legendary-text">Légendaire</span></p>
-  <table>
-    <thead><tr><th>Caractéristique</th><th>Valeur</th></tr></thead>
+  <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
+  <p class="lit-window__row"><strong>Orientation :</strong> <span>Soutien</span></p>
+  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <table class="lit-window__stats">
+    <thead><tr><th scope="col">Caractéristique</th><th scope="col">Valeur</th></tr></thead>
     <tbody>
       <tr><td>PV</td><td><strong>3045</strong> <span class="rune-bonus">+55</span></td></tr>
       <tr><td>Attaque</td><td><strong>211</strong> <span class="rune-bonus">+70</span></td></tr>
@@ -2423,12 +2426,12 @@ Quelques jours avant la fin de l’année, elle consulta son statut.
       <tr><td>Puissance arcanique</td><td><strong>186</strong></td></tr>
     </tbody>
   </table>
-  <p><strong>Cercles de mana :</strong> 2</p>
-  <p><strong>Runes équipées :</strong> 2 / 2</p>
+  <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">2</span></p>
+  <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">2 / 2</span></p>
   <hr>
-  <p><strong>Équipement runique :</strong></p>
-  <p>Rune Fatal bleue 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
-  <p>Rune Gardien bleue 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
+  <p class="lit-window__section-title"><strong>Équipement runique :</strong></p>
+  <p>Rune Fatal <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
+  <p>Rune Gardien <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
   <p><strong>Bonus d'ensembles actifs :</strong> Aucun</p>
   <p><strong>Compétences actives :</strong> Aucune</p>
 </div>
@@ -2893,11 +2896,11 @@ Puis s’arrêta.
 
 Devant elle, un petit slime bleu se déplaçait lentement dans l’herbe.
 
-<div class="system-window monster">
-  <div class="system-header">MONSTRE IDENTIFIÉ</div>
+<div class="system-window monster lit-window" data-window-id="010" data-window-type="monstre">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
   <h3>Slime bleu</h3>
-  <p><strong>Niveau :</strong> 1</p>
-  <p><strong>Expérience :</strong> 1 XP</p>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">1</span></p>
+  <p class="lit-window__row"><strong>Expérience :</strong> <span class="lit-window__value">1 XP</span></p>
 </div>
 
 Hasol contempla la créature.
@@ -2936,10 +2939,10 @@ La créature se dissipa en particules lumineuses.
 
 Une notification apparut.
 
-<div class="system-window level-up">
-  <div class="system-header">✦ MONSTRE ÉLIMINÉ ✦</div>
+<div class="system-window level-up lit-window" data-window-id="011" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>MONSTRE ÉLIMINÉ</div>
   <p>Slime bleu — Niveau 1</p>
-  <p><strong>Expérience obtenue : +1 XP</strong></p>
+  <p class="lit-window__row"><strong>Expérience obtenue :</strong> <strong class="lit-window__value">+1 XP</strong></p>
   <hr>
   <h3>NIVEAU SUPÉRIEUR !</h3>
   <p><strong>Niveau 10 atteint !</strong></p>
@@ -2957,15 +2960,15 @@ Le niveau 10.
 
 Une deuxième fenêtre apparut.
 
-<div class="system-window level-up">
-  <div class="system-header">✦ AUGMENTATION DES CARACTÉRISTIQUES ✦</div>
+<div class="system-window level-up lit-window" data-window-id="012" data-window-type="caracteristiques">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>AUGMENTATION DES CARACTÉRISTIQUES</div>
   <h3>Niveau 9 → Niveau 10</h3>
-  <p>PV : +13</p>
-  <p>Attaque : +2</p>
-  <p>Défense : +1</p>
-  <p>Vitesse : +2</p>
-  <p>Mana : +45</p>
-  <p>Puissance arcanique : +25</p>
+  <p class="lit-window__row"><span>PV :</span> <span class="lit-window__value">+13</span></p>
+  <p class="lit-window__row"><span>Attaque :</span> <span class="lit-window__value">+2</span></p>
+  <p class="lit-window__row"><span>Défense :</span> <span class="lit-window__value">+1</span></p>
+  <p class="lit-window__row"><span>Vitesse :</span> <span class="lit-window__value">+2</span></p>
+  <p class="lit-window__row"><span>Mana :</span> <span class="lit-window__value">+45</span></p>
+  <p class="lit-window__row"><span>Puissance arcanique :</span> <span class="lit-window__value">+25</span></p>
 </div>
 
 Le sourire de Hasol s’effaça.
@@ -3014,24 +3017,28 @@ Hasol fronça les sourcils.
 
 — Qu’est-ce que… ?
 
-<div class="system-window legendary">
-  <div class="system-header">✦ ARCANISTE RUNIQUE — NIVEAU 10 ✦</div>
+<div class="system-window legendary lit-window" data-window-id="013" data-window-type="competence">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>ARCANISTE RUNIQUE — NIVEAU 10</div>
   <h3>NOUVELLE COMPÉTENCE DÉBLOQUÉE</h3>
   <h2>Croissance runique</h2>
-  <p><strong>Rareté :</strong> <span class="legendary-text">Légendaire</span></p>
+  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
   <p><strong>Type :</strong> <span class="passive-badge">Passive</span></p>
   <hr>
-  <p><strong>Effet :</strong></p>
+  <div class="lit-window__section">
+  <p class="lit-window__section-title"><strong>Effet :</strong></p>
   <p>Chaque tranche de 1 000 monstres admissibles éliminés permet de développer :</p>
   <p><strong>+1 cercle de mana</strong></p>
   <p><strong>+1 emplacement runique</strong></p>
   <p>Les éliminations antérieures sont prises en compte rétroactivement.</p>
+  </div>
   <hr>
-  <p><strong>Conditions d'admissibilité :</strong></p>
+  <div class="lit-window__section">
+  <p class="lit-window__section-title"><strong>Conditions d'admissibilité :</strong></p>
   <p>Niveaux 10 à 19 : monstres de niveau 1 minimum</p>
   <p>Niveaux 20 à 29 : monstres de niveau 10 minimum</p>
   <p>Niveaux 30 à 39 : monstres de niveau 20 minimum</p>
   <p>Les conditions évoluent avec le niveau du porteur.</p>
+  </div>
 </div>
 
 Hasol relut la description.
@@ -3068,13 +3075,13 @@ Ses doigts tremblèrent.
 
 Une nouvelle fenêtre apparut.
 
-<div class="system-window success">
-  <div class="system-header">✦ ANALYSE DE L’HISTORIQUE ✦</div>
+<div class="system-window success lit-window" data-window-id="014" data-window-type="croissance">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>ANALYSE DE L’HISTORIQUE</div>
   <h3>Croissance runique</h3>
-  <p><strong>Éliminations admissibles enregistrées :</strong> plus de 8 000</p>
-  <p><strong>Seuils de 1 000 atteints :</strong> 8</p>
+  <p class="lit-window__row"><strong>Éliminations admissibles enregistrées :</strong> <span>plus de 8 000</span></p>
+  <p class="lit-window__row"><strong>Seuils de 1 000 atteints :</strong> <span class="lit-window__value">8</span></p>
   <hr>
-  <p><strong>Récompenses :</strong></p>
+  <p class="lit-window__section-title"><strong>Récompenses :</strong></p>
   <p class="success-text">+8 cercles de mana</p>
   <p class="success-text">+8 emplacements runiques</p>
   <p><em>Activation des récompenses rétroactives…</em></p>
@@ -3148,12 +3155,12 @@ Chaque nouvelle possibilité.
 
 Et une dernière notification apparut.
 
-<div class="system-window success">
-  <div class="system-header">✦ CROISSANCE RUNIQUE ✦</div>
+<div class="system-window success lit-window" data-window-id="015" data-window-type="croissance">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE</div>
   <h3>ÉVOLUTION ACCOMPLIE !</h3>
-  <p><strong>Cercles de mana :</strong> 2 → <span class="success-text">10</span></p>
-  <p><strong>Emplacements runiques :</strong> 2 → <span class="success-text">10</span></p>
-  <p><strong>Runes équipées :</strong> 2 / 10</p>
+  <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">2 → <span class="success-text">10</span></span></p>
+  <p class="lit-window__row"><strong>Emplacements runiques :</strong> <span class="lit-window__value">2 → <span class="success-text">10</span></span></p>
+  <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">2 / 10</span></p>
   <hr>
   <p class="success-text">Les dix cercles de mana sont désormais actifs.</p>
 </div>
@@ -3276,14 +3283,14 @@ Dix possibilités.
 
 Elle ouvrit une dernière fois son statut.
 
-<div class="character-sheet">
-  <div class="system-header">✦ FICHE DE PERSONNAGE ✦</div>
+<div class="character-sheet lit-window" data-window-id="016" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 10</h3>
-  <p><strong>Classe :</strong> Arcaniste runique</p>
-  <p><strong>Orientation :</strong> Soutien</p>
-  <p><strong>Rareté :</strong> <span class="legendary-text">Légendaire</span></p>
-  <table>
-    <thead><tr><th>Caractéristique</th><th>Valeur</th></tr></thead>
+  <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
+  <p class="lit-window__row"><strong>Orientation :</strong> <span>Soutien</span></p>
+  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <table class="lit-window__stats">
+    <thead><tr><th scope="col">Caractéristique</th><th scope="col">Valeur</th></tr></thead>
     <tbody>
       <tr><td>PV</td><td><strong>3058</strong> <span class="rune-bonus">+55</span></td></tr>
       <tr><td>Attaque</td><td><strong>213</strong> <span class="rune-bonus">+70</span></td></tr>
@@ -3293,16 +3300,16 @@ Elle ouvrit une dernière fois son statut.
       <tr><td>Puissance arcanique</td><td><strong>211</strong></td></tr>
     </tbody>
   </table>
-  <p><strong>Cercles de mana :</strong> 10</p>
-  <p><strong>Emplacements runiques :</strong> 10</p>
-  <p><strong>Runes équipées :</strong> 2 / 10</p>
+  <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">10</span></p>
+  <p class="lit-window__row"><strong>Emplacements runiques :</strong> <span class="lit-window__value">10</span></p>
+  <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">2 / 10</span></p>
   <hr>
-  <p><strong>Équipement runique :</strong></p>
-  <p>Rune Fatal bleue 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
-  <p>Rune Gardien bleue 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
+  <p class="lit-window__section-title"><strong>Équipement runique :</strong></p>
+  <p>Rune Fatal <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
+  <p>Rune Gardien <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
   <p><strong>Bonus d'ensembles actifs :</strong> Aucun</p>
   <hr>
-  <p><strong>Compétences :</strong></p>
+  <p class="lit-window__section-title"><strong>Compétences :</strong></p>
   <p>Bénédiction runique — Passive</p>
   <p>Croissance runique — Passive</p>
   <p><strong>Compétences offensives :</strong> Aucune</p>
@@ -3500,11 +3507,11 @@ Mais cette fois, sa propre voix ne se brisa pas.
 
 Elle ouvrit la fenêtre et la partagea avec sa mère.
 
-<div class="system-window legendary">
-  <div class="system-header">✦ COMPÉTENCE DE CLASSE ✦</div>
+<div class="system-window legendary lit-window" data-window-id="017" data-window-type="competence">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>COMPÉTENCE DE CLASSE</div>
   <h3>Croissance runique</h3>
-  <p><strong>Type :</strong> Passive — <span class="legendary-text">Légendaire</span></p>
-  <p><strong>Déblocage :</strong> Niveau 10</p>
+  <p><strong>Type :</strong> <span class="passive-badge">Passive</span> — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p class="lit-window__row"><strong>Déblocage :</strong> <span>Niveau 10</span></p>
   <hr>
   <p>Chaque tranche de 1 000 monstres admissibles éliminés accorde un cercle de mana et un emplacement runique supplémentaires.</p>
   <p>Les éliminations antérieures sont prises en compte rétroactivement.</p>
@@ -3523,12 +3530,12 @@ Hasol sentit sa gorge se serrer de nouveau.
 
 Elle fit apparaître une seconde fenêtre.
 
-<div class="system-window">
-  <div class="system-header">✦ ÉTAT RUNIQUE — HASOL SHUN ✦</div>
-  <p><strong>Niveau :</strong> 10</p>
-  <p><strong>Cercles de mana :</strong> 10</p>
-  <p><strong>Emplacements runiques :</strong> 10</p>
-  <p><strong>Runes équipées :</strong> 2 / 10</p>
+<div class="system-window lit-window" data-window-id="018" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>ÉTAT RUNIQUE — HASOL SHUN</div>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">10</span></p>
+  <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">10</span></p>
+  <p class="lit-window__row"><strong>Emplacements runiques :</strong> <span class="lit-window__value">10</span></p>
+  <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">2 / 10</span></p>
 </div>
 
 Sa mère porta une main à sa bouche.
@@ -3693,20 +3700,20 @@ Hasol sentit quelque chose se remettre en ordre dans son esprit. Elle connaissai
 
 Elles examinèrent ensuite les huit nouvelles acquisitions. Sa mère lui demanda de lire chaque principale, de distinguer chaque secondaire et d’expliquer ce qu’elle espérait en tirer. Hasol se trompa une fois en allant trop vite ; elles reprirent la ligne depuis le début.
 
-<div class="character-sheet">
-  <div class="system-header">◆ HUIT RUNES DU DON MATERNEL ◆</div>
+<div class="character-sheet lit-window" data-window-id="019" data-window-type="inventaire">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>HUIT RUNES DU DON MATERNEL</div>
   <p><strong>Rang :</strong> 3★ pour chacune — <strong>Amélioration initiale :</strong> +0</p>
-  <table>
-    <thead><tr><th>Rune, rareté et rang</th><th>Principale</th><th>Secondaires à +0</th></tr></thead>
+  <table class="lit-window__inventory" role="table">
+    <thead><tr><th scope="col">Rune, rareté et rang</th><th scope="col">Principale</th><th scope="col">Secondaires à +0</th></tr></thead>
     <tbody>
-      <tr><td>Fatal rare (bleue), 3★, +0</td><td><span class="rune-bonus">Attaque +7</span></td><td><span class="rune-bonus">Vitesse +2 ; PV +30</span></td></tr>
-      <tr><td>Fatal peu commune (verte), 3★, +0</td><td><span class="rune-bonus">Attaque +7</span></td><td><span class="rune-bonus">Défense +3</span></td></tr>
-      <tr><td>Fatal peu commune (verte), 3★, +0</td><td><span class="rune-bonus">Vitesse +3</span></td><td><span class="rune-bonus">Attaque +3</span></td></tr>
-      <tr><td>Gardien rare (bleue), 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3 %</span></td></tr>
-      <tr><td>Gardien rare (bleue), 3★, +0</td><td><span class="rune-bonus">Défense +7</span></td><td><span class="rune-bonus">PV +30 ; Vitesse +2</span></td></tr>
-      <tr><td>Gardien peu commune (verte), 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3</span></td></tr>
-      <tr><td>Énergie rare (bleue), 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3 %</span></td></tr>
-      <tr><td>Énergie peu commune (verte), 3★, +0</td><td><span class="rune-bonus">Défense +7</span></td><td><span class="rune-bonus">PV +30</span></td></tr>
+      <tr><td>Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">Attaque +7</span></td><td><span class="rune-bonus">Vitesse +2 ; PV +30</span></td></tr>
+      <tr><td>Fatal <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">Attaque +7</span></td><td><span class="rune-bonus">Défense +3</span></td></tr>
+      <tr><td>Fatal <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">Vitesse +3</span></td><td><span class="rune-bonus">Attaque +3</span></td></tr>
+      <tr><td>Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3 %</span></td></tr>
+      <tr><td>Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">Défense +7</span></td><td><span class="rune-bonus">PV +30 ; Vitesse +2</span></td></tr>
+      <tr><td>Gardien <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3</span></td></tr>
+      <tr><td>Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3 %</span></td></tr>
+      <tr><td>Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">Défense +7</span></td><td><span class="rune-bonus">PV +30</span></td></tr>
     </tbody>
   </table>
 </div>
@@ -3757,11 +3764,11 @@ La lumière prit sous ses doigts. Une vibration remonta le long de son poignet, 
 
 L’éclat s’éteignit.
 
-<div class="system-window">
-  <div class="system-header">◆ TENTATIVE D’AMÉLIORATION ◆</div>
-  <p><strong>Rune :</strong> Fatal rare (bleue), 3★</p>
-  <p><strong>Tentative :</strong> +0 → +1</p>
-  <p><strong>Résultat :</strong> Échec</p>
+<div class="system-window lit-window" data-window-id="020" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>TENTATIVE D’AMÉLIORATION</div>
+  <p><strong>Rune :</strong> Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★</p>
+  <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
+  <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État après la tentative :</strong> +0 — caractéristiques inchangées</p>
   <p>Les ressources engagées dans cette tentative ont été consommées.</p>
 </div>
@@ -3790,9 +3797,9 @@ La dernière tentative lui parut durer plus longtemps que les autres.
 
 Puis un éclat bleu se répandit sur le linge.
 
-<div class="rune-window blue-grade">
-  <div class="system-header">✓ AMÉLIORATION RÉUSSIE ◆</div>
-  <h3>Rune Fatal rare (bleue), 3★ <span class="upgrade-badge">+3</span></h3>
+<div class="rune-window blue-grade lit-window" data-window-id="021" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
+  <h3>Rune Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★ <span class="upgrade-badge">+3</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Attaque +7 → +22</span></p>
   <p><strong>Secondaire renforcée à +3 :</strong> <span class="rune-bonus">Vitesse +2 → +4</span></p>
   <p><strong>Autre secondaire :</strong> <span class="rune-bonus">PV +30</span></p>
@@ -3843,10 +3850,10 @@ Les deux cadeaux rares, bleus, six étoiles, +6 de son père n’avaient pas qui
 
 Lorsque le dernier lien se stabilisa, Hasol sentit un changement dans la circulation de son mana. Pas un choc, ni la sensation démesurée des nouveaux cercles dans les plaines. Plutôt une série d’appuis qui venaient se mettre en place, encore étrangers, mais distincts.
 
-<div class="system-window success">
-  <div class="system-header">✓ ÉQUIPEMENT RUNIQUE ACTUALISÉ</div>
-  <p><strong>Emplacements occupés :</strong> 10 / 10</p>
-  <p><strong>Équipement :</strong> 2 runes rares (bleues), 6★, +6 ; 8 runes 3★ de grades peu commun (vert) et rare (bleu), dont 1 à +3 et 7 à +0.</p>
+<div class="system-window success lit-window" data-window-id="022" data-window-type="equipement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ÉQUIPEMENT RUNIQUE ACTUALISÉ</div>
+  <p class="lit-window__row"><strong>Emplacements occupés :</strong> <span class="lit-window__value">10 / 10</span></p>
+  <p><strong>Équipement :</strong> 2 runes <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; 8 runes 3★ de grades <span class="lit-badge lit-badge--rune-uncommon">peu commun (vert)</span> et <span class="lit-badge lit-badge--rune-rare">rare (bleu)</span>, dont 1 à +3 et 7 à +0.</p>
   <hr>
   <p><strong>Fatal :</strong> 4 pièces — 1 ensemble de 4 actif — <span class="rune-bonus">Attaque +35 %</span></p>
   <p><strong>Gardien :</strong> 4 pièces — 2 ensembles de 2 actifs — <span class="rune-bonus">Défense +15 % +15 % = +30 %</span></p>
@@ -3865,13 +3872,13 @@ Sa mère la regardait avec attention, sans partager tout à fait son impatience.
 
 Hasol consulta la fiche. Les bonus fixes étaient distingués des caractéristiques de son corps ; les ensembles apparaissaient à part. Elle suivit les lignes du doigt, puis revint aux dix emplacements.
 
-<div class="character-sheet">
-  <div class="system-header">✦ FICHE DE PERSONNAGE ✦</div>
+<div class="character-sheet lit-window" data-window-id="023" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 10</h3>
   <p><strong>Classe :</strong> Arcaniste runique — Soutien</p>
-  <p><strong>Rareté :</strong> <span class="legendary-text">Légendaire</span></p>
-  <table>
-    <thead><tr><th>Caractéristique</th><th>Naturelle et bonus fixes runiques</th></tr></thead>
+  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <table class="lit-window__stats">
+    <thead><tr><th scope="col">Caractéristique</th><th scope="col">Naturelle et bonus fixes runiques</th></tr></thead>
     <tbody>
       <tr><td>PV</td><td><strong>3058</strong> <span class="rune-bonus">+445</span></td></tr>
       <tr><td>Attaque</td><td><strong>213</strong> <span class="rune-bonus">+102</span></td></tr>
@@ -3921,8 +3928,8 @@ Elle vérifia les réglages une seconde fois. Lorsqu’elle recommencerait, elle
 
 Puis elle prit position.
 
-<div class="system-window">
-  <div class="system-header">◆ EXERCICE D’ENTRAÎNEMENT ◆</div>
+<div class="system-window lit-window" data-window-id="024" data-window-type="entrainement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE D’ENTRAÎNEMENT</div>
   <p><strong>Adversaire simulé :</strong> Guerrier ordinaire — Niveau 10</p>
   <p><strong>Condition d’arrêt :</strong> 3 touches reçues</p>
   <p><strong>Mesure :</strong> Temps écoulé jusqu’à la troisième touche reçue</p>
@@ -3959,11 +3966,11 @@ La feinte la prit avant qu’elle comprenne qu’il n’y avait pas d’ouvertur
 
 La troisième touche frappa son flanc. La construction s’immobilisa aussitôt.
 
-<div class="system-window">
-  <div class="system-header">◆ EXERCICE TERMINÉ ◆</div>
-  <p><strong>Durée :</strong> 42 secondes</p>
-  <p><strong>Touches portées :</strong> 1</p>
-  <p><strong>Touches reçues :</strong> 3</p>
+<div class="system-window lit-window" data-window-id="025" data-window-type="entrainement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE TERMINÉ</div>
+  <p class="lit-window__row"><strong>Durée :</strong> <span class="lit-window__value">42 secondes</span></p>
+  <p class="lit-window__row"><strong>Touches portées :</strong> <span class="lit-window__value">1</span></p>
+  <p class="lit-window__row"><strong>Touches reçues :</strong> <span class="lit-window__value">3</span></p>
   <p><strong>Résultat :</strong> Défaite — condition d’arrêt atteinte</p>
 </div>
 
@@ -4029,10 +4036,10 @@ Un froissement se produisit sur sa droite.
 
 Elle s’arrêta, puis aperçut un pelage gris entre deux troncs.
 
-<div class="system-window monster">
-  <div class="system-header">MONSTRE IDENTIFIÉ</div>
+<div class="system-window monster lit-window" data-window-id="026" data-window-type="monstre">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
   <h3>Loup gris</h3>
-  <p><strong>Niveau :</strong> 5</p>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">5</span></p>
 </div>
 
 La créature la fixait déjà.
@@ -4069,10 +4076,10 @@ Cette fois, la lame atteignit l’épaule. Le loup retomba de travers. Hasol ava
 
 La créature s’effondra.
 
-<div class="system-window success">
-  <div class="system-header">✓ MONSTRE ÉLIMINÉ</div>
+<div class="system-window success lit-window" data-window-id="027" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>MONSTRE ÉLIMINÉ</div>
   <p>Loup gris — Niveau 5</p>
-  <p><strong>Expérience obtenue :</strong> +12 XP</p>
+  <p class="lit-window__row"><strong>Expérience obtenue :</strong> <span class="lit-window__value">+12 XP</span></p>
 </div>
 
 Hasol resta en garde plusieurs secondes après la fin du combat.
@@ -4125,10 +4132,10 @@ Le premier tenta d’entrer avant que le second ait trouvé un autre angle. Haso
 
 Le loup s’abattit près des racines.
 
-<div class="system-window success">
-  <div class="system-header">✓ MONSTRE ÉLIMINÉ</div>
+<div class="system-window success lit-window" data-window-id="028" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>MONSTRE ÉLIMINÉ</div>
   <p>Loup gris — Niveau 5</p>
-  <p><strong>Expérience obtenue :</strong> +12 XP</p>
+  <p class="lit-window__row"><strong>Expérience obtenue :</strong> <span class="lit-window__value">+12 XP</span></p>
 </div>
 
 Le dernier ralentit.
@@ -4151,10 +4158,10 @@ Pendant une seconde, elle attendit les crocs.
 
 Ils ne vinrent pas.
 
-<div class="system-window success">
-  <div class="system-header">✓ MONSTRE ÉLIMINÉ</div>
+<div class="system-window success lit-window" data-window-id="029" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>MONSTRE ÉLIMINÉ</div>
   <p>Loup gris — Niveau 5</p>
-  <p><strong>Expérience obtenue :</strong> +12 XP</p>
+  <p class="lit-window__row"><strong>Expérience obtenue :</strong> <span class="lit-window__value">+12 XP</span></p>
 </div>
 
 Elle fixa la notification sans la comprendre immédiatement.
@@ -4191,11 +4198,11 @@ Elle nettoya la griffure avec l’eau de sa gourde, puis appliqua une petite qua
 
 Elle attendit que sa respiration redevienne régulière avant d’ouvrir les notifications de la chasse.
 
-<div class="system-window">
-  <div class="system-header">◆ BILAN DE LA CHASSE ◆</div>
+<div class="system-window lit-window" data-window-id="030" data-window-type="bilan">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>BILAN DE LA CHASSE</div>
   <p><strong>Monstres éliminés :</strong> 3 loups gris de niveau 5</p>
   <p><strong>Expérience gagnée durant cette chasse :</strong> 3 × 12 XP = 36 XP</p>
-  <p><strong>Niveau de Hasol :</strong> 10</p>
+  <p class="lit-window__row"><strong>Niveau de Hasol :</strong> <span class="lit-window__value">10</span></p>
   <hr>
   <p><strong>Croissance runique :</strong> +3 éliminations admissibles enregistrées</p>
   <p><strong>Cercles de mana :</strong> 10 — <strong>Emplacements runiques :</strong> 10</p>
@@ -4361,11 +4368,11 @@ Le soulagement lui coûta son attention. Elle suivit des yeux l’épée qui la 
 
 Le balayage la toucha au mollet — troisième touche — et lui emporta les appuis. La construction s’immobilisa tandis qu’elle tombait sur le dos, le souffle coupé.
 
-<div class="system-window">
-  <div class="system-header">◆ EXERCICE TERMINÉ ◆</div>
+<div class="system-window lit-window" data-window-id="031" data-window-type="entrainement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE TERMINÉ</div>
   <p><strong>Adversaire simulé :</strong> Guerrier ordinaire — Niveau 10</p>
-  <p><strong>Durée jusqu’à la troisième touche reçue :</strong> 1 min 18 s</p>
-  <p><strong>Touches reçues :</strong> 3</p>
+  <p class="lit-window__row"><strong>Durée jusqu’à la troisième touche reçue :</strong> <span class="lit-window__value">1 min 18 s</span></p>
+  <p class="lit-window__row"><strong>Touches reçues :</strong> <span class="lit-window__value">3</span></p>
   <p><strong>Résultat :</strong> Défaite — condition d’arrêt atteinte</p>
 </div>
 
@@ -4585,10 +4592,10 @@ Sa mère demanda s’ils pouvaient poursuivre en privé. Orven leur ouvrit l’a
 
 Elle partagea son état runique. Cette fois, la main sur sa lanière resta immobile.
 
-<div class="system-window legendary">
-  <div class="system-header">✦ ÉTAT RUNIQUE — HASOL SHUN ✦</div>
-  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text">Légendaire</span></p>
-  <p><strong>Niveau :</strong> 10</p>
+<div class="system-window legendary lit-window" data-window-id="032" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>ÉTAT RUNIQUE — HASOL SHUN</div>
+  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">10</span></p>
   <p><strong>Cercles de mana :</strong> 10 — <strong>Emplacements occupés :</strong> 10 / 10</p>
   <p><strong>Compétences passives :</strong> Bénédiction runique ; Croissance runique</p>
 </div>
@@ -4619,6 +4626,13 @@ Sa voix était sortie plus vite qu’elle ne l’aurait voulu. Orven repoussa sa
 
 Orven prit sur un plateau une Énergie commune, blanche, deux étoiles, à +0, et la posa devant elle. Hasol consulta son état, vérifia le symbole circulaire et les inscriptions : une principale de PV, aucune secondaire. Elle la plaça au centre du support sans engager d’énergie.
 
+<div class="rune-window lit-window" data-window-id="090" data-window-type="rune">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ÉTAT INITIAL DE LA RUNE</div>
+  <h3>Rune Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★ <span class="upgrade-badge">+0</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV</span></p>
+  <p><strong>Secondaires :</strong> Aucune</p>
+</div>
+
 — Jusqu’à +3 ? demanda-t-elle.
 
 — C’est l’épreuve. Les ressources sont fournies par l’atelier. Tu m’indiques chaque résultat avant de continuer ; si je te demande d’arrêter, tu t’arrêtes.
@@ -4643,11 +4657,11 @@ Hasol communiqua le résultat. La plume d’Orven gratta le papier.
 
 Elle renouvela les ressources et vérifia le niveau de départ. À +1, la rune Énergie commune, blanche, deux étoiles, gardait la même apparence discrète. Hasol était déjà moins gênée par le regard de l’artisan lorsqu’une vibration irrégulière traversa le support. Elle voulut la corriger ; le flux lui échappa et les inscriptions s’éteignirent.
 
-<div class="system-window">
-  <div class="system-header">◆ TENTATIVE D’AMÉLIORATION ◆</div>
-  <p><strong>Rune :</strong> Énergie commune (blanche), 2★</p>
-  <p><strong>Tentative :</strong> +1 → +2</p>
-  <p><strong>Résultat :</strong> Échec</p>
+<div class="system-window lit-window" data-window-id="033" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>TENTATIVE D’AMÉLIORATION</div>
+  <p><strong>Rune :</strong> Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
+  <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+1 → +2</span></p>
+  <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État conservé :</strong> <span class="upgrade-badge">+1</span> — rune intacte</p>
   <p>Les ressources engagées ont été consommées.</p>
 </div>
@@ -4678,12 +4692,12 @@ L’éclat se resserra au bord de la pierre, puis prit une teinte verte.
 
 Hasol retira lentement les mains.
 
-<div class="rune-window success">
-  <div class="system-header">✓ AMÉLIORATION RÉUSSIE</div>
-  <h3>Rune Énergie peu commune (verte), 2★ <span class="upgrade-badge">+3</span></h3>
-  <p><strong>Dernier passage :</strong> +2 → +3</p>
-  <p><strong>Grade d’origine :</strong> Commun — Blanc</p>
-  <p><strong>Grade actuel :</strong> Peu commun — Vert</p>
+<div class="rune-window success lit-window" data-window-id="034" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
+  <h3>Rune Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★ <span class="upgrade-badge">+3</span></h3>
+  <p class="lit-window__row"><strong>Dernier passage :</strong> <span class="lit-window__value">+2 → +3</span></p>
+  <p class="lit-window__row"><strong>Grade d’origine :</strong> <span class="lit-badge lit-badge--rune-common">Commun — Blanc</span></p>
+  <p class="lit-window__row"><strong>Grade actuel :</strong> <span class="lit-badge lit-badge--rune-uncommon">Peu commun — Vert</span></p>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV renforcés</span></p>
   <p><strong>Première secondaire apparue :</strong> <span class="rune-bonus">Défense</span></p>
   <p><strong>Nombre de secondaires :</strong> 1 / 4 — rang inchangé</p>
@@ -4873,6 +4887,14 @@ Les commandes ne se ressemblaient pas. Certaines étaient accompagnées de longu
 
 Une Gardien commune, blanche, deux étoiles, à +0, devait être rendue dans la matinée. Le propriétaire demandait +2 ; trois tentatives au maximum étaient prévues dans le budget.
 
+<div class="system-window lit-window" data-window-id="091" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>FICHE DE COMMANDE</div>
+  <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
+  <p class="lit-window__row"><strong>État initial :</strong> <span class="upgrade-badge">+0</span></p>
+  <p class="lit-window__row"><strong>Objectif demandé :</strong> <span class="upgrade-badge">+2</span></p>
+  <p><strong>Limite autorisée :</strong> 3 tentatives au maximum</p>
+</div>
+
 Hasol suivit du doigt la limite inscrite.
 
 — Si je n’atteins pas +2 dans les trois, je m’arrête là.
@@ -4907,11 +4929,11 @@ Le support était froid sous le bord de ses mains. Elle engagea son Mana, sentit
 
 Hasol retira ses doigts. La chaleur resta un instant dans sa paume.
 
-<div class="system-window rune-window">
-  <div class="system-header">◆ TENTATIVE D’AMÉLIORATION ◆</div>
-  <p><strong>Rune :</strong> Gardien commune (blanche), 2★</p>
-  <p><strong>Tentative :</strong> +0 → +1</p>
-  <p><strong>Résultat :</strong> Échec</p>
+<div class="system-window rune-window lit-window" data-window-id="035" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>TENTATIVE D’AMÉLIORATION</div>
+  <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
+  <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
+  <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État conservé :</strong> <span class="upgrade-badge">+0</span> — rune intacte, caractéristiques inchangées</p>
   <p><strong>Pierres de mana engagées :</strong> Consommées</p>
   <p><strong>Mana personnel :</strong> Dépensé</p>
@@ -4931,10 +4953,10 @@ Orven n’ajouta rien. De l’autre côté de la table, sa plume reprit son brui
 
 Cette fois, Hasol garda son attention sur l’ensemble des gravures. Quand la vibration se modifia, elle accompagna le mouvement sans pousser davantage. La lumière resta présente, se resserra, puis une notification confirma le passage.
 
-<div class="rune-window success">
-  <div class="system-header">✓ AMÉLIORATION RÉUSSIE</div>
-  <p><strong>Rune :</strong> Gardien commune (blanche), 2★</p>
-  <p><strong>Tentative :</strong> +0 → +1</p>
+<div class="rune-window success lit-window" data-window-id="036" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
+  <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
+  <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p><strong>Niveau atteint :</strong> <span class="upgrade-badge">+1</span></p>
   <p><strong>Principale :</strong> Renforcée — aucune secondaire</p>
   <p><strong>Ressources engagées :</strong> Pierres de mana consommées et Mana personnel dépensé</p>
@@ -4998,9 +5020,9 @@ La circulation se forma sous ses mains. Hasol eut conscience du bruit du magasin
 
 La résistance augmenta. Elle ajusta son geste, sentit une tension dans la nuque et expira sans retirer ses mains. L’éclat tint.
 
-<div class="rune-window success">
-  <div class="system-header">✓ COMMANDE ACHEVÉE</div>
-  <p><strong>Rune :</strong> Gardien commune (blanche), 2★</p>
+<div class="rune-window success lit-window" data-window-id="037" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>COMMANDE ACHEVÉE</div>
+  <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
   <p><strong>Dernière tentative :</strong> +1 → +2 — Réussite</p>
   <p><strong>Niveau final :</strong> <span class="upgrade-badge">+2</span></p>
   <p><strong>Principale :</strong> Renforcée — aucune secondaire</p>
@@ -5131,11 +5153,11 @@ Elle retira ses mains et lui présenta le travail qu’elle venait de terminer. 
 
 Orven releva les yeux. Il revint aux commandes terminées, suivit du doigt les tentatives, puis demanda s’il pouvait voir les informations utiles. Hasol hésita le temps de refermer les autres rubriques de son interface privée. Ils étaient seuls dans l’atelier ; elle partagea son niveau et sa capacité de Mana, avec le bonus distingué.
 
-<div class="system-window character-sheet">
-  <div class="system-header">✦ CARACTÉRISTIQUES — HASOL SHUN ✦</div>
-  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text">Légendaire</span></p>
-  <p><strong>Niveau :</strong> 10</p>
-  <p><strong>Mana naturel :</strong> 355</p>
+<div class="system-window character-sheet lit-window" data-window-id="038" data-window-type="caracteristiques">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CARACTÉRISTIQUES — HASOL SHUN</div>
+  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">10</span></p>
+  <p class="lit-window__row"><strong>Mana naturel :</strong> <span class="lit-window__value">355</span></p>
   <p><strong>Bonus runique connu :</strong> <span class="rune-bonus">Mana +20</span></p>
   <p><strong>Réserve disponible :</strong> Partiellement consommée par le travail de la journée</p>
 </div>
@@ -5497,17 +5519,6 @@ Orven acquiesça. Elle se pencha sur le livre et se mit au travail.
 
 # Chapitre 5 — Le premier lien
 
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — OUVERTURE</div>
-  <p><em>Repères pour le lecteur — hors des notifications des personnages.</em></p>
-  <ul>
-    <li>Dix cercles offrent dix emplacements runiques, pas une maîtrise automatique du combat.</li>
-    <li>Grade, étoiles et amélioration sont trois dimensions distinctes d’une rune.</li>
-    <li>Une équipe est limitée à cinq membres et cinquante points de classe.</li>
-    <li>Une classe légendaire vaut vingt points ; une rare, dix.</li>
-  </ul>
-</div>
-
 ## I. Une rencontre inattendue
 
 — Non, Hasol. Recommence.
@@ -5721,10 +5732,10 @@ Zio poursuivit :
 — Félicitations !
 
 — Merci.
-<div class="character-sheet">
-  <div class="system-header">✦ ZIO NOTOS ✦</div>
-  <p><strong>Classe :</strong> Gardien — Rare</p>
-  <p><strong>Niveau :</strong> 45</p>
+<div class="character-sheet lit-window" data-window-id="039" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>ZIO NOTOS</div>
+  <p><strong>Classe :</strong> Gardien — <span class="lit-badge lit-badge--rare">Rare</span></p>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">45</span></p>
 </div>
 
 Hasol baissa brièvement les yeux.
@@ -5894,10 +5905,10 @@ Hasol se pencha légèrement.
 Yoon acquiesça.
 
 — Oui.
-<div class="character-sheet">
-  <div class="system-header">✦ YOON NOTOS — SAGE RUNIQUE ✦</div>
-  <p><strong>Rareté :</strong> Rare — <strong>Niveau actuel :</strong> 5</p>
-  <p><strong>Âge :</strong> 16 ans</p>
+<div class="character-sheet lit-window" data-window-id="040" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>YOON NOTOS — SAGE RUNIQUE</div>
+  <p><strong>Rareté :</strong> <span class="lit-badge lit-badge--rare">Rare</span> — <strong>Niveau actuel :</strong> 5</p>
+  <p class="lit-window__row"><strong>Âge :</strong> <span class="lit-window__value">16 ans</span></p>
   <p><strong>Compétences disponibles depuis la Révélation :</strong> Résonance runique ; Chant runique ; Vague runique.</p>
 </div>
 
@@ -6014,8 +6025,8 @@ Yoon rit.
 Elle ajouta avec une pointe de fierté :
 
 — Et je préfère participer plutôt que rester cachée derrière un arbre en attendant qu’on m’appelle.
-<div class="system-window">
-  <div class="system-header">✦ VAGUE RUNIQUE ✦</div>
+<div class="system-window lit-window" data-window-id="041" data-window-type="competence">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>VAGUE RUNIQUE</div>
   <p><strong>Obtention :</strong> Niveau 1 — <strong>Élément :</strong> Lumière</p>
   <p><strong>Coût :</strong> 5 Mana — <strong>Portée :</strong> 10 mètres</p>
   <p><strong>Incantation :</strong> 5 secondes — <strong>Récupération :</strong> Aucune</p>
@@ -6544,10 +6555,10 @@ Elle sentit son corps devenir plus réactif.
 
 Sa prise sur l’épée se raffermit.
 
-<div class="system-window">
-  <div class="system-header">✦ EFFET TEMPORAIRE ACTIF ✦</div>
+<div class="system-window lit-window" data-window-id="042" data-window-type="effet-temporaire">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 3"/></svg>EFFET TEMPORAIRE ACTIF</div>
   <p><strong>Résonance runique — Yoon Notos</strong></p>
-  <p><strong>Cible :</strong> Hasol Shun</p>
+  <p class="lit-window__row"><strong>Cible :</strong> <span>Hasol Shun</span></p>
   <p><span class="temporary-bonus">Caractéristiques principales des runes équipées temporairement amplifiées.</span></p>
   <p>Caractéristiques secondaires et bonus d’ensemble : inchangés.</p>
 </div>
@@ -7057,8 +7068,8 @@ Puis étouffa un rire.
 Hasol sentit ses joues chauffer.
 
 — Je veux dire… je connais la théorie.
-<div class="system-window">
-  <div class="system-header">◆ RAPPEL DES AFFINITÉS ÉLÉMENTAIRES ◆</div>
+<div class="system-window lit-window" data-window-id="043" data-window-type="regle">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>RAPPEL DES AFFINITÉS ÉLÉMENTAIRES</div>
   <p><strong>Cycle :</strong> Eau → Feu → Terre → Eau.</p>
   <p><strong>Sens favorable :</strong> dégâts finaux et précision ×1,25 ; sens inverse ×0,75.</p>
   <p><strong>Lumière et Ténèbres :</strong> neutres l’une envers l’autre. Face aux éléments du cycle : ×1,20 ; dans le sens inverse : ×0,80.</p>
@@ -7648,9 +7659,9 @@ Hasol acquiesça.
 — Niveau dix.
 
 — Bien. C’est le minimum pour manier une arme imprégnée d’une aura.
-<div class="system-window">
-  <div class="system-header">◆ ARME IMPRÉGNÉE D’UNE AURA ◆</div>
-  <p><strong>Niveau minimum du porteur :</strong> 10</p>
+<div class="system-window lit-window" data-window-id="044" data-window-type="equipement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5"/></svg>ARME IMPRÉGNÉE D’UNE AURA</div>
+  <p class="lit-window__row"><strong>Niveau minimum du porteur :</strong> <span class="lit-window__value">10</span></p>
   <p><strong>Projet pour l’arme d’Hasol :</strong> Imprégnation de Terre par le forgeron.</p>
   <p>Cette condition ne concerne pas l’équipement des runes.</p>
 </div>
@@ -8041,12 +8052,12 @@ Puis acquiesça.
 
 Elle partagea uniquement la partie de son statut concernant ses cercles et ses emplacements runiques.
 
-<div class="system-window character-sheet">
-  <div class="system-header">✦ ÉTAT RUNIQUE — HASOL SHUN ✦</div>
-  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text">Légendaire</span></p>
-  <p><strong>Niveau :</strong> 10</p>
-  <p><strong>Cercles de mana :</strong> 10</p>
-  <p><strong>Runes équipées :</strong> 10 / 10</p>
+<div class="system-window character-sheet lit-window" data-window-id="045" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>ÉTAT RUNIQUE — HASOL SHUN</div>
+  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">10</span></p>
+  <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">10</span></p>
+  <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">10 / 10</span></p>
   <p><strong>Compétences passives :</strong> Bénédiction runique ; Croissance runique</p>
 </div>
 Yoon cessa de respirer pendant une seconde.
@@ -8295,12 +8306,12 @@ Zio secoua la tête avec amusement.
 
 Les deux jeunes filles confirmèrent leur association dans leur interface d’équipe.
 
-<div class="system-window">
-  <div class="system-header">✦ FORMATION D’ÉQUIPE CONFIRMÉE ✦</div>
+<div class="system-window lit-window" data-window-id="046" data-window-type="equipe">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>FORMATION D’ÉQUIPE CONFIRMÉE</div>
   <p><strong>Membres :</strong> 2 / 5 — <strong>Points de classe :</strong> 30 / 50</p>
-  <p>Hasol Shun — Arcaniste runique, Légendaire — 20 points</p>
-  <p>Yoon Notos — Sage runique, Rare — 10 points</p>
-  <p><strong>Statut :</strong> Équipe constituée</p>
+  <p>Hasol Shun — Arcaniste runique, <span class="lit-badge lit-badge--legendary">Légendaire</span> — 20 points</p>
+  <p>Yoon Notos — Sage runique, <span class="lit-badge lit-badge--rare">Rare</span> — 10 points</p>
+  <p class="lit-window__row"><strong>Statut :</strong> <span>Équipe constituée</span></p>
 </div>
 
 Hasol relut les informations.
@@ -9074,10 +9085,10 @@ La jeune femme ne répondit pas.
 
 Elle regardait la fenêtre qui venait de s’ouvrir.
 
-<div class="system-window level-up">
-  <div class="system-header">✦ NIVEAU SUPÉRIEUR ✦</div>
+<div class="system-window level-up lit-window" data-window-id="047" data-window-type="niveau">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
   <p><strong>Hasol Shun — Niveau 11 atteint</strong></p>
-  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text">Légendaire</span></p>
+  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
   <p>Augmentation des caractéristiques naturelles appliquée.</p>
 </div>
 
@@ -9171,13 +9182,13 @@ Une autre fenêtre venait de s’ouvrir.
 
 Elle n’avait jamais vu cette notification auparavant.
 
-<div class="system-window legendary">
-  <div class="system-header">✦ ÉVEIL DE COMPÉTENCE ✦</div>
+<div class="system-window legendary lit-window" data-window-id="048" data-window-type="competence">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>ÉVEIL DE COMPÉTENCE</div>
   <p>L’hôte a combattu avec succès des monstres en exploitant leurs faiblesses élémentaires. Condition d’éveil remplie.</p>
-  <p><strong>Aura runique</strong> — Compétence active d’Arcaniste runique, Légendaire</p>
+  <p><strong>Aura runique</strong> — Compétence active d’Arcaniste runique, <span class="lit-badge lit-badge--legendary">Légendaire</span></p>
   <p><strong>Effet :</strong> Imprègne une arme de l’hôte ou d’un allié d’une aura élémentaire au choix.</p>
   <p><strong>Coût :</strong> 200 Mana et destruction définitive d’une rune quelconque, quels que soient son rang et sa rareté.</p>
-  <p><strong>Durée :</strong> 24 heures.</p>
+  <p class="lit-window__row"><strong>Durée :</strong> <span class="lit-window__value">24 heures.</span></p>
 </div>
 
 Hasol resta immobile.
@@ -9643,17 +9654,6 @@ Elle ne savait pas encore jusqu’où leur chemin les conduirait.
 
 Mais ce soir-là, pour la première fois, elle n’avait plus à l’imaginer seule.
 
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — CLÔTURE</div>
-  <p><em>Repères pour le lecteur — hors des notifications des personnages.</em></p>
-  <ul>
-    <li>Aura runique est désormais disponible au niveau onze d’Hasol.</li>
-    <li>Chaque activation coûte deux cents Mana et détruit définitivement une rune.</li>
-    <li>L’aura dure vingt-quatre heures et peut imprégner l’arme d’Hasol ou d’un allié.</li>
-    <li>Manier une arme imprégnée d’une aura exige au minimum le niveau dix ; équiper une rune n’a pas ce seuil.</li>
-  </ul>
-</div>
-
 **Fin du chapitre 5 — Le premier lien**
 
 ---
@@ -9661,17 +9661,6 @@ Mais ce soir-là, pour la première fois, elle n’avait plus à l’imaginer se
 <span id="chapitre-6"></span>
 
 # Chapitre 6 — Deux chemins, un même objectif
-
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — OUVERTURE</div>
-  <p><em>Repères pour le lecteur — hors des notifications des personnages.</em></p>
-  <ul>
-    <li>Aura runique permet de choisir l’élément de l’imprégnation d’une arme.</li>
-    <li>Ses vingt-quatre heures coûtent deux cents Mana et une rune définitivement sacrifiée.</li>
-    <li>Une rune de récupération conserve une valeur : elle n’est pas une ressource gratuite.</li>
-    <li>Réserve de Mana et concentration ne s’épuisent pas nécessairement ensemble.</li>
-  </ul>
-</div>
 
 ## I. La caisse du fond
 
@@ -10756,12 +10745,12 @@ Ce n’était pas une simple illusion.
 Elle venait d’imprégner une arme d’une énergie élémentaire.
 
 Sans l’aide d’un forgeron.
-<div class="system-window">
-  <div class="system-header">✦ AURA RUNIQUE — IMPRÉGNATION RÉUSSIE ✦</div>
+<div class="system-window lit-window" data-window-id="049" data-window-type="effet-temporaire">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 3"/></svg>AURA RUNIQUE — IMPRÉGNATION RÉUSSIE</div>
   <p><strong>Arme :</strong> Épée d’essai — <strong>Élément choisi :</strong> Feu</p>
-  <p><strong>Mana consommé :</strong> 200</p>
-  <p><strong>Rune sacrifiée :</strong> Commune (blanche), 1★ — détruite définitivement.</p>
-  <p><strong>Durée de l’aura :</strong> 24 heures.</p>
+  <p class="lit-window__row"><strong>Mana consommé :</strong> <span class="lit-window__value">200</span></p>
+  <p><strong>Rune sacrifiée :</strong> <span class="lit-badge lit-badge--rune-common">Commune (blanche)</span>, 1★ — détruite définitivement.</p>
+  <p class="lit-window__row"><strong>Durée de l’aura :</strong> <span class="lit-window__value">24 heures.</span></p>
 </div>
 
 Orven s’approcha immédiatement.
@@ -11412,8 +11401,8 @@ Hasol sentit une vibration brutale traverser ses cercles.
 
 Une lumière dorée jaillit devant elle.
 
-<div class="system-window legendary">
-  <div class="system-header">✦ ACTIVATION CRITIQUE — ÉVOLUTION DE COMPÉTENCE ✦</div>
+<div class="system-window legendary lit-window" data-window-id="050" data-window-type="competence">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>ACTIVATION CRITIQUE — ÉVOLUTION DE COMPÉTENCE</div>
   <p><strong>Compétence :</strong> Aura runique — critique au lancement.</p>
   <p><strong>Effet supplémentaire :</strong> Infiltration runique.</p>
   <p><span class="temporary-bonus">Pendant les 30 premières secondes suivant l’activation critique, chaque attaque portée avec l’arme imprégnée inflige au minimum des dégâts égaux à la Puissance arcanique actuelle de Hasol.</span></p>
@@ -12027,8 +12016,8 @@ Hasol activa l’identification habituelle.
 
 Les niveaux apparurent.
 
-<div class="system-window monster">
-  <div class="system-header">◆ ADVERSAIRES IDENTIFIÉS ◆</div>
+<div class="system-window monster lit-window" data-window-id="051" data-window-type="monstre">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>ADVERSAIRES IDENTIFIÉS</div>
   <p>Loup gris — Niveau 7</p>
   <p>Loup gris — Niveau 8</p>
   <p>Loup gris — Niveau 9</p>
@@ -12477,8 +12466,8 @@ Elles n’étaient pas devenues des chasseuses célèbres.
 Mais elles avaient affronté trois adversaires plus dangereux que ceux de leurs premières sorties.
 
 Et elles avaient gagné.
-<div class="system-window">
-  <div class="system-header">◆ BILAN DU PASSAGE ÉTROIT ◆</div>
+<div class="system-window lit-window" data-window-id="052" data-window-type="bilan">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>BILAN DU PASSAGE ÉTROIT</div>
   <p><strong>Adversaires vaincus :</strong> Trois loups gris, niveaux 7, 8 et 9.</p>
   <p><strong>Hasol :</strong> Niveau 11 — dix cercles, dix runes équipées.</p>
   <p><strong>Arme :</strong> Aura de Terre du forgeron ; aucune activation d’Aura runique pendant ce combat.</p>
@@ -12772,17 +12761,6 @@ Mais lorsqu’elles se retrouveraient, elles continueraient à avancer vers le m
 
 Et pour Hasol, qui avait longtemps cru devoir poursuivre ce rêve toute seule, cela changeait déjà beaucoup de choses.
 
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — CLÔTURE</div>
-  <p><em>Repères pour le lecteur — hors des notifications des personnages.</em></p>
-  <ul>
-    <li>Infiltration runique exige un critique au lancement d’Aura runique, pas un critique à l’épée.</li>
-    <li>Pendant les trente premières secondes, les attaques ont pour plancher la Puissance arcanique actuelle d’Hasol.</li>
-    <li>Ce plancher ne réduit pas la Défense adverse ; l’aura conserve sa durée de vingt-quatre heures.</li>
-    <li>Chaque nouvelle activation garde son coût, sans garantir un critique.</li>
-  </ul>
-</div>
-
 **Fin du chapitre 6 — Deux chemins, un même objectif**
 
 ---
@@ -12790,17 +12768,6 @@ Et pour Hasol, qui avait longtemps cru devoir poursuivre ce rêve toute seule, c
 <span id="chapitre-7"></span>
 
 # Chapitre 7 — Le talent d’une légende
-
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — OUVERTURE</div>
-  <p><em>Repères pour le lecteur — hors des notifications des personnages.</em></p>
-  <ul>
-    <li>Bénédiction runique favorise les réussites d’amélioration, sans supprimer les échecs.</li>
-    <li>Chaque tentative consomme des pierres de mana et du Mana personnel, même lorsqu’elle échoue.</li>
-    <li>Une grande réserve donne de l’endurance, pas une précision ni une expérience automatiques.</li>
-    <li>Les ressources confiées par un client restent soumises aux limites de sa commande.</li>
-  </ul>
-</div>
 
 ## I. Un investissement pour l’avenir
 
@@ -12838,8 +12805,8 @@ Depuis sa découverte, une idée ne la quittait plus : augmenter sa Puissance ar
 
 L’ensemble Arcanique semblait parfaitement adapté.
 
-<div class="rune-window">
-  <div class="system-header">◆ ENSEMBLE ARCANIQUE ◆</div>
+<div class="rune-window lit-window" data-window-id="053" data-window-type="ensemble">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ENSEMBLE ARCANIQUE</div>
   <p><strong>Condition :</strong> 4 pièces équipées.</p>
   <p><span class="rune-bonus">Bonus d’ensemble : +1 200 Puissance arcanique.</span></p>
   <p>Deux ou trois pièces : aucun bonus d’ensemble.</p>
@@ -12848,8 +12815,8 @@ L’ensemble Arcanique semblait parfaitement adapté.
 Avec les règles de calcul des critiques, ce bonus représentait à lui seul quinze points supplémentaires de taux critique, auxquels s’ajoutaient les cinq pour cent de base.
 
 Et il augmentait également ses dégâts critiques.
-<div class="system-window">
-  <div class="system-header">◆ PUISSANCE ARCANIQUE ET CRITIQUES ◆</div>
+<div class="system-window lit-window" data-window-id="054" data-window-type="regle">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>PUISSANCE ARCANIQUE ET CRITIQUES</div>
   <p><strong>CC (%) :</strong> 5 + (Puissance arcanique effective / 80) + Bonus CC</p>
   <p><strong>DCC (%) :</strong> 150 + (Puissance arcanique effective / 100) + Bonus DCC</p>
   <p>À 100 % de CC ou davantage, une action éligible est toujours critique, sans surcritique.</p>
@@ -13284,8 +13251,8 @@ Il désigna les quatorze échecs de sa propre série.
 Hasol acquiesça.
 
 — Je comprends.
-<div class="system-window">
-  <div class="system-header">◆ COMPARAISON DES SÉRIES D’AMÉLIORATION ◆</div>
+<div class="system-window lit-window" data-window-id="055" data-window-type="bilan">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>COMPARAISON DES SÉRIES D’AMÉLIORATION</div>
   <p><strong>Orven :</strong> 20 échecs / 80 tentatives — 25 %.</p>
   <p><strong>Hasol :</strong> 14 échecs / 80 tentatives — 17,5 %.</p>
   <p><strong>Écart :</strong> 7,5 points de pourcentage ; réduction relative de 30 % des échecs.</p>
@@ -13811,8 +13778,8 @@ Elle releva la tête.
 Il croisa les bras.
 
 — Mais nous continuerons à vérifier. Je ne veux pas inventer une fréquence exacte à partir de données encore limitées.
-<div class="system-window">
-  <div class="system-header">◆ BÉNÉDICTION RUNIQUE — OBSERVATIONS ◆</div>
+<div class="system-window lit-window" data-window-id="056" data-window-type="competence">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>BÉNÉDICTION RUNIQUE — OBSERVATIONS</div>
   <p><span class="passive-badge">Passive</span></p>
   <p><strong>Réussite :</strong> Environ 30 % d’échecs en moins relativement aux séries comparables d’Orven.</p>
   <p><strong>Qualité :</strong> Maximum très fréquent lors d’un renforcement variable effectivement déclenché après une réussite.</p>
@@ -14413,8 +14380,8 @@ Les inscriptions brillèrent un instant.
 
 Hasol retint son souffle.
 
-<div class="rune-window success">
-  <div class="system-header">✓ AMÉLIORATION RÉUSSIE</div>
+<div class="rune-window success lit-window" data-window-id="057" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
   <p><strong>Rune d’épreuve :</strong> Ensemble, grade et rang en étoiles : À DÉFINIR.</p>
   <p><strong>Niveau atteint :</strong> <span class="upgrade-badge">+6</span></p>
   <p>Commande du Griffon d’Argent — rune distincte de l’équipement personnel d’Hasol.</p>
@@ -14916,8 +14883,8 @@ Elle en prit une délicatement.
 
 La pierre était légèrement tiède.
 
-<div class="rune-window">
-  <div class="system-header">◆ RUNE ARCANIQUE ◆</div>
+<div class="rune-window lit-window" data-window-id="058" data-window-type="rune">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE ARCANIQUE</div>
   <p><strong>Ensemble :</strong> Arcanique — <strong>Grade et rang :</strong> À DÉFINIR.</p>
   <p><span class="rune-bonus">Caractéristique principale : Puissance arcanique.</span></p>
   <p>Valeurs et caractéristiques secondaires : À DÉFINIR.</p>
@@ -15005,11 +14972,11 @@ Une sensation nouvelle parcourut son corps.
 
 Elle consulta son interface.
 
-<div class="character-sheet">
-  <div class="system-header">◆ ÉQUIPEMENT RUNIQUE ◆</div>
-  <p><strong>Runes équipées :</strong> 10 / 10</p>
+<div class="character-sheet lit-window" data-window-id="059" data-window-type="equipement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>ÉQUIPEMENT RUNIQUE</div>
+  <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">10 / 10</span></p>
   <p><strong>Composition :</strong> 4 Fatal ; 2 Gardien ; 2 Énergie ; 2 Arcanique.</p>
-  <p><strong>Origines :</strong> Deux cadeaux paternels rares (bleus), 6★, +6 ; six runes maternelles 3★ ; deux Arcanique de grades et rangs À DÉFINIR.</p>
+  <p><strong>Origines :</strong> Deux cadeaux paternels <span class="lit-badge lit-badge--rune-rare">rares (bleus)</span>, 6★, +6 ; six runes maternelles 3★ ; deux Arcanique de grades et rangs À DÉFINIR.</p>
   <p><strong>Ensembles :</strong> Fatal, Gardien et Énergie actifs ; Arcanique 2 / 4 — inactif.</p>
 </div>
 Les bonus Fatal, Gardien et Énergie encore réunis restaient actifs.
@@ -15258,13 +15225,13 @@ Hasol retint son souffle.
 
 Il lui montra le bilan.
 
-<div class="character-sheet">
-  <div class="system-header">◆ ÉQUIPEMENT D’HASOL — BILAN ◆</div>
+<div class="character-sheet lit-window" data-window-id="060" data-window-type="equipement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>ÉQUIPEMENT D’HASOL — BILAN</div>
   <p><strong>Runes équipées :</strong> 10 / 10 — <strong>Cercles :</strong> 10</p>
   <p><strong>Améliorations :</strong> 6 runes <span class="upgrade-badge">+6</span> ; 4 runes <span class="upgrade-badge">+3</span>.</p>
   <p><strong>Composition :</strong> 4 Fatal ; 2 Gardien ; 2 Énergie ; 2 Arcanique.</p>
   <p><strong>Arcanique :</strong> 2 / 4 — bonus inactif.</p>
-  <p><strong>Cadeaux paternels :</strong> Fatal et Gardien rares (bleues), 6★, +6 — inchangées.</p>
+  <p><strong>Cadeaux paternels :</strong> Fatal et Gardien <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 — inchangées.</p>
   <p><strong>Autres pièces :</strong> Six maternelles 3★, grades actuels À DÉFINIR ; deux Arcanique, grades et rangs À DÉFINIR.</p>
 </div>
 
@@ -15549,8 +15516,8 @@ Elle avait de nouveau perdu.
 Mais elle avait tenu plus longtemps que lors de ses premiers essais, et porté davantage de coups.
 
 Elle nota soigneusement le résultat.
-<div class="system-window">
-  <div class="system-header">◆ EXERCICE TERMINÉ ◆</div>
+<div class="system-window lit-window" data-window-id="061" data-window-type="entrainement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE TERMINÉ</div>
   <p><strong>Adversaire simulé :</strong> Guerrier ordinaire — Niveau 10.</p>
   <p><strong>Touches portées :</strong> 3 — <strong>Touches reçues :</strong> 3.</p>
   <p><strong>Arrêt :</strong> Troisième touche reçue — défaite.</p>
@@ -16161,17 +16128,6 @@ Elles retourneraient dans le bois des Crocs Gris.
 
 Et cette fois, elle découvrirait ce que ses dix runes améliorées lui permettaient vraiment d’accomplir.
 
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — CLÔTURE</div>
-  <p><em>Repères pour le lecteur — hors des notifications des personnages.</em></p>
-  <ul>
-    <li>Les séries comparables montrent environ trente pour cent d’échecs en moins qu’Orven, en relatif : pas trente points retirés.</li>
-    <li>Lors d’un renforcement variable, Bénédiction favorise très fréquemment le maximum, sans le garantir ni choisir l’affixe.</li>
-    <li>Arcanique demande quatre pièces pour apporter <span class="rune-bonus">+1 200 Puissance arcanique</span> ; deux pièces ne suffisent pas.</li>
-    <li>Les bonnes valeurs restent limitées par ce que chaque rune peut obtenir.</li>
-  </ul>
-</div>
-
 **Fin du chapitre 7 — Le talent d’une légende**
 
 ---
@@ -16179,17 +16135,6 @@ Et cette fois, elle découvrirait ce que ses dix runes améliorées lui permetta
 <span id="chapitre-8"></span>
 
 # Chapitre 8 — La puissance des dix runes
-
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — OUVERTURE</div>
-  <p><em>Repères pour le lecteur — hors des notifications des personnages.</em></p>
-  <ul>
-    <li>Résonance est un actif ciblé : seules les principales runiques sont temporairement amplifiées.</li>
-    <li>Les secondaires et les bonus d’ensemble restent inchangés par ce renforcement.</li>
-    <li>Un critique ordinaire à l’épée ne déclenche pas Infiltration runique.</li>
-    <li>Chant est un cercle vert posé : dix pour cent des PV maximums de Yoon soignés toutes les cinq secondes.</li>
-  </ul>
-</div>
 
 ## I. Un samedi qui commence bien
 
@@ -16379,12 +16324,12 @@ Puis elle ouvrit son interface.
 
 Elle ne révéla que les informations qu’elle souhaitait partager.
 
-<div class="character-sheet">
-  <div class="system-header">◆ ÉQUIPEMENT RUNIQUE PARTAGÉ ◆</div>
-  <p><strong>Runes équipées :</strong> 10 / 10.</p>
+<div class="character-sheet lit-window" data-window-id="062" data-window-type="equipement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>ÉQUIPEMENT RUNIQUE PARTAGÉ</div>
+  <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">10 / 10.</span></p>
   <p><strong>Composition :</strong> 4 Fatal ; 2 Gardien ; 2 Énergie ; 2 Arcanique.</p>
   <p><strong>Améliorations :</strong> 6 runes <span class="upgrade-badge">+6</span> ; 4 runes <span class="upgrade-badge">+3</span>.</p>
-  <p><strong>Origines :</strong> Deux paternelles rares (bleues), 6★, +6 ; six maternelles 3★, grades actuels À DÉFINIR ; deux Arcanique, grades et rangs À DÉFINIR.</p>
+  <p><strong>Origines :</strong> Deux paternelles <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; six maternelles 3★, grades actuels À DÉFINIR ; deux Arcanique, grades et rangs À DÉFINIR.</p>
   <p><strong>Arcanique :</strong> 2 / 4 — bonus inactif.</p>
 </div>
 
@@ -16570,8 +16515,8 @@ Puis riposta.
 
 Cette fois, au moment où sa lame atteignit l’animal, une notification traversa brièvement son champ de vision.
 
-<div class="system-window">
-  <div class="system-header">✦ COUP CRITIQUE ✦</div>
+<div class="system-window lit-window" data-window-id="063" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>COUP CRITIQUE</div>
   <p><strong>Action :</strong> Attaque à l’épée.</p>
   <p>Aucune activation d’Aura runique ; Infiltration runique non déclenchée.</p>
 </div>
@@ -17236,8 +17181,8 @@ Ses crocs brillaient entre ses babines retroussées.
 
 Une fenêtre apparut.
 
-<div class="system-window monster">
-  <div class="system-header">◆ MONSTRE IDENTIFIÉ ◆</div>
+<div class="system-window monster lit-window" data-window-id="064" data-window-type="monstre">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
   <p><strong>Loup alpha — Niveau 12</strong></p>
 </div>
 
@@ -17838,8 +17783,8 @@ La Puissance arcanique des deux Arcanique (grades et rangs : À DÉFINIR) égale
 Ses autres principales équipées bénéficièrent du même effet selon leur nature.
 
 Mais les caractéristiques secondaires et les bonus d’ensemble restèrent inchangés.
-<div class="system-window">
-  <div class="system-header">✦ RÉSONANCE RUNIQUE — EFFET TEMPORAIRE ✦</div>
+<div class="system-window lit-window" data-window-id="065" data-window-type="effet-temporaire">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 3"/></svg>RÉSONANCE RUNIQUE — EFFET TEMPORAIRE</div>
   <p><strong>Yoon cible Hasol.</strong></p>
   <p><span class="temporary-bonus">Caractéristiques principales des runes équipées amplifiées.</span></p>
   <p>Secondaires et bonus d’ensemble inchangés.</p>
@@ -17893,8 +17838,8 @@ Et frappa de nouveau.
 
 Une notification traversa son champ de vision.
 
-<div class="system-window">
-  <div class="system-header">✦ COUP CRITIQUE ✦</div>
+<div class="system-window lit-window" data-window-id="066" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>COUP CRITIQUE</div>
   <p><strong>Action :</strong> Attaque à l’épée — distincte du critique d’activation d’Aura runique.</p>
 </div>
 
@@ -18298,8 +18243,8 @@ L’animal ne bougea plus.
 
 Une notification apparut.
 
-<div class="system-window success">
-  <div class="system-header">✓ ÉLIMINATION CONFIRMÉE</div>
+<div class="system-window success lit-window" data-window-id="067" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>ÉLIMINATION CONFIRMÉE</div>
   <p><strong>Loup alpha — Niveau 12</strong></p>
   <p>Expérience obtenue.</p>
 </div>
@@ -19234,17 +19179,6 @@ Ce soir-là, elle ne s’endormit pas en rêvant d’une compétence qu’elle n
 
 Elle s’endormit en pensant à tout ce qu’elle pouvait encore accomplir avec celles qu’elle avait déjà.
 
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — CLÔTURE</div>
-  <p><em>Repères pour le lecteur — hors des notifications des personnages.</em></p>
-  <ul>
-    <li>Équipement et renforcement ne remplacent ni les appuis, ni le placement, ni la coordination.</li>
-    <li>Augmenter son potentiel offensif n’annule pas les conséquences d’une perte de Défense.</li>
-    <li>Sortir du cercle de Chant prive de ses impulsions ; Yoon peut agir après l’avoir posé.</li>
-    <li>Récupérer des PV ne garantit pas la disparition des blessures ni de la fatigue.</li>
-  </ul>
-</div>
-
 **Fin du chapitre 8 — La puissance des dix runes**
 
 ---
@@ -19252,17 +19186,6 @@ Elle s’endormit en pensant à tout ce qu’elle pouvait encore accomplir avec 
 <span id="chapitre-9"></span>
 
 # Chapitre 9 — Douze cercles
-
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — OUVERTURE</div>
-  <p><em>Repères pour le lecteur — hors des notifications des personnages.</em></p>
-  <ul>
-    <li>Viser +9 exige toujours des pierres de mana et du Mana personnel, y compris pour les tentatives ratées.</li>
-    <li>La principale augmente à chaque réussite ; +9 est aussi un palier d’ajout ou de renforcement secondaire.</li>
-    <li>Quatre pièces sont nécessaires au bonus Arcanique ; deux n’activent aucun bonus d’ensemble.</li>
-    <li>Expérience gagnée et éliminations admissibles de Croissance runique sont deux suivis distincts.</li>
-  </ul>
-</div>
 
 ## I. Des goûts de luxe
 
@@ -19754,8 +19677,8 @@ Les inscriptions lumineuses se déployèrent autour de ses doigts.
 
 Une pierre de mana se consuma.
 
-<div class="rune-window success">
-  <div class="system-header">✓ AMÉLIORATION RÉUSSIE</div>
+<div class="rune-window success lit-window" data-window-id="068" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
   <p><strong>Rune :</strong> Énergie maternelle, 3★ — grade actuel et étape exacte : À DÉFINIR.</p>
   <p>Pierres de mana consommées et Mana personnel dépensé.</p>
 </div>
@@ -19766,8 +19689,8 @@ Elle prépara la tentative suivante.
 
 Cette fois, la lumière vacilla.
 
-<div class="rune-window">
-  <div class="system-header">◆ AMÉLIORATION ÉCHOUÉE ◆</div>
+<div class="rune-window lit-window" data-window-id="069" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 8 8 8 M16 8l-8 8"/></svg>AMÉLIORATION ÉCHOUÉE</div>
   <p><strong>Rune :</strong> Énergie maternelle, 3★ — grade actuel et étape exacte : À DÉFINIR.</p>
   <p>Aucune progression ; ressources engagées consommées.</p>
 </div>
@@ -19790,9 +19713,9 @@ D'autres exigèrent davantage de ressources.
 
 Mais à la fin de la séance, la première rune avait atteint le palier recherché.
 
-<div class="rune-window success">
-  <div class="system-header">✓ PALIER ATTEINT</div>
-  <p><strong>Rune :</strong> Énergie épique (violette), 3★.</p>
+<div class="rune-window success lit-window" data-window-id="070" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>PALIER ATTEINT</div>
+  <p><strong>Rune :</strong> Énergie <span class="lit-badge lit-badge--rune-epic">épique (violette)</span>, 3★.</p>
   <p><strong>Amélioration :</strong> <span class="upgrade-badge">+9</span></p>
   <p>Principale renforcée et troisième secondaire présente.</p>
 </div>
@@ -20489,9 +20412,9 @@ Puis pencha la tête.
 
 Hasol ouvrit son interface.
 
-<div class="character-sheet">
-  <div class="system-header">✦ STATUT D’HASOL SHUN ✦</div>
-  <p><strong>Niveau :</strong> 12</p>
+<div class="character-sheet lit-window" data-window-id="071" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>STATUT D’HASOL SHUN</div>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">12</span></p>
 </div>
 
 La jeune Sage sourit.
@@ -20650,8 +20573,8 @@ Elle s'arrêta près d'un vieux tronc.
 
 Puis ouvrit son interface.
 
-<div class="system-window">
-  <div class="system-header">◆ CROISSANCE RUNIQUE ◆</div>
+<div class="system-window lit-window" data-window-id="072" data-window-type="croissance">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE</div>
   <p><strong>Progression cumulée depuis le huitième palier :</strong> 999 / 1 000 éliminations admissibles, reliquat antérieur inclus.</p>
 </div>
 <!-- Raccord validé par l'auteur : le compteur inclut le reliquat des huit premiers paliers, dont la valeur isolée reste inconnue. Aucun ancien millier recompté. -->
@@ -20682,8 +20605,8 @@ Hasol tourna la tête.
 
 Un loup gris apparut.
 
-<div class="system-window monster">
-  <div class="system-header">◆ MONSTRE IDENTIFIÉ ◆</div>
+<div class="system-window monster lit-window" data-window-id="073" data-window-type="monstre">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
   <p><strong>Loup gris — Niveau 5</strong></p>
 </div>
 
@@ -20713,8 +20636,8 @@ Puis pivota.
 
 Son épée frappa.
 
-<div class="system-window">
-  <div class="system-header">✦ COUP CRITIQUE ✦</div>
+<div class="system-window lit-window" data-window-id="074" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>COUP CRITIQUE</div>
   <p>Attaque à l’épée.</p>
 </div>
 
@@ -20728,11 +20651,11 @@ Une seconde passa.
 
 Puis une notification apparut.
 
-<div class="system-window success">
-  <div class="system-header">✦ CROISSANCE RUNIQUE — PALIER ATTEINT ✦</div>
+<div class="system-window success lit-window" data-window-id="075" data-window-type="croissance">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE — PALIER ATTEINT</div>
   <p><strong>Progression cumulée depuis le huitième palier :</strong> 1 000 éliminations admissibles, reliquat antérieur inclus.</p>
   <p>Nouveau cercle de mana et nouvel emplacement runique obtenus.</p>
-  <p><strong>Cercles :</strong> 10 → 11.</p>
+  <p class="lit-window__row"><strong>Cercles :</strong> <span class="lit-window__value">10 → 11.</span></p>
 </div>
 
 Hasol ouvrit de grands yeux.
@@ -20887,8 +20810,8 @@ Toutes deux possédaient deux étoiles.
 
 Mais leurs caractéristiques principales correspondaient exactement à ce que recherchait Hasol.
 
-<div class="rune-window">
-  <div class="system-header">◆ DEUX NOUVELLES RUNES ARCANIQUE ◆</div>
+<div class="rune-window lit-window" data-window-id="076" data-window-type="rune">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>DEUX NOUVELLES RUNES ARCANIQUE</div>
   <p><strong>Rang :</strong> 2★ chacune — <strong>Grades :</strong> À DÉFINIR.</p>
   <p><strong>Amélioration :</strong> <span class="upgrade-badge">+6</span> chacune.</p>
   <p><span class="rune-bonus">Caractéristique principale : Puissance arcanique.</span></p>
@@ -21012,9 +20935,9 @@ Les inscriptions lumineuses se déployèrent autour de ses cercles.
 
 Une notification apparut.
 
-<div class="rune-window success">
-  <div class="system-header">✓ ENSEMBLE ARCANIQUE ACTIVÉ</div>
-  <p><strong>Pièces équipées :</strong> 4 / 4.</p>
+<div class="rune-window success lit-window" data-window-id="077" data-window-type="ensemble">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ENSEMBLE ARCANIQUE ACTIVÉ</div>
+  <p class="lit-window__row"><strong>Pièces équipées :</strong> <span class="lit-window__value">4 / 4.</span></p>
   <p><span class="rune-bonus">Bonus d’ensemble : Puissance arcanique +1 200.</span></p>
 </div>
 
@@ -21088,13 +21011,13 @@ Une lumière douce traversa la pierre.
 
 Hasol contempla sa nouvelle configuration.
 
-<div class="character-sheet">
-  <div class="system-header">◆ HASOL SHUN — ONZE CERCLES ◆</div>
-  <p><strong>Runes équipées :</strong> 11 / 11.</p>
+<div class="character-sheet lit-window" data-window-id="078" data-window-type="equipement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>HASOL SHUN — ONZE CERCLES</div>
+  <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">11 / 11.</span></p>
   <p><strong>Fatal :</strong> 4 — ensemble actif.</p>
   <p><strong>Arcanique :</strong> 4 — ensemble actif.</p>
   <p><strong>Gardien :</strong> 3 — une paire active ; <strong>Énergie :</strong> 0.</p>
-  <p><strong>Origines :</strong> Deux paternelles rares (bleues), 6★, +6 ; cinq maternelles 3★, grades actuels À DÉFINIR ; deux premières Arcanique, grades et rangs À DÉFINIR ; deux nouvelles Arcanique, 2★, grades À DÉFINIR.</p>
+  <p><strong>Origines :</strong> Deux paternelles <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; cinq maternelles 3★, grades actuels À DÉFINIR ; deux premières Arcanique, grades et rangs À DÉFINIR ; deux nouvelles Arcanique, 2★, grades À DÉFINIR.</p>
 </div>
 
 La rune Gardien bleue six étoiles +6 offerte par son père restait équipée.
@@ -21508,10 +21431,10 @@ Une lumière douce parcourut ses cercles.
 
 Une notification apparut.
 
-<div class="rune-window success">
-  <div class="system-header">✓ ENSEMBLE ÉNERGIE ACTIVÉ — YOON</div>
-  <p><strong>Runes :</strong> Deux Énergie épiques (violettes), 3★, +9, offertes par Hasol.</p>
-  <p><strong>Pièces équipées :</strong> 2 / 2.</p>
+<div class="rune-window success lit-window" data-window-id="079" data-window-type="ensemble">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ENSEMBLE ÉNERGIE ACTIVÉ — YOON</div>
+  <p><strong>Runes :</strong> Deux Énergie <span class="lit-badge lit-badge--rune-epic">épiques (violettes)</span>, 3★, +9, offertes par Hasol.</p>
+  <p class="lit-window__row"><strong>Pièces équipées :</strong> <span class="lit-window__value">2 / 2.</span></p>
   <p><span class="rune-bonus">Bonus d’ensemble : PV maximums +15 %.</span></p>
   <p><strong>Anciennes runes :</strong> Conservées dans l’inventaire à +6 ; grades et rangs À DÉFINIR.</p>
 </div>
@@ -21876,9 +21799,9 @@ Elle ne savait pas encore comment faire.
 
 Puis, quelques jours plus tard, lors d'un nouvel exercice difficile, une notification apparut.
 
-<div class="system-window level-up">
-  <div class="system-header">✦ NIVEAU SUPÉRIEUR — YOON NOTOS ✦</div>
-  <p><strong>Niveau atteint :</strong> 20.</p>
+<div class="system-window level-up lit-window" data-window-id="080" data-window-type="niveau">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR — YOON NOTOS</div>
+  <p class="lit-window__row"><strong>Niveau atteint :</strong> <span class="lit-window__value">20.</span></p>
   <p><strong>Nouvelle compétence :</strong> Domaine des Entraves Runiques.</p>
   <p>Cercle violet d’écritures runiques au sol : ralentit les ennemis sans les immobiliser, alliés épargnés.</p>
   <p>Consommation de Mana pour le maintien ; résistance partielle des adversaires puissants.</p>
@@ -22280,8 +22203,8 @@ Elle attendit qu'il engage son mouvement.
 
 Puis frappa.
 
-<div class="system-window">
-  <div class="system-header">✦ COUP CRITIQUE ✦</div>
+<div class="system-window lit-window" data-window-id="081" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>COUP CRITIQUE</div>
   <p>Attaque à l’épée.</p>
 </div>
 
@@ -22343,9 +22266,9 @@ Ces trois voies se complétaient.
 
 Hasol consulta son interface.
 
-<div class="character-sheet">
-  <div class="system-header">✦ STATUT D’HASOL SHUN ✦</div>
-  <p><strong>Niveau :</strong> 19</p>
+<div class="character-sheet lit-window" data-window-id="082" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>STATUT D’HASOL SHUN</div>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">19</span></p>
 </div>
 
 Elle sourit.
@@ -22358,8 +22281,8 @@ Elle devait donc obtenir son douzième cercle avant de devoir changer de terrain
 
 Hasol ouvrit son compteur.
 
-<div class="system-window">
-  <div class="system-header">◆ CROISSANCE RUNIQUE ◆</div>
+<div class="system-window lit-window" data-window-id="083" data-window-type="croissance">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE</div>
   <p><strong>Progression cumulée depuis le huitième palier :</strong> 1 998 / 2 000 éliminations admissibles, reliquat antérieur inclus.</p>
 </div>
 <!-- Raccord validé par l'auteur : suivi cumulatif après le huitième palier, reliquat inclus ; le neuvième millier n'est pas récompensé une deuxième fois. -->
@@ -22396,8 +22319,8 @@ Un second coup termina le combat.
 
 Elle consulta son compteur.
 
-<div class="system-window">
-  <div class="system-header">◆ CROISSANCE RUNIQUE ◆</div>
+<div class="system-window lit-window" data-window-id="084" data-window-type="croissance">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE</div>
   <p><strong>Progression cumulée depuis le huitième palier :</strong> 1 999 / 2 000, reliquat antérieur inclus.</p>
 </div>
 
@@ -22447,8 +22370,8 @@ Elle évita sa gueule.
 
 Puis frappa.
 
-<div class="system-window">
-  <div class="system-header">✦ COUP CRITIQUE ✦</div>
+<div class="system-window lit-window" data-window-id="085" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>COUP CRITIQUE</div>
   <p>Attaque à l’épée.</p>
 </div>
 
@@ -22456,11 +22379,11 @@ Le monstre s'effondra.
 
 Une notification apparut immédiatement.
 
-<div class="system-window success">
-  <div class="system-header">✦ CROISSANCE RUNIQUE — PALIER ATTEINT ✦</div>
+<div class="system-window success lit-window" data-window-id="086" data-window-type="croissance">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE — PALIER ATTEINT</div>
   <p><strong>Progression cumulée depuis le huitième palier :</strong> 2 000 éliminations admissibles, reliquat antérieur inclus.</p>
   <p>Nouveau cercle de mana et nouvel emplacement runique obtenus.</p>
-  <p><strong>Cercles :</strong> 11 → 12.</p>
+  <p class="lit-window__row"><strong>Cercles :</strong> <span class="lit-window__value">11 → 12.</span></p>
 </div>
 
 Hasol resta immobile.
@@ -22687,14 +22610,14 @@ Les inscriptions lumineuses se déployèrent autour de ses cercles.
 
 Son équipement était désormais composé de :
 
-<div class="character-sheet">
-  <div class="system-header">◆ HASOL SHUN — ÉQUIPEMENT RUNIQUE ◆</div>
-  <p><strong>Classe :</strong> Arcaniste runique — Légendaire.</p>
+<div class="character-sheet lit-window" data-window-id="087" data-window-type="equipement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>HASOL SHUN — ÉQUIPEMENT RUNIQUE</div>
+  <p><strong>Classe :</strong> Arcaniste runique — <span class="lit-badge lit-badge--legendary">Légendaire</span>.</p>
   <p><strong>Niveau :</strong> 19 — <strong>Cercles :</strong> 12 — <strong>Runes équipées :</strong> 12 / 12.</p>
   <p><strong>Fatal :</strong> 4 — <span class="rune-bonus">Attaque +35 %.</span></p>
   <p><strong>Arcanique :</strong> 4 — <span class="rune-bonus">Puissance arcanique +1 200.</span></p>
   <p><strong>Gardien :</strong> 4 — deux paires, <span class="rune-bonus">Défense +15 % +15 % = +30 %.</span></p>
-  <p><strong>Origines :</strong> Deux paternelles rares (bleues), 6★, +6 ; six maternelles 3★, grades actuels À DÉFINIR ; deux premières Arcanique, grades et rangs À DÉFINIR ; deux nouvelles Arcanique, 2★, grades À DÉFINIR.</p>
+  <p><strong>Origines :</strong> Deux paternelles <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; six maternelles 3★, grades actuels À DÉFINIR ; deux premières Arcanique, grades et rangs À DÉFINIR ; deux nouvelles Arcanique, 2★, grades À DÉFINIR.</p>
 </div>
 
 La rune Gardien bleue six étoiles +6 offerte par son père restait équipée.
@@ -22799,9 +22722,9 @@ Hasol éclata de rire.
 
 Yoon ouvrit fièrement son interface.
 
-<div class="character-sheet">
-  <div class="system-header">✦ YOON NOTOS — SAGE RUNIQUE ✦</div>
-  <p><strong>Niveau :</strong> 24</p>
+<div class="character-sheet lit-window" data-window-id="088" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>YOON NOTOS — SAGE RUNIQUE</div>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">24</span></p>
 </div>
 
 Hasol ouvrit de grands yeux.
@@ -22936,9 +22859,9 @@ Puis elle remarqua quelque chose.
 
 Hasol ouvrit sa fiche.
 
-<div class="character-sheet">
-  <div class="system-header">✦ HASOL SHUN — ARCANISTE RUNIQUE ✦</div>
-  <p><strong>Niveau :</strong> 19</p>
+<div class="character-sheet lit-window" data-window-id="089" data-window-type="personnage">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>HASOL SHUN — ARCANISTE RUNIQUE</div>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">19</span></p>
 </div>
 
 Yoon contempla le chiffre.
@@ -23185,16 +23108,14374 @@ Et les deux amies continuèrent à discuter, sans savoir encore quelles rencontr
 
 ---
 
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — CLÔTURE</div>
-  <p><em>Repères pour le lecteur — hors des notifications des personnages.</em></p>
+**Fin du chapitre 9 — Douze cercles**
+
+---
+
+<span id="chapitre-10"></span>
+
+# Chapitre 10 — Ceux qui riaient autrefois
+
+## I. Les voix du passé
+
+— Encore une fois !
+
+Hasol se déporta sur sa gauche.
+
+Le loup gris bondit aussitôt, les mâchoires ouvertes, mais ne rencontra que le vide. Profitant de son élan, elle pivota sur son pied d’appui et frappa le flanc de l’animal.
+
+La créature poussa un glapissement avant de s’effondrer parmi les feuilles mortes.
+
+Hasol recula d’un pas, son épée toujours levée.
+
+Le loup ne bougea plus.
+
+— Cette fois, c’était mieux ! lança Yoon.
+
+Hasol lui adressa un sourire victorieux.
+
+— Tu as vu ? Je n’ai même pas eu besoin de tes Entraves !
+
+— J’ai surtout vu que tu as enfin cessé d’essayer de bloquer des attaques que tu pourrais éviter.
+
+— Tu ne pourrais pas simplement me féliciter ?
+
+Yoon prit un air songeur.
+
+— Je pourrais.
+
+Hasol attendit.
+
+— Mais ce serait moins amusant.
+
+— Yoon !
+
+Le rire de son amie résonna entre les arbres.
+
+Hasol finit par rire elle aussi. Elle essuya sa lame avant de la rengainer, puis s’étira avec précaution.
+
+La matinée s’était bien déroulée. Elles avaient choisi une zone du Bois des Crocs Gris où les monstres étaient suffisamment dangereux pour les obliger à rester attentives, sans pour autant s’aventurer dans les secteurs les plus profonds de la forêt.
+
+Depuis qu’elle disposait de douze cercles runiques, Hasol sentait une différence considérable dans sa manière de combattre. Ses ensembles Fatal, Arcanique et Gardien lui donnaient la force nécessaire pour affronter des adversaires qui l’auraient autrefois obligée à fuir.
+
+Mais sa puissance ne réglait pas tout.
+
+Un coup mal anticipé restait dangereux. Un mauvais appui pouvait lui faire perdre l’équilibre. Et une épée, aussi bien maniée soit-elle, ne compensait pas toujours la vitesse d’un adversaire.
+
+C’était précisément ce qu’elle était venue travailler.
+
+— Tu sais ce qu’il me faudrait ? demanda-t-elle.
+
+Yoon soupira sans même se retourner.
+
+— Des runes Vitesse.
+
+Hasol s’immobilisa.
+
+— Comment tu as deviné ?
+
+— Parce que tu m’en parles depuis trois jours.
+
+— Seulement trois ?
+
+— Hasol.
+
+— D’accord, d’accord !
+
+Elle reprit son sac et rejoignit son amie.
+
+— Mais sérieusement, une bonne rune Vitesse pourrait être intéressante.
+
+— Tu as déjà tous tes emplacements occupés.
+
+— Justement. Il faudrait que je réfléchisse à ce que je pourrais remplacer.
+
+Yoon secoua la tête avec amusement.
+
+— Tu vas encore passer des heures devant ton carnet.
+
+— C’est une activité parfaitement respectable.
+
+— Je n’ai jamais dit le contraire.
+
+Hasol lui lança un regard soupçonneux.
+
+— Tu le pensais très fort.
+
+La Sage éclata de rire.
+
+Elles reprirent leur marche sur un sentier étroit, bordé de fougères et de grands arbres dont les branches se rejoignaient au-dessus de leurs têtes.
+
+Après quelques minutes, Yoon déplia le plan qu’elles avaient préparé avant leur départ.
+
+— Nous pourrions rentrer par le nord. Il reste un petit secteur de chasse sur le chemin.
+
+Hasol jeta un coup d’œil à la carte.
+
+— Celui près des vieux rochers ?
+
+— Oui.
+
+— D’accord.
+
+Yoon replia le document.
+
+— Et ensuite, nous pourrions passer au Griffon d’Argent. Ils ont peut-être reçu de nouvelles candidatures.
+
+Hasol fit une grimace.
+
+— J’espère.
+
+La recherche d’un troisième membre se révélait plus difficile qu’elle ne l’avait imaginé.
+
+Certains chasseurs exigeaient une équipe déjà capable d’enchaîner les donjons les plus rentables. D’autres n’étaient disponibles qu’à des horaires incompatibles avec les cours de Yoon.
+
+Et quelques-uns avaient manifestement changé d’avis après avoir appris qu’Hasol ne possédait aucune compétence offensive directe.
+
+— Nous finirons par trouver, assura Yoon.
+
+Hasol sourit.
+
+— Je sais.
+
+Un peu plus loin, des voix leur parvinrent.
+
+Elles ralentirent.
+
+Trois chasseurs approchaient par le sentier opposé.
+
+Le premier, un guerrier de grande taille, marchait en gesticulant. Un archer suivait à ses côtés. Le troisième, légèrement en retrait, consultait un registre tout en avançant.
+
+Hasol reconnut immédiatement le mage.
+
+Ses cheveux sombres retombaient légèrement sur ses lunettes. Il portait une robe de combat gris foncé et semblait tellement absorbé par sa lecture qu’il ne regardait presque pas où il posait les pieds.
+
+Son cœur se serra.
+
+Ray…
+
+Elle s’arrêta.
+
+— Hasol ?
+
+Yoon suivit son regard.
+
+Le guerrier venait lui aussi de la reconnaître.
+
+Un large sourire apparut sur son visage.
+
+— Eh bien ! Si ce n’est pas Hasol Shun !
+
+Il accéléra le pas.
+
+Hasol le reconnut alors à son tour.
+
+L’un de ses anciens camarades de l’Académie.
+
+L’un de ceux qui avaient trouvé ses difficultés particulièrement divertissantes.
+
+— Bonjour, répondit-elle.
+
+Le jeune homme baissa les yeux vers son épée.
+
+— Tu continues donc à combattre avec ça ?
+
+— Oui.
+
+— Toujours pas de sort offensif ?
+
+Hasol sentit ses doigts se contracter.
+
+La question était posée avec un sourire parfaitement familier.
+
+Celui qui précédait généralement une moquerie.
+
+— Non.
+
+Le guerrier échangea un regard avec l’archer.
+
+— Décidément, certaines choses ne changent jamais !
+
+L’autre eut un petit rire.
+
+Hasol détourna les yeux.
+
+Pendant une seconde, elle revit les couloirs de l’Académie.
+
+Les élèves rassemblés autour de son carnet d’entraînement.
+
+Les pages couvertes de notes qu’ils avaient lues à haute voix.
+
+Et les rires.
+
+Surtout les rires.
+
+— Nous sommes en pleine chasse, dit-elle. Nous allons continuer notre chemin.
+
+Le guerrier sembla surpris par la fermeté de sa réponse.
+
+— Allons, ne sois pas comme ça ! Tu pourrais au moins nous raconter comment tu t’en sors.
+
+Yoon s’avança légèrement.
+
+— Très bien, jusqu’à présent.
+
+Il tourna les yeux vers elle.
+
+— Et tu es ?
+
+— Yoon Notos.
+
+Le sourire du guerrier se figea un instant.
+
+— Notos ? Comme Zio Notos ?
+
+— C’est mon frère.
+
+L’archer se redressa discrètement.
+
+Hasol aurait presque pu sourire.
+
+À l’Académie, les élèves qui ne craignaient pas de se moquer d’elle étaient souvent beaucoup moins désinvoltes en présence de Zio.
+
+Ray avait enfin relevé la tête de son registre.
+
+Lorsqu’il aperçut Hasol, il s’immobilisa.
+
+— Hasol ?
+
+Elle soutint son regard.
+
+— Bonjour, Ray.
+
+Il referma lentement son livre.
+
+— Ça fait longtemps.
+
+— Oui.
+
+Un silence s’installa.
+
+Ray ajusta ses lunettes.
+
+— Vous chassez ensemble ?
+
+— Depuis quelque temps, répondit Yoon.
+
+— Je vois.
+
+Il sembla vouloir ajouter quelque chose.
+
+Puis son regard glissa vers l’épée d’Hasol.
+
+Elle n’aimait pas cette expression.
+
+Elle lui rappelait trop les années pendant lesquelles il avait commencé à éviter de lui parler devant les autres.
+
+Le guerrier rompit le silence.
+
+— Nous, nous avons une vraie mission. Un groupe de loups aurait attaqué plusieurs chasseurs près des rochers du nord.
+
+Yoon fronça les sourcils.
+
+— Des loups gris ?
+
+Ray rouvrit immédiatement son registre.
+
+— Les témoignages ne sont pas assez précis. Certains parlent d’un alpha particulièrement grand. Un chasseur affirme avoir vu des cicatrices sur son dos et son museau.
+
+— Et son niveau ? demanda Hasol.
+
+— Inconnu, répondit Ray.
+
+Le guerrier leva les yeux au ciel.
+
+— Ce qui ne veut pas dire qu’il est dangereux.
+
+— Ça ne veut pas dire non plus qu’il ne l’est pas, répliqua le mage.
+
+L’archer intervint :
+
+— Nous avons déjà affronté des loups plus puissants que ceux de cette région.
+
+Ray tourna les yeux vers lui.
+
+— Pas un alpha élite, si c’est bien de cela qu’il s’agit.
+
+Le guerrier soupira.
+
+— Tu réfléchis toujours trop, Ray.
+
+Hasol connaissait cette phrase.
+
+Elle l’avait entendue des dizaines de fois pendant leur enfance.
+
+Et autrefois, c’était elle qui prenait la défense de son ami.
+
+Elle observa un instant les trois chasseurs.
+
+— Vous devriez vérifier avant d’attaquer.
+
+Le guerrier ricana.
+
+— Tu t’inquiètes pour nous ?
+
+— Je vous donne un conseil.
+
+— C’est nouveau, ça.
+
+Hasol leva les yeux vers lui.
+
+— Écoute-le ou non. C’est ton choix.
+
+Il ouvrit la bouche, surpris.
+
+Mais Yoon était déjà venue se placer à côté d’elle.
+
+— Nous avons encore du chemin. Bonne chasse.
+
+Ray referma son registre.
+
+— À vous aussi.
+
+Hasol lui adressa un bref signe de tête.
+
+Puis elle dépassa les trois jeunes hommes.
+
+Alors qu’elle s’éloignait, elle entendit le guerrier murmurer quelque chose.
+
+L’archer éclata de rire.
+
+Elle ne distingua pas les mots.
+
+Elle n’en avait pas besoin.
+
+Yoon attendit qu’elles aient franchi plusieurs dizaines de pas.
+
+— C’était lui ?
+
+Hasol acquiesça.
+
+— Ray.
+
+— Ton ami d’enfance ?
+
+— Oui.
+
+La Sage regarda un instant derrière elles.
+
+— Il avait l’air mal à l’aise.
+
+Hasol eut un sourire sans joie.
+
+— Il était déjà comme ça, à la fin de l’Académie.
+
+Elle marcha quelques instants en silence.
+
+Puis reprit :
+
+— Quand nous étions enfants, il n’arrêtait pas de parler. Il lisait énormément, tu sais. Il connaissait les noms de monstres dont je n’avais même jamais entendu parler.
+
+Yoon sourit.
+
+— Ça devait te plaire.
+
+— Énormément.
+
+Hasol baissa les yeux vers ses bottes.
+
+— Nous voulions devenir chasseurs ensemble.
+
+Elle se souvenait encore des après-midi passés dans les jardins de leurs familles, à imaginer leurs futures expéditions.
+
+Ray dessinait des plans de donjons.
+
+Elle inventait des stratégies absurdes.
+
+Ils finissaient souvent par se disputer sur la meilleure manière de vaincre un dragon.
+
+Ces souvenirs avaient longtemps été heureux.
+
+À présent, ils lui laissaient une impression amère.
+
+— Les autres ne me connaissaient pas vraiment, murmura-t-elle.
+
+Yoon tourna la tête.
+
+— Comment ça ?
+
+— Ceux qui se moquaient de moi à l’Académie… Ils voyaient seulement une fille avec une classe légendaire incapable de lancer un sort offensif.
+
+Hasol serra légèrement les mains.
+
+— Ray connaissait mes efforts. Il savait combien j’avais travaillé pour devenir chasseuse.
+
+Elle inspira lentement.
+
+— Et pourtant, il a ri avec eux.
+
+Yoon ne répondit pas immédiatement.
+
+Puis elle posa doucement une main sur son épaule.
+
+— Tu n’as pas à lui pardonner simplement parce que vous étiez amis.
+
+Hasol releva les yeux.
+
+La Sage lui adressa un sourire.
+
+— Et tu n’es pas obligée de laisser leur comportement gâcher notre journée.
+
+Hasol resta silencieuse quelques secondes.
+
+Puis un petit sourire apparut sur son visage.
+
+— Tu as raison.
+
+Elle regarda le sentier.
+
+— Nous étions venues nous entraîner.
+
+— Exactement.
+
+— Alors nous allons continuer.
+
+Yoon acquiesça.
+
+Elles reprirent leur marche.
+
+Un peu plus loin, une détonation retentit entre les arbres.
+
+Les deux jeunes femmes s’immobilisèrent.
+
+Une seconde explosion suivit.
+
+Puis un cri.
+
+— RAY ! ATTENTION !
+
+Hasol tourna brusquement la tête.
+
+Le cri venait du nord.
+
+Une lumière orangée apparut brièvement au-dessus des branches.
+
+Puis un hurlement retentit.
+
+Grave.
+
+Puissant.
+
+Si différent de ceux des loups qu’elles avaient affrontés depuis le matin qu’Hasol sentit un frisson lui parcourir le dos.
+
+Yoon avait déjà rangé sa carte.
+
+— C’est dans leur direction.
+
+Hasol dégaina son épée.
+
+Elle n’hésita qu’un instant.
+
+Puis regarda son amie.
+
+— On va voir.
+
+Yoon acquiesça.
+
+— Ensemble.
+
+Elles se mirent à courir.
+
+## II. L’alpha aux cicatrices
+
+L’odeur de bois brûlé leur parvint avant qu’elles atteignent la clairière.
+
+Un arbre fumait encore près du sentier. Des branches brisées jonchaient le sol, parmi lesquelles se mêlaient des traces de pas et de profondes empreintes de griffes.
+
+Hasol ralentit derrière un rocher.
+
+Yoon arriva à sa hauteur.
+
+Elles découvrirent la même scène.
+
+L’archer gisait contre un tronc, une main pressée sur sa jambe ensanglantée. Le guerrier tentait de le protéger, mais sa garde était hésitante et son épée tremblait.
+
+Ray se tenait quelques pas devant eux.
+
+Sa robe de mage gris foncé était déchirée à l’épaule. Une coupure au front avait laissé une traînée de sang sur ses lunettes.
+
+Face à lui se dressait un loup gigantesque.
+
+Son pelage presque noir était parcouru de cicatrices. Une partie de son oreille gauche avait disparu, et une ancienne blessure déformait légèrement son museau.
+
+Il avançait lentement.
+
+Comme s’il savait que ses proies ne pouvaient plus lui échapper.
+
+Hasol concentra son regard.
+
+<div class="system-window monster lit-window" data-window-id="092" data-window-type="monstre">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
+  <h3>Loup alpha élite</h3>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">26</span></p>
+  <p class="lit-window__row"><strong>Catégorie :</strong> <span>Élite</span></p>
+</div>
+
+— Niveau vingt-six…, murmura-t-elle.
+
+Yoon observa les blessés.
+
+— Ils ne pourront pas fuir sans aide.
+
+Dans la clairière, Ray leva les mains.
+
+— Boule de feu !
+
+Une sphère incandescente frappa le poitrail de l’alpha.
+
+L’explosion souleva de la poussière.
+
+Mais lorsqu’il ressortit de la fumée, l’animal avançait toujours.
+
+Ray recula.
+
+De faibles flammes apparurent entre ses doigts, puis disparurent.
+
+— Ray ! hurla le guerrier. Fais quelque chose !
+
+— Je n’ai presque plus de Mana !
+
+Le loup fléchit les pattes.
+
+Hasol comprit qu’il allait bondir.
+
+Elle se tourna vers Yoon.
+
+— Tu peux le ralentir ?
+
+— Oui. Mais il résistera probablement à une partie de l’effet.
+
+— Ça suffira pour commencer.
+
+Yoon lui saisit brièvement le bras.
+
+— Hasol, il est beaucoup plus fort que les monstres de ce matin.
+
+La jeune femme observa l’alpha.
+
+Elle avait peur.
+
+Pas cette inquiétude familière qui précédait un combat ordinaire.
+
+Une peur véritable, qui lui nouait l’estomac et rendait sa respiration trop courte.
+
+Mais les trois chasseurs n’avaient aucune chance de s’échapper seuls.
+
+Elle regarda son amie.
+
+— Nous ne pouvons pas les abandonner.
+
+Yoon suivit son regard.
+
+Puis acquiesça.
+
+— Alors on commence par sauver les blessés.
+
+Hasol serra la poignée de son épée.
+
+— Je vais détourner son attention.
+
+La Sage prit une inspiration.
+
+Puis leva les mains.
+
+— Domaine des Entraves Runiques !
+
+Un cercle violet se déploya sur le sol de la clairière.
+
+Des inscriptions lumineuses apparurent sous les pattes du loup.
+
+Il bondit.
+
+Son élan ralentit brutalement.
+
+Pas suffisamment pour l’immobiliser, mais assez pour que Ray puisse se jeter sur le côté.
+
+Les mâchoires du monstre se refermèrent sur le vide.
+
+— Baisse-toi !
+
+Hasol surgit entre les arbres.
+
+Elle dépassa Ray, frappa le flanc du loup et recula aussitôt.
+
+L’aura de Terre qui enveloppait sa lame accompagna le choc.
+
+L’alpha poussa un grondement furieux.
+
+Il pivota vers elle.
+
+Sa patte s’abattit.
+
+Hasol se déporta juste à temps.
+
+Une gerbe de terre jaillit là où elle se trouvait une seconde plus tôt.
+
+— Yoon ! Les blessés !
+
+— Compris !
+
+La Sage contourna le combat.
+
+Ray, encore au sol, fixait Hasol avec stupéfaction.
+
+— Hasol… ?
+
+Elle n’eut pas le temps de répondre.
+
+Le loup attaqua de nouveau.
+
+Hasol recula, cherchant à conserver suffisamment d’espace pour manœuvrer.
+
+Son adversaire était immense.
+
+Mais surtout, il était rapide.
+
+Bien trop rapide pour qu’elle puisse simplement compter sur sa puissance.
+
+— Ray ! appela Yoon.
+
+Le mage sursauta.
+
+— Oui ?
+
+— Aide-moi à déplacer ton compagnon !
+
+Il se releva aussitôt.
+
+Avec le guerrier, ils soulevèrent l’archer et le transportèrent derrière un gros tronc renversé.
+
+Yoon posa les mains au sol.
+
+— Chant runique !
+
+Un cercle vert apparut autour d’eux.
+
+Les premières pulsations commencèrent à restaurer leurs forces.
+
+Mais le sang continuait de s’écouler de la jambe de l’archer.
+
+La Sage se pencha sur la blessure, resserra le bandage de fortune et vérifia qu’il restait conscient.
+
+— Il lui faudra des soins plus complets en ville.
+
+Ray acquiesça.
+
+Puis son regard retourna vers la clairière.
+
+Hasol venait de frapper l’alpha à l’épaule.
+
+Elle se replia aussitôt, évitant de justesse une morsure.
+
+Ray ajusta ses lunettes.
+
+Il connaissait ses difficultés.
+
+Il avait assisté à ses entraînements.
+
+Il l’avait vue échouer à lancer le moindre sort offensif pendant des années.
+
+Et maintenant, elle affrontait un monstre qui avait presque tué trois chasseurs de son groupe.
+
+— Comment est-ce qu’elle…
+
+— Elle s’est entraînée, répondit Yoon.
+
+Ray tourna la tête.
+
+La Sage ne le regardait pas.
+
+Elle surveillait Hasol.
+
+— Beaucoup, ajouta-t-elle.
+
+Le mage baissa les yeux.
+
+Puis observa de nouveau le combat.
+
+L’alpha comprenait peu à peu ce qui le gênait.
+
+Chaque fois qu’il traversait le cercle violet, ses mouvements perdaient une partie de leur vitesse.
+
+Mais il commençait à adapter ses attaques.
+
+Au lieu de charger droit devant lui, il tentait d’obliger Hasol à reculer vers les arbres.
+
+Elle para une frappe de patte.
+
+Le choc lui traversa les poignets.
+
+Elle recula de plusieurs pas.
+
+Je ne pourrai pas tenir comme ça très longtemps.
+
+Le loup gronda.
+
+Hasol contourna son flanc gauche.
+
+Elle attendit qu’il pivote, puis frappa sa patte arrière.
+
+Sa lame ouvrit une entaille.
+
+L’animal poussa un hurlement.
+
+Mais au lieu de reculer, il bondit brutalement de côté.
+
+Hasol tenta d’esquiver.
+
+Son talon glissa sur une racine.
+
+L’épaule du monstre la heurta de plein fouet.
+
+Elle fut projetée contre un arbre.
+
+La douleur lui coupa le souffle.
+
+Son épée faillit lui échapper.
+
+— HASOL !
+
+Yoon se retourna.
+
+Le Domaine vacilla brièvement.
+
+L’alpha fonça vers son amie.
+
+Hasol tenta de se relever.
+
+Son dos lui faisait mal.
+
+Et son bras gauche refusait presque de répondre.
+
+Le loup ouvrit la gueule.
+
+Yoon leva les mains.
+
+— Vague runique !
+
+Les inscriptions lumineuses commencèrent à se rassembler.
+
+Il lui fallait cinq secondes pour achever l’incantation.
+
+Cinq secondes qui parurent interminables.
+
+Hasol chercha un appui.
+
+Le monstre approchait.
+
+L’onde de Lumière jaillit enfin.
+
+Elle frappa le museau de l’alpha.
+
+Les dégâts furent modestes, mais l’attaque détourna suffisamment son attention.
+
+Hasol roula sur le côté.
+
+Les mâchoires se refermèrent contre l’écorce.
+
+Elle se redressa péniblement.
+
+— Merci !
+
+Yoon paraissait pâle.
+
+— Tu es blessée ?
+
+— Un peu !
+
+La Sage la regarda avec inquiétude.
+
+— Hasol…
+
+— Je peux continuer !
+
+Elle reprit sa garde.
+
+Son épaule la lançait.
+
+Et elle sentait le sang couler le long de son avant-bras.
+
+Mais elle pouvait encore tenir son épée.
+
+Le loup recula de quelques pas.
+
+Puis son regard se porta vers Yoon.
+
+Hasol comprit aussitôt.
+
+Il cherchait celle qui ralentissait ses mouvements.
+
+— Yoon ! Attention !
+
+L’alpha changea brutalement de direction.
+
+Il fonça vers la Sage.
+
+Hasol se lança à sa poursuite.
+
+Trop tard.
+
+Yoon dut reculer derrière le tronc renversé.
+
+Ray se plaça instinctivement devant les blessés.
+
+De faibles flammes apparurent dans sa paume.
+
+Mais elles vacillèrent.
+
+Il ne lui restait presque rien.
+
+L’alpha s’arrêta à quelques pas.
+
+Hasol revint sur son flanc et frappa de nouveau sa patte blessée.
+
+L’animal se retourna vers elle.
+
+Ray remarqua alors quelque chose.
+
+La patte arrière gauche du monstre tremblait.
+
+Chaque fois qu’il tournait dans cette direction, son corps accusait un léger retard.
+
+Ray connaissait ce mouvement.
+
+Il avait lu une description similaire dans un traité consacré aux grands prédateurs.
+
+— Hasol !
+
+Elle tourna brièvement la tête.
+
+— Quoi ?
+
+— Sa patte arrière gauche !
+
+— Je l’ai déjà blessée !
+
+— Je sais ! Mais il évite de s’appuyer dessus quand il tourne !
+
+Hasol observa le monstre.
+
+Ray poursuivit :
+
+— Si tu l’obliges à changer brusquement de direction, il perdra son équilibre !
+
+La jeune femme regarda les arbres.
+
+Deux grands troncs formaient un passage étroit au bord de la clairière.
+
+Elle comprit.
+
+— Yoon !
+
+La Sage suivit son regard.
+
+Puis elle aperçut le passage.
+
+— Tu veux l’attirer là-bas ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Elle tourna les yeux vers Ray.
+
+— Tu peux encore lancer un sort ?
+
+Le mage examina rapidement ses réserves.
+
+— Un seul Trait incandescent, probablement.
+
+— Alors garde-le.
+
+— Pour quand ?
+
+Hasol désigna les arbres.
+
+— Quand je te le dirai.
+
+Ray acquiesça.
+
+Il ne discuta pas.
+
+Yoon resserra son Domaine autour de la zone où se trouvait l’alpha.
+
+L’effort lui coûta une quantité de Mana qu’elle ne pourrait pas maintenir longtemps.
+
+Elle le savait.
+
+Hasol aussi.
+
+Il ne leur restait qu’une véritable occasion.
+
+Hasol avança vers le monstre.
+
+Son épaule lui faisait mal à chaque mouvement.
+
+Mais elle conserva son épée devant elle.
+
+— Viens.
+
+L’alpha dévoila ses crocs.
+
+Elle recula lentement vers les arbres.
+
+Le loup la suivit.
+
+Puis il bondit.
+
+Hasol s’engagea dans le passage.
+
+Ses bottes glissèrent sur les feuilles humides.
+
+Elle dut ralentir pour ne pas perdre l’équilibre.
+
+Le monstre approchait.
+
+Encore un pas.
+
+Puis deux.
+
+Il entra entre les troncs.
+
+— Maintenant !
+
+Yoon concentra son Domaine.
+
+Les inscriptions violettes brillèrent sous les pattes du loup.
+
+Hasol se déporta brusquement vers la gauche.
+
+L’animal tenta de la suivre.
+
+Mais l’espace était trop étroit pour son corps massif.
+
+Il força sur sa patte blessée.
+
+Son arrière-train se déroba légèrement.
+
+— Ray !
+
+— Trait incandescent !
+
+Une ligne de feu traversa la clairière.
+
+Elle frappa le flanc de l’alpha.
+
+Le monstre hurla.
+
+Hasol s’élança.
+
+— Yoon !
+
+— Résonance runique !
+
+Une lumière parcourut les cercles d’Hasol.
+
+Les caractéristiques principales de ses runes furent temporairement renforcées.
+
+Elle sentit sa prise se raffermir.
+
+Ses appuis devinrent plus sûrs.
+
+Et la lame qu’elle leva semblait répondre avec une précision nouvelle.
+
+Elle frappa la patte arrière gauche.
+
+L’alpha s’affaissa.
+
+Puis il redressa la tête avec une violence désespérée.
+
+Son corps heurta Hasol.
+
+Elle fut projetée contre l’un des troncs.
+
+Une douleur fulgurante traversa son dos.
+
+Ses jambes cédèrent.
+
+Le monstre pivota vers elle.
+
+Sa gueule s’ouvrit.
+
+Hasol vit les crocs approcher.
+
+Elle n’aurait pas le temps de lever son épée.
+
+Un instant, tout sembla ralentir.
+
+Le souffle chaud de l’animal.
+
+La terre humide sous sa main.
+
+Les cris de Yoon.
+
+Et la patte blessée, qui tremblait sous le poids du monstre.
+
+Il ne peut pas tourner correctement.
+
+Au lieu de chercher à parer, Hasol se laissa tomber sur le côté.
+
+Les crocs se refermèrent à quelques centimètres de son visage.
+
+L’alpha tenta de corriger son mouvement.
+
+Sa patte arrière céda.
+
+Son corps bascula.
+
+Hasol roula sur le sol.
+
+Puis se redressa sur un genou.
+
+L’ouverture était là.
+
+Sous la mâchoire.
+
+Elle serra la poignée de son épée à deux mains.
+
+Rassembla ce qui lui restait de force.
+
+Et frappa.
+
+La lame pénétra profondément.
+
+L’alpha poussa un dernier hurlement.
+
+Son corps se contracta.
+
+Il tenta encore de se relever.
+
+Puis s’effondra lourdement dans la terre.
+
+Hasol recula immédiatement.
+
+Elle resta en garde.
+
+Une seconde passa.
+
+Puis une autre.
+
+Le monstre ne bougea plus.
+
+<div class="system-window success lit-window" data-window-id="093" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>ENNEMI VAINCU</div>
+  <h3>Loup alpha élite — Niveau 26</h3>
+  <p class="lit-window__row"><strong>Coup fatal :</strong> <span>Hasol Shun</span></p>
+  <p class="lit-window__row"><strong>Expérience :</strong> <span>Acquise</span></p>
+</div>
+
+Hasol contempla le corps de l’animal.
+
+Ses mains tremblaient.
+
+Son épée lui semblait soudain terriblement lourde.
+
+Elle voulut faire un pas.
+
+Ses jambes refusèrent de la porter.
+
+Elle s’assit brutalement sur le sol.
+
+— Hasol !
+
+Yoon accourut.
+
+Elle tomba à genoux devant son amie.
+
+— Regarde-moi.
+
+Hasol leva les yeux.
+
+— Je vais bien…
+
+La Sage observa son bras ensanglanté.
+
+Puis son épaule.
+
+— Tu es blessée.
+
+— Je sais.
+
+Hasol eut un petit rire nerveux.
+
+Mais celui-ci s’interrompit presque aussitôt.
+
+Elle contempla le loup.
+
+— J’ai vraiment cru…
+
+Sa voix se brisa.
+
+Elle prit une inspiration.
+
+— J’ai cru qu’il allait me tuer.
+
+Yoon resta immobile.
+
+Puis elle posa doucement une main sur la sienne.
+
+— Moi aussi.
+
+Pendant quelques instants, elles restèrent silencieuses.
+
+Ray s’approcha, suivi du guerrier.
+
+Le mage regarda Hasol.
+
+Puis le monstre.
+
+Il semblait chercher ses mots.
+
+— Tu nous as sauvés.
+
+Hasol baissa les yeux vers son épée.
+
+Elle n’avait pas envie de parler des années d’Académie.
+
+Ni des rires.
+
+Ni du carnet.
+
+Pas maintenant.
+
+— Nous vous avons aidés, répondit-elle simplement.
+
+Ray regarda Yoon.
+
+La Sage s’était déjà relevée pour vérifier l’état de l’archer.
+
+Il baissa légèrement la tête.
+
+— Merci.
+
+Hasol acquiesça.
+
+Puis une chaleur étrange se répandit dans sa poitrine.
+
+Elle se figea.
+
+Ses cercles de mana vibrèrent.
+
+Une lumière turquoise apparut autour d’elle.
+
+Et une nouvelle fenêtre s’ouvrit devant ses yeux.
+
+## III. Le vingtième niveau
+
+Hasol reconnut immédiatement cette sensation.
+
+Une chaleur familière parcourait ses cercles, suivie d’un étrange frémissement dans ses bras et ses jambes.
+
+Elle leva les yeux.
+
+<div class="system-window level-up lit-window" data-window-id="094" data-window-type="niveau">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
+  <h3>Hasol Shun</h3>
+  <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
+  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <hr>
+  <p class="lit-window__row"><strong>Ancien niveau :</strong> <span class="lit-window__value">19</span></p>
+  <p class="lit-window__row"><strong>Nouveau niveau :</strong> <span class="success-text lit-window__value">20</span></p>
+</div>
+
+Elle resta un instant sans voix.
+
+Puis se tourna vers Yoon.
+
+— Je suis niveau vingt.
+
+La Sage s’immobilisa.
+
+— Vraiment ?
+
+Hasol acquiesça.
+
+Un grand sourire apparut sur son visage.
+
+— Vingt !
+
+Yoon poussa un cri de joie.
+
+Elle fit un pas pour prendre son amie dans ses bras, puis s’arrêta en apercevant son bras blessé.
+
+— Je vais attendre que tu sois soignée.
+
+Hasol éclata de rire.
+
+— Bonne idée !
+
+Une seconde fenêtre apparut.
+
+Cette fois, la lumière était différente.
+
+De fines inscriptions turquoise se déployèrent devant ses yeux.
+
+<div class="system-window legendary lit-window" data-window-id="095" data-window-type="competence">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>NOUVELLE COMPÉTENCE DÉBLOQUÉE</div>
+  <h3>Œil runique</h3>
+  <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
+  <p class="lit-window__row"><strong>Type :</strong> <span class="passive-badge">Passive</span></p>
+  <hr>
+  <div class="lit-window__section">
+  <p>Révèle le résultat final exact d'une rune à +15, à condition que l'hôte réalise personnellement les améliorations restantes.</p>
+  <p>Permet de connaître les caractéristiques secondaires obtenues, les renforcements qui leur seront attribués et leurs valeurs finales.</p>
+  <p>Lorsque quatre caractéristiques secondaires sont présentes, l'ordre exact des renforcements intermédiaires peut demeurer indéterminé.</p>
+  <p>Ne garantit pas la réussite des tentatives d'amélioration.</p>
+  </div>
+</div>
+
+Hasol relut la description.
+
+Une fois.
+
+Puis une deuxième.
+
+Son sourire s’effaça progressivement, remplacé par une expression stupéfaite.
+
+— Oh…
+
+Yoon pencha la tête.
+
+— Qu’est-ce qu’il y a ?
+
+— Je viens d’obtenir une compétence.
+
+— Laquelle ?
+
+Hasol tourna les yeux vers elle.
+
+— Œil runique.
+
+La Sage attendit qu’elle poursuive.
+
+Mais Hasol était déjà en train de relire les informations.
+
+Le résultat final exact…
+
+Si elle comprenait correctement, elle pourrait examiner une rune et connaître ce qu’elle deviendrait à +15 entre ses mains.
+
+Pas simplement les caractéristiques qu’elle possédait déjà.
+
+Celles qu’elle obtiendrait plus tard.
+
+Et les valeurs finales de chacune.
+
+Son cœur accéléra.
+
+— Yoon…
+
+— Oui ?
+
+— Je crois que je viens de recevoir quelque chose d’extraordinaire.
+
+La Sage sourit.
+
+— Tu me raconteras quand nous serons sorties de cette forêt.
+
+Hasol regarda son bras.
+
+Puis les deux chasseurs blessés.
+
+Elle rougit légèrement.
+
+— Oui. Tu as raison.
+
+Yoon lui prit délicatement le poignet.
+
+— D’abord, on s’occupe de toi.
+
+La jeune Sage vérifia sa blessure et lui appliqua un pansement propre. Elle aurait préféré prolonger les soins, mais ses réserves de Mana avaient déjà beaucoup souffert du combat.
+
+Hasol grimaça lorsque le tissu toucha sa peau.
+
+— Aïe !
+
+— Tu vois ? Tu n’es pas invincible.
+
+— Je n’ai jamais dit que je l’étais !
+
+— Tu agis parfois comme si tu l’avais oublié.
+
+Hasol détourna les yeux.
+
+Cette fois, elle ne trouva rien à répondre.
+
+Ray revint quelques minutes plus tard.
+
+Il tenait une petite pierre bleue dans sa main.
+
+— Hasol ?
+
+Elle releva la tête.
+
+— Oui ?
+
+Le mage lui tendit la pierre.
+
+— Le loup a laissé une rune.
+
+Hasol la contempla.
+
+Une rune.
+
+Bleue.
+
+Son attention se réveilla immédiatement.
+
+Ray poursuivit :
+
+— Tu as porté le coup fatal. Et sans votre intervention, nous serions probablement morts.
+
+Il baissa légèrement la main.
+
+— Je pense qu’elle doit te revenir.
+
+Hasol hésita.
+
+Elle regarda Yoon.
+
+La Sage lui adressa un sourire.
+
+— Prends-la. Nous avons déjà suffisamment gagné aujourd’hui.
+
+Hasol accepta finalement la pierre.
+
+Une fenêtre apparut.
+
+<div class="rune-window blue-grade lit-window" data-window-id="096" data-window-type="rune">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
+  <h3>Rune Vitesse</h3>
+  <p class="lit-window__row"><strong>Grade :</strong> <span class="lit-badge lit-badge--rune-rare">Rare — Bleue</span></p>
+  <p class="lit-window__row"><strong>Rang :</strong> <span class="lit-window__value">★★★</span></p>
+  <p class="lit-window__row"><strong>Amélioration :</strong> <span class="upgrade-badge">+0</span></p>
+  <hr>
+  <p><strong>Caractéristique principale :</strong> <span class="rune-bonus">Vitesse +3</span></p>
+  <p class="lit-window__section-title"><strong>Caractéristiques secondaires :</strong></p>
   <ul>
-    <li>Douze cercles permettent désormais douze emplacements ; leur nombre ne fixe pas les caractéristiques naturelles.</li>
-    <li>Quatre Fatal activent <span class="rune-bonus">+35 % Attaque</span> ; quatre Gardien forment deux paires à <span class="rune-bonus">+15 % Défense chacune</span>.</li>
-    <li>Les quatre Arcanique complètent cette composition et activent <span class="rune-bonus">+1 200 Puissance arcanique</span>.</li>
-    <li>Un gain d’expérience ne vaut pas plusieurs éliminations ; les anciens paliers ne se comptent pas deux fois.</li>
-    <li>Domaine, obtenu par Yoon au niveau vingt, ralentit les ennemis, épargne les alliés et consomme du Mana pour son maintien.</li>
+    <li>Attaque <span class="rune-bonus">+8 %</span></li>
+    <li>Puissance arcanique <span class="rune-bonus">+60</span></li>
   </ul>
 </div>
 
-**Fin du chapitre 9 — Douze cercles**
+Hasol se figea.
+
+— Une Vitesse…
+
+Yoon se pencha.
+
+— Celle que tu cherchais ?
+
+Hasol acquiesça vivement.
+
+— Oui !
+
+Elle contempla les deux secondaires.
+
+Attaque.
+
+Puissance arcanique.
+
+Une combinaison particulièrement intéressante.
+
+— Et ses caractéristiques sont excellentes !
+
+La Sage sourit.
+
+— Alors cette journée n’aura pas été entièrement mauvaise.
+
+Hasol allait répondre lorsqu’une étrange lumière traversa la pierre.
+
+Elle cligna des yeux.
+
+De fines inscriptions turquoise apparurent autour de la rune.
+
+Puis une seconde lecture se superposa à la première.
+
+Cette fois, ce n’était pas son état actuel qu’elle voyait.
+
+C’était la rune achevée.
+
+Améliorée jusqu’à +15.
+
+Des lignes indiquaient les futures secondaires, leurs valeurs et les renforcements qu’elles recevraient si Hasol réalisait personnellement toutes les améliorations.
+
+Elle faisait tourner la pierre entre ses doigts.
+
+Les informations ne changeaient pas.
+
+Hasol sentit son souffle se raccourcir.
+
+Ce n’est donc pas seulement une description…
+
+Elle pouvait réellement voir le résultat final.
+
+Elle ferma les yeux.
+
+Puis les rouvrit.
+
+Les mêmes inscriptions étaient toujours là.
+
+— Incroyable…
+
+Yoon l’observait avec curiosité.
+
+— Qu’est-ce que tu vois ?
+
+Hasol releva les yeux.
+
+Elle aurait voulu tout expliquer.
+
+Les caractéristiques.
+
+Les améliorations.
+
+Les possibilités immenses qui venaient de s’ouvrir devant elle.
+
+Mais Ray et ses compagnons étaient toujours présents.
+
+Hasol hésita.
+
+Puis répondit :
+
+— Je crois que j’ai compris à quoi sert ma nouvelle compétence.
+
+Yoon suivit son regard vers les autres chasseurs.
+
+Elle comprit qu’Hasol préférait en parler plus tard.
+
+— Alors tu me raconteras ça en rentrant.
+
+Hasol acquiesça.
+
+Elle rangea soigneusement la rune dans sa sacoche.
+
+Ray observait leur conversation, mais ne posa aucune question.
+
+Il sembla plutôt soulagé lorsque Yoon proposa de prendre le chemin du retour.
+
+L’archer avait besoin de soins.
+
+Le guerrier boitait légèrement.
+
+Et Hasol savait qu’elle serait incapable de reprendre un combat sérieux.
+
+Ils quittèrent donc la clairière sans tarder.
+
+Le trajet fut lent.
+
+Ray et son compagnon soutenaient l’archer blessé.
+
+Yoon surveillait régulièrement son état.
+
+Hasol marchait légèrement en retrait, son épée rangée et le bras enveloppé d’un bandage.
+
+À plusieurs reprises, Ray sembla vouloir lui parler.
+
+Il ouvrit la bouche.
+
+Puis la referma.
+
+Finalement, à l’approche de la route principale, il ralentit pour marcher à sa hauteur.
+
+— Hasol.
+
+Elle tourna la tête.
+
+— Oui ?
+
+Le mage ajusta ses lunettes.
+
+— Merci.
+
+Elle lui adressa un bref regard.
+
+— Tu me l’as déjà dit.
+
+— Je sais.
+
+Il hésita.
+
+— Mais je voulais aussi te parler de…
+
+Hasol sentit immédiatement ce qu’il allait dire.
+
+Elle s’arrêta.
+
+— Pas aujourd’hui, Ray.
+
+Le mage releva les yeux.
+
+Hasol prit une inspiration.
+
+— Je suis épuisée. J’ai mal partout. Et nous venons à peine de sortir vivants de cette forêt.
+
+Elle le contempla.
+
+— Je ne veux pas parler de l’Académie maintenant.
+
+Ray resta silencieux.
+
+Puis il acquiesça.
+
+— D’accord.
+
+Il n’insista pas.
+
+Hasol reprit sa marche.
+
+Elle lui en fut reconnaissante.
+
+Pour la première fois depuis longtemps, elle n’avait pas envie de répondre à son ancien ami par la colère.
+
+Mais elle n’était pas prête à lui accorder autre chose.
+
+Pas encore.
+
+## IV. Le secret d’Iseria
+
+Le lendemain matin, Hasol descendit au petit salon familial avec son carnet sous le bras.
+
+Son avant-bras était encore bandé et son épaule restait douloureuse, mais elle avait beaucoup mieux dormi qu’elle ne l’aurait cru.
+
+Iseria se trouvait près de la fenêtre.
+
+Elle portait une longue robe de style elfique, confectionnée dans une étoffe claire dont les broderies délicates reflétaient la lumière du matin. Le soin apporté à sa tenue contrastait avec la simplicité du petit livre qu’elle tenait entre les mains.
+
+Elle releva immédiatement les yeux en entendant sa fille entrer.
+
+— Bonjour, ma chérie.
+
+— Bonjour, maman !
+
+Iseria posa son livre.
+
+— Comment va ton bras ?
+
+— Beaucoup mieux.
+
+— Et ton épaule ?
+
+Hasol hésita une fraction de seconde.
+
+Sa mère le remarqua aussitôt.
+
+— Hasol.
+
+— Elle me fait encore un peu mal.
+
+Iseria lui désigna le fauteuil près d’elle.
+
+— Viens t’asseoir.
+
+Hasol obéit.
+
+Sa mère examina doucement son bras, puis posa une main près de son épaule.
+
+Une faible lueur couleur de terre se forma autour de ses doigts.
+
+La douleur diminua progressivement.
+
+Hasol expira avec soulagement.
+
+— Merci.
+
+— Le soin aidera, mais tu vas encore devoir te reposer.
+
+— Je sais.
+
+Iseria leva un sourcil.
+
+— Tu le sais vraiment ?
+
+Hasol sourit avec embarras.
+
+— Oui, maman.
+
+Sa mère lui rendit son sourire, puis la contempla plus attentivement.
+
+— Tu as l’air de bonne humeur.
+
+— J’ai une bonne raison.
+
+— Je t’écoute.
+
+Hasol se redressa.
+
+— Je suis passée niveau vingt !
+
+Iseria ouvrit de grands yeux.
+
+— Vraiment ?
+
+Hasol acquiesça vivement.
+
+Sa mère lui prit les mains.
+
+— Félicitations, ma chérie !
+
+Elle l’embrassa sur le front.
+
+Hasol sourit largement.
+
+— Merci !
+
+Puis elle ajouta, incapable de contenir davantage son enthousiasme :
+
+— Et j’ai obtenu une nouvelle compétence !
+
+Iseria pencha légèrement la tête.
+
+— Laquelle ?
+
+— Œil runique.
+
+Hasol ouvrit son interface et lui montra la description.
+
+Sa mère la lut attentivement.
+
+Son expression changea peu à peu.
+
+— Le résultat final d’une rune…
+
+Elle releva les yeux.
+
+— Tu peux réellement voir cela ?
+
+Hasol acquiesça.
+
+— Je l’ai essayé sur une rune que nous avons obtenue hier.
+
+Elle sortit la pierre bleue de sa sacoche.
+
+Iseria l’examina.
+
+— Une Vitesse rare, bleue, trois étoiles, avec deux bonnes secondaires…
+
+— Exactement !
+
+Hasol sourit.
+
+— Et mon Œil me montre ce qu’elle deviendra à +15 si c’est moi qui l’améliore.
+
+Sa mère prit quelques instants pour réfléchir.
+
+— C’est une capacité remarquable.
+
+— Je sais !
+
+Hasol ramena ses jambes sous son fauteuil, puis se pencha vers elle.
+
+— Mais je me pose une question.
+
+Iseria sourit.
+
+— Seulement une ?
+
+— Maman !
+
+Elle rit doucement.
+
+— Vas-y.
+
+Hasol ouvrit son carnet.
+
+— Ma rune Vitesse rare, bleue, trois étoiles, possède deux secondaires. Je peux voir celles qui apparaîtront plus tard, et je connais le résultat final.
+
+Elle marqua une pause.
+
+— Mais je voudrais essayer avec une rune qui possède déjà quatre secondaires.
+
+Iseria réfléchit.
+
+— Une rune légendaire ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Elle referma légèrement son carnet.
+
+— Je sais bien que ce n’est pas le genre de chose qu’on trouve facilement…
+
+Sa mère resta silencieuse quelques secondes.
+
+Puis demanda :
+
+— Pourquoi veux-tu en examiner une ?
+
+Hasol réfléchit avant de répondre.
+
+— Parce qu’avec quatre secondaires présentes, les améliorations ne font plus apparaître de nouvelles caractéristiques.
+
+Elle leva les yeux.
+
+— Elles renforcent celles qui existent déjà.
+
+Iseria acquiesça.
+
+— Et tu veux voir si ton Œil peut identifier ces renforcements ?
+
+— Exactement !
+
+Hasol lui adressa un sourire enthousiaste.
+
+— Je pourrais peut-être savoir à l’avance ce qui arrivera à chaque palier.
+
+Sa mère regarda un instant le jardin.
+
+Puis elle se leva.
+
+— Attends ici.
+
+Hasol cligna des yeux.
+
+— Pourquoi ?
+
+Iseria lui adressa un petit sourire mystérieux.
+
+— Parce que j’ai peut-être quelque chose qui t’intéressera.
+
+Elle quitta le salon.
+
+Hasol resta immobile.
+
+Peut-être ?
+
+Elle contempla la porte.
+
+Puis son carnet.
+
+Elle savait que sa famille possédait plusieurs belles runes. Ses parents lui en avaient déjà offert, et elle connaissait la valeur des cadeaux qu’ils lui avaient faits.
+
+Mais une rune légendaire…
+
+C’était autre chose.
+
+Une rune orange possédait déjà quatre secondaires dès son obtention.
+
+Même avec un petit nombre d’étoiles, elle représentait une pièce particulièrement recherchée.
+
+Et sa mère venait de parler comme si elle pouvait simplement aller en chercher une dans une armoire.
+
+Hasol attendit avec une curiosité grandissante.
+
+Quelques minutes plus tard, Iseria revint avec un coffret de bois sombre.
+
+Elle le posa sur la table.
+
+Puis l’ouvrit.
+
+Une lumière orangée se refléta sur les parois intérieures.
+
+Hasol se pencha.
+
+Ses yeux s’agrandirent.
+
+À l’intérieur reposait une rune d’un orange profond, dont les inscriptions semblaient former plusieurs couches de motifs lumineux.
+
+— Maman…
+
+Iseria prit délicatement la pierre.
+
+— Tiens.
+
+Hasol la reçut entre ses mains.
+
+Elle concentra immédiatement son regard.
+
+<div class="rune-window legendary lit-window" data-window-id="097" data-window-type="rune">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
+  <h3>Rune Énergie</h3>
+  <p class="lit-window__row"><strong>Grade :</strong> <span class="legendary-text lit-badge lit-badge--rune-legendary">Légendaire — Orange</span></p>
+  <p class="lit-window__row"><strong>Rang :</strong> <span class="lit-window__value">★★★★</span></p>
+  <p class="lit-window__row"><strong>Amélioration actuelle :</strong> <span class="upgrade-badge">+9</span></p>
+  <hr>
+  <p class="lit-window__row"><strong>Caractéristiques secondaires présentes :</strong> <span class="lit-window__value">4 / 4</span></p>
+  <p class="lit-window__row"><strong>Principale :</strong> <span class="rune-bonus">PV +25 %</span></p>
+  <p class="lit-window__row"><strong>Puissance arcanique secondaire :</strong> <span class="rune-bonus lit-window__value">+60</span></p>
+  <p class="lit-window__row"><strong>Vitesse secondaire :</strong> <span class="rune-bonus lit-window__value">+4</span></p>
+  <p class="lit-window__row"><strong>Défense secondaire :</strong> <span class="rune-bonus lit-window__value">+30</span></p>
+  <p class="lit-window__row"><strong>Mana secondaire :</strong> <span class="rune-bonus lit-window__value">+20</span></p>
+</div>
+
+Hasol resta bouche bée.
+
+Elle relut les informations.
+
+Puis releva lentement les yeux.
+
+— Maman…
+
+Iseria lui adressa un sourire innocent.
+
+— Oui ?
+
+— C’est une rune Énergie légendaire, orange, quatre étoiles.
+
+— En effet.
+
+— Quatre étoiles.
+
+— Tu sais toujours compter, à ce que je vois.
+
+Hasol baissa de nouveau les yeux.
+
+Puis les releva brusquement.
+
+— ELLE EST À +9 ?!
+
+Iseria sursauta légèrement.
+
+— Hasol ! Inutile de crier !
+
+— Mais… mais…
+
+La jeune femme contempla la pierre.
+
+Elle connaissait parfaitement le coût des améliorations.
+
+Une rune Énergie légendaire, orange, quatre étoiles, représentait déjà un objet exceptionnel.
+
+Mais celle-ci avait subi neuf améliorations réussies.
+
+Neuf !
+
+En comptant les tentatives ratées et les ressources nécessaires, cela pouvait représenter une dépense considérable.
+
+Hasol regarda sa mère avec une incrédulité totale.
+
+— Depuis quand tu possèdes une rune pareille ?
+
+Iseria sourit.
+
+— Depuis quelque temps.
+
+— Quelque temps ?
+
+— Oui.
+
+— Mais…
+
+Hasol chercha ses mots.
+
+— Pourquoi tu ne m’en as jamais parlé ?
+
+Sa mère pencha légèrement la tête.
+
+— Tu ne me l’avais jamais demandé.
+
+Hasol resta silencieuse.
+
+Puis ouvrit la bouche.
+
+La referma.
+
+Et éclata finalement de rire.
+
+— Ce n’est pas juste !
+
+Iseria rit avec elle.
+
+Hasol contempla de nouveau la rune.
+
+— Elle est magnifique…
+
+Cette fois, sa voix avait retrouvé son calme.
+
+Elle fit lentement tourner la pierre entre ses doigts.
+
+Les inscriptions orangées semblaient presque vivantes.
+
+Iseria l’observait avec tendresse.
+
+— Tu voulais examiner une rune avec quatre secondaires.
+
+Hasol acquiesça.
+
+— Oui, mais je pensais que nous devrions en chercher une à l’atelier.
+
+Elle releva les yeux.
+
+— Pas que tu allais me sortir une rune Énergie légendaire, orange, quatre étoiles, déjà améliorée à +9 !
+
+Iseria eut un petit rire.
+
+Puis son expression devint légèrement plus sérieuse.
+
+— Je peux te la prêter.
+
+Hasol se figea.
+
+— Vraiment ?
+
+— Oui.
+
+Sa mère leva un doigt.
+
+— Mais à une condition.
+
+— Laquelle ?
+
+— Tu ne l’améliores pas.
+
+Hasol acquiesça immédiatement.
+
+— Promis.
+
+— Pas même une seule tentative.
+
+— Je te le promets.
+
+Iseria poursuivit :
+
+— Tu peux l’examiner. Tu peux la montrer à Orven. Mais je veux qu’elle me revienne exactement dans cet état.
+
+Hasol regarda de nouveau la pierre.
+
+Puis le visage de sa mère.
+
+— Bien sûr.
+
+Elle connaissait suffisamment la valeur d’une telle rune pour comprendre cette prudence.
+
+Iseria prit le coffret.
+
+Elle le rapprocha de sa fille.
+
+— Alors elle est à toi pour tes observations.
+
+Hasol sourit largement.
+
+— Merci, maman !
+
+Elle se pencha pour l’embrasser sur la joue.
+
+Puis plaça soigneusement la pierre dans son coffret.
+
+Iseria la regarda faire.
+
+— Tu vas courir chez Orven, je suppose.
+
+Hasol s’immobilisa.
+
+Puis lui adressa un sourire coupable.
+
+— Je pensais justement…
+
+Sa mère éclata de rire.
+
+— Naturellement.
+
+Elle lui toucha doucement le bras bandé.
+
+— Mais tu ne passeras pas toute la journée à travailler.
+
+— D’accord.
+
+— Et tu me rendras la rune dès que tu auras terminé tes observations.
+
+Hasol acquiesça.
+
+— Je te le promets.
+
+Iseria lui caressa les cheveux.
+
+— Alors profite de ta découverte.
+
+Hasol referma délicatement le coffret.
+
+Son cœur battait déjà plus vite.
+
+Elle avait mille questions.
+
+Et pour la première fois, elle possédait un moyen de chercher les réponses.
+
+## V. Ce que l’Œil ne voit pas
+
+— Non.
+
+Hasol s’arrêta sur le seuil de l’atelier.
+
+— Mais je n’ai encore rien demandé !
+
+Orven leva les yeux de son établi.
+
+— Tu arrives avec cette expression, tu portes encore un bandage, et tu tiens un coffret que tu protèges comme s’il contenait la couronne impériale.
+
+Il reposa son outil.
+
+— Je préfère prendre les devants.
+
+Hasol gonfla les joues.
+
+— Vous pourriez au moins me laisser entrer.
+
+Le maître artisan soupira.
+
+Puis un sourire apparut sur son visage.
+
+— Entre, petite impatiente.
+
+Hasol s’avança aussitôt.
+
+Elle posa son carnet sur l’établi, puis le coffret à côté.
+
+Orven observa l’objet.
+
+— Qu’est-ce que tu m’apportes ?
+
+— Une rune.
+
+— Je m’en doutais.
+
+— Mais pas n’importe laquelle.
+
+Il leva un sourcil.
+
+Hasol ouvrit délicatement le coffret.
+
+La lumière orangée se refléta sur les outils.
+
+Orven se figea.
+
+Il posa lentement le petit cristal qu’il examinait.
+
+Puis se pencha.
+
+— Une rune Énergie légendaire, orange, quatre étoiles ?
+
+Hasol acquiesça avec enthousiasme.
+
+— Oui !
+
+Il examina les inscriptions.
+
+— Quatre étoiles…
+
+Son regard s’arrêta sur le niveau d’amélioration.
+
+— Et +9 ?
+
+Hasol sourit largement.
+
+— Exactement !
+
+Orven releva les yeux.
+
+— Où as-tu trouvé ça ?
+
+— C’est maman qui me l’a prêtée.
+
+Le maître artisan resta silencieux plusieurs secondes.
+
+Puis il contempla de nouveau la rune.
+
+— Iseria possède une pièce pareille…
+
+Il ne termina pas sa phrase.
+
+Hasol se pencha vers lui.
+
+— Vous aussi, vous êtes surpris ?
+
+Orven lui lança un regard.
+
+— Hasol, la plupart des artisans seraient ravis d’avoir simplement l’occasion d’examiner une rune orange quatre étoiles. Alors une pièce déjà améliorée à +9…
+
+Il secoua la tête.
+
+— Oui, je suis surpris.
+
+Hasol éclata de rire.
+
+— Je me sentais moins seule !
+
+Orven sourit.
+
+Puis il désigna son bandage.
+
+— Avant de commencer, comment va ton bras ?
+
+— Beaucoup mieux.
+
+— Et ton épaule ?
+
+Hasol hésita.
+
+Le maître artisan ferma les yeux.
+
+— Je vois.
+
+— Mais maman m’a soignée !
+
+— Ça ne signifie pas que tu peux passer la journée à épuiser tes réserves de Mana.
+
+Hasol soupira.
+
+— Vous êtes tous contre moi.
+
+— Nous sommes surtout favorables à ce que tu gardes l’usage de tes deux bras.
+
+Elle ne put s’empêcher de rire.
+
+Orven lui indiqua une chaise.
+
+— Assieds-toi. Et explique-moi pourquoi ta mère t’a confié cette merveille.
+
+Hasol commença par raconter le combat contre le loup alpha.
+
+Orven l’interrompit plusieurs fois.
+
+Pas pour lui demander combien d’expérience elle avait gagnée.
+
+Mais pour savoir si elle avait consulté un soigneur, si Yoon était sortie indemne du combat et combien de temps s’était écoulé avant qu’elle puisse de nouveau utiliser normalement son épaule.
+
+Hasol finit par protester.
+
+— Maître, je suis déjà rentrée vivante !
+
+— Et j’aimerais que tu continues à le faire.
+
+Elle baissa les yeux.
+
+Orven attendit quelques secondes.
+
+Puis ajouta plus doucement :
+
+— Je sais que tu veux progresser. Mais tu dois apprendre à reconnaître les dangers que tes runes ne suffisent pas à effacer.
+
+Hasol acquiesça.
+
+— Je ferai attention.
+
+Il la contempla encore un instant.
+
+Puis hocha la tête.
+
+— Bien. Continue.
+
+Elle lui annonça alors son passage au niveau vingt.
+
+Le maître artisan sourit.
+
+— Félicitations.
+
+Hasol se redressa.
+
+— Et j’ai obtenu une nouvelle compétence.
+
+— Ah ?
+
+— Œil runique.
+
+Orven posa immédiatement sa plume.
+
+Hasol lui expliqua son fonctionnement.
+
+Plus elle parlait, plus le sourire du maître artisan disparaissait.
+
+Lorsqu’elle termina, il resta silencieux.
+
+— Tu es certaine d’avoir bien compris ?
+
+Hasol acquiesça.
+
+— Je pense.
+
+— Tu peux voir le résultat final à +15 ?
+
+— Oui.
+
+— Les caractéristiques secondaires qui apparaîtront ?
+
+— Oui.
+
+— Et leurs valeurs ?
+
+— Oui !
+
+Orven repoussa lentement sa chaise.
+
+Puis se leva.
+
+Il fit quelques pas dans l’atelier.
+
+S’arrêta devant une étagère.
+
+Et revint.
+
+Hasol le suivait des yeux.
+
+— Maître ?
+
+Il la regarda.
+
+— Tu comprends ce que cela représenterait pour un artisan ?
+
+Elle sourit.
+
+— C’est justement ce que je voulais vous montrer !
+
+Orven contempla la rune Énergie légendaire, orange, quatre étoiles.
+
+Puis sembla se raviser.
+
+— Nous n’allons pas commencer avec celle-ci.
+
+Hasol acquiesça immédiatement.
+
+— J’ai promis à maman de ne pas l’améliorer.
+
+— Excellente promesse.
+
+Le maître artisan fouilla dans un tiroir.
+
+Il en sortit une petite rune Énergie commune, blanche, une étoile, qu’il posa sur l’établi.
+
+— Nous allons commencer avec une pierre sans grande valeur.
+
+Hasol se pencha.
+
+C’était une rune Énergie commune, une étoile, encore à +0.
+
+Elle ne possédait aucune secondaire.
+
+— Regarde-la avec ton Œil.
+
+Hasol concentra son attention.
+
+La lumière turquoise apparut.
+
+Elle découvrit aussitôt une projection à +15.
+
+Plusieurs caractéristiques étaient visibles.
+
+Et parmi elles, une ligne attira particulièrement son attention.
+
+— Mana, annonça-t-elle.
+
+Orven fronça les sourcils.
+
+— Quoi ?
+
+— Sa première secondaire sera du Mana.
+
+Le maître artisan examina la pierre.
+
+— Elle n’en possède aucune actuellement.
+
+— Je sais.
+
+Hasol lui adressa un sourire.
+
+— Mais je vois celle qui apparaîtra à +3.
+
+Orven resta silencieux.
+
+Puis il prit son carnet.
+
+— Très bien. Nous allons vérifier.
+
+Il plaça quelques pierres de mana sur l’établi.
+
+Puis tendit la rune à Hasol.
+
+— C’est toi qui vas l’améliorer.
+
+Elle releva les yeux.
+
+— Moi ?
+
+— Ta compétence décrit ce qui se produira lorsque tu réaliseras personnellement les améliorations. Si je le fais à ta place, nous risquons de ne pas tester la bonne chose.
+
+Hasol acquiesça vivement.
+
+— D’accord !
+
+Elle prit la rune.
+
+La première tentative réussit.
+
+Puis la deuxième.
+
+Lorsque Hasol essaya d’atteindre +3, les inscriptions vacillèrent.
+
+La lumière disparut.
+
+Échec.
+
+Elle grimaça.
+
+— Ah…
+
+Orven nota les ressources consommées.
+
+— Ton Œil ne t’a pas promis de réussir.
+
+— Je sais.
+
+Hasol inspira profondément.
+
+Puis recommença.
+
+Cette fois, la rune se stabilisa.
+
+Une nouvelle inscription apparut.
+
+Sa couleur pâle se teinta d’un léger vert.
+
+<div class="rune-window success lit-window" data-window-id="098" data-window-type="amelioration">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
+  <h3>Rune Énergie — 1★</h3>
+  <p class="lit-window__row"><strong>Amélioration :</strong> <span class="upgrade-badge">+3</span></p>
+  <p class="lit-window__row"><strong>Grade actuel :</strong> <span class="lit-badge lit-badge--rune-uncommon">Peu commun — Vert</span></p>
+  <hr>
+  <p class="lit-window__row"><strong>Nouvelle caractéristique secondaire :</strong> <span class="rune-bonus">Mana +10</span></p>
+</div>
+
+Hasol leva immédiatement les yeux.
+
+— Vous avez vu ?
+
+Orven contemplait la pierre.
+
+— Mana.
+
+Il relut les notes qu’il avait prises avant l’amélioration.
+
+Puis examina de nouveau la rune.
+
+— Tu l’avais annoncé.
+
+Hasol acquiesça avec enthousiasme.
+
+— Oui !
+
+Le maître artisan resta silencieux quelques secondes.
+
+Puis sourit lentement.
+
+— Voilà qui devient extrêmement intéressant.
+
+Il posa la rune sur l’établi.
+
+— Nous n’avons vérifié que son premier palier. Mais tu connaissais déjà cette secondaire avant qu’elle existe.
+
+Hasol regarda la pierre avec émerveillement.
+
+Elle connaissait depuis longtemps le plaisir de voir une amélioration réussir.
+
+Cette fois, la satisfaction était différente.
+
+Elle avait su.
+
+Avant même de dépenser ses ressources, elle avait su ce qu’elle obtiendrait.
+
+Orven lui adressa un regard attentif.
+
+— Imagine ce que cela signifie.
+
+Hasol sourit.
+
+— Nous pourrions éviter d’améliorer les runes qui ne donneront pas les caractéristiques recherchées.
+
+— Exactement.
+
+Il désigna la petite pierre verte.
+
+— Et choisir beaucoup plus facilement celles qui méritent qu’on investisse dans leurs améliorations.
+
+Hasol contempla sa propre rune Vitesse rare, bleue, trois étoiles, qu’elle avait sortie à côté de son carnet.
+
+— Je pourrais comparer plusieurs runes avant de décider laquelle améliorer.
+
+Orven acquiesça.
+
+— Mais n’oublie pas une chose.
+
+Elle releva les yeux.
+
+— Laquelle ?
+
+— Une rune exceptionnelle à +15 peut rester très coûteuse à obtenir. Ton Œil ne supprime ni les échecs ni la dépense.
+
+Hasol sourit.
+
+— Je crois que je viens d’en avoir un rappel.
+
+Elle désigna les pierres de mana consommées par sa tentative ratée.
+
+Orven eut un petit rire.
+
+Puis son regard se posa sur le coffret orange.
+
+— Maintenant, nous allons pouvoir examiner le véritable sujet de ta visite.
+
+Hasol ouvrit le coffret.
+
+Elle en sortit la rune prêtée par sa mère et la posa délicatement sur un tissu propre.
+
+Orven s’installa à côté d’elle.
+
+— Quatre secondaires déjà présentes, observa-t-il.
+
+Hasol acquiesça.
+
+— Oui.
+
+— Et trois paliers de renforcement déjà franchis.
+
+Elle examina les inscriptions.
+
++3.
+
++6.
+
++9.
+
+La rune avait déjà reçu ses trois premières améliorations secondaires.
+
+Les deux prochains paliers importants seraient +12 et +15.
+
+Orven lui montra la pierre.
+
+— Que vois-tu ?
+
+Hasol concentra son attention.
+
+L’Œil runique réagit immédiatement.
+
+Une lumière turquoise parcourut les inscriptions orangées.
+
+Puis la projection apparut.
+
+Hasol découvrit les caractéristiques finales de la rune.
+
+Elle les parcourut attentivement.
+
+Son regard s’arrêta sur la Puissance arcanique secondaire.
+
+Actuellement, elle apportait +60.
+
+À +15, elle atteindrait +140.
+
+Hasol fronça légèrement les sourcils.
+
+Elle examina les renforcements annoncés.
+
+Deux gains restaient à venir.
+
+L’un de +20.
+
+L’autre de +60.
+
+Tous deux concernaient la Puissance arcanique.
+
+Elle leva les yeux.
+
+— Maître Orven…
+
+— Oui ?
+
+— Je sais ce qu’elle deviendra à +15.
+
+Le maître artisan rapprocha son carnet.
+
+— Raconte-moi.
+
+Hasol lui montra les informations.
+
+— Sa Puissance arcanique secondaire est actuellement à +60.
+
+Orven acquiesça.
+
+— Et ensuite ?
+
+— Elle recevra deux renforcements supplémentaires.
+
+— Lesquels ?
+
+— Un de +20 et un de +60.
+
+Elle sourit.
+
+— À +15, elle aura donc +140 en Puissance arcanique secondaire.
+
+Orven nota soigneusement les valeurs.
+
+Puis releva les yeux.
+
+— Tu connais les deux gains futurs ?
+
+— Oui.
+
+— Et tu es certaine du résultat final ?
+
+Hasol consulta de nouveau son Œil.
+
+Les valeurs étaient toujours identiques.
+
+— Oui.
+
+Le maître artisan resta silencieux quelques instants.
+
+Puis il prit une feuille blanche.
+
+Il y traça trois lignes.
+
++9 — +12 — +15
+
+Il écrivit la valeur actuelle sur la première.
+
+Puissance arcanique : +60
+
+Puis plaça la plume devant Hasol.
+
+— Très bien.
+
+Il désigna la deuxième ligne.
+
+— Combien aura-t-elle à +12 ?
+
+Hasol ouvrit la bouche.
+
+Puis s’arrêta.
+
+Elle regarda la rune.
+
+La projection à +15 restait parfaitement claire.
+
+Puissance arcanique : +140.
+
+Les deux renforcements futurs étaient visibles.
+
++20.
+
++60.
+
+Mais lorsqu’elle chercha à identifier celui qui arriverait en premier, les indications ne lui permirent pas de trancher.
+
+Elle fronça les sourcils.
+
+Orven attendit.
+
+Hasol concentra davantage son attention.
+
+Les inscriptions turquoise brillèrent.
+
+Elle tenta d’isoler le palier +12.
+
+Rien.
+
+Les valeurs finales restaient inchangées.
+
+Mais la compétence ne lui donnait aucune certitude sur l’ordre dans lequel les deux gains se produiraient.
+
+— Attendez…
+
+Elle ferma les yeux.
+
+Puis les rouvrit.
+
+Elle essaya de nouveau.
+
+Toujours rien.
+
+Orven observa son expression.
+
+— Un problème ?
+
+Hasol baissa lentement les yeux vers la feuille.
+
+— Je…
+
+Elle hésita.
+
+Puis murmura :
+
+— Je ne sais pas.
+
+Le maître artisan ne sembla pas déçu.
+
+Au contraire, il se pencha légèrement.
+
+— Explique-moi.
+
+Hasol désigna la rune.
+
+— Je sais que sa Puissance arcanique atteindra +140 à +15.
+
+— Oui.
+
+— Et je sais qu’elle recevra un renforcement de +20 et un autre de +60.
+
+Elle marqua une pause.
+
+— Mais je ne peux pas déterminer lequel arrivera à +12.
+
+Orven contempla sa feuille.
+
+Puis écrivit deux possibilités.
+
+Dans la première, il plaça le gain de +20 au palier +12.
+
+Dans la seconde, celui de +60.
+
+<div class="rune-window legendary lit-window" data-window-id="099" data-window-type="rune">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ŒIL RUNIQUE — ANALYSE PERSONNELLE</div>
+  <h3>Rune Énergie — <span class="lit-badge lit-badge--rune-legendary">Légendaire (orange)</span>, 4★</h3>
+  <p class="lit-window__row"><strong>État actuel :</strong> <span class="lit-window__value">+9</span></p>
+  <p class="lit-window__row"><strong>État final analysé :</strong> <span class="lit-window__value">+15</span></p>
+  <p><strong>Condition :</strong> Améliorations restantes effectuées personnellement par Hasol Shun.</p>
+  <hr>
+  <p class="lit-window__row"><strong>Puissance arcanique secondaire actuelle :</strong> <span class="lit-window__value lit-window__runic-value">+60</span></p>
+  <p class="lit-window__row"><strong>Renforcements restants :</strong> <span class="lit-window__value lit-window__runic-value">+20 et +60</span></p>
+  <p class="lit-window__row"><strong>Puissance arcanique secondaire finale :</strong> <span class="legendary-text lit-window__value lit-window__runic-value">+140</span></p>
+  <hr>
+  <div class="lit-window__section">
+  <p><strong>Palier +12 :</strong> +80 ou +120 — ordre indéterminé.</p>
+  <p><strong>Palier +15 :</strong> +140 — résultat final déterminé.</p>
+  <p><strong>Réussite des tentatives :</strong> Non garantie.</p>
+  </div>
+  <p class="lit-window__row"><strong>Principale :</strong> <span class="rune-bonus">PV +43 %</span></p>
+  <p class="lit-window__row"><strong>Vitesse secondaire :</strong> <span class="rune-bonus lit-window__value">+4</span></p>
+  <p class="lit-window__row"><strong>Défense secondaire :</strong> <span class="rune-bonus lit-window__value">+30</span></p>
+  <p class="lit-window__row"><strong>Mana secondaire :</strong> <span class="rune-bonus lit-window__value">+20</span></p>
+</div>
+
+Hasol regarda la feuille.
+
+Puis la rune.
+
+Elle comprenait enfin.
+
+— Je connais la destination…
+
+Orven acquiesça.
+
+— Mais pas nécessairement le chemin.
+
+La jeune femme contempla les deux possibilités.
+
+Si le renforcement de +20 arrivait en premier, la secondaire passerait à +80 au niveau +12.
+
+Si celui de +60 arrivait d’abord, elle atteindrait +120.
+
+Dans les deux cas, elle terminerait à +140.
+
+Hasol sourit lentement.
+
+— C’est donc ça…
+
+Elle releva les yeux.
+
+— Quand les quatre secondaires sont déjà présentes, je peux connaître leurs valeurs finales sans toujours pouvoir déterminer les renforcements intermédiaires dans le bon ordre.
+
+Orven acquiesça.
+
+— Voilà une limite importante.
+
+Il désigna le palier +12.
+
+— Si tu avais besoin que cette rune possède précisément +120 de Puissance arcanique à +12, tu ne pourrais pas le garantir.
+
+Hasol réfléchit.
+
+Puis secoua la tête.
+
+— Non.
+
+— En revanche, si ton objectif est de l’amener à +15…
+
+— Alors je connais son résultat final.
+
+Orven sourit.
+
+— Exactement.
+
+Hasol contempla la pierre orange.
+
+Cette découverte l’intriguait.
+
+Mais elle ne la décevait pas.
+
+Sa compétence lui révélait déjà quelque chose que les artisans recherchaient pendant des années : la possibilité de sélectionner leurs meilleures runes avant d’investir dans leurs améliorations.
+
+Simplement, elle ne pouvait pas toujours prévoir leur état à chaque étape.
+
+Et les échecs restaient une réalité.
+
+Orven reprit son carnet.
+
+— Nous devrons faire d’autres essais.
+
+Hasol acquiesça.
+
+— Avec des runes qui nous appartiennent.
+
+Il lui adressa un sourire approbateur.
+
+— Très bonne précision.
+
+Elle regarda la rune prêtée par sa mère.
+
+— Je lui ai promis de ne pas l’améliorer.
+
+— Alors nous ne l’améliorerons pas.
+
+Le maître artisan prit délicatement le tissu pour aider Hasol à remettre la pierre dans son coffret.
+
+— Et nous éviterons de dépenser une fortune simplement pour découvrir laquelle de ces deux valeurs arriverait en premier.
+
+Hasol éclata de rire.
+
+— Je préfère aussi !
+
+Orven referma le coffret.
+
+Puis le lui tendit.
+
+— Tu peux être fière de ta découverte.
+
+Hasol releva les yeux.
+
+— Vous croyez ?
+
+Le maître artisan la contempla.
+
+— Cette compétence pourrait transformer ta manière de travailler.
+
+Il posa une main sur son épaule valide.
+
+— Mais je veux surtout que tu comprennes quelque chose.
+
+Hasol l’écouta attentivement.
+
+— Tu n’es pas devenue une artisane digne d’intérêt hier, en atteignant le niveau vingt.
+
+Elle resta immobile.
+
+Orven poursuivit :
+
+— Tu as passé des années à apprendre, à échouer, à recommencer. Tu sais déjà reconnaître les bonnes runes, estimer les coûts, conseiller les clients et accepter que certaines améliorations ne valent pas les ressources dépensées.
+
+Un sourire chaleureux apparut sur son visage.
+
+— Ton Œil te permettra d’aller beaucoup plus loin. Mais il ne remplace pas tout ce que tu as appris.
+
+Hasol sentit ses joues chauffer.
+
+Elle baissa légèrement la tête.
+
+— Merci, maître Orven.
+
+— Et maintenant, rentre te reposer.
+
+Elle leva brusquement les yeux.
+
+— Mais…
+
+Orven désigna son bandage.
+
+— Hasol.
+
+Elle soupira.
+
+Puis sourit.
+
+— D’accord.
+
+Le maître artisan retourna à son établi.
+
+— Et rapporte-moi ton carnet quand tu auras recopié nos observations.
+
+— Promis !
+
+Hasol récupéra ses affaires.
+
+Puis quitta l’atelier.
+
+Dans sa sacoche, la rune Énergie légendaire, orange, quatre étoiles, reposait intacte.
+
+Elle la rendrait à sa mère dès qu’elle aurait terminé de recopier leurs notes.
+
+Et, pour la première fois depuis longtemps, elle avait presque davantage envie d’étudier ses runes que de les améliorer.
+
+## VI. La proposition de Ray
+
+Quelques jours plus tard, Hasol terminait une commande au Griffon d’Argent lorsqu’un employé vint la chercher.
+
+— Mademoiselle Shun ?
+
+Elle releva les yeux de son établi.
+
+— Oui ?
+
+— Un visiteur souhaite vous rencontrer.
+
+— Qui donc ?
+
+— Ray Corvus.
+
+Hasol s’immobilisa.
+
+Elle posa lentement son outil.
+
+— Ray ?
+
+L’employé acquiesça.
+
+— Il vous attend dans le petit salon.
+
+Hasol regarda la rune qu’elle venait de terminer.
+
+Puis son carnet.
+
+Elle avait encore du travail.
+
+Mais la présence de Ray au Griffon d’Argent ne pouvait certainement pas être un hasard.
+
+— D’accord, répondit-elle. J’arrive.
+
+Ray se tenait près d’une fenêtre.
+
+Il portait une chemise sombre et un pantalon soigneusement ajusté, sans sa robe de mage habituelle.
+
+Lorsqu’il aperçut Hasol, il se redressa.
+
+— Bonjour.
+
+— Bonjour.
+
+Un silence s’installa.
+
+Hasol s’assit en face de lui.
+
+— Tu voulais me voir ?
+
+Ray acquiesça.
+
+Puis sortit une enveloppe de sa sacoche.
+
+Elle reconnut immédiatement le sceau de la famille Corvus.
+
+— Qu’est-ce que c’est ?
+
+— Une lettre de mes parents.
+
+Hasol fronça les sourcils.
+
+— Pour moi ?
+
+— Oui.
+
+Elle prit l’enveloppe.
+
+Le message commençait par des remerciements.
+
+La famille Corvus avait appris les circonstances du sauvetage de Ray.
+
+Elle exprimait sa reconnaissance envers Hasol et Yoon, rappelait les relations anciennes entre leurs familles et se déclarait profondément redevable.
+
+Puis venait une proposition.
+
+Hasol relut le dernier paragraphe.
+
+Une fois.
+
+Puis une seconde.
+
+Elle releva brusquement la tête.
+
+— Quoi ?
+
+Ray ajusta ses lunettes.
+
+— Je suppose que tu as terminé.
+
+Hasol brandit la lettre.
+
+— Tes parents veulent que tu rejoignes mon équipe ?
+
+— Ils veulent que je te propose mon aide.
+
+— C’est presque pareil !
+
+Ray hésita.
+
+— Pas exactement.
+
+Hasol croisa les bras.
+
+— Explique-moi.
+
+Le mage prit une inspiration.
+
+— Mes parents ont appris que tu cherchais un troisième membre.
+
+— Comment ?
+
+— Par les relations entre nos familles et le Griffon d’Argent, probablement. Je n’ai pas demandé comment ils l’avaient su.
+
+Hasol soupira.
+
+Elle aurait préféré que ses difficultés à compléter son équipe circulent moins facilement.
+
+Ray poursuivit :
+
+— Ils considèrent que je dois faire davantage que te remercier.
+
+— Je ne t’ai pas sauvé pour obtenir quelque chose.
+
+— Je sais.
+
+— Alors pourquoi te demandent-ils de rejoindre mon équipe ?
+
+Ray baissa légèrement les yeux.
+
+— Parce qu’ils estiment que c’est une manière concrète de rembourser notre dette.
+
+Hasol le contempla.
+
+— Et si je refuse ?
+
+— Alors je leur dirai que tu as refusé.
+
+— Et toi ?
+
+Il releva la tête.
+
+— Moi ?
+
+Hasol posa la lettre sur la table.
+
+— Est-ce que tu veux réellement travailler avec nous ?
+
+Ray resta silencieux.
+
+Puis répondit :
+
+— Oui.
+
+La franchise de sa réponse la surprit.
+
+Elle plissa légèrement les yeux.
+
+— Parce que tes parents te l’ont demandé ?
+
+— C’est pour cette raison que je suis venu te voir.
+
+Hasol attendit.
+
+Le mage poursuivit :
+
+— Mais j’ai aussi réfléchi au combat contre l’alpha.
+
+Il regarda ses mains.
+
+— Vous avez réussi à faire ce que nous n’avions pas réussi à faire à trois.
+
+Hasol ne répondit pas.
+
+— Et j’ai compris que le nombre de chasseurs ne suffit pas.
+
+Ray releva les yeux.
+
+— Nous étions mal préparés. Nous n’avons pas suffisamment écouté les avertissements. Et quand les choses ont mal tourné, nous avons agi chacun de notre côté.
+
+Il marqua une pause.
+
+— Vous, vous saviez quoi faire ensemble.
+
+Hasol réfléchit.
+
+C’était vrai.
+
+Yoon et elle avaient appris à reconnaître leurs intentions réciproques, parfois sans avoir besoin de terminer une phrase.
+
+Mais elles avaient aussi commis des erreurs.
+
+Et sans l’observation de Ray sur la patte blessée de l’alpha, leur victoire aurait été beaucoup moins certaine.
+
+— Tu nous as aidées pendant le combat, reconnut-elle.
+
+Ray acquiesça légèrement.
+
+— J’ai fait ce que je pouvais.
+
+Il hésita.
+
+Puis ajouta :
+
+— Et je pense que je pourrais vous être utile.
+
+Hasol contempla son ancien ami.
+
+Ses compétences de mage de feu leur apporteraient une véritable capacité offensive à distance.
+
+Son niveau vingt-deux lui permettrait de participer à leurs prochaines expéditions.
+
+Et ses connaissances sur les monstres étaient un avantage qu’elle ne pouvait pas ignorer.
+
+Mais il y avait autre chose.
+
+Quelque chose que ses parents ne pouvaient pas régler avec une lettre.
+
+— Ray.
+
+— Oui ?
+
+Hasol prit une inspiration.
+
+— Avant de parler de mon équipe, je voudrais que tu comprennes une chose.
+
+Il redressa légèrement le dos.
+
+— Je t’écoute.
+
+Elle baissa les yeux vers la lettre.
+
+Puis les releva.
+
+— Je n’ai pas oublié l’Académie.
+
+Ray se figea.
+
+Hasol poursuivit :
+
+— Je n’ai pas oublié les moqueries. Ni mon carnet. Ni les fois où les autres venaient me provoquer simplement pour me voir échouer.
+
+Sa voix se fit plus basse.
+
+— Et je n’ai pas oublié que tu as ri avec eux.
+
+Le mage détourna les yeux.
+
+Pendant quelques secondes, on n’entendit que les bruits lointains du Griffon d’Argent.
+
+Puis Ray murmura :
+
+— Je sais.
+
+Hasol sentit sa gorge se serrer.
+
+— Tu étais mon ami.
+
+Elle s’interrompit.
+
+Ce mot lui faisait encore mal.
+
+Ray resta silencieux.
+
+Hasol poursuivit :
+
+— Les autres ne savaient pas ce que je voulais devenir. Ils ne connaissaient pas toutes les heures que je passais à m’entraîner.
+
+Elle le regarda.
+
+— Toi, tu le savais.
+
+Ray baissa la tête.
+
+— Oui.
+
+— Alors pourquoi ?
+
+Il serra les doigts sur ses genoux.
+
+Un long silence passa.
+
+Puis il répondit :
+
+— Parce que j’ai eu peur.
+
+Hasol fronça les sourcils.
+
+Ray inspira difficilement.
+
+— J’avais peur que les autres commencent à se moquer de moi aussi si je prenais ta défense.
+
+Il releva les yeux.
+
+— Alors j’ai fait comme eux.
+
+Hasol resta immobile.
+
+— Tu as préféré rire avec eux ?
+
+— Oui.
+
+Le mot tomba sans détour.
+
+Ray poursuivit :
+
+— Et quand j’ai compris ce que j’avais fait, je ne savais plus comment revenir vers toi.
+
+Hasol sentit une colère ancienne remonter.
+
+— Tu aurais pu commencer par t’excuser.
+
+— Je sais.
+
+— Ou simplement m’adresser la parole.
+
+Il baissa la tête.
+
+— Je sais aussi.
+
+Hasol détourna les yeux.
+
+Elle avait imaginé cette conversation pendant des années.
+
+Parfois, elle se voyait lui reprocher chaque humiliation.
+
+Parfois, elle s’imaginait lui montrer à quel point elle avait progressé.
+
+Mais maintenant qu’ils se trouvaient enfin face à face, elle ne ressentait aucune satisfaction.
+
+Seulement une tristesse tenace.
+
+Ray prit une inspiration.
+
+— Je suis désolé, Hasol.
+
+Elle ferma brièvement les yeux.
+
+Puis les rouvrit.
+
+— Je t’ai entendu.
+
+Le mage releva légèrement la tête.
+
+Hasol poursuivit :
+
+— Mais ça ne veut pas dire que je t’ai pardonné.
+
+Ray acquiesça.
+
+— Je comprends.
+
+Elle resta silencieuse quelques instants.
+
+Puis reprit :
+
+— Je dois en discuter avec Yoon.
+
+— Bien sûr.
+
+— Et si nous acceptons, ce sera une période d’essai.
+
+Ray redressa la tête.
+
+— D’accord.
+
+Hasol croisa les bras.
+
+— Je ne te promets pas que nous redeviendrons amis.
+
+Le mage resta silencieux.
+
+Puis répondit doucement :
+
+— Je ne te demande pas cette promesse.
+
+Hasol le contempla quelques secondes.
+
+Elle aurait voulu savoir s’il était sincère.
+
+Mais elle savait qu’aucune phrase prononcée dans ce salon ne pouvait lui apporter cette certitude.
+
+Il faudrait du temps.
+
+Et des actes.
+
+— Alors je te donnerai notre réponse après en avoir parlé avec Yoon.
+
+Ray acquiesça.
+
+— Merci de m’avoir écouté.
+
+Hasol reprit l’enveloppe.
+
+— À bientôt, Ray.
+
+Il se leva.
+
+Puis s’inclina légèrement avant de quitter la pièce.
+
+Lorsqu’elle se retrouva seule, Hasol resta longtemps assise.
+
+Son regard se posa sur la lettre.
+
+Puis sur ses mains.
+
+Elles ne tremblaient plus.
+
+Elle s’en étonna.
+
+Le soir même, elle retrouva Yoon près de leur fontaine habituelle.
+
+La Sage avait apporté un petit sachet de pâtisseries.
+
+Mais lorsqu’elle aperçut l’expression d’Hasol, elle posa immédiatement le paquet entre elles.
+
+— Qu’est-ce qui se passe ?
+
+Hasol lui tendit la lettre.
+
+Yoon la lut attentivement.
+
+Puis releva les yeux.
+
+— Ray veut rejoindre notre équipe ?
+
+— Ses parents veulent qu’il nous aide.
+
+La Sage contempla de nouveau la lettre.
+
+— Et lui ?
+
+Hasol hésita.
+
+— Il dit qu’il veut essayer.
+
+Yoon replia soigneusement le document.
+
+Puis le lui rendit.
+
+— Qu’est-ce que tu en penses ?
+
+Hasol soupira.
+
+— Je ne sais pas.
+
+Elle fixa les reflets de la fontaine.
+
+— Sur le plan pratique, c’est une bonne proposition.
+
+Yoon acquiesça.
+
+— Un mage de feu niveau vingt-deux nous serait utile.
+
+— Il possède aussi beaucoup de connaissances.
+
+Hasol sourit légèrement.
+
+— Il a toujours passé plus de temps que moi dans les livres.
+
+— Et il nous manque toujours un troisième membre.
+
+— Oui.
+
+Un silence s’installa.
+
+Yoon prit une pâtisserie.
+
+Puis la reposa sans y toucher.
+
+— Mais ce n’est pas seulement une question de compétences, n’est-ce pas ?
+
+Hasol baissa les yeux.
+
+— Non.
+
+La Sage attendit.
+
+Hasol finit par raconter leur conversation.
+
+Les excuses.
+
+La peur de Ray.
+
+Son aveu.
+
+Et les années qu’elle ne pouvait pas simplement effacer.
+
+Yoon l’écouta sans l’interrompre.
+
+Puis elle demanda :
+
+— Est-ce que tu veux lui laisser une chance ?
+
+Hasol réfléchit longtemps.
+
+— Je crois que oui.
+
+Elle releva les yeux.
+
+— Mais je ne suis pas certaine de pouvoir lui faire confiance.
+
+Yoon acquiesça.
+
+— Alors nous n’allons pas lui demander de nous prouver sa valeur avec une promesse.
+
+Hasol pencha la tête.
+
+— Comment ça ?
+
+La Sage sourit.
+
+— Nous allons voir comment il se comporte en mission.
+
+Hasol resta silencieuse.
+
+Yoon poursuivit :
+
+— Nous préparons nos expéditions ensemble. Nous fixons des règles. Et si son comportement pose problème, nous arrêtons l’essai.
+
+Hasol réfléchit.
+
+C’était simple.
+
+Peut-être même trop simple pour une situation qu’elle avait rendue si compliquée dans son esprit.
+
+— Ça ne te dérange pas ?
+
+Yoon secoua la tête.
+
+— Je n’ai aucune raison de refuser d’essayer avec un mage compétent.
+
+Elle marqua une pause.
+
+— Tant qu’il te respecte.
+
+Hasol sentit un sourire apparaître sur ses lèvres.
+
+— Tu es vraiment une bonne amie.
+
+Yoon redressa fièrement le menton.
+
+— Je sais.
+
+Hasol éclata de rire.
+
+Cette fois, elle prit enfin une pâtisserie.
+
+Yoon sourit.
+
+— Alors ?
+
+Hasol contempla l’eau de la fontaine.
+
+Puis acquiesça.
+
+— Nous allons faire un essai.
+
+Elle mordit dans sa pâtisserie.
+
+Et, pour la première fois depuis la visite de Ray, elle sentit son esprit s’apaiser.
+
+## VII. Trois noms sur un registre
+
+Ray arriva au Griffon d’Argent le lendemain matin.
+
+Il portait des vêtements ordinaires et une sacoche de cuir dans laquelle dépassait le coin d’un livre.
+
+Hasol le remarqua immédiatement.
+
+Évidemment qu’il a apporté un livre.
+
+Cette pensée lui arracha un sourire involontaire.
+
+Yoon se tenait près du comptoir des inscriptions.
+
+Lorsqu’elle aperçut Ray, elle lui adressa un signe de tête.
+
+— Bonjour.
+
+— Bonjour.
+
+Ray regarda Hasol.
+
+— Tu as pris une décision ?
+
+Elle acquiesça.
+
+— Oui.
+
+Le mage se redressa légèrement.
+
+Hasol prit une inspiration.
+
+— Nous acceptons de faire un essai.
+
+Ray resta immobile.
+
+Puis son visage se détendit.
+
+— Merci.
+
+— Attends, je n’ai pas terminé.
+
+Il reprit immédiatement son sérieux.
+
+Yoon retint un sourire.
+
+Hasol posa un document sur le comptoir.
+
+— D’abord, nous préparons nos missions ensemble.
+
+Ray acquiesça.
+
+— D’accord.
+
+— Ensuite, nous devons être honnêtes sur nos limites. Si tu manques de Mana, tu nous le dis. Si Yoon ne peut plus maintenir son Domaine, elle nous prévient. Et si je suis blessée…
+
+— Tu nous le dis aussi, termina Yoon.
+
+Hasol lui lança un regard.
+
+La Sage croisa les bras.
+
+— Surtout toi.
+
+Ray parut hésiter.
+
+Puis il ajusta ses lunettes.
+
+— Je trouve cette règle raisonnable.
+
+Hasol le contempla.
+
+— Toi aussi ?
+
+— Oui.
+
+Yoon éclata de rire.
+
+— Deux contre une.
+
+Hasol soupira.
+
+— Je commence à regretter ma décision.
+
+Mais son sourire la trahissait.
+
+Ray sembla vouloir sourire lui aussi.
+
+Il se retint.
+
+Hasol reprit son sérieux.
+
+— Enfin, je veux être claire sur une chose.
+
+Le mage releva les yeux.
+
+Elle soutint son regard.
+
+— Ce qui s’est passé à l’Académie ne disparaîtra pas simplement parce que nous combattons ensemble.
+
+Ray acquiesça.
+
+— Je comprends.
+
+— Je ne sais pas encore si je peux te faire confiance.
+
+Il resta silencieux.
+
+Hasol poursuivit :
+
+— Mais je suis prête à voir comment nous pouvons travailler tous les trois.
+
+Elle marqua une pause.
+
+— Si ça ne fonctionne pas, nous arrêterons l’essai.
+
+Ray prit quelques secondes pour réfléchir.
+
+Puis acquiesça.
+
+— Ça me convient.
+
+Yoon lui tendit le document.
+
+— Alors nous sommes d’accord.
+
+Il le parcourut attentivement.
+
+Hasol remarqua qu’il lisait même les petites lignes au bas de la page.
+
+Elle sentit une pointe d’amusement.
+
+— Tu vérifies que nous n’avons pas caché quelque chose ?
+
+Ray leva les yeux.
+
+— Non.
+
+Puis, après une seconde :
+
+— Mais il est préférable de lire un document avant de le signer.
+
+Hasol éclata de rire.
+
+— Tu n’as vraiment pas changé !
+
+Le mage sembla légèrement surpris.
+
+Mais il sourit à son tour.
+
+L’employée chargée des inscriptions examina les trois dossiers.
+
+— Hasol Shun, Arcaniste runique, classe légendaire.
+
+Elle vérifia la première fiche.
+
+— Vingt points.
+
+Hasol acquiesça.
+
+L’employée passa à la suivante.
+
+— Yoon Notos, Sage runique, classe rare.
+
+Elle nota dix points supplémentaires.
+
+Puis regarda Ray.
+
+— Ray Corvus, Mage de feu, classe commune.
+
+Le jeune homme acquiesça.
+
+— Cinq points.
+
+L’employée effectua rapidement l’addition.
+
+Puis leva les yeux.
+
+— Vous êtes trois membres, pour un total de trente-cinq points. Votre composition respecte les limites d’inscription.
+
+Hasol sentit son cœur accélérer.
+
+Enfin.
+
+Après toutes ces recherches, elles avaient un troisième membre.
+
+L’employée leur présenta le registre.
+
+— Il me faut vos signatures.
+
+Hasol signa la première.
+
+Yoon ajouta son nom.
+
+Puis Ray prit la plume.
+
+Il resta un bref instant immobile devant la page.
+
+Hasol le remarqua.
+
+— Un problème ?
+
+Ray secoua la tête.
+
+— Non.
+
+Il regarda les deux jeunes femmes.
+
+— Je voulais simplement vous remercier de m’accorder cet essai.
+
+Hasol acquiesça.
+
+— Nous verrons comment ça se passe.
+
+Le mage lui adressa un petit sourire.
+
+Puis signa.
+
+La fenêtre de confirmation apparut devant eux.
+
+<div class="system-window success lit-window" data-window-id="100" data-window-type="equipe">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>ÉQUIPE ACTUALISÉE</div>
+  <h3>Composition provisoire</h3>
+  <p><strong>Hasol Shun :</strong> Arcaniste runique — <span class="lit-badge lit-badge--legendary">Légendaire</span> — 20 points</p>
+  <p><strong>Yoon Notos :</strong> Sage runique — <span class="lit-badge lit-badge--rare">Rare</span> — 10 points</p>
+  <p><strong>Ray Corvus :</strong> Mage de feu — <span class="lit-badge lit-badge--common">Commun</span> — 5 points</p>
+  <hr>
+  <p class="lit-window__row"><strong>Membres :</strong> <span class="lit-window__value">3 / 5</span></p>
+  <p class="lit-window__row"><strong>Points de classe :</strong> <span class="lit-window__value">35 / 50</span></p>
+  <p class="success-text">Condition de nombre de membres pour accéder aux donjons remplie.</p>
+</div>
+
+Hasol contempla longuement les trois noms.
+
+Elle avait rêvé pendant des années d’entrer dans les donjons.
+
+Pas pour les observer derrière une barrière.
+
+Pas pour se contenter de lire les récits des autres chasseurs.
+
+Pour les explorer elle-même.
+
+Et désormais, le nombre de membres ne serait plus un obstacle.
+
+Yoon sembla deviner ses pensées.
+
+— Nous n’allons pas entrer dans un donjon cet après-midi.
+
+Hasol tourna brusquement la tête.
+
+— Mais je n’ai rien dit !
+
+— Tu le pensais.
+
+— Tu ne peux pas le savoir.
+
+La Sage désigna son bras.
+
+— Et tu n’es pas encore complètement remise.
+
+Hasol soupira.
+
+Ray intervint avec précaution.
+
+— Nous pourrions commencer par étudier les donjons auxquels notre équipe a accès.
+
+Yoon lui adressa un sourire approbateur.
+
+— Excellente idée.
+
+Hasol les contempla.
+
+— Vous allez déjà vous mettre d’accord contre moi ?
+
+Ray sembla réfléchir très sérieusement.
+
+— Ce n’était pas mon intention.
+
+Yoon éclata de rire.
+
+Hasol secoua la tête.
+
+— Très bien. Étudions les donjons.
+
+Elle allait proposer de rejoindre une table lorsqu’elle remarqua que Ray n’avait pas refermé sa sacoche.
+
+Il semblait chercher quelque chose.
+
+— Qu’est-ce qu’il y a ?
+
+Le mage releva les yeux.
+
+— J’ai encore un objet à te remettre.
+
+Hasol fronça les sourcils.
+
+— À moi ?
+
+Ray acquiesça.
+
+Il sortit un petit coffret.
+
+Puis le posa sur le comptoir.
+
+— Mes parents souhaitent également te remercier pour le sauvetage.
+
+Hasol baissa les yeux.
+
+— Ray, ce n’était pas nécessaire.
+
+— Je le sais.
+
+Il poussa doucement le coffret vers elle.
+
+— Mais ils ont pensé que cet objet pourrait t’être utile.
+
+Hasol hésita.
+
+Puis l’ouvrit.
+
+À l’intérieur reposait un anneau argenté.
+
+De fines inscriptions runiques parcouraient sa surface.
+
+Elle le prit délicatement.
+
+Une fenêtre apparut devant ses yeux.
+
+<div class="system-window lit-window" data-window-id="101" data-window-type="equipement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>OBJET IDENTIFIÉ</div>
+  <h3>Anneau runique</h3>
+  <p class="lit-window__row"><strong>Type :</strong> <span>Accessoire</span></p>
+  <p><strong>Fonction :</strong> Inventaire spécialisé réservé aux runes.</p>
+  <p>Permet de conserver des runes séparément des autres objets de l'inventaire.</p>
+</div>
+
+Hasol resta bouche bée.
+
+— Un Anneau runique…
+
+Elle fit doucement tourner l’objet entre ses doigts.
+
+— Il possède un espace de stockage réservé aux runes ?
+
+Ray acquiesça.
+
+— Oui. J’ai pensé que tu pourrais t’en servir pour ton travail à l’atelier.
+
+Hasol contempla de nouveau les inscriptions.
+
+Jusqu’à présent, elle devait constamment séparer ses runes de combat, les commandes de ses clients et les pierres qu’elle souhaitait améliorer.
+
+Un espace spécialisé lui permettrait de mieux organiser tout cela.
+
+Son visage s’éclaira.
+
+— C’est formidable !
+
+Yoon sourit.
+
+— Tu vas pouvoir ranger tes runes pendant des heures.
+
+— Ce n’est pas drôle !
+
+La Sage leva un sourcil.
+
+Hasol hésita.
+
+Puis admit :
+
+— Enfin… si, un peu.
+
+Elle regarda Ray.
+
+— Merci.
+
+Le mage acquiesça.
+
+— Je suis content que ça te plaise.
+
+Hasol baissa de nouveau les yeux vers l’anneau.
+
+Puis un sourire malicieux apparut sur son visage.
+
+Elle releva lentement la tête.
+
+— Dis donc, Ray…
+
+Il ajusta ses lunettes.
+
+— Oui ?
+
+Hasol leva la bague entre deux doigts.
+
+— Tu viens de me proposer de rejoindre mon équipe.
+
+— Oui.
+
+— Et maintenant, tu m’offres un anneau.
+
+Yoon tourna brusquement les yeux vers elle.
+
+La Sage sembla comprendre immédiatement.
+
+Un sourire se dessina sur ses lèvres.
+
+Hasol poursuivit, d’un ton parfaitement sérieux :
+
+— Tu ne serais pas en train de me demander en mariage ?
+
+Ray se figea.
+
+Complètement.
+
+Ses yeux noirs s’agrandirent derrière ses lunettes.
+
+— Quoi ?
+
+Hasol inclina légèrement la tête.
+
+— Une proposition importante. Un anneau. Nos familles qui se connaissent depuis longtemps…
+
+Elle fit mine de réfléchir.
+
+— C’est tout de même suspect.
+
+Ray se redressa si brusquement que sa chaise racla le sol.
+
+— Non !
+
+Yoon porta une main à sa bouche.
+
+Hasol retint difficilement un rire.
+
+Mais Ray semblait véritablement paniqué.
+
+— Ce n’est absolument pas une demande en mariage !
+
+Il ajusta précipitamment ses lunettes.
+
+— Mes parents ont choisi cet objet parce qu’ils connaissent ton travail sur les runes !
+
+Hasol baissa les yeux, les épaules secouées par un rire silencieux.
+
+Ray poursuivit :
+
+— Il n’y a aucune intention matrimoniale derrière ce cadeau !
+
+Yoon ne tenait plus.
+
+Elle éclata de rire.
+
+— Ray…
+
+Mais il continuait.
+
+— Et même si nos familles entretiennent des relations commerciales depuis longtemps, personne ne m’a demandé de te faire une proposition de ce genre !
+
+Hasol commençait à avoir les larmes aux yeux.
+
+— Ray !
+
+Il s’interrompit.
+
+Elle éclata franchement de rire.
+
+— Je plaisantais !
+
+Le mage la contempla.
+
+Puis regarda l’anneau.
+
+Puis Hasol.
+
+Un long silence passa.
+
+— Ah.
+
+Yoon dut s’appuyer contre le comptoir.
+
+Hasol riait tellement qu’elle avait du mal à reprendre son souffle.
+
+Ray baissa lentement la tête.
+
+— Je vois.
+
+Il ajusta ses lunettes une dernière fois.
+
+— C’était une plaisanterie assez convaincante.
+
+Cela fit repartir Yoon de plus belle.
+
+Hasol essuya une larme au coin de son œil.
+
+— Pardon !
+
+Ray la regarda.
+
+Puis, à sa grande surprise, un petit sourire apparut finalement sur son visage.
+
+— Je vais essayer de m’en souvenir.
+
+Hasol rit encore.
+
+Pendant quelques secondes, la gêne qui accompagnait leurs échanges depuis la forêt sembla s’effacer.
+
+Elle se souvenait d’autres moments comme celui-ci.
+
+Des après-midi passés à plaisanter.
+
+Des discussions interminables.
+
+Des rires qui ne blessaient personne.
+
+Cette fois, pourtant, elle ne chercha pas à retrouver exactement ce qu’ils avaient perdu.
+
+Elle se contenta de profiter de l’instant.
+
+Puis elle glissa l’anneau à son doigt.
+
+L’objet s’ajusta confortablement.
+
+Une nouvelle section apparut dans son inventaire.
+
+Hasol y transféra quelques pierres runiques qu’elle transportait dans sa sacoche.
+
+Le rangement fonctionnait parfaitement.
+
+Son sourire s’élargit.
+
+— Oh…
+
+Yoon ferma les yeux.
+
+— Nous l’avons perdue.
+
+Ray pencha la tête.
+
+— Pardon ?
+
+La Sage désigna Hasol.
+
+— Quand elle découvre un nouvel objet runique, plus rien d’autre n’existe pendant quelques minutes.
+
+Hasol releva brusquement la tête.
+
+— Je vous entends !
+
+Yoon éclata de rire.
+
+Même Ray eut un petit rire discret.
+
+Hasol secoua la tête.
+
+Puis contempla ses deux compagnons.
+
+— Bon. Je suppose que nous pouvons examiner ces rapports de donjon.
+
+Ray parut immédiatement retrouver son assurance.
+
+— Justement, j’en ai apporté plusieurs.
+
+Il ouvrit sa sacoche.
+
+En sortit un premier registre.
+
+Puis une carte.
+
+Puis deux autres documents.
+
+Et enfin un petit livre rempli de marque-pages.
+
+Hasol le contempla.
+
+— Tu as apporté tout ça ?
+
+Ray acquiesça.
+
+— Je voulais comparer les informations disponibles avant notre première expédition.
+
+Yoon prit la carte avec intérêt.
+
+— C’est une bonne idée.
+
+Hasol observa son ancien ami.
+
+Il avait exactement la même expression que lorsqu’ils étaient enfants et qu’il venait lui expliquer une nouvelle découverte.
+
+Cette concentration particulière.
+
+Cette manière d’oublier presque tout ce qui l’entourait dès qu’un sujet l’intéressait.
+
+Elle sourit.
+
+— Tu n’as vraiment pas changé sur ce point.
+
+Ray releva les yeux.
+
+Un sourire discret apparut sur son visage.
+
+— J’aime toujours lire.
+
+— J’avais remarqué.
+
+Yoon s’installa à la table.
+
+— Bon. Montre-nous ce que tu as trouvé.
+
+Ray ouvrit son premier registre.
+
+Hasol tira une chaise.
+
+Puis se pencha vers la carte.
+
+Ils passèrent une bonne partie de la matinée à examiner les possibilités qui s’offraient à leur nouvelle équipe.
+
+Et, pendant quelque temps, Hasol cessa de penser à l’Académie.
+
+Elle écoutait Yoon discuter des soins et des contrôles possibles.
+
+Ray expliquait les comportements connus de certains monstres.
+
+Elle-même examinait les avantages et les faiblesses de leur composition.
+
+Ils n’étaient pas encore des compagnons capables de se comprendre d’un regard.
+
+Il leur faudrait du temps.
+
+Mais ils avaient commencé.
+
+Lorsque la réunion prit fin, Hasol rangea ses documents.
+
+Puis elle aperçut le petit coffret sombre au fond de sa sacoche.
+
+La rune de sa mère.
+
+Elle avait terminé de recopier les observations réalisées avec Orven et n’avait plus besoin de la conserver.
+
+Iseria lui avait confié un objet exceptionnel.
+
+Il était temps de le lui rendre.
+
+— Je vais rentrer, annonça-t-elle.
+
+Yoon releva les yeux.
+
+— Déjà ?
+
+Hasol acquiesça.
+
+— J’ai quelque chose à rapporter à maman.
+
+La Sage sourit.
+
+— La rune Énergie légendaire, orange, quatre étoiles ?
+
+— Oui.
+
+— Alors ne la fais pas attendre davantage.
+
+Ray referma son registre.
+
+— À bientôt, Hasol.
+
+Elle tourna la tête.
+
+— À bientôt, Ray.
+
+Puis elle regarda Yoon.
+
+— Et toi, tu ne passes pas ton après-midi entier à travailler !
+
+La Sage ouvrit de grands yeux.
+
+— C’est toi qui me dis ça ?
+
+Hasol éclata de rire.
+
+Puis quitta le Griffon d’Argent.
+
+## VIII. La promesse tenue
+
+Iseria se trouvait dans le petit salon lorsque Hasol rentra.
+
+Elle portait une robe de style elfique aux manches finement brodées, et lisait près de la fenêtre ouverte sur le jardin.
+
+Lorsqu’elle aperçut sa fille, elle posa son livre.
+
+— Bonjour, ma chérie.
+
+— Bonjour, maman.
+
+Hasol s’approcha.
+
+Puis sortit le petit coffret sombre de sa sacoche.
+
+— Je viens te rendre quelque chose.
+
+Iseria sourit immédiatement.
+
+— Tu as terminé tes observations ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Elle lui tendit le coffret.
+
+Sa mère l’ouvrit.
+
+La rune Énergie légendaire, orange, quatre étoiles, reposait toujours sur son tissu protecteur.
+
+Iseria la prit délicatement.
+
+Puis examina ses inscriptions.
+
+Une petite fenêtre apparut devant elle.
+
+Elle sourit.
+
+— Toujours à +9.
+
+Hasol redressa fièrement le menton.
+
+— Comme promis !
+
+Iseria éclata de rire.
+
+— Je n’en doutais pas.
+
+Elle replaça la rune dans son coffret.
+
+Puis le posa sur la table.
+
+— Alors ? Qu’as-tu découvert ?
+
+Hasol s’assit immédiatement à côté d’elle.
+
+— Beaucoup de choses !
+
+Elle sortit son carnet.
+
+Puis lui raconta la séance avec Orven.
+
+L’essai sur une rune Énergie commune, blanche, une étoile, devenue peu commune, verte, à +3.
+
+La secondaire de Mana apparue exactement comme prévu.
+
+Et enfin l’analyse de la rune Énergie légendaire, orange, quatre étoiles.
+
+Iseria écouta attentivement.
+
+Hasol lui montra la feuille sur laquelle Orven avait tracé les deux possibilités de renforcement.
+
+— Regarde.
+
+Elle désigna la première ligne.
+
+— À +9, ta rune possède +60 Puissance arcanique en secondaire.
+
+Sa mère acquiesça.
+
+— Oui.
+
+— Et si je réalisais personnellement les améliorations restantes jusqu’à +15, elle atteindrait +140.
+
+Iseria examina les chiffres.
+
+— Une belle progression.
+
+— Exactement !
+
+Hasol sourit.
+
+— Mais ce qui est intéressant, c’est que mon Œil me montre deux renforcements futurs : un de +20 et un de +60.
+
+Elle posa son doigt sur le palier +12.
+
+— Et pourtant, je ne peux pas savoir lequel arriverait en premier.
+
+Iseria fronça légèrement les sourcils.
+
+— Tu connais donc le résultat final, mais pas nécessairement celui de l’amélioration intermédiaire ?
+
+— C’est ça !
+
+Hasol lui montra les deux possibilités.
+
+— À +12, elle pourrait avoir +80 ou +120. Mais à +15, elle atteindrait +140 dans les deux cas.
+
+Sa mère réfléchit quelques instants.
+
+Puis sourit.
+
+— Cela reste une compétence extraordinaire.
+
+Hasol acquiesça vivement.
+
+— Je sais !
+
+Elle referma doucement son carnet.
+
+— Maître Orven pense que nous pourrons sélectionner les meilleures runes avant de dépenser nos ressources.
+
+Iseria lui adressa un regard tendre.
+
+— Je crois qu’il a raison.
+
+Hasol contempla un instant le coffret.
+
+Puis demanda :
+
+— Maman…
+
+— Oui ?
+
+Elle hésita.
+
+— Tu ne veux vraiment pas me dire depuis quand tu possèdes une rune pareille ?
+
+Iseria leva légèrement un sourcil.
+
+— Tu es encore curieuse ?
+
+— Évidemment !
+
+Sa mère rit doucement.
+
+— Je la possède depuis longtemps, ma chérie.
+
+Hasol attendit.
+
+Iseria reprit son livre.
+
+La jeune femme ouvrit de grands yeux.
+
+— C’est tout ?
+
+— Pour le moment.
+
+— Maman !
+
+Iseria éclata de rire.
+
+Hasol soupira théâtralement.
+
+Puis sourit à son tour.
+
+Elle savait qu’elle n’obtiendrait rien de plus aujourd’hui.
+
+Et, après tout, sa mère avait bien le droit de conserver quelques secrets.
+
+La rune était revenue intacte entre ses mains.
+
+Hasol avait tenu sa promesse.
+
+C’était l’essentiel.
+
+Iseria s’apprêtait à reprendre sa lecture lorsqu’elle remarqua quelque chose.
+
+Son regard se posa sur la main d’Hasol.
+
+— Tiens…
+
+Hasol releva les yeux.
+
+— Quoi ?
+
+Sa mère désigna son doigt.
+
+— Tu portes un nouvel anneau.
+
+Hasol baissa les yeux.
+
+L’Anneau runique brillait doucement à sa main.
+
+— Ah !
+
+Elle sourit.
+
+— Oui.
+
+Iseria examina les gravures.
+
+— Un Anneau runique ?
+
+— Exactement !
+
+— Tu l’as acheté ?
+
+— Non.
+
+Sa mère pencha légèrement la tête.
+
+— On te l’a offert ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Iseria sourit.
+
+— Et qui donc ?
+
+Hasol répondit naturellement :
+
+— Ray.
+
+Le sourire de sa mère se figea légèrement.
+
+— Ray Corvus ?
+
+— Oui.
+
+Iseria contempla l’anneau.
+
+Puis sa fille.
+
+— Je ne savais pas que vous aviez repris contact.
+
+Hasol sentit son sourire s’adoucir.
+
+— C’est récent.
+
+Elle hésita.
+
+Puis ajouta :
+
+— En fait… j’ai quelque chose à t’annoncer.
+
+Sa mère referma doucement son livre.
+
+— Je t’écoute.
+
+Hasol prit une inspiration.
+
+— Ray a rejoint notre équipe.
+
+Iseria resta silencieuse.
+
+— Votre équipe ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Elle poursuivit rapidement :
+
+— Enfin, pour une période d’essai. Yoon et moi avons discuté de sa proposition, et nous avons décidé de lui laisser une chance.
+
+Iseria contempla sa fille avec attention.
+
+— Je vois.
+
+Hasol baissa légèrement les yeux.
+
+Elle savait ce que sa mère allait demander.
+
+La question arriva presque aussitôt.
+
+— Et tu lui as pardonné ?
+
+Hasol secoua lentement la tête.
+
+— Non.
+
+Iseria ne sembla pas surprise.
+
+Sa fille poursuivit :
+
+— Il s’est excusé.
+
+Elle marqua une pause.
+
+— Cette fois, il a vraiment parlé de ce qui s’était passé à l’Académie.
+
+Iseria l’écoutait en silence.
+
+— Mais je ne peux pas faire comme si tout ça n’avait jamais existé.
+
+Sa mère posa doucement une main sur la sienne.
+
+— Bien sûr que non.
+
+Hasol releva les yeux.
+
+Iseria lui adressa un sourire.
+
+— Tu as été profondément blessée par ce qui s’est passé.
+
+La jeune femme acquiesça.
+
+— Oui.
+
+— Et tu n’as aucune obligation de lui pardonner simplement parce qu’il regrette maintenant son comportement.
+
+Hasol sentit une étrange chaleur lui monter dans la poitrine.
+
+Elle baissa les yeux vers leurs mains.
+
+Puis murmura :
+
+— C’est aussi ce que Yoon m’a dit.
+
+Iseria eut un petit rire.
+
+— Alors elle me semble être une jeune femme pleine de bon sens.
+
+Hasol sourit.
+
+— Elle va être insupportable si je lui raconte ça.
+
+Sa mère rit avec elle.
+
+Puis reprit plus doucement :
+
+— Et qu’est-ce qui t’a fait accepter ?
+
+Hasol réfléchit.
+
+— Plusieurs choses.
+
+Elle regarda l’anneau.
+
+— Ray est un bon mage. Il possède des attaques de feu à distance et beaucoup de connaissances sur les monstres.
+
+Elle releva les yeux.
+
+— Et maintenant que nous sommes trois, nous pouvons enfin entrer dans les donjons.
+
+Iseria acquiesça.
+
+— Je comprends.
+
+Hasol poursuivit :
+
+— Mais ce n’est pas seulement pour ça.
+
+Elle contempla un instant le jardin.
+
+— Pendant le combat contre le loup alpha, Ray nous a aidées. Sans ce qu’il avait remarqué sur la patte blessée du monstre, je ne sais pas si nous aurions réussi à le vaincre.
+
+Elle baissa les yeux.
+
+— Et quand il est venu me parler, il n’a pas cherché à prétendre que rien ne s’était passé.
+
+Iseria resta silencieuse.
+
+Hasol poursuivit :
+
+— Je ne sais pas si nous redeviendrons amis.
+
+Elle sourit légèrement.
+
+— Mais je crois que nous pouvons essayer de travailler ensemble.
+
+Sa mère lui caressa doucement la main.
+
+— Alors tu as pris ta décision pour de bonnes raisons.
+
+Hasol releva les yeux.
+
+— Tu n’es pas inquiète ?
+
+Iseria sourit.
+
+— Si.
+
+La jeune femme cligna des yeux.
+
+Sa mère poursuivit :
+
+— Je m’inquiète toujours un peu pour toi.
+
+Elle posa doucement une main sur sa joue.
+
+— Mais je sais aussi que tu ne peux pas passer ta vie à éviter toutes les personnes qui t’ont un jour fait souffrir.
+
+Hasol resta immobile.
+
+Iseria ajouta :
+
+— Ce qui compte, c’est que tu puisses choisir toi-même celles que tu veux laisser revenir dans ta vie.
+
+Un petit silence s’installa.
+
+Puis Hasol sourit.
+
+— Merci, maman.
+
+Sa mère l’embrassa doucement sur le front.
+
+— De rien, ma chérie.
+
+Quelques instants plus tard, Iseria regarda de nouveau l’Anneau runique.
+
+Un sourire amusé apparut sur son visage.
+
+— Et c’est Ray qui t’a offert ça ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Sa mère pencha légèrement la tête.
+
+— Un anneau, vraiment ?
+
+Hasol se figea.
+
+Puis éclata de rire.
+
+— Maman !
+
+Iseria la regarda avec une innocence parfaitement feinte.
+
+— Quoi donc ?
+
+— Ne commence pas !
+
+— Je n’ai rien dit.
+
+Hasol riait de plus belle.
+
+— C’est exactement ce que j’ai dit à Ray !
+
+Iseria sembla intriguée.
+
+— Vraiment ?
+
+Hasol lui raconta alors sa plaisanterie.
+
+La demande en mariage imaginaire.
+
+La panique de Ray.
+
+Ses explications interminables.
+
+Et surtout, son insistance à préciser qu’il n’existait absolument aucune intention matrimoniale derrière le cadeau.
+
+Iseria éclata de rire.
+
+Elle dut poser une main sur son livre pour reprendre son souffle.
+
+— Le pauvre garçon !
+
+Hasol riait avec elle.
+
+— Tu aurais dû voir sa tête !
+
+Sa mère essuya une larme au coin de son œil.
+
+— Je l’imagine très bien.
+
+Elles rirent encore quelques instants.
+
+Puis Iseria reprit son sérieux.
+
+— Alors, cette nouvelle équipe… Vous avez déjà prévu quelque chose ?
+
+Hasol redressa immédiatement la tête.
+
+— Nous avons commencé à examiner les donjons disponibles !
+
+Sa mère leva un sourcil.
+
+— Et ton bras ?
+
+Hasol se figea.
+
+— Ah…
+
+Iseria croisa les mains.
+
+— Hasol.
+
+— Nous n’avons encore rien décidé !
+
+— Tant mieux.
+
+La jeune femme soupira.
+
+— Yoon m’a déjà fait exactement la même remarque.
+
+Iseria sourit.
+
+— Voilà qui confirme mon excellente opinion d’elle.
+
+Hasol leva les yeux au ciel.
+
+— Vous allez vraiment vous entendre toutes les deux.
+
+Sa mère éclata de rire.
+
+Puis elle reprit :
+
+— Prends le temps de guérir correctement. Une équipe ne devient pas bonne en courant vers son premier donjon.
+
+Hasol réfléchit quelques instants.
+
+Puis acquiesça.
+
+— Je sais.
+
+Elle sourit.
+
+— Et cette fois, j’ai vraiment envie que nous soyons prêts.
+
+Iseria la contempla avec tendresse.
+
+— Alors commence par te reposer.
+
+Hasol se leva.
+
+— D’accord.
+
+Elle rangea son carnet dans sa sacoche.
+
+Puis jeta un dernier regard vers le coffret sombre posé sur la table.
+
+La rune Énergie légendaire, orange, quatre étoiles, avait retrouvé sa propriétaire.
+
+Intacte.
+
+À +9.
+
+Avec son secret de +12 toujours irrésolu.
+
+Hasol sourit.
+
+Elle n’avait pas encore tout compris de son Œil runique.
+
+Mais elle savait déjà qu’elle consacrerait beaucoup de temps à en découvrir les possibilités.
+
+Elle salua sa mère, puis quitta le salon.
+
+Dans sa chambre, Hasol s’assit près de la fenêtre.
+
+La fin d’après-midi baignait la capitale d’une lumière dorée.
+
+Elle ouvrit son interface.
+
+Son Anneau runique contenait désormais plusieurs pierres qu’elle souhaitait conserver à part.
+
+Parmi elles reposait la rune Vitesse rare, bleue, trois étoiles, obtenue sur le loup alpha.
+
+Hasol la sélectionna.
+
+Les inscriptions turquoise de son Œil réapparurent.
+
+Elle contempla une nouvelle fois les caractéristiques qui seraient les siennes à +15.
+
+Puis elle ferma la fenêtre.
+
+Elle aurait encore besoin de pierres de mana, d’entraînement et de longues heures d’amélioration pour atteindre ce résultat.
+
+Mais cette fois, elle savait exactement ce qu’elle cherchait.
+
+Elle ouvrit ensuite le registre de son équipe.
+
+Trois noms apparurent.
+
+Hasol Shun.
+
+Yoon Notos.
+
+Ray Corvus.
+
+Elle resta quelques instants à les contempler.
+
+Il fut un temps où elle aurait donné n’importe quoi pour que le troisième nom apparaisse à côté du sien.
+
+Puis il y avait eu l’Académie.
+
+Les moqueries.
+
+Le silence de Ray.
+
+Et les années pendant lesquelles elle avait appris à ne plus compter sur lui.
+
+Aujourd’hui, ce nom figurait de nouveau près du sien.
+
+Mais ce n’était plus la petite fille qui rêvait d’explorer les donjons avec son ami d’enfance.
+
+Elle avait grandi.
+
+Elle avait rencontré Yoon.
+
+Elle avait trouvé sa voie dans l’artisanat runique.
+
+Et elle avait commencé à construire quelque chose qui lui appartenait.
+
+Hasol passa doucement un doigt sur les trois noms.
+
+Elle ne savait pas encore si Ray parviendrait à regagner sa confiance.
+
+Elle ne savait pas non plus quelles difficultés les attendaient dans leur premier donjon.
+
+Mais, pour la première fois, elle pouvait envisager ces questions sans sentir son passé lui serrer la gorge.
+
+Elle avait choisi de lui laisser une place dans l’équipe.
+
+Pas de lui rendre immédiatement celle qu’il avait occupée dans son cœur.
+
+Cette différence comptait.
+
+Hasol referma son interface.
+
+Puis ouvrit son carnet.
+
+Une page entière était consacrée aux observations faites avec Orven.
+
+Au bas de celle-ci, elle avait écrit une phrase qu’elle relut avec un sourire :
+
+Connaître le résultat final ne signifie pas connaître tout le chemin.
+
+Elle contempla ces mots quelques instants.
+
+Ils s’appliquaient à ses runes.
+
+Mais peut-être pas uniquement.
+
+Hasol prit sa plume.
+
+Puis, sur la page suivante, elle inscrivit trois noms.
+
+En dessous, elle traça une ligne.
+
+Première expédition — Préparatifs.
+
+Un sourire déterminé apparut sur son visage.
+
+Il était temps de découvrir ce qu’ils pourraient accomplir ensemble.
+
+---
+
+**Fin du chapitre 10 — Ceux qui riaient autrefois**
+
+---
+
+<span id="chapitre-11"></span>
+
+# Chapitre 11 — Le dernier départ
+
+## I. La première expédition
+
+Hasol avait étalé une dizaine de runes sur son bureau.
+
+Certaines étaient communes, blanches, d’autres peu communes, vertes (rangs : À DÉFINIR). Aucune ne possédait de caractéristiques particulièrement recherchées, mais elles représentaient toutes quelque chose de précieux à ses yeux.
+
+Du travail.
+
+Des heures passées à trier les pierres de l’atelier d’Orven, à examiner leurs inscriptions et à séparer celles qui méritaient une seconde évaluation de celles destinées au recyclage.
+
+Grâce à leur arrangement, elle avait pu acquérir ces dernières à leur valeur de récupération, parfois en compensant une partie du prix par du travail supplémentaire.
+
+Elle avait économisé.
+
+Compté.
+
+Et recommencé le lendemain.
+
+Aucune de ces runes ne lui avait été offerte.
+
+Elle les avait gagnées à la sueur de son front.
+
+Hasol en prit une entre ses doigts.
+
+Une petite pierre blanche, une étoile, dont la lumière pâle semblait presque hésitante.
+
+Elle pouvait encore se souvenir du moment où elle l’avait sortie d’une caisse de récupération.
+
+Orven avait vérifié ses conclusions, puis inscrit sa valeur dans le registre.
+
+Ce n’était pas une rune remarquable.
+
+Mais elle avait appartenu à quelqu’un, coûté des ressources et conservait suffisamment de valeur pour qu’un recycleur accepte de l’acheter.
+
+Hasol sourit légèrement.
+
+— Tu vas servir à quelque chose de bien, toi.
+
+Elle déposa la pierre dans son Anneau runique.
+
+Puis y transféra le reste de sa réserve.
+
+Dix runes.
+
+Dix activations possibles de son Aura runique, à condition de disposer du Mana nécessaire.
+
+Elle vérifia ensuite son équipement.
+
+Douze cercles.
+
+Douze runes équipées.
+
+Ses ensembles Fatal, Arcanique et Gardien étaient toujours en place. Elle n’avait pas encore décidé comment intégrer la rune Vitesse rare, bleue, trois étoiles, obtenue sur le loup alpha.
+
+Son Œil runique lui avait montré ce qu’elle pourrait devenir à +15, mais elle souhaitait encore réfléchir avant de consacrer ses ressources à son amélioration.
+
+D’autant que la journée qui l’attendait n’était pas ordinaire.
+
+Hasol referma son interface.
+
+Puis regarda son épée.
+
+Aujourd’hui, elle allait enfin entrer dans un donjon avec sa propre équipe.
+
+— Tu es en retard.
+
+Hasol s’arrêta devant l’entrée du Griffon d’Argent.
+
+Yoon l’attendait près du portail, les bras croisés.
+
+Ses cheveux violets aux reflets rosés étaient soigneusement attachés, et sa tenue de combat ne comportait aucun ornement susceptible de gêner ses déplacements.
+
+À côté d’elle, Ray consultait un registre.
+
+Hasol regarda le ciel.
+
+Puis Yoon.
+
+— Je suis à l’heure !
+
+— Tu es arrivée après moi.
+
+— Ce n’est pas la même chose !
+
+La Sage éclata de rire.
+
+Ray leva brièvement les yeux.
+
+— Nous avions prévu de nous retrouver avant le départ, pas à une heure précise au-delà de laquelle l’expédition serait annulée.
+
+Hasol lui adressa un sourire triomphant.
+
+— Merci, Ray !
+
+Yoon le fixa.
+
+— Tu prends déjà son parti ?
+
+Le mage ajusta ses lunettes.
+
+— Je précisais simplement les conditions de notre rendez-vous.
+
+Hasol éclata de rire.
+
+— Je crois que je vais beaucoup aimer avoir un troisième membre.
+
+Yoon leva les yeux au ciel.
+
+Mais elle souriait.
+
+Ray referma son registre.
+
+— Nous devrions partir. Le trajet prendra une bonne partie de la matinée si nous marchons.
+
+Hasol acquiesça.
+
+Ils avaient consacré plusieurs jours à préparer cette expédition.
+
+La guilde leur avait présenté plusieurs donjons accessibles à une équipe de leur composition.
+
+Hasol aurait volontiers choisi le plus difficile.
+
+Yoon avait immédiatement refusé.
+
+Ray avait approuvé.
+
+Et elle avait découvert qu’être la seule personne à posséder une classe légendaire ne donnait aucun droit particulier lors des décisions collectives.
+
+Elle s’en était plainte pendant presque tout le dîner.
+
+Mais elle avait fini par reconnaître que ses compagnons avaient raison.
+
+Le combat contre le loup alpha ne prouvait pas qu’ils savaient fonctionner comme une véritable équipe.
+
+Ils avaient survécu.
+
+Ils avaient gagné.
+
+Mais ils avaient également commis des erreurs qui auraient pu leur coûter la vie.
+
+Cette fois, Hasol voulait faire mieux.
+
+— Allons-y ! annonça-t-elle.
+
+L’entrée du donjon ressemblait à une profonde fissure ouverte dans une colline rocheuse.
+
+Des marches irrégulières descendaient dans l’obscurité.
+
+À l’intérieur, de petits cristaux incrustés dans les parois diffusaient une lumière froide.
+
+Hasol s’arrêta devant les premières marches.
+
+Son cœur battait un peu plus vite.
+
+Elle avait attendu ce moment pendant des années.
+
+Lorsqu’elle était enfant, elle imaginait les donjons comme des palais oubliés, remplis de trésors extraordinaires et de monstres légendaires.
+
+La réalité qui s’étendait devant elle était beaucoup moins impressionnante.
+
+Des pierres humides.
+
+Un courant d’air froid.
+
+Et une odeur de terre ancienne.
+
+Pourtant, elle trouvait cette entrée magnifique.
+
+— Hasol ?
+
+Elle tourna la tête.
+
+Yoon l’observait avec un sourire.
+
+— Tu es heureuse ?
+
+La jeune femme acquiesça.
+
+— Énormément.
+
+Ray consulta les dernières lignes de son registre.
+
+— Avant d’entrer, nous devrions vérifier nos réserves de Mana.
+
+— Bonne idée, répondit Yoon.
+
+Hasol ouvrit son Anneau runique.
+
+Elle en sortit la petite pierre blanche sélectionnée le matin même.
+
+Ray remarqua son geste.
+
+— Tu comptes utiliser Aura runique ?
+
+— Oui.
+
+Hasol contempla la rune.
+
+Elle en connaissait parfaitement le coût.
+
+Deux cents points de Mana.
+
+Une rune définitivement détruite.
+
+Et une imprégnation élémentaire pouvant durer jusqu’à vingt-quatre heures.
+
+Elle préférait effectuer l’activation avant d’entrer, afin de pouvoir récupérer autant d’énergie que possible avant les premiers combats.
+
+— Tu as préparé ta réserve ? demanda Yoon.
+
+Hasol acquiesça.
+
+— Une dizaine de runes.
+
+La Sage sourit.
+
+— Toutes obtenues chez Orven ?
+
+— Oui.
+
+Hasol regarda la pierre.
+
+— Ça m’a demandé beaucoup de travail.
+
+Elle hésita.
+
+— C’est étrange. Même quand je sais que je les ai acquises pour les sacrifier, j’ai toujours un peu de mal à les détruire.
+
+Ray observa la rune.
+
+— Je suppose que tu connais trop bien leur valeur pour les considérer comme de simples consommables.
+
+Hasol releva les yeux.
+
+La remarque la surprit.
+
+Puis elle sourit.
+
+— Exactement.
+
+Elle posa la rune contre son épée.
+
+Ferma les yeux.
+
+Et concentra son Mana.
+
+— Aura runique.
+
+Les inscriptions de la pierre s’illuminèrent.
+
+Hasol choisit la Terre.
+
+Une partie de ses réserves se vida brusquement.
+
+La rune se fissura.
+
+Puis sa lumière se dispersa en fines particules, qui s’éteignirent autour de la lame.
+
+La pierre avait disparu.
+
+À sa place, une aura élémentaire enveloppait désormais l’acier.
+
+Hasol examina le résultat.
+
+L’activation avait réussi.
+
+Elle ne s’était pas accompagnée d’Infiltration runique.
+
+Ce serait donc une imprégnation ordinaire.
+
+Cela lui convenait parfaitement.
+
+Elle rengaina son épée.
+
+— Voilà.
+
+Yoon lui adressa un sourire.
+
+— Alors faisons en sorte que cette rune ait été bien utilisée.
+
+Hasol acquiesça.
+
+— C’est exactement mon intention.
+
+Ils attendirent encore un moment, le temps qu’elle récupère une partie de son Mana, puis descendirent les marches.
+
+— Attendez.
+
+Hasol leva une main.
+
+Ses deux compagnons s’arrêtèrent.
+
+Un grattement provenait du couloir devant eux.
+
+Puis un autre.
+
+Ray consulta rapidement le plan.
+
+— Nous approchons d’une salle où plusieurs groupes de rôdeurs des galeries ont été signalés.
+
+Hasol tendit l’oreille.
+
+Un froissement lui parvint.
+
+Puis deux yeux pâles apparurent dans l’obscurité.
+
+Quatre créatures émergèrent lentement du passage.
+
+Leurs corps allongés étaient recouverts d’une peau grise et épaisse. Leurs pattes se terminaient par des griffes recourbées, et leurs museaux frôlaient presque le sol.
+
+Hasol se plaça devant ses compagnons.
+
+— Quatre.
+
+Yoon observa la largeur du passage.
+
+— Nous ferions mieux de reculer jusqu’à la salle précédente.
+
+Ray acquiesça.
+
+— Ils se déplacent rapidement dans les couloirs étroits. Je pourrais les toucher avec Souffle ardent lorsqu’ils seront regroupés.
+
+Hasol examina le terrain.
+
+Puis désigna la paroi de droite.
+
+— D’accord. Mais je me décalerai par là avant que tu attaques.
+
+Ray releva les yeux.
+
+— Compris.
+
+Ils reculèrent lentement.
+
+La première créature releva soudain la tête.
+
+Puis poussa un cri rauque.
+
+Les quatre rôdeurs bondirent.
+
+— Maintenant !
+
+Hasol recula vers l’élargissement.
+
+Yoon leva les mains.
+
+— Domaine des Entraves Runiques !
+
+Un cercle violet se déploya sous les monstres.
+
+Leurs mouvements ralentirent immédiatement.
+
+Hasol se déporta vers la droite.
+
+— Ray !
+
+— Souffle ardent !
+
+Une vague de flammes traversa le passage.
+
+Les deux premières créatures furent frappées de plein fouet.
+
+La troisième recula.
+
+Mais la quatrième bondit contre la paroi et parvint à contourner la zone enflammée.
+
+Hasol frappa le premier rôdeur.
+
+L’aura de Terre enveloppant son épée renforça son attaque élémentaire.
+
+La créature s’effondra.
+
+Elle pivota aussitôt vers la deuxième.
+
+Mais un cri retentit derrière elle.
+
+— Ray ! Attention !
+
+Hasol se retourna.
+
+Le quatrième rôdeur avait réussi à contourner les flammes.
+
+Il bondissait vers le mage.
+
+Ray tenta de reculer.
+
+Son talon heurta une pierre.
+
+Il perdit l’équilibre.
+
+Yoon commença immédiatement son incantation.
+
+— Vague runique !
+
+La lumière se rassembla autour de sa main.
+
+Pendant les cinq secondes nécessaires au sort, Ray eut juste le temps de se protéger derrière un rocher.
+
+L’onde frappa enfin le monstre.
+
+Les dégâts furent modestes.
+
+Mais l’attaque le déséquilibra.
+
+Hasol revint sur ses pas et frappa son flanc.
+
+Le rôdeur s’effondra.
+
+Elle se retourna aussitôt.
+
+Les deux dernières créatures approchaient.
+
+— Hasol, à gauche ! lança Yoon.
+
+Elle pivota.
+
+Sa lame rencontra les griffes du premier rôdeur.
+
+Le choc la fit reculer d’un pas.
+
+Ray s’était relevé.
+
+Il leva une main.
+
+— Boule de feu !
+
+— Attends ! cria Hasol.
+
+Trop tard.
+
+La sphère incandescente frappa le rocher près de la créature.
+
+L’explosion souleva des éclats de pierre.
+
+Hasol dut lever un bras pour protéger son visage.
+
+Le monstre, lui, avait reculé juste assez pour éviter l’essentiel de l’attaque.
+
+— Ray !
+
+Le mage baissa immédiatement la main.
+
+— Pardon !
+
+Yoon resserra son Domaine.
+
+Les deux rôdeurs se retrouvèrent ralentis au centre de la salle.
+
+Hasol reprit sa position.
+
+Elle évita les griffes du premier.
+
+Puis frappa.
+
+La créature s’effondra.
+
+Ray attendit qu’elle se dégage.
+
+— À gauche, Boule de feu !
+
+Cette fois, Hasol se déporta immédiatement.
+
+La sphère frappa le dernier rôdeur.
+
+Le choc le repoussa contre la paroi.
+
+Hasol l’acheva quelques instants plus tard.
+
+Puis le silence revint.
+
+— Bon.
+
+Hasol abaissa son épée.
+
+Yoon dissipa son Domaine.
+
+Ray repoussa ses lunettes sur son nez.
+
+Pendant quelques secondes, aucun des trois ne parla.
+
+Puis Hasol regarda les éclats de pierre dispersés dans la salle.
+
+— Nous avons du travail.
+
+Ray baissa légèrement les yeux.
+
+— Je n’aurais pas dû lancer ce sort alors que tu étais encore dans sa trajectoire.
+
+— Non.
+
+Hasol prit une inspiration.
+
+— Mais je n’aurais pas dû m’avancer autant après ta première attaque.
+
+Yoon acquiesça.
+
+— Et j’ai placé mon Domaine trop loin devant. J’ai mis trop de temps à ralentir celui qui avait contourné les flammes.
+
+Ray réfléchit.
+
+Puis ouvrit son registre.
+
+— Nous devrions modifier notre formation.
+
+Hasol le regarda.
+
+— Tu as déjà une idée ?
+
+— Plusieurs.
+
+Il dessina rapidement un petit plan.
+
+Hasol se pencha.
+
+Une croix figurait près de l’entrée du passage.
+
+Un cercle un peu plus loin.
+
+Et un triangle derrière les deux autres.
+
+Elle fronça les sourcils.
+
+— Pourquoi suis-je une croix ?
+
+Ray ajusta ses lunettes.
+
+— Parce que tu occupes le point de contact principal.
+
+— Et Yoon ?
+
+— Le cercle.
+
+Hasol leva les yeux.
+
+— Et toi, tu es un triangle ?
+
+— Oui.
+
+Elle contempla le dessin.
+
+Puis le mage.
+
+— Pourquoi tu as droit à un triangle ?
+
+Ray resta immobile.
+
+Yoon éclata de rire.
+
+Le mage regarda son registre.
+
+Puis répondit très sérieusement :
+
+— Je peux vous représenter toutes les deux par des triangles, si tu préfères.
+
+Hasol ne put s’empêcher de rire.
+
+— Non, ça ira.
+
+Elle reprit son sérieux.
+
+Puis examina les positions qu’il avait proposées.
+
+Ray n’avait pas entièrement tort.
+
+Ils devaient surtout apprendre à annoncer leurs intentions avant que les monstres ne les obligent à improviser.
+
+Les combats suivants furent loin d’être parfaits.
+
+Hasol dut parfois renoncer à une ouverture pour laisser Ray lancer un sort.
+
+Yoon apprit à conserver une partie de son Domaine autour de leur position de repli.
+
+Et Ray découvrit qu’économiser son Mana pendant les premiers échanges pouvait être plus utile que de chercher à infliger immédiatement le maximum de dégâts.
+
+Lorsqu’ils rencontrèrent un nouveau groupe de rôdeurs, ils s’arrêtèrent pour examiner le terrain.
+
+Cette fois, personne ne se précipita.
+
+Hasol attira les monstres.
+
+Yoon plaça ses Entraves.
+
+Ray attendit que les créatures soient regroupées.
+
+— À gauche, Souffle ardent !
+
+Hasol se déporta.
+
+Les flammes traversèrent la salle.
+
+Elle profita de l’ouverture.
+
+Un premier rôdeur tomba.
+
+Puis un second.
+
+Le dernier tenta de contourner le mage.
+
+Mais Yoon avait conservé une zone de ralentissement derrière eux.
+
+La créature perdit suffisamment de vitesse pour qu’Hasol puisse l’intercepter.
+
+Quelques instants plus tard, la salle était sécurisée.
+
+La jeune femme abaissa son épée.
+
+Puis regarda ses compagnons.
+
+— Voilà !
+
+Yoon sourit.
+
+— Beaucoup mieux.
+
+Ray acquiesça.
+
+— Nous commençons à comprendre nos positions.
+
+Hasol contempla son arme.
+
+L’aura de Terre brillait encore autour de la lame.
+
+Elle repensa à la petite rune commune, blanche, une étoile, sacrifiée devant l’entrée.
+
+Aux heures de travail nécessaires pour l’obtenir.
+
+Et à ce qu’elle venait de leur permettre d’accomplir.
+
+Un sourire apparut sur son visage.
+
+La pierre avait été bien utilisée.
+
+Lorsqu’ils ressortirent du donjon, le soleil commençait à descendre vers les collines.
+
+Hasol s’arrêta devant l’entrée.
+
+Elle inspira profondément.
+
+L’air frais lui sembla merveilleux après les heures passées sous terre.
+
+— Nous avons réussi.
+
+Yoon sourit.
+
+— Oui.
+
+Ray consulta son registre.
+
+— Nous n’avons pas exploré les galeries les plus profondes.
+
+Hasol tourna lentement la tête.
+
+— Ray.
+
+Il releva les yeux.
+
+— Oui ?
+
+— Nous avons réussi.
+
+Le mage resta silencieux une seconde.
+
+Puis referma son registre.
+
+Un petit sourire apparut sur son visage.
+
+— Oui.
+
+Hasol contempla ses compagnons.
+
+Ils n’avaient pas réalisé une expédition exceptionnelle.
+
+Ils n’avaient pas découvert de trésor fabuleux ni vaincu un boss particulièrement redoutable.
+
+Mais ils étaient entrés ensemble.
+
+Ils avaient commis des erreurs.
+
+Appris à les corriger.
+
+Et quitté le donjon tous les trois.
+
+Pour une première expédition, cela lui suffisait.
+
+Yoon ajusta sa sacoche.
+
+— Et maintenant, nous rentrons.
+
+Hasol ouvrit la bouche.
+
+La Sage la devança.
+
+— Sans détour par une zone de chasse.
+
+— Mais je n’ai rien dit !
+
+Ray repoussa ses lunettes.
+
+— Tu regardais le sentier qui mène aux bois.
+
+Hasol contempla ses deux compagnons.
+
+Puis soupira.
+
+— Vous allez devenir insupportables.
+
+Ils éclatèrent de rire.
+
+Elle finit par sourire.
+
+Et reprit le chemin de la capitale à leurs côtés.
+
+## II. Les jours sans Yoon
+
+Yoon retourna à l’Académie dès le début de la semaine suivante.
+
+Ses derniers mois de formation exigeaient de plus en plus de travail, et ses horaires laissaient peu de place aux expéditions.
+
+Elle continuait à rejoindre Hasol pendant les week-ends et les vacances.
+
+Mais les autres jours, la jeune Arcaniste devait organiser autrement son temps.
+
+Ray, lui, avait déjà terminé ses études.
+
+Il était beaucoup plus disponible.
+
+Un matin, il vint retrouver Hasol au Griffon d’Argent.
+
+Elle terminait une commande lorsqu’un employé l’avertit de sa présence.
+
+Quelques minutes plus tard, elle le rejoignit dans le petit salon.
+
+— Bonjour, Ray.
+
+— Bonjour.
+
+Il sortit une carte de sa sacoche.
+
+Hasol soupira.
+
+— Tu ne vas pas me proposer un nouveau donjon sans Yoon ?
+
+— Non.
+
+Il déplia le document.
+
+— Une zone de chasse ordinaire.
+
+Hasol examina le secteur.
+
+Il se trouvait à l’est de la capitale.
+
+— Tu veux que nous y allions tous les deux ?
+
+Ray acquiesça.
+
+— Nous pourrions continuer à nous entraîner pendant que Yoon termine l’Académie.
+
+Hasol réfléchit.
+
+Elle n’avait aucune raison de refuser.
+
+Pourtant, l’idée de passer une journée entière avec Ray sans son amie à leurs côtés lui paraissait étrange.
+
+Au cours de leurs expéditions à trois, Yoon avait souvent facilité les conversations.
+
+Elle plaisantait.
+
+Intervenait lorsqu’un silence devenait gênant.
+
+Et savait changer de sujet lorsque Hasol se refermait.
+
+Sans elle, les choses seraient différentes.
+
+Ray sembla remarquer son hésitation.
+
+Il replia légèrement la carte.
+
+— Si tu préfères attendre…
+
+— Non.
+
+Hasol l’interrompit presque aussitôt.
+
+Puis elle prit une inspiration.
+
+— Je veux bien essayer.
+
+Il releva les yeux.
+
+— Vraiment ?
+
+Elle acquiesça.
+
+— Mais nous restons dans les secteurs où deux chasseurs peuvent intervenir sans prendre de risques inconsidérés.
+
+Ray sourit.
+
+— C’était prévu.
+
+Hasol regarda une dernière fois la carte.
+
+— Alors demain matin.
+
+La première journée fut maladroite.
+
+Ray lui parla longuement des créatures signalées dans la région.
+
+Hasol l’écouta.
+
+Puis ils marchèrent pendant plusieurs minutes sans rien dire.
+
+Par moments, elle avait envie de lui raconter quelque chose.
+
+Une nouvelle commande confiée par Orven.
+
+Une remarque amusante de Yoon.
+
+Une difficulté rencontrée avec son Œil runique.
+
+Mais elle se retenait.
+
+Elle ne savait pas encore quels sujets pouvaient redevenir naturels entre eux.
+
+De son côté, Ray semblait craindre de dire quelque chose qui réveillerait leurs anciens souvenirs.
+
+Le résultat fut un silence particulièrement pesant.
+
+Hasol accueillit presque avec soulagement l’apparition de leur premier groupe de monstres.
+
+Combattre était plus simple.
+
+Au moins, ils savaient ce qu’ils avaient à faire.
+
+Les deux premiers affrontements se déroulèrent correctement.
+
+Puis, lors du troisième, Ray annonça :
+
+— Je vais lancer une Boule de feu sur la créature de gauche, lorsqu’elle aura dépassé le rocher, à condition que tu restes suffisamment éloignée de…
+
+— Ray !
+
+Il s’interrompit immédiatement.
+
+Hasol le contempla.
+
+— Tu peux simplement dire : « À gauche, Boule de feu. »
+
+Le mage réfléchit.
+
+— Tu m’avais demandé d’annoncer mes attaques.
+
+— Oui, mais pas de me raconter toute leur histoire !
+
+Il ajusta ses lunettes.
+
+— Je suppose qu’il faut trouver un équilibre.
+
+Hasol resta silencieuse une seconde.
+
+Puis un rire lui échappa.
+
+— Oui.
+
+Ray sourit légèrement.
+
+Ils reprirent la chasse.
+
+Et, pour la première fois depuis longtemps, le silence entre eux ne lui sembla pas entièrement désagréable.
+
+Leurs sorties devinrent peu à peu une habitude.
+
+Au début, Hasol comptait les heures.
+
+Elle vérifiait souvent la position du soleil, puis se demandait s’ils avaient suffisamment avancé pour rentrer.
+
+Mais les semaines passèrent.
+
+Et elle cessa progressivement d’y penser.
+
+Ray connaissait bien les comportements des monstres, même si ses livres ne lui donnaient pas toujours raison.
+
+Un après-midi, il affirma avec assurance qu’un groupe de bêtes cuirassées prendrait la fuite si leur chef était suffisamment blessé.
+
+Hasol attaqua le chef.
+
+Les trois autres créatures lui foncèrent immédiatement dessus.
+
+— RAY !
+
+— Je vois !
+
+Le mage lança précipitamment Souffle ardent.
+
+Hasol évita les flammes et se dégagea du groupe.
+
+Ils parvinrent à remporter le combat.
+
+Mais lorsqu’ils eurent repris leur souffle, elle le contempla avec une expression faussement sévère.
+
+— Elles devaient fuir ?
+
+Ray ajusta ses lunettes.
+
+— Selon les rapports, oui.
+
+Hasol désigna les créatures vaincues.
+
+— Tu devrais leur montrer ces rapports. Elles ne semblent pas les avoir lus.
+
+Ray resta immobile une seconde.
+
+Puis un rire lui échappa.
+
+Un vrai rire.
+
+Hasol en fut presque surprise.
+
+Il avait exactement la même façon de rire que lorsqu’ils étaient enfants.
+
+Elle détourna légèrement les yeux.
+
+Puis sourit à son tour.
+
+Ce souvenir-là, au moins, n’avait pas besoin de lui faire mal.
+
+Un matin, Ray la retrouva près de l’entrée des bois alors qu’elle préparait son épée.
+
+Hasol venait de sortir une rune de son Anneau runique.
+
+Il observa la pierre entre ses doigts.
+
+— Encore une de celles que tu as obtenues chez Orven ?
+
+Elle acquiesça.
+
+— Oui.
+
+— Tu en as utilisé beaucoup depuis notre premier donjon ?
+
+Hasol fit mentalement le compte.
+
+— Quelques-unes. J’essaie de ne pas les sacrifier pour les chasses les plus simples.
+
+Ray contempla son épée.
+
+— Je comprends.
+
+Il hésita.
+
+Puis demanda :
+
+— Tu regrettes parfois de les utiliser ?
+
+Hasol examina la rune.
+
+— Non.
+
+Elle réfléchit.
+
+— Enfin… pas exactement.
+
+Le mage attendit.
+
+— Je les ai gagnées en travaillant. J’ai passé des heures à trier des pierres pour pouvoir les obtenir.
+
+Elle releva les yeux.
+
+— Même si je les ai réservées à mon Aura, je sais ce qu’elles représentent.
+
+Ray acquiesça.
+
+— Alors il faut faire en sorte que chaque activation en vaille la peine.
+
+Hasol sourit.
+
+— Exactement.
+
+Elle rangea finalement la rune.
+
+Le secteur qu’ils avaient choisi ce matin-là ne justifiait pas une dépense pareille.
+
+Ray suivit son geste.
+
+Puis dit :
+
+— Nous pourrions aussi économiser davantage mes sorts les plus coûteux.
+
+Hasol tourna brusquement la tête.
+
+— Tu viens de reconnaître qu’il t’arrive de gaspiller du Mana ?
+
+Le mage ajusta ses lunettes.
+
+— J’ai dit « économiser davantage ».
+
+Elle éclata de rire.
+
+— Je vais noter cette journée !
+
+Ray sourit malgré lui.
+
+Ils se mirent en marche.
+
+Leurs conversations devenaient plus naturelles.
+
+Hasol apprenait à reconnaître les moments où Ray approchait de ses limites.
+
+Lui commençait à savoir quand elle pouvait achever un adversaire sans son aide.
+
+Et lorsqu’ils commettaient une erreur, ils cherchaient désormais à la comprendre plutôt qu’à désigner un responsable.
+
+Cela ne signifiait pas qu’Hasol avait oublié l’Académie.
+
+Elle acceptait ses conseils.
+
+Répondait à ses plaisanteries.
+
+Mais ne lui confiait pas encore toutes ses inquiétudes.
+
+Ray semblait le comprendre.
+
+Il ne lui demandait plus de répondre à ses excuses.
+
+Et cette retenue rendait leur relation plus facile à supporter.
+
+Un après-midi, après avoir vaincu une créature près d’un ancien chemin forestier, Hasol sentit une chaleur familière parcourir ses cercles.
+
+Elle s’immobilisa.
+
+Ray se retourna.
+
+— Hasol ?
+
+Elle leva une main.
+
+Une fenêtre venait d’apparaître.
+
+<div class="system-window lit-window" data-window-id="102" data-window-type="niveau">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
+  <p><strong>Personnage :</strong> Hasol Shun — Arcaniste runique</p>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">20 → 21</span></p>
+</div>
+
+Hasol sourit largement.
+
+— Niveau vingt et un !
+
+Ray lui rendit son sourire.
+
+— Félicitations.
+
+— Merci !
+
+Elle allait refermer la notification lorsqu’une seconde apparut.
+
+De petites inscriptions turquoise se dessinèrent brièvement autour de l’Anneau runique qu’elle portait au doigt.
+
+Hasol se figea.
+
+<div class="system-window lit-window" data-window-id="103" data-window-type="competence">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>NOUVELLE COMPÉTENCE</div>
+  <p class="lit-window__row"><strong>Nom :</strong> <span>Aimant runique</span></p>
+  <p class="lit-window__row"><strong>Type :</strong> <span class="passive-badge">Compétence passive</span></p>
+  <p><strong>Effet :</strong> Les chances d’obtention de runes sont améliorées.</p>
+</div>
+
+Elle cligna des yeux.
+
+Puis baissa les yeux vers son anneau.
+
+— Oh…
+
+Ray pencha la tête.
+
+— Qu’est-ce qu’il y a ?
+
+Hasol relut les informations.
+
+Puis sourit.
+
+— Une nouvelle compétence.
+
+— Encore ?
+
+Elle éclata de rire.
+
+— C’est aussi ce que je me suis dit !
+
+Elle contempla la description.
+
+Aucun chiffre n’y était indiqué.
+
+Elle ne pouvait donc pas savoir dans quelle mesure ses chances d’obtenir des runes allaient augmenter.
+
+Il lui faudrait beaucoup de chasses pour déterminer si ce changement était réellement significatif.
+
+Hasol pensa immédiatement à Orven.
+
+Son maître voudrait certainement comparer leurs trouvailles, tenir des registres et vérifier qu’ils ne tiraient pas de conclusions à partir de quelques journées favorables.
+
+Elle connaissait déjà le discours qu’il lui ferait.
+
+Cette pensée la fit sourire.
+
+Ray regarda le chemin du retour.
+
+— Nous devrions rentrer avant la nuit.
+
+Hasol releva les yeux.
+
+Puis acquiesça.
+
+— Oui.
+
+Elle referma ses fenêtres.
+
+Cette fois, elle ne demanda pas à prolonger la chasse.
+
+Elle avait déjà suffisamment de choses auxquelles réfléchir.
+
+Les mois suivants furent bien remplis.
+
+Ray continua de progresser pendant leurs nombreuses sorties.
+
+Sa classe commune lui demandait moins d’expérience que celle d’Hasol, dont la progression légendaire restait plus exigeante.
+
+Il franchit plusieurs niveaux.
+
+Et ses nouvelles compétences lui permirent d’envisager des stratégies plus variées.
+
+Lorsqu’il atteignit le niveau trente, il obtint Mur de flammes.
+
+Il voulut immédiatement essayer cette technique.
+
+Hasol insista pour qu’ils choisissent un endroit suffisamment dégagé, à l’écart des arbres et des voyageurs.
+
+Ray lui donna raison.
+
+La première tentative produisit une barrière de feu beaucoup plus large qu’il ne l’avait prévu.
+
+Hasol dut reculer brusquement.
+
+— Ray !
+
+Le mage abaissa immédiatement les mains.
+
+— Pardon !
+
+La chaleur de la barrière se dissipait lentement.
+
+Hasol contempla la zone brûlée.
+
+— Tu aurais pu me prévenir que ce serait aussi grand !
+
+Ray ajusta ses lunettes.
+
+— Je n’avais pas encore pu mesurer ses dimensions en situation réelle.
+
+Elle le fixa.
+
+— Et tu voulais les découvrir pendant que j’étais devant toi ?
+
+Il resta silencieux.
+
+Puis répondit :
+
+— C’était une mauvaise idée.
+
+Hasol soupira.
+
+— Bon. Nous allons recommencer.
+
+Il releva les yeux.
+
+— Tu acceptes ?
+
+— Bien sûr.
+
+Elle désigna le terrain.
+
+— Mais cette fois, nous allons marquer nos positions avant que tu lances ton sort.
+
+Ray acquiesça.
+
+Ils passèrent une grande partie de l’après-midi à travailler.
+
+Lorsque le soleil commença à descendre, Hasol savait déjà mieux se placer pour laisser Ray dresser sa barrière sans la mettre en danger.
+
+Ce n’était qu’un début.
+
+Mais ils progressaient.
+
+Et lorsque Yoon les rejoignait le week-end, leur trio semblait chaque fois un peu plus efficace.
+
+## III. La valeur d’un nom
+
+— Celle-ci, non.
+
+Orven leva les yeux de son registre.
+
+— Pourquoi ?
+
+Hasol posa délicatement la rune sur un tissu propre.
+
+— Son propriétaire souhaite surtout améliorer sa mobilité. Mais si je réalise les améliorations restantes, les renforcements qu’il recherche ne seront pas suffisants pour justifier la dépense.
+
+Le maître artisan examina les notes qu’elle lui tendait.
+
+— Et les autres caractéristiques ?
+
+— Correctes. Certaines sont même intéressantes. Seulement, elles ne correspondent pas aux besoins de ce chasseur.
+
+Orven contempla la pierre.
+
+— Alors que proposes-tu ?
+
+Hasol réfléchit.
+
+— Je lui conseillerais de la conserver pour un autre équipement. Ou de chercher une rune mieux adaptée avant d’investir davantage.
+
+— Et s’il insiste ?
+
+Elle releva les yeux.
+
+— Nous lui expliquerons le coût et les limites du résultat. Ensuite, ce sera à lui de décider.
+
+Orven sourit.
+
+— Bien.
+
+Hasol sentit un petit soulagement.
+
+Depuis l’obtention de son Œil runique, les exercices de son maître avaient changé.
+
+Il ne lui demandait plus seulement d’identifier une bonne rune.
+
+Il voulait qu’elle explique pourquoi une pierre pouvait être intéressante pour un chasseur et inutile pour un autre.
+
+Il lui demandait d’évaluer les dépenses nécessaires.
+
+De prendre en compte les échecs.
+
+Et de se souvenir qu’un client ne possédait pas forcément les ressources permettant d’atteindre +15.
+
+Hasol avait découvert qu’une rune au résultat final exceptionnel pouvait parfois représenter un très mauvais investissement pour quelqu’un qui n’avait pas les moyens de l’améliorer.
+
+Son Œil ne supprimait aucune de ces difficultés.
+
+Il lui permettait simplement de savoir où il était raisonnable d’aller.
+
+Orven prit la fiche suivante.
+
+— Et celle-là ?
+
+Hasol examina la rune.
+
+Sa lumière turquoise apparut presque immédiatement.
+
+Elle parcourut les informations de sa projection, puis compara les caractéristiques finales avec les besoins inscrits sur le registre.
+
+Un sourire se dessina sur son visage.
+
+— Celle-ci, en revanche, est beaucoup plus intéressante.
+
+Orven lui tendit sa plume.
+
+— Alors explique-moi pourquoi.
+
+Le travail de Hasol commença à attirer davantage l’attention.
+
+Pas au point de remplir son atelier de nobles ou de marchands fortunés.
+
+Mais certains chasseurs du Griffon d’Argent revenaient désormais la consulter après une première commande.
+
+D’autres demandaient à Orven si son apprentie pouvait examiner leurs runes.
+
+Hasol prenait ces demandes très au sérieux.
+
+Elle passait parfois plusieurs heures sur un dossier, même lorsqu’elle savait qu’elle n’aurait pas grand-chose à gagner.
+
+Un matin, Orven découvrit qu’elle avait terminé une analyse particulièrement détaillée.
+
+Il parcourut les pages.
+
+Puis releva les yeux.
+
+— Combien vas-tu facturer ce travail ?
+
+Hasol cligna des yeux.
+
+— L’analyse ?
+
+— Oui.
+
+Elle réfléchit.
+
+— Je ne sais pas encore.
+
+Le maître artisan ferma lentement son registre.
+
+— Hasol.
+
+Elle reconnut immédiatement son ton.
+
+— Oui, maître ?
+
+— Tu as passé presque une journée entière à examiner ces pierres.
+
+— Je sais.
+
+— Tu as comparé leurs caractéristiques, étudié les améliorations possibles et préparé des recommandations.
+
+Elle acquiesça.
+
+— Oui.
+
+Orven posa un doigt sur le dossier.
+
+— Alors ce travail a une valeur.
+
+Hasol regarda les feuilles.
+
+— Même si je conseille au client de ne pas améliorer sa rune ?
+
+— Surtout dans ce cas.
+
+Il sourit.
+
+— Si ton travail lui permet d’éviter une dépense inutile, tu lui rends un véritable service.
+
+Hasol resta silencieuse quelques secondes.
+
+Puis acquiesça lentement.
+
+Elle n’avait jamais envisagé les choses de cette manière.
+
+Jusqu’à présent, elle associait surtout sa rémunération à une amélioration réussie.
+
+Une rune remise au client.
+
+Un résultat visible.
+
+Un travail terminé.
+
+Mais ce qu’elle faisait maintenant pouvait avoir de la valeur avant même qu’une seule pierre de mana soit consommée.
+
+Orven lui tendit une feuille vierge.
+
+— Alors recommence ton devis.
+
+Hasol sourit.
+
+— Oui, maître !
+
+Quelques semaines plus tard, un chasseur revint à l’atelier avec une rune récemment acquise.
+
+Hasol le reconnut immédiatement.
+
+Elle lui avait précédemment déconseillé de poursuivre l’amélioration d’une pierre dont le résultat final aurait été peu adapté à son équipement.
+
+Il avait longuement hésité avant de suivre son avis.
+
+Cette fois, il posa une autre rune sur son établi.
+
+— Mademoiselle Shun ?
+
+Hasol leva les yeux.
+
+— Bonjour.
+
+L’homme sourit.
+
+— Je crois avoir trouvé ce que je cherchais.
+
+Elle examina la pierre.
+
+Sa principale était intéressante.
+
+Ses secondaires également.
+
+Elle activa son Œil.
+
+La projection confirma rapidement son impression.
+
+— Elle possède une belle progression.
+
+Le chasseur parut soulagé.
+
+— Alors j’aimerais vous en confier l’amélioration.
+
+Hasol releva les yeux.
+
+— À moi ?
+
+— Oui.
+
+Elle resta immobile.
+
+— Personnellement ?
+
+L’homme sembla surpris.
+
+— Bien sûr.
+
+Hasol regarda Orven.
+
+Son maître travaillait quelques pas plus loin.
+
+Il n’avait pas levé les yeux.
+
+Mais elle remarqua le petit sourire au coin de ses lèvres.
+
+Elle se retourna vers le client.
+
+— Dans ce cas, nous allons commencer par établir un devis.
+
+Ils discutèrent longtemps.
+
+Des ressources nécessaires.
+
+Du budget disponible.
+
+Et du niveau d’amélioration auquel il serait raisonnable de s’arrêter si les tentatives devenaient trop coûteuses.
+
+Hasol n’oublia pas de prévoir les échecs.
+
+Elle précisa également que les conclusions de son analyse concernaient les améliorations qu’elle réaliserait personnellement.
+
+Le chasseur accepta.
+
+Lorsqu’il repartit, elle resta quelques instants immobile derrière son établi.
+
+Puis se tourna vers Orven.
+
+— Maître…
+
+— Oui ?
+
+— Il est revenu pour moi.
+
+Orven posa son outil.
+
+— Je l’ai entendu.
+
+— Il aurait pu choisir quelqu’un d’autre.
+
+— Certainement.
+
+Hasol contempla la porte.
+
+Elle avait déjà reçu des paiements.
+
+Elle avait réalisé de belles améliorations.
+
+Mais cette fois, un client était revenu parce qu’il avait confiance en son jugement.
+
+Cette sensation était nouvelle.
+
+Et merveilleuse.
+
+Orven l’observa.
+
+Puis demanda :
+
+— Tu sais ce que cela signifie ?
+
+Hasol réfléchit.
+
+— Que je commence à avoir de bons clients ?
+
+Il eut un petit rire.
+
+— Aussi.
+
+Puis il reprit :
+
+— Que tu commences à construire ta réputation.
+
+Hasol baissa les yeux vers son registre.
+
+Elle n’était pas devenue une artisane célèbre.
+
+Elle ne possédait pas une fortune.
+
+Et elle avait encore beaucoup à apprendre.
+
+Mais quelques personnes commençaient à rechercher personnellement son travail.
+
+C’était peu.
+
+Et c’était immense.
+
+Ce soir-là, Hasol alla trouver son père.
+
+Armin Shun travaillait dans son bureau, derrière une grande table couverte de registres et de correspondances commerciales.
+
+Il portait une tenue d’affaires soigneusement ajustée. Plusieurs lettres reposaient près d’un coffret contenant ses sceaux.
+
+Lorsqu’elle frappa, il leva les yeux.
+
+— Entre.
+
+Hasol ouvrit la porte.
+
+— Bonsoir, papa.
+
+Un sourire apparut sur son visage.
+
+— Bonsoir, ma princesse.
+
+Elle sentit une chaleur familière dans sa poitrine.
+
+Ce surnom lui rappelait les années où elle courait le rejoindre pour lui montrer chacune de ses découvertes.
+
+— Tu as un moment ?
+
+— Bien sûr.
+
+Il repoussa son registre.
+
+— Qu’est-ce qui t’amène ?
+
+Hasol lui tendit une feuille.
+
+— J’aurais besoin de ton avis sur un contrat.
+
+Armin examina le document.
+
+Son regard parcourut les premières lignes.
+
+Puis il désigna une clause.
+
+— Pourquoi acceptes-tu que ton paiement dépende entièrement de la remise de la rune terminée ?
+
+Hasol pencha la tête.
+
+— Parce que le client doit pouvoir vérifier le résultat.
+
+— Pour l’amélioration, certainement.
+
+Il posa un doigt sur le début du contrat.
+
+— Mais tu as déjà réalisé une analyse préalable. Ce service devrait être rémunéré indépendamment de la suite.
+
+Hasol réfléchit.
+
+— Même si le client renonce finalement ?
+
+— Surtout dans ce cas.
+
+Armin prit une plume.
+
+— Sinon, tu risques de passer plusieurs journées à fournir des conseils sans être payée pour ton travail.
+
+Hasol contempla la feuille.
+
+— Maître Orven m’a dit presque la même chose.
+
+Son père sourit.
+
+— Alors il t’enseigne bien son métier.
+
+Elle s’installa en face de lui.
+
+Ils passèrent une bonne partie de la soirée à revoir le contrat.
+
+Armin lui expliqua plusieurs subtilités des acomptes, des délais et des engagements commerciaux.
+
+Hasol posait tant de questions qu’il finit par rire.
+
+— Tu veux devenir marchande maintenant ?
+
+Elle secoua vivement la tête.
+
+— Non !
+
+Puis elle réfléchit.
+
+— Mais une artisane qui comprend ses contrats, ce serait utile.
+
+— Très utile.
+
+Son père lui rendit le document.
+
+— Tu apprends vite.
+
+Hasol sentit ses joues chauffer.
+
+— Merci, papa.
+
+Armin retourna la dernière page.
+
+Son regard s’arrêta sur le sceau du Griffon d’Argent.
+
+Son sourire disparut.
+
+Hasol le remarqua immédiatement.
+
+Elle aurait voulu lui demander pourquoi ce nom semblait toujours le contrarier.
+
+Mais la soirée avait été si agréable qu’elle n’osa pas.
+
+Elle préféra reprendre le contrat.
+
+— Je vais demander qu’on ajoute cette clause.
+
+Armin acquiesça.
+
+— C’est une bonne décision.
+
+Hasol se leva.
+
+— Bonne nuit, papa.
+
+Il lui adressa un dernier sourire.
+
+— Bonne nuit, ma princesse.
+
+Elle quitta le bureau avec le sentiment que quelque chose s’était enfin rapproché entre eux.
+
+Ce soir-là, elle s’endormit heureuse.
+
+## IV. La quatrième place
+
+— J’en ai assez.
+
+Hasol releva les yeux de son assiette.
+
+Yoon venait de déposer son registre sur la table d’une petite auberge proche de l’Académie.
+
+La Sage portait une tenue de ville confortable, mais ses cheveux étaient encore attachés comme pendant ses exercices.
+
+— Assez de quoi ? demanda Hasol.
+
+— Des simulations.
+
+Hasol retint un sourire.
+
+— Tu m’as dit qu’elles se passaient bien.
+
+— Elles se passent très bien !
+
+Yoon leva les yeux au ciel.
+
+— Mais cela n’empêche pas les instructeurs de nous demander de recommencer les mêmes manœuvres dix fois.
+
+— Seulement dix ?
+
+— Hasol.
+
+La jeune Arcaniste éclata de rire.
+
+Yoon finit par sourire elle aussi.
+
+Puis son expression redevint sérieuse.
+
+Elle contempla son registre.
+
+— J’ai hâte que ce soit terminé.
+
+Hasol acquiesça.
+
+— Tu y es presque.
+
+— Je sais.
+
+La Sage hésita.
+
+Puis demanda :
+
+— Tu chasses toujours autant avec Ray ?
+
+Hasol posa sa fourchette.
+
+— Oui. Nous avons trouvé quelques secteurs intéressants.
+
+Yoon baissa légèrement les yeux.
+
+— Je vois.
+
+Hasol remarqua le changement dans sa voix.
+
+— Qu’est-ce qu’il y a ?
+
+Son amie joua un instant avec le bord de sa serviette.
+
+— Parfois, j’ai l’impression que vous avancez pendant que je reste coincée à l’Académie.
+
+Hasol se figea.
+
+— Yoon…
+
+La Sage poursuivit :
+
+— Vous avez vos habitudes. Vos stratégies. Et moi, je ne peux vous rejoindre que les week-ends ou pendant les vacances.
+
+Hasol réfléchit.
+
+Puis posa doucement une main sur la sienne.
+
+— Tu sais ce que Ray et moi avons découvert ?
+
+Yoon releva les yeux.
+
+— Quoi ?
+
+— Que nous sommes beaucoup moins efficaces sans toi.
+
+La Sage sembla surprise.
+
+Hasol sourit.
+
+— C’est vrai.
+
+Elle poursuivit :
+
+— Nous avons appris à mieux combattre ensemble, mais nous n’avons ni tes Entraves, ni tes soins, ni ta manière de comprendre les déplacements.
+
+Elle marqua une pause.
+
+— Et surtout, il nous manque quelqu’un pour nous empêcher de faire des bêtises.
+
+Yoon éclata de rire.
+
+— Ça, je veux bien le croire.
+
+Hasol rit avec elle.
+
+Puis reprit plus doucement :
+
+— Tu n’as pas à courir pour rattraper notre équipe. Tu en fais déjà partie.
+
+Yoon resta silencieuse.
+
+Puis lui adressa un sourire.
+
+— Merci.
+
+Hasol serra brièvement sa main.
+
+— Termine tes études. Nous t’attendons.
+
+Le jour de la cérémonie arriva enfin.
+
+Hasol avait choisi une jolie tenue de ville et pris soin d’attacher ses longs cheveux brun sombre.
+
+Ray l’accompagnait.
+
+Il portait des vêtements ordinaires, plus élégants que sa robe de mage habituelle.
+
+Lorsqu’ils arrivèrent devant l’Académie, plusieurs groupes d’étudiants discutaient sur les marches.
+
+Hasol reconnut quelques visages.
+
+Certains la regardèrent avec curiosité.
+
+D’autres détournèrent les yeux.
+
+Elle n’éprouva pas le besoin de leur parler.
+
+Elle était venue pour Yoon.
+
+Une légère agitation se produisit près de l’entrée.
+
+Plusieurs étudiants se retournèrent.
+
+Puis Hasol aperçut Zio Notos.
+
+Il ne portait pas son armure.
+
+Ses vêtements ordinaires ne parvenaient pourtant pas à dissimuler sa silhouette athlétique ni cette présence tranquille qu’elle avait remarquée dès leur première rencontre.
+
+Quelques étudiants le saluèrent en passant.
+
+Il leur répondit poliment avant de rejoindre Hasol.
+
+— Bonjour.
+
+Elle lui rendit son sourire.
+
+— Bonjour, Zio.
+
+Son regard passa vers Ray.
+
+Les deux hommes échangèrent un salut.
+
+Hasol sentit une brève gêne.
+
+Zio connaissait parfaitement le comportement de Ray à l’Académie.
+
+Il avait été celui qui avait récupéré son carnet lorsque plusieurs élèves s’en étaient emparés.
+
+Mais il ne fit aucune remarque.
+
+— Yoon vous a également demandé de venir en avance ? demanda-t-il.
+
+Hasol acquiesça.
+
+— Elle nous a surtout interdit d’arriver en retard.
+
+Zio eut un petit rire.
+
+— Ça lui ressemble.
+
+Ils entrèrent ensemble.
+
+Lorsque le nom de Yoon retentit dans la grande salle, Hasol applaudit avec tant d’enthousiasme que plusieurs personnes se retournèrent.
+
+La jeune Sage monta recevoir son attestation.
+
+Ses cheveux violets aux reflets rosés avaient été soigneusement coiffés pour l’occasion.
+
+Hasol se leva presque de son siège.
+
+— YOON !
+
+Ray sursauta.
+
+Zio éclata de rire.
+
+Sur l’estrade, Yoon rougit légèrement.
+
+Puis elle adressa un grand sourire à son amie.
+
+Hasol agita la main.
+
+Elle se rassit seulement lorsque Ray lui fit remarquer que plusieurs personnes derrière elle ne pouvaient plus voir.
+
+La cérémonie se poursuivit.
+
+Pour une fois, Hasol ne se plaignit pas des discours trop longs.
+
+Elle était trop heureuse.
+
+Yoon avait terminé.
+
+Les dernières évaluations.
+
+Les longues journées d’entraînement.
+
+Les périodes pendant lesquelles elles ne pouvaient presque pas se retrouver.
+
+Tout cela appartenait désormais au passé.
+
+À la sortie, Yoon se précipita vers eux.
+
+— Alors ?
+
+Hasol ouvrit de grands yeux.
+
+— Alors quoi ?
+
+— Comment vous m’avez trouvée ?
+
+Hasol prit un air très sérieux.
+
+— Acceptable.
+
+Yoon se figea.
+
+Puis lui donna une petite tape sur le bras.
+
+— Hasol !
+
+La jeune femme éclata de rire.
+
+— Tu étais formidable !
+
+Yoon la serra immédiatement dans ses bras.
+
+Puis elle se tourna vers Zio.
+
+Son frère lui ouvrit les bras.
+
+— Félicitations.
+
+Elle le serra longuement contre elle.
+
+— Merci.
+
+Il lui ébouriffa légèrement les cheveux.
+
+— Tu as bien travaillé.
+
+— Je ne suis plus une petite fille !
+
+Zio sourit.
+
+— Je n’ai jamais dit le contraire.
+
+Hasol rit en les regardant.
+
+Un peu plus tard, ils s’éloignèrent de la foule pour rejoindre un jardin plus calme.
+
+Yoon s’installa sur le rebord d’une fontaine.
+
+Puis leva les yeux vers son frère.
+
+— Bon.
+
+Zio pencha la tête.
+
+— Bon ?
+
+Elle croisa les bras.
+
+— Maintenant, tu peux leur en parler.
+
+Hasol regarda alternativement le frère et la sœur.
+
+— Nous parler de quoi ?
+
+Yoon sourit mystérieusement.
+
+Zio prit une inspiration.
+
+Puis se tourna vers Hasol et Ray.
+
+— J’aimerais vous proposer quelque chose.
+
+Hasol se redressa.
+
+— Je t’écoute.
+
+— Mes engagements auprès de mon ancienne équipe sont maintenant terminés.
+
+La jeune femme cligna des yeux.
+
+Zio poursuivit :
+
+— Et puisque Yoon a achevé sa formation, j’aimerais rejoindre votre groupe.
+
+Un silence suivit.
+
+Hasol le contempla.
+
+— Tu veux…
+
+Elle s’interrompit.
+
+Puis recommença :
+
+— Tu veux rejoindre notre équipe ?
+
+Zio acquiesça.
+
+— Si vous acceptez.
+
+Yoon ne parvenait manifestement plus à contenir son sourire.
+
+Hasol regarda de nouveau le Gardien.
+
+— Mais tu es beaucoup plus expérimenté que nous !
+
+Zio eut un petit rire.
+
+— Cela ne m’empêche pas de vouloir combattre avec vous.
+
+Ray réfléchit.
+
+— Tu sais que nous apprenons encore à travailler ensemble ?
+
+— Oui.
+
+— Et que nous faisons encore des erreurs de coordination ?
+
+— Je m’en doute.
+
+Zio sourit.
+
+— Toutes les équipes doivent apprendre à se connaître.
+
+Hasol baissa légèrement les yeux.
+
+Elle se souvenait du jour où Zio les avait sauvées dans la forêt.
+
+De son grand bouclier.
+
+De son calme.
+
+Et de la manière dont il leur avait appris à anticiper les dangers au lieu de simplement réagir aux attaques.
+
+L’idée de pouvoir continuer à apprendre à ses côtés la réjouissait.
+
+Mais elle avait une inquiétude.
+
+— Zio ?
+
+— Oui ?
+
+Hasol prit une inspiration.
+
+— Si tu nous rejoins, je ne veux pas que tu sois obligé de prendre toutes les décisions simplement parce que tu es le plus expérimenté.
+
+Yoon sourit immédiatement.
+
+Zio resta silencieux un instant.
+
+Puis répondit :
+
+— Ce n’était pas mon intention.
+
+Hasol poursuivit :
+
+— J’aimerais que nous puissions discuter de nos stratégies. Même quand je ne suis pas d’accord avec toi.
+
+Le Gardien sourit.
+
+— C’est justement ce que j’attends de mes compagnons.
+
+Hasol sentit sa gêne disparaître.
+
+— Alors je suis d’accord !
+
+Yoon leva les bras.
+
+— Moi aussi !
+
+Ray acquiesça.
+
+— Je n’ai aucune objection.
+
+Zio les contempla.
+
+Puis un sourire chaleureux apparut sur son visage.
+
+— Merci.
+
+Au Griffon d’Argent, l’employée chargée des inscriptions examina leurs dossiers.
+
+Elle ajouta officiellement le nom de Zio à leur registre.
+
+Puis confirma la nouvelle composition.
+
+<div class="system-window lit-window" data-window-id="104" data-window-type="equipe">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>ÉQUIPE ACTUALISÉE</div>
+  <p><strong>Composition :</strong> Officielle</p>
+  <p><strong>Hasol Shun :</strong> Arcaniste runique, <span class="lit-badge lit-badge--legendary">légendaire</span> — 20 points</p>
+  <p><strong>Yoon Notos :</strong> Sage runique, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
+  <p><strong>Ray Corvus :</strong> Mage de feu, <span class="lit-badge lit-badge--common">commun</span> — 5 points</p>
+  <p><strong>Zio Notos :</strong> Gardien, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
+  <p class="lit-window__row"><strong>Membres :</strong> <span class="lit-window__value">4 / 5</span></p>
+  <p class="lit-window__row"><strong>Points :</strong> <span class="lit-window__value">45 / 50</span></p>
+</div>
+
+Hasol contempla les quatre noms.
+
+Un sourire grandit sur son visage.
+
+— Nous sommes vraiment quatre…
+
+Yoon lui donna un petit coup de coude.
+
+— Tu réalises ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Elle releva les yeux vers ses compagnons.
+
+Ray discutait déjà avec Zio des formations possibles.
+
+Yoon observait le registre avec fierté.
+
+Et elle-même se tenait au milieu d’eux.
+
+Il fut un temps où elle avait eu peur de ne jamais trouver trois personnes disposées à l’accompagner dans un donjon.
+
+Aujourd’hui, elle n’avait plus besoin de les chercher.
+
+Elle devait simplement apprendre à avancer avec elles.
+
+Leur premier entraînement à quatre eut lieu quelques jours plus tard.
+
+Zio avait revêtu son armure complète.
+
+Son grand bouclier formait une protection rassurante entre ses compagnons et les créatures qu’ils affrontaient.
+
+Mais Hasol découvrit rapidement qu’avoir un Gardien expérimenté ne rendait pas leur coordination automatique.
+
+Lors du premier combat, elle tenta de contourner un adversaire au moment même où Zio utilisait Heurt du Gardien.
+
+La créature fut repoussée.
+
+Hasol dut interrompre son attaque pour éviter de se retrouver dans la trajectoire du bouclier.
+
+— Pardon ! lança-t-elle.
+
+Zio retrouva immédiatement son équilibre.
+
+— Ce n’est rien. Reprends sur la droite.
+
+Ray attendit qu’elle se dégage, puis lança une Boule de feu sur une autre cible.
+
+Yoon ralentit les dernières créatures avec son Domaine.
+
+Le combat s’acheva rapidement.
+
+Mais Zio fit signe à ses compagnons de s’arrêter.
+
+— Nous devons revoir nos positions.
+
+Hasol acquiesça.
+
+— Je me suis trop approchée de ton bouclier.
+
+— Oui. Mais j’aurais aussi dû annoncer mon mouvement.
+
+Elle releva les yeux.
+
+Zio poursuivit :
+
+— Je ne connais pas encore suffisamment tes habitudes.
+
+Hasol sourit légèrement.
+
+— Tu aurais pu simplement me demander de rester derrière toi.
+
+Il eut un petit rire.
+
+— Tu aurais accepté ?
+
+Elle réfléchit.
+
+Puis grimaça.
+
+— Probablement pas.
+
+Yoon éclata de rire.
+
+Zio sourit.
+
+— Alors nous allons trouver une manière de combattre qui nous convienne à tous les deux.
+
+Ils recommencèrent.
+
+Puis encore une fois.
+
+À la fin de l’après-midi, Hasol parvenait déjà à profiter des ouvertures créées par le bouclier de Zio sans gêner ses déplacements.
+
+Lorsqu’ils quittèrent le terrain, elle marcha quelques instants à ses côtés.
+
+— Zio ?
+
+Il tourna la tête.
+
+— Oui ?
+
+Elle hésita.
+
+— Est-ce que ça te dérange vraiment si je discute tes stratégies ?
+
+Zio la contempla avec surprise.
+
+Puis sourit.
+
+— Pas du tout.
+
+— Même quand j’ai tort ?
+
+— Surtout quand tu as tort. Ce sera plus facile de t’expliquer pourquoi.
+
+Hasol ouvrit de grands yeux.
+
+Puis lui donna une petite tape sur le bras.
+
+— Tu es terrible !
+
+Zio rit.
+
+Elle sourit avec lui.
+
+Pour la première fois, elle ne voyait plus seulement le Gardien qui l’avait autrefois défendue à l’Académie.
+
+Elle commençait à découvrir l’homme avec lequel elle allait désormais combattre.
+
+## V. Les choses ordinaires
+
+Le soir de leur premier entraînement à quatre, Hasol rentra plus tard qu’elle ne l’avait prévu.
+
+Elle s’attendait à trouver la salle à manger presque vide.
+
+Mais lorsqu’elle franchit la porte, ses deux parents étaient encore à table.
+
+Iseria portait une longue robe de style elfique, confectionnée dans une étoffe précieuse aux broderies délicates.
+
+Armin, toujours vêtu de ses habits d’affaires, venait de poser un registre à côté de son assiette.
+
+Hasol s’arrêta sur le seuil.
+
+— Je ne suis pas trop en retard ?
+
+Sa mère releva les yeux.
+
+— Pas du tout, ma chérie. Nous allions commencer.
+
+— Tant mieux !
+
+Hasol rejoignit sa place.
+
+Son père la contempla.
+
+— Tu reviens de la chasse ?
+
+— D’un entraînement.
+
+Elle sourit.
+
+— Nous étions quatre !
+
+Armin leva légèrement la tête.
+
+— Quatre ?
+
+Hasol acquiesça avec enthousiasme.
+
+— Zio nous a rejoints !
+
+Iseria sourit immédiatement.
+
+— Le frère de Yoon ?
+
+— Oui !
+
+Hasol leur raconta la cérémonie de fin d’études, l’inscription de Zio au Griffon d’Argent et leur première séance d’entraînement ensemble.
+
+Sa mère l’écoutait avec intérêt.
+
+Armin sembla plus attentif lorsqu’elle expliqua que Zio combattait avec un grand bouclier.
+
+— C’est un Gardien expérimenté, si je me souviens bien.
+
+Hasol acquiesça.
+
+— Très expérimenté !
+
+Elle réfléchit.
+
+— Et beaucoup plus patient que je l’imaginais.
+
+Iseria eut un petit rire.
+
+— Parce que tu as discuté ses décisions ?
+
+— Un peu.
+
+Armin sourit.
+
+— Un peu ?
+
+Hasol baissa les yeux.
+
+— Plusieurs fois.
+
+Son père éclata de rire.
+
+Elle releva la tête avec une expression indignée.
+
+— Papa !
+
+— Je n’ai rien dit, ma princesse.
+
+Mais il souriait encore.
+
+Hasol sentit une chaleur agréable lui monter dans la poitrine.
+
+Cela faisait longtemps qu’elle n’avait pas entendu son père rire aussi naturellement lorsqu’elle racontait ses entraînements.
+
+Elle poursuivit avec enthousiasme.
+
+Elle leur expliqua comment Zio avait dû modifier sa manière de manier son bouclier pour lui laisser davantage d’espace.
+
+Comment Ray apprenait à prévoir les déplacements de ses compagnons.
+
+Et comment Yoon semblait désormais considérer que son rôle consistait aussi à empêcher tout le monde de prendre des décisions absurdes.
+
+Iseria éclata de rire.
+
+— Je comprends de mieux en mieux pourquoi vous vous entendez si bien.
+
+— Maman !
+
+Armin sourit.
+
+Puis demanda :
+
+— Et toi, qu’apportes-tu à cette équipe ?
+
+Hasol resta silencieuse quelques instants.
+
+— Je combats au corps à corps, répondit-elle finalement.
+
+Elle réfléchit.
+
+— Je peux aussi imprégner nos armes, examiner nos runes et nous aider à préparer nos expéditions.
+
+Armin acquiesça.
+
+— Ce sont des qualités utiles.
+
+Hasol releva les yeux.
+
+Son père poursuivit :
+
+— Mais j’imagine que tu apprends également autre chose avec eux.
+
+Elle hésita.
+
+Puis sourit.
+
+— À écouter.
+
+Iseria leva un sourcil.
+
+— Vraiment ?
+
+Hasol ouvrit la bouche.
+
+Puis se mit à rire.
+
+— J’essaie !
+
+Armin rit avec elle.
+
+— C’est déjà un bon début.
+
+Après le repas, Hasol resta quelques minutes pour aider sa mère.
+
+Armin se leva pour rejoindre son bureau.
+
+Il s’arrêta pourtant près de la porte.
+
+— Hasol ?
+
+Elle tourna la tête.
+
+— Oui ?
+
+Il hésita.
+
+Puis demanda :
+
+— Tu te souviens de la petite épée que je t’avais offerte lorsque tu avais dix ans ?
+
+Hasol sourit immédiatement.
+
+— Bien sûr !
+
+Elle reposa le plat qu’elle tenait.
+
+— Je l’ai encore.
+
+Son père sembla surpris.
+
+— Vraiment ?
+
+— Évidemment !
+
+Elle eut un rire incrédule.
+
+— Tu croyais que j’allais m’en débarrasser ?
+
+Armin sourit.
+
+— Tu possèdes maintenant des armes beaucoup plus intéressantes.
+
+Hasol secoua la tête.
+
+— Ce n’est pas pareil.
+
+Elle se souvenait parfaitement du jour où il lui avait offert cette première épée d’entraînement.
+
+Elle avait immédiatement voulu lui montrer tous les mouvements appris avec son instructeur.
+
+Puis elle avait trébuché.
+
+Et son père l’avait aidée à se relever.
+
+— Tu avais ri quand je suis tombée, lui rappela-t-elle.
+
+Armin eut un petit rire.
+
+— Tu t’étais relevée avec une expression tellement sérieuse…
+
+— Parce que je voulais recommencer !
+
+— Je sais.
+
+Il la contempla quelques secondes.
+
+Puis ajouta :
+
+— Tu as toujours été déterminée.
+
+Hasol sourit.
+
+— C’est toi qui m’as appris à ne pas abandonner.
+
+Une expression difficile à déchiffrer traversa le visage de son père.
+
+Il baissa légèrement les yeux.
+
+Puis lui adressa un sourire.
+
+— J’espère t’avoir aussi appris à réfléchir avant de te lancer tête baissée.
+
+Hasol éclata de rire.
+
+— Ça, Yoon s’en occupe maintenant.
+
+Armin rit avec elle.
+
+Puis il lui souhaita bonne nuit.
+
+Hasol le regarda quitter la pièce.
+
+Pendant quelques instants, elle resta immobile, un sourire aux lèvres.
+
+Iseria s’approcha.
+
+— Tu es heureuse ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Elle regarda la porte.
+
+— J’ai l’impression que papa commence enfin à accepter ma vie de chasseuse.
+
+Sa mère lui caressa doucement les cheveux.
+
+— Il t’aime beaucoup.
+
+Hasol sourit.
+
+— Je sais.
+
+Elle le savait vraiment.
+
+Et ce soir-là, cette certitude lui suffisait.
+
+## VI. Ce qu’il refusait de dire
+
+La dispute éclata deux jours plus tard.
+
+Hasol rentrait du Griffon d’Argent, où elle avait terminé une commande particulièrement délicate.
+
+Le client était satisfait.
+
+Orven également.
+
+Elle avait même reçu une nouvelle demande d’analyse pour la semaine suivante.
+
+Elle entra donc dans la maison avec l’intention de raconter sa journée à ses parents.
+
+Mais lorsqu’elle atteignit le salon, elle découvrit Armin debout près de la fenêtre.
+
+Plusieurs documents reposaient sur une table.
+
+Il se retourna.
+
+— Hasol.
+
+Elle sourit.
+
+— Bonsoir, papa.
+
+Il ne lui rendit pas son sourire.
+
+— Nous devons parler.
+
+Hasol ralentit.
+
+— D’accord.
+
+Elle posa sa sacoche.
+
+— Qu’est-ce qu’il y a ?
+
+Armin désigna les documents.
+
+— J’ai appris que tu acceptais désormais des commandes personnelles pour le Griffon d’Argent.
+
+Hasol sentit sa bonne humeur s’effacer.
+
+— Oui.
+
+Elle hésita.
+
+Puis ajouta :
+
+— Je t’en ai parlé la semaine dernière.
+
+— Je sais.
+
+Armin prit une inspiration.
+
+— Je veux que tu cesses de travailler pour cette guilde.
+
+Hasol resta immobile.
+
+Elle le regarda.
+
+Puis les documents.
+
+— Quoi ?
+
+— Je veux que tu mettes fin à ta collaboration avec le Griffon d’Argent.
+
+Le silence tomba.
+
+Hasol sentit une inquiétude désagréable lui serrer la poitrine.
+
+— Pourquoi ?
+
+Armin détourna brièvement les yeux.
+
+— Parce que je te le demande.
+
+Elle fronça les sourcils.
+
+— Ce n’est pas une raison.
+
+Son père se raidit.
+
+— Hasol.
+
+Elle fit un pas vers lui.
+
+— Papa, je travaille avec eux depuis des mois.
+
+Il ne répondit pas.
+
+— Maître Orven m’a recommandée. Ils m’ont confié des commandes alors que je commençais à peine à travailler pour de vrais chasseurs.
+
+Elle serra les doigts.
+
+— J’ai passé tellement de temps à apprendre.
+
+Armin baissa les yeux vers les documents.
+
+— Je le sais.
+
+— Alors pourquoi veux-tu que j’arrête ?
+
+Il garda le silence.
+
+Hasol sentit sa frustration grandir.
+
+— Est-ce qu’il s’est passé quelque chose ?
+
+Son père releva les yeux.
+
+— Comment ça ?
+
+— Est-ce que la guilde s’est plainte de mon travail ?
+
+— Non.
+
+— Est-ce que maître Orven a un problème avec eux ?
+
+— Pas à ma connaissance.
+
+Elle écarta les mains.
+
+— Alors quoi ?
+
+Armin passa une main sur son visage.
+
+— Tu pourrais travailler ailleurs.
+
+Hasol le contempla avec incrédulité.
+
+— Ailleurs ?
+
+— Oui.
+
+— Mais je commence à peine à avoir des clients qui demandent personnellement mon travail !
+
+Sa voix monta malgré elle.
+
+— Je ne peux pas simplement abandonner tout ce que j’ai construit !
+
+— Tu ne perdras pas tes compétences en changeant de clients.
+
+Hasol resta bouche bée.
+
+Puis secoua la tête.
+
+— Ce n’est pas ce que je veux dire.
+
+Elle chercha ses mots.
+
+— Les gens commencent à me faire confiance. J’ai enfin l’impression d’être à ma place.
+
+Armin détourna les yeux.
+
+— Je peux t’aider à trouver d’autres contrats.
+
+Hasol sentit sa colère se réveiller.
+
+— Tu veux donc que j’abandonne le travail que j’ai obtenu moi-même pour que tu m’en trouves un autre ?
+
+— Ce n’est pas ce que j’ai dit.
+
+— C’est pourtant ce que tu proposes !
+
+Son père inspira profondément.
+
+— Hasol, écoute-moi.
+
+— Je t’écoute, papa !
+
+Elle tenta de maîtriser sa voix.
+
+— Je te demande simplement de m’expliquer.
+
+Armin resta silencieux.
+
+Hasol attendit.
+
+Il finit par répondre :
+
+— Il y a des choses que tu ne connais pas.
+
+Elle se redressa.
+
+— Quelles choses ?
+
+— Je ne souhaite pas en parler.
+
+Elle sentit son estomac se contracter.
+
+— Mais tu veux que je quitte mon travail ?
+
+— Oui.
+
+— Sans savoir pourquoi ?
+
+Son père ne répondit pas.
+
+Hasol sentit une boule se former dans sa gorge.
+
+— Comment est-ce que je suis censée accepter ça ?
+
+Armin posa les mains sur le dossier d’un fauteuil.
+
+— Je suis ton père, Hasol.
+
+Elle ressentit une douleur sourde dans la poitrine.
+
+— Je sais.
+
+— Alors je te demande de me faire confiance.
+
+Hasol baissa les yeux.
+
+Pendant une seconde, elle se revit enfant.
+
+Assise à côté de lui pendant qu’il lui expliquait les raretés des runes.
+
+Écoutant ses histoires de voyage.
+
+Convaincue qu’il connaissait les réponses à toutes ses questions.
+
+Puis elle pensa aux années passées à l’Académie.
+
+Aux regards déçus.
+
+Aux efforts qui semblaient ne jamais suffire.
+
+Et à ce travail qu’elle avait enfin commencé à construire par elle-même.
+
+Elle releva les yeux.
+
+— Je te fais confiance.
+
+Sa voix était plus basse.
+
+— Mais ça ne veut pas dire que je dois t’obéir sans comprendre.
+
+Armin se raidit.
+
+— Hasol.
+
+— Je ne suis plus une petite fille.
+
+Il détourna la tête.
+
+— Je le sais.
+
+— Alors parle-moi comme à une adulte.
+
+Le silence revint.
+
+Elle attendit encore.
+
+Mais son père ne répondit pas.
+
+Hasol sentit ses yeux la brûler.
+
+— Est-ce que tu as honte de moi ?
+
+Armin releva brusquement la tête.
+
+— Quoi ?
+
+Elle inspira difficilement.
+
+— Est-ce que tu as honte que ta fille travaille pour le Griffon d’Argent ?
+
+— Bien sûr que non !
+
+Sa réponse avait été immédiate.
+
+Hasol resta silencieuse.
+
+Armin s’approcha.
+
+— Je n’ai jamais eu honte de toi.
+
+Il la regarda droit dans les yeux.
+
+— Jamais.
+
+Pendant un instant, elle voulut croire que tout allait s’arranger.
+
+Que cette assurance suffirait à dissiper son inquiétude.
+
+Puis elle demanda :
+
+— Alors pourquoi ?
+
+Son père détourna le regard.
+
+Le silence qui suivit lui sembla interminable.
+
+Finalement, Armin répondit :
+
+— Je ne peux pas te donner l’explication que tu attends.
+
+Hasol recula légèrement.
+
+Elle ne comprenait pas.
+
+Et il ne voulait pas l’aider à comprendre.
+
+— Dans ce cas, murmura-t-elle, je ne peux pas accepter.
+
+Armin se redressa.
+
+— Hasol.
+
+Elle secoua la tête.
+
+— Non, papa.
+
+Ses yeux se remplirent de larmes.
+
+— Je ne vais pas quitter le Griffon d’Argent.
+
+Le visage de son père se durcit.
+
+— Je te demande de réfléchir sérieusement.
+
+— C’est ce que je fais !
+
+Sa voix se brisa.
+
+— J’ai passé trois années à l’Académie à essayer de prouver que je pouvais devenir quelqu’un !
+
+Elle essuya rapidement ses joues.
+
+— Pendant trois ans, j’ai eu l’impression d’être inutile.
+
+Armin sembla vouloir parler.
+
+Mais elle poursuivit :
+
+— Et maintenant que je commence enfin à réussir quelque chose, tu voudrais que j’abandonne sans même me donner une raison !
+
+— Je ne te demande pas d’abandonner l’artisanat.
+
+— Tu me demandes d’abandonner ce que j’ai construit !
+
+Son père inspira longuement.
+
+Puis déclara :
+
+— Je refuse que tu continues à travailler pour cette guilde.
+
+Hasol le contempla.
+
+Elle avait espéré qu’il comprendrait.
+
+Qu’il finirait par lui dire ce qui le préoccupait.
+
+Mais il invoquait simplement son autorité.
+
+Elle sentit une colère nouvelle remplacer ses larmes.
+
+— Alors je continuerai malgré ton refus.
+
+Un silence brutal tomba.
+
+Armin resta immobile.
+
+Puis demanda :
+
+— Tu es prête à désobéir à ton père pour le Griffon d’Argent ?
+
+Hasol secoua vivement la tête.
+
+— Ce n’est pas pour le Griffon d’Argent !
+
+Elle fit un pas en arrière.
+
+— C’est pour moi !
+
+Sa voix tremblait.
+
+— Pourquoi tu n’arrives pas à comprendre ?
+
+Son père resta silencieux.
+
+Hasol poursuivit, plus doucement :
+
+— Tu m’as toujours dit de travailler dur pour atteindre mes rêves.
+
+Elle baissa les yeux.
+
+— Et maintenant que je commence à y arriver, j’ai l’impression que tu voudrais que j’arrête.
+
+Armin serra les mâchoires.
+
+— Ce n’est pas ce que je veux.
+
+— Alors qu’est-ce que tu veux ?
+
+Il détourna la tête.
+
+— Que tu me fasses confiance.
+
+Hasol sentit quelque chose se briser en elle.
+
+— Tu n’as même pas assez confiance en moi pour me dire la vérité.
+
+Il releva les yeux.
+
+— Ce n’est pas juste.
+
+Elle acquiesça faiblement.
+
+— Peut-être.
+
+Puis elle prit sa sacoche.
+
+— Mais c’est ce que je ressens.
+
+Armin fit un pas vers elle.
+
+— Ma princesse…
+
+Le surnom lui fit plus mal que tout le reste.
+
+Hasol s’immobilisa.
+
+Pendant quelques secondes, elle ne put plus bouger.
+
+Elle aurait voulu qu’il la prenne dans ses bras.
+
+Qu’il lui explique.
+
+Qu’il lui dise qu’ils trouveraient une solution.
+
+Mais elle savait que, s’il répétait simplement son interdiction, elle se remettrait à crier.
+
+Elle secoua lentement la tête.
+
+— Je ne veux plus en parler.
+
+Puis elle quitta le salon.
+
+Dans sa chambre, Hasol posa sa sacoche au pied de son lit.
+
+Ses mains tremblaient.
+
+Elle s’assit.
+
+Puis les larmes vinrent.
+
+Elle repensa au dîner.
+
+Au sourire de son père.
+
+À cette conversation pendant laquelle il lui avait expliqué comment mieux rédiger ses contrats.
+
+Elle avait cru qu’il commençait à accepter sa vie.
+
+Et maintenant, elle ne comprenait plus rien.
+
+Elle aurait voulu retourner le voir.
+
+Lui demander une dernière fois ce qui le dérangeait tant.
+
+Mais elle avait peur de découvrir qu’il refuserait encore.
+
+Au bout d’un moment, des pas résonnèrent dans le couloir.
+
+Ils ralentirent devant sa porte.
+
+Hasol releva la tête.
+
+Elle attendit.
+
+Personne ne frappa.
+
+Puis les pas s’éloignèrent.
+
+Elle fixa longtemps la poignée.
+
+Une partie d’elle espéra qu’il reviendrait.
+
+Elle aurait peut-être ouvert.
+
+Elle aurait peut-être trouvé le courage de recommencer leur conversation.
+
+Mais le couloir resta silencieux.
+
+Hasol finit par se glisser sous sa couverture.
+
+Elle essuya ses joues.
+
+— Nous en reparlerons demain, murmura-t-elle.
+
+Elle le pensait sincèrement.
+
+Ils avaient encore tant de choses à se dire.
+
+Et, dans son esprit, ils avaient tout le temps nécessaire pour les dire.
+
+## VII. Le matin où elle resta à la fenêtre
+
+Le lendemain, Hasol descendit prendre son petit déjeuner plus tard que d’habitude.
+
+Elle avait mal dormi.
+
+Ses yeux la brûlaient encore, et elle avait passé une bonne partie de la nuit à refaire la dispute dans sa tête.
+
+Par moments, elle imaginait une réponse différente.
+
+Une phrase qui aurait permis à son père de comprendre.
+
+Puis elle se souvenait de son refus de s’expliquer.
+
+Et sa colère revenait.
+
+Iseria était déjà installée dans la salle à manger.
+
+Elle portait une robe de style elfique aux manches finement brodées, mais semblait moins attentive que d’ordinaire à ce qui l’entourait.
+
+Lorsqu’elle aperçut sa fille, elle lui adressa un sourire.
+
+— Bonjour, ma chérie.
+
+— Bonjour, maman.
+
+Hasol s’assit.
+
+Son regard se posa sur la chaise de son père.
+
+Vide.
+
+— Papa est déjà parti travailler ?
+
+Iseria acquiesça.
+
+— Il avait plusieurs préparatifs à terminer.
+
+Hasol prit sa tasse.
+
+Elle resta silencieuse.
+
+Sa mère l’observa quelques instants.
+
+— Tu veux me raconter ce qui s’est passé hier ?
+
+La jeune femme baissa les yeux.
+
+Elle savait qu’Iseria avait probablement entendu une partie de leur dispute.
+
+— Il veut que je quitte le Griffon d’Argent.
+
+Iseria ne répondit pas immédiatement.
+
+Hasol poursuivit :
+
+— Et il refuse toujours de me dire pourquoi.
+
+Sa voix se durcit légèrement.
+
+— Je ne comprends pas.
+
+Elle releva les yeux vers sa mère.
+
+— Tu trouves ça normal ?
+
+Iseria resta silencieuse un instant.
+
+Puis répondit doucement :
+
+— Je comprends que tu sois blessée.
+
+Hasol posa sa tasse.
+
+— J’ai travaillé tellement dur…
+
+— Je le sais.
+
+Sa mère prit sa main.
+
+— Et je suis fière de toi.
+
+Hasol sentit sa gorge se serrer.
+
+— Alors pourquoi papa ne peut-il pas simplement me laisser continuer ?
+
+Iseria baissa un instant les yeux.
+
+Puis elle releva la tête.
+
+— Je ne veux pas parler à sa place.
+
+Hasol détourna le regard.
+
+Ce n’était pas la réponse qu’elle espérait.
+
+Sa mère poursuivit :
+
+— Tu as le droit de vouloir comprendre. Et tu as aussi le droit de prendre des décisions sur ton travail.
+
+Hasol acquiesça lentement.
+
+Iseria lui caressa doucement la main.
+
+— Seulement, ne laisse pas votre colère décider de tout ce que vous vous direz ensuite.
+
+La jeune femme contempla sa tasse.
+
+Puis murmura :
+
+— Je sais.
+
+Elle prit une inspiration.
+
+— Je lui reparlerai quand je serai calmée.
+
+Sa mère lui adressa un sourire.
+
+— Ce serait bien.
+
+Dans l’après-midi, Hasol apprit que son père devait partir en voyage commercial.
+
+Le déplacement était prévu depuis plusieurs semaines.
+
+Des partenaires l’attendaient loin de la capitale, et certaines négociations nécessitaient sa présence.
+
+Ce n’était pas son premier voyage.
+
+Depuis son enfance, Hasol avait vu Armin quitter régulièrement la maison avec ses registres, ses lettres et ses coffrets soigneusement fermés.
+
+Il revenait parfois quelques jours plus tard.
+
+Parfois plusieurs semaines.
+
+Il lui rapportait alors des anecdotes sur les villes qu’il avait traversées, les personnes rencontrées et les marchandises extraordinaires qu’il avait pu observer.
+
+Lorsqu’elle était petite, Hasol attendait toujours ses histoires avec impatience.
+
+Elle s’installait près de lui, posait d’innombrables questions et finissait généralement par lui demander pourquoi elle ne pouvait pas l’accompagner.
+
+Cette fois, l’annonce de son départ lui procura surtout un profond malaise.
+
+Ils ne s’étaient pas reparlé depuis leur dispute.
+
+Et le voyage approchait.
+
+Le soir, Hasol aperçut son père dans le hall.
+
+Il vérifiait le contenu de plusieurs bagages tandis que des employés attendaient ses instructions.
+
+Elle s’arrêta au pied de l’escalier.
+
+Armin leva les yeux.
+
+Leurs regards se croisèrent.
+
+Pendant quelques secondes, aucun des deux ne parla.
+
+Hasol ouvrit légèrement la bouche.
+
+Elle aurait pu lui demander si ses préparatifs se déroulaient bien.
+
+Ou s’il avait besoin d’aide.
+
+Elle aurait pu lui dire qu’elle regrettait certains des mots prononcés la veille.
+
+Mais elle se souvenait encore de son refus.
+
+Je ne peux pas te donner l’explication que tu attends.
+
+Elle baissa les yeux.
+
+Armin sembla vouloir parler.
+
+Puis l’un de ses employés lui présenta un registre à signer.
+
+Il détourna la tête.
+
+Hasol remonta les escaliers.
+
+Elle entendit son père reprendre ses instructions.
+
+Sa voix était calme.
+
+Professionnelle.
+
+Comme si leur dispute n’avait jamais eu lieu.
+
+Cela la blessa plus qu’elle ne l’aurait voulu.
+
+Le lendemain matin, Hasol se réveilla au bruit des roues dans la cour.
+
+Elle resta immobile quelques instants.
+
+Puis se redressa.
+
+Le soleil n’avait pas encore complètement émergé derrière les toits de la capitale.
+
+Elle s’approcha de la fenêtre.
+
+Le véhicule de voyage attendait devant la maison.
+
+Des bagages avaient été chargés.
+
+Deux employés vérifiaient les dernières affaires.
+
+Armin se tenait près de la portière.
+
+Il portait une tenue de voyage adaptée à ses obligations commerciales.
+
+Iseria était à ses côtés.
+
+Ils parlaient doucement.
+
+Hasol ne pouvait pas entendre leurs mots.
+
+Elle posa une main contre la vitre.
+
+Elle aurait pu descendre.
+
+Il lui aurait suffi d’enfiler ses chaussures et de courir dans l’escalier.
+
+Elle aurait encore eu le temps de lui souhaiter bon voyage.
+
+De lui demander de faire attention.
+
+Ou simplement de le serrer dans ses bras.
+
+Mais sa colère était toujours là.
+
+Et avec elle, la douleur de voir son père refuser de lui expliquer ce qui le préoccupait tant.
+
+Je lui parlerai quand il reviendra.
+
+Cette pensée lui parut raisonnable.
+
+Ils auraient tous les deux eu le temps de se calmer.
+
+Il rentrerait avec de nouvelles histoires.
+
+Et ils pourraient reprendre leur conversation autrement.
+
+Peut-être qu’Armin accepterait enfin de lui expliquer son hostilité envers le Griffon d’Argent.
+
+Peut-être qu’elle trouverait elle-même de meilleurs mots.
+
+Dans la cour, son père embrassa Iseria.
+
+Puis il recula d’un pas.
+
+Avant de monter, il leva les yeux vers la façade de la maison.
+
+Son regard parcourut les fenêtres.
+
+Hasol se figea.
+
+Pendant un instant, elle eut l’impression qu’il regardait directement sa chambre.
+
+Elle aurait pu lever la main.
+
+Elle ne le fit pas.
+
+Armin attendit encore quelques secondes.
+
+Puis il monta dans le véhicule.
+
+La portière se referma.
+
+Les roues se mirent en mouvement.
+
+Hasol regarda le convoi disparaître au bout de l’allée.
+
+Elle resta longtemps devant la fenêtre.
+
+Puis murmura :
+
+— Quand tu reviendras, papa…
+
+Elle ne termina pas sa phrase.
+
+Elle se contenta de retourner vers son lit.
+
+À ses yeux, ce n’était qu’un voyage de plus.
+
+Une absence comme il y en avait déjà eu tant d’autres.
+
+Elle ignorait qu’elle venait de regarder son père partir pour la dernière fois.
+
+## VIII. La nouvelle
+
+Les premiers jours passèrent presque normalement.
+
+Hasol continua à travailler chez Orven.
+
+Elle retrouva ses compagnons pour quelques entraînements.
+
+Et lorsqu’elle rentrait à la maison, elle s’attendait parfois à entendre la voix de son père depuis le bureau.
+
+Elle se rappelait alors qu’il était en voyage.
+
+Cela lui procurait une étrange sensation.
+
+Elle lui en voulait encore.
+
+Mais elle commençait déjà à regretter leur dernière conversation.
+
+Un soir, elle trouva sur son bureau la copie du contrat qu’il avait corrigé quelques jours avant leur dispute.
+
+Ses annotations occupaient plusieurs lignes.
+
+L’écriture était nette.
+
+Précise.
+
+Hasol passa doucement un doigt sur l’une des corrections.
+
+Puis referma le document.
+
+— Nous en reparlerons quand tu rentreras.
+
+Elle le rangea dans un tiroir.
+
+Les nouvelles du voyage arrivèrent avec les délais habituels des longues routes commerciales.
+
+Une première correspondance confirma que les affaires prévues avaient commencé.
+
+La lettre était destinée aux activités de la maison Shun.
+
+Hasol n’y trouva aucun message personnel.
+
+Elle en fut déçue.
+
+Puis s’en voulut de l’être.
+
+Après tout, elle ne lui avait rien écrit non plus.
+
+Elle avait commencé plusieurs lettres.
+
+Dans l’une, elle lui racontait leur entraînement à quatre.
+
+Dans une autre, elle lui parlait d’une commande difficile qu’elle avait terminée.
+
+Mais chaque fois qu’elle approchait de leur dispute, ses mots devenaient maladroits.
+
+Elle finissait par reposer la plume.
+
+Ce sera plus simple quand il sera revenu.
+
+Elle s’était habituée à cette idée.
+
+Puis, un matin, un messager arriva à la maison.
+
+Hasol se trouvait dans sa chambre lorsqu’elle entendit des voix dans le hall.
+
+Elle n’y prêta d’abord aucune attention.
+
+Des employés et des partenaires commerciaux venaient régulièrement rencontrer sa famille.
+
+Mais, quelques instants plus tard, le bruit d’un objet tombant sur le sol la fit sursauter.
+
+Elle leva les yeux.
+
+Puis entendit sa mère.
+
+— Non…
+
+Le mot était à peine audible.
+
+Hasol se leva.
+
+Elle s’approcha de la porte.
+
+Un silence inhabituel régnait dans la maison.
+
+Puis Iseria parla de nouveau.
+
+— Vous êtes certain ?
+
+Hasol sentit une inquiétude lui serrer la poitrine.
+
+Elle ouvrit la porte.
+
+Descendit quelques marches.
+
+Puis s’arrêta.
+
+Dans le hall, un homme vêtu d’une tenue de voyage se tenait près de l’entrée.
+
+Il avait retiré son couvre-chef et gardait les yeux baissés.
+
+Iseria était devant lui.
+
+Une lettre ouverte tremblait entre ses mains.
+
+Hasol ne l’avait jamais vue ainsi.
+
+Sa mère, d’ordinaire si attentive à chacun de ses gestes, semblait avoir oublié jusqu’à la manière de se tenir.
+
+— Maman ?
+
+Iseria ne répondit pas.
+
+Hasol descendit les dernières marches.
+
+— Qu’est-ce qui se passe ?
+
+Le messager tourna brièvement les yeux vers elle.
+
+Puis les baissa de nouveau.
+
+Hasol regarda sa mère.
+
+— Maman ?
+
+Iseria leva lentement la tête.
+
+Son visage avait perdu toute couleur.
+
+Elle ouvrit la bouche.
+
+Aucun son n’en sortit.
+
+Hasol sentit son cœur accélérer.
+
+— Qu’est-ce qu’il y a ?
+
+Sa mère tendit une main vers elle.
+
+Hasol s’approcha immédiatement.
+
+Iseria lui prit les doigts.
+
+Ils étaient glacés.
+
+— Hasol…
+
+Sa voix se brisa.
+
+La jeune femme contempla la lettre.
+
+Elle aperçut le nom de son père.
+
+Puis quelques lignes.
+
+Des formules officielles.
+
+Un sceau.
+
+Et un mot qu’elle ne comprit pas immédiatement.
+
+Décès.
+
+Elle fronça les sourcils.
+
+Son regard remonta vers le début du message.
+
+Puis redescendit.
+
+Elle relut la phrase.
+
+Une fois.
+
+Puis une deuxième.
+
+Elle connaissait tous les mots.
+
+Mais ils ne formaient aucun sens.
+
+— Non.
+
+Sa voix était à peine audible.
+
+Iseria serra sa main.
+
+Hasol releva les yeux.
+
+— Non, maman.
+
+Elle secoua la tête.
+
+— Il y a une erreur.
+
+Le messager baissa davantage la tête.
+
+Hasol se tourna vers lui.
+
+— Il y a une erreur, n’est-ce pas ?
+
+L’homme ne répondit pas immédiatement.
+
+Puis il déclara d’une voix basse :
+
+— Je suis profondément désolé.
+
+Elle sentit le sol se dérober sous ses pieds.
+
+— Non.
+
+Son regard retourna vers la lettre.
+
+Elle chercha une explication.
+
+Une phrase indiquant que son père était blessé.
+
+Qu’il avait dû interrompre son voyage.
+
+Qu’il se trouvait quelque part et qu’on allait bientôt le ramener.
+
+Mais le message confirmait seulement qu’Armin Shun était mort au cours de son déplacement commercial.
+
+Les circonstances précises n’y étaient pas détaillées.
+
+Hasol releva les yeux vers le messager.
+
+— Comment ?
+
+Sa voix tremblait.
+
+— Comment est-ce arrivé ?
+
+L’homme baissa la tête.
+
+— Je n’ai pas reçu de rapport complet, mademoiselle.
+
+Hasol resta immobile.
+
+— Mais vous savez qu’il est mort ?
+
+Le messager hésita.
+
+Puis acquiesça.
+
+— La nouvelle a été confirmée.
+
+Hasol le contempla.
+
+Elle aurait voulu qu’il retire ses mots.
+
+Qu’il avoue s’être trompé de destinataire.
+
+Qu’il leur explique qu’une autre famille portait le même nom.
+
+Mais il resta silencieux.
+
+Iseria lâcha soudain la lettre.
+
+Le papier glissa sur le sol.
+
+Puis ses jambes semblèrent céder.
+
+Hasol eut juste le temps de la retenir.
+
+— Maman !
+
+Elle l’aida à s’asseoir dans le fauteuil le plus proche.
+
+Iseria porta une main à sa bouche.
+
+Des larmes roulaient déjà sur ses joues.
+
+Hasol s’agenouilla devant elle.
+
+— Maman…
+
+Sa mère la regarda.
+
+Elle semblait vouloir dire quelque chose.
+
+Mais aucun mot ne venait.
+
+Puis elle attira brusquement sa fille contre elle.
+
+Hasol sentit ses bras se refermer autour de ses épaules.
+
+Iseria se mit à pleurer.
+
+Pas discrètement.
+
+Pas comme lorsqu’une mauvaise nouvelle venait simplement troubler une journée.
+
+Elle pleurait avec une douleur si profonde qu’Hasol ne l’avait jamais entendue dans sa voix.
+
+La jeune femme resta d’abord immobile.
+
+Elle regardait par-dessus l’épaule de sa mère.
+
+La lettre reposait au sol.
+
+À quelques pas de là, les employés de la maison s’étaient arrêtés.
+
+Personne ne semblait savoir quoi faire.
+
+Hasol ouvrit la bouche.
+
+— Papa…
+
+Le mot se brisa.
+
+Elle sentit enfin les larmes venir.
+
+— Papa…
+
+Elle enfouit son visage contre sa mère.
+
+Et se mit à pleurer à son tour.
+
+Plus tard, Hasol ne parvint pas à se souvenir de la manière dont elles avaient quitté le hall.
+
+Elle savait seulement qu’elle se trouvait maintenant dans le petit salon.
+
+Iseria était assise à côté d’elle.
+
+La lettre reposait sur la table.
+
+Une employée avait apporté du thé.
+
+Personne n’y avait touché.
+
+Hasol fixait le document.
+
+Elle attendait presque qu’une nouvelle ligne y apparaisse.
+
+Une correction.
+
+Une annonce.
+
+N’importe quoi qui rendrait les mots moins définitifs.
+
+Mais le papier restait immobile.
+
+Elle finit par murmurer :
+
+— Il devait rentrer.
+
+Iseria tourna la tête.
+
+Hasol continua :
+
+— Il devait rentrer, maman.
+
+Sa voix se brisa.
+
+— Nous devions encore parler.
+
+Sa mère ferma les yeux.
+
+Une nouvelle larme glissa sur sa joue.
+
+Hasol baissa la tête.
+
+— Je lui ai dit des choses horribles.
+
+Iseria lui prit la main.
+
+La jeune femme poursuivit :
+
+— Je lui ai dit qu’il ne me faisait pas confiance.
+
+Elle inspira difficilement.
+
+— Et je ne suis même pas descendue lui dire au revoir.
+
+Elle revit la fenêtre de sa chambre.
+
+Le véhicule dans la cour.
+
+Son père levant les yeux vers la maison.
+
+Elle se souvenait parfaitement de cet instant.
+
+La lumière du matin.
+
+Les roues sur les pavés.
+
+Et sa propre main posée contre la vitre.
+
+Elle aurait pu l’appeler.
+
+Il aurait certainement levé la tête.
+
+Elle aurait pu courir jusqu’à lui.
+
+Mais elle était restée là.
+
+— Je l’ai regardé partir, murmura-t-elle.
+
+Ses larmes recommencèrent à couler.
+
+— Je l’ai regardé partir sans rien dire.
+
+Iseria passa doucement un bras autour d’elle.
+
+Hasol secoua la tête.
+
+— Je pensais qu’il reviendrait.
+
+Sa mère la serra davantage.
+
+— Moi aussi, ma chérie.
+
+Ce fut cette réponse qui lui fit le plus mal.
+
+Maman aussi.
+
+Elle avait attendu son retour.
+
+Préparé les jours qui suivraient.
+
+Imaginé qu’ils reprendraient leurs habitudes.
+
+Et maintenant, aucune de ces journées n’existerait.
+
+Hasol se blottit contre elle.
+
+Pendant longtemps, elles restèrent enlacées.
+
+Elles ne trouvèrent rien d’autre à se dire.
+
+## IX. Une victoire au goût amer
+
+La maison Shun avait changé de visage.
+
+Les conversations se faisaient à voix basse.
+
+Les employés marchaient avec précaution dans les couloirs.
+
+Les affaires commerciales d’Armin devaient être provisoirement confiées à ses collaborateurs.
+
+Des lettres arrivaient chaque jour.
+
+Des condoléances.
+
+Des témoignages de reconnaissance.
+
+Des demandes concernant les engagements qu’il avait laissés derrière lui.
+
+Hasol trouvait cela insupportable.
+
+La maison continuait à fonctionner.
+
+Les repas étaient préparés.
+
+Les portes s’ouvraient.
+
+Les visiteurs entraient et repartaient.
+
+Et pourtant, son père était mort.
+
+Elle ne comprenait pas comment le monde pouvait continuer à avancer.
+
+Ce matin-là, un marchand était venu présenter ses condoléances.
+
+Il avait longuement raconté la générosité d’Armin.
+
+Son honnêteté.
+
+La confiance qu’il inspirait à ses partenaires.
+
+Puis, en quittant le salon, il avait posé une main sur l’épaule d’Hasol.
+
+— Votre père aurait été fier de vous, mademoiselle Shun.
+
+Elle avait acquiescé.
+
+Poliment.
+
+Sans répondre.
+
+Mais dès qu’il avait quitté la maison, elle était montée dans sa chambre.
+
+Elle avait fermé la porte.
+
+Et serré les poings jusqu’à sentir ses ongles s’enfoncer dans ses paumes.
+
+Il aurait été fier de vous.
+
+Comment pouvait-il le savoir ?
+
+Il ignorait leur dispute.
+
+Il ignorait qu’elle n’était pas descendue lui dire au revoir.
+
+Il ignorait à quel point elle avait espéré pouvoir montrer à son père qu’elle était devenue une véritable chasseuse.
+
+Hasol contempla son épée.
+
+Elle reposait contre le mur, près de son bureau.
+
+Son regard glissa vers son carnet d’entraînement.
+
+Les anciennes pages étaient remplies de résultats.
+
+Des défaites.
+
+Des erreurs.
+
+Des notes prises avec une application presque douloureuse.
+
+Elle se souvenait parfaitement de ce que cela lui avait coûté.
+
+Les années passées à l’Académie.
+
+Les moqueries.
+
+Les exercices ratés.
+
+Puis les premiers combats dans le Bois des Crocs Gris.
+
+Les leçons de Zio.
+
+Les chasses avec Yoon.
+
+Les entraînements avec Ray.
+
+Tout ce chemin.
+
+Hasol sentit une colère immense monter dans sa poitrine.
+
+Contre les circonstances.
+
+Contre le silence de son père.
+
+Contre les mots qu’elle lui avait adressés.
+
+Contre elle-même.
+
+Elle ne voulait plus rester assise.
+
+Elle ne voulait plus entendre de condoléances.
+
+Elle ne voulait plus regarder la porte du bureau en espérant absurdement que son père allait en sortir.
+
+Elle voulait frapper quelque chose.
+
+Elle prit son épée.
+
+Et quitta la maison.
+
+Lorsqu’elle arriva devant les salles d’entraînement de l’Académie, elle s’arrêta.
+
+Elle connaissait parfaitement cet endroit.
+
+Les grandes portes.
+
+Le guichet réservé aux chasseurs indépendants.
+
+Le couloir qui menait aux salles de simulation.
+
+Elle était revenue ici peu après sa radiation.
+
+À cette époque, elle avait encore du mal à supporter le regard des anciens élèves.
+
+Elle avait pourtant payé son accès.
+
+Puis choisi un mannequin de combat simulant un guerrier ordinaire de niveau dix.
+
+Quarante-deux secondes.
+
+C’était le temps qu’elle avait tenu lors de son premier essai.
+
+Une touche portée.
+
+Trois reçues.
+
+Une défaite.
+
+Elle avait recommencé le lendemain.
+
+Soixante-dix-huit secondes.
+
+Une nouvelle défaite.
+
+Mais elle avait progressé.
+
+Et cette progression lui avait suffi pour continuer.
+
+Hasol contempla les portes.
+
+Cette fois, elle ne venait pas gagner quelques secondes supplémentaires.
+
+Elle avait besoin de se battre.
+
+De sentir son corps bouger.
+
+De remplacer, ne serait-ce que quelques instants, cette douleur qui lui déchirait la poitrine par une fatigue qu’elle saurait comprendre.
+
+Elle entra.
+
+L’employé du guichet encaissa son paiement.
+
+Il lui indiqua une salle disponible.
+
+Hasol parcourut le couloir.
+
+Puis poussa la porte.
+
+L’odeur familière du cuir usé et du bois frappé lui parvint immédiatement.
+
+Elle reconnut le banc contre le mur.
+
+Une ancienne éraflure sur le sol.
+
+Et le carré de lumière qui traversait la pièce depuis les fenêtres hautes.
+
+Au centre se dressait un mannequin de combat animé.
+
+Hasol resta immobile.
+
+Pendant quelques secondes, elle revit la jeune fille qu’elle avait été.
+
+Celle qui venait tout juste de quitter l’Académie.
+
+Qui avait reçu les huit runes de sa mère.
+
+Et qui s’était imaginé que ses nouvelles caractéristiques suffiraient peut-être à transformer immédiatement ses défaites en victoires.
+
+Quarante-deux secondes plus tard, elle avait découvert que la puissance ne remplaçait pas l’expérience.
+
+Hasol s’approcha du panneau de commande.
+
+Elle sélectionna le type d’adversaire.
+
+Puis son niveau.
+
+<div class="system-window lit-window" data-window-id="105" data-window-type="entrainement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE D’ENTRAÎNEMENT</div>
+  <p><strong>Adversaire simulé :</strong> Guerrier — Classe <span class="lit-badge lit-badge--rare">rare</span></p>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">20</span></p>
+  <p><strong>Condition de défaite :</strong> 3 touches reçues</p>
+  <p><strong>Condition de victoire :</strong> Neutralisation de l’adversaire</p>
+  <p><strong>État :</strong> Simulation prête.</p>
+</div>
+
+Hasol contempla les réglages.
+
+Un guerrier rare.
+
+Niveau vingt.
+
+Bien plus dangereux que le mannequin de ses premiers essais.
+
+Elle aurait pu choisir un adversaire plus facile.
+
+Le même guerrier ordinaire de niveau dix.
+
+Elle aurait certainement pu le vaincre maintenant.
+
+Mais elle n’en avait aucune envie.
+
+Elle voulait mesurer tout ce qui avait changé.
+
+Hasol vérifia ses douze runes équipées.
+
+Puis dégaina son épée.
+
+Elle n’activa pas Aura runique.
+
+Ce combat ne justifiait pas de sacrifier l’une des pierres qu’elle avait si difficilement gagnées chez Orven.
+
+Elle utiliserait son équipement.
+
+Sa force.
+
+Et tout ce qu’elle avait appris.
+
+Elle se plaça devant le mannequin.
+
+— Commencer.
+
+La construction s’anima.
+
+Son bras mécanique se leva.
+
+Puis elle avança.
+
+Hasol ne lui laissa pas le temps de préparer sa première attaque.
+
+Elle bondit en avant et frappa.
+
+Le mannequin para.
+
+Le choc fit vibrer sa lame.
+
+Elle enchaîna immédiatement.
+
+Un coup à gauche.
+
+Puis à droite.
+
+La construction recula d’un pas.
+
+Hasol sentit une satisfaction violente lui traverser la poitrine.
+
+Elle continua.
+
+Un troisième coup.
+
+Puis un quatrième.
+
+Le mannequin pivota brusquement.
+
+Son épée d’entraînement frappa l’épaule d’Hasol.
+
+Une impulsion lumineuse signala la touche.
+
+Première touche reçue.
+
+La jeune femme recula.
+
+Elle serra les dents.
+
+— Ce n’est rien !
+
+Elle attaqua de nouveau.
+
+Plus vite.
+
+Plus fort.
+
+Le mannequin bloqua sa première frappe.
+
+Puis la seconde.
+
+Lorsqu’elle tenta de contourner sa garde, il changea brusquement d’appui.
+
+Hasol reconnut le mouvement trop tard.
+
+Une lame de bois passa devant son visage.
+
+Elle recula précipitamment.
+
+Le mannequin poursuivit son attaque.
+
+Hasol para.
+
+Le choc remonta jusqu’à son épaule.
+
+Elle repoussa la lame adverse.
+
+Puis frappa en retour.
+
+Cette fois, elle atteignit le flanc de la construction.
+
+Une lumière apparut sur son armure simulée.
+
+La touche avait été validée.
+
+Hasol ne sourit pas.
+
+Elle continua.
+
+Dans son esprit, elle revoyait le visage de son père.
+
+Son expression lorsqu’il avait découvert le sceau du Griffon d’Argent sur son contrat.
+
+Sa voix lorsqu’il lui avait demandé d’abandonner la guilde.
+
+Je refuse que tu continues à travailler pour eux.
+
+Hasol serra la poignée de son épée.
+
+— Pourquoi ?!
+
+Elle frappa.
+
+Le mannequin détourna sa lame.
+
+— Pourquoi tu ne voulais pas me le dire ?!
+
+Une autre attaque.
+
+La construction recula.
+
+Hasol avança sans lui laisser de répit.
+
+— J’avais tellement travaillé !
+
+Elle engagea tout son poids dans une frappe descendante.
+
+Le mannequin pivota.
+
+Sa contre-attaque atteignit Hasol au flanc.
+
+Deuxième touche reçue.
+
+Elle recula brutalement.
+
+Sa respiration était trop rapide.
+
+Ses doigts lui faisaient mal.
+
+Le mannequin, lui, continuait à avancer.
+
+Hasol leva de nouveau son épée.
+
+Il ne lui restait plus qu’une touche avant la défaite.
+
+Un coup.
+
+Et elle perdrait.
+
+Encore.
+
+Elle sentit une nouvelle vague de colère.
+
+Elle voulut attaquer immédiatement.
+
+Mais le mannequin préparait déjà une feinte.
+
+Son épaule bougea.
+
+Puis son pied arrière glissa légèrement sur le sol.
+
+Hasol reconnut l’enchaînement.
+
+Elle l’avait déjà vu.
+
+Lors de ses premiers entraînements.
+
+Et plusieurs fois depuis.
+
+Elle se souvenait des mots de Zio.
+
+De ses conseils sur les appuis.
+
+Sur la nécessité d’observer l’ensemble du corps adverse plutôt que de suivre uniquement son arme.
+
+Elle se souvenait de Yoon lui répétant de ne pas se précipiter.
+
+Et de Ray lui montrant qu’une faiblesse pouvait devenir une ouverture lorsqu’on savait attendre.
+
+Hasol inspira profondément.
+
+Elle cessa d’avancer.
+
+Le mannequin leva son épée.
+
+Cette fois, elle ne recula pas trop tôt.
+
+Elle attendit.
+
+La lame descendit.
+
+Hasol se déporta d’un pas.
+
+Le coup passa devant elle.
+
+La construction tenta immédiatement d’enchaîner avec un balayage.
+
+Mais elle l’avait anticipé.
+
+Elle déplaça son pied avant que l’attaque ne commence.
+
+Puis avança.
+
+Sa lame frappa le mannequin au côté.
+
+Une touche.
+
+Elle pivota.
+
+Une deuxième.
+
+Le guerrier simulé leva son arme.
+
+Hasol ne chercha pas à opposer sa force à la sienne.
+
+Elle détourna son attaque, passa sur son flanc et frappa à nouveau.
+
+La construction vacilla.
+
+Son système de combat tenta de rétablir sa garde.
+
+Hasol vit l’ouverture.
+
+Elle aurait pu s’y jeter.
+
+Quelques mois plus tôt, c’est ce qu’elle aurait fait.
+
+Elle aurait frappé trop vite.
+
+Se serait déséquilibrée.
+
+Et la troisième touche adverse aurait mis fin à l’exercice.
+
+Mais cette fois, elle attendit.
+
+Le mannequin lança une attaque rapide vers son épaule.
+
+Hasol pivota.
+
+La lame passa à côté d’elle.
+
+Elle avait désormais l’espace nécessaire.
+
+Elle engagea son dernier mouvement.
+
+Son épée frappa le point de neutralisation de la construction.
+
+Une lumière rouge parcourut les inscriptions du mannequin.
+
+Puis ses membres s’immobilisèrent.
+
+Hasol recula immédiatement.
+
+Elle conserva sa garde.
+
+Une seconde passa.
+
+Puis une autre.
+
+Le mannequin ne bougea plus.
+
+Une fenêtre apparut devant elle.
+
+<div class="system-window lit-window" data-window-id="106" data-window-type="entrainement">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE TERMINÉ</div>
+  <p><strong>Adversaire simulé :</strong> Guerrier <span class="lit-badge lit-badge--rare">rare</span> — Niveau 20</p>
+  <p class="lit-window__row"><strong>Statut :</strong> <span>Victoire</span></p>
+  <p class="lit-window__row"><strong>Touches reçues :</strong> <span class="lit-window__value">2 / 3</span></p>
+  <p class="lit-window__row"><strong>Adversaire :</strong> <span>Neutralisé</span></p>
+  <p class="lit-window__row"><strong>Résultat :</strong> <span>Victoire</span></p>
+</div>
+
+Hasol contempla la notification.
+
+Elle l’avait fait.
+
+Un guerrier rare de niveau vingt.
+
+Et elle avait gagné.
+
+Elle attendit.
+
+Elle attendit que la joie arrive.
+
+Cette joie qu’elle avait si souvent imaginée pendant ses années à l’Académie.
+
+La satisfaction de prouver qu’elle était devenue forte.
+
+La fierté de mesurer le chemin parcouru.
+
+Mais rien ne vint.
+
+Seulement une immense fatigue.
+
+Elle baissa lentement son épée.
+
+Puis regarda le mannequin immobile.
+
+C’était le même type de construction qui l’avait projetée au sol lorsqu’elle était incapable de tenir plus d’une minute.
+
+À cette époque, elle aurait donné n’importe quoi pour remporter une seule victoire.
+
+Aujourd’hui, elle venait de vaincre un adversaire bien plus puissant.
+
+Et cela ne changeait rien.
+
+Son père était toujours mort.
+
+Hasol sentit sa gorge se serrer.
+
+Elle aurait voulu courir à la maison.
+
+Ouvrir la porte de son bureau sans même prendre le temps de frapper.
+
+— Papa ! Tu ne devineras jamais !
+
+Elle imaginait déjà son père lever les yeux de son registre.
+
+Lui adresser ce sourire légèrement amusé.
+
+Et demander :
+
+— Eh bien, qu’arrive-t-il à ma princesse ?
+
+Elle lui aurait raconté le combat.
+
+Le niveau du mannequin.
+
+Sa classe rare.
+
+Les deux touches reçues.
+
+Elle aurait peut-être exagéré quelques mouvements.
+
+Il aurait ri.
+
+Puis elle lui aurait montré le résultat enregistré dans son carnet.
+
+Et il aurait peut-être posé une main sur sa tête en lui disant qu’elle avait bien travaillé.
+
+Hasol sentit une larme rouler sur sa joue.
+
+Elle baissa les yeux vers son épée.
+
+— J’ai gagné, papa…
+
+Sa voix semblait minuscule dans la salle silencieuse.
+
+Elle essaya de sourire.
+
+— Tu te souviens ? Je n’arrivais même pas à battre celui de niveau dix…
+
+Ses lèvres tremblèrent.
+
+Elle releva les yeux vers le mannequin.
+
+— Maintenant, je peux vaincre un guerrier rare de niveau vingt.
+
+Elle attendit encore.
+
+Comme si quelqu’un allait répondre.
+
+Mais il n’y eut que le silence.
+
+Hasol sentit ses jambes faiblir.
+
+Elle s’assit lentement sur le banc où elle avait autrefois consigné ses défaites.
+
+Cette fois, elle ne sortit pas son carnet.
+
+Elle contempla simplement son épée posée sur ses genoux.
+
+Son père l’avait vue tomber tant de fois.
+
+Il l’avait aidée à se relever après des entraînements ratés.
+
+Il l’avait encouragée pendant les années où elle ne parvenait pas à comprendre les pouvoirs de sa classe.
+
+Il lui avait offert ses premières runes précieuses.
+
+Il lui avait dit qu’il serait fier d’elle, quelle que soit la classe reçue.
+
+Et maintenant qu’elle aurait tant aimé lui montrer tout le chemin parcouru…
+
+Il n’était plus là pour la voir.
+
+— Je voulais te montrer…
+
+Sa voix se brisa.
+
+Elle porta une main à ses yeux.
+
+— Je voulais tellement te montrer, papa…
+
+Les larmes vinrent.
+
+Hasol se pencha en avant, les coudes sur les genoux.
+
+Elle avait imaginé cette victoire pendant des années.
+
+Elle aurait dû être heureuse.
+
+Elle avait tout fait pour devenir la chasseuse dont elle rêvait.
+
+Elle avait travaillé.
+
+Chassé.
+
+Souffert.
+
+Échoué.
+
+Et recommencé.
+
+Elle avait fini par gagner.
+
+Mais il n’y avait personne à qui courir annoncer la nouvelle en l’appelant « papa ».
+
+Hasol resta longtemps assise.
+
+La construction demeurait immobile au centre de la salle.
+
+La fenêtre de victoire s’effaça lentement.
+
+Lorsqu’elle parvint enfin à se relever, elle rangea son épée.
+
+Puis elle se tourna une dernière fois vers le mannequin.
+
+Autrefois, elle quittait cet endroit en se promettant de revenir plus forte.
+
+Aujourd’hui, elle avait tenu cette promesse.
+
+Cela aurait dû suffire.
+
+Mais elle aurait échangé cette victoire contre une seule occasion de revoir le sourire de son père.
+
+Hasol essuya ses joues.
+
+Puis quitta la salle.
+
+Elle n’avait plus envie de combattre.
+
+Elle voulait rentrer.
+
+Et, pour la première fois depuis l’annonce de sa mort, elle avait surtout envie de serrer sa mère dans ses bras.
+
+## X. Ceux qui restent
+
+Iseria était assise près de la fenêtre lorsque Hasol rentra.
+
+Elle portait une robe de style elfique aux broderies délicates.
+
+Un livre reposait ouvert sur ses genoux.
+
+Mais elle ne lisait pas.
+
+Hasol resta quelques instants sur le seuil.
+
+Sa mère releva les yeux.
+
+— Ma chérie ?
+
+La jeune femme voulut répondre.
+
+Elle n’y parvint pas.
+
+Iseria aperçut son épée.
+
+Puis ses joues encore humides.
+
+Elle referma doucement son livre.
+
+— Viens.
+
+Hasol traversa le salon.
+
+Sa mère lui ouvrit les bras.
+
+Elle s’y précipita.
+
+Et se remit à pleurer.
+
+Iseria la serra contre elle.
+
+Pendant un long moment, elle ne lui posa aucune question.
+
+Elle se contenta de lui caresser les cheveux.
+
+Puis Hasol murmura :
+
+— J’ai gagné.
+
+Sa mère baissa légèrement la tête.
+
+— Quoi donc ?
+
+Hasol prit une inspiration tremblante.
+
+— Je suis retournée à l’Académie.
+
+Elle essuya ses joues.
+
+— Dans la salle où je m’entraînais après ma radiation.
+
+Iseria resta silencieuse.
+
+Hasol poursuivit :
+
+— J’ai choisi un guerrier rare de niveau vingt.
+
+Sa mère releva les yeux.
+
+— Niveau vingt ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Elle essaya de sourire.
+
+— Et je l’ai battu.
+
+Iseria la contempla.
+
+Une expression de fierté traversa son visage.
+
+— Hasol…
+
+Mais la jeune femme secoua la tête.
+
+— Je pensais que je serais heureuse.
+
+Sa voix se brisa.
+
+— Je voulais tellement réussir ça…
+
+Elle regarda ses mains.
+
+— Et quand j’ai gagné, je n’ai pensé qu’à papa.
+
+Iseria l’attira de nouveau contre elle.
+
+Hasol enfouit son visage dans ses cheveux.
+
+— Je voulais lui raconter.
+
+Sa mère ferma les yeux.
+
+— Je sais, ma chérie.
+
+— Il aurait posé mille questions…
+
+Un petit rire tremblant lui échappa.
+
+— Il aurait voulu savoir si j’avais utilisé mes runes correctement.
+
+Iseria sourit à travers ses larmes.
+
+— Probablement.
+
+Hasol poursuivit :
+
+— Et il m’aurait sûrement demandé si j’avais réfléchi avant d’attaquer.
+
+Cette fois, sa mère eut un petit rire.
+
+— Certainement.
+
+Hasol releva les yeux.
+
+Elles se contemplèrent quelques secondes.
+
+Puis Hasol se mit à pleurer de nouveau.
+
+— Il me manque tellement…
+
+Iseria lui caressa doucement la joue.
+
+— À moi aussi.
+
+Elles restèrent enlacées jusqu’à ce que le jour commence à décliner.
+
+Yoon vint la voir le lendemain.
+
+Elle n’apporta ni carte ni registre.
+
+Seulement un petit paquet de pâtisseries qu’elle posa sur la table.
+
+Hasol le contempla.
+
+— Tu essaies de m’acheter avec de la nourriture ?
+
+La Sage sourit légèrement.
+
+— Ça fonctionne d’habitude.
+
+Un petit rire échappa à Hasol.
+
+Puis son sourire s’effaça.
+
+Yoon vint s’asseoir à côté d’elle.
+
+Pendant quelques minutes, elles restèrent silencieuses.
+
+Enfin, Hasol murmura :
+
+— Je suis retournée au mannequin.
+
+La Sage tourna la tête.
+
+— Celui de tes premiers entraînements ?
+
+Hasol acquiesça.
+
+— J’ai gagné.
+
+Yoon la contempla.
+
+Puis elle lui adressa un sourire triste.
+
+— Tu as beaucoup progressé.
+
+Hasol baissa les yeux.
+
+— Je sais.
+
+Un silence suivit.
+
+Puis elle ajouta :
+
+— Mais je n’ai même pas pu lui montrer.
+
+Yoon lui prit doucement la main.
+
+Hasol contempla leurs doigts.
+
+— Je pensais qu’il serait toujours là quand je deviendrais plus forte.
+
+La Sage ne répondit pas immédiatement.
+
+Puis elle murmura :
+
+— Je crois qu’il y a beaucoup de choses qu’on imagine pouvoir raconter plus tard.
+
+Hasol releva les yeux.
+
+Yoon serra légèrement sa main.
+
+— Tu n’as pas besoin d’être heureuse de cette victoire aujourd’hui.
+
+La jeune femme baissa la tête.
+
+Puis elle se rapprocha.
+
+Yoon l’accueillit contre son épaule.
+
+Elles restèrent ainsi longtemps.
+
+Ray vint quelques jours plus tard.
+
+Il portait des vêtements ordinaires et tenait une lettre de condoléances de sa famille.
+
+Hasol le reçut dans le salon.
+
+Il semblait beaucoup moins assuré que lorsqu’il expliquait les comportements des monstres.
+
+— Mes parents m’ont demandé de te remettre ceci.
+
+Hasol prit l’enveloppe.
+
+— Merci.
+
+Ray ajusta ses lunettes.
+
+Puis baissa la main.
+
+Il resta silencieux.
+
+Hasol attendit quelques secondes.
+
+— Tu peux t’asseoir.
+
+Il obéit.
+
+Un long silence s’installa.
+
+Puis Ray murmura :
+
+— Je ne sais pas quoi te dire.
+
+Hasol contempla la lettre.
+
+— Moi non plus.
+
+Il acquiesça.
+
+Pour une fois, il ne chercha pas à remplir le silence avec des explications.
+
+Il n’avait pas apporté de livre.
+
+Ni de carte.
+
+Il ne lui proposait pas de sortir chasser pour penser à autre chose.
+
+Il était simplement venu.
+
+Ray finit par demander :
+
+— Est-ce qu’il y a quelque chose que je peux faire ?
+
+Hasol réfléchit.
+
+Puis répondit :
+
+— Pas maintenant.
+
+Il acquiesça.
+
+— D’accord.
+
+Elle baissa les yeux vers l’enveloppe.
+
+Puis ajouta :
+
+— Merci d’être venu.
+
+Ray lui adressa un petit sourire triste.
+
+— Je voulais être là.
+
+Hasol conserva ces mots en mémoire.
+
+Elle ne savait toujours pas ce qu’il adviendrait de leur ancienne amitié.
+
+Ce jour-là, elle n’avait pas besoin de le décider.
+
+Orven lui envoya un message pour lui annoncer que les commandes de l’atelier seraient prises en charge pendant son absence.
+
+Hasol voulut d’abord protester.
+
+Elle avait accepté des travaux.
+
+Des clients l’attendaient.
+
+Et elle détestait l’idée de laisser à son maître une charge supplémentaire.
+
+Mais lorsqu’elle se présenta à l’atelier quelques jours plus tard, Orven posa immédiatement son outil.
+
+Il vint à sa rencontre.
+
+— Hasol.
+
+Elle baissa la tête.
+
+— Bonjour, maître.
+
+Il la contempla quelques instants.
+
+Puis demanda :
+
+— Comment vas-tu ?
+
+Elle ouvrit la bouche.
+
+Elle aurait pu répondre qu’elle allait bien.
+
+Elle connaissait parfaitement cette formule.
+
+Elle l’avait répétée chaque fois qu’elle s’était blessée à la chasse et qu’elle ne voulait pas inquiéter ses compagnons.
+
+Mais devant Orven, les mots ne vinrent pas.
+
+Elle secoua la tête.
+
+— Je ne sais pas.
+
+Le maître artisan resta silencieux.
+
+Puis il lui désigna une chaise.
+
+Hasol s’assit.
+
+Elle regarda les établis.
+
+Les outils.
+
+Les pierres de mana rangées dans leurs compartiments.
+
+Tout était exactement comme avant.
+
+Orven prit place en face d’elle.
+
+— Les commandes sont sous contrôle.
+
+Hasol baissa les yeux.
+
+— Je suis désolée…
+
+— Pourquoi ?
+
+— Je vous laisse tout le travail.
+
+Il secoua la tête.
+
+— Tu n’as pas à t’excuser.
+
+Elle serra les doigts.
+
+— Mais les clients…
+
+— Les clients attendront, ou nous trouverons une solution avec eux.
+
+Hasol releva les yeux.
+
+Orven poursuivit :
+
+— Tu as toujours travaillé sérieusement. Personne ici ne l’a oublié.
+
+Sa voix se fit plus douce.
+
+— Pour l’instant, occupe-toi de ta mère. Et de toi.
+
+Hasol sentit ses yeux la brûler.
+
+— Merci, maître.
+
+Il acquiesça.
+
+Puis se leva.
+
+— Tu veux rester un moment ?
+
+Elle regarda l’établi qu’elle utilisait habituellement.
+
+Elle n’avait pas envie de travailler.
+
+Pas vraiment.
+
+Mais elle n’avait pas non plus envie de rentrer immédiatement.
+
+— Oui, murmura-t-elle.
+
+Orven lui adressa un sourire discret.
+
+— Alors reste.
+
+Il retourna à son poste.
+
+Hasol s’assit devant son établi.
+
+Elle ne toucha à aucune rune.
+
+Pendant presque une heure, elle se contenta d’observer son maître travailler.
+
+Le bruit régulier des outils remplissait la pièce.
+
+Et, pour la première fois depuis l’annonce de la mort d’Armin, elle parvint à rester quelques instants sans revoir mentalement la lettre du messager.
+
+Zio vint lui parler après la cérémonie d’adieu organisée pour son père.
+
+Hasol était sortie dans le jardin, incapable de supporter plus longtemps les condoléances.
+
+Les visiteurs avaient été nombreux.
+
+Des marchands.
+
+Des partenaires.
+
+Des employés qui connaissaient Armin depuis des années.
+
+Chacun avait une histoire à raconter.
+
+Une qualité à rappeler.
+
+Un souvenir à partager.
+
+Hasol avait essayé de les écouter.
+
+Mais à mesure que les heures passaient, elle avait commencé à sentir leur affection comme un poids supplémentaire.
+
+Tous parlaient de son père au passé.
+
+Elle n’y arrivait pas.
+
+Elle se tenait maintenant près d’un grand arbre, à l’écart de la maison.
+
+Le ciel s’assombrissait lentement.
+
+Elle entendit des pas derrière elle.
+
+— Hasol ?
+
+Elle se retourna.
+
+Zio s’était arrêté à quelques pas.
+
+Il portait des vêtements sobres, adaptés à la cérémonie.
+
+Sans son armure, il paraissait moins imposant.
+
+Mais son regard conservait cette douceur tranquille qu’elle lui connaissait.
+
+— Je peux rester un moment ? demanda-t-il.
+
+Hasol acquiesça.
+
+— Oui.
+
+Il vint se placer à côté d’elle.
+
+Pendant plusieurs minutes, ils contemplèrent le jardin en silence.
+
+Puis Hasol murmura :
+
+— Tout le monde dit qu’il était quelqu’un de bien.
+
+Zio tourna légèrement la tête.
+
+Elle regardait le sol.
+
+— Ils racontent ses voyages. Ses affaires. Les gens qu’il a aidés.
+
+Sa voix trembla.
+
+— Je le savais déjà, tout ça.
+
+Zio resta silencieux.
+
+Hasol poursuivit :
+
+— Et pourtant, je n’ai pas réussi à lui parler avant son départ.
+
+Elle sentit une larme glisser sur sa joue.
+
+— J’aurais pu.
+
+Elle se tourna vers lui.
+
+— Je l’ai vu depuis ma fenêtre.
+
+Sa voix se brisa.
+
+— J’aurais pu descendre.
+
+Zio ne chercha pas immédiatement à répondre.
+
+Il regarda les arbres.
+
+Puis demanda doucement :
+
+— Est-ce que tu savais que ce serait votre dernière occasion de parler ?
+
+Hasol secoua la tête.
+
+— Non.
+
+— Alors tu as pris ta décision en pensant qu’il reviendrait.
+
+Elle baissa les yeux.
+
+— Oui.
+
+Le Gardien resta silencieux quelques instants.
+
+Puis ajouta :
+
+— Je ne peux pas te dire ce que tu aurais ressenti si tu étais descendue.
+
+Hasol le regarda.
+
+— Ni ce qu’il aurait répondu.
+
+Il poursuivit :
+
+— Mais je crois que tu essaies de juger cette journée avec ce que tu sais maintenant.
+
+Hasol resta immobile.
+
+Elle n’avait jamais pensé aux choses ainsi.
+
+Cela ne faisait pas disparaître ses regrets.
+
+Mais les mots de Zio lui permirent, pendant quelques secondes, de respirer un peu plus librement.
+
+Elle essuya ses joues.
+
+— J’étais tellement en colère.
+
+Il acquiesça.
+
+— Je sais.
+
+— Et je le suis encore.
+
+Hasol regarda la maison.
+
+— Je ne comprends toujours pas pourquoi il voulait que je quitte le Griffon d’Argent.
+
+Zio ne répondit pas.
+
+Elle poursuivit :
+
+— Même maintenant, je trouve ça injuste.
+
+Sa voix devint plus basse.
+
+— Et après, je me sens horrible de penser ça.
+
+Le Gardien tourna les yeux vers elle.
+
+— Tu n’as pas besoin de résoudre votre dispute pour continuer à l’aimer.
+
+Hasol sentit ses lèvres trembler.
+
+Elle baissa la tête.
+
+Zio ne fit pas un geste de plus.
+
+Il resta simplement à côté d’elle.
+
+Après un moment, elle se rapprocha légèrement.
+
+Son épaule frôla la sienne.
+
+Il ne bougea pas.
+
+Ils contemplèrent ensemble le jardin jusqu’à ce que les premières lumières s’allument dans la maison.
+
+Les jours suivants furent difficiles.
+
+Parfois, Hasol se réveillait en oubliant pendant quelques secondes ce qui s’était passé.
+
+Elle se demandait si son père était revenu de voyage.
+
+Puis elle se souvenait.
+
+Et la douleur revenait avec une violence presque physique.
+
+D’autres fois, elle passait une bonne partie de la matinée à travailler dans son carnet.
+
+Puis s’arrêtait brusquement en remarquant une annotation qu’elle aurait voulu montrer à Armin.
+
+Elle avait encore mille questions à lui poser.
+
+Des questions commerciales.
+
+Des souvenirs d’enfance.
+
+Et cette dernière question, celle qu’elle ne pourrait désormais plus lui adresser.
+
+Pourquoi le Griffon d’Argent ?
+
+Elle n’avait aucune réponse.
+
+Elle n’essaya pas d’en inventer une.
+
+Chaque fois qu’elle approchait du bureau de son père, elle se souvenait de leur dernière soirée agréable.
+
+Du contrat qu’il avait corrigé.
+
+De sa plume posée sur le papier.
+
+Et de son sourire.
+
+Elle préférait conserver ces souvenirs intacts.
+
+Un soir, Hasol remonta dans sa chambre.
+
+Elle ouvrit le tiroir de son bureau.
+
+Puis en sortit le contrat qu’Armin avait corrigé avant leur dispute.
+
+Les annotations de son père occupaient encore plusieurs lignes.
+
+Elle les contempla longtemps.
+
+Son regard glissa ensuite vers son équipement.
+
+Parmi ses douze runes figuraient toujours les deux pierres bleues qu’il lui avait offertes le soir de sa Révélation.
+
+Une Fatal rare, six étoiles, améliorée à +6.
+
+Et une Gardien rare, six étoiles, elle aussi à +6.
+
+Hasol observa leurs inscriptions.
+
+Elle se souvenait du coffret qu’Armin lui avait tendu.
+
+Du soin avec lequel il avait choisi ces cadeaux.
+
+Et de sa manière de lui expliquer qu’elle pourrait trouver sa propre voie, même si elle ne ressemblait pas à celle des autres chasseurs.
+
+Aujourd’hui, ces deux runes faisaient toujours partie de son équipement.
+
+Elle effleura leurs représentations lumineuses.
+
+Puis referma son interface.
+
+Sur une étagère, un autre coffret attira son regard.
+
+Elle s’approcha.
+
+L’ouvrit.
+
+À l’intérieur reposait sa première épée d’entraînement.
+
+Celle qu’il lui avait offerte lorsqu’elle avait dix ans.
+
+La poignée était désormais trop petite pour sa main.
+
+La lame portait les traces de nombreux exercices.
+
+Hasol la prit délicatement.
+
+Elle se souvenait de cette journée.
+
+De sa joie lorsqu’elle avait ouvert le coffret.
+
+De sa course dans le jardin.
+
+Et de sa chute, quelques instants plus tard.
+
+Elle revoyait son père lui tendre la main.
+
+Puis lui demander :
+
+— Tu veux réessayer, ma princesse ?
+
+Hasol sentit ses yeux se remplir de larmes.
+
+Elle contempla la petite épée.
+
+Puis la posa doucement à côté de celle qu’elle utilisait aujourd’hui.
+
+Deux armes.
+
+Deux époques de sa vie.
+
+La première lui avait été offerte par son père.
+
+La seconde avait accompagné les combats qui lui avaient permis de devenir la chasseuse qu’elle rêvait d’être.
+
+Elle aurait tant voulu pouvoir lui montrer les deux côte à côte.
+
+Lui raconter sa victoire contre le mannequin.
+
+Lui parler de ses progrès.
+
+Lui demander son avis sur les prochaines expéditions.
+
+Mais aucun de ces moments ne serait possible.
+
+Hasol s’assit près de son bureau.
+
+Elle reprit le contrat annoté par Armin.
+
+Puis le glissa soigneusement dans son carnet, entre deux pages consacrées à ses projets.
+
+Elle n’essaya pas de travailler.
+
+Elle resta simplement assise, les mains posées sur la couverture.
+
+Au bout d’un moment, elle murmura :
+
+— J’ai gagné, papa.
+
+Sa voix tremblait.
+
+Elle regarda les deux épées.
+
+— Tu te souviens de toutes les fois où je suis tombée ?
+
+Une larme glissa sur sa joue.
+
+— Cette fois, je me suis relevée.
+
+Elle essaya de sourire.
+
+— J’ai même réussi à gagner.
+
+Le silence lui répondit.
+
+Hasol baissa les yeux.
+
+— Mais j’aurais tellement voulu que tu sois là…
+
+Elle serra son carnet contre elle.
+
+Dehors, les lumières de la capitale brillaient toujours.
+
+Le monde poursuivait sa route.
+
+Les chasseurs entraient dans les donjons.
+
+Les artisans amélioraient leurs runes.
+
+Et quelque part, dans les salles d’entraînement de l’Académie, un mannequin attendait déjà son prochain adversaire.
+
+Hasol avait enfin remporté la victoire dont elle rêvait autrefois.
+
+Elle savait maintenant qu’elle était capable de devenir plus forte.
+
+Mais cette force ne lui permettrait pas de revoir son père.
+
+Elle ne pouvait pas reprendre leur dernière conversation.
+
+Ni descendre cet escalier qu’elle avait refusé de descendre le matin de son départ.
+
+Et, pour la première fois, elle comprit qu’il existait des pertes que ni les niveaux, ni les compétences, ni les runes ne pouvaient réparer.
+
+Hasol ferma les yeux.
+
+Puis, dans le silence de sa chambre, elle se permit de pleurer encore.
+
+---
+
+**Fin du chapitre 11 — Le dernier départ**
+
+---
+
+<span id="chapitre-12"></span>
+
+# Chapitre 12 — La légende prend sa place
+
+## I. Les registres d’Armin
+
+— Cette somme ne correspond pas à celle du contrat.
+
+L’homme assis en face d’Hasol releva les yeux.
+
+— Pardon, mademoiselle Shun ?
+
+Hasol posa deux documents côte à côte.
+
+— Sur le premier, la livraison est prévue en trois lots. Sur le second, vous facturez la totalité des frais de transport dès le premier envoi.
+
+Elle désigna une ligne.
+
+— Pourtant, notre accord prévoit un règlement proportionnel aux marchandises effectivement livrées.
+
+Le représentant du fournisseur examina les feuilles.
+
+Il fronça les sourcils.
+
+— C’est certainement une erreur de transcription.
+
+Hasol acquiesça poliment.
+
+— C’est possible.
+
+Elle lui tendit la plume.
+
+— Dans ce cas, nous pouvons la corriger avant de signer.
+
+L’homme resta silencieux une seconde.
+
+Puis prit la plume.
+
+Hasol attendit qu’il termine.
+
+Lorsqu’il lui rendit le document, elle vérifia les modifications, compara les deux montants et apposa enfin sa signature.
+
+— Merci. Notre intendant vous confirmera la réception du prochain lot.
+
+L’homme s’inclina légèrement.
+
+— Votre père avait l’habitude de régler ce genre de détail beaucoup plus rapidement.
+
+Hasol sentit ses doigts se contracter.
+
+Elle conserva néanmoins son sourire.
+
+— J’imagine qu’il avait aussi beaucoup plus d’expérience que moi.
+
+Le représentant sembla réaliser sa maladresse.
+
+— Je ne voulais pas…
+
+— Ce n’est rien.
+
+Elle se leva.
+
+— Bonne journée.
+
+Lorsqu’il eut quitté le bureau, Hasol attendit que ses pas disparaissent dans le couloir.
+
+Puis elle se laissa retomber dans son fauteuil.
+
+— Plus rapidement…
+
+Elle contempla les documents étalés devant elle.
+
+Il lui avait fallu presque toute la matinée pour vérifier un contrat qui n’aurait probablement occupé son père que quelques minutes.
+
+Elle prit le premier registre.
+
+Puis le second.
+
+Et découvrit qu’elle avait encore oublié de noter le changement de date dans le livre des livraisons.
+
+— Évidemment.
+
+Hasol soupira.
+
+Elle tendit la main vers l’encrier.
+
+Puis s’arrêta.
+
+Sur le coin du bureau se trouvait un petit morceau de papier, couvert de l’écriture d’Armin.
+
+Ne jamais confondre un accord verbal avec une obligation écrite.
+
+Il avait noté cette phrase des années auparavant.
+
+Hasol l’avait retrouvée parmi les documents commerciaux lorsqu’elle avait commencé à reprendre certaines de ses tâches.
+
+Elle la relisait presque chaque jour.
+
+Parfois parce qu’elle lui était utile.
+
+Parfois simplement pour revoir son écriture.
+
+Ce matin-là, elle resta longtemps à la contempler.
+
+Puis reprit sa plume.
+
+La mort d’Armin n’avait pas mis fin aux activités de la maison Shun.
+
+Des marchandises continuaient d’arriver.
+
+Des fournisseurs réclamaient leurs règlements.
+
+Des clients attendaient leurs livraisons.
+
+Les employés expérimentés de son père avaient repris une grande partie des affaires courantes, et Iseria avait conservé un regard attentif sur les décisions les plus importantes.
+
+Mais une maison commerçante ne pouvait pas vivre éternellement sur les habitudes de celui qui l’avait dirigée.
+
+Certaines décisions exigeaient désormais une nouvelle signature.
+
+D’autres demandaient qu’on compare les offres, qu’on renégocie un prix ou qu’on décide de poursuivre une relation commerciale.
+
+Au début, Hasol avait simplement voulu aider.
+
+Vérifier quelques documents.
+
+Répondre à une lettre.
+
+Assister à une réunion pour que sa mère n’ait pas à s’en charger seule.
+
+Puis elle avait découvert le nombre de personnes qui dépendaient de ces activités.
+
+Les employés de la maison.
+
+Les transporteurs.
+
+Les fournisseurs.
+
+Les familles qui vivaient du travail accompli dans les entrepôts et les bureaux.
+
+Elle n’avait pas voulu abandonner tout cela.
+
+Pas après avoir vu son père y consacrer tant d’années.
+
+Elle avait donc accepté de reprendre une partie de ses responsabilités.
+
+Pas l’ensemble du commerce familial.
+
+Elle n’en avait ni l’expérience ni le temps.
+
+Mais suffisamment pour que les journées commencent à lui paraître beaucoup trop courtes.
+
+— Tu es encore ici ?
+
+Hasol releva les yeux.
+
+Iseria se tenait dans l’encadrement de la porte.
+
+Elle portait une longue robe de style elfique, confectionnée dans une étoffe sombre dont les broderies argentées reflétaient doucement la lumière des lampes.
+
+Depuis la mort d’Armin, elle avait conservé son élégance habituelle.
+
+Mais Hasol remarquait désormais les moments où sa mère semblait plus fatiguée.
+
+Les silences qui s’attardaient.
+
+Les regards qu’elle adressait parfois au fauteuil vide du petit salon.
+
+— Je termine un dossier, répondit-elle.
+
+Iseria regarda la pile de registres.
+
+— Tu m’as dit la même chose avant le dîner.
+
+Hasol sourit avec embarras.
+
+— C’est un dossier un peu compliqué.
+
+Sa mère s’approcha.
+
+Elle posa une main sur les documents.
+
+Puis regarda sa fille.
+
+— Tu sais que tu n’es pas obligée de reprendre tout le travail de ton père ?
+
+Hasol baissa les yeux.
+
+— Je sais.
+
+— Nos employés connaissent leur métier. Et je peux m’occuper de certaines décisions.
+
+— Je sais aussi.
+
+Iseria s’assit en face d’elle.
+
+— Alors pourquoi es-tu encore dans ce bureau ?
+
+Hasol contempla les registres.
+
+Elle aurait pu répondre qu’une livraison attendait sa validation.
+
+Ou qu’elle devait vérifier les comptes du mois.
+
+Tout cela était vrai.
+
+Mais ce n’était pas l’essentiel.
+
+Elle effleura le petit papier couvert de l’écriture d’Armin.
+
+— Parce qu’il aurait voulu que ses affaires continuent.
+
+Iseria resta silencieuse.
+
+Hasol poursuivit :
+
+— Je ne veux pas que tout ce qu’il a construit s’arrête simplement parce qu’il n’est plus là.
+
+Sa mère baissa un instant les yeux.
+
+Puis elle lui prit doucement la main.
+
+— Son travail ne disparaîtra pas, Hasol.
+
+La jeune femme sentit sa gorge se serrer.
+
+Iseria poursuivit :
+
+— Mais il ne t’aurait pas demandé de renoncer à ta propre vie pour le préserver.
+
+Hasol contempla sa mère.
+
+Pendant une seconde, elle revit leur dernière dispute.
+
+Le Griffon d’Argent.
+
+Le refus de son père de lui expliquer son hostilité envers la guilde.
+
+Et cette colère qu’elle ne parvenait toujours pas à oublier.
+
+Elle détourna les yeux.
+
+— Je ne veux pas renoncer à ma vie.
+
+Sa voix était basse.
+
+— Je veux simplement réussir à faire les deux.
+
+Iseria la regarda avec tendresse.
+
+— Alors il faudra aussi apprendre à te reposer.
+
+Hasol eut un petit rire.
+
+— Vous vous êtes tous donné le mot ?
+
+— Tous ?
+
+— Toi. Orven. Yoon. Et même Zio.
+
+Sa mère sourit.
+
+— Voilà qui me rassure.
+
+Hasol soupira théâtralement.
+
+Mais lorsqu’Iseria lui tendit la main, elle posa enfin sa plume.
+
+— D’accord.
+
+Elle ferma le registre.
+
+— J’arrête pour ce soir.
+
+Sa mère se leva.
+
+— Bien.
+
+Hasol la rejoignit près de la porte.
+
+Avant de sortir, elle jeta un dernier regard au bureau de son père.
+
+La lampe éclairait encore le petit papier posé près de l’encrier.
+
+Elle résista à l’envie de retourner le ranger.
+
+Puis suivit sa mère.
+
+Les semaines suivantes, Hasol découvrit qu’une journée pouvait contenir beaucoup trop d’obligations.
+
+Le matin, elle assistait parfois aux réunions commerciales de la maison Shun.
+
+L’après-midi, elle retrouvait Orven à l’atelier ou travaillait pour le Griffon d’Argent.
+
+Et lorsqu’un créneau se libérait enfin, elle prenait son équipement et partait chasser.
+
+Elle rentrait souvent après le coucher du soleil.
+
+Mangeait rapidement.
+
+Puis ouvrait un registre ou son carnet de runes.
+
+Un soir, elle s’endormit devant une page consacrée à ses prochaines améliorations.
+
+Le lendemain matin, elle découvrit une marque d’encre sur sa joue.
+
+Iseria éclata de rire en la voyant descendre.
+
+Hasol ne comprit pas immédiatement pourquoi.
+
+Puis sa mère lui tendit un miroir.
+
+— Oh…
+
+Elle regarda la tache.
+
+Puis son reflet.
+
+— Voilà qui explique pourquoi la domestique me regardait bizarrement.
+
+Iseria rit de plus belle.
+
+Hasol finit par rire avec elle.
+
+Mais ce soir-là, lorsqu’elle ouvrit son interface, son sourire s’effaça.
+
+Son niveau n’avait toujours pas changé.
+
+Elle contempla la barre de progression.
+
+Puis son calendrier.
+
+Ray avait prévu une nouvelle chasse.
+
+Yoon voulait travailler ses compétences.
+
+Zio leur avait proposé un entraînement plus difficile.
+
+Et elle avait déjà trois réunions commerciales inscrites dans les prochains jours.
+
+Hasol referma lentement son interface.
+
+Autrefois, elle aurait simplement trouvé un moyen de chasser davantage.
+
+Une heure avant le lever du soleil.
+
+Deux heures après le coucher.
+
+Un jour de repos supprimé.
+
+Elle avait passé des mois à vivre ainsi, déterminée à compenser les exigences extraordinaires de sa classe légendaire.
+
+Mais aujourd’hui, ce n’était plus aussi simple.
+
+Et cette réalité commençait à lui peser.
+
+## II. Celle qui ne voulait pas rester derrière
+
+— Tu vas finir par user le sol.
+
+Hasol s’immobilisa.
+
+Zio se tenait près de l’entrée du terrain d’entraînement.
+
+Il avait retiré son casque et posé son bouclier contre un arbre.
+
+La jeune femme baissa les yeux.
+
+Elle venait de recommencer le même enchaînement à l’épée pour la huitième fois.
+
+— Je travaille mes déplacements.
+
+— Je vois ça.
+
+Zio s’approcha.
+
+— Mais tu commences à ralentir.
+
+Hasol se redressa.
+
+— Je peux encore continuer.
+
+Le Gardien contempla son visage.
+
+Puis son bras légèrement tremblant.
+
+— Je n’en doute pas.
+
+Elle sourit.
+
+— Alors nous pouvons reprendre ?
+
+— Après une pause.
+
+Hasol ouvrit la bouche.
+
+Zio leva un doigt.
+
+— Ce n’est pas une négociation.
+
+Elle le fixa.
+
+Puis éclata de rire.
+
+— Tu commences à parler comme Yoon !
+
+— Elle m’a donné quelques conseils.
+
+Hasol soupira.
+
+— Trahison familiale.
+
+Zio sourit.
+
+Mais il ne reprit pas son bouclier.
+
+Hasol finit par accepter la gourde qu’il lui tendait.
+
+Elle s’assit sur un banc.
+
+Puis contempla le terrain vide.
+
+Au bout d’un moment, elle demanda :
+
+— Tu as gagné combien de niveaux depuis que tu nous as rejoints ?
+
+Zio tourna la tête.
+
+— Pourquoi ?
+
+— Je suis curieuse.
+
+Il lui répondit.
+
+Hasol resta silencieuse.
+
+C’était davantage que ce qu’elle avait espéré.
+
+Pas une progression incompréhensible pour un chasseur aussi expérimenté.
+
+Mais suffisamment pour rendre leur écart encore plus visible.
+
+Elle regarda sa propre interface.
+
+Puis la referma.
+
+Zio l’observa.
+
+— Quelque chose te tracasse ?
+
+Hasol hésita.
+
+— J’ai l’impression de ne plus avancer.
+
+— Ce n’est pas vrai.
+
+Elle baissa les yeux.
+
+— Pas aussi vite que vous.
+
+Zio resta silencieux.
+
+Hasol poursuivit :
+
+— Avant, je pouvais passer presque toutes mes journées à chasser. Quand je rentrais, j’étais épuisée, mais je savais que j’avais progressé.
+
+Elle contempla ses mains.
+
+— Maintenant, je peux passer une journée entière à vérifier des contrats et terminer exactement au même niveau que le matin.
+
+Le Gardien s’assit à côté d’elle.
+
+— Et pendant cette journée, qu’as-tu accompli ?
+
+Hasol fronça les sourcils.
+
+— Comment ça ?
+
+— Tu as vérifié des contrats ?
+
+— Oui.
+
+— Tu as évité des erreurs ?
+
+Elle réfléchit.
+
+— Quelques-unes.
+
+— Tu as pris des décisions pour les activités de ta famille ?
+
+— Oui.
+
+Zio acquiesça.
+
+— Alors tu n’as pas passé une journée à ne rien faire.
+
+Hasol détourna les yeux.
+
+— Je sais.
+
+Elle inspira.
+
+— Mais ça ne m’aide pas à vous rattraper.
+
+Le Gardien ne répondit pas immédiatement.
+
+Il regarda le terrain.
+
+Puis demanda :
+
+— Pourquoi tiens-tu tellement à nous rattraper ?
+
+Hasol serra légèrement les doigts.
+
+La réponse lui semblait évidente.
+
+Pour ne pas être inutile.
+
+Pour ne pas ralentir ses compagnons.
+
+Pour ne plus jamais revivre ses années d’Académie.
+
+Mais lorsqu’elle essaya de le dire, les mots lui parurent soudain moins simples.
+
+— Parce que je veux pouvoir combattre à vos côtés.
+
+Zio tourna la tête.
+
+— Tu le fais déjà.
+
+— Oui, mais…
+
+Elle hésita.
+
+— Vous finirez par affronter des monstres que je ne pourrai plus suivre.
+
+Il la contempla.
+
+— Tu crois vraiment que nous allons simplement te laisser derrière ?
+
+Hasol ne répondit pas.
+
+Zio posa les avant-bras sur ses genoux.
+
+— Hasol, nous avons tous des responsabilités différentes.
+
+Il désigna son bouclier.
+
+— Mon rôle est de nous protéger. Ray apporte des attaques à distance. Yoon contrôle le terrain et nous soigne.
+
+Puis il la regarda.
+
+— Et toi, tu fais beaucoup plus que combattre avec ton épée.
+
+Hasol baissa les yeux.
+
+— Mes runes…
+
+— Tes runes. Tes améliorations. La préparation de nos équipements.
+
+Il sourit.
+
+— Et toutes les idées que tu apportes lorsque nous préparons une expédition.
+
+La jeune femme resta silencieuse.
+
+Zio poursuivit :
+
+— Je comprends que tu veuilles progresser. Mais nous ne t’avons pas demandé de porter toute l’équipe sur tes épaules.
+
+Hasol sentit une chaleur lui monter dans la poitrine.
+
+Elle sourit faiblement.
+
+— Tu dis ça parce que tu es gentil.
+
+Zio éclata de rire.
+
+— Je dis ça parce que c’est vrai.
+
+Puis il se leva et reprit son bouclier.
+
+— Et maintenant, tu as terminé ta pause ?
+
+Hasol redressa immédiatement la tête.
+
+— Oui !
+
+Il sourit.
+
+— Alors montre-moi cet enchaînement une dernière fois.
+
+Elle se leva.
+
+Puis dégaina son épée.
+
+Cette fois, elle prit le temps de respirer avant d’attaquer.
+
+Quelques jours plus tard, Hasol retrouva Yoon et Ray au Griffon d’Argent.
+
+Les deux chasseurs avaient terminé une chasse sans elle.
+
+Hasol les accueillit avec enthousiasme.
+
+— Alors ? Comment ça s’est passé ?
+
+Yoon sourit.
+
+— Très bien.
+
+Ray ouvrit son registre.
+
+— Nous avons rencontré plusieurs groupes de monstres intéressants. Et Yoon a atteint un nouveau niveau.
+
+Hasol se tourna immédiatement vers son amie.
+
+— Vraiment ?
+
+La Sage acquiesça.
+
+— Oui !
+
+Hasol la serra dans ses bras.
+
+— Félicitations !
+
+Yoon éclata de rire.
+
+— Merci !
+
+Puis Ray ajouta :
+
+— J’ai également progressé.
+
+Hasol se retourna.
+
+— Toi aussi ?
+
+Il acquiesça.
+
+Elle lui adressa un sourire sincère.
+
+— Félicitations, Ray.
+
+— Merci.
+
+Mais lorsqu’ils commencèrent à discuter de leurs prochaines expéditions, Hasol sentit quelque chose se refermer dans sa poitrine.
+
+Tous avançaient.
+
+Ray.
+
+Yoon.
+
+Zio.
+
+Et elle passait une partie de ses journées derrière les registres commerciaux de son père.
+
+Elle aurait voulu être heureuse sans réserve pour ses compagnons.
+
+Elle l’était.
+
+Mais la frustration restait là.
+
+Yoon sembla le remarquer.
+
+— Hasol ?
+
+Elle releva les yeux.
+
+— Oui ?
+
+— Tu sais que tu n’es pas obligée de nous rattraper immédiatement ?
+
+Hasol baissa les yeux vers son interface.
+
+— Avant, j’y arrivais presque.
+
+Ray referma son registre.
+
+— Ta classe demande davantage d’expérience que les nôtres.
+
+— Je sais !
+
+Sa réponse avait été plus sèche qu’elle ne l’avait voulu.
+
+Elle inspira.
+
+— Pardon.
+
+Un silence s’installa.
+
+Puis elle poursuivit :
+
+— Avant, je pouvais chasser toute la journée. Je rentrais, je dormais, et je recommençais le lendemain.
+
+Elle regarda ses compagnons.
+
+— Maintenant, quand je ne suis pas chez Orven, je dois m’occuper des contrats de papa. Il y a toujours un fournisseur à contacter, une livraison à vérifier ou une décision à prendre.
+
+Sa voix se fit plus basse.
+
+— Et chaque fois que je pars plusieurs jours, j’ai l’impression de laisser maman seule avec une partie du travail.
+
+Yoon lui prit doucement la main.
+
+Hasol secoua la tête.
+
+— Je ne veux pas arrêter de chasser.
+
+— Personne ne te le demande, répondit son amie.
+
+— Je sais. Mais je ne veux pas non plus devenir celle que vous devez attendre.
+
+Ray réfléchit quelques instants.
+
+Puis répondit :
+
+— Tu ne nous ralentis pas autant que tu le crois.
+
+Hasol releva les yeux.
+
+Le mage poursuivit :
+
+— Tes runes rendent nos combats plus efficaces. Tu contribues à notre progression même les jours où tu ne viens pas chasser.
+
+Elle resta silencieuse.
+
+Yoon sourit.
+
+— Et si tu veux mon avis, nous devrions surtout arrêter de comparer nos niveaux comme s’ils résumaient tout ce que nous savons faire.
+
+Hasol eut un petit rire.
+
+— Ça ressemble à une phrase d’instructeur.
+
+— C’est une excellente phrase d’instructeur.
+
+Ray ajusta ses lunettes.
+
+— Elle n’est pas fausse.
+
+Hasol contempla ses deux compagnons.
+
+Puis sourit.
+
+— D’accord.
+
+Elle prit une inspiration.
+
+— Mais je vais quand même continuer à essayer de vous rattraper.
+
+Yoon ferma les yeux.
+
+— Évidemment.
+
+Ray eut un petit rire.
+
+Hasol rit avec eux.
+
+Pourtant, lorsqu’elle rentra ce soir-là, elle ouvrit encore son calendrier.
+
+Elle déplaça une réunion.
+
+Confia un contrôle de livraison à l’intendant.
+
+Puis libéra une matinée pour la chasse.
+
+Elle savait qu’elle devait apprendre à déléguer.
+
+Mais elle n’avait aucune intention de renoncer à progresser.
+
+Pas après tout ce qu’il lui avait fallu pour devenir chasseuse.
+
+## III. La limite des quatre
+
+Le donjon avait été choisi pour une raison simple.
+
+Il leur permettrait de tester leur formation complète contre des adversaires plus exigeants que ceux de leurs entraînements habituels.
+
+Zio en avait étudié les rapports.
+
+Ray avait comparé plusieurs relevés.
+
+Yoon avait préparé ses ressources de soin.
+
+Et Hasol avait consacré une soirée entière à vérifier l’équipement de ses compagnons.
+
+Ils n’entraient donc pas sans préparation.
+
+Mais ils ignoraient encore une chose essentielle.
+
+— Je n’aime pas cette salle.
+
+Hasol s’arrêta devant une grande ouverture.
+
+Le passage débouchait sur une chambre circulaire creusée dans une roche sombre.
+
+Quatre piliers entouraient un espace central.
+
+Des inscriptions anciennes recouvraient le sol, presque entièrement dissimulées sous une couche de poussière.
+
+Au fond, une silhouette massive se tenait immobile.
+
+Elle ressemblait à une armure de pierre, haute de plusieurs mètres, dont les membres étaient reliés par d’épais joints métalliques.
+
+Une faible lumière rouge brillait au fond de son casque.
+
+Hasol concentra son regard.
+
+<div class="system-window lit-window" data-window-id="107" data-window-type="monstre">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
+  <p><strong>Nom :</strong> Sentinelle des pierres scellées</p>
+  <p><strong>Catégorie :</strong> Boss de donjon</p>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">32</span></p>
+</div>
+
+Elle inspira lentement.
+
+— Niveau trente-deux.
+
+Ray ajusta ses lunettes.
+
+— Plus élevé que ce que les premiers rapports laissaient supposer.
+
+Yoon observa la salle.
+
+— Nous pouvons encore revenir en arrière.
+
+Zio prit quelques instants pour étudier les lieux.
+
+— Nous allons d’abord préparer notre approche.
+
+Il désigna les piliers.
+
+— Hasol, tu restes près de moi. Ray, garde une ligne de tir dégagée. Yoon, place ton Domaine de manière à protéger notre repli.
+
+La Sage acquiesça.
+
+Hasol dégaina son épée.
+
+Elle avait activé Aura runique plus tôt dans la journée en sacrifiant l’une des runes gagnées chez Orven.
+
+Une aura de Terre enveloppait toujours sa lame.
+
+Elle jeta un regard aux inscriptions présentes sur le sol.
+
+— Vous pensez qu’elles servent à quelque chose ?
+
+Ray se pencha.
+
+— Probablement un ancien dispositif du donjon.
+
+— Un piège ?
+
+Le mage hésita.
+
+— Possible. Mais je ne reconnais pas ces symboles.
+
+Hasol activa instinctivement son Œil runique.
+
+Elle contempla les inscriptions.
+
+Rien ne se produisit.
+
+Sa compétence lui permettait d’analyser le potentiel des runes d’équipement, pas de comprendre tous les mécanismes gravés dans la pierre.
+
+Elle referma sa fenêtre.
+
+— Je ne peux pas les identifier non plus.
+
+Zio leva son bouclier.
+
+— Alors nous avancerons avec prudence. Au moindre problème, nous nous replions.
+
+Les trois autres acquiescèrent.
+
+Ils entrèrent dans la salle.
+
+La Sentinelle s’anima lorsque Zio franchit le cercle central.
+
+Un grondement profond traversa les murs.
+
+Les yeux rouges de la créature s’illuminèrent.
+
+Elle souleva une arme massive.
+
+— Formation ! lança Zio.
+
+Hasol se plaça sur son flanc.
+
+Ray recula près d’un pilier.
+
+Yoon leva les mains.
+
+— Domaine des Entraves Runiques !
+
+Un cercle violet se déploya sous la Sentinelle.
+
+La créature ralentit.
+
+Mais elle continua à avancer.
+
+Zio encaissa sa première attaque derrière son bouclier.
+
+Le choc résonna dans toute la salle.
+
+Hasol profita de l’ouverture.
+
+Elle frappa le genou de pierre.
+
+Sa lame ouvrit une entaille dans l’articulation.
+
+— Il subit des dégâts ! cria-t-elle.
+
+— Continue ! répondit Zio.
+
+Ray leva la main.
+
+— Trait incandescent !
+
+Une ligne de feu frappa la créature à l’épaule.
+
+Des éclats de pierre se détachèrent.
+
+La Sentinelle vacilla.
+
+Puis elle posa brutalement un pied au sol.
+
+Les inscriptions de la chambre s’illuminèrent.
+
+Un grondement sourd traversa les piliers.
+
+Hasol se retourna.
+
+— Qu’est-ce que…
+
+Quatre formes se dressèrent sur le sol.
+
+D’abord de simples amas de poussière.
+
+Puis des corps d’argile, armés de griffes sombres.
+
+Des créatures plus petites venaient d’apparaître autour du boss.
+
+<div class="system-window lit-window" data-window-id="108" data-window-type="monstre">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>ENNEMIS IDENTIFIÉS</div>
+  <p><strong>Nom :</strong> Serviteurs d’argile</p>
+  <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">11</span></p>
+  <p class="lit-window__row"><strong>Nombre observé :</strong> <span class="lit-window__value">4</span></p>
+</div>
+
+Ray ouvrit de grands yeux.
+
+— Des invocations ?
+
+Zio leva son bouclier.
+
+— Hasol, protège Yoon !
+
+Elle pivota immédiatement.
+
+Le premier serviteur bondit vers la Sage.
+
+Hasol l’intercepta.
+
+Une frappe suffit à le repousser.
+
+Elle enchaîna.
+
+La créature s’effondra.
+
+La seconde approcha.
+
+Elle l’acheva également.
+
+Yoon renforça son Domaine.
+
+Les deux derniers serviteurs ralentirent.
+
+Ray en élimina un avec une petite attaque de feu.
+
+Hasol détruisit le dernier.
+
+Puis elle se retourna vers le boss.
+
+— C’est bon !
+
+Mais au même instant, les inscriptions brillèrent de nouveau.
+
+Quatre autres formes apparurent.
+
+Hasol se figea.
+
+— Encore ?
+
+Zio repoussa l’arme de la Sentinelle.
+
+— Ne perdez pas votre formation !
+
+Les nouveaux serviteurs se précipitèrent vers eux.
+
+Hasol se retrouva obligée de reculer pour défendre Ray.
+
+Yoon tenta de ralentir les créatures tout en maintenant son Domaine sur le boss.
+
+La Sentinelle profita de l’ouverture.
+
+Son arme s’abattit sur Zio.
+
+Le Gardien para.
+
+Le choc le força à poser un genou au sol.
+
+Hasol voulut intervenir.
+
+Mais deux serviteurs lui barrèrent la route.
+
+Elle serra les dents.
+
+— Laissez-moi passer !
+
+Son épée frappa la première créature.
+
+Puis la seconde.
+
+Elles s’effondrèrent.
+
+Lorsqu’elle releva la tête, quatre nouvelles invocations se formaient près des piliers.
+
+Les minutes suivantes devinrent un cauchemar.
+
+Hasol avait déjà perdu le compte des serviteurs détruits.
+
+Ils n’étaient pas puissants individuellement.
+
+Des monstres de niveau onze représentaient des adversaires relativement faibles pour leur équipe.
+
+Mais leur nombre changeait tout.
+
+Chaque fois qu’un groupe disparaissait, un autre finissait par surgir.
+
+Ils attaquaient de plusieurs directions.
+
+Bloquaient les passages.
+
+Et obligeaient Hasol à quitter le boss pour défendre ses compagnons.
+
+— Ray ! À droite !
+
+Le mage lança une Boule de feu.
+
+Trois serviteurs furent projetés contre un pilier.
+
+Mais il commençait à manquer de Mana.
+
+Son souffle devenait plus court.
+
+Il baissa la main.
+
+— Je ne pourrai pas continuer longtemps !
+
+Yoon avait posé un Chant runique près de leur position.
+
+Le cercle vert pulsait régulièrement, soulageant les blessures de ceux qui restaient dans sa zone.
+
+Mais son Mana diminuait lui aussi.
+
+— Je dois arrêter de maintenir les Entraves ! annonça-t-elle.
+
+Zio contempla les serviteurs qui approchaient.
+
+Puis la Sentinelle.
+
+— Ray, utilise Mur de flammes pour nous ouvrir un passage !
+
+Le mage releva les yeux.
+
+— Vers où ?
+
+— L’entrée !
+
+Hasol tourna brusquement la tête.
+
+— On abandonne ?
+
+Zio para un nouveau coup du boss.
+
+La pierre se fissura sous ses bottes.
+
+— Nous ne pouvons pas continuer comme ça !
+
+Hasol regarda les invocations.
+
+Puis les inscriptions.
+
+Elle commençait à comprendre.
+
+— Ce sont les piliers…
+
+Ray suivit son regard.
+
+— Ils réagissent lorsque le boss frappe le sol.
+
+Une nouvelle pulsation traversa la chambre.
+
+D’autres serviteurs apparurent.
+
+Yoon recula.
+
+— Il y a un mécanisme qui les fait revenir !
+
+Hasol sentit sa colère monter.
+
+Si elle pouvait simplement atteindre l’un des piliers…
+
+Elle se précipita vers le plus proche.
+
+— Hasol ! cria Zio.
+
+Elle contourna un serviteur.
+
+Puis un autre.
+
+Sa lame frappa la base du pilier.
+
+Des éclats de pierre volèrent.
+
+Mais les inscriptions continuèrent à briller.
+
+Elle frappa de nouveau.
+
+Rien.
+
+— Ça ne fonctionne pas !
+
+Un grondement retentit derrière elle.
+
+La Sentinelle venait de se retourner.
+
+Son arme s’abattit.
+
+Hasol esquiva de justesse.
+
+Le choc détruisit une partie du sol.
+
+Elle recula précipitamment.
+
+Deux serviteurs surgirent entre elle et ses compagnons.
+
+Yoon leva la main.
+
+— Hasol, reviens !
+
+La jeune femme tenta de passer.
+
+Mais la Sentinelle approchait.
+
+Zio chargea.
+
+— Heurt du Gardien !
+
+Son bouclier frappa le boss.
+
+La créature fut repoussée de plusieurs pas.
+
+Le Gardien se plaça devant Hasol.
+
+— On sort. Maintenant.
+
+Elle voulut protester.
+
+Puis elle vit son visage.
+
+Une coupure saignait au-dessus de sa tempe.
+
+Son bras gauche tremblait sous le poids du bouclier.
+
+Ray était presque épuisé.
+
+Yoon avait pâli.
+
+Et derrière eux, de nouveaux serviteurs sortaient encore du sol.
+
+Hasol sentit sa gorge se serrer.
+
+— D’accord.
+
+Ray leva ses deux mains.
+
+— Mur de flammes !
+
+Une barrière ardente se dressa entre les serviteurs et l’entrée.
+
+Hasol revint près de Yoon.
+
+Zio recula le dernier, son bouclier levé face au boss.
+
+Ils traversèrent le passage.
+
+La Sentinelle tenta de les poursuivre.
+
+Mais son corps massif ne pouvait pas se déplacer aussi rapidement dans le couloir étroit.
+
+Zio attendit que les autres soient suffisamment loin.
+
+Puis se replia à son tour.
+
+Ils coururent jusqu’à une galerie où les grondements finirent par s’estomper.
+
+Là seulement, ils s’arrêtèrent.
+
+Hasol posa une main contre la paroi.
+
+Elle respirait difficilement.
+
+Son bras lui faisait mal.
+
+Son épée portait plusieurs éraflures.
+
+Mais elle était surtout furieuse.
+
+— Nous aurions pu gagner !
+
+Yoon se laissa glisser sur un rocher.
+
+— Hasol…
+
+— Le boss subissait nos attaques ! J’ai réussi à endommager son genou !
+
+Zio posa son bouclier contre le mur.
+
+— Oui.
+
+La jeune femme se tourna vers lui.
+
+— Alors pourquoi sommes-nous partis ?
+
+Le Gardien l’observa calmement.
+
+— Parce que nous étions en train de perdre.
+
+Hasol resta silencieuse.
+
+Zio poursuivit :
+
+— Nous ne manquions pas de puissance. Nous ne pouvions simplement pas combattre le boss et éliminer ses invocations sans fin en même temps.
+
+Ray ajusta ses lunettes.
+
+— Elles semblaient provenir du mécanisme de la salle.
+
+Yoon acquiesça.
+
+— Et plus nous dépensions de Mana à les éliminer, moins il nous en restait pour le boss.
+
+Hasol baissa les yeux.
+
+Elle ouvrit son interface.
+
+Les éliminations de serviteurs avaient bien été enregistrées.
+
+Mais les gains d’expérience semblaient faibles pour leur nombre.
+
+Elle referma la fenêtre.
+
+Même sur ce point, le combat avait été décevant.
+
+Elle serra les poings.
+
+— Si j’avais été plus forte…
+
+— Non, répondit Zio.
+
+Elle releva immédiatement la tête.
+
+Le Gardien poursuivit :
+
+— Même si tu avais eu plusieurs niveaux supplémentaires, le problème serait resté le même.
+
+Il désigna la direction de la salle.
+
+— Tant que ce mécanisme fonctionne, nous devons affronter un nombre d’ennemis que nous ne parvenons pas à maîtriser.
+
+Hasol resta silencieuse.
+
+Zio reprit :
+
+— Nous avons besoin de quelqu’un capable d’identifier et de désactiver les pièges.
+
+Ray acquiesça.
+
+— Un spécialiste de l’exploration.
+
+Yoon releva les yeux.
+
+— Une Ranger ?
+
+Zio sourit légèrement.
+
+— Ce serait un excellent choix.
+
+Hasol contempla ses compagnons.
+
+Ils avaient essayé de vaincre le problème par la force.
+
+Elle avait même frappé l’un des piliers en espérant interrompre le mécanisme.
+
+Mais personne ne savait réellement ce qui déclenchait les invocations.
+
+Ni comment y mettre fin.
+
+Elle finit par acquiescer.
+
+— Alors trouvons une Ranger.
+
+Yoon redressa brusquement la tête.
+
+— Attendez…
+
+Hasol tourna les yeux.
+
+La Sage souriait déjà.
+
+— Je crois que je connais quelqu’un.
+
+## IV. Samia Claire
+
+— Non.
+
+Yoon fronça les sourcils.
+
+— Non ?
+
+Samia Claire croisa les bras.
+
+— Je te connais.
+
+Les deux jeunes femmes se trouvaient à une table d’une petite auberge proche de l’Académie.
+
+Samia avait posé son arc contre le mur. Ses longs cheveux blonds encadraient un visage aux yeux bleus particulièrement vifs.
+
+Elle portait une tenue de ville élégante, différente de son équipement de chasse, mais conservait à la ceinture une petite sacoche d’outils.
+
+Yoon la contempla avec un air faussement innocent.
+
+— Qu’est-ce que tu veux dire ?
+
+Samia se pencha.
+
+— Quand tu m’invites à déjeuner sans me dire pourquoi, c’est généralement parce que tu veux me demander quelque chose.
+
+La Sage éclata de rire.
+
+— Ce n’est pas vrai !
+
+— La dernière fois, tu voulais mes notes sur les mécanismes de verrouillage.
+
+— Elles étaient très utiles.
+
+— Et la fois d’avant, tu m’as demandé de t’aider à préparer un exercice de repérage.
+
+Yoon sourit.
+
+— Tu étais excellente.
+
+Samia leva les yeux au ciel.
+
+— Voilà. Tu recommences.
+
+Puis elle prit une gorgée de sa boisson.
+
+— Bon. Qu’est-ce qu’il te faut ?
+
+Yoon posa lentement son verre.
+
+— Une cinquième membre.
+
+Samia s’immobilisa.
+
+Elle releva les yeux.
+
+— Pour ton équipe ?
+
+— Oui.
+
+La Ranger réfléchit.
+
+— Celle avec Hasol Shun ?
+
+Yoon acquiesça.
+
+— Oui.
+
+— L’Arcaniste runique légendaire ?
+
+— Exactement.
+
+Samia sourit.
+
+— Tu m’avais déjà beaucoup parlé d’elle.
+
+Yoon se redressa.
+
+— Nous avons affronté un boss de donjon.
+
+— Félicitations.
+
+— Et nous avons dû fuir.
+
+Samia reposa sa tasse.
+
+— Ah.
+
+Son expression changea.
+
+Yoon lui raconta les événements.
+
+La Sentinelle.
+
+Les invocations.
+
+Les piliers.
+
+Et cette salle dont ils n’avaient pas réussi à comprendre le fonctionnement.
+
+Samia l’écouta sans l’interrompre.
+
+Lorsque Yoon termina, la Ranger se pencha sur le croquis qu’elle venait de tracer.
+
+— Quatre piliers ?
+
+— Oui.
+
+— Et les monstres apparaissaient toujours après l’activation des inscriptions ?
+
+— C’est ce que nous avons observé.
+
+Samia réfléchit.
+
+— Vous n’avez pas essayé d’interrompre le circuit ?
+
+Yoon soupira.
+
+— Hasol a frappé l’un des piliers.
+
+La Ranger releva brusquement la tête.
+
+— Elle a fait quoi ?
+
+Yoon eut un sourire embarrassé.
+
+— Elle a essayé de le détruire.
+
+Samia ferma les yeux.
+
+Puis posa une main sur son front.
+
+— Les combattants…
+
+Yoon éclata de rire.
+
+— C’est pour ça que je suis venue te voir !
+
+Samia contempla de nouveau le croquis.
+
+— Difficile de savoir sans examiner la salle.
+
+Elle désigna l’un des piliers.
+
+— Mais si les apparitions dépendent d’un mécanisme, il doit bien exister un moyen de l’interrompre. Parfois, ce qui paraît être le dispositif principal n’est qu’un élément alimenté par une commande dissimulée ailleurs.
+
+Yoon acquiesça.
+
+— C’est ce que nous espérons.
+
+La Ranger la regarda.
+
+— Tu veux donc que je vous accompagne ?
+
+— Oui. Et pas seulement pour une sortie.
+
+Samia cligna des yeux.
+
+Yoon poursuivit :
+
+— Nous avons encore une place dans notre équipe. Et cinq points disponibles.
+
+La Ranger baissa les yeux vers son arc.
+
+— Je suppose qu’il vous faut quelqu’un pour les pièges et les coffres.
+
+— Oui.
+
+Yoon sourit.
+
+— Mais aussi quelqu’un avec qui nous aurons envie de passer nos journées.
+
+Samia releva les yeux.
+
+La Sage poursuivit :
+
+— Je sais comment tu travailles. Et je sais que tu ne te contentes pas de tirer quelques flèches avant d’attendre que les autres terminent le combat.
+
+Un petit sourire apparut sur le visage de Samia.
+
+— Tu as donc remarqué mes immenses qualités.
+
+Yoon éclata de rire.
+
+— Certaines.
+
+La Ranger réfléchit.
+
+Puis demanda :
+
+— Qui fait partie de votre équipe, exactement ?
+
+— Hasol, bien sûr. Moi. Ray Corvus, un mage de feu.
+
+Samia acquiesça.
+
+— Et le quatrième ?
+
+— Mon frère.
+
+La Ranger se figea.
+
+— Ton frère ?
+
+Yoon sourit.
+
+— Zio.
+
+Samia posa immédiatement sa tasse.
+
+— Zio Notos ?
+
+La Sage cligna des yeux.
+
+— Oui…
+
+— Le Gardien ?
+
+— Oui.
+
+— Celui qui était toujours entouré d’étudiants quand il revenait à l’Académie ?
+
+Yoon éclata de rire.
+
+— Combien de frères crois-tu que j’ai ?
+
+Samia redressa le dos.
+
+— J’accepte.
+
+Yoon resta bouche bée.
+
+— Quoi ?
+
+— J’accepte.
+
+— Mais je n’ai pas encore terminé !
+
+Samia sourit largement.
+
+— Tu aurais dû commencer par cette information.
+
+Yoon la fixa.
+
+Puis éclata de rire.
+
+— Samia !
+
+La Ranger prit un air innocent.
+
+— Quoi ?
+
+— Tu ne vas pas me faire croire que tu acceptes uniquement parce que Zio est dans l’équipe !
+
+Samia réfléchit avec un sérieux exagéré.
+
+— Bien sûr que non.
+
+Elle marqua une pause.
+
+— Mais reconnais que c’est un argument très convaincant.
+
+Yoon secoua la tête en riant.
+
+Samia finit par reprendre son sérieux.
+
+— Plus sérieusement, j’aimerais examiner ce donjon.
+
+Elle baissa les yeux vers le croquis.
+
+— J’ai passé des années à apprendre à repérer des mécanismes que les autres chasseurs ne voient pas. Et, depuis la fin de l’Académie, on me propose surtout de vérifier des portes ou d’ouvrir des coffres pendant que les autres discutent des combats.
+
+Elle releva les yeux.
+
+— Je voudrais participer aux décisions, moi aussi.
+
+Yoon sourit.
+
+— Alors tu devrais bien t’entendre avec nous.
+
+Samia croisa les bras.
+
+— Et il faudra que tu me présentes correctement ton frère.
+
+La Sage leva les yeux au ciel.
+
+— Évidemment.
+
+La rencontre eut lieu le lendemain au Griffon d’Argent.
+
+Hasol arriva la première.
+
+Elle avait préparé un dossier détaillé sur le donjon et les observations réalisées pendant leur échec.
+
+Lorsqu’elle aperçut Samia à côté de Yoon, elle s’approcha avec un sourire.
+
+— Bonjour.
+
+La Ranger lui rendit son sourire.
+
+— Hasol Shun ?
+
+— Oui.
+
+— Samia Claire.
+
+Elle lui tendit la main.
+
+Hasol la serra.
+
+— Yoon m’a beaucoup parlé de toi.
+
+Samia sourit.
+
+— Elle m’a aussi beaucoup parlé de toi.
+
+Puis elle ajouta :
+
+— Je crois qu’elle sous-estime le nombre de fois où elle prononce ton nom.
+
+Yoon ouvrit de grands yeux.
+
+— Samia !
+
+Hasol éclata de rire.
+
+Ray arriva quelques instants plus tard.
+
+Samia le salua poliment, puis lui posa immédiatement plusieurs questions sur les inscriptions observées dans le donjon.
+
+Le mage ouvrit son registre.
+
+Ils commencèrent à discuter.
+
+Hasol remarqua rapidement quelque chose.
+
+Samia n’essayait pas simplement de deviner à quoi ressemblait le piège.
+
+Elle demandait où les monstres étaient apparus.
+
+À quel moment les inscriptions avaient brillé.
+
+Si la lumière des piliers changeait lorsque le boss frappait le sol.
+
+Et surtout, si quelqu’un avait examiné les murs situés derrière les colonnes.
+
+Ray finit par lever les yeux.
+
+— Nous ne l’avons pas fait.
+
+Samia acquiesça.
+
+— Alors nous avons déjà une piste à vérifier.
+
+Hasol sourit.
+
+Elle commençait à comprendre pourquoi Yoon avait pensé à elle.
+
+Puis une voix retentit derrière eux.
+
+— Bonjour.
+
+Zio venait d’arriver.
+
+Il portait une tenue de ville simple, sans son armure habituelle.
+
+Samia se redressa immédiatement.
+
+Hasol remarqua qu’elle avait soudain cessé de parler.
+
+Yoon leva les yeux au ciel avec un sourire.
+
+— Zio, je te présente Samia Claire.
+
+Le Gardien s’approcha.
+
+— Enchanté.
+
+Samia lui tendit la main.
+
+— Enchantée également.
+
+Zio la serra poliment.
+
+— Yoon m’a parlé de tes compétences.
+
+La Ranger sembla très satisfaite.
+
+— J’espère pouvoir vous être utile.
+
+— Nous aurons certainement besoin de ton expérience.
+
+Samia sourit plus largement.
+
+Puis elle regarda Hasol.
+
+— Alors, quand commençons-nous ?
+
+Hasol éclata de rire.
+
+— Tu es toujours aussi pressée ?
+
+Yoon intervint immédiatement :
+
+— Oui.
+
+Samia lui donna une petite tape sur le bras.
+
+— Tu pourrais au moins me laisser répondre !
+
+Ils rirent tous ensemble.
+
+Pour la première fois depuis leur fuite, Hasol sentit son inquiétude diminuer.
+
+Elle n’avait pas encore la certitude qu’ils pourraient vaincre la Sentinelle.
+
+Mais ils étaient désormais en train de chercher une solution différente.
+
+Pas simplement un adversaire moins dangereux.
+
+Ni quelques niveaux supplémentaires.
+
+Une véritable manière de comprendre le problème.
+
+L’employée du Griffon d’Argent examina les cinq dossiers.
+
+Puis ajouta le nom de Samia au registre.
+
+<div class="system-window lit-window" data-window-id="109" data-window-type="equipe">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>ÉQUIPE ACTUALISÉE</div>
+  <p><strong>Hasol Shun :</strong> Arcaniste runique, <span class="lit-badge lit-badge--legendary">légendaire</span> — 20 points</p>
+  <p><strong>Yoon Notos :</strong> Sage runique, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
+  <p><strong>Ray Corvus :</strong> Mage de feu, <span class="lit-badge lit-badge--common">commun</span> — 5 points</p>
+  <p><strong>Zio Notos :</strong> Gardien, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
+  <p><strong>Samia Claire :</strong> Ranger, <span class="lit-badge lit-badge--common">commune</span> — 5 points</p>
+  <p class="lit-window__row"><strong>Membres :</strong> <span class="lit-window__value">5 / 5</span></p>
+  <p class="lit-window__row"><strong>Points de classe :</strong> <span class="lit-window__value">50 / 50</span></p>
+  <p><strong>État :</strong> Composition complète.</p>
+</div>
+
+Hasol contempla les cinq noms.
+
+Elle sentit un sourire apparaître sur son visage.
+
+Ils n’avaient plus de place disponible.
+
+Et surtout, ils n’en cherchaient plus.
+
+Samia examina le registre.
+
+— Voilà. Je fais officiellement partie de l’équipe.
+
+Yoon lui adressa un grand sourire.
+
+— Bienvenue !
+
+Ray acquiesça.
+
+— Bienvenue, Samia.
+
+Zio lui tendit la main.
+
+— Nous sommes heureux de te compter parmi nous.
+
+Samia la serra.
+
+— Merci.
+
+Hasol observa ses quatre compagnons.
+
+Puis elle tendit la main à son tour.
+
+— Bienvenue dans l’équipe.
+
+Samia sourit.
+
+— Merci, Hasol.
+
+Elle baissa les yeux vers le dossier du donjon.
+
+Puis ajouta :
+
+— Maintenant, expliquez-moi pourquoi quatre chasseurs expérimentés ont pensé qu’il était judicieux de frapper un mécanisme inconnu avec une épée.
+
+Hasol se figea.
+
+Yoon éclata de rire.
+
+Ray baissa les yeux vers son registre.
+
+Zio porta une main à son front pour dissimuler un sourire.
+
+Hasol gonfla les joues.
+
+— Je commence à regretter notre recrutement !
+
+Samia rit de plus belle.
+
+Et, pour la première fois, les cinq membres de l’équipe se mirent à discuter autour de la même table.
+
+## V. La seconde tentative
+
+— Tu as changé de rune ?
+
+Hasol releva les yeux.
+
+Samia examinait son épée.
+
+— Non. J’ai simplement activé mon Aura.
+
+Une lumière de Terre enveloppait la lame.
+
+La Ranger la contempla avec intérêt.
+
+— Tu peux imprégner ton arme sans passer par un artisan spécialisé ?
+
+Hasol acquiesça.
+
+— Oui. Mais chaque activation détruit une rune.
+
+Samia ouvrit de grands yeux.
+
+— Définitivement ?
+
+— Définitivement.
+
+La Ranger regarda de nouveau l’arme.
+
+— Voilà qui doit revenir cher.
+
+Hasol sourit.
+
+— C’est pour ça que je travaille autant.
+
+Elle lui expliqua brièvement l’arrangement conclu avec Orven.
+
+Le tri des pierres.
+
+Leur valeur de récupération.
+
+Les journées supplémentaires nécessaires pour constituer sa réserve.
+
+Samia l’écouta avec attention.
+
+Puis acquiesça.
+
+— Donc tu transformes une partie de ton travail d’artisane en ressources de combat.
+
+Hasol sourit plus largement.
+
+— Exactement !
+
+La Ranger réfléchit.
+
+— C’est une manière très intéressante d’utiliser ta classe.
+
+Hasol sentit ses joues chauffer.
+
+— Merci.
+
+Derrière elles, Ray ajustait son équipement.
+
+Yoon vérifiait ses réserves de soin.
+
+Zio observait les derniers préparatifs.
+
+Ils avaient consacré plusieurs jours à comprendre les informations rapportées de leur première expédition.
+
+Samia leur avait demandé de refaire le plan de la salle.
+
+De dessiner la position des piliers.
+
+De préciser l’endroit où chaque groupe de monstres était apparu.
+
+Puis elle leur avait fait répéter leurs observations jusqu’à ce qu’ils soient certains de ne pas confondre ce qu’ils avaient vu avec ce qu’ils supposaient.
+
+Hasol avait découvert qu’une spécialiste des pièges pouvait être au moins aussi méticuleuse qu’Orven.
+
+Et beaucoup moins patiente lorsque quelqu’un répondait approximativement.
+
+— Tu es sûre que le troisième groupe est apparu à gauche du pilier ? lui avait demandé Samia.
+
+— Je crois.
+
+— Tu crois ou tu l’as vu ?
+
+Hasol avait réfléchi.
+
+— Je l’ai vu après son apparition.
+
+Samia avait souri.
+
+— Voilà. Ce n’est pas la même chose.
+
+Ray avait approuvé.
+
+Hasol lui avait lancé un regard noir.
+
+Mais elle avait retenu la leçon.
+
+Avant de retourner au donjon, Samia avait également insisté pour qu’ils réalisent plusieurs exercices ensemble.
+
+Elle était très à l’aise avec son arc.
+
+Ses tirs étaient précis.
+
+Mais Hasol remarqua qu’elle ne possédait pas la même puissance offensive que Ray.
+
+Sa classe était commune, et son niveau légèrement inférieur à celui de Yoon.
+
+En revanche, elle savait remarquablement bien observer le terrain.
+
+Lors du premier exercice, elle repéra un fil dissimulé entre deux rochers alors que les quatre autres chasseurs étaient déjà passés devant.
+
+Hasol s’immobilisa lorsqu’elle le lui montra.
+
+— Comment tu as vu ça ?
+
+Samia sourit.
+
+— La poussière.
+
+Hasol baissa les yeux.
+
+— La poussière ?
+
+— Elle s’accumule partout autour, sauf à cet endroit. Quelque chose l’a déplacée régulièrement.
+
+La Ranger désigna la pierre voisine.
+
+— Et le fil est trop tendu pour être une simple toile.
+
+Hasol contempla le mécanisme.
+
+Puis activa son Œil runique.
+
+Aucune information supplémentaire n’apparut.
+
+Elle fronça les sourcils.
+
+Samia remarqua son expression.
+
+— Un problème ?
+
+— Non.
+
+Hasol se pencha.
+
+— J’essayais simplement de comprendre comment tu avais repéré ça.
+
+La Ranger lui adressa un sourire.
+
+— Alors regarde bien.
+
+Elle sortit un petit outil de sa sacoche.
+
+Puis montra à Hasol comment vérifier la tension du fil sans le toucher directement.
+
+La jeune Arcaniste observa avec une attention presque enfantine.
+
+Samia éclata de rire.
+
+— Tu aimes vraiment apprendre de nouvelles choses.
+
+Hasol releva les yeux.
+
+— Évidemment !
+
+— Même quand il ne s’agit pas de runes ?
+
+La jeune femme sourit.
+
+— Surtout quand je découvre quelque chose que je ne sais pas encore faire.
+
+Samia sembla apprécier cette réponse.
+
+Elle poursuivit sa démonstration.
+
+Mais Hasol comprit rapidement qu’il lui faudrait beaucoup plus qu’une après-midi pour acquérir une compétence comparable.
+
+Ce n’était pas une question de connaître un geste.
+
+Il fallait apprendre à observer.
+
+À reconnaître des indices.
+
+À comprendre comment les mécanismes étaient conçus.
+
+Et surtout à accepter qu’un piège puisse se trouver là où personne ne pensait à regarder.
+
+Le jour du retour au donjon, Samia imposa une dernière règle.
+
+— Personne ne touche à un pilier sans me prévenir.
+
+Hasol ouvrit la bouche.
+
+La Ranger leva immédiatement un doigt.
+
+— Surtout toi.
+
+Yoon éclata de rire.
+
+Ray détourna les yeux pour dissimuler un sourire.
+
+Zio observa le plafond avec un intérêt suspect.
+
+Hasol gonfla les joues.
+
+— Vous n’allez jamais me laisser oublier ça ?
+
+Samia réfléchit.
+
+— Pas avant que nous soyons sortis vivants.
+
+Hasol soupira.
+
+Puis sourit.
+
+— D’accord.
+
+Zio leva son bouclier.
+
+— Alors nous pouvons entrer.
+
+Cette fois, ils étaient cinq.
+
+Et ils avaient un plan.
+
+## VI. Le piège des pierres scellées
+
+Le donjon leur parut presque familier.
+
+Ils connaissaient les premiers couloirs.
+
+Les passages étroits.
+
+Les salles où ils avaient rencontré des monstres lors de leur précédente expédition.
+
+Mais Samia leur imposa un rythme plus lent.
+
+À plusieurs reprises, elle demanda au groupe de s’arrêter.
+
+Elle examinait une portion de mur.
+
+Un morceau de dallage.
+
+Ou une fissure qui paraissait parfaitement ordinaire.
+
+Hasol commença à comprendre combien de choses elle aurait pu manquer en avançant simplement avec son épée dégainée.
+
+Au bout d’un moment, Ray demanda :
+
+— Tu penses que tous ces détails sont dangereux ?
+
+Samia secoua la tête.
+
+— Non.
+
+Elle désigna une dalle.
+
+— Mais je préfère vérifier quelque chose d’inoffensif plutôt que découvrir trop tard qu’il aurait fallu le faire.
+
+Ray acquiesça.
+
+Hasol sourit.
+
+Elle et lui vont finir par s’entendre parfaitement.
+
+Lorsqu’ils atteignirent la salle de la Sentinelle, Samia leur demanda de rester en retrait.
+
+Elle s’agenouilla près de l’entrée.
+
+Puis examina les inscriptions visibles sous la poussière.
+
+Hasol attendit à quelques pas.
+
+La Ranger prit plusieurs minutes pour observer le sol.
+
+Puis elle se releva.
+
+— Je commence à comprendre.
+
+Ray s’approcha.
+
+— Tu reconnais le mécanisme ?
+
+— Pas entièrement.
+
+Samia désigna les piliers.
+
+— Mais regardez leurs bases.
+
+Les cinq chasseurs suivirent son indication.
+
+De fines rainures couraient entre les colonnes.
+
+Elles convergeaient vers le centre de la salle.
+
+Hasol fronça les sourcils.
+
+— Ce sont les inscriptions qui s’illuminaient pendant notre combat.
+
+— Probablement.
+
+Samia poursuivit :
+
+— Mais il manque une partie du circuit.
+
+Elle désigna l’arrière du pilier le plus éloigné.
+
+— Une ligne disparaît derrière cette paroi. Je veux voir où elle mène.
+
+Zio observa la Sentinelle immobile.
+
+— Nous ne pourrons pas atteindre cet endroit sans entrer dans sa zone.
+
+Samia acquiesça.
+
+— Je sais.
+
+Elle se tourna vers ses compagnons.
+
+— Alors il faudra que vous l’occupiez.
+
+Ray ajusta ses lunettes.
+
+— Et les invocations ?
+
+— Elles risquent de commencer dès que le mécanisme sera activé.
+
+Samia hésita.
+
+Puis ajouta :
+
+— Je ne peux pas vous promettre de le désactiver immédiatement.
+
+Hasol lui adressa un sourire.
+
+— Nous ne te demandons pas un miracle.
+
+La Ranger releva les yeux.
+
+— Vraiment ?
+
+— Non.
+
+Hasol prit une inspiration.
+
+— Nous te demandons simplement de faire ce que nous ne savons pas faire.
+
+Samia la contempla quelques secondes.
+
+Puis sourit.
+
+— Alors je vais faire de mon mieux.
+
+Zio entra le premier.
+
+La Sentinelle s’anima presque aussitôt.
+
+Ses yeux rouges s’illuminèrent.
+
+Elle souleva son arme.
+
+— Formation ! lança le Gardien.
+
+Hasol se plaça à sa droite.
+
+Ray recula vers une position offrant une ligne de tir dégagée.
+
+Yoon posa son Domaine des Entraves Runiques.
+
+La Sentinelle avança.
+
+Zio encaissa sa première attaque.
+
+Le choc résonna contre son bouclier.
+
+Hasol frappa l’articulation du genou qu’elle avait déjà endommagée lors de leur première rencontre.
+
+La lame ouvrit une nouvelle entaille dans la pierre.
+
+Le boss vacilla.
+
+Puis il posa brutalement un pied au sol.
+
+Les inscriptions s’illuminèrent.
+
+Quatre serviteurs d’argile apparurent.
+
+— Ça recommence ! lança Ray.
+
+Hasol se retourna.
+
+— Je m’en occupe !
+
+Elle intercepta les deux premiers.
+
+Zio continua de retenir le boss.
+
+Yoon ralentit les autres créatures.
+
+Samia profita de leur attention détournée pour longer la paroi.
+
+Elle se déplaçait rapidement, mais sans précipitation.
+
+Son regard cherchait les rainures au sol.
+
+Les traces de poussière.
+
+Et les petites différences de couleur dans la pierre.
+
+Elle atteignit l’arrière du premier pilier.
+
+Puis s’immobilisa.
+
+— Ray !
+
+Le mage releva les yeux.
+
+— Oui ?
+
+— J’ai besoin d’une lumière !
+
+Une petite flamme apparut dans sa main.
+
+Il l’envoya éclairer l’espace derrière la colonne sans chercher à frapper quoi que ce soit.
+
+Samia examina les inscriptions.
+
+Puis fronça les sourcils.
+
+— Ce n’est pas ça…
+
+Une nouvelle pulsation traversa le sol.
+
+Quatre autres serviteurs apparurent.
+
+Hasol serra les dents.
+
+— Samia ?
+
+— Je cherche !
+
+La Ranger recula légèrement.
+
+Elle compara les rainures.
+
+Puis leva les yeux vers le mur.
+
+Quelque chose lui parut étrange.
+
+Une petite portion de pierre était plus propre que le reste.
+
+Comme si un panneau avait déjà été déplacé.
+
+Elle s’approcha.
+
+Puis passa doucement les doigts sur le bord.
+
+Une séparation presque invisible apparut sous la poussière.
+
+Samia sourit.
+
+— Ah…
+
+Elle sortit un petit outil.
+
+Puis l’inséra dans la fente.
+
+Le panneau résista.
+
+Elle changea d’angle.
+
+Essaya de nouveau.
+
+Une petite vibration parcourut la pierre.
+
+Samia retira immédiatement son outil.
+
+— Non, pas comme ça.
+
+Elle recula.
+
+Puis examina les inscriptions.
+
+Il y avait une seconde rainure.
+
+Plus étroite.
+
+Presque entièrement dissimulée derrière la première.
+
+Elle comprit qu’en forçant le panneau, elle risquait de déclencher un autre mécanisme.
+
+— Hasol !
+
+La jeune Arcaniste venait d’abattre un serviteur.
+
+— Quoi ?
+
+— Il y a bien une commande derrière ce mur, mais elle est protégée !
+
+Hasol évita une attaque.
+
+— Tu peux l’ouvrir ?
+
+— Oui, je pense ! Mais il me faut du temps !
+
+La jeune femme regarda le boss.
+
+Puis Zio.
+
+Le Gardien tenait encore sa position.
+
+Mais son bouclier portait déjà plusieurs marques profondes.
+
+Ray avait consommé une partie de son Mana.
+
+Et Yoon devait alterner ses zones pour éviter que les serviteurs ne les encerclent.
+
+Hasol prit une inspiration.
+
+— On va te donner ce temps !
+
+Les minutes suivantes furent éprouvantes.
+
+Les serviteurs continuaient d’apparaître.
+
+Chaque groupe éliminé semblait rapidement remplacé.
+
+Mais cette fois, les cinq chasseurs connaissaient leur véritable objectif.
+
+Ils ne cherchaient pas à tuer toutes les invocations pour gagner.
+
+Ils cherchaient à empêcher les invocations d’atteindre Samia.
+
+Zio restait face au boss.
+
+Hasol défendait l’espace entre les piliers.
+
+Ray utilisait ses flammes pour couper les trajectoires les plus dangereuses.
+
+Et Yoon posait ses cercles de ralentissement là où les serviteurs risquaient de contourner leur formation.
+
+Samia travaillait toujours sur le mécanisme.
+
+Ses doigts allaient vite.
+
+Mais son visage était parfaitement concentré.
+
+Elle avait retiré une petite plaque.
+
+Puis une seconde.
+
+Derrière elles apparaissait un assemblage de pièces mobiles et de rainures runiques.
+
+Elle examina leur disposition.
+
+Puis murmura :
+
+— Voilà le véritable problème…
+
+Le panneau extérieur n’était pas la commande.
+
+C’était une protection.
+
+Le mécanisme d’invocation se trouvait derrière.
+
+Pour l’interrompre, il fallait d’abord libérer une petite pièce maintenue sous tension.
+
+Samia sortit un outil plus fin.
+
+Elle l’inséra délicatement.
+
+Puis attendit.
+
+Une faible lumière parcourut les rainures.
+
+Elle fronça les sourcils.
+
+— Pas encore…
+
+Derrière elle, un serviteur bondit brusquement.
+
+Samia se retourna.
+
+Elle n’avait pas le temps de reprendre son arc.
+
+— Attention ! cria Yoon.
+
+Hasol surgit.
+
+Sa lame frappa la créature.
+
+L’argile se dispersa sur le sol.
+
+— Continue ! lança-t-elle.
+
+Samia acquiesça.
+
+Puis se replongea dans son travail.
+
+Hasol reprit sa position.
+
+Elle sentait ses bras devenir lourds.
+
+Son Aura brillait toujours.
+
+Mais chaque nouvel adversaire exigeait un mouvement.
+
+Une attaque.
+
+Une parade.
+
+Et elle commençait à manquer de souffle.
+
+Zio repoussa un nouveau coup de la Sentinelle.
+
+— Ray ! Nous avons besoin de ta barrière !
+
+Le mage leva les mains.
+
+— Mur de flammes !
+
+Une épaisse ligne de feu traversa une partie de la salle.
+
+Elle sépara temporairement plusieurs serviteurs du groupe.
+
+Mais Ray recula aussitôt.
+
+Il avait presque épuisé son Mana.
+
+— Je ne pourrai pas recommencer !
+
+Hasol serra les dents.
+
+— Samia !
+
+La Ranger avait enfin glissé son outil sous la pièce centrale.
+
+Elle la souleva légèrement.
+
+La lumière du mécanisme vacilla.
+
+Puis un petit claquement retentit.
+
+Samia retint son souffle.
+
+Une dernière inscription brilla sous ses doigts.
+
+Elle tourna la pièce.
+
+Un grondement sourd parcourut le mur.
+
+Puis les lignes lumineuses commencèrent à s’éteindre.
+
+D’abord derrière le panneau.
+
+Puis sur le pilier.
+
+Et enfin sur le sol de la salle.
+
+Samia recula brusquement.
+
+— C’EST FAIT !
+
+Hasol se retourna.
+
+— Vraiment ?
+
+La Ranger leva les yeux.
+
+— Le circuit est interrompu !
+
+Un silence étrange suivit.
+
+Le boss était toujours debout.
+
+Les serviteurs déjà invoqués continuaient de combattre.
+
+Mais aucune nouvelle créature n’apparaissait.
+
+Hasol regarda les inscriptions éteintes.
+
+Puis ses compagnons.
+
+Un sourire immense apparut sur son visage.
+
+— Elle a réussi !
+
+Yoon éclata de joie.
+
+— Samia !
+
+La Ranger sourit.
+
+Mais son expression redevint sérieuse presque aussitôt.
+
+— Le piège est désactivé. Pas le boss !
+
+Zio leva son bouclier.
+
+— Alors terminons ce que nous avons commencé !
+
+Le combat changea immédiatement.
+
+Les serviteurs restants furent éliminés les uns après les autres.
+
+Cette fois, aucun nouveau groupe ne vint les remplacer.
+
+La salle retrouva enfin son espace.
+
+Hasol put rejoindre Zio.
+
+Ray avait presque épuisé ses réserves, mais il conservait suffisamment de Mana pour quelques attaques soigneusement choisies.
+
+Yoon déplaça son Domaine sous la Sentinelle.
+
+Puis activa Résonance runique sur Hasol.
+
+Les principales de ses runes bénéficièrent temporairement du renforcement de la Sage.
+
+Hasol sentit ses appuis se raffermir.
+
+Son épée lui sembla plus légère.
+
+Elle fixa le genou endommagé du boss.
+
+— Zio !
+
+Le Gardien comprit immédiatement.
+
+Il détourna une attaque de la Sentinelle.
+
+Hasol s’élança.
+
+Elle frappa l’articulation.
+
+La pierre se fissura davantage.
+
+Le boss vacilla.
+
+Ray leva une dernière fois la main.
+
+— Trait incandescent !
+
+La ligne de feu atteignit la jointure abîmée.
+
+La Sentinelle posa un genou au sol.
+
+Mais elle n’était pas vaincue.
+
+Son bras massif se souleva brusquement.
+
+Zio tenta de parer.
+
+Le coup le repoussa de plusieurs pas.
+
+Hasol se retrouva seule devant le boss.
+
+Elle sentit une peur glaciale lui traverser la poitrine.
+
+L’arme de pierre descendait vers elle.
+
+Elle aurait pu reculer.
+
+Mais elle remarqua que l’articulation du genou endommagé ne supportait plus correctement le poids de la créature.
+
+Pas encore…
+
+Hasol attendit.
+
+Une fraction de seconde.
+
+Puis elle se déporta vers la droite.
+
+L’arme frappa le sol.
+
+La Sentinelle tenta de se redresser.
+
+Son genou céda.
+
+Hasol s’élança.
+
+— Maintenant !
+
+Zio revint à sa hauteur.
+
+Son bouclier frappa le flanc du boss et l’empêcha de reprendre son équilibre.
+
+Une flèche de Samia atteignit une jointure découverte.
+
+Yoon renforça ses Entraves.
+
+La Sentinelle vacilla.
+
+Hasol vit l’ouverture.
+
+Elle serra son épée à deux mains.
+
+Puis frappa de toutes ses forces.
+
+Sa lame pénétra profondément dans l’articulation fissurée.
+
+La Sentinelle se contracta.
+
+Elle tenta de lever son arme une dernière fois.
+
+Puis la lumière rouge de son casque vacilla.
+
+Ses membres se figèrent.
+
+Un grondement parcourut son corps.
+
+Et la masse de pierre s’effondra lourdement sur le sol.
+
+Hasol recula aussitôt.
+
+Elle resta en garde.
+
+Une seconde passa.
+
+Puis une autre.
+
+La Sentinelle ne bougea plus.
+
+<div class="system-window lit-window" data-window-id="110" data-window-type="combat">
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>BOSS VAINCU</div>
+  <p><strong>Nom :</strong> Sentinelle des pierres scellées — Niveau 32</p>
+  <p class="lit-window__row"><strong>Coup fatal :</strong> <span>Hasol Shun</span></p>
+  <p class="lit-window__row"><strong>Expérience :</strong> <span>Acquise.</span></p>
+</div>
+
+Hasol contempla la notification.
+
+Puis elle regarda ses compagnons.
+
+— Nous avons gagné…
+
+Yoon s’approcha en courant.
+
+— Oui !
+
+La Sage la serra dans ses bras.
+
+Hasol éclata de rire.
+
+— Yoon ! Mon bras !
+
+— Pardon !
+
+Elle recula précipitamment.
+
+Hasol sourit.
+
+Ray vint les rejoindre, les jambes encore légèrement tremblantes.
+
+Zio posa enfin son bouclier.
+
+Samia sortit de derrière le pilier.
+
+Elle observait le boss vaincu avec un mélange de surprise et de satisfaction.
+
+Hasol s’approcha d’elle.
+
+— Samia.
+
+La Ranger tourna la tête.
+
+— Oui ?
+
+Hasol lui adressa un sourire immense.
+
+— Sans toi, nous serions encore en train d’affronter ces serviteurs.
+
+Samia regarda les inscriptions désormais éteintes.
+
+Puis le boss.
+
+— Et sans vous, je n’aurais jamais pu atteindre la commande.
+
+Yoon sourit.
+
+— Voilà qui ressemble à une vraie victoire d’équipe.
+
+Zio acquiesça.
+
+— C’en est une.
+
+Ils restèrent un moment silencieux.
+
+Puis Samia désigna un petit coffre apparu près des ruines du boss.
+
+— Bon.
+
+Hasol tourna la tête.
+
+— Quoi ?
+
+La Ranger sourit.
+
+— Maintenant que nous avons terminé de risquer notre vie, est-ce que je peux enfin faire mon travail préféré ?
+
+Yoon éclata de rire.
+
+— Ouvrir les coffres ?
+
+— Exactement.
+
+Samia s’approcha.
+
+Elle examina soigneusement le couvercle.
+
+Puis la serrure.
+
+Elle vérifia qu’aucun mécanisme dangereux ne restait actif.
+
+Enfin, elle sortit ses outils.
+
+Hasol se pencha immédiatement à côté d’elle.
+
+— Tu peux me montrer comment tu fais ?
+
+Samia leva les yeux.
+
+— Maintenant ?
+
+— Oui !
+
+La Ranger la contempla.
+
+Puis éclata de rire.
+
+— Hasol, tu viens de combattre un boss niveau trente-deux.
+
+Elle désigna le coffre.
+
+— Et tu veux déjà une leçon ?
+
+Hasol sourit.
+
+— Évidemment.
+
+Samia secoua la tête avec amusement.
+
+— Très bien. Mais nous commencerons par les bases, un jour où tu ne seras pas épuisée.
+
+Hasol acquiesça.
+
+— Promis !
+
+La Ranger poursuivit son travail.
+
+Quelques instants plus tard, la serrure céda.
+
+Le coffre s’ouvrit.
+
+À l’intérieur reposaient des ressources et plusieurs pierres runiques.
+
+Ray se pencha pour les examiner.
+
+Yoon sourit.
+
+Zio observa les alentours une dernière fois.
+
+Hasol, elle, regardait surtout Samia.
+
+Elle venait de comprendre quelque chose.
+
+Son Œil runique lui donnait une connaissance extraordinaire des runes.
+
+Mais il existait encore bien des domaines qu’elle ne maîtrisait pas.
+
+Et elle avait maintenant une nouvelle personne auprès de qui apprendre.
+
+Sur le chemin du retour, Samia marcha à côté d’Hasol.
+
+— Tu sais, demanda-t-elle, j’ai cru que vous alliez me dire de rester derrière vous pendant tout le combat.
+
+Hasol tourna la tête.
+
+— Pourquoi ?
+
+La Ranger haussa les épaules.
+
+— C’est ce que font certaines équipes. Elles recrutent une spécialiste des pièges, puis lui demandent d’attendre qu’on lui dise quelle serrure ouvrir.
+
+Hasol réfléchit.
+
+— Ça me paraît étrange.
+
+Samia sourit.
+
+— À moi aussi.
+
+Elle regarda le sentier.
+
+— Je ne veux pas simplement être celle qu’on appelle quand une porte refuse de s’ouvrir.
+
+Hasol acquiesça.
+
+— Alors ça tombe bien.
+
+Samia tourna les yeux vers elle.
+
+La jeune Arcaniste sourit.
+
+— Nous avons besoin de quelqu’un qui nous aide à prendre de bonnes décisions.
+
+La Ranger resta silencieuse quelques instants.
+
+Puis un sourire sincère apparut sur son visage.
+
+— Je crois que je vais me plaire dans cette équipe.
+
+Derrière elles, Yoon discutait avec Ray des ressources obtenues.
+
+Zio marchait légèrement en retrait, son bouclier rangé mais son attention toujours portée sur les alentours.
+
+Hasol contempla ses compagnons.
+
+Ils étaient cinq.
+
+Cette fois, réellement cinq.
+
+Et elle comprenait enfin pourquoi leur première défaite avait été nécessaire.
+
+Ils n’avaient pas seulement manqué de puissance.
+
+Ils avaient manqué d’un regard différent.
+
+## VII. Ce que chacun apporte
+
+Le retour à la capitale se fit dans une bonne humeur qu’Hasol n’avait pas connue depuis longtemps.
+
+Ray expliquait déjà comment il aurait pu économiser davantage de Mana pendant le combat. Yoon lui répondait qu’il avait surtout tendance à sous-estimer le nombre de sorts qu’il lançait lorsqu’il était inquiet.
+
+Samia, elle, racontait comment elle avait découvert le véritable mécanisme.
+
+— Le panneau extérieur était conçu pour attirer l’attention, expliqua-t-elle. Si j’avais essayé de le forcer, j’aurais probablement déclenché une autre sécurité.
+
+Hasol ouvrit de grands yeux.
+
+— Il y avait un deuxième piège ?
+
+— Oui.
+
+— Et tu l’as évité ?
+
+Samia sourit.
+
+— C’est un peu mon métier.
+
+Hasol contempla la Ranger avec admiration.
+
+— Tu devras m’apprendre à reconnaître ce genre de chose.
+
+Samia eut un petit rire.
+
+— Tu veux vraiment apprendre ?
+
+— Évidemment !
+
+— Alors prépare-toi à passer beaucoup de temps à examiner des pierres, des serrures et des mécanismes parfaitement ordinaires.
+
+Hasol sourit.
+
+— Ça ressemble beaucoup à mon travail chez Orven.
+
+— Dans ce cas, nous devrions bien nous entendre.
+
+Yoon les regarda toutes les deux.
+
+— Je sens que je vais bientôt devoir vous arracher à vos recherches pour vous faire manger.
+
+Zio éclata de rire.
+
+— Ce ne serait pas la première fois.
+
+Hasol gonfla les joues.
+
+— Vous exagérez !
+
+Mais personne ne sembla la croire.
+
+Ils s’arrêtèrent dans une auberge avant de se séparer.
+
+Samia posa son arc près de la table, puis s’installa à côté de Yoon.
+
+Ray commença à sortir son registre.
+
+Hasol lui posa immédiatement une main dessus.
+
+— Non.
+
+Le mage releva les yeux.
+
+— Pardon ?
+
+— Pas de rapport de mission pendant le repas.
+
+Ray regarda son livre.
+
+Puis Hasol.
+
+— Je voulais simplement noter quelques observations avant de les oublier.
+
+Yoon soupira.
+
+— Ray…
+
+— Elles sont importantes.
+
+Samia se pencha.
+
+— Alors donne-moi ta plume. Je vais les noter.
+
+Ray sembla soulagé.
+
+Il la lui tendit.
+
+Samia prit le registre, le referma et le posa derrière elle.
+
+— Voilà. C’est noté.
+
+Un silence suivit.
+
+Puis Hasol éclata de rire.
+
+Ray contempla son registre avec une expression presque blessée.
+
+— Ce n’est pas exactement ce que j’avais en tête.
+
+Zio rit à son tour.
+
+Même Ray finit par sourire.
+
+Ils commandèrent de quoi manger.
+
+Puis discutèrent de tout autre chose.
+
+Samia raconta une histoire de l’Académie qui fit rougir Yoon.
+
+Zio se défendit d’avoir oublié un anniversaire familial, avant que sa sœur lui rappelle qu’il s’était présenté avec son cadeau deux jours plus tard.
+
+Ray expliqua qu’il avait récemment acheté un livre dont il possédait déjà un exemplaire.
+
+Hasol le regarda.
+
+— Tu as acheté deux fois le même livre ?
+
+— Les couvertures étaient différentes.
+
+Elle éclata de rire.
+
+— Ray !
+
+— Je n’avais pas vérifié le titre.
+
+Samia porta une main à son front.
+
+— Je commence à comprendre pourquoi vous aviez besoin de quelqu’un pour repérer les pièges.
+
+Le rire reprit autour de la table.
+
+Hasol contempla ses compagnons.
+
+Pendant un instant, elle pensa à son père.
+
+Il aurait certainement aimé entendre le récit de leur victoire.
+
+Elle imagina sa réaction lorsqu’elle lui aurait expliqué comment Samia avait interrompu les invocations.
+
+Puis elle se souvint qu’elle ne pourrait jamais le lui raconter.
+
+La douleur revint.
+
+Moins brutale qu’autrefois.
+
+Mais toujours présente.
+
+Hasol baissa légèrement les yeux.
+
+Yoon le remarqua.
+
+Elle posa doucement une main près de la sienne, sans interrompre la conversation des autres.
+
+Hasol lui adressa un petit sourire.
+
+Puis elle reprit son repas.
+
+Ce soir-là, elle comprit quelque chose qu’elle n’aurait pas su expliquer quelques mois auparavant.
+
+Elle pouvait être heureuse.
+
+Et son père pouvait continuer à lui manquer.
+
+Les deux sentiments n’étaient pas obligés de s’effacer l’un l’autre.
+
+En rentrant, Hasol trouva Iseria dans le petit salon.
+
+Sa mère avait ouvert un livre, mais son regard se portait surtout vers le jardin.
+
+— Bonsoir, maman.
+
+Iseria releva les yeux.
+
+— Bonsoir, ma chérie.
+
+Elle remarqua immédiatement l’expression de sa fille.
+
+— Vous avez réussi ?
+
+Hasol acquiesça.
+
+Un grand sourire apparut sur son visage.
+
+— Nous avons vaincu la Sentinelle !
+
+Iseria referma son livre.
+
+— Félicitations !
+
+Hasol s’assit près d’elle.
+
+Puis commença à raconter.
+
+Le piège.
+
+Les serviteurs.
+
+Les efforts de ses compagnons.
+
+Et surtout la manière dont Samia avait réussi à interrompre le mécanisme.
+
+Iseria l’écouta attentivement.
+
+Lorsqu’Hasol termina, sa mère sourit.
+
+— Tu sembles beaucoup apprécier votre nouvelle compagne.
+
+— Oui !
+
+Hasol réfléchit.
+
+— Elle voit des choses auxquelles je n’aurais jamais pensé.
+
+Puis elle ajouta avec enthousiasme :
+
+— Et elle est d’accord pour m’apprendre certaines bases de son métier.
+
+Iseria leva un sourcil.
+
+— Tu as encore trouvé quelque chose à étudier ?
+
+Hasol éclata de rire.
+
+— Je sais !
+
+Sa mère sourit avec tendresse.
+
+Puis elle posa une main sur celle de sa fille.
+
+— Ton père aurait beaucoup aimé entendre cette histoire.
+
+Hasol se figea légèrement.
+
+Elle baissa les yeux.
+
+Un silence s’installa.
+
+Puis elle acquiesça.
+
+— Je crois aussi.
+
+Elle sentit sa gorge se serrer.
+
+Mais, cette fois, elle réussit à poursuivre :
+
+— Il aurait sûrement voulu que je lui explique le fonctionnement du piège.
+
+Iseria eut un petit rire triste.
+
+— Et tu aurais passé toute la soirée à lui faire des dessins.
+
+Hasol sourit.
+
+— Probablement.
+
+Elles restèrent silencieuses quelques instants.
+
+Puis sa mère reprit :
+
+— Tu sais, tu peux continuer à me raconter tes aventures.
+
+Hasol releva les yeux.
+
+Iseria lui adressa un sourire chaleureux.
+
+— Je ne connais pas autant de choses que ton père sur les négociations commerciales. Mais je suis tout à fait capable d’écouter ma fille parler de monstres et de runes.
+
+Hasol éclata de rire.
+
+Puis elle se pencha pour l’embrasser.
+
+— Merci, maman.
+
+Ce soir-là, elle resta longtemps auprès d’elle.
+
+Et, pour la première fois depuis plusieurs semaines, elles parlèrent davantage de l’avenir que de ce qu’elles avaient perdu.
+
+## VIII. Les années qui construisent
+
+La victoire contre la Sentinelle ne transforma pas immédiatement leur équipe en groupe célèbre.
+
+Le lendemain, Hasol se réveilla avec des courbatures.
+
+Ray passa une partie de sa matinée à corriger les erreurs de son rapport.
+
+Samia retourna examiner ses outils, dont l’un avait été endommagé par le mécanisme.
+
+Yoon devait terminer plusieurs engagements personnels.
+
+Et Zio leur rappela qu’une seule victoire ne suffisait pas pour se considérer prêts à affronter n’importe quel donjon.
+
+La vie reprit.
+
+Avec ses tâches ordinaires.
+
+Ses difficultés.
+
+Et ses journées qui ne se déroulaient jamais exactement comme prévu.
+
+Mais quelque chose avait changé.
+
+Ils étaient désormais cinq.
+
+Et ils avaient appris ce que chacun pouvait apporter aux autres.
+
+Les mois passèrent.
+
+Leur équipe commença à explorer régulièrement de nouveaux donjons.
+
+Certains furent relativement simples.
+
+D’autres les obligèrent à modifier plusieurs fois leurs stratégies.
+
+Une expédition se termina après seulement quelques salles, lorsque Yoon remarqua que les blessures de Zio nécessitaient davantage de soins que prévu.
+
+Une autre les conduisit jusqu’à une salle verrouillée dont Samia mit presque une heure à comprendre le mécanisme.
+
+Hasol passa toute cette heure à lui poser des questions.
+
+À la fin, Samia lui tendit un outil.
+
+— Tiens.
+
+Hasol le prit avec surprise.
+
+— Qu’est-ce que c’est ?
+
+— Le premier instrument que tu devras apprendre à utiliser.
+
+Hasol sourit immédiatement.
+
+— Vraiment ?
+
+— Oui.
+
+Puis Samia ajouta :
+
+— Mais pas maintenant. Tu es encore trop impatiente pour t’en servir correctement.
+
+Hasol gonfla les joues.
+
+— Je ne suis pas impatiente !
+
+Yoon, qui se trouvait quelques pas derrière elles, éclata de rire.
+
+— Bien sûr que non.
+
+Hasol leva les yeux au ciel.
+
+Mais elle rangea soigneusement l’outil.
+
+Elle avait envie d’apprendre.
+
+Et, pour une fois, elle acceptait que cela prenne du temps.
+
+Les missions se multiplièrent.
+
+Les niveaux de ses compagnons progressèrent.
+
+Ray apprit à utiliser son Mur de flammes avec beaucoup plus de précision.
+
+Yoon développa une maîtrise du terrain qui permettait parfois au groupe de traverser des situations difficiles sans subir une seule blessure importante.
+
+Zio continuait à perfectionner ses techniques défensives.
+
+Samia devint progressivement celle à qui tous demandaient conseil lorsqu’un passage leur paraissait suspect.
+
+Et Hasol…
+
+Hasol faisait de son mieux.
+
+Elle chassait chaque fois qu’elle le pouvait.
+
+Parfois très tôt le matin.
+
+Parfois après une longue journée passée à l’atelier.
+
+Elle acceptait les expéditions qui correspondaient à son calendrier, même lorsqu’elles l’obligeaient à préparer ses documents commerciaux la veille.
+
+Mais elle ne pouvait plus consacrer toute sa vie à gagner de l’expérience.
+
+La maison Shun avait besoin d’elle.
+
+Ses clients aussi.
+
+Et sa classe légendaire continuait à demander davantage d’expérience que celles de ses compagnons.
+
+L’écart se creusa.
+
+D’abord légèrement.
+
+Puis suffisamment pour qu’elle ne puisse plus l’ignorer.
+
+Un soir, Hasol resta seule dans son bureau après avoir terminé les comptes du mois.
+
+Elle ouvrit son interface.
+
+Puis examina sa progression.
+
+Elle avait gagné de l’expérience depuis leur dernier donjon.
+
+Beaucoup, même.
+
+Mais elle savait que ses compagnons avaient progressé plus rapidement.
+
+Elle contempla les chiffres.
+
+Puis le registre commercial posé devant elle.
+
+Pendant une seconde, une pensée désagréable lui traversa l’esprit.
+
+Si je n’avais pas toutes ces responsabilités…
+
+Elle s’interrompit.
+
+Le petit papier couvert de l’écriture de son père reposait toujours près de l’encrier.
+
+Hasol le prit.
+
+Ne jamais confondre un accord verbal avec une obligation écrite.
+
+Elle relut la phrase.
+
+Puis regarda la pile de documents.
+
+Son père lui avait enseigné beaucoup de choses.
+
+Mais il ne lui avait jamais appris à devenir commerçante et chasseuse en même temps.
+
+Ce choix, elle devait le construire elle-même.
+
+Hasol posa doucement le papier.
+
+Puis ouvrit un autre registre.
+
+Celui de l’organisation des tâches.
+
+Elle parcourut les dernières semaines.
+
+Trop de décisions passaient encore par elle.
+
+Des contrôles de livraison que l’intendant pouvait effectuer.
+
+Des vérifications comptables que les employés maîtrisaient parfaitement.
+
+Des échanges commerciaux pour lesquels sa présence n’était pas nécessaire.
+
+Hasol resta longtemps à examiner les colonnes.
+
+Puis prit sa plume.
+
+Elle commença à répartir les responsabilités différemment.
+
+Elle n’abandonnait pas les activités de son père.
+
+Elle apprenait enfin à ne pas essayer de tout faire seule.
+
+Le changement ne fut pas immédiat.
+
+Au début, elle vérifiait presque systématiquement les décisions qu’elle venait de déléguer.
+
+L’intendant finit par la regarder avec un amusement discret.
+
+— Mademoiselle Shun, je vous assure que je peux contrôler une livraison sans que vous soyez présente.
+
+Hasol rougit.
+
+— Je sais.
+
+— Vous avez vérifié les trois dernières.
+
+— Je voulais simplement être certaine…
+
+Il sourit.
+
+— Votre père me faisait confiance pour ce genre de travail.
+
+Hasol resta silencieuse.
+
+Puis elle baissa les yeux vers le registre.
+
+Cette remarque lui fit davantage d’effet que tous les arguments qu’on lui avait présentés.
+
+Elle réfléchit.
+
+Puis referma le document.
+
+— Très bien.
+
+L’intendant parut surpris.
+
+Hasol lui tendit la feuille.
+
+— Je vous laisse vous en charger.
+
+Il s’inclina légèrement.
+
+— Merci.
+
+Lorsqu’il quitta le bureau, elle resta immobile.
+
+Puis soupira.
+
+— Voilà une décision que j’aurais dû prendre depuis longtemps.
+
+Elle regarda son calendrier.
+
+Pour la première fois depuis plusieurs semaines, une journée entière venait de se libérer.
+
+Hasol sourit.
+
+Elle connaissait déjà la personne à qui elle allait écrire.
+
+Yoon reçut son message le lendemain.
+
+J’ai enfin une journée libre. Tu es disponible pour une chasse ?
+
+La réponse arriva rapidement.
+
+Oui. Mais tu as pensé à te reposer ?
+
+Hasol contempla les mots.
+
+Puis éclata de rire.
+
+Elle prit sa plume.
+
+Je me reposerai après.
+
+Quelques instants plus tard, une nouvelle réponse apparut.
+
+Donc jamais.
+
+Hasol rit de plus belle.
+
+Elle se leva pour aller préparer son équipement.
+
+Puis s’arrêta.
+
+Elle regarda son lit.
+
+Et les heures de sommeil qu’elle avait perdues au cours des derniers jours.
+
+Elle hésita.
+
+Puis reposa son sac.
+
+Pour une fois, elle allait commencer par dormir.
+
+## IX. La confiance a un prix
+
+La réputation d’Hasol grandit d’abord lentement.
+
+Un chasseur satisfait parla de son travail à un compagnon.
+
+Un autre revint lui demander conseil pour une rune qu’il hésitait à améliorer.
+
+Un officier du Griffon d’Argent lui confia plusieurs pierres destinées à l’équipement d’un groupe expérimenté.
+
+Les premières commandes importantes furent supervisées par Orven.
+
+Puis certaines lui furent confiées personnellement.
+
+Hasol découvrit que ses analyses intéressaient autant que ses améliorations.
+
+Grâce à son Œil runique, elle pouvait connaître le résultat final des pierres qu’elle améliorerait elle-même jusqu’à +15.
+
+Mais elle prenait soin d’expliquer les limites de cette capacité.
+
+Elle ne garantissait pas la réussite de chaque tentative.
+
+Elle ne promettait pas de choisir les renforcements futurs.
+
+Et elle ne prétendait pas pouvoir déterminer précisément tous les résultats intermédiaires.
+
+Orven insistait pour que ces limites soient clairement établies dans les contrats.
+
+Hasol avait fini par en comprendre toute l’importance.
+
+Car plus les runes confiées à l’atelier étaient précieuses, plus les sommes engagées devenaient considérables.
+
+Un jour, un marchand fortuné se présenta avec une rune légendaire, orange, de rang À DÉFINIR.
+
+La pierre orange reposait dans un coffret dont le couvercle était couvert de motifs dorés.
+
+Hasol l’examina avec attention.
+
+Le propriétaire désirait une amélioration jusqu’à +15.
+
+Il avait prévu une somme importante pour financer l’opération.
+
+Mais lorsqu’elle activa son Œil, Hasol découvrit un résultat final décevant pour l’usage recherché.
+
+Elle contempla la projection.
+
+Puis referma sa fenêtre.
+
+— Je ne vous conseillerais pas de poursuivre.
+
+L’homme la regarda avec incrédulité.
+
+— Pardon ?
+
+Hasol posa doucement la pierre sur le tissu.
+
+— Cette rune possède de belles caractéristiques. Mais son résultat final ne correspond pas à ce que vous recherchez.
+
+Le marchand fronça les sourcils.
+
+— Vous refusez la commande ?
+
+— Je vous déconseille l’investissement.
+
+Il contempla la pierre.
+
+Puis le coffret.
+
+— Savez-vous combien vaut cette rune ?
+
+Hasol acquiesça.
+
+— Oui.
+
+— Alors vous comprenez que je ne peux pas simplement l’abandonner.
+
+Elle sourit poliment.
+
+— Je ne vous demande pas de l’abandonner.
+
+Elle lui tendit ses notes.
+
+— Je vous conseille de la réserver à quelqu’un qui pourra profiter de ses caractéristiques, ou de chercher une autre pierre pour votre propre équipement.
+
+Le marchand parcourut le document.
+
+Puis referma brusquement le dossier.
+
+— Vous êtes bien jeune pour refuser une affaire aussi importante.
+
+Hasol sentit ses joues chauffer.
+
+Elle aurait autrefois été profondément blessée par cette remarque.
+
+Mais elle se souvint d’Orven.
+
+Et des longues heures passées à étudier les runes avant d’oser conseiller ses premiers clients.
+
+Elle releva les yeux.
+
+— Je préfère perdre une commande que vous faire dépenser une fortune pour un résultat qui ne vous conviendra pas.
+
+L’homme resta silencieux.
+
+Puis récupéra son coffret.
+
+Il quitta l’atelier sans ajouter un mot.
+
+Hasol le regarda partir.
+
+Elle expira lentement.
+
+— Je crois qu’il ne reviendra pas.
+
+Derrière elle, Orven éclata de rire.
+
+— Peut-être.
+
+Elle se retourna.
+
+— Vous trouvez ça drôle ?
+
+Le maître artisan sourit.
+
+— Je trouve surtout que tu as pris la bonne décision.
+
+Hasol baissa les yeux vers le dossier.
+
+— Il aurait pu nous rapporter beaucoup d’argent.
+
+— Oui.
+
+Orven s’approcha.
+
+— Mais ton nom vaut davantage que le bénéfice d’une seule commande.
+
+Elle le contempla.
+
+Le maître artisan poursuivit :
+
+— Si tu commences à vendre des améliorations que tu sais mal adaptées aux besoins de tes clients, tu perdras ce qui rend ton travail intéressant.
+
+Hasol acquiesça lentement.
+
+Elle rangea soigneusement ses notes.
+
+Puis reprit son activité.
+
+Le marchand revint trois semaines plus tard.
+
+Cette fois, il apportait trois autres runes.
+
+Hasol le reçut dans le même salon.
+
+Il posa les coffrets devant elle.
+
+Puis déclara :
+
+— J’ai suivi votre conseil.
+
+La jeune femme releva les yeux.
+
+— Vraiment ?
+
+— J’ai confié la première pierre à quelqu’un dont l’équipement correspondait mieux à ses caractéristiques.
+
+Il désigna les trois nouvelles runes.
+
+— Maintenant, j’aimerais savoir laquelle mérite que j’investisse.
+
+Hasol resta silencieuse une seconde.
+
+Puis sourit.
+
+— Avec plaisir.
+
+Cette commande fut l’une des plus importantes qu’elle avait reçues jusque-là.
+
+L’amélioration exigea de nombreuses ressources.
+
+Plusieurs tentatives échouèrent.
+
+Il fallut s’arrêter à plusieurs reprises pour vérifier les dépenses et confirmer que le client souhaitait poursuivre.
+
+Mais Hasol ne se précipita pas.
+
+Elle connaissait le résultat final qu’elle cherchait à atteindre.
+
+Et, lorsque la dernière amélioration réussit enfin, la rune correspondait à ce que son Œil lui avait montré.
+
+Le marchand contempla la pierre.
+
+Puis Hasol.
+
+— Impressionnant.
+
+Elle sourit.
+
+— Merci.
+
+Il referma son coffret.
+
+— Je pense que vous entendrez de nouveau parler de moi.
+
+Hasol s’inclina légèrement.
+
+— Je serai ravie d’examiner vos prochaines runes.
+
+Lorsqu’il partit, elle resta quelques secondes immobile.
+
+Puis regarda Orven.
+
+Le maître artisan lui adressa un sourire.
+
+— Tu vois ?
+
+Hasol éclata de rire.
+
+— Oui.
+
+Elle contempla le registre de la commande.
+
+Pour la première fois, elle comprit vraiment ce qu’il lui avait dit.
+
+La confiance pouvait coûter une affaire à court terme.
+
+Mais elle pouvait aussi construire quelque chose de beaucoup plus durable.
+
+Les années suivantes, cette réputation commença à dépasser le Griffon d’Argent.
+
+D’autres guildes entendirent parler d’une jeune artisane capable de sélectionner des runes avec une précision inhabituelle.
+
+Des marchands lui proposèrent des contrats.
+
+Certains chasseurs acceptèrent d’attendre plusieurs semaines pour qu’elle puisse travailler personnellement sur leurs pierres.
+
+D’autres lui demandèrent uniquement une analyse, puis revenaient plus tard lorsqu’ils avaient réuni les ressources nécessaires.
+
+Hasol apprit à organiser ses commandes.
+
+À refuser celles qu’elle ne pouvait pas traiter correctement.
+
+À fixer des prix qui rémunéraient réellement son expertise.
+
+Et à confier les tâches administratives à des employés compétents plutôt que de passer ses nuits à recopier les mêmes informations.
+
+Sa collaboration avec Orven ne disparut pas.
+
+Au contraire.
+
+Ils continuaient à travailler ensemble, à comparer leurs observations et à discuter des runes les plus difficiles.
+
+Mais le maître artisan finit par lui confier davantage d’autonomie.
+
+Un matin, il lui tendit un registre.
+
+— À partir d’aujourd’hui, tu vas gérer toi-même les commandes de cette catégorie.
+
+Hasol ouvrit de grands yeux.
+
+— Toutes ?
+
+— Celles que tu accepteras.
+
+Elle contempla le document.
+
+Puis son maître.
+
+— Vous êtes certain ?
+
+Orven sourit.
+
+— Tu vas bientôt me demander mon autorisation pour respirer ?
+
+Hasol éclata de rire.
+
+— Non !
+
+— Alors accepte.
+
+Elle prit le registre.
+
+Puis baissa légèrement la tête.
+
+— Merci, maître Orven.
+
+Il lui posa une main sur l’épaule.
+
+— Tu as mérité cette confiance.
+
+Hasol sentit une chaleur lui monter dans la poitrine.
+
+Elle avait encore beaucoup à apprendre.
+
+Mais elle n’était plus seulement l’apprentie qui observait son maître travailler.
+
+Elle commençait à prendre sa propre place.
+
+## X. Vingt-cinq ans
+
+Lorsque Hasol atteignit vingt-cinq ans, bien des choses avaient changé.
+
+Elle ne vivait plus avec l’impression de devoir prouver chaque matin qu’elle méritait sa classe légendaire.
+
+Elle savait ce qu’elle pouvait accomplir.
+
+Elle connaissait aussi ses limites.
+
+Et surtout, elle avait commencé à comprendre qu’une vie ne se résumait pas au niveau inscrit dans une fenêtre.
+
+La maison Shun avait conservé ses activités commerciales.
+
+Les employés les plus expérimentés continuaient à gérer les affaires courantes.
+
+Iseria participait toujours aux décisions importantes.
+
+Et Hasol avait progressivement pris la responsabilité des contrats qui demandaient une négociation plus délicate ou une connaissance particulière des matériaux et des runes.
+
+Elle avait appris à reconnaître les partenaires fiables.
+
+À refuser les propositions trop avantageuses pour être honnêtes.
+
+Et à ne pas confondre la quantité de travail avec la qualité des décisions.
+
+Parfois, elle s’entendait prononcer une phrase que son père répétait autrefois.
+
+Elle s’interrompait alors.
+
+Un sourire triste apparaissait sur ses lèvres.
+
+Puis elle reprenait la conversation.
+
+L’absence d’Armin n’avait pas disparu.
+
+Elle avait simplement trouvé une place dans les journées qu’Hasol continuait de vivre.
+
+À l’atelier, sa situation était devenue presque méconnaissable.
+
+Les premières semaines où elle travaillait chez Orven, elle avait dû compter soigneusement ses pierres de mana.
+
+Elle hésitait longuement avant d’acheter une rune destinée à son propre équipement.
+
+Et la perte d’une petite pierre blanche pour Aura runique représentait un véritable sacrifice.
+
+Désormais, ses revenus d’artisane, les contrats les plus importants et les bénéfices des activités commerciales qu’elle gérait lui avaient permis de constituer des réserves financières considérables.
+
+Elle pouvait financer des améliorations dont elle n’aurait autrefois même pas osé envisager le coût.
+
+Les runes de haut rang n’étaient plus systématiquement hors de portée.
+
+Les tentatives jusqu’à +15 restaient coûteuses, mais elle disposait maintenant des moyens nécessaires pour les entreprendre lorsqu’elles étaient justifiées.
+
+Cela ne signifiait pas qu’elle obtenait automatiquement toutes les runes dont elle rêvait.
+
+Ni que les améliorations réussissaient à chaque fois.
+
+Elle continuait à échouer.
+
+À perdre des ressources.
+
+À devoir parfois attendre avant d’atteindre le résultat prévu.
+
+Mais l’argent n’était plus le même obstacle qu’à ses débuts.
+
+Et cette liberté changeait profondément sa manière de travailler.
+
+Un matin, Hasol se présenta à l’atelier avec plusieurs dossiers.
+
+Un employé l’attendait déjà.
+
+— Mademoiselle Shun, les représentants de la guilde du Cerf Blanc ont confirmé leur rendez-vous.
+
+Hasol acquiesça.
+
+— Très bien.
+
+— Et un courrier est arrivé du Griffon d’Argent. Ils souhaitent vous confier une nouvelle série d’analyses.
+
+Elle sourit.
+
+— Ajoutez-les au registre. Je regarderai les délais avant de répondre.
+
+L’employé acquiesça.
+
+Puis consulta une autre feuille.
+
+— Maître Orven aimerait également vous voir cet après-midi.
+
+Hasol leva immédiatement les yeux.
+
+— Il a trouvé une rune intéressante ?
+
+L’employé hésita.
+
+— Je crois qu’il souhaite surtout discuter d’une nouvelle méthode de classement.
+
+Elle sourit plus largement.
+
+— Encore mieux !
+
+L’homme la contempla avec surprise.
+
+Puis se retira.
+
+Hasol posa ses dossiers sur son établi.
+
+Elle ouvrit son Anneau runique.
+
+Plusieurs pierres y reposaient.
+
+Certaines étaient destinées à ses propres améliorations.
+
+D’autres avaient été mises de côté pour ses compétences.
+
+Elle possédait désormais des moyens suffisants pour reconstituer plus facilement sa réserve de runes sacrificielles.
+
+Mais elle continuait à en contrôler la provenance et le coût.
+
+Elle avait conservé l’habitude prise chez Orven.
+
+Une rune gagnée grâce au travail n’était jamais entièrement insignifiante.
+
+Même lorsque ses revenus étaient devenus importants.
+
+Un peu plus tard, un jeune chasseur se présenta devant son atelier.
+
+Il semblait nerveux.
+
+Hasol le remarqua immédiatement.
+
+— Bonjour.
+
+Le jeune homme s’inclina maladroitement.
+
+— Bonjour, mademoiselle Shun.
+
+Elle lui adressa un sourire.
+
+— Que puis-je faire pour vous ?
+
+Il sortit une petite rune peu commune, verte, de rang À DÉFINIR, de sa sacoche.
+
+Puis la posa sur le comptoir.
+
+— J’aimerais savoir si elle mérite d’être améliorée.
+
+Hasol examina la pierre.
+
+Une rune modeste.
+
+Peu commune.
+
+De faible rang.
+
+Elle n’avait rien de comparable aux pièces exceptionnelles que certains de ses clients lui confiaient désormais.
+
+Mais elle se souvenait parfaitement du temps où une rune de cette valeur représentait un achat important.
+
+Elle regarda le jeune chasseur.
+
+— Quel équipement souhaitez-vous construire ?
+
+Il sembla surpris.
+
+— Vous voulez vraiment le savoir ?
+
+Hasol sourit.
+
+— Bien sûr.
+
+Le jeune homme commença à expliquer ses objectifs.
+
+Il parlait vite.
+
+Hésitait parfois.
+
+Puis revenait sur une information qu’il avait oubliée.
+
+Hasol l’écouta attentivement.
+
+Elle lui posa plusieurs questions.
+
+Examina son budget.
+
+Puis activa son Œil.
+
+La projection apparut devant elle.
+
+Elle prit quelques instants pour comparer les caractéristiques finales avec ce que le chasseur recherchait.
+
+Enfin, elle releva les yeux.
+
+— Je ne vous conseillerais pas de pousser cette rune jusqu’à +15.
+
+Le jeune homme baissa immédiatement la tête.
+
+— Ah…
+
+Hasol poursuivit :
+
+— Mais elle peut vous être utile pendant quelque temps.
+
+Il releva les yeux.
+
+Elle lui montra les caractéristiques actuelles.
+
+— Si vous limitez les dépenses, elle peut remplir son rôle en attendant que vous trouviez une meilleure pierre.
+
+Le chasseur sembla réfléchir.
+
+Puis demanda :
+
+— Vous accepteriez de me l’améliorer ?
+
+Hasol contempla la rune.
+
+Elle sourit.
+
+— Bien sûr.
+
+Le jeune homme ouvrit de grands yeux.
+
+— Vraiment ?
+
+— Oui.
+
+— Mais je croyais que vous ne preniez plus que des commandes importantes !
+
+Hasol éclata de rire.
+
+— Qui vous a raconté ça ?
+
+Il rougit.
+
+— Tout le monde dit que vous travaillez pour des chasseurs très puissants.
+
+Elle inclina légèrement la tête.
+
+— Cela ne signifie pas que je ne peux pas aider quelqu’un qui débute.
+
+Elle prit la fiche de commande.
+
+— Nous allons simplement choisir un budget raisonnable.
+
+Le chasseur sourit avec soulagement.
+
+— Merci !
+
+Hasol lui rendit son sourire.
+
+Pendant qu’il remplissait le document, elle repensa à ses premières années.
+
+Aux runes qu’elle ne pouvait pas acheter.
+
+Aux heures passées chez Orven pour financer quelques améliorations.
+
+Et à la joie qu’elle ressentait lorsqu’une pierre devenait enfin suffisamment intéressante pour prendre place dans son équipement.
+
+Elle n’avait pas oublié cette Hasol-là.
+
+Elle espérait ne jamais l’oublier.
+
+Dans l’après-midi, Orven la retrouva près de son établi.
+
+Il avait vieilli depuis leurs premières années de travail.
+
+Quelques rides supplémentaires marquaient son visage.
+
+Mais son regard conservait la même vivacité lorsqu’il examinait une rune intéressante.
+
+Il posa un registre devant elle.
+
+— Tu as encore accepté une petite commande ?
+
+Hasol releva les yeux.
+
+— Oui.
+
+— Une rune peu commune, verte, de rang À DÉFINIR ?
+
+— Oui.
+
+Il la contempla.
+
+Puis un sourire apparut sur son visage.
+
+— Certains de tes clients dépensent plus en une journée que ce jeune chasseur en plusieurs mois.
+
+Hasol acquiesça.
+
+— Je sais.
+
+— Alors pourquoi avoir accepté ?
+
+Elle réfléchit.
+
+Puis répondit :
+
+— Parce que quelqu’un m’a donné ma chance quand je n’avais pas grand-chose.
+
+Orven resta silencieux.
+
+Hasol poursuivit :
+
+— Et parce que cette rune a beaucoup de valeur pour lui, même si elle n’en a pas énormément sur le marché.
+
+Le maître artisan la contempla quelques secondes.
+
+Puis sourit.
+
+— Bonne réponse.
+
+Hasol éclata de rire.
+
+— Vous me posez encore des questions comme à une apprentie !
+
+— Et tu continues à y répondre.
+
+— Je suppose que ça ne changera jamais.
+
+Orven rit doucement.
+
+Puis il ouvrit son registre.
+
+— Maintenant, viens. J’ai quelque chose d’intéressant à te montrer.
+
+Hasol se pencha immédiatement.
+
+Il lui présenta une rune dont les caractéristiques étaient particulièrement inhabituelles.
+
+Elle l’examina.
+
+Puis activa son Œil.
+
+Les inscriptions turquoise apparurent.
+
+Hasol parcourut les informations.
+
+Son regard s’illumina.
+
+— Maître…
+
+Orven sourit.
+
+— Alors ?
+
+Elle releva les yeux.
+
+— Je crois que nous allons avoir besoin de beaucoup de pierres de mana.
+
+Le maître artisan éclata de rire.
+
+Et, pendant quelques instants, Hasol retrouva exactement le même enthousiasme que lorsqu’elle avait découvert sa première amélioration réussie.
+
+## XI. La place d’une légende
+
+Quelques jours après son vingt-cinquième anniversaire, Hasol retrouva ses compagnons au Griffon d’Argent.
+
+Yoon arriva la première.
+
+Elle avait conservé son sourire chaleureux et cette manière de comprendre l’humeur de son amie avant même qu’elle ouvre la bouche.
+
+Ray la rejoignit peu après, un registre sous le bras.
+
+Samia arriva avec son arc et sa sacoche d’outils.
+
+Zio ferma la marche.
+
+Ils s’installèrent autour de leur table habituelle.
+
+Hasol les contempla.
+
+Ils avaient changé.
+
+Leurs niveaux avaient progressé.
+
+Leur expérience aussi.
+
+Ray n’était plus le mage hésitant qui avait presque épuisé son Mana contre un loup alpha.
+
+Yoon avait développé une assurance nouvelle dans la manière d’organiser les soins et le contrôle du terrain.
+
+Samia ne cherchait plus à prouver qu’elle méritait sa place parmi eux.
+
+Elle l’avait gagnée depuis longtemps.
+
+Et Zio continuait à leur apporter son expérience, tout en acceptant désormais presque naturellement que les autres contestent ses stratégies.
+
+Hasol sourit.
+
+Ils avaient parcouru beaucoup de chemin.
+
+Ray posa son registre.
+
+— J’ai comparé les derniers rapports de donjon.
+
+Hasol leva les yeux au ciel.
+
+— Nous venons à peine de nous asseoir !
+
+Samia éclata de rire.
+
+— Tu devrais pourtant savoir qu’il ne peut pas résister à un nouveau rapport.
+
+Ray ajusta ses lunettes.
+
+— J’ai simplement pensé que ces informations pourraient nous intéresser.
+
+Yoon sourit.
+
+— Et elles nous intéresseront.
+
+Elle lui prit doucement le registre.
+
+Puis le posa au milieu de la table.
+
+— Après avoir mangé.
+
+Ray soupira.
+
+Hasol éclata de rire.
+
+Zio secoua la tête avec amusement.
+
+— Certaines choses ne changent jamais.
+
+Ils commandèrent leur repas.
+
+La conversation dériva vers les dernières expéditions.
+
+Samia raconta comment elle avait dû interrompre un mécanisme particulièrement ancien pendant que Ray insistait pour en dessiner le fonctionnement.
+
+Ray protesta.
+
+— Mes observations étaient utiles.
+
+— Elles l’auraient été davantage si tu avais attendu que nous soyons sortis du couloir.
+
+Hasol rit de plus belle.
+
+Zio évoqua un entraînement au cours duquel Yoon avait réussi à le ralentir suffisamment pour le surprendre.
+
+La Sage redressa fièrement le menton.
+
+— Je te l’avais dit. Tu comptes trop sur ton bouclier.
+
+Son frère sourit.
+
+— Et toi, tu comptes beaucoup sur le fait que je ne t’attaque jamais sérieusement.
+
+Yoon ouvrit de grands yeux.
+
+— Tu oses ?
+
+Hasol éclata de rire.
+
+Pendant un moment, ils oublièrent les niveaux.
+
+Les commandes.
+
+Les prochaines expéditions.
+
+Et les responsabilités qui les attendaient le lendemain.
+
+Ils étaient simplement cinq amis réunis autour d’une table.
+
+Plus tard, lorsque le repas fut terminé, Ray ouvrit enfin son registre.
+
+Il présenta plusieurs possibilités pour leur prochaine expédition.
+
+L’une d’elles exigeait une préparation particulièrement importante.
+
+Hasol examina les informations.
+
+Puis consulta son calendrier.
+
+Elle avait deux réunions commerciales prévues cette semaine-là.
+
+Et plusieurs commandes d’amélioration importantes.
+
+Autrefois, elle aurait essayé de tout déplacer pour partir immédiatement.
+
+Cette fois, elle prit le temps de réfléchir.
+
+— Je pourrai être disponible dans dix jours.
+
+Ray releva les yeux.
+
+— Pas avant ?
+
+Hasol secoua la tête.
+
+— J’ai quelques engagements que je ne peux pas repousser.
+
+Yoon acquiesça.
+
+— Dix jours me conviennent.
+
+Samia réfléchit.
+
+— À moi aussi. Ça me laissera le temps de vérifier les mécanismes signalés dans les rapports.
+
+Zio consulta son propre calendrier.
+
+— C’est possible pour moi.
+
+Ray nota la date.
+
+— Alors nous partirons dans dix jours.
+
+Hasol contempla ses compagnons.
+
+Une sensation étrange lui traversa la poitrine.
+
+Elle avait longtemps eu peur de devenir celle que les autres devaient attendre.
+
+Celle dont le niveau progresserait trop lentement.
+
+Celle dont les responsabilités finiraient par gêner l’équipe.
+
+Mais personne ne semblait considérer cette attente comme un problème.
+
+Ils organisaient simplement leur mission.
+
+En tenant compte de la vie de chacun.
+
+Hasol baissa légèrement les yeux.
+
+Puis sourit.
+
+— Merci.
+
+Yoon tourna la tête.
+
+— Pourquoi ?
+
+La jeune Arcaniste hésita.
+
+Puis répondit :
+
+— Pour votre patience.
+
+Samia fronça les sourcils.
+
+— Tu parles des dix jours ?
+
+Hasol acquiesça.
+
+La Ranger éclata de rire.
+
+— Hasol, j’ai passé une heure à ouvrir un coffre pendant que tu me posais des questions. Je pense que nous pouvons attendre dix jours.
+
+Ray eut un petit rire.
+
+Zio sourit.
+
+Yoon posa doucement une main sur celle d’Hasol.
+
+— Nous sommes une équipe.
+
+La jeune femme contempla ses quatre compagnons.
+
+Puis acquiesça.
+
+— Oui.
+
+Elle sourit davantage.
+
+— Nous sommes une équipe.
+
+Ce soir-là, Hasol rentra plus tard que prévu.
+
+Iseria se trouvait dans le petit salon.
+
+Elle avait ouvert un livre près de la fenêtre, comme elle le faisait souvent.
+
+Lorsqu’elle aperçut sa fille, elle lui adressa un sourire.
+
+— Bonsoir, ma chérie.
+
+— Bonsoir, maman.
+
+Hasol s’assit près d’elle.
+
+Iseria posa son livre.
+
+— Vous avez passé une bonne journée ?
+
+— Oui.
+
+Elle sourit.
+
+— Nous avons préparé notre prochaine expédition.
+
+Sa mère acquiesça.
+
+— Et ton travail ?
+
+— Les commandes avancent bien.
+
+Hasol hésita.
+
+Puis ajouta :
+
+— Maître Orven m’a encore confié une rune particulièrement intéressante.
+
+Iseria eut un petit rire.
+
+— Naturellement.
+
+Hasol rit avec elle.
+
+Puis son regard se posa sur le fauteuil de son père.
+
+Il se trouvait toujours à la même place.
+
+Près de la petite table où Armin aimait consulter ses registres après le dîner.
+
+Hasol resta silencieuse quelques instants.
+
+Iseria suivit son regard.
+
+Elle ne dit rien.
+
+La jeune femme finit par murmurer :
+
+— Tu crois qu’il aurait été surpris ?
+
+Sa mère tourna la tête.
+
+— Par quoi ?
+
+Hasol sourit tristement.
+
+— Par tout ça.
+
+Elle regarda ses mains.
+
+— Les commandes. Les clients. L’argent que j’ai réussi à gagner.
+
+Puis elle ajouta :
+
+— Et le fait que je continue à chasser malgré tout.
+
+Iseria la contempla avec tendresse.
+
+— Je crois qu’il aurait eu beaucoup de questions.
+
+Hasol eut un petit rire.
+
+— Sur mes contrats ?
+
+— Certainement.
+
+Sa mère sourit.
+
+— Et probablement aussi sur la manière dont tu organises tes journées.
+
+Hasol éclata de rire.
+
+— Il m’aurait demandé si je prenais suffisamment de repos.
+
+— Sans aucun doute.
+
+Le rire s’atténua.
+
+Hasol contempla le fauteuil vide.
+
+Puis elle murmura :
+
+— J’aurais tellement voulu lui montrer ce que je suis devenue.
+
+Iseria posa une main sur la sienne.
+
+La jeune femme continua :
+
+— Quand j’étais petite, je pensais qu’une classe légendaire ferait de moi quelqu’un d’extraordinaire.
+
+Elle baissa les yeux.
+
+— Puis j’ai passé des années à me demander pourquoi je ne pouvais pas faire ce que les autres faisaient si facilement.
+
+Iseria l’écoutait en silence.
+
+Hasol releva la tête.
+
+— Maintenant, les gens viennent me voir parce qu’ils ont besoin de ce que je sais faire.
+
+Un sourire fragile apparut sur ses lèvres.
+
+— Et je crois que j’aime vraiment ma vie.
+
+Sa mère lui rendit son sourire.
+
+— Alors j’en suis heureuse.
+
+Hasol sentit ses yeux la brûler.
+
+Elle contempla une dernière fois le fauteuil de son père.
+
+Puis murmura :
+
+— Il me manque toujours.
+
+Iseria serra doucement sa main.
+
+— À moi aussi, ma chérie.
+
+Elles restèrent silencieuses.
+
+Puis Hasol posa sa tête contre l’épaule de sa mère.
+
+Elle n’essaya pas de retenir les quelques larmes qui lui vinrent.
+
+Mais lorsqu’elle releva enfin la tête, elle souriait.
+
+Plus tard, dans sa chambre, Hasol ouvrit son carnet.
+
+Sur une première page figuraient encore les comptes de ses premières chasses.
+
+Quelques pièces gagnées difficilement.
+
+Des pierres de mana achetées avec précaution.
+
+Et les noms des runes qu’elle rêvait de posséder.
+
+Elle tourna plusieurs pages.
+
+Les calculs devenaient plus complexes.
+
+Les commandes plus importantes.
+
+Les montants plus élevés.
+
+Puis venaient les notes consacrées à son Œil runique.
+
+Les analyses effectuées avec Orven.
+
+Les premières runes dont elle avait pu prévoir le résultat final.
+
+Les essais réussis.
+
+Les échecs.
+
+Et les progrès qu’elle n’aurait jamais imaginé accomplir lorsqu’elle travaillait encore sur des runes blanches.
+
+Hasol contempla toutes ces pages.
+
+Pendant longtemps, elle avait cru que sa classe légendaire devait lui donner une puissance que tout le monde reconnaîtrait immédiatement.
+
+Elle s’était trompée.
+
+Sa légende n’était pas née d’un sort dévastateur.
+
+Ni d’une victoire miraculeuse.
+
+Elle s’était construite sur des journées ordinaires.
+
+Des échecs recommencés.
+
+Des runes étudiées une par une.
+
+Des heures passées à l’atelier.
+
+Des combats où elle avait accepté l’aide des autres.
+
+Et des responsabilités qu’elle avait choisi de ne pas abandonner.
+
+Elle n’était pas la chasseuse la plus avancée de son équipe.
+
+Elle ne possédait toujours pas le sort offensif dont elle avait rêvé à l’Académie.
+
+Mais elle savait désormais qu’elle n’avait pas besoin d’attendre ce pouvoir pour être quelqu’un.
+
+Hasol sortit doucement son épée.
+
+Elle contempla la lame.
+
+Puis l’Anneau runique à son doigt.
+
+Enfin, elle ouvrit son interface et observa les runes qui faisaient partie de son équipement.
+
+Un jour, elle voulait toutes les porter à un niveau exceptionnel.
+
+Elle en avait désormais les moyens.
+
+Il lui restait à choisir soigneusement ses pierres, à réunir les ressources nécessaires et à effectuer les améliorations.
+
+Elle savait que cela prendrait encore du temps.
+
+Mais elle n’était plus pressée d’obtenir n’importe quel résultat.
+
+Elle voulait construire quelque chose qui durerait.
+
+Hasol referma son interface.
+
+Puis rangea son épée.
+
+Avant de se coucher, elle ouvrit une dernière fois le tiroir de son bureau.
+
+À l’intérieur reposait le contrat qu’Armin avait corrigé avant leur dispute.
+
+Elle le sortit.
+
+Relut quelques lignes.
+
+Puis sourit tristement.
+
+— Je continue à apprendre, papa.
+
+Elle replia soigneusement le document.
+
+Et le rangea à sa place.
+
+Dehors, les lumières de la capitale brillaient sous le ciel nocturne.
+
+Hasol éteignit sa lampe.
+
+Demain, elle aurait des clients à recevoir.
+
+Des contrats à vérifier.
+
+Des runes à examiner.
+
+Et, dans dix jours, un nouveau donjon à explorer avec ses compagnons.
+
+Elle avait encore beaucoup à accomplir.
+
+Mais pour la première fois, elle ne se demandait plus quand sa véritable vie commencerait.
+
+Elle était déjà en train de la vivre.
+
+---
+
+**Fin du chapitre 12 — La légende prend sa place**

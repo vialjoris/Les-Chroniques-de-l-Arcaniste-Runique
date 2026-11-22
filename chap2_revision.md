@@ -1,8 +1,8 @@
-**PROPOSITION — à valider après lecture ; copie non canonique, aucun remplacement de `roman.md`.**
+**COPIE DE RÉVISION APPROUVÉE — ARCHIVE PRÉSERVÉE. Le manuscrit officiel reste `roman.md`.**
 
 > Préparation : 21 novembre 2026. Origine : chapitre 2 de l’instantané `/tmp/opencode/arcaniste-integration-20261121/avant/roman.md`, sans réimportation de `new.txt` ni d’`old.txt`.
 > SHA-256 du segment source : `8a4bfc2922c69ddfb90d1eb8a9f98d9fa3d8cc2defeb6f7d3beb6274487e23b8`.
-> Périmètre : texte intégral inchangé ; deux encadrés éditoriaux pour le lecteur, ouverture et clôture, sur demande explicite de l’auteur. Aucun raccord ni retouche de prose. Voir `lore/audit_fenetres_1_4.md`.
+> Statut actualisé le 22 novembre 2026 : révision approuvée par l’auteur sans lore en début ni en fin ; encadrés déjà retirés par DEC-091. Corps de cette archive conservé, présentation des fenêtres modernisée uniquement dans le manuscrit. Voir `docs/integration_chapitres_1_12.md`.
 
 <span id="chapitre-2"></span>
 
@@ -11,18 +11,6 @@
 
 ---
 
-<!-- AJOUT PROPOSÉ C2-LO -->
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — OUVERTURE</div>
-  <p><em>Pour le lecteur — repères éditoriaux, pas une notification reçue par les personnages.</em></p>
-  <ul>
-    <li>Un cercle de mana offre un emplacement runique ; une place libre n’est pas une rune équipée.</li>
-    <li>Le grade de couleur, les étoiles et le niveau d’amélioration sont trois dimensions distinctes.</li>
-    <li>Les bonus runiques restent séparés des caractéristiques naturelles du corps.</li>
-    <li>L’équipement ne remplace ni la technique ni l’expérience du combat.</li>
-  </ul>
-</div>
-<!-- FIN AJOUT PROPOSÉ C2-LO -->
 
 ## I. La lampe du salon
 
@@ -939,19 +927,6 @@ Demain, elle commencerait par ses appuis.
 
 Pas par une nouvelle chasse.
 
-<!-- AJOUT PROPOSÉ C2-LC -->
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — CLÔTURE</div>
-  <p><em>Pour le lecteur — repères éditoriaux, pas une notification reçue par les personnages.</em></p>
-  <ul>
-    <li>Fatal : quatre pièces pour <span class="rune-bonus">+35 % d’Attaque</span>.</li>
-    <li>Gardien : deux pièces pour <span class="rune-bonus">+15 % de Défense</span> ; deux paires donnent <span class="rune-bonus">+30 %</span>.</li>
-    <li>Énergie : deux pièces pour <span class="rune-bonus">+15 % de PV</span>.</li>
-    <li>La principale augmente à chaque amélioration réussie, avec un gain renforcé à +15.</li>
-    <li>Une rune rare native conserve deux secondaires à +3 : ce palier en renforce une, sans en ajouter.</li>
-  </ul>
-</div>
-<!-- FIN AJOUT PROPOSÉ C2-LC -->
 
 ---
 

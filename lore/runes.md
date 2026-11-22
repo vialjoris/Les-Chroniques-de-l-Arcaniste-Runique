@@ -2,9 +2,20 @@
 
 ## Périmètre
 
-Historique des chapitres 1 à 9 ; état courant : fin du chapitre 9 validé (DEC-072). Sources : manuscrit et versions retenues de `new.txt`, plan et décisions. Les tableaux 1 à 4 ci-dessous sont des instantanés historiques, pas l’équipement actuel. Les identifiants restent documentaires et stables, y compris après transfert de propriétaire. Les commandes clients et runes de recyclage restent distinctes de l’équipement personnel.
+Historique des chapitres 1 à 12 ; état de sortie : fin du chapitre 12 **en lecture** (DEC-102), sans validation littéraire globale des textes 10–12. Sources : manuscrit, `docs/integration_chapitres_1_12.md`, transmission, plan et décisions. Les instantanés antérieurs ne sont pas automatiquement l’équipement final. Les identifiants restent documentaires et stables, y compris après transfert de propriétaire. Les commandes clients et runes de recyclage restent distinctes de l’équipement personnel.
 
-## État courant — fin du chapitre 9, CANON
+## État courant — fin du chapitre 12 en lecture, DEC-102
+
+- **Équipement final détaillé : À DÉFINIR.** Le début du 11 montre encore douze cercles/douze runes et Fatal/Arcanique/Gardien ; aucune nouvelle fiche exhaustive en fin du 12. Ne pas figer les valeurs historiques, inventer de nouveaux cercles ou considérer toutes les runes déjà +15.
+- **HAS-R015 :** Vitesse rare (bleue), 3★, +0, propriété d’Hasol explicitée au 10 ; rangée dans son Anneau en fin du 10, non équipée et non améliorée au début du 11. Devenir ultérieur **À DÉFINIR**. Ce n’est pas une treizième rune équipée.
+- **ISE-R001 :** Énergie légendaire (orange), 4★, +9, examinée puis rendue intacte à Iseria au 10 ; ni +15 acquis ni équipement d’Hasol.
+- **Anneau runique :** cadeau de la famille Corvus remis par Ray au 10, porté par Hasol ; inventaire spécialisé de runes, pas un emplacement runique occupé. Capacité chiffrée et grade **À DÉFINIR**.
+- **Réserve sacrificielle au début du 11 :** dix runes acquises à valeur de récupération chez Orven, blanches/vertes, rangs non exhaustivement connus ; une commune (blanche), 1★, détruite avant le premier donjon par Aura (200 Mana). Ne pas extrapoler le stock restant en fin du 12 à partir de ce seul prélèvement : réapprovisionnements et usages ultérieurs non comptés.
+- **Moyens à vingt-cinq ans :** améliorations jusqu’à +15 financièrement accessibles, sans réussite automatique ni inventaire intégral déjà amélioré. PA naturelle, affixes, ensembles et effets temporaires séparés.
+
+**Actualisation documentaire — DEC-099 à DEC-102 :** barèmes PA/plafonds dans `systeme.md` ; révisions 1–4 validées et intégration confirmée. Les anciennes mentions de lecture non validée ci-dessous sont historiques. Aucun affixe historique 1–9 retouché.
+
+## Instantané historique validé — fin du chapitre 9, CANON
 
 - **Hasol :** douze cercles, **12/12 runes équipées : 4 Fatal + 4 Arcanique + 4 Gardien**. Fatal +35 % Attaque, Arcanique +1 200 PA, deux Gardien +15 % Défense chacun, soit +30 %. Pas d’Énergie, de Vitesse ou de Lame équipée. Toutes les pièces ne sont pas uniformément +6.
 - **Yoon :** deux cercles équipables, **HAS-R009 et HAS-R010**, Énergie désormais **épiques (violettes), 3★, +9**, données et équipées au chapitre 9 ; Énergie actif, +15 % PV. **YOO-R001 et YOO-R002**, anciennes runes +6, restent stockées ; ensembles, grades, étoiles et affixes **À DÉFINIR**.
@@ -15,7 +26,7 @@ Historique des chapitres 1 à 9 ; état courant : fin du chapitre 9 validé (DEC
 
 **Actualisation DEC-006 :** les cadeaux sont bleus, 6★ et déjà +6, avec deux secondaires renforcées chacun, conformément à la progression de la source. Le manuscrit est synchronisé avec les valeurs ci-dessous.
 
-**Règles CANON :** chaque rune possède un rang de 1 à 6 étoiles, indépendant du grade et de l’amélioration. Les secondaires de taux critique, dégâts critiques, précision et résistance peuvent être en pourcentage (DEC-004, qui remplace l’interdiction générale de DEC-003). Les valeurs fixes déjà validées et les bonus d’ensemble restent inchangés.
+**Règles CANON :** chaque rune possède un rang de 1 à 6 étoiles, indépendant du grade et de l’amélioration. Précision et résistance restent admises en pourcentages (DEC-004). **DEC-098 retire CC/DCC des principales et secondaires** ; les inventaires anciens sont conservés sans remplacement d’affixe inventé. Aucun affixe CC/DCC individuel n’est renseigné dans les inventaires ci-dessous ; les contributions critiques indirectes de la PA restent valables. **DEC-100 confirme la fiche Vitesse et Attaque % en secondaire** ; PV % et Défense % en secondaires restent à confirmer. PA individuelle fixe seulement (DEC-099).
 
 ## HAS-R001 — Fatal rare (bleue), 6★, +6
 
@@ -220,12 +231,37 @@ Les dix pièces et le bilan six +6/quatre +3 du 7 sont conservés. Aucun butin i
 
 Deux identifiants distincts, propriétaire Yoon ; elles étaient équipées avant le cadeau et sont stockées après. Ensembles, grades/couleurs, étoiles, principales et secondaires **À DÉFINIR**. Ni vente, ni don accepté par Hasol, ni destruction. « Quand tu auras quatre cercles » est une perspective d’équipement, pas quatre cercles déjà obtenus ou une date fixée. Leurs futurs retours à l’équipement devront être consignés sans créer d’autres identités.
 
-## Objets futurs — ne pas ajouter au présent
+## Chapitre 10 intégré — fiches CANON, DEC-100 ; récit en lecture, DEC-102
 
-- **Anneau runique — DEC-077 :** futur cadeau de la famille de Ray, remis par Ray après le sauvetage. Accessoire à inventaire spécialisé, pas une rune à placer dans un cercle ; capacité, grade, étoiles éventuelles et statistiques **À DÉFINIR**. Ne pas le compter parmi les douze runes actuelles. Combat en le portant puis niveau 21 : Aimant runique ; effets cachés de fréquence/étoiles/grades. Tranches DEC-007 = plafonds ; exemple monstre 30, 1★/2★/3★ ordinaires 50/35/15 %, avec Aimant 20/30/50 %. Pas d’extrapolation aux autres niveaux ni de rune garantie.
+Ces données sont approuvées et présentes dans le chapitre intégré ; elles ne modifient pas rétroactivement l’instantané du 9. Identifiants attribués après contrôle du registre : `HAS-R015`, `ISE-R001`, `ORV-R002`. Ce sont des repères documentaires, pas de nouvelles données affichées aux personnages.
+
+### HAS-R015 — Vitesse rare (bleue), 3★, +0
+
+- **Propriétaire :** Hasol ; le texte dit « sa propre rune » puis la montre stockée dans son Anneau. **Obtention :** loup alpha élite niveau 26, chapitre 10 V2.
+- **Principale :** Vitesse +3.
+- **Secondaires :** Attaque +8 % ; PA +60. Deux secondaires, conformes au grade rare natif. L’Attaque % secondaire est explicitement admise par cette confirmation, pas PV % ni Défense % secondaires.
+- **Suivi transmis :** ni amélioré ni équipé ; ne pas l’ajouter aux douze runes équipées ou inventer sa projection complète à +15. Anciennes secondaires CC/DCC historiques, sans transformation matérielle de la pierre.
+
+### ISE-R001 — Énergie légendaire (orange), 4★, +9 d’Iseria
+
+- **Propriétaire :** Iseria Astrea, épouse Shun ; prêt pour examen, puis restitution intacte. Jamais équipement d’Hasol, aucune amélioration effectuée.
+- **Principale réelle à +9 :** PV +25 %. **Projection conditionnelle à +15 :** PV +43 %, fiche individuelle expressément confirmée, pas table universelle ni courbe intermédiaire.
+- **Secondaires réelles :** PA +60 ; Vitesse +4 ; Défense +30 ; Mana +20.
+- **Projection personnelle d’Hasol :** PA +140 à +15, via +20 et +60 aux deux paliers restants, ordre +12/+15 inconnu ; autres secondaires inchangées. Pas de +15 acquis, de tentatives engagées ni de ressources consommées par une amélioration de cette pièce.
+
+### ORV-R002 — Énergie d’essai du chapitre 10
+
+- **Désignation initiale :** Énergie commune (blanche), 1★, +0, aucune secondaire ; sortie du tiroir d’Orven pour le test. Détenteur : atelier d’Orven ; propriétaire final **À DÉFINIR**, pas d’attribution à Hasol déduite.
+- **Historique :** réussites +1/+2, échec en visant +3, puis réussite +3 par Hasol. Quatre tentatives ; ressources consommées également lors de l’échec, coûts exacts **À DÉFINIR**.
+- **État après test :** Énergie peu commune (verte), 1★, +3 ; première secondaire **Mana +10**, annoncée avant par Œil. Principale et valeurs **À DÉFINIR**, aucune projection complète +15 chiffrée. Posée sur l’établi après essai ; jamais équipée par Hasol dans cette scène.
+- **Identité :** distincte d’ORV-R001, l’Énergie 2★ de l’épreuve du chapitre 3. Pas une amélioration de la rune d’Iseria.
+
+## Objets et règles — acquis au 10–11 ou futurs, statuts séparés
+
+- **Anneau runique — DEC-077/102, acquis au 10 :** cadeau de la famille Corvus remis par Ray après le sauvetage, porté par Hasol. Accessoire à inventaire spécialisé, pas une rune à placer dans un cercle ; capacité, grade, étoiles éventuelles et statistiques **À DÉFINIR**. Combat en le portant puis niveau 21 au 11 : Aimant runique ; effets cachés de fréquence/étoiles/grades. Tranches DEC-007 = plafonds ; exemple monstre 30, 1★/2★/3★ ordinaires 50/35/15 %, avec Aimant 20/30/50 %. Pas d’extrapolation aux autres niveaux ni de rune garantie.
 - **Rune temporelle — DEC-079 :** acquise à la fin du livre I, grade et étoiles **À DÉFINIR**, distincte de l’ensemble Arcanique. Première activation au cliffhanger du I, 12 DONG/1 DING ; douzième activation à la fin de R11 au II, 12 DONG/12 DING puis destruction définitive. Identifiant individuel et circonstances précises d’obtention à consigner lors de la scène autorisée, pas comme butin déjà acquis.
 - **Lame/Arcanique — DEC-076, arbitrage auteur :** Lame est retiré du catalogue actif et remplacé par Arcanique. Ancien contrat historique conservé ; aucune Lame équipée par Hasol, aucune conversion matérielle fictive.
-- **Œil/Bénédiction — arbitrage final auteur, futur seulement :** les **types de secondaires** sont prédéterminés quel que soit l’artisan ; Œil montre les **maxima accessibles à Hasol si elle améliore**, pas des valeurs finales garanties. Un autre artisan obtient les mêmes types et des valeurs pouvant être inférieures. Bénédiction favorise les maxima sans garantie ni suppression des échecs. Aucun affixe ancien retouché, aucun Œil attribué à Hasol avant son niveau 20 au futur chapitre 10.
+- **Œil/Bénédiction — CANON, DEC-097, découverte racontée au 10 en lecture :** les **types de secondaires** restent prédéterminés quel que soit l’artisan ; Œil montre le **résultat final exact à +15 si Hasol effectue les améliorations et atteint ce palier**. Ne pas en déduire les valeurs d’un autre artisan ou l’ordre exact des paliers intermédiaires, un choix des affixes ou des renforcements tous maximaux. Les effets de Bénédiction, les échecs possibles et leurs coûts sont préservés. Aucun affixe historique retouché, aucun Œil attribué avant son niveau 20 ; les deux fiches confirmées sont suivies séparément par DEC-100.
 
 ### Grades du butin — arbitrage final auteur
 

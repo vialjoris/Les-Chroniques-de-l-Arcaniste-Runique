@@ -1,109 +1,243 @@
-
+/* Fenêtres du manuscrit : présentation locale, sans police ni ressource distante. */
 .system-window,
 .character-sheet,
-.rune-window {
-  border: 1px solid #64748b;
-  border-radius: 12px;
-  padding: 20px;
-  margin: 24px 0;
-  background: #111827;
-  color: #f3f4f6;
-  line-height: 1.6;
+.rune-window,
+.lit-window {
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  margin: 1.75rem 0;
+  padding: 1.25rem;
+  border: 1px solid #D1AB61;
+  border-radius: 14px;
+  background: #FFFFFF;
+  color: #242424;
+  box-shadow: 0 4px 18px rgb(72 54 21 / 8%);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.95em;
+  line-height: 1.65;
+  text-align: left;
+  overflow-wrap: break-word;
 }
 
-.system-header {
-  text-align: center;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  margin-bottom: 16px;
-  color: #d1d5db;
-}
-
-.legendary {
-  border-color: #eab308;
-}
-
-.legendary-text {
-  color: #facc15;
-  font-weight: 700;
-}
-
-.blue-grade {
-  border-color: #3498db;
-}
-
-.rune-bonus {
-  color: #3498db;
-  font-weight: 700;
-}
-
-.temporary-bonus {
-  color: #22c55e;
-  font-weight: 700;
-}
-
-.success {
-  border-color: #22c55e;
-}
-
-.success-text {
-  color: #22c55e;
-  font-weight: 700;
-}
-
-.level-up {
-  border-color: #eab308;
-}
-
-.monster {
-  border-color: #64748b;
-}
-
-.upgrade-badge {
-  display: inline-block;
-  padding: 2px 10px;
-  border: 1px solid #60a5fa;
-  border-radius: 999px;
-  background: #1e3a5f;
-  color: #93c5fd;
-  font-weight: 700;
-  white-space: nowrap;
-}
-
-.passive-badge {
-  display: inline-block;
-  padding: 2px 8px;
-  border-radius: 999px;
-  background: #374151;
-  color: #e5e7eb;
-  font-size: 0.8em;
-}
-
-.character-sheet table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 16px 0;
-}
-
-.character-sheet th,
-.character-sheet td {
-  padding: 8px 12px;
-  border-bottom: 1px solid #374151;
-}
-
-.character-sheet th {
+.system-header,
+.lit-window__header {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin: 0 0 1rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid #D8BF8F;
+  color: #A17B35;
+  font-size: 20px;
+  font-weight: 750;
+  letter-spacing: 0.055em;
+  line-height: 1.5;
   text-align: left;
 }
 
-.character-sheet th:last-child,
-.character-sheet td:last-child {
-  text-align: right;
+.lit-window__icon {
+  display: inline-block;
+  width: 1.4rem;
+  height: 1.4rem;
+  flex: 0 0 1.4rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
+.lit-window h2,
+.lit-window h3 {
+  margin: 0.85rem 0;
+  color: #242424;
+  font-size: 1.15em;
+  line-height: 1.45;
+  letter-spacing: 0;
+}
+
+.lit-window h2 { font-size: 1.3em; }
+.lit-window p { margin: 0.6rem 0; }
+.lit-window > :last-child { margin-bottom: 0; }
+.lit-window__section { margin: 0.9rem 0; }
+
+.lit-window__row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(4rem, auto);
+  align-items: baseline;
+  gap: 0.25rem 1rem;
+  padding: 0.3rem 0;
+  border-bottom: 1px solid #eee5d4;
+}
+
+.lit-window__value {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.lit-window__section-title { padding-top: 0.5rem; color: #5f4b2a; }
+
+.legendary-text { color: #795b22; font-weight: 700; }
+.rune-bonus { color: #175b9b; font-weight: 700; }
+.temporary-bonus { color: #22643b; font-weight: 700; }
+.success-text { color: #22643b; font-weight: 700; }
+
+/* Valeurs de l’analyse d’Œil : projection runique, jamais effet temporaire. */
+.lit-window__runic-value { color: #175b9b; font-weight: 700; }
+
+/* Les grades de runes sont distincts des raretés de classes. */
+.lit-badge,
+.upgrade-badge,
+.passive-badge {
+  display: inline-block;
+  padding: 0.08em 0.55em;
+  border: 1px solid #c4c8cc;
+  border-radius: 999px;
+  background: #f2f3f4;
+  color: #42474c;
+  font-size: 0.85em;
+  font-weight: 650;
+  line-height: 1.65;
+  vertical-align: baseline;
+}
+
+.upgrade-badge { color: #175b9b; background: #edf4fc; border-color: #b6cce5; white-space: nowrap; }
+.passive-badge { color: #55504a; background: #f5f2ed; border-color: #d9d2c6; }
+.lit-badge--legendary { color: #795b22; background: #fbf3dd; border-color: #D1AB61; }
+.lit-badge--rare,
+.lit-badge--rune-rare { color: #175b9b; background: #edf4fc; border-color: #b6cce5; }
+.lit-badge--common { color: #42474c; background: #f2f3f4; border-color: #c4c8cc; }
+.lit-badge--astral { color: #694493; background: #f3edfb; border-color: #cdb9e2; }
+.lit-badge--rune-common { color: #505050; background: #FFFFFF; border-color: #c8c8c8; }
+.lit-badge--rune-uncommon { color: #22643b; background: #edf7ef; border-color: #b3d3bd; }
+.lit-badge--rune-epic { color: #694493; background: #f3edfb; border-color: #cdb9e2; }
+.lit-badge--rune-legendary { color: #884717; background: #fff1e4; border-color: #dfbd98; }
+
+.character-sheet table,
+.lit-window table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-variant-numeric: tabular-nums;
+}
+
+.lit-window th,
+.lit-window td,
+.character-sheet th,
+.character-sheet td {
+  padding: 0.6rem 0.55rem;
+  border-bottom: 1px solid #D8BF8F;
+  vertical-align: top;
+  text-align: left;
+  overflow-wrap: break-word;
+}
+
+.lit-window th { color: #5f4b2a; background: #fcf9f2; font-size: 0.9em; }
+.lit-window__stats th:first-child { width: 48%; }
+.lit-window__stats td:last-child,
+.lit-window__stats th:last-child { text-align: right; }
+.lit-window__stats td:last-child > * { display: inline-block; white-space: nowrap; }
+.lit-window hr,
 .system-window hr,
 .character-sheet hr,
-.rune-window hr {
-  border: 0;
-  border-top: 1px solid #374151;
-  margin: 16px 0;
+.rune-window hr { border: 0; border-top: 1px solid #D8BF8F; margin: 1rem 0; }
+
+@media (max-width: 480px) {
+  .lit-window { padding: 0.85rem; border-radius: 10px; font-size: 0.9em; }
+  .lit-window__header { letter-spacing: 0.025em; }
+  .lit-window th,
+  .lit-window td { padding: 0.5rem 0.3rem; }
+  /* Les vrais en-têtes restent visibles, sans duplication via du contenu CSS. */
+  .lit-window__inventory,
+  .lit-window__inventory thead,
+  .lit-window__inventory tbody,
+  .lit-window__inventory tr,
+  .lit-window__inventory th,
+  .lit-window__inventory td { display: block; width: auto; }
+  .lit-window__inventory thead { border-bottom: 2px solid #D8BF8F; }
+  .lit-window__inventory tr { margin-bottom: 0.75rem; }
+  .lit-window__inventory tbody tr { padding-bottom: 0.5rem; border-bottom: 1px solid #D1AB61; }
+  .lit-window__inventory td { border: 0; }
+}
+
+/* Repli pour les moteurs de livre numérique sans prise en charge de Grid. */
+@supports not (display: grid) {
+  .lit-window__row { display: block; }
+  .lit-window__value { display: inline-block; margin-left: 0.5em; }
+  .lit-window__icon { display: none; }
+}
+
+@media print {
+  .lit-window { box-shadow: none; margin: 1rem 0; padding: 0.85rem; break-inside: auto; }
+  .lit-window__icon { display: none; }
+  .lit-window__header,
+  .lit-window h2,
+  .lit-window h3 { break-after: avoid; }
+  .lit-window p,
+  .lit-window tr { break-inside: avoid; }
+  .lit-window thead { display: table-header-group; }
+}
+
+/* Le lecteur est facultatif ; ces règles ne modifient pas le manuscrit brut. */
+.reader-body {
+  margin: 0;
+  background: #f9f7f2;
+  color: #242424;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.85;
+}
+
+.reader-header,
+.reader-nav,
+.reader-main {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 1.5rem 20px;
+}
+
+.reader-header { padding-top: 3rem; border-bottom: 1px solid #D8BF8F; }
+.reader-header h1 { margin: 0; font-size: 1.8em; line-height: 1.3; }
+.reader-author { color: #62543c; }
+.reader-nav { font-family: system-ui, sans-serif; font-size: 0.85em; }
+.reader-nav ol { margin: 0; padding-left: 1.5rem; columns: 2 17rem; }
+.reader-nav li { break-inside: avoid; padding: 0.15rem 0; }
+.reader-body a { color: #75551e; text-underline-offset: 0.2em; }
+.reader-body a:focus-visible { outline: 3px solid #175b9b; outline-offset: 4px; }
+.reader-main { padding-bottom: 4rem; }
+.reader-main > h2 { margin-top: 3rem; line-height: 1.35; }
+.reader-main > h3 { margin-top: 2rem; line-height: 1.45; }
+.reader-main > p { margin: 1rem 0; }
+.reader-main img { max-width: 100%; height: auto; }
+.reader-skip-link {
+  position: absolute;
+  top: 0;
+  left: 1rem;
+  z-index: 1;
+  padding: 0.5rem 1rem;
+  transform: translateY(-150%);
+  background: #FFFFFF;
+  font-family: system-ui, sans-serif;
+}
+.reader-skip-link:focus { transform: translateY(0.5rem); }
+
+@media (max-width: 480px) {
+  .reader-body { font-size: 17px; }
+  .reader-header,
+  .reader-nav,
+  .reader-main { padding-right: 16px; padding-left: 16px; }
+  .reader-header h1 { font-size: 1.5em; }
+}
+
+@media print {
+  .reader-body { background: #FFFFFF; font-size: 11pt; }
+  .reader-header,
+  .reader-nav,
+  .reader-skip-link { display: none; }
+  .reader-main { max-width: none; padding: 0; }
 }

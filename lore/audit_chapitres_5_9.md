@@ -1,5 +1,21 @@
 # Audit d’intégration — chapitres 5 à 9
 
+**Suivi DEC-102 — 22 novembre 2026 :** le manuscrit atteint désormais douze chapitres ; les textes 5–9 validés restent préservés. Révisions 1–4 intégrées sans repères du lore, nouveaux 10–12 en lecture sans validation globale. Les contrôles de l’import distinct sont consignés dans [`../docs/integration_chapitres_1_12.md`](../docs/integration_chapitres_1_12.md). Les anciens états et constats de préservation ci-dessous décrivent les étapes précédentes, pas un manuscrit toujours limité au chapitre 9.
+
+## Actualisation documentaire — DEC-099 à DEC-101
+
+Les bornes de PA runique, ses renforcements et le plafond de deux activations par type d’ensemble de quatre pièces sont fixés par DEC-099, sans impact sur les configurations 1 à 9. Les caractéristiques naturelles et les affixes historiques ne changent pas ; aucune valeur intermédiaire manquante n’est interpolée. Les révisions 1 à 4 sont validées sans repères du lore (DEC-101), mais leur import est une intervention distincte du présent audit. Les constats de préservation ci-dessous restent les preuves de l’opération du 21 novembre, pas une interdiction de ce remplacement désormais autorisé.
+
+## Actualisation du 22 novembre 2026 — DEC-091
+
+**CANON — orientation de présentation :** la décision explicite de l’auteur dans `new.txt` (ligne 51618 au moment de la transmission) remplace la demande d’encadrés d’ouverture/clôture de DEC-072. Une partie lore consultable librement en fin de livre est désormais l’orientation retenue ; son contenu et son détail restent **À DÉFINIR**. Aucune annexe n’est rédigée ici.
+
+**Effectué dans les propositions séparées 1 à 4 :** huit repères supprimés, deux par copie ; brouillons, narration et vraies fenêtres système conservés. Vérification octet pour octet du texte hors blocs balisés : réussie. Repères : 8 → 0 ; fenêtres totales : 18/16/7/7 → 16/14/5/5.
+
+**Manuscrit, intervention distincte terminée par la session principale :** dix repères supprimés des chapitres 5 à 9. Cette seule suppression fait passer le total historique de 61 à 51 fenêtres (39 conversions et 12 ajouts de scène), sans supprimer de vraie fenêtre système. Le présent travail ne constitue pas un audit des chapitres 10 à 12.
+
+**Historique conservé ci-dessous :** les décomptes de 61 fenêtres, 22 ajouts et dix repères, ainsi que leurs contenus et contrôles, décrivent l’intégration du 21 novembre. Ils ne valent pas consigne actuelle et ne rétablissent pas la demande remplacée par DEC-091.
+
 ## Périmètre et statut
 
 Intégration locale du 21 novembre 2026, sur autorisation explicite de l’auteur relayée dans la mission : chapitres 5 à 9 validés, chapitre 5 en **V2**, corrections techniques et fenêtres autorisées, sans réécriture générale.
@@ -139,7 +155,7 @@ La dernière composition autorisée au chapitre 9, **4 Fatal + 4 Arcanique + 4 G
 
 ### Autres limites à conserver visibles
 
-- **RÉSOLU par arbitrage direct — Œil runique/Bénédiction :** les types de secondaires révélés sont prédéterminés et restent identiques quel que soit l'artisan ; Œil affiche les valeurs maximales accessibles si Hasol améliore la rune. Un autre artisan peut obtenir les mêmes types avec des valeurs plus faibles. Bénédiction favorise les maxima sans les garantir, et les tentatives peuvent toujours échouer. Aucun Œil anticipé dans les chapitres 5 à 9, ni garantie d'obtenir toutes les valeurs affichées.
+- **HISTORIQUE — arbitrage Œil du 21 novembre 2026 remplacé par DEC-097 le 22 novembre :** l’audit retenait les types prédéterminés et les maxima accessibles non garantis pour Hasol. **Règle active : résultat final exact à +15 si Hasol effectue les améliorations et atteint ce palier**, sans prédiction des valeurs d’un autre artisan ni de l’ordre exact des paliers intermédiaires. Bénédiction et tentatives coûteuses pouvant échouer restent inchangées ; aucun Œil anticipé dans les chapitres 5 à 9, aucune retouche du manuscrit par cet arbitrage.
 - **CANON rappelé par l’auteur — arme à aura :** le niveau minimum 10 du porteur reste applicable même à un Arcaniste astral de niveau 1, sans exception. Le chapitre 5 conserve cette condition ; aucune scène de seconde vie n’est ajoutée.
 - **CANON récent, hors des scènes importées — butin :** la tranche de niveau du monstre fixe un plafond d’étoiles, pas un rang garanti. Exemple validé au niveau 30 : runes 1★/2★/3★ selon 50 %/35 %/15 % ordinairement, 20 %/30 %/50 % avec Aimant. Ne pas extrapoler ces proportions aux autres niveaux. Aucune table générale, garantie de butin ni acquisition anticipée d’Aimant n’est introduite ; les étoiles des runes déjà acquises ne sont pas recalculées rétroactivement.
 - **TEMPS-01 :** la V2 fait reprendre la chasse le dimanche suivant la morsure, après examen et soins maternels. Le plan demandait de laisser récupérer Hasol sans imposer le lendemain. Cette chronologie transmise est conservée ; aucun délai fictif d’une semaine ajouté. La source montre toujours douleur, bandage et surveillance.
@@ -157,7 +173,7 @@ La dernière composition autorisée au chapitre 9, **4 Fatal + 4 Arcanique + 4 G
 - **Réussi :** HTML analysé avec pile des balises ouvrantes/fermantes ; aucune fermeture inattendue ni balise non fermée, balises vides HTML prises en compte.
 - **Réussi :** 61 en-têtes de fenêtres dans les chapitres ajoutés, soit 51 initiaux + 10 repères ; cinq ouvertures et cinq clôtures, quatre ou cinq puces chacune ; classes CSS existantes uniquement.
 - **Réussi après revue :** expressions éditoriales signalées absentes des paragraphes des fenêtres ; cinq compteurs renommés sans changer leurs valeurs ; les dix encadrés sont placés après les titres ou avant les fins de chapitre, sans révélation anticipée.
-- **Réussi :** la ligne d’arbitrage Œil/Bénédiction ajoutée par la session principale est conservée exactement.
+- **Réussi lors du contrôle initial :** la ligne d’arbitrage Œil/Bénédiction ajoutée par la session principale était conservée exactement. Sa lecture d’Œil a depuis été remplacée par DEC-097 le 22 novembre 2026, sans retouche des chapitres.
 - **Réussi :** aucun en-tête de courriel, adresse ou introduction conversationnelle importé dans l’ajout.
 - **Réussi :** `new.txt` et `old.txt` identiques aux copies de provenance ; aucun de ces fichiers nettoyé.
 - **Limite :** contrôles structurels et de continuité ciblés, pas validation littéraire nouvelle, audit exhaustif des statistiques impossibles à récupérer, ni arbitrage des réserves.

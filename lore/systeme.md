@@ -2,6 +2,8 @@
 
 Ce fichier documente les règles établies et leurs limites. Sources : décisions explicites de l’auteur consignées dans `decisions.md`, transmission `new.txt` et inspirations identifiées dans `../source.md`. Les réponses de ChatGPT ne constituent pas à elles seules une validation. Actualisation du 21 novembre 2026 : DEC-072 à DEC-080 ; les états futurs restent distincts des chapitres déjà racontés.
 
+**Avancement narratif — DEC-102, 22 novembre 2026 :** douze chapitres intégrés, 1–9 validés, 10–12 en lecture sans validation globale. Œil au niveau 20/ch.10, Aimant au niveau 21/ch.11 après combat avec l’Anneau, groupe de cinq/50 points au 12 sont désormais racontés. Les mentions anciennes de ces jalons comme « futurs » sont historiques ; Main, détection des pièges par Œil, centième boss et premier sort offensif restent futurs. À vingt-cinq ans d’Hasol, niveaux finaux, statistiques, XP, cercles finaux et inventaires ne sont pas chiffrés. Préserver les profils naturels validés et séparer leurs valeurs des bonus : aucune fluctuation d’équipement ni nouvelle PA effective ne permet de déduire une courbe naturelle. Résonance évolue au niveau 40 de Yoon, sans lui assigner ce niveau en fin du 12.
+
 ## 1. Trois dimensions distinctes d’une rune — CANON
 
 | Dimension | Valeurs | Fonction |
@@ -14,10 +16,11 @@ Ne pas confondre ces dimensions : une rune bleue peut avoir un rang qui n’est 
 
 ## 2. Unités des caractéristiques — CANON
 
-- Taux critique (ou chance critique), dégâts critiques, précision et résistance : pourcentages autorisés, en principales comme en secondaires.
+- Précision et résistance : pourcentages autorisés, en principales comme en secondaires (DEC-004).
+- **DEC-098 :** taux critique (ou chance critique, CC) et dégâts critiques (DCC) retirés des principales et secondaires des runes. Ce retrait remplace DEC-004/076 pour ces affixes seulement, pas les mécanismes critiques ni les caractéristiques naturelles.
 - Les secondaires fixes restent exprimées en valeurs fixes : natives Vitesse +2 et PV +15 pour HAS-R001, renforcées à +4 et +25 ; natives PV +20 et Mana +10 pour HAS-R002, renforcées à +30 et +20. Les gains sont des choix éditoriaux délégués, pas des valeurs tirées d’un barème du guide.
-- Une augmentation d’un taux doit être distinguée d’une multiplication relative : par exemple, un bonus de taux critique de +3 % désigne un ajout de trois points de pourcentage au taux, pas une hausse relative de 3 %.
-- PV %, Attaque % et Défense % sont admis comme principales par DEC-011 ; leur adoption comme secondaires reste à confirmer. Ne pas confondre les deux décisions.
+- Une augmentation d’un taux doit être distinguée d’une multiplication relative : par exemple, un bonus de précision de +3 % désigne un ajout de trois points de pourcentage au taux, pas une hausse relative de 3 %.
+- PV %, Attaque % et Défense % sont admis comme principales par DEC-011. **DEC-100 admet Attaque % en secondaire** (fiche Vitesse rare, bleue, 3★, +0 : +8 %) ; PV % et Défense % en secondaires restent à confirmer. PA runique uniquement fixe, pas en pourcentage (DEC-099).
 - Les bonus d’ensemble restent distincts des caractéristiques individuelles et conservent les valeurs validées du plan.
 
 ### Effets de la Vitesse — CANON, DEC-052
@@ -27,6 +30,8 @@ La Vitesse augmente la vitesse d'incantation et la vitesse de déplacement. Cett
 ### Puissance arcanique et critiques — CANON, DEC-076
 
 Les formules retenues sont `CC (%) = 5 + PA effective / 80 + bonus directs de CC` et `DCC (%) = 150 + PA effective / 100 + bonus directs de DCC`. Elles concernent les actions éligibles, y compris les attaques normales à l'épée, pas seulement les sorts. La PA effective doit rester distinguée de la PA naturelle, des contributions runiques et des effets temporaires ; ne pas inventer leur ordre de calcul.
+
+**Portée de DEC-098 :** ces formules restent inchangées. Leurs termes de bonus directs n’autorisent plus d’affixes runiques CC/DCC ; aucun nouveau bonus de compétence ni nouvelle formule n’est adopté. Aura et Infiltration conservent leurs règles.
 
 Le taux reste une probabilité ; à 100 % ou davantage, l'action éligible est critique. Aucun mécanisme de surcritique n'est adopté. Arrondis et interactions détaillées **À DÉFINIR**. L'éligibilité au critique d'Aura runique concerne son lancement (section 10), pas une assimilation de tous les effets de compétence aux coups d'épée.
 
@@ -46,22 +51,44 @@ Cycle : Eau > Feu > Terre > Eau. Deux éléments identiques sont neutres ; Lumi�
 
 ## 3. Tables des principales adoptées par l’auteur
 
-Source : les quatre lignes du guide de JeuxOnLine reprises explicitement par l’auteur (DEC-004).
+Source : les quatre lignes du guide de JeuxOnLine reprises explicitement par l’auteur (DEC-004). **DEC-098 : seules Précision et Résistance restent actives.**
 
 **Lecture d’une cellule : valeur à +0 / gain par niveau / valeur à +15.** Toutes les valeurs sont en pourcentage ; un gain représente des points de pourcentage. Ces tables concernent les **principales uniquement**, jamais les secondaires.
 
 | Principale | 1★ | 2★ | 3★ | 4★ | 5★ | 6★ |
 |---|---|---|---|---|---|---|
-| Taux critique % | 1 / 1 / 18 | 2 / 1 / 19 | 3 / 2 / 37 | 4 / 2,25 / 41 | 5 / 2,5 / 47 | 7 / 3 / 58 |
-| Dégâts critiques % | 2 / 1 / 19 | 3 / 2 / 37 | 4 / 2,25 / 43 | 6 / 3 / 57 | 8 / 3,33 / 65 | 11 / 4 / 80 |
 | Précision % | 1 / 1 / 18 | 2 / 1 / 19 | 4 / 2 / 38 | 6 / 2,25 / 44 | 9 / 2,5 / 51 | 12 / 3 / 64 |
 | Résistance % | 1 / 1 / 18 | 2 / 1 / 19 | 4 / 2 / 38 | 6 / 2,25 / 44 | 9 / 2,5 / 51 | 12 / 3 / 64 |
+
+### Tables historiques CC/DCC — remplacées par DEC-098, ne plus utiliser
+
+Conservées pour la provenance de DEC-004, pas pour créer ou améliorer des affixes actifs.
+
+| Ancienne principale | 1★ | 2★ | 3★ | 4★ | 5★ | 6★ |
+|---|---|---|---|---|---|---|
+| Taux critique % | 1 / 1 / 18 | 2 / 1 / 19 | 3 / 2 / 37 | 4 / 2,25 / 41 | 5 / 2,5 / 47 | 7 / 3 / 58 |
+| Dégâts critiques % | 2 / 1 / 19 | 3 / 2 / 37 | 4 / 2,25 / 43 | 6 / 3 / 57 | 8 / 3,33 / 65 | 11 / 4 / 80 |
 
 Le guide indique un gain renforcé de principale à +15. La valeur finale ne se déduit donc pas d’une simple formule « valeur initiale + quinze fois le gain ». Les gains fractionnaires du guide ne suffisent pas à définir toute la séquence d’arrondis : ne pas inventer les valeurs intermédiaires lorsque cette séquence n’est pas établie.
 
 ### Principales fixes des deux cadeaux paternels
 
 L’auteur délègue le choix des statistiques à partir du tableau de la source. Pour Attaque et Défense, le rang 6★ donne 22 à +0 puis +8 par niveau jusqu’à +6 : **22 + 6 × 8 = 70**. HAS-R001 a donc Attaque +70 et HAS-R002 Défense +70. Cette formule ne doit pas être extrapolée à +15 sans respecter son gain final renforcé.
+
+### Principale PA fixe — CANON, DEC-099
+
+Choix délégué par l’auteur, propre au roman. Seules les bornes suivantes sont chiffrées ; **ne pas interpoler +1 à +14**.
+
+| Rang | PA à +0 | PA à +15 |
+|---|---:|---:|
+| 1★ | 10 | 40 |
+| 2★ | 20 | 75 |
+| 3★ | 30 | 150 |
+| 4★ | 40 | 300 |
+| 5★ | 50 | 600 |
+| 6★ | 70 | 1 200 |
+
+La principale augmente à chaque réussite et son gain à +15 reste renforcé. Pas de PA %. Cette table ne chiffre ni les principales intermédiaires des anciennes runes ni la PA naturelle des personnages.
 
 ## 4. Amélioration de la principale et des secondaires — DEC-006 et DEC-014
 
@@ -84,6 +111,8 @@ Une rune bleue native renforce donc une secondaire à +3 puis une à +6 : elle g
 À +15, cette rune renforce encore une de ses quatre secondaires tout en recevant le gain final renforcé de sa principale. Ne pas présenter ces deux effets comme exclusifs et ne pas inventer de gain numérique universel pour les secondaires.
 
 Les valeurs et gains numériques des secondaires ne sont pas fournis par l’article : les chiffres des deux cadeaux sont des choix individuels pour le roman, pas une table universelle. Mana reste une caractéristique propre au roman déjà validée, absente du système runique décrit par la source.
+
+**Secondaire PA — CANON, DEC-099 :** renforcements +20, +40 ou +60, cumulables sur une même secondaire aux paliers ordinaires ci-dessus. Aucun taux d’obtention, modulation selon les étoiles ou valeur native universelle n’est fixé. Le +60 natif de la Vitesse rare (bleue), 3★, +0 de DEC-100 reste une valeur individuelle, pas une règle pour toutes les runes.
 
 ## 5. Obtention et désignation — règle propre au roman
 
@@ -125,7 +154,7 @@ Le taux violet ordinaire **0,9 %** est la correction explicite de l'auteur à la
 
 Toujours indiquer la rareté et les étoiles d’une rune identifiable dans le récit, les dialogues, fenêtres et références, une fois ces informations connues. Exemple : « rune Fatal rare (bleue), 6★, +6 ». Une explication abstraite du système ou un compteur d’emplacements n’exige pas d’inventer une rune précise. Une information inconnue dans une fiche documentaire doit rester « À DÉFINIR ».
 
-Conséquence sur le butin futur prévu : le loup alpha élite de niveau 25 à 27 permet **au maximum 3★**. Le rang 3★ de la rune Vitesse rare (bleue) prévue reste un choix narratif documenté, pas un rang garanti pour tous ses butins. Les cadeaux achetés ou offerts ne changent pas de rang selon le niveau de leur nouveau propriétaire : les deux cadeaux paternels restent rares (bleus), 6★, +6.
+Application racontée au chapitre 10 en lecture : le loup alpha élite **26** permet **au maximum 3★** ; `HAS-R015`, Vitesse rare (bleue), 3★, +0, atteint ce plafond, pas un rang garanti pour tous ses butins. Les cadeaux achetés ou offerts ne changent pas de rang selon le niveau de leur nouveau propriétaire : les deux cadeaux paternels restent rares (bleus), 6★, +6.
 
 ### Équipement sans restriction de niveau — CANON
 
@@ -154,7 +183,7 @@ Les exemples vérifiés sont conservés dans `../source.md`. Cette équivalence 
 
 **CANON — intention de progression :** les principales en valeur fixe favorisent les personnages de bas niveau ; les principales en pourcentage deviennent rapidement plus avantageuses avec la croissance des caractéristiques naturelles. Cet enseignement est désormais raconté au chapitre 4, section IV, puis mis en pratique dans le conseil à une cliente, section VII (DEC-023 et DEC-024).
 
-Les principales PV %, Attaque % et Défense % sont admises par cette décision. Leur présence en principales ne valide pas les mêmes caractéristiques en pourcentage comme secondaires ; cette question reste distincte.
+Les principales PV %, Attaque % et Défense % sont admises par cette décision. Leur présence en principales ne valide pas les mêmes caractéristiques en pourcentage comme secondaires. DEC-100 admet séparément Attaque % secondaire ; PV % et Défense % secondaires restent à confirmer.
 
 Comparer des runes à rang en étoiles et amélioration comparables, et tenir compte de leur grade et de leurs secondaires pour juger l’équipement complet. La supériorité d’une principale ne suffit pas à établir celle de toute la rune. Ne pas transformer le conseil en règle universelle indépendante des valeurs.
 
@@ -170,9 +199,11 @@ Un ensemble Fatal nécessite quatre pièces, Gardien et Énergie deux pièces. L
 
 **Arcanique — CANON, DEC-076 :** quatre pièces donnent **+1 200 Puissance arcanique** ; deux ou trois pièces ne donnent aucun bonus d'ensemble. L'ensemble est rare et très coûteux. Les deux premières pièces du chapitre 7 ne l'activent pas ; les quatre du chapitre 9 l'activent. Ce bonus contribue indirectement aux critiques selon les formules ci-dessus.
 
-**Remplacement confirmé par l'auteur le 21 novembre 2026 — DEC-076 :** **Lame est retiré du système actif et remplacé par Arcanique**, comme les anciens ensembles critiques fusionnés. L'ancienne règle Lame, deux pièces pour +12 % de chance critique, n'est conservée que comme historique ; ne plus la proposer pour un équipement futur. Aucun chapitre ancien n'est réécrit par cet arbitrage ; les caractéristiques individuelles de CC/DCC restent distinctes et admises.
+**Remplacement confirmé par l'auteur le 21 novembre 2026 — DEC-076 :** **Lame est retiré du système actif et remplacé par Arcanique**, comme les anciens ensembles critiques fusionnés. L'ancienne règle Lame, deux pièces pour +12 % de chance critique, n'est conservée que comme historique ; ne plus la proposer pour un équipement futur. Aucun chapitre ancien n'est réécrit par cet arbitrage. Le maintien initial des affixes individuels CC/DCC est désormais historique, remplacé par leur retrait dans DEC-098 ; les formules critiques restent intactes.
 
-### Principales 3★ de la version de lecture du chapitre 2
+**Plafond par porteur — CANON, DEC-099 :** chaque type d’ensemble de quatre pièces s’active au maximum deux fois (Fatal, Vitesse, Arcanique). Les affixes individuels de toutes les runes équipées restent actifs, y compris au-delà des pièces donnant ces deux activations. Les ensembles de deux pièces n’ont pas de plafond propre ; leur cumul additif existant est conservé. Aucun impact sur les configurations des chapitres 1 à 9, aucune modification de l’ordre des opérations ou des arrondis.
+
+### Principales 3★ du chapitre 2, révision validée par DEC-101
 
 Choisies à partir du tableau de la source dans la délégation de l’auteur : principales à +0 Attaque +7, Défense +7, PV +100, Vitesse +3. HAS-R003, Fatal rare (bleue), 3★, passe de +0 à +3 avec Attaque +7 → +12 → +17 → +22, soit +5 par niveau. Les secondaires de cet inventaire et leur gain chiffré sont des choix éditoriaux, pas des valeurs attestées par le guide.
 
@@ -255,7 +286,7 @@ Orven mesure au chapitre 7 environ **30 % d'échecs en moins relativement à son
 
 Second effet caché : lors d'un renforcement variable déclenché par une amélioration réussie, Hasol obtient très souvent le maximum autorisé. Ni maximum garanti, ni fréquence chiffrée validée, ni choix libre de la caractéristique, ni dépassement des plafonds ou renforcement supplémentaire. Les propriétés préexistaient à leur découverte ; ne pas réécrire les résultats antérieurs ni annuler les coûts des échecs.
 
-**Œil/Bénédiction — CANON, clarification de l'auteur du 21 novembre 2026, DEC-076 :** les **types de secondaires sont prédéterminés et identiques quel que soit l'artisan**. Œil montre les **maxima accessibles si Hasol améliore la rune**, pas des valeurs finales garanties. Un autre artisan conserve les mêmes types mais peut atteindre des valeurs plus faibles. Bénédiction favorise les maxima **sans les garantir**, et les tentatives peuvent toujours échouer. Cette lecture conserve identité, types et potentiel de la rune ; elle remplace l'ancienne promesse de valeurs à +15 figées et garanties, sans réécrire les améliorations déjà racontées.
+**Œil runique — CANON, DEC-097, arbitrage du 22 novembre 2026 :** Œil montre le **résultat final exact à +15 si Hasol effectue les améliorations et atteint ce palier**. Les types de secondaires restent prédéterminés et identiques quel que soit l'artisan ; la prédiction personnelle d'Hasol ne prédit pas les valeurs obtenues par un autre artisan. Les tentatives peuvent toujours échouer et consommer des pierres de mana et du Mana avant d'y parvenir. Ce résultat exact ne signifie ni renforcements tous maximaux, ni choix des affixes, ni révélation de l'ordre exact des paliers intermédiaires ; il ne fixe aucun coût, taux, nombre de tentatives ou délai. DEC-097 remplace la lecture d'Œil aux maxima non garantis de DEC-076 seulement ; les effets de Bénédiction et les résultats déjà racontés restent inchangés.
 
 ## 10. Armes imprégnées d’une aura — CANON DEC-028 et DEC-075
 
@@ -274,13 +305,13 @@ Second effet caché : lors d'un renforcement variable déclenché par une améli
 - Après trente secondes, l'aura élémentaire normale subsiste jusqu'à son terme. Chaque nouvelle tentative d'activation critique paie de nouveau son coût ; aucune relance gratuite n'est déduite. Paramètres non précisés (remplacement/cumul des auras, ordre avec affinités et critiques des coups, arrondis) **À DÉFINIR**.
 - **Compatibilité tranchée par l'auteur — DEC-078 :** Aura active est disponible au niveau 1 astral, **mais le seuil d'utilisation d'une arme à aura reste niveau 10, sans exception**. Ne pas montrer Hasol utilisant personnellement cette arme au niveau 1. L'intérêt des recruteurs vient du potentiel de sa classe, sans noms ou scènes de recrutement inventés.
 
-## 11. XP des boss, compteurs et moyens d'Hasol — futur CANON DEC-032
+## 11. XP des boss, compteurs et moyens d'Hasol — CANON DEC-032 ; moyens racontés au 12 en lecture
 
 - Dans la trajectoire future d'Hasol, l'essentiel de l'XP provient des boss de donjon après l'abandon rapide du farm intensif de petits monstres au profit du groupe. Aucun montant, bonus de boss, mécanisme de partage ou barème d'XP universel n'est défini par cette orientation.
 - Croissance runique suit les monstres admissibles, pas le volume d'XP. Une élimination de boss ne doit pas être transformée en plusieurs centaines d'éliminations parce qu'elle rapporte beaucoup d'XP. Le seuil de 1 000 reste inchangé ; l'attribution des éliminations en groupe ne se déduit pas du seul partage d'XP et reste à préciser avant un calcul détaillé.
 - Cette activité permet de monter de niveau tout en franchissant peu souvent les seuils de mille monstres. L'évolution ultérieure DEC-038 ajoute un autre mode de gain sans modifier cette observation sur le compteur initial. Le nombre total de cercles à vingt-cinq ans reste **À DÉFINIR** ; DEC-056 fixe **seize cercles runiques en fin de livre I**, sans calcul automatique depuis le niveau du personnage.
 - Vers vingt-cinq ans, Œil runique contribue à la réputation artisanale et à des moyens financiers colossaux, suffisants pour financer des améliorations personnelles jusqu'à +15. La capacité à payer ne garantit ni la réussite de chaque tentative ni un travail illimité ; temps, Mana et fatigue restent applicables.
-- Œil révèle les types prédéterminés et les maxima accessibles à +15 si Hasol améliore la rune, **pas des valeurs garanties** (DEC-076). Il ne fixe pas les probabilités de réussite et ne change pas les types de secondaires. Les runes effectivement améliorées doivent être suivies individuellement, sans créer un inventaire futur chiffré absent des sources.
+- Œil révèle les types prédéterminés et le **résultat final exact à +15 si Hasol effectue les améliorations et atteint ce palier** (DEC-097). Il ne garantit pas la réussite des tentatives et ne change pas les types de secondaires. Les runes effectivement améliorées doivent être suivies individuellement, sans créer un inventaire futur chiffré absent des sources.
 
 ## 12. Équipes et accès aux donjons — CANON DEC-035
 
@@ -300,7 +331,9 @@ Second effet caché : lors d'un renforcement variable déclenché par une améli
 - **Remplacement explicite de la règle de réapprentissage — DEC-078 :** dans les nouvelles vies astrales, Œil runique avec détection des pièges et **Main runique active** sont disponibles dès le niveau 1. Main ouvre les **coffres et les portes sans restriction** ; ce choix de l'auteur remplace l'idée transmise qui attribuait leur ouverture à Aimant runique. Ne pas ajouter un échec lié à une serrure ou une catégorie de porte exclue ; coût, portée et modalités non fixés restent **À DÉFINIR**. Cela n'accorde aucun désamorçage de piège.
 - Cette autonomie explique l'absence de Samia dans l'équipe principale des nouvelles vies, sans supprimer l'intérêt général des Rangers ni modifier l'apprentissage auprès d'elle au livre I.
 
-### Cas futur du boss invocateur — DEC-039
+### Boss invocateur — DEC-039, rencontre et retour racontés au 12 en lecture
+
+Le groupe de quatre fuit, recrute Samia puis revient vaincre le boss grâce à son intervention sur le mécanisme. Coup fatal d’Hasol, coffre ouvert par les outils de Samia ; aucun nouveau cercle ou gain chiffré inventé. La préparation historique ci-dessous ne doit pas être lue comme un retour encore à écrire. L’exploitation volontaire des invocations au II/III reste future.
 
 - Un boss de donjon niveau 32 invoque en masse des monstres niveau 11 tant qu'un piège n'est pas désactivé. Le groupe de quatre doit fuir et Zio propose un Ranger avant le retour ; il s'agit d'un cas narratif précis, pas du fonctionnement universel des boss ou des donjons.
 - Position et nature du piège, débit d'invocation, moyens de le repérer et de le désactiver, comportement du boss après désactivation et résultat du retour **À DÉFINIR**. **DEC-081 : les invocations sont infinies tant que le piège reste actif et le boss en vie** ; ne pas inventer de limite de stock. La désactivation n'établit pas une victoire automatique ; aucune invulnérabilité préalable du boss n'est fixée.
@@ -406,7 +439,7 @@ Ray reste de classe commune. Son répertoire repose sur des techniques directes,
 
 **Endurance magique de Ray — CANON, DEC-070 :** ses sorts épuisent rapidement sa réserve de Mana. Il doit gérer sa consommation ; sa Puissance arcanique et ses nombreux cercles ne garantissent pas une longue autonomie. Combustion maîtrisée limite les pertes mais ne supprime pas cette faiblesse. Aucun barème de coût, rythme de régénération, nombre de sorts avant épuisement ou essoufflement physique automatique n'est défini.
 
-## 18. Anneau runique et Aimant runique — futur CANON, DEC-077
+## 18. Anneau runique et Aimant runique — CANON, DEC-077 ; acquis au 10/11 en lecture
 
 - L'Anneau runique offert par la famille de Ray après son sauvetage est remis personnellement par Ray. Il possède un **inventaire spécialisé réservé aux runes** ; l'inventaire ordinaire mélange les objets et n'offre pas ce tri natif. Ce n'est ni un emplacement de rune supplémentaire ni un bonus statistique établi. Capacité, transferts et conservation à travers les retours **À DÉFINIR**.
 - Dans la première vie, **Aimant runique se débloque au niveau 21 après un combat en portant l'anneau**. L'interface indique seulement que les chances d'obtention de runes sont améliorées, sans taux affiché. Les effets réels favorisent aussi davantage d'étoiles et une meilleure qualité selon les distributions conditionnelles de la section 5 ; seule la fréquence globale reste non chiffrée. Ne pas révéler immédiatement ces effets cachés à Hasol ni garantir un butin.
@@ -421,7 +454,7 @@ Hasol reste Arcaniste runique légendaire au livre I, vingt points. Dans les nou
 |---|---|
 | Bénédiction runique | Passif avec ses propriétés établies |
 | Croissance runique | Passif ; compteurs remis à zéro à chaque nouvelle vie, pas report automatique de cercles |
-| Œil runique | Passif, types prédéterminés et maxima accessibles à +15 si Hasol améliore, sans garantie de réalisation ; détection des pièges |
+| Œil runique | Passif, types prédéterminés et résultat final exact à +15 si Hasol effectue les améliorations et atteint ce palier (DEC-097), sans réussite automatique des tentatives ; détection des pièges |
 | Main runique | **Actif**, ouverture des coffres et portes **sans restriction** |
 | Aura runique | **Actif** disponible dès le niveau 1 ; utilisation d'une arme à aura seulement au niveau 10, sans exception |
 

@@ -1,8 +1,8 @@
-**PROPOSITION — à valider après lecture ; copie non canonique, aucun remplacement de `roman.md`.**
+**COPIE DE RÉVISION APPROUVÉE — ARCHIVE PRÉSERVÉE. Le manuscrit officiel reste `roman.md`.**
 
 > Préparation : 21 novembre 2026. Origine : chapitre 1 de l’instantané `/tmp/opencode/arcaniste-integration-20261121/avant/roman.md`, sans réimportation de `new.txt` ni d’`old.txt`.
 > SHA-256 du segment source : `2ffa996edf5c5b77e42df35ef52c110f9ac77d7536f8f6cec5e0331c7f3cc4bf`.
-> Périmètre : texte intégral inchangé ; deux encadrés éditoriaux pour le lecteur, ouverture et clôture, sur demande explicite de l’auteur. Aucun raccord ni retouche de prose. Voir `lore/audit_fenetres_1_4.md`.
+> Statut actualisé le 22 novembre 2026 : révision approuvée par l’auteur sans lore en début ni en fin ; encadrés déjà retirés par DEC-091. Corps de cette archive conservé, présentation des fenêtres modernisée uniquement dans le manuscrit. Voir `docs/integration_chapitres_1_12.md`.
 
 <span id="chapitre-1"></span>
 
@@ -11,18 +11,6 @@
 
 ---
 
-<!-- AJOUT PROPOSÉ C1-LO -->
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — OUVERTURE</div>
-  <p><em>Pour le lecteur — repères éditoriaux, pas une notification reçue par les personnages.</em></p>
-  <ul>
-    <li>La Révélation révèle la classe à seize ans.</li>
-    <li>Quatre raretés de classe : Commune, Rare, Légendaire et Astrale.</li>
-    <li>Leur coût d’équipe est respectivement de 5, 10, 20 et 25 points.</li>
-    <li>Une équipe respecte deux plafonds : cinq membres et cinquante points.</li>
-  </ul>
-</div>
-<!-- FIN AJOUT PROPOSÉ C1-LO -->
 
 ## I. La princesse de la maison Shun
 
@@ -3412,18 +3400,6 @@ Puis sourit.
 
 **La légende de Hasol Shun venait seulement de commencer.**
 
-<!-- AJOUT PROPOSÉ C1-LC -->
-<div class="system-window">
-  <div class="system-header">REPÈRES DU LORE — CLÔTURE</div>
-  <p><em>Pour le lecteur — repères éditoriaux, pas une notification reçue par les personnages.</em></p>
-  <ul>
-    <li>Les caractéristiques naturelles restent distinctes des bonus runiques.</li>
-    <li>Une grande réserve de Mana ne donne pas, à elle seule, un sort offensif.</li>
-    <li>Les runes sont équipables à tout niveau, avec un emplacement libre.</li>
-    <li>Croissance runique : un cercle et un emplacement par tranche de 1 000 éliminations admissibles, avec prise en compte rétroactive.</li>
-  </ul>
-</div>
-<!-- FIN AJOUT PROPOSÉ C1-LC -->
 
 ---
 

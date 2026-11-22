@@ -32,7 +32,7 @@
 
 ## DEC-004 — Pourcentages spécialisés et rangs de 1 à 6 étoiles
 
-- **Statut : CANON.**
+- **Statut : CANON pour les étoiles et Précision/Résistance ; HISTORIQUE pour les affixes CC/DCC, retirés par DEC-098 le 22 novembre 2026.** Les formulations d’adoption ci-dessous consignent la décision initiale, pas le catalogue actif de ces deux affixes.
 - **Validation :** 19 novembre 2026, l’auteur demande de garder les pourcentages pour le taux critique, les dégâts critiques, la précision et la résistance, cite les quatre lignes de progression et demande l’ajout de rangs de 1 à 6 étoiles.
 - **Décision :** ces quatre caractéristiques peuvent être exprimées en pourcentages, y compris en secondaires. Chaque rune possède un rang de 1 à 6 étoiles, indépendant du grade de couleur et de l’amélioration.
 - **Justification :** dernière décision explicite de l’auteur, fondée sur l’inspiration Summoners War.
@@ -356,7 +356,7 @@
 ## DEC-032 — Réputation vers vingt-cinq ans, richesse et ralentissement des cercles
 
 - **Statut : CANON pour la trajectoire ; chiffres et découpage détaillé À DÉFINIR.**
-- **Clarification prioritaire du 21 novembre 2026 — DEC-076 :** les formulations historiques sur les « caractéristiques finales prédéterminées » désignent désormais les **types de secondaires fixes et les maxima accessibles si Hasol améliore**, sans garantie de valeurs maximales réalisées. Un autre artisan garde les types mais peut obtenir des valeurs inférieures ; Bénédiction favorise les maxima sans les garantir.
+- **Clarification historique du 21 novembre 2026 — DEC-076, remplacée pour Œil par DEC-097 le 22 novembre 2026 :** elle retenait les types fixes et les maxima accessibles non garantis. La règle active est le résultat final exact à +15 si Hasol effectue les améliorations et atteint ce palier ; Bénédiction, échecs et coûts restent inchangés.
 - **Source :** l'auteur précise qu'avant le chapitre 13, vers vingt-cinq ans, Hasol devient une artisane réputée grâce à Œil runique, dispose de fonds colossaux et peut financer ses runes à +15. Elle arrête rapidement le farm intensif de petits monstres pour suivre son groupe en donjon ; l'XP vient surtout des boss et les paliers de 1 000 monstres sont peu souvent franchis.
 - **Artisanat :** la réputation et la richesse sont déjà acquises vers vingt-cinq ans, pas à introduire seulement dans la dernière partie du livre I. Œil runique reste débloqué au niveau 20 après le sauvetage de Ray, donc avant ce jalon. Aucun niveau de personnage précis n'est attribué à Hasol à vingt-cinq ans.
 - **Équipement :** les ressources financières permettent de financer les améliorations personnelles jusqu'à +15. Le nombre de runes déjà à +15 à chaque scène, leurs identités, rangs, grades, caractéristiques et remplacements restent à établir ; ne pas transformer cette capacité financière en amélioration instantanée ou automatiquement réussie. Œil runique révèle les caractéristiques finales prédéterminées, pas une garantie de réussite des tentatives.
@@ -812,13 +812,13 @@
 
 ## DEC-076 — Bénédiction, Arcanique et formules critiques
 
-- **Statut : CANON pour les effets, formules, remplacement de Lame et lecture du potentiel par Œil.**
+- **Statut : CANON pour Bénédiction, les formules et le remplacement de Lame ; lecture d’Œil HISTORIQUE, remplacée par DEC-097 ; maintien des affixes CC/DCC HISTORIQUE, remplacé par DEC-098 le 22 novembre 2026.**
 - **Source :** chapitre 7 validé, notes de transmission `new.txt` « Bénédiction runique » / « Ensemble Arcanique » et confirmations explicites de l'auteur dans la session du **21 novembre 2026**. L'ancienne mention « +1 200 à confirmer » est remplacée par la valeur retenue dans le chapitre 7 validé.
 - **Bénédiction :** environ **30 % d'échecs en moins relativement au taux d'Orven**, pas trente points. Second effet caché : un renforcement variable consécutif à une réussite atteint **très souvent le maximum autorisé**, sans garantie ni fréquence numérique adoptée. Aucun choix libre de caractéristique, dépassement de plafond ou renforcement supplémentaire ; les échecs restent coûteux. Ne pas modifier rétroactivement les améliorations antérieures.
 - **Arcanique :** ensemble **quatre pièces, +1 200 Puissance arcanique** ; deux ou trois pièces inactives. Ensemble rare et très cher, influençant indirectement critiques et compétences à PA. L'équipement détaillé relève de `lore/runes.md`, pas d'une table universelle déduite du chapitre.
 - **Critiques :** `CC (%) = 5 + PA effective / 80 + bonus directs de CC` ; `DCC (%) = 150 + PA effective / 100 + bonus directs de DCC`. Les attaques normales à l'épée sont concernées, pas seulement les sorts. À 100 % de CC ou davantage, l'action éligible est critique, sans surcritique supplémentaire ; aucun plafond artificiel ajouté. Ordre des contributions à la PA effective et arrondis à définir.
-- **Fusion clarifiée par réponse directe ultérieure de l'auteur, 21 novembre 2026 :** **retirer Lame du système actif, remplacé par Arcanique**. L'ancienne règle Lame, deux pièces pour +12 % de chance critique, est conservée uniquement comme historique, sans réécriture des anciens chapitres. La contradiction initialement signalée est donc résolue. Les caractéristiques individuelles CC/DCC de DEC-004 ne sont pas supprimées.
-- **Œil/Bénédiction — réponse directe ultérieure de l'auteur, 21 novembre 2026 :** les **types de secondaires sont prédéterminés et identiques quel que soit l'artisan**. Œil montre les **maxima accessibles si Hasol améliore**, pas une réalisation garantie de ces valeurs à +15. Un autre artisan obtient les mêmes types mais peut atteindre des valeurs plus faibles. **Bénédiction favorise les maxima sans garantie**, les échecs et leurs coûts subsistent. Cette clarification conserve types et potentiel et remplace l'ancienne promesse de valeurs finales figées/garanties ; l'ambiguïté précédemment signalée est résolue sans modifier les résultats passés.
+- **Fusion clarifiée par réponse directe ultérieure de l'auteur, 21 novembre 2026 :** **retirer Lame du système actif, remplacé par Arcanique**. L'ancienne règle Lame, deux pièces pour +12 % de chance critique, est conservée uniquement comme historique, sans réécriture des anciens chapitres. La contradiction initialement signalée est donc résolue. **Historique remplacé par DEC-098 :** cette clarification maintenait alors les affixes individuels CC/DCC de DEC-004 ; ils sont désormais retirés des principales et secondaires, sans modification des formules critiques.
+- **Œil/Bénédiction — HISTORIQUE pour la lecture d’Œil, remplacée par DEC-097 le 22 novembre 2026 ; réponse directe de l'auteur du 21 novembre 2026 :** les **types de secondaires sont prédéterminés et identiques quel que soit l'artisan**. Œil montrait les **maxima accessibles si Hasol améliore**, pas une réalisation garantie de ces valeurs à +15. Un autre artisan obtient les mêmes types mais peut atteindre des valeurs plus faibles. **Bénédiction favorise les maxima sans garantie**, les échecs et leurs coûts subsistent. Cette clarification conservait types et potentiel et remplaçait l'ancienne promesse de valeurs finales figées/garanties ; elle ne modifiait pas les résultats passés. Bénédiction et les types prédéterminés restent inchangés sous DEC-097.
 - **Fichiers concernés :** `lore/systeme.md`, `lore/runes.md`, `lore/personnages.md`, `PLAN_DIRECTEUR.md`, fenêtres des chapitres 7 à 9 ; présent registre.
 
 ## DEC-077 — Anneau de Ray et Aimant runique
@@ -987,13 +987,125 @@
 - **Limites :** le sentiment d’injustice d’Hasol n’établit ni qu’Armin a objectivement tort ni qu’il a secrètement raison. La cause réelle et ce qu’Iseria en sait restent ouverts ; ne pas affirmer qu’elle sait ou ignore. Ces inconnues ne bloquent pas l’écriture du conflit dès lors qu’aucune scène ne les tranche implicitement. Aucun lien causal entre guilde, voyage et décès, aucune révélation ultérieure ou résolution obligatoire du mystère validés.
 - **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `AGENTS.md` et présent registre. Aucun chapitre modifié ou rédigé.
 
+## DEC-091 — Retrait des repères du lore et préférence pour une partie finale
+
+- **Statut : CANON pour le retrait des encadrés ; contenu de la partie finale À DÉFINIR.**
+- **Source :** dernière demande directe de l’auteur dans `new.txt`, ligne 51618 au relevé du 22 novembre 2026 : « je n'ai pas aimé finalement avoir du lore au debut et fin de chapitre je refere limite avoir à la fin du livre une partie lore que lecteure peut consulter quand il veut ».
+- **Décision :** remplace uniquement la demande d’encadrés éditoriaux de DEC-072. Retirer les repères d’ouverture et de clôture des chapitres ; conserver toutes les véritables fenêtres du système et le texte narratif.
+- **Application :** dix encadrés retirés des chapitres 5 à 9 de `roman.md`, huit des propositions séparées des chapitres 1 à 4. Les chapitres 1 à 4 du manuscrit restent intacts, les brouillons sont conservés et les audits gardent les anciens décomptes comme historique.
+- **Orientation :** privilégier une partie de lore en fin de livre, consultable librement. Aucun contenu d’annexe rédigé par cette opération ; sélection des règles, détail, organisation et gestion des révélations restent à définir. Aucune nouvelle règle canonisée ni autorisation de rédaction de la suite déduite.
+- **Fichiers concernés :** `roman.md`, `chap1_revision.md` à `chap4_revision.md`, `AGENTS.md`, `source.md`, audits des chapitres 1 à 4 et 5 à 9, présent registre.
+
+## DEC-092 — Reprise partielle des activités commerciales d’Armin
+
+- **Statut : CANON pour la responsabilité et son effet sur la disponibilité ; modalités À DÉFINIR.**
+- **Source :** demande directe de l’auteur dans `new.txt`, ligne 47053 au relevé du 22 novembre 2026 : « J aimerai inclure qu’elle a repris une partie des activité de so père ». L’auteur relie explicitement cette charge au retard de niveau d’Hasol malgré sa détermination de farmeuse, en plus des exigences de sa classe légendaire.
+- **Décision :** après la mort d’Armin, Hasol reprend **une partie**, et non automatiquement la totalité, de ses activités commerciales. Ses responsabilités réduisent le temps disponible pour la chasse et contribuent à son décalage de niveau avec ses alliés ; elle reste très travailleuse et déterminée à suivre son groupe.
+- **Placement :** préparation du chapitre 12, après le décès prévu au chapitre 11. Ce futur validé ne devient pas un événement déjà raconté dans le manuscrit local, qui s’arrête au chapitre 9 au moment de cette synchronisation.
+- **Limites :** aucun montant, niveau, contrat précis, répartition des tâches, régime d’héritage ou pouvoir juridique n’est fixé. Les détails proposés ensuite par ChatGPT (fournisseurs, négociations, délégation aux employés, scènes et revenus) ne sont pas validés séparément par la seule demande. Ne pas supprimer l’artisanat, la chasse ni le ralentissement des cercles de DEC-032.
+- **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `lore/chronologie.md`, présent registre ; provenance et réserves dans `lore/audit_transmission_chapitres_10_12.md`. Aucun chapitre réécrit.
+
+## DEC-093 — Réception des chapitres 10 à 12 : intégration suspendue pour arbitrage
+
+- **Statut : HISTORIQUE de réception et de suspension ; blocages du livre I désormais levés par DEC-097 à DEC-100.** Les nouvelles classes des vies futures restent non validées et ne bloquent pas le livre I. Les constats ci-dessous décrivent le contrôle initial, pas l’état d’avancement de l’import effectif. Aucune validation littéraire globale des textes 10 à 12 ; révisions 1 à 4 approuvées séparément par DEC-101.
+- **Source :** actualisation de `new.txt` signalée par l’auteur ; tranche nouvelle 36601–51621 intégralement lue. Repères : chapitre 10 V2, 37170–41766 ; correction de fiche proposée, 41768–41848 ; chapitre 11, 41855–46997 ; chapitre 12, 47100–51614. Numéros valables pour ce relevé, non identifiants immuables.
+- **Contradiction historique, résolue par DEC-097 le 22 novembre 2026 :** les nouveaux textes prévoyaient un résultat exact à +15 pour Hasol, contre les maxima accessibles non garantis de DEC-076. Lors de la réception, la synthèse de ChatGPT ne suffisait pas à révoquer cet arbitrage. L’auteur a depuis choisi explicitement le résultat final exact personnel d’Hasol ; ce seul blocage est levé, sans approbation des autres propositions ni intégration narrative.
+- **Affixes critiques — résolu par DEC-098 :** retrait des principales et secondaires CC/DCC confirmé directement par l’auteur ; formules critiques inchangées.
+- **Autres arbitrages :** tables de Puissance arcanique, plafond des ensembles de quatre pièces, fiches de runes dont secondaire Attaque en pourcentage et nouvelles classes des vies suivantes. Ces propositions ne deviennent pas canoniques par la seule présence d’un récapitulatif de ChatGPT. Détails, bornes et questions dans l’audit dédié.
+- **Textes :** aucune seconde version du chapitre 10, aucun chapitre 11 ou 12 ne sont ajoutés au manuscrit pendant ce contrôle. Les trois textes restent intégralement disponibles dans `new.txt`. La phrase de ChatGPT « On considère donc le chapitre 11 […] comme validé » (47013) n’est pas assimilée à une validation explicite de l’auteur.
+- **Préservation :** chapitres 1 à 9, `new.txt`, `old.txt` et références visuelles non modifiés par cette opération ; pas de publication. La décision indépendante DEC-092 est synchronisée sans importer les développements non arbitrés. La demande sur les repères du lore est traitée séparément.
+
+## DEC-094 — Nom de plume de l’auteur
+
+- **Statut : HISTORIQUE — remplacé pour le nom seulement par DEC-096.**
+- **Source :** message direct de l’auteur, session du 22 novembre 2026 : « Nom de plume: Myoshi Twin ».
+- **Décision :** consigner le nom de plume exact **Myoshi Twin** dans la présentation du projet.
+- **Limites :** aucune recherche de disponibilité ni vérification de protection juridique effectuée ; ce choix ne modifie ni les identités Git ni la licence et n’autorise aucune publication.
+- **Fichiers concernés :** `README.md` et présent registre. Manuscrit et archives inchangés.
+
+## DEC-095 — Notice de droits réservés sur les textes originaux
+
+- **Statut : CANON pour le choix de la notice ; attribution remplacée pour le nom seulement par DEC-096.**
+- **Source :** accord direct de l’auteur, session du 22 novembre 2026 : « ok ajoute la », après proposition d’une notice de droits réservés et d’une mention courte dans le README.
+- **Décision :** ajouter `COPYRIGHT.md` avec la mention « © 2026 Myoshi Twin — Tous droits réservés. » et les restrictions approuvées sur la reproduction, la redistribution, la traduction et l’adaptation des textes originaux, sauf autorisation préalable ou exception prévue par la loi. Ajouter un renvoi dans le README ; il s’agit d’une notice, pas d’une licence ouverte.
+- **Portée et limites :** textes originaux du projet uniquement ; les éléments appartenant à des tiers restent soumis aux droits de leurs titulaires. Aucune propriété des visuels ni garantie contre la copie n’est affirmée. Aucune licence MIT ou Creative Commons ajoutée, aucune identité civile ou coordonnée déduite, aucune publication autorisée par cet accord.
+- **Fichiers concernés :** `COPYRIGHT.md`, `README.md` et présent registre. Manuscrit, archives, images et configuration Git inchangés.
+
+## DEC-096 — Nom réel de l’auteur et attribution de la notice
+
+- **Statut : CANON pour le nom d’auteur Joris VIAL.**
+- **Source :** message direct de l’auteur, session du 22 novembre 2026 : « Hum c'est dans mon github a mon nom réel donc autant mettre Joris VIAL directement ».
+- **Décision :** utiliser le nom réel exact **Joris VIAL** dans `README.md`, sous le libellé « Auteur » et non « Nom de plume », et dans l’attribution de la notice : « © 2026 Joris VIAL — Tous droits réservés. ».
+- **Remplacement limité :** remplace DEC-094 et l’attribution de DEC-095 pour le nom seulement. Ces décisions restent conservées comme historique ; la notice de droits réservés et ses conditions approuvées restent inchangées, sauf le nom attribué.
+- **Limites :** aucun changement d’identité Git, aucune publication, aucun commit ni push autorisé par cette décision. Manuscrit, archives et visuels inchangés.
+- **Fichiers concernés :** `README.md`, `COPYRIGHT.md` et présent registre.
+
+## DEC-097 — Œil runique : résultat final exact à +15 pour Hasol
+
+- **Statut : CANON ; remplace DEC-076 pour la lecture d’Œil seulement et lève ce seul blocage de DEC-093.**
+- **Source :** arbitrage direct de l’auteur, session du 22 novembre 2026 : « Version des nouveaux textes : il montre le résultat final exact à +15 si Hasol effectue les améliorations. Les tentatives peuvent toujours échouer et consommer des ressources avant d’y parvenir. »
+- **Décision :** Œil révèle le **résultat final exact à +15 si Hasol effectue les améliorations et atteint ce palier**. La prédiction porte sur son résultat personnel, pas sur une simple borne maximale accessible. Les types de secondaires restent prédéterminés et identiques quel que soit l’artisan.
+- **Limites :** aucune prédiction des valeurs d’un autre artisan, aucun choix des affixes, aucune garantie de renforcements tous maximaux ni de réussite automatique. L’ordre exact des paliers intermédiaires, les coûts, taux, nombre de tentatives et délais ne sont pas fixés par cet arbitrage ; les paramètres non tranchés restent **À DÉFINIR**. Les tentatives peuvent toujours échouer et consommer des pierres de mana et du Mana personnel.
+- **Remplacement limité :** l’ancienne lecture d’Œil aux maxima non garantis de DEC-076 est conservée comme historique. Les autres règles de DEC-076, dont Bénédiction, les formules critiques et le remplacement de Lame, restent intactes. Aucun gain déjà raconté n’est réécrit ; déblocage d’Œil inchangé au niveau 20 dans la première vie et au niveau 1 astral dans les nouvelles vies.
+- **Suivi d’intégration actualisé par DEC-098 :** blocages Œil et affixes CC/DCC levés dans DEC-093 et l’audit 10–12 ; tables de PA, plafond d’ensembles, fiches de runes et classes restent à arbitrer. Aucune validation littéraire globale ni intégration des chapitres 10 à 12, aucune modification du manuscrit ou des archives, aucun commit/push.
+- **Fichiers concernés :** `AGENTS.md`, `PLAN_DIRECTEUR.md`, `README.md`, `source.md`, `lore/systeme.md`, `lore/personnages.md`, `lore/runes.md`, `lore/chronologie.md`, `lore/pistes.md`, audits 5–9 et 10–12, présent registre.
+
+## DEC-098 — Retrait des affixes runiques de taux critique et dégâts critiques
+
+- **Statut : CANON ; remplace DEC-004 et DEC-076 pour les affixes CC/DCC seulement.** Le blocage correspondant de DEC-093 est levé ; DEC-097 reste inchangée.
+- **Source :** réponse directe de l’auteur, session du 22 novembre 2026 : « oui je confirme » à la question exacte « confirmes-tu le retrait du taux critique et des dégâts critiques des principales et secondaires des runes, comme proposé dans la nouvelle transmission ? ».
+- **Décision :** retirer le taux critique (chance critique, CC) et les dégâts critiques (DCC) du catalogue actif des principales et secondaires des runes. Précision et résistance restent admises en pourcentages. Conserver les anciennes tables CC/DCC comme historique remplacé, ainsi que la provenance et les inventaires anciens.
+- **Limites :** les coups critiques, les formules existantes de DEC-076, Aura et Infiltration ne sont ni supprimés ni modifiés. Les termes de bonus directs des formules ne réautorisent pas ces affixes runiques. Aucune nouvelle formule, suppression de caractéristiques naturelles, table de PA, secondaire Attaque %, limite d’ensembles ou fiche de rune du chapitre 10 n’est validée par cette réponse.
+- **Continuité à reprendre avec autorisation :** anciennes secondaires CC/DCC du butin Vitesse rare (bleu), 3★, +0, chapitre 10, dans le plan et le dossier mobile : statut historique explicité, remplacements À DÉFINIR. Aucun affixe CC/DCC individuel renseigné dans l’inventaire local ; les mentions narratives locales de critiques liés à la PA ne sont pas des affixes à remplacer. Aucun remplacement d’affixes inventé, aucune révision du manuscrit ou des propositions séparées. Les archives restent intactes.
+- **Suivi :** Œil et retrait des affixes CC/DCC résolus ; tables de PA, plafond d’ensembles, fiches du chapitre 10 et classes toujours en attente (audit 10–12). Aucun chapitre importé, aucune validation littéraire globale, aucun commit/push.
+- **Fichiers concernés :** `AGENTS.md`, `PLAN_DIRECTEUR.md`, `README.md`, `source.md`, `lore/systeme.md`, `lore/runes.md`, dossier mobile 10–16, audit 10–12 et présent registre.
+
+## DEC-099 — Barèmes de PA runique et plafond des ensembles de quatre pièces
+
+- **Statut : CANON — choix de l’assistant dans la délégation explicite de l’auteur, le 22 novembre 2026.** Lève les blocages PA/ensembles de DEC-093 ; ne valide pas globalement les textes 10 à 12.
+- **Source :** réponses directes de l’auteur « reflechi aux valeur les plus pertinantes je te fais confiance » et « voir la precedente question, tu decides ». Les valeurs retenues par l’assistant sont consignées ci-dessous ; elles ne proviennent pas d’une adoption intégrale d’un guide externe.
+- **Principale PA fixe, bornes +0 → +15 :** 1★ **10 → 40** ; 2★ **20 → 75** ; 3★ **30 → 150** ; 4★ **40 → 300** ; 5★ **50 → 600** ; 6★ **70 → 1 200**. Pas de PA en pourcentage. Aucune courbe chiffrée +1 à +14 n’est fixée ; conserver l’augmentation à chaque réussite et le gain renforcé à +15 de DEC-014.
+- **Secondaire PA :** renforcements **+20, +40 ou +60**, cumulables sur la même secondaire selon les paliers ordinaires. Aucune probabilité ni modulation selon les étoiles n’est définie. Une valeur native +60 n’est pas universelle ; les fiches individuelles restent distinctes.
+- **Ensembles :** au plus **deux activations de chaque type d’ensemble de quatre pièces par porteur**. Les principales et secondaires individuelles restent actives sur toutes les runes équipées, même au-delà de ce plafond. Les ensembles de deux pièces n’ont pas de plafond propre ; conserver leur cumul additif existant (deux Gardien = +30 % Défense). Aucune nouvelle assiette ni règle d’arrondi n’est adoptée.
+- **Continuité :** pas d’impact sur les états des chapitres 1 à 9 audités ; ne pas inventer les principales intermédiaires de HAS-R011 à HAS-R014. PA naturelle hors runes, bonus runiques et effets temporaires restent séparés.
+- **Fichiers concernés :** `AGENTS.md`, `PLAN_DIRECTEUR.md`, `lore/systeme.md`, `lore/runes.md`, audit 10–12, `source.md` et présent registre.
+
+## DEC-100 — Deux fiches du chapitre 10 et secondaire Attaque %
+
+- **Statut : CANON — confirmation directe des deux fiches par l’auteur, le 22 novembre 2026, via le questionnaire de la session.** Lève le blocage des fiches de DEC-093, sans validation littéraire globale des chapitres 10 à 12.
+- **Vitesse rare (bleue), 3★, +0 :** principale **Vitesse +3** ; deux secondaires **Attaque +8 %** et **PA +60**. Cette confirmation admet **Attaque % en secondaire**, sans valider PV % ni Défense % en secondaires. Les anciens affixes CC/DCC du plan sont historiques, pas une transformation vécue de la rune. La projection complète à +15 n’est pas chiffrée par cette décision.
+- **Énergie légendaire (orange), 4★, +9 d’Iseria :** principale **PV +25 %**, projection **+43 % à +15** ; secondaires **PA +60**, **Vitesse +4**, **Défense +30**, **Mana +20**. Projection personnelle d’Hasol : **PA +140** à +15, soit +20 et +60 supplémentaires, **ordre à +12/+15 inconnu** ; les trois autres secondaires restent inchangées.
+- **Prêt :** rune examinée puis rendue intacte, **aucune amélioration effectuée**. +15 et PA +140 sont des projections conditionnelles, pas l’état réel de la pièce. La principale PV 4★ à +15 = 43 % est la fiche expressément approuvée ; elle ne suffit pas à créer une table générale ni une courbe intermédiaire.
+- **Suivi :** fiches consignées séparément de l’état courant de fin du chapitre 9 en attendant confirmation de l’intégration. Aucun nouvel ID personnel attribué dans cette synchronisation documentaire ; coordination avec l’intégration requise pour éviter un doublon. Aucun autre inventaire ou changement de règle importé.
+- **Fichiers concernés :** `AGENTS.md`, `PLAN_DIRECTEUR.md`, `lore/systeme.md`, `lore/runes.md`, `lore/personnages.md`, dossier mobile et audit 10–12, présent registre.
+
+## DEC-101 — Validation des révisions 1 à 4 sans repères du lore ; roman non illustré
+
+- **Statut : CANON — validation explicite des quatre révisions et choix de présentation, le 22 novembre 2026.** Actualise DEC-072/091, sans effacer leur historique.
+- **Source :** « autre info les chapitre revision sont validé mais sans le lore en debut et fin ». Les versions préparées dans `chap1_revision.md` à `chap4_revision.md` sont approuvées toutes les quatre **sans les repères éditoriaux d’ouverture/clôture**. Leur remplacement dans l’unique `roman.md` est autorisé ; conserver les copies de provenance. Les véritables fenêtres du système restent présentes.
+- **Illustrations :** l’ajout envisagé d’une image au chapitre 1 est annulé par « quoique non oublie le roman reste du texte », puis « les images seront pour le manhwa ». **Aucune illustration narrative dans le roman** ; cela ne supprime ni les fenêtres HTML du système ni leurs pictogrammes. L’image du couple en tête du README est conservée, distincte du manuscrit. Aucun manhwa n’est produit par cet arbitrage.
+- **Limites :** aucune validation littéraire globale des nouveaux chapitres 10 à 12, aucune autorisation de rédaction du chapitre 13 ni de publication. Les changements de classes des vies futures restent non validés et ne bloquent pas le livre I. La chronologie de sortie sera actualisée après confirmation de l’import effectif, pas sur la seule validation ou demande d’intégration.
+- **Fichiers concernés :** `AGENTS.md`, `README.md`, `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `lore/runes.md`, `lore/chronologie.md`, audits pertinents, `source.md` et présent registre ; intégration du manuscrit suivie séparément.
+
+## DEC-102 — Import effectif des chapitres 1 à 12 et synchronisation de sortie
+
+- **Statut : import local confirmé le 22 novembre 2026 ; chapitres 1 à 9 validés, chapitres 10 V2, 11 et 12 en lecture sans validation littéraire globale.** Actualise le suivi de DEC-093/100/101 ; les suspensions précédentes restent historiques.
+- **Source :** confirmation de la session principale et preuves dans `docs/integration_chapitres_1_12.md`. Les narrations approuvées 1–4 étaient déjà celles du manuscrit : deux fenêtres C3-F01/C4-F01 ajoutées, pas de remplacement par un ancien HTML. Les 89 fenêtres modernisées antérieures sont préservées. Textes 10 V2 : `new.txt` 37170–41766 ; 11 : 41855–46997 ; 12 : 47100–51614, hors courriels et commentaires. Les deux fenêtres d’Iseria sont complétées avec DEC-100 ; vingt-deux désignations ciblées sont documentées dans l’audit.
+- **État de sortie du texte intégré :** Hasol vient d’avoir **vingt-cinq ans**, artisane reconnue et disposant de moyens financiers considérables ; reprend une partie des activités commerciales d’Armin, mort au 11 sans cause révélée ni réconciliation. Groupe de cinq : Hasol légendaire, Yoon rare, Ray commun, Zio rare, Samia commune, **5/5 et 50/50**. Les niveaux finaux, caractéristiques naturelles, XP, compteurs, réserves et équipement final détaillé restent **À DÉFINIR**, pas remplacés par les fiches de référence au niveau 60.
+- **Progression racontée :** Hasol 19→20/Œil après sauvetage au 10, 20→21/Aimant après combat avec l’Anneau au 11 ; fin des études de Yoon et adhésion de Zio au 11 ; fuite puis retour victorieux au boss 32/invocations 11 avec Samia au 12. Main, détection des pièges par Œil, mariage, centième boss et premier sort offensif restent futurs. Aucun gain de cercle ou inventaire intégral +15 inventé.
+- **Suivi des pièces :** `HAS-R015`, Vitesse rare (bleue), 3★, +0, propriété d’Hasol attestée et stockée dans son Anneau en fin du 10, toujours non équipée au début du 11 ; devenir ultérieur non établi. `ISE-R001`, Énergie légendaire (orange), 4★, +9, rendue intacte à Iseria au 10 ; projections +15 non réalisées. `ORV-R002`, Énergie d’essai commune (blanche), 1★, +0→+3, devenue peu commune (verte), Mana +10 apparu ; distincte de l’épreuve 2★ du chapitre 3.
+- **Présentation :** 110 fenêtres après import éditorial, soit 89 préservées et 21 nouvelles ; modernisation des 21 et régénération/contrôles du lecteur suivis séparément, pas déclarés achevés par cette décision. Baseline de cette seconde passe : `/tmp/opencode/arcaniste-fenetres-20261122/etape-2/roman.avant-refonte.md`, SHA-256 `bd983162161efdb1acd6d2469339b2104cb6d93fc735fd5793722ca0d747cb3b` (preuve temporaire de session).
+- **Limites :** aucune nouvelle règle ni classe des vies futures adoptée, aucun chapitre 13 rédigé ou autorisé, aucune illustration narrative. Archives et copies de révision conservées. Aucun commit, push ni déploiement.
+- **Fichiers concernés :** `AGENTS.md`, `README.md`, `PLAN_DIRECTEUR.md`, `source.md`, références de `lore/` et audits d’avancement. Manuscrit modifié par l’intervention d’intégration distincte, pas par cette synchronisation documentaire.
+
 ## Questions de système toujours ouvertes
 
 - Barème numérique des gains secondaires, au-delà des choix individuels consignés pour les deux cadeaux ; règle d’apparition résolue par DEC-006.
+- Bornes de PA et renforcements PA/plafond d’ensembles résolus par DEC-099 ; deux fiches et Attaque % secondaire confirmés par DEC-100. Courbe PA +1 à +14, probabilités des renforcements, PV %/Défense % en secondaires et nouvelles classes des vies futures restent ouverts. Ces classes ne bloquent pas l’intégration du livre I ; ne pas les importer avec ses textes. Le retrait CC/DCC est résolu par DEC-098.
 - Ordre des opérations et arrondis des bonus d’ensemble.
 - Reliquat d’éliminations après les huit paliers rétroactifs de Croissance runique.
 - Durée, coût et portée de Chant (DEC-074), fréquence globale des runes, distributions d'étoiles hors exemple niveau 30 et dépendance éventuelle étoiles/grade (DEC-077), cumul du seuil de livres et report des cercles entre vies (DEC-079).
-- **Derniers points résolus par l'auteur le 21 novembre 2026 :** tables conditionnelles de grades (violet ordinaire corrigé à 0,9 %) ; Œil montrant types prédéterminés et maxima accessibles si Hasol améliore, sans garantie de les réaliser ; activation temporelle par détresse **avant** le coup fatal. Les anciennes formulations d'incertitude sur ces sujets sont historiques, pas des questions encore ouvertes.
+- **Points résolus :** tables conditionnelles de grades (violet ordinaire corrigé à 0,9 %) et activation temporelle par détresse **avant** le coup fatal, le 21 novembre 2026 ; Œil, actualisé le 22 novembre par DEC-097 : types prédéterminés et résultat final exact à +15 si Hasol effectue les améliorations et atteint ce palier, sans réussite automatique des tentatives. La lecture aux maxima non garantis de DEC-076 est historique, pas une question encore ouverte.
 - **Points résolus par réponses directes ultérieures du 21 novembre 2026 :** soin de Chant 10 % PV max de Yoon/5 secondes ; Lame retiré du système actif au profit d'Arcanique ; rang de butin limité par un plafond ; Aura niveau 1 astral avec seuil d'utilisation de l'arme niveau 10 maintenu sans exception. Ne pas rouvrir ces arbitrages sur la base des formulations historiques précédentes.
 
 La validation de DEC-001 ne tranche pas ces questions.
