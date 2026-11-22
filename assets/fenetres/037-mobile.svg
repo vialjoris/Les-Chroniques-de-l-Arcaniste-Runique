@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="454" viewBox="0 0 320 454" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="312" height="444" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="447" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></g>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="149.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">COMMANDE</text>
+<text x="205.04" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="112.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ACHEVÉE</text>
+<path d="M20 109.19999999999999h280" stroke="#D8BF8F"/>
+<text x="20.00" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="44.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rune</text>
+<text x="64.28" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="68.60" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="72.92" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="77.24" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="69.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Gardien</text>
+<text x="146.36" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="20.00" y="156.90" width="186.96" height="27" rx="13.5" fill="#FFFFFF" stroke="#c8c8c8"/>
+<text x="26.00" y="175.90" font-size="18" font-weight="700" fill="#505050" textLength="174.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">commune (blanche)</text>
+<text x="206.96" y="175.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
+<text x="211.28" y="175.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="215.60" y="175.90" font-size="18" font-weight="400" fill="#242424" textLength="20.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2★</text>
+<text x="20.00" y="213.60" font-size="18" font-weight="700" fill="#242424" textLength="73.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Dernière</text>
+<text x="93.44" y="213.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="97.76" y="213.60" font-size="18" font-weight="700" fill="#242424" textLength="79.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">tentative</text>
+<text x="177.68" y="213.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="182.00" y="213.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="186.32" y="213.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="190.64" y="213.60" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+1</text>
+<text x="212.24" y="213.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="216.56" y="213.60" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">→</text>
+<text x="226.28" y="213.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="230.60" y="213.60" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+2</text>
+<text x="252.20" y="213.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="256.52" y="213.60" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="266.24" y="213.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="20.00" y="243.30" font-size="18" font-weight="400" fill="#242424" textLength="74.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Réussite</text>
+<text x="20.00" y="281.00" font-size="18" font-weight="700" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="80.48" y="281.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="84.80" y="281.00" font-size="18" font-weight="700" fill="#242424" textLength="37.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">final</text>
+<text x="122.60" y="281.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="126.92" y="281.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="131.24" y="281.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="135.56" y="262.00" width="33.60" height="27" rx="13.5" fill="#edf4fc" stroke="#b6cce5"/>
+<text x="141.56" y="281.00" font-size="18" font-weight="700" fill="#175b9b" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+2</text>
+<text x="20.00" y="318.70" font-size="18" font-weight="700" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Principale</text>
+<text x="106.40" y="318.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="110.72" y="318.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="115.04" y="318.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="119.36" y="318.70" font-size="18" font-weight="400" fill="#242424" textLength="90.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Renforcée</text>
+<text x="210.08" y="318.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="214.40" y="318.70" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="224.12" y="318.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="228.44" y="318.70" font-size="18" font-weight="400" fill="#242424" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">aucune</text>
+<text x="293.24" y="318.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="20.00" y="348.40" font-size="18" font-weight="400" fill="#242424" textLength="98.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">secondaire</text>
+<text x="20.00" y="386.10" font-size="18" font-weight="700" fill="#242424" textLength="41.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Suivi</text>
+<text x="61.04" y="386.10" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="65.36" y="386.10" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="69.68" y="386.10" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="74.00" y="386.10" font-size="18" font-weight="400" fill="#242424" textLength="44.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Trois</text>
+<text x="118.28" y="386.10" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="122.60" y="386.10" font-size="18" font-weight="400" fill="#242424" textLength="89.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">tentatives</text>
+<text x="212.24" y="386.10" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="20.00" y="415.80" font-size="18" font-weight="400" fill="#242424" textLength="96.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">effectuées</text>
+<text x="116.12" y="415.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="120.44" y="415.80" font-size="18" font-weight="400" fill="#242424" textLength="27.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">sur</text>
+<text x="147.44" y="415.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="151.76" y="415.80" font-size="18" font-weight="400" fill="#242424" textLength="39.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">trois</text>
+<text x="191.72" y="415.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="196.04" y="415.80" font-size="18" font-weight="400" fill="#242424" textLength="91.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">autorisées</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="237" viewBox="0 0 680 237" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="672" height="227" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="230" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></g>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="122.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">MONSTRE</text>
+<text x="186.04" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="191.44" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="115.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">IDENTIFIÉ</text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="42.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nom</text>
+<text x="70.12" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="74.44" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="78.76" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="83.08" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Sentinelle</text>
+<text x="169.48" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="173.80" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
+<text x="206.20" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="210.52" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">pierres</text>
+<text x="271.00" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="275.32" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">scellées</text>
+<text x="28.00" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Catégorie</text>
+<text x="115.48" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="119.80" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="124.12" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="128.44" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Boss</text>
+<text x="171.64" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="175.96" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
+<text x="198.64" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="202.96" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="61.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">donjon</text>
+<text x="28.00" y="190.00" font-size="18" font-weight="700" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="88.48" y="190.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="92.80" y="190.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="97.12" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="101.44" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">32</text>
+</svg>

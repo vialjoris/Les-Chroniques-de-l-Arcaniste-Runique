@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="250" viewBox="0 0 320 250" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="312" height="240" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="243" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></g>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">BOSS</text>
+<text x="121.88" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="127.28" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="92.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">VAINCU</text>
+<path d="M20 69.6h280" stroke="#D8BF8F"/>
+<text x="20.00" y="106.60" font-size="18" font-weight="700" fill="#242424" textLength="42.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nom</text>
+<text x="62.12" y="106.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="66.44" y="106.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="70.76" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="75.08" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Sentinelle</text>
+<text x="161.48" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="165.80" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
+<text x="198.20" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="202.52" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">pierres</text>
+<text x="263.00" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="20.00" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">scellées</text>
+<text x="90.20" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="94.52" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="104.24" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="108.56" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="169.04" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="173.36" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">32</text>
+<text x="20.00" y="174.00" font-size="18" font-weight="700" fill="#242424" textLength="48.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Coup</text>
+<text x="68.60" y="174.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="72.92" y="174.00" font-size="18" font-weight="700" fill="#242424" textLength="41.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">fatal</text>
+<text x="113.96" y="174.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="118.28" y="174.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="122.60" y="174.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="126.92" y="174.00" font-size="18" font-weight="400" fill="#242424" textLength="50.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Hasol</text>
+<text x="177.68" y="174.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="182.00" y="174.00" font-size="18" font-weight="400" fill="#242424" textLength="44.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Shun</text>
+<text x="20.00" y="211.70" font-size="18" font-weight="700" fill="#242424" textLength="97.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Expérience</text>
+<text x="117.20" y="211.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="121.52" y="211.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="125.84" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="130.16" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Acquise.</text>
+</svg>

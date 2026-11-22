@@ -1,1 +1,4 @@
+# Export HTML facultatif du manuscrit.
 Markdown==3.10.2
+# Génération des fenêtres SVG : métriques Aileron intégrées, sans police système.
+Pillow==12.1.1

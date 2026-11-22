@@ -14,6 +14,14 @@ RACINE = Path(__file__).resolve().parent.parent
 
 
 def generer_html(source: str, css_href: str) -> str:
+    if __package__:
+        from .generer_fenetres import extraire_source_fenetres
+    else:
+        from generer_fenetres import extraire_source_fenetres
+
+    # Le lecteur conserve le HTML sélectionnable, sans les enveloppes GitHub.
+    source = extraire_source_fenetres(source)
+
     # Le HTML/SVG du manuscrit est une source locale de confiance, pas une saisie web.
     from markdown import Markdown
     from markdown.extensions import Extension

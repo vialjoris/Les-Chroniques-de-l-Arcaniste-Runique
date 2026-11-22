@@ -75,3 +75,57 @@ Les tests CSS vérifient les déclarations contractuelles, non le rendu calculé
 contrastes réels, débordements, impression et comportement des lecteurs d’écran
 nécessitent également une revue visuelle/accessibilité. Le contrôle des fenêtres
 est éditorial/structurel et ne valide aucune nouvelle règle de lore.
+
+## Présentation colorée dans l’aperçu Markdown GitHub
+
+Les fixtures ci-dessus restent inchangées. La phase GitHub part de la source
+`/tmp/opencode/arcaniste-github-20261122/roman.md`, SHA-256
+`aef0ae36950a34bb3bf7cfb1dce08f31c3a282528226fe5ad045e3da8d3d8f23`.
+La fonction publique `extraire_source_fenetres(source: str) -> str` doit retrouver
+exactement cette empreinte depuis le manuscrit enveloppé, sans dépendre de la
+présence future du fichier temporaire. Elle est idempotente et laisse intacte une
+source historique non enveloppée.
+
+`test_fenetres_github.py` contrôle chaque fenêtre : un `picture` avec source mobile
+à 600 px et image de secours, chemins stricts `assets/fenetres/ID[-mobile].svg`,
+alternative non vide, puis un `details` fermé contenant le corps HTML original.
+Seul le texte du `summary.lit-window__transcript-toggle` est exclu du calcul
+canonique : ni un autre `summary`, ni une autre balise portant cette classe ne
+bénéficie de l’exception. Les contrôles historiques des 111 segments, 110 textes,
+identifiants, tables et associations bonus/valeurs continuent de s’appliquer.
+Aucune illustration narrative n’est autorisée par cet assouplissement.
+
+Les deux SVG par fenêtre sont découverts depuis les identifiants du manuscrit,
+sans liste manuelle. Leurs dimensions, XML, palette et absence de code actif,
+d’image embarquée ou de ressource distante sont vérifiés. Le texte porté par les
+éléments SVG `text`/`tspan` doit correspondre au texte complet du corps HTML, dans
+le même ordre, après suppression des espaces de mise en page. Une empreinte dans
+les métadonnées n’est pas une preuve d’affichage. Les chiffres et séparateurs
+restent contrôlés indépendamment par le manifeste historique du HTML.
+
+Le lecteur local doit retirer ces enveloppes et conserver les SVG décoratifs
+originaux et les tables ; ses tests CLI historiques sans enveloppe restent actifs.
+La CLI confirmée du nouveau générateur est également testée : génération sans
+argument, `--check` (0 à jour, 1 périmé, 2 erreur), `--help` et arguments invalides.
+Chaque cas copie le script dans un projet temporaire sous `/tmp/opencode`, avec
+une fenêtre de test et un dossier d’assets isolé : aucun test CLI n’écrit dans le
+manuscrit ou les assets réels. Les contrôles couvrent déterminisme depuis une
+source vierge, idempotence sans réécriture, source restaurée octet-identique,
+SVG manquant/périmé, enveloppe absente, entrées invalides et refus de suppression
+automatique d’un SVG obsolète. Les instantanés incluent les octets et dates de
+modification afin de prouver que `--check` n’écrit pas, même en échec.
+Les collisions de noms dérivés (`A` et `A-mobile`) doivent être refusées avant
+toute écriture. Une interruption `OSError` simulée lors du remplacement atomique
+du manuscrit vérifie que l’ancienne source reste intacte et que le fichier voisin
+temporaire est nettoyé. L’extraction accepte aussi une source mixte, avec fenêtre
+enveloppée et ancienne fenêtre sans identifiant, sans relâcher le contrôle strict
+des identifiants lors du build SVG. Les versions approuvées de Markdown et Pillow
+sont protégées par un test de contrat des dépendances.
+
+Ces tests ne contactent pas l’API GitHub et ne prétendent pas simuler son filtre.
+GitHub filtre le CSS inline : ajouter du HTML avec `style` n’est donc pas une
+solution de présentation pour son aperçu Markdown. La conservation distante de
+`picture/source/img/details/summary` doit être prouvée séparément par l’intégration.
+Le rendu réel desktop/mobile, les ombres, la lisibilité, les polices, les coupures
+et l’absence de troncature nécessitent aussi une revue navigateur distincte :
+présence du texte dans un SVG ne garantit pas à elle seule sa visibilité à l’écran.

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="459" viewBox="0 0 320 459" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="312" height="449" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="452" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></g>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="199.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">AUGMENTATION</text>
+<text x="255.80" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="48.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">DES</text>
+<text x="104.60" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="56.00" y="124.20" font-size="24" font-weight="700" fill="#A17B35" textLength="241.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CARACTÉRISTIQUES</text>
+<path d="M20 148.79999999999998h280" stroke="#D8BF8F"/>
+<text x="20.00" y="192.80" font-size="20" font-weight="700" fill="#242424" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="86.96" y="192.80" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="91.28" y="192.80" font-size="20" font-weight="700" fill="#242424" textLength="12.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">9</text>
+<text x="104.24" y="192.80" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="108.56" y="192.80" font-size="20" font-weight="700" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">→</text>
+<text x="119.36" y="192.80" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="123.68" y="192.80" font-size="20" font-weight="700" fill="#242424" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="190.64" y="192.80" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="194.96" y="192.80" font-size="20" font-weight="700" fill="#242424" textLength="25.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">10</text>
+<text x="20.00" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PV</text>
+<text x="43.76" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="48.08" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="52.40" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="56.72" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+13</text>
+<text x="20.00" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="72.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Attaque</text>
+<text x="92.36" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="96.68" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="101.00" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="105.32" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+2</text>
+<text x="20.00" y="307.20" font-size="18" font-weight="400" fill="#242424" textLength="73.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Défense</text>
+<text x="93.44" y="307.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="97.76" y="307.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="102.08" y="307.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="106.40" y="307.20" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+1</text>
+<text x="20.00" y="344.90" font-size="18" font-weight="400" fill="#242424" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Vitesse</text>
+<text x="84.80" y="344.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="89.12" y="344.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="93.44" y="344.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="97.76" y="344.90" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+2</text>
+<text x="20.00" y="382.60" font-size="18" font-weight="400" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mana</text>
+<text x="69.68" y="382.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="74.00" y="382.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="78.32" y="382.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="82.64" y="382.60" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+45</text>
+<text x="20.00" y="420.30" font-size="18" font-weight="400" fill="#242424" textLength="89.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Puissance</text>
+<text x="109.64" y="420.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="113.96" y="420.30" font-size="18" font-weight="400" fill="#242424" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">arcanique</text>
+<text x="201.44" y="420.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="205.76" y="420.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="210.08" y="420.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="214.40" y="420.30" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+25</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="312" viewBox="0 0 680 312" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="672" height="302" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="305" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></g>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="81.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">OBJET</text>
+<text x="145.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="150.40" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="115.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">IDENTIFIÉ</text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="74.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Anneau</text>
+<text x="102.52" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="106.84" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="74.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
+<text x="28.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="44.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Type</text>
+<text x="72.28" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="76.60" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="80.92" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="85.24" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="98.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Accessoire</text>
+<text x="28.00" y="198.30" font-size="18" font-weight="700" fill="#242424" textLength="79.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Fonction</text>
+<text x="107.92" y="198.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="112.24" y="198.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="116.56" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="120.88" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Inventaire</text>
+<text x="208.36" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="212.68" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="85.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">spécialisé</text>
+<text x="298.00" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="302.32" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="62.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">réservé</text>
+<text x="364.96" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="369.28" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="31.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">aux</text>
+<text x="400.60" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="404.92" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="52.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runes.</text>
+<text x="28.00" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="63.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Permet</text>
+<text x="91.72" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="96.04" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
+<text x="118.72" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="123.04" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">conserver</text>
+<text x="210.52" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="214.84" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
+<text x="247.24" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="251.56" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="48.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runes</text>
+<text x="300.16" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="304.48" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="103.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">séparément</text>
+<text x="408.16" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="412.48" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
+<text x="444.88" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="449.20" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">autres</text>
+<text x="505.36" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="509.68" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">objets</text>
+<text x="565.84" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="570.16" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
+<text x="592.84" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="28.00" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="99.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">l&#x27;inventaire.</text>
+</svg>

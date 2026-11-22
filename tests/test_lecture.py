@@ -49,6 +49,10 @@ class AnalyseurTests(unittest.TestCase):
         self.assertEqual(before.outside_windows(), after.outside_windows())
         self.assertNotEqual(before.outside_segments(), after.outside_segments())
 
+    def test_seul_le_summary_de_transcription_est_ignore_pas_les_donnees(self):
+        source = '<div class="system-window"><details><summary class="lit-window__transcript-toggle">Interface</summary><summary>CANON 6★</summary><p class="lit-window__transcript-toggle">Mana 1 200</p></details></div>'
+        self.assertEqual(Document(source).windows[0].text(), "CANON 6★Mana 1 200")
+
 
 class ConservationManuscritTests(unittest.TestCase):
     @classmethod
@@ -128,10 +132,16 @@ class ConservationManuscritTests(unittest.TestCase):
                     self.assertEqual(svg.attrs.get("focusable"), "false")
                     self.assertRegex(svg.attrs.get("viewbox", ""), r"^\s*-?[\d.]+[ ,]+-?[\d.]+[ ,]+[\d.]+[ ,]+[\d.]+\s*$")
                 for node in window.descendants():
-                    self.assertNotIn(node.tag, {"script", "iframe", "object", "embed", "img", "image", "foreignobject"})
+                    self.assertNotIn(node.tag, {"script", "iframe", "object", "embed", "image", "foreignobject"})
                     for key, value in node.attrs.items():
                         self.assertFalse(key.startswith("on"), key)
-                        if key in {"src", "href", "xlink:href"}:
+                        if key in {"src", "srcset"}:
+                            # Seule l'exception GitHub contrôlée exhaustivement ci-dessous est admise.
+                            identifier = window.attrs["data-window-id"]
+                            expected = {"img": ("src", f"assets/fenetres/{identifier}.svg"),
+                                        "source": ("srcset", f"assets/fenetres/{identifier}-mobile.svg")}
+                            self.assertEqual((key, value), expected.get(node.tag), value)
+                        if key in {"href", "xlink:href"}:
                             self.assertTrue(value.startswith("#"), value)
                 # La baseline ne contient aucun autre pictogramme : aucun ajout implicite à la whitelist.
                 self.assertFalse(any(0x1F000 <= ord(c) <= 0x1FAFF or ord(c) in {0xFE0F, 0x20E3} for c in window.text()))
@@ -308,6 +318,7 @@ class GenerateurTests(unittest.TestCase):
         self.assertEqual([compact(node.text()) for node in document.windows], [compact(node.text()) for node in source.windows])
         self.assertEqual(table_cells(document), table_cells(source))
         self.assertEqual(len(list(document.root.descendants("svg"))), len(list(source.root.descendants("svg"))))
+        self.assertFalse(any(node.tag in {"img", "picture", "source", "details", "summary"} for node in nodes))
         self.assertFalse(any("**" in node.text() for node in nodes if node.tag in {"h1", "h2", "h3"}))
 
     def test_derive_du_projet_est_regenere_a_l_identique(self):

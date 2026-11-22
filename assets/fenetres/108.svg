@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="237" viewBox="0 0 680 237" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="672" height="227" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="230" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></g>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="110.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ENNEMIS</text>
+<text x="174.16" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="179.56" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="130.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">IDENTIFIÉS</text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="42.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nom</text>
+<text x="70.12" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="74.44" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="78.76" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="83.08" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="88.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Serviteurs</text>
+<text x="171.64" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="175.96" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">d’argile</text>
+<text x="28.00" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="88.48" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="92.80" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="97.12" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="101.44" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">11</text>
+<text x="28.00" y="190.00" font-size="18" font-weight="700" fill="#242424" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nombre</text>
+<text x="99.28" y="190.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="103.60" y="190.00" font-size="18" font-weight="700" fill="#242424" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">observé</text>
+<text x="173.80" y="190.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="178.12" y="190.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="182.44" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="186.76" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4</text>
+</svg>

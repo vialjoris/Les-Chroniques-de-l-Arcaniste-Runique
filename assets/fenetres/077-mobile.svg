@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="252" viewBox="0 0 320 252" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="312" height="242" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="245" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></g>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="131.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ENSEMBLE</text>
+<text x="187.76" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="143.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ARCANIQUE</text>
+<text x="199.64" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="205.04" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ACTIVÉ</text>
+<path d="M20 109.19999999999999h280" stroke="#D8BF8F"/>
+<text x="20.00" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="57.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Pièces</text>
+<text x="77.24" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="81.56" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="78.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">équipées</text>
+<text x="160.40" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="164.72" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="169.04" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="173.36" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4</text>
+<text x="184.16" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="188.48" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">/</text>
+<text x="193.88" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="198.20" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="15.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4.</text>
+<text x="20.00" y="183.90" font-size="18" font-weight="400" fill="#175b9b" textLength="55.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Bonus</text>
+<text x="75.08" y="183.90" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="79.40" y="183.90" font-size="18" font-weight="400" fill="#175b9b" textLength="101.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">d’ensemble</text>
+<text x="180.92" y="183.90" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="185.24" y="183.90" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="189.56" y="183.90" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="193.88" y="183.90" font-size="18" font-weight="400" fill="#175b9b" textLength="89.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Puissance</text>
+<text x="283.52" y="183.90" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="20.00" y="213.60" font-size="18" font-weight="400" fill="#175b9b" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">arcanique</text>
+<text x="107.48" y="213.60" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="111.80" y="213.60" font-size="18" font-weight="400" fill="#175b9b" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+1</text>
+<text x="133.40" y="213.60" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="137.72" y="213.60" font-size="18" font-weight="400" fill="#175b9b" textLength="36.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">200.</text>
+</svg>

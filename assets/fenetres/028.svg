@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="199" viewBox="0 0 680 199" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="672" height="189" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="192" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></g>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="122.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">MONSTRE</text>
+<text x="186.04" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="191.44" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="93.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ÉLIMINÉ</text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="46.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Loup</text>
+<text x="74.44" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="78.76" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">gris</text>
+<text x="111.16" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="115.48" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="125.20" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="129.52" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="190.00" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="194.32" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">5</text>
+<text x="28.00" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="97.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Expérience</text>
+<text x="125.20" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="129.52" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="74.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">obtenue</text>
+<text x="204.04" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="208.36" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="212.68" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="217.00" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+12</text>
+<text x="249.40" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="253.72" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">XP</text>
+</svg>

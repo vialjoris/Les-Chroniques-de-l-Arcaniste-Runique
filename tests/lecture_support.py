@@ -43,6 +43,8 @@ class Node:
     def text(self, normalize_header=False):
         if self.tag == "svg":
             return ""
+        if self.tag == "summary" and "lit-window__transcript-toggle" in self.classes:
+            return ""
         header = normalize_header or "system-header" in self.classes
         pieces = []
         for part in self.content:

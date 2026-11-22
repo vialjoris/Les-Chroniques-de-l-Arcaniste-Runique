@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="288" viewBox="0 0 320 288" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="312" height="278" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="281" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></g>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="120.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">EXERCICE</text>
+<text x="176.96" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="182.36" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="106.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">TERMINÉ</text>
+<path d="M20 69.6h280" stroke="#D8BF8F"/>
+<text x="20.00" y="106.60" font-size="18" font-weight="700" fill="#242424" textLength="51.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Durée</text>
+<text x="71.84" y="106.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="76.16" y="106.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="80.48" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="84.80" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">42</text>
+<text x="106.40" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="110.72" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">secondes</text>
+<text x="20.00" y="144.30" font-size="18" font-weight="700" fill="#242424" textLength="76.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Touches</text>
+<text x="96.68" y="144.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="101.00" y="144.30" font-size="18" font-weight="700" fill="#242424" textLength="68.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">portées</text>
+<text x="169.04" y="144.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="173.36" y="144.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="177.68" y="144.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="182.00" y="144.30" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1</text>
+<text x="20.00" y="182.00" font-size="18" font-weight="700" fill="#242424" textLength="76.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Touches</text>
+<text x="96.68" y="182.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="101.00" y="182.00" font-size="18" font-weight="700" fill="#242424" textLength="58.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">reçues</text>
+<text x="159.32" y="182.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="163.64" y="182.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="167.96" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="172.28" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3</text>
+<text x="20.00" y="219.70" font-size="18" font-weight="700" fill="#242424" textLength="72.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Résultat</text>
+<text x="92.36" y="219.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="96.68" y="219.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="101.00" y="219.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="105.32" y="219.70" font-size="18" font-weight="400" fill="#242424" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Défaite</text>
+<text x="170.12" y="219.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="174.44" y="219.70" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="184.16" y="219.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="188.48" y="219.70" font-size="18" font-weight="400" fill="#242424" textLength="84.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">condition</text>
+<text x="272.72" y="219.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="20.00" y="249.40" font-size="18" font-weight="400" fill="#242424" textLength="57.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">d’arrêt</text>
+<text x="77.24" y="249.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="81.56" y="249.40" font-size="18" font-weight="400" fill="#242424" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">atteinte</text>
+</svg>

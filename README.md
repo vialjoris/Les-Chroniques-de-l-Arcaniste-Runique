@@ -28,9 +28,15 @@ Les fiches au niveau 60 ne remplacent pas les états de fin de livre I. Un nombr
 
 ## Préparation des chapitres
 
-### Lire le manuscrit avec sa présentation locale
+### Lire le manuscrit sur GitHub
 
-Ouvrir [`lecture.html`](lecture.html) dans un navigateur, en conservant [`style.css`](style.css) à côté : la feuille n’est pas copiée dans le lecteur. `roman.md` reste la source unique ; le lecteur est un dérivé à régénérer, jamais à modifier manuellement. Le rendu Markdown de GitHub ne garantit pas cette présentation.
+Ouvrir [`roman.md`](roman.md) en **aperçu GitHub** : c’est le point d’entrée principal. Les fenêtres en couleur utilisent des SVG locaux dérivés ; leur **version textuelle complète**, dépliable sous chaque fenêtre, reste dans ce même manuscrit (DEC-103). Aucune illustration narrative n’est ajoutée. GitHub filtre le CSS HTML : lier `style.css` ou ajouter des styles inline ne suffit pas à y reproduire la charte.
+
+Pour modifier une fenêtre, éditer sa source HTML textuelle dans `roman.md`, jamais les SVG à la main, puis régénérer et contrôler les dérivés. Les SVG bureau/mobile de `assets/fenetres/` doivent accompagner le Markdown lors d’une publication autorisée. Voir le [guide GitHub](docs/fenetres_github.md) pour la maintenance et les limites.
+
+### Export local facultatif
+
+Pour lire hors de GitHub ou préparer une impression, ouvrir [`lecture.html`](lecture.html) dans un navigateur, en conservant [`style.css`](style.css) à côté : la feuille n’est pas copiée dans le lecteur. Télécharger ces fichiers avant ouverture ; le lien vers le HTML dans le dépôt ne constitue pas un site de lecture. `roman.md` reste la source unique ; le lecteur est un dérivé à régénérer, jamais à modifier manuellement.
 
 Depuis la racine, avec Python 3 et `venv` disponibles :
 
@@ -43,7 +49,7 @@ python3 scripts/generer_lecture.py --check
 python3 -m unittest discover -s tests -v
 ```
 
-La génération fonctionne hors ligne après installation de la dépendance ; lire le HTML déjà généré ne nécessite ni Python ni serveur. **Contrôle du 22 novembre 2026 : 110 fenêtres modernisées sur les douze chapitres, lecteur régénéré et 20 tests réussis.** Le rendu a été contrôlé avec Chromium à 1280, 390 et 320 pixels, y compris par ouverture locale sans réseau. Voir le [guide des modèles et du lecteur](docs/fenetres_litrpg.md) et l’[audit de refonte](docs/audit_refonte_fenetres.md) pour les modèles, preuves, options, sécurité, impression et limites EPUB.
+La génération fonctionne hors ligne après installation des dépendances ; lire le HTML déjà généré ne nécessite ni Python ni serveur. **Contrôle historique du lecteur local, avant adaptation GitHub, le 22 novembre 2026 : 110 fenêtres modernisées sur les douze chapitres et 20 tests réussis.** Les contrôles Chromium à 1280, 390 et 320 pixels, dont l’ouverture locale sans réseau, concernent cette étape ; ils ne prouvent pas le rendu GitHub sur tous les appareils. Voir le [guide des modèles et du lecteur](docs/fenetres_litrpg.md) et l’[audit de refonte](docs/audit_refonte_fenetres.md) pour les modèles, preuves, options, sécurité, impression et limites EPUB.
 
 Consulter le plan et les références avant toute rédaction. Vérifier notamment les disponibilités réelles du groupe, les compétences accessibles au niveau de chaque personnage, les cercles, l’équipement, les réserves disponibles et les secrets connus. Les décisions récentes et la fiche de contrôle détaillée figurent dans `AGENTS.md` et `PLAN_DIRECTEUR.md`.
 
@@ -63,7 +69,7 @@ En fin du 12, Hasol vient d’avoir **vingt-cinq ans**, est une artisane reconnu
 
 Les encadrés éditoriaux de lore en début et fin de chapitre sont retirés (DEC-091), sans supprimer les vraies fenêtres du système. Une partie de lore consultable en fin de livre reste à définir. L’inspiration visuelle du design des personnages d’*Epic Seven* est déclarée dans [`source.md`](source.md).
 
-**Roman non illustré — DEC-101 :** l’ajout d’image au chapitre 1 est annulé ; les illustrations sont destinées au manhwa. L’image du couple ci-dessus reste une présentation du projet, hors manuscrit. Les fenêtres HTML du système et leurs pictogrammes ne sont pas supprimés.
+**Roman non illustré — DEC-101, précisé par DEC-103 :** l’ajout d’image au chapitre 1 est annulé ; les illustrations narratives sont destinées au manhwa. L’image du couple ci-dessus reste une présentation du projet, hors manuscrit. Les SVG dérivés des fenêtres du système sont une exception technique d’affichage, avec leur texte intégral conservé dans `roman.md`, pas des illustrations de scènes.
 
 ## Droits d’auteur
 

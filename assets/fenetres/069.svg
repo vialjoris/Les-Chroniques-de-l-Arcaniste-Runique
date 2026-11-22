@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="229" viewBox="0 0 680 229" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="672" height="219" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="222" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8 8 8 8 M16 8l-8 8"/></g>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="184.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">AMÉLIORATION</text>
+<text x="248.68" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="254.08" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="114.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ÉCHOUÉE</text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="44.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rune</text>
+<text x="72.28" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="76.60" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="80.92" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="85.24" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
+<text x="150.04" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="154.36" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="97.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">maternelle,</text>
+<text x="251.56" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="255.88" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="20.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3★</text>
+<text x="276.40" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="280.72" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="290.44" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="294.76" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="51.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">grade</text>
+<text x="346.60" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="350.92" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="55.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">actuel</text>
+<text x="406.00" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="410.32" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="18.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">et</text>
+<text x="428.68" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="433.00" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="50.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">étape</text>
+<text x="483.76" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="488.08" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">exacte</text>
+<text x="548.56" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="552.88" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="557.20" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="561.52" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">À</text>
+<text x="571.24" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="28.00" y="144.30" font-size="18" font-weight="400" fill="#242424" textLength="76.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">DÉFINIR.</text>
+<text x="28.00" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Aucune</text>
+<text x="94.96" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="99.28" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="105.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">progression</text>
+<text x="205.12" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="209.44" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">;</text>
+<text x="213.76" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="218.08" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="97.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ressources</text>
+<text x="315.28" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="319.60" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">engagées</text>
+<text x="406.00" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="410.32" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="122.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">consommées.</text>
+</svg>

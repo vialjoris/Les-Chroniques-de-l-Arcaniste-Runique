@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="326" viewBox="0 0 320 326" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="312" height="316" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="319" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></g>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="120.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">EXERCICE</text>
+<text x="176.96" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="182.36" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="106.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">TERMINÉ</text>
+<path d="M20 69.6h280" stroke="#D8BF8F"/>
+<text x="20.00" y="106.60" font-size="18" font-weight="700" fill="#242424" textLength="93.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Adversaire</text>
+<text x="113.96" y="106.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="118.28" y="106.60" font-size="18" font-weight="700" fill="#242424" textLength="55.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">simulé</text>
+<text x="173.36" y="106.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="177.68" y="106.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="182.00" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="186.32" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Guerrier</text>
+<text x="256.52" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="20.00" y="117.30" width="46.56" height="27" rx="13.5" fill="#edf4fc" stroke="#b6cce5"/>
+<text x="26.00" y="136.30" font-size="18" font-weight="700" fill="#175b9b" textLength="34.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rare</text>
+<text x="66.56" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="70.88" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="80.60" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="84.92" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="145.40" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="149.72" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">20</text>
+<text x="20.00" y="174.00" font-size="18" font-weight="700" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Statut</text>
+<text x="76.16" y="174.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="80.48" y="174.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="84.80" y="174.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="89.12" y="174.00" font-size="18" font-weight="400" fill="#242424" textLength="68.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Victoire</text>
+<text x="20.00" y="211.70" font-size="18" font-weight="700" fill="#242424" textLength="76.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Touches</text>
+<text x="96.68" y="211.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="101.00" y="211.70" font-size="18" font-weight="700" fill="#242424" textLength="58.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">reçues</text>
+<text x="159.32" y="211.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="163.64" y="211.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="167.96" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="172.28" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2</text>
+<text x="183.08" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="187.40" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">/</text>
+<text x="192.80" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="197.12" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3</text>
+<text x="20.00" y="249.40" font-size="18" font-weight="700" fill="#242424" textLength="93.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Adversaire</text>
+<text x="113.96" y="249.40" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="118.28" y="249.40" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="122.60" y="249.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="126.92" y="249.40" font-size="18" font-weight="400" fill="#242424" textLength="88.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Neutralisé</text>
+<text x="20.00" y="287.10" font-size="18" font-weight="700" fill="#242424" textLength="72.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Résultat</text>
+<text x="92.36" y="287.10" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="96.68" y="287.10" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="101.00" y="287.10" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="105.32" y="287.10" font-size="18" font-weight="400" fill="#242424" textLength="68.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Victoire</text>
+</svg>

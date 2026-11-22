@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="237" viewBox="0 0 680 237" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="672" height="227" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="230" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></g>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="89.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">NIVEAU</text>
+<text x="153.64" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="159.04" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="131.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">SUPÉRIEUR</text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="50.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Hasol</text>
+<text x="78.76" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="83.08" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="44.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Shun</text>
+<text x="127.36" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="131.68" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="141.40" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="145.72" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="206.20" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="210.52" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">11</text>
+<text x="232.12" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="236.44" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="59.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">atteint</text>
+<text x="28.00" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="59.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Classe</text>
+<text x="87.40" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="91.72" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="96.04" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="100.36" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="84.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Arcaniste</text>
+<text x="184.60" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="188.92" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
+<text x="254.80" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="259.12" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="268.84" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="273.16" y="133.30" width="111.36" height="27" rx="13.5" fill="#fbf3dd" stroke="#D1AB61"/>
+<text x="279.16" y="152.30" font-size="18" font-weight="700" fill="#795b22" textLength="99.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Légendaire</text>
+<text x="28.00" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="126.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Augmentation</text>
+<text x="154.36" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="158.68" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
+<text x="191.08" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="195.40" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="142.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">caractéristiques</text>
+<text x="337.96" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="342.28" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">naturelles</text>
+<text x="428.68" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="433.00" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="90.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">appliquée.</text>
+</svg>

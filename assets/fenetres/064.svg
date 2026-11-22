@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="161" viewBox="0 0 680 161" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="672" height="151" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="154" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></g>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="122.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">MONSTRE</text>
+<text x="186.04" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="191.44" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="115.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">IDENTIFIÉ</text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="46.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Loup</text>
+<text x="74.44" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="78.76" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="48.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">alpha</text>
+<text x="127.36" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="131.68" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="141.40" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="145.72" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="206.20" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="210.52" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">12</text>
+</svg>

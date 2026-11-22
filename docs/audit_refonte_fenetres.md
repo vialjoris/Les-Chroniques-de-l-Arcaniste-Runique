@@ -1,5 +1,21 @@
 # Audit de la refonte des fenêtres LitRPG
 
+## Actualisation : lecture directe sur GitHub — DEC-103
+
+L’audit ci-dessous décrit la refonte HTML/CSS initiale et son lecteur local.
+La cible a ensuite été précisée par l’auteur : **couleurs dans l’aperçu GitHub
+de `roman.md`**, sans passage obligatoire par `lecture.html`.
+
+Les 110 fenêtres comportent désormais une image SVG responsive et une
+transcription textuelle complète dans le même manuscrit. **220 SVG dérivés**
+préparent les formats bureau/mobile. Ce sont des représentations du système,
+pas des illustrations narratives. La source textuelle reste inchangée et le
+lecteur local retrouve son HTML original par extraction des seules enveloppes.
+
+**34 tests passent** ; le moteur GitHub officiel a conservé les images, variantes
+et transcriptions des 110 fenêtres lors d’une requête HTTP 200. Les détails,
+preuves et limites de cette correction figurent dans `fenetres_github.md`.
+
 ## Périmètre et séparation des interventions
 
 Intervention du 22 novembre 2026. La demande porte sur toutes les fenêtres du

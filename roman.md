@@ -774,6 +774,12 @@ Une colonne dorée s’éleva jusqu’au plafond.
 Et devant Hasol, une fenêtre translucide apparut.
 
 <div class="system-window legendary lit-window" data-window-id="001" data-window-type="revelation">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/001-mobile.svg">
+    <img src="assets/fenetres/001.svg" alt="Fenêtre du système — SYSTÈME — RÉVÉLATION DE CLASSE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>SYSTÈME — RÉVÉLATION DE CLASSE</div>
   <h3>Hasol Shun</h3>
   <p class="lit-window__row"><strong>Classe éveillée :</strong> <span>Arcaniste runique</span></p>
@@ -787,6 +793,7 @@ Et devant Hasol, une fenêtre translucide apparut.
   <p class="lit-window__section-title"><strong>Compétence de classe :</strong></p>
   <p><strong>Bénédiction runique</strong> <span class="passive-badge">Passive</span></p>
   <p>Augmente les probabilités de réussite lors de l’amélioration des runes.</p>
+  </details>
 </div>
 
 Pendant quelques secondes, personne ne parla.
@@ -986,6 +993,12 @@ Hasol prit la première rune rare à six étoiles entre ses doigts.
 Une fenêtre apparut.
 
 <div class="rune-window blue-grade lit-window" data-window-id="002" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/002-mobile.svg">
+    <img src="assets/fenetres/002.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
   <h3>Rune Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★ <span class="upgrade-badge">+6</span></h3>
   <p class="lit-window__row"><strong>Grade :</strong> <span class="rune-bonus lit-badge lit-badge--rune-rare">Rare — Bleu</span></p>
@@ -995,6 +1008,7 @@ Une fenêtre apparut.
   <p class="rune-bonus">Vitesse +4</p>
   <p class="rune-bonus">PV +25</p>
   <p class="lit-window__row"><strong>Ensemble :</strong> <span>Fatal</span></p>
+  </details>
 </div>
 
 Elle contempla les inscriptions.
@@ -1024,9 +1038,16 @@ Puis se transforma en particules bleutées qui pénétrèrent dans sa poitrine.
 Un symbole apparut brièvement autour de son premier cercle.
 
 <div class="system-window success lit-window" data-window-id="003" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/003-mobile.svg">
+    <img src="assets/fenetres/003.svg" alt="Fenêtre du système — RUNE ÉQUIPÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>RUNE ÉQUIPÉE</div>
   <p><strong>Rune Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
   <p class="lit-window__row"><span>Emplacements utilisés :</span> <strong class="lit-window__value">1 / 2</strong></p>
+  </details>
 </div>
 
 Hasol ouvrit les yeux.
@@ -1038,6 +1059,12 @@ Hasol ouvrit les yeux.
 Elle prit aussitôt la seconde rune rare à six étoiles.
 
 <div class="rune-window blue-grade lit-window" data-window-id="004" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/004-mobile.svg">
+    <img src="assets/fenetres/004.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
   <h3>Rune Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★ <span class="upgrade-badge">+6</span></h3>
   <p class="lit-window__row"><strong>Grade :</strong> <span class="rune-bonus lit-badge lit-badge--rune-rare">Rare — Bleu</span></p>
@@ -1047,14 +1074,22 @@ Elle prit aussitôt la seconde rune rare à six étoiles.
   <p class="rune-bonus">PV +30</p>
   <p class="rune-bonus">Mana +20</p>
   <p class="lit-window__row"><strong>Ensemble :</strong> <span>Gardien</span></p>
+  </details>
 </div>
 
 Quelques instants plus tard, la rune Gardien rare à six étoiles rejoignit la Fatal rare à six étoiles.
 
 <div class="system-window success lit-window" data-window-id="005" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/005-mobile.svg">
+    <img src="assets/fenetres/005.svg" alt="Fenêtre du système — RUNE ÉQUIPÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>RUNE ÉQUIPÉE</div>
   <p><strong>Rune Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
   <p class="lit-window__row"><span>Emplacements utilisés :</span> <strong class="lit-window__value">2 / 2</strong></p>
+  </details>
 </div>
 
 Hasol sentit une légère modification dans la circulation de son mana.
@@ -1068,6 +1103,12 @@ Comme si son corps venait de recevoir deux soutiens invisibles.
 Elle ouvrit son statut.
 
 <div class="character-sheet lit-window" data-window-id="006" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/006-mobile.svg">
+    <img src="assets/fenetres/006.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 1</h3>
   <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
@@ -1091,6 +1132,7 @@ Elle ouvrit son statut.
   <p>Rune Fatal <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
   <p>Rune Gardien <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
   <p><strong>Bonus d'ensembles actifs :</strong> Aucun</p>
+  </details>
 </div>
 
 Hasol contempla les chiffres.
@@ -1268,6 +1310,12 @@ Sa première montée de niveau survint après plusieurs exercices et chasses sup
 Une fenêtre apparut devant elle.
 
 <div class="system-window level-up lit-window" data-window-id="007" data-window-type="niveau">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/007-mobile.svg">
+    <img src="assets/fenetres/007.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
   <h3>Niveau 2 atteint !</h3>
   <p class="lit-window__section-title"><strong>Augmentation des caractéristiques naturelles :</strong></p>
@@ -1277,6 +1325,7 @@ Une fenêtre apparut devant elle.
   <p class="lit-window__row"><span>Vitesse :</span> <span class="lit-window__value">+1</span></p>
   <p class="lit-window__row"><span>Mana :</span> <span class="lit-window__value">+28</span></p>
   <p class="lit-window__row"><span>Puissance arcanique :</span> <span class="lit-window__value">+17</span></p>
+  </details>
 </div>
 
 Hasol resta figée.
@@ -2372,6 +2421,12 @@ La lumière du soleil couchant colorait l’herbe d’orange.
 Une notification apparut.
 
 <div class="system-window level-up lit-window" data-window-id="008" data-window-type="niveau">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/008-mobile.svg">
+    <img src="assets/fenetres/008.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
   <h3>Niveau 9 atteint !</h3>
   <p class="lit-window__section-title"><strong>Augmentation des caractéristiques naturelles :</strong></p>
@@ -2381,6 +2436,7 @@ Une notification apparut.
   <p class="lit-window__row"><span>Vitesse :</span> <span class="lit-window__value">+2</span></p>
   <p class="lit-window__row"><span>Mana :</span> <span class="lit-window__value">+24</span></p>
   <p class="lit-window__row"><span>Puissance arcanique :</span> <span class="lit-window__value">+16</span></p>
+  </details>
 </div>
 
 Hasol contempla les chiffres.
@@ -2410,6 +2466,12 @@ Et pour la première fois depuis longtemps, elle pleura sans chercher à se rete
 Quelques jours avant la fin de l’année, elle consulta son statut.
 
 <div class="character-sheet lit-window" data-window-id="009" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/009-mobile.svg">
+    <img src="assets/fenetres/009.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 9</h3>
   <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
@@ -2434,6 +2496,7 @@ Quelques jours avant la fin de l’année, elle consulta son statut.
   <p>Rune Gardien <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
   <p><strong>Bonus d'ensembles actifs :</strong> Aucun</p>
   <p><strong>Compétences actives :</strong> Aucune</p>
+  </details>
 </div>
 
 Les chiffres confirmaient ce qu’elle ressentait.
@@ -2897,10 +2960,17 @@ Puis s’arrêta.
 Devant elle, un petit slime bleu se déplaçait lentement dans l’herbe.
 
 <div class="system-window monster lit-window" data-window-id="010" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/010-mobile.svg">
+    <img src="assets/fenetres/010.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
   <h3>Slime bleu</h3>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">1</span></p>
   <p class="lit-window__row"><strong>Expérience :</strong> <span class="lit-window__value">1 XP</span></p>
+  </details>
 </div>
 
 Hasol contempla la créature.
@@ -2940,12 +3010,19 @@ La créature se dissipa en particules lumineuses.
 Une notification apparut.
 
 <div class="system-window level-up lit-window" data-window-id="011" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/011-mobile.svg">
+    <img src="assets/fenetres/011.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>MONSTRE ÉLIMINÉ</div>
   <p>Slime bleu — Niveau 1</p>
   <p class="lit-window__row"><strong>Expérience obtenue :</strong> <strong class="lit-window__value">+1 XP</strong></p>
   <hr>
   <h3>NIVEAU SUPÉRIEUR !</h3>
   <p><strong>Niveau 10 atteint !</strong></p>
+  </details>
 </div>
 
 Hasol resta immobile.
@@ -2961,6 +3038,12 @@ Le niveau 10.
 Une deuxième fenêtre apparut.
 
 <div class="system-window level-up lit-window" data-window-id="012" data-window-type="caracteristiques">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/012-mobile.svg">
+    <img src="assets/fenetres/012.svg" alt="Fenêtre du système — AUGMENTATION DES CARACTÉRISTIQUES">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>AUGMENTATION DES CARACTÉRISTIQUES</div>
   <h3>Niveau 9 → Niveau 10</h3>
   <p class="lit-window__row"><span>PV :</span> <span class="lit-window__value">+13</span></p>
@@ -2969,6 +3052,7 @@ Une deuxième fenêtre apparut.
   <p class="lit-window__row"><span>Vitesse :</span> <span class="lit-window__value">+2</span></p>
   <p class="lit-window__row"><span>Mana :</span> <span class="lit-window__value">+45</span></p>
   <p class="lit-window__row"><span>Puissance arcanique :</span> <span class="lit-window__value">+25</span></p>
+  </details>
 </div>
 
 Le sourire de Hasol s’effaça.
@@ -3018,6 +3102,12 @@ Hasol fronça les sourcils.
 — Qu’est-ce que… ?
 
 <div class="system-window legendary lit-window" data-window-id="013" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/013-mobile.svg">
+    <img src="assets/fenetres/013.svg" alt="Fenêtre du système — ARCANISTE RUNIQUE — NIVEAU 10">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>ARCANISTE RUNIQUE — NIVEAU 10</div>
   <h3>NOUVELLE COMPÉTENCE DÉBLOQUÉE</h3>
   <h2>Croissance runique</h2>
@@ -3039,6 +3129,7 @@ Hasol fronça les sourcils.
   <p>Niveaux 30 à 39 : monstres de niveau 20 minimum</p>
   <p>Les conditions évoluent avec le niveau du porteur.</p>
   </div>
+  </details>
 </div>
 
 Hasol relut la description.
@@ -3076,6 +3167,12 @@ Ses doigts tremblèrent.
 Une nouvelle fenêtre apparut.
 
 <div class="system-window success lit-window" data-window-id="014" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/014-mobile.svg">
+    <img src="assets/fenetres/014.svg" alt="Fenêtre du système — ANALYSE DE L’HISTORIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>ANALYSE DE L’HISTORIQUE</div>
   <h3>Croissance runique</h3>
   <p class="lit-window__row"><strong>Éliminations admissibles enregistrées :</strong> <span>plus de 8 000</span></p>
@@ -3085,6 +3182,7 @@ Une nouvelle fenêtre apparut.
   <p class="success-text">+8 cercles de mana</p>
   <p class="success-text">+8 emplacements runiques</p>
   <p><em>Activation des récompenses rétroactives…</em></p>
+  </details>
 </div>
 
 Hasol resta figée.
@@ -3156,6 +3254,12 @@ Chaque nouvelle possibilité.
 Et une dernière notification apparut.
 
 <div class="system-window success lit-window" data-window-id="015" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/015-mobile.svg">
+    <img src="assets/fenetres/015.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE</div>
   <h3>ÉVOLUTION ACCOMPLIE !</h3>
   <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">2 → <span class="success-text">10</span></span></p>
@@ -3163,6 +3267,7 @@ Et une dernière notification apparut.
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">2 / 10</span></p>
   <hr>
   <p class="success-text">Les dix cercles de mana sont désormais actifs.</p>
+  </details>
 </div>
 
 Hasol contempla la fenêtre.
@@ -3284,6 +3389,12 @@ Dix possibilités.
 Elle ouvrit une dernière fois son statut.
 
 <div class="character-sheet lit-window" data-window-id="016" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/016-mobile.svg">
+    <img src="assets/fenetres/016.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 10</h3>
   <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
@@ -3313,6 +3424,7 @@ Elle ouvrit une dernière fois son statut.
   <p>Bénédiction runique — Passive</p>
   <p>Croissance runique — Passive</p>
   <p><strong>Compétences offensives :</strong> Aucune</p>
+  </details>
 </div>
 
 Hasol contempla les chiffres.
@@ -3508,6 +3620,12 @@ Mais cette fois, sa propre voix ne se brisa pas.
 Elle ouvrit la fenêtre et la partagea avec sa mère.
 
 <div class="system-window legendary lit-window" data-window-id="017" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/017-mobile.svg">
+    <img src="assets/fenetres/017.svg" alt="Fenêtre du système — COMPÉTENCE DE CLASSE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>COMPÉTENCE DE CLASSE</div>
   <h3>Croissance runique</h3>
   <p><strong>Type :</strong> <span class="passive-badge">Passive</span> — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
@@ -3516,6 +3634,7 @@ Elle ouvrit la fenêtre et la partagea avec sa mère.
   <p>Chaque tranche de 1 000 monstres admissibles éliminés accorde un cercle de mana et un emplacement runique supplémentaires.</p>
   <p>Les éliminations antérieures sont prises en compte rétroactivement.</p>
   <p><strong>Admissibilité aux niveaux 10 à 19 :</strong> monstres de niveau 1 minimum.</p>
+  </details>
 </div>
 
 Sa mère lut sans parler. Son regard s’arrêta sur la dernière phrase de l’effet, puis revint au début.
@@ -3531,11 +3650,18 @@ Hasol sentit sa gorge se serrer de nouveau.
 Elle fit apparaître une seconde fenêtre.
 
 <div class="system-window lit-window" data-window-id="018" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/018-mobile.svg">
+    <img src="assets/fenetres/018.svg" alt="Fenêtre du système — ÉTAT RUNIQUE — HASOL SHUN">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>ÉTAT RUNIQUE — HASOL SHUN</div>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">10</span></p>
   <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">10</span></p>
   <p class="lit-window__row"><strong>Emplacements runiques :</strong> <span class="lit-window__value">10</span></p>
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">2 / 10</span></p>
+  </details>
 </div>
 
 Sa mère porta une main à sa bouche.
@@ -3701,6 +3827,12 @@ Hasol sentit quelque chose se remettre en ordre dans son esprit. Elle connaissai
 Elles examinèrent ensuite les huit nouvelles acquisitions. Sa mère lui demanda de lire chaque principale, de distinguer chaque secondaire et d’expliquer ce qu’elle espérait en tirer. Hasol se trompa une fois en allant trop vite ; elles reprirent la ligne depuis le début.
 
 <div class="character-sheet lit-window" data-window-id="019" data-window-type="inventaire">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/019-mobile.svg">
+    <img src="assets/fenetres/019.svg" alt="Fenêtre du système — HUIT RUNES DU DON MATERNEL">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>HUIT RUNES DU DON MATERNEL</div>
   <p><strong>Rang :</strong> 3★ pour chacune — <strong>Amélioration initiale :</strong> +0</p>
   <table class="lit-window__inventory" role="table">
@@ -3716,6 +3848,7 @@ Elles examinèrent ensuite les huit nouvelles acquisitions. Sa mère lui demanda
       <tr><td>Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">Défense +7</span></td><td><span class="rune-bonus">PV +30</span></td></tr>
     </tbody>
   </table>
+  </details>
 </div>
 
 Hasol releva les yeux.
@@ -3765,12 +3898,19 @@ La lumière prit sous ses doigts. Une vibration remonta le long de son poignet, 
 L’éclat s’éteignit.
 
 <div class="system-window lit-window" data-window-id="020" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/020-mobile.svg">
+    <img src="assets/fenetres/020.svg" alt="Fenêtre du système — TENTATIVE D’AMÉLIORATION">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>TENTATIVE D’AMÉLIORATION</div>
   <p><strong>Rune :</strong> Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★</p>
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État après la tentative :</strong> +0 — caractéristiques inchangées</p>
   <p>Les ressources engagées dans cette tentative ont été consommées.</p>
+  </details>
 </div>
 
 Hasol fixa les pierres devenues ternes.
@@ -3798,12 +3938,19 @@ La dernière tentative lui parut durer plus longtemps que les autres.
 Puis un éclat bleu se répandit sur le linge.
 
 <div class="rune-window blue-grade lit-window" data-window-id="021" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/021-mobile.svg">
+    <img src="assets/fenetres/021.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
   <h3>Rune Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★ <span class="upgrade-badge">+3</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Attaque +7 → +22</span></p>
   <p><strong>Secondaire renforcée à +3 :</strong> <span class="rune-bonus">Vitesse +2 → +4</span></p>
   <p><strong>Autre secondaire :</strong> <span class="rune-bonus">PV +30</span></p>
   <p><strong>Nombre de secondaires :</strong> 2 — aucune nouvelle secondaire ajoutée à ce palier</p>
+  </details>
 </div>
 
 Hasol resta penchée au-dessus de la table.
@@ -3851,6 +3998,12 @@ Les deux cadeaux rares, bleus, six étoiles, +6 de son père n’avaient pas qui
 Lorsque le dernier lien se stabilisa, Hasol sentit un changement dans la circulation de son mana. Pas un choc, ni la sensation démesurée des nouveaux cercles dans les plaines. Plutôt une série d’appuis qui venaient se mettre en place, encore étrangers, mais distincts.
 
 <div class="system-window success lit-window" data-window-id="022" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/022-mobile.svg">
+    <img src="assets/fenetres/022.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE ACTUALISÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ÉQUIPEMENT RUNIQUE ACTUALISÉ</div>
   <p class="lit-window__row"><strong>Emplacements occupés :</strong> <span class="lit-window__value">10 / 10</span></p>
   <p><strong>Équipement :</strong> 2 runes <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; 8 runes 3★ de grades <span class="lit-badge lit-badge--rune-uncommon">peu commun (vert)</span> et <span class="lit-badge lit-badge--rune-rare">rare (bleu)</span>, dont 1 à +3 et 7 à +0.</p>
@@ -3858,6 +4011,7 @@ Lorsque le dernier lien se stabilisa, Hasol sentit un changement dans la circula
   <p><strong>Fatal :</strong> 4 pièces — 1 ensemble de 4 actif — <span class="rune-bonus">Attaque +35 %</span></p>
   <p><strong>Gardien :</strong> 4 pièces — 2 ensembles de 2 actifs — <span class="rune-bonus">Défense +15 % +15 % = +30 %</span></p>
   <p><strong>Énergie :</strong> 2 pièces — ensemble de 2 actif — <span class="rune-bonus">PV +15 %</span></p>
+  </details>
 </div>
 
 Hasol ouvrit et referma la main. Elle se leva, fit quelques pas entre la table et la fenêtre, puis revint sans pouvoir retenir un sourire.
@@ -3873,6 +4027,12 @@ Sa mère la regardait avec attention, sans partager tout à fait son impatience.
 Hasol consulta la fiche. Les bonus fixes étaient distingués des caractéristiques de son corps ; les ensembles apparaissaient à part. Elle suivit les lignes du doigt, puis revint aux dix emplacements.
 
 <div class="character-sheet lit-window" data-window-id="023" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/023-mobile.svg">
+    <img src="assets/fenetres/023.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 10</h3>
   <p><strong>Classe :</strong> Arcaniste runique — Soutien</p>
@@ -3894,6 +4054,7 @@ Hasol consulta la fiche. Les bonus fixes étaient distingués des caractéristiq
   <p><strong>Cercles de mana :</strong> 10 — <strong>Runes équipées :</strong> 10 / 10</p>
   <p><strong>Compétences :</strong> Bénédiction runique ; Croissance runique — Passives</p>
   <p><strong>Compétence offensive :</strong> Aucune</p>
+  </details>
 </div>
 
 Les dernières lignes n’avaient pas changé.
@@ -3929,11 +4090,18 @@ Elle vérifia les réglages une seconde fois. Lorsqu’elle recommencerait, elle
 Puis elle prit position.
 
 <div class="system-window lit-window" data-window-id="024" data-window-type="entrainement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/024-mobile.svg">
+    <img src="assets/fenetres/024.svg" alt="Fenêtre du système — EXERCICE D’ENTRAÎNEMENT">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE D’ENTRAÎNEMENT</div>
   <p><strong>Adversaire simulé :</strong> Guerrier ordinaire — Niveau 10</p>
   <p><strong>Condition d’arrêt :</strong> 3 touches reçues</p>
   <p><strong>Mesure :</strong> Temps écoulé jusqu’à la troisième touche reçue</p>
   <p>Début du combat.</p>
+  </details>
 </div>
 
 Le mannequin attaqua.
@@ -3967,11 +4135,18 @@ La feinte la prit avant qu’elle comprenne qu’il n’y avait pas d’ouvertur
 La troisième touche frappa son flanc. La construction s’immobilisa aussitôt.
 
 <div class="system-window lit-window" data-window-id="025" data-window-type="entrainement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/025-mobile.svg">
+    <img src="assets/fenetres/025.svg" alt="Fenêtre du système — EXERCICE TERMINÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE TERMINÉ</div>
   <p class="lit-window__row"><strong>Durée :</strong> <span class="lit-window__value">42 secondes</span></p>
   <p class="lit-window__row"><strong>Touches portées :</strong> <span class="lit-window__value">1</span></p>
   <p class="lit-window__row"><strong>Touches reçues :</strong> <span class="lit-window__value">3</span></p>
   <p><strong>Résultat :</strong> Défaite — condition d’arrêt atteinte</p>
+  </details>
 </div>
 
 Hasol resta accroupie, une main appuyée au sol.
@@ -4037,9 +4212,16 @@ Un froissement se produisit sur sa droite.
 Elle s’arrêta, puis aperçut un pelage gris entre deux troncs.
 
 <div class="system-window monster lit-window" data-window-id="026" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/026-mobile.svg">
+    <img src="assets/fenetres/026.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
   <h3>Loup gris</h3>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">5</span></p>
+  </details>
 </div>
 
 La créature la fixait déjà.
@@ -4077,9 +4259,16 @@ Cette fois, la lame atteignit l’épaule. Le loup retomba de travers. Hasol ava
 La créature s’effondra.
 
 <div class="system-window success lit-window" data-window-id="027" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/027-mobile.svg">
+    <img src="assets/fenetres/027.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>MONSTRE ÉLIMINÉ</div>
   <p>Loup gris — Niveau 5</p>
   <p class="lit-window__row"><strong>Expérience obtenue :</strong> <span class="lit-window__value">+12 XP</span></p>
+  </details>
 </div>
 
 Hasol resta en garde plusieurs secondes après la fin du combat.
@@ -4133,9 +4322,16 @@ Le premier tenta d’entrer avant que le second ait trouvé un autre angle. Haso
 Le loup s’abattit près des racines.
 
 <div class="system-window success lit-window" data-window-id="028" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/028-mobile.svg">
+    <img src="assets/fenetres/028.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>MONSTRE ÉLIMINÉ</div>
   <p>Loup gris — Niveau 5</p>
   <p class="lit-window__row"><strong>Expérience obtenue :</strong> <span class="lit-window__value">+12 XP</span></p>
+  </details>
 </div>
 
 Le dernier ralentit.
@@ -4159,9 +4355,16 @@ Pendant une seconde, elle attendit les crocs.
 Ils ne vinrent pas.
 
 <div class="system-window success lit-window" data-window-id="029" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/029-mobile.svg">
+    <img src="assets/fenetres/029.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>MONSTRE ÉLIMINÉ</div>
   <p>Loup gris — Niveau 5</p>
   <p class="lit-window__row"><strong>Expérience obtenue :</strong> <span class="lit-window__value">+12 XP</span></p>
+  </details>
 </div>
 
 Elle fixa la notification sans la comprendre immédiatement.
@@ -4199,6 +4402,12 @@ Elle nettoya la griffure avec l’eau de sa gourde, puis appliqua une petite qua
 Elle attendit que sa respiration redevienne régulière avant d’ouvrir les notifications de la chasse.
 
 <div class="system-window lit-window" data-window-id="030" data-window-type="bilan">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/030-mobile.svg">
+    <img src="assets/fenetres/030.svg" alt="Fenêtre du système — BILAN DE LA CHASSE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>BILAN DE LA CHASSE</div>
   <p><strong>Monstres éliminés :</strong> 3 loups gris de niveau 5</p>
   <p><strong>Expérience gagnée durant cette chasse :</strong> 3 × 12 XP = 36 XP</p>
@@ -4206,6 +4415,7 @@ Elle attendit que sa respiration redevienne régulière avant d’ouvrir les not
   <hr>
   <p><strong>Croissance runique :</strong> +3 éliminations admissibles enregistrées</p>
   <p><strong>Cercles de mana :</strong> 10 — <strong>Emplacements runiques :</strong> 10</p>
+  </details>
 </div>
 
 Trente-six points.
@@ -4369,11 +4579,18 @@ Le soulagement lui coûta son attention. Elle suivit des yeux l’épée qui la 
 Le balayage la toucha au mollet — troisième touche — et lui emporta les appuis. La construction s’immobilisa tandis qu’elle tombait sur le dos, le souffle coupé.
 
 <div class="system-window lit-window" data-window-id="031" data-window-type="entrainement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/031-mobile.svg">
+    <img src="assets/fenetres/031.svg" alt="Fenêtre du système — EXERCICE TERMINÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE TERMINÉ</div>
   <p><strong>Adversaire simulé :</strong> Guerrier ordinaire — Niveau 10</p>
   <p class="lit-window__row"><strong>Durée jusqu’à la troisième touche reçue :</strong> <span class="lit-window__value">1 min 18 s</span></p>
   <p class="lit-window__row"><strong>Touches reçues :</strong> <span class="lit-window__value">3</span></p>
   <p><strong>Résultat :</strong> Défaite — condition d’arrêt atteinte</p>
+  </details>
 </div>
 
 Hasol contempla la fenêtre, puis le plafond derrière elle. Soixante-dix-huit secondes au lieu de quarante-deux. Trente-six secondes gagnées, avec le même équipement et le même adversaire.
@@ -4593,11 +4810,18 @@ Sa mère demanda s’ils pouvaient poursuivre en privé. Orven leur ouvrit l’a
 Elle partagea son état runique. Cette fois, la main sur sa lanière resta immobile.
 
 <div class="system-window legendary lit-window" data-window-id="032" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/032-mobile.svg">
+    <img src="assets/fenetres/032.svg" alt="Fenêtre du système — ÉTAT RUNIQUE — HASOL SHUN">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>ÉTAT RUNIQUE — HASOL SHUN</div>
   <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">10</span></p>
   <p><strong>Cercles de mana :</strong> 10 — <strong>Emplacements occupés :</strong> 10 / 10</p>
   <p><strong>Compétences passives :</strong> Bénédiction runique ; Croissance runique</p>
+  </details>
 </div>
 
 Orven se pencha pour lire les effets qu’elle lui montrait, puis revint aux emplacements. Il regarda sa mère ; elle acquiesça, sans rien ajouter.
@@ -4627,10 +4851,17 @@ Sa voix était sortie plus vite qu’elle ne l’aurait voulu. Orven repoussa sa
 Orven prit sur un plateau une Énergie commune, blanche, deux étoiles, à +0, et la posa devant elle. Hasol consulta son état, vérifia le symbole circulaire et les inscriptions : une principale de PV, aucune secondaire. Elle la plaça au centre du support sans engager d’énergie.
 
 <div class="rune-window lit-window" data-window-id="090" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/090-mobile.svg">
+    <img src="assets/fenetres/090.svg" alt="Fenêtre du système — ÉTAT INITIAL DE LA RUNE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ÉTAT INITIAL DE LA RUNE</div>
   <h3>Rune Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV</span></p>
   <p><strong>Secondaires :</strong> Aucune</p>
+  </details>
 </div>
 
 — Jusqu’à +3 ? demanda-t-elle.
@@ -4658,12 +4889,19 @@ Hasol communiqua le résultat. La plume d’Orven gratta le papier.
 Elle renouvela les ressources et vérifia le niveau de départ. À +1, la rune Énergie commune, blanche, deux étoiles, gardait la même apparence discrète. Hasol était déjà moins gênée par le regard de l’artisan lorsqu’une vibration irrégulière traversa le support. Elle voulut la corriger ; le flux lui échappa et les inscriptions s’éteignirent.
 
 <div class="system-window lit-window" data-window-id="033" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/033-mobile.svg">
+    <img src="assets/fenetres/033.svg" alt="Fenêtre du système — TENTATIVE D’AMÉLIORATION">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>TENTATIVE D’AMÉLIORATION</div>
   <p><strong>Rune :</strong> Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+1 → +2</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État conservé :</strong> <span class="upgrade-badge">+1</span> — rune intacte</p>
   <p>Les ressources engagées ont été consommées.</p>
+  </details>
 </div>
 
 Le silence qui suivit lui sembla trop long. Elle regarda les pierres ternies, puis la main d’Orven, dont la plume n’avait pas encore bougé.
@@ -4693,6 +4931,12 @@ L’éclat se resserra au bord de la pierre, puis prit une teinte verte.
 Hasol retira lentement les mains.
 
 <div class="rune-window success lit-window" data-window-id="034" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/034-mobile.svg">
+    <img src="assets/fenetres/034.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
   <h3>Rune Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★ <span class="upgrade-badge">+3</span></h3>
   <p class="lit-window__row"><strong>Dernier passage :</strong> <span class="lit-window__value">+2 → +3</span></p>
@@ -4701,6 +4945,7 @@ Hasol retira lentement les mains.
   <p><strong>Principale :</strong> <span class="rune-bonus">PV renforcés</span></p>
   <p><strong>Première secondaire apparue :</strong> <span class="rune-bonus">Défense</span></p>
   <p><strong>Nombre de secondaires :</strong> 1 / 4 — rang inchangé</p>
+  </details>
 </div>
 
 Elle aurait voulu tendre immédiatement la pierre à sa mère. Elle la laissa sur son support et se recula pour qu’Orven l’examine. Il suivit la nouvelle inscription avec sa lentille, compara l’état final à ses notes et posa l’ensemble sur un linge propre.
@@ -4888,11 +5133,18 @@ Les commandes ne se ressemblaient pas. Certaines étaient accompagnées de longu
 Une Gardien commune, blanche, deux étoiles, à +0, devait être rendue dans la matinée. Le propriétaire demandait +2 ; trois tentatives au maximum étaient prévues dans le budget.
 
 <div class="system-window lit-window" data-window-id="091" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/091-mobile.svg">
+    <img src="assets/fenetres/091.svg" alt="Fenêtre du système — FICHE DE COMMANDE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>FICHE DE COMMANDE</div>
   <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
   <p class="lit-window__row"><strong>État initial :</strong> <span class="upgrade-badge">+0</span></p>
   <p class="lit-window__row"><strong>Objectif demandé :</strong> <span class="upgrade-badge">+2</span></p>
   <p><strong>Limite autorisée :</strong> 3 tentatives au maximum</p>
+  </details>
 </div>
 
 Hasol suivit du doigt la limite inscrite.
@@ -4930,6 +5182,12 @@ Le support était froid sous le bord de ses mains. Elle engagea son Mana, sentit
 Hasol retira ses doigts. La chaleur resta un instant dans sa paume.
 
 <div class="system-window rune-window lit-window" data-window-id="035" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/035-mobile.svg">
+    <img src="assets/fenetres/035.svg" alt="Fenêtre du système — TENTATIVE D’AMÉLIORATION">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>TENTATIVE D’AMÉLIORATION</div>
   <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
@@ -4937,6 +5195,7 @@ Hasol retira ses doigts. La chaleur resta un instant dans sa paume.
   <p><strong>État conservé :</strong> <span class="upgrade-badge">+0</span> — rune intacte, caractéristiques inchangées</p>
   <p><strong>Pierres de mana engagées :</strong> Consommées</p>
   <p><strong>Mana personnel :</strong> Dépensé</p>
+  </details>
 </div>
 
 Elle eut un regard pour les ressources devenues ternes. Une tentative sur trois. Elle aurait aimé disposer d’un résultat à inscrire en face de cette dépense ; sa main resta suspendue au-dessus du registre avant de s’y poser.
@@ -4954,12 +5213,19 @@ Orven n’ajouta rien. De l’autre côté de la table, sa plume reprit son brui
 Cette fois, Hasol garda son attention sur l’ensemble des gravures. Quand la vibration se modifia, elle accompagna le mouvement sans pousser davantage. La lumière resta présente, se resserra, puis une notification confirma le passage.
 
 <div class="rune-window success lit-window" data-window-id="036" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/036-mobile.svg">
+    <img src="assets/fenetres/036.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
   <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p><strong>Niveau atteint :</strong> <span class="upgrade-badge">+1</span></p>
   <p><strong>Principale :</strong> Renforcée — aucune secondaire</p>
   <p><strong>Ressources engagées :</strong> Pierres de mana consommées et Mana personnel dépensé</p>
+  </details>
 </div>
 
 Hasol laissa échapper son souffle. Elle annonça le résultat, le reporta sur la fiche et écarta la plume pour qu’Orven puisse contrôler. Il parcourut les deux lignes, puis la limite autorisée.
@@ -5021,12 +5287,19 @@ La circulation se forma sous ses mains. Hasol eut conscience du bruit du magasin
 La résistance augmenta. Elle ajusta son geste, sentit une tension dans la nuque et expira sans retirer ses mains. L’éclat tint.
 
 <div class="rune-window success lit-window" data-window-id="037" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/037-mobile.svg">
+    <img src="assets/fenetres/037.svg" alt="Fenêtre du système — COMMANDE ACHEVÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>COMMANDE ACHEVÉE</div>
   <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
   <p><strong>Dernière tentative :</strong> +1 → +2 — Réussite</p>
   <p><strong>Niveau final :</strong> <span class="upgrade-badge">+2</span></p>
   <p><strong>Principale :</strong> Renforcée — aucune secondaire</p>
   <p><strong>Suivi :</strong> Trois tentatives effectuées sur trois autorisées</p>
+  </details>
 </div>
 
 — +2, annonça Hasol.
@@ -5154,12 +5427,19 @@ Elle retira ses mains et lui présenta le travail qu’elle venait de terminer. 
 Orven releva les yeux. Il revint aux commandes terminées, suivit du doigt les tentatives, puis demanda s’il pouvait voir les informations utiles. Hasol hésita le temps de refermer les autres rubriques de son interface privée. Ils étaient seuls dans l’atelier ; elle partagea son niveau et sa capacité de Mana, avec le bonus distingué.
 
 <div class="system-window character-sheet lit-window" data-window-id="038" data-window-type="caracteristiques">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/038-mobile.svg">
+    <img src="assets/fenetres/038.svg" alt="Fenêtre du système — CARACTÉRISTIQUES — HASOL SHUN">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CARACTÉRISTIQUES — HASOL SHUN</div>
   <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">10</span></p>
   <p class="lit-window__row"><strong>Mana naturel :</strong> <span class="lit-window__value">355</span></p>
   <p><strong>Bonus runique connu :</strong> <span class="rune-bonus">Mana +20</span></p>
   <p><strong>Réserve disponible :</strong> Partiellement consommée par le travail de la journée</p>
+  </details>
 </div>
 
 Orven se rapprocha pour lire. Il resta silencieux plus longtemps qu’elle ne l’avait prévu, puis posa sa main à plat près du registre.
@@ -5733,9 +6013,16 @@ Zio poursuivit :
 
 — Merci.
 <div class="character-sheet lit-window" data-window-id="039" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/039-mobile.svg">
+    <img src="assets/fenetres/039.svg" alt="Fenêtre du système — ZIO NOTOS">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>ZIO NOTOS</div>
   <p><strong>Classe :</strong> Gardien — <span class="lit-badge lit-badge--rare">Rare</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">45</span></p>
+  </details>
 </div>
 
 Hasol baissa brièvement les yeux.
@@ -5906,10 +6193,17 @@ Yoon acquiesça.
 
 — Oui.
 <div class="character-sheet lit-window" data-window-id="040" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/040-mobile.svg">
+    <img src="assets/fenetres/040.svg" alt="Fenêtre du système — YOON NOTOS — SAGE RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>YOON NOTOS — SAGE RUNIQUE</div>
   <p><strong>Rareté :</strong> <span class="lit-badge lit-badge--rare">Rare</span> — <strong>Niveau actuel :</strong> 5</p>
   <p class="lit-window__row"><strong>Âge :</strong> <span class="lit-window__value">16 ans</span></p>
   <p><strong>Compétences disponibles depuis la Révélation :</strong> Résonance runique ; Chant runique ; Vague runique.</p>
+  </details>
 </div>
 
 Hasol la contempla avec admiration.
@@ -6026,11 +6320,18 @@ Elle ajouta avec une pointe de fierté :
 
 — Et je préfère participer plutôt que rester cachée derrière un arbre en attendant qu’on m’appelle.
 <div class="system-window lit-window" data-window-id="041" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/041-mobile.svg">
+    <img src="assets/fenetres/041.svg" alt="Fenêtre du système — VAGUE RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>VAGUE RUNIQUE</div>
   <p><strong>Obtention :</strong> Niveau 1 — <strong>Élément :</strong> Lumière</p>
   <p><strong>Coût :</strong> 5 Mana — <strong>Portée :</strong> 10 mètres</p>
   <p><strong>Incantation :</strong> 5 secondes — <strong>Récupération :</strong> Aucune</p>
   <p><strong>Puissance annoncée :</strong> 20 % de la Puissance arcanique de Yoon, avant résolution des défenses et interactions applicables.</p>
+  </details>
 </div>
 
 Hasol lui adressa un sourire.
@@ -6556,11 +6857,18 @@ Elle sentit son corps devenir plus réactif.
 Sa prise sur l’épée se raffermit.
 
 <div class="system-window lit-window" data-window-id="042" data-window-type="effet-temporaire">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/042-mobile.svg">
+    <img src="assets/fenetres/042.svg" alt="Fenêtre du système — EFFET TEMPORAIRE ACTIF">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 3"/></svg>EFFET TEMPORAIRE ACTIF</div>
   <p><strong>Résonance runique — Yoon Notos</strong></p>
   <p class="lit-window__row"><strong>Cible :</strong> <span>Hasol Shun</span></p>
   <p><span class="temporary-bonus">Caractéristiques principales des runes équipées temporairement amplifiées.</span></p>
   <p>Caractéristiques secondaires et bonus d’ensemble : inchangés.</p>
+  </details>
 </div>
 
 Hasol sourit.
@@ -7069,11 +7377,18 @@ Hasol sentit ses joues chauffer.
 
 — Je veux dire… je connais la théorie.
 <div class="system-window lit-window" data-window-id="043" data-window-type="regle">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/043-mobile.svg">
+    <img src="assets/fenetres/043.svg" alt="Fenêtre du système — RAPPEL DES AFFINITÉS ÉLÉMENTAIRES">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>RAPPEL DES AFFINITÉS ÉLÉMENTAIRES</div>
   <p><strong>Cycle :</strong> Eau → Feu → Terre → Eau.</p>
   <p><strong>Sens favorable :</strong> dégâts finaux et précision ×1,25 ; sens inverse ×0,75.</p>
   <p><strong>Lumière et Ténèbres :</strong> neutres l’une envers l’autre. Face aux éléments du cycle : ×1,20 ; dans le sens inverse : ×0,80.</p>
   <p>Ces interactions concernent les attaques élémentaires ; la Lumière de Vague runique ne définit pas l’élément de toute la classe de Yoon.</p>
+  </details>
 </div>
 
 Zio haussa légèrement un sourcil.
@@ -7660,10 +7975,17 @@ Hasol acquiesça.
 
 — Bien. C’est le minimum pour manier une arme imprégnée d’une aura.
 <div class="system-window lit-window" data-window-id="044" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/044-mobile.svg">
+    <img src="assets/fenetres/044.svg" alt="Fenêtre du système — ARME IMPRÉGNÉE D’UNE AURA">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5"/></svg>ARME IMPRÉGNÉE D’UNE AURA</div>
   <p class="lit-window__row"><strong>Niveau minimum du porteur :</strong> <span class="lit-window__value">10</span></p>
   <p><strong>Projet pour l’arme d’Hasol :</strong> Imprégnation de Terre par le forgeron.</p>
   <p>Cette condition ne concerne pas l’équipement des runes.</p>
+  </details>
 </div>
 
 Il reposa l’épée.
@@ -8053,12 +8375,19 @@ Puis acquiesça.
 Elle partagea uniquement la partie de son statut concernant ses cercles et ses emplacements runiques.
 
 <div class="system-window character-sheet lit-window" data-window-id="045" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/045-mobile.svg">
+    <img src="assets/fenetres/045.svg" alt="Fenêtre du système — ÉTAT RUNIQUE — HASOL SHUN">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>ÉTAT RUNIQUE — HASOL SHUN</div>
   <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">10</span></p>
   <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">10</span></p>
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">10 / 10</span></p>
   <p><strong>Compétences passives :</strong> Bénédiction runique ; Croissance runique</p>
+  </details>
 </div>
 Yoon cessa de respirer pendant une seconde.
 
@@ -8307,11 +8636,18 @@ Zio secoua la tête avec amusement.
 Les deux jeunes filles confirmèrent leur association dans leur interface d’équipe.
 
 <div class="system-window lit-window" data-window-id="046" data-window-type="equipe">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/046-mobile.svg">
+    <img src="assets/fenetres/046.svg" alt="Fenêtre du système — FORMATION D’ÉQUIPE CONFIRMÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>FORMATION D’ÉQUIPE CONFIRMÉE</div>
   <p><strong>Membres :</strong> 2 / 5 — <strong>Points de classe :</strong> 30 / 50</p>
   <p>Hasol Shun — Arcaniste runique, <span class="lit-badge lit-badge--legendary">Légendaire</span> — 20 points</p>
   <p>Yoon Notos — Sage runique, <span class="lit-badge lit-badge--rare">Rare</span> — 10 points</p>
   <p class="lit-window__row"><strong>Statut :</strong> <span>Équipe constituée</span></p>
+  </details>
 </div>
 
 Hasol relut les informations.
@@ -9086,10 +9422,17 @@ La jeune femme ne répondit pas.
 Elle regardait la fenêtre qui venait de s’ouvrir.
 
 <div class="system-window level-up lit-window" data-window-id="047" data-window-type="niveau">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/047-mobile.svg">
+    <img src="assets/fenetres/047.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
   <p><strong>Hasol Shun — Niveau 11 atteint</strong></p>
   <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
   <p>Augmentation des caractéristiques naturelles appliquée.</p>
+  </details>
 </div>
 
 Hasol sentit son cœur bondir.
@@ -9183,12 +9526,19 @@ Une autre fenêtre venait de s’ouvrir.
 Elle n’avait jamais vu cette notification auparavant.
 
 <div class="system-window legendary lit-window" data-window-id="048" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/048-mobile.svg">
+    <img src="assets/fenetres/048.svg" alt="Fenêtre du système — ÉVEIL DE COMPÉTENCE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>ÉVEIL DE COMPÉTENCE</div>
   <p>L’hôte a combattu avec succès des monstres en exploitant leurs faiblesses élémentaires. Condition d’éveil remplie.</p>
   <p><strong>Aura runique</strong> — Compétence active d’Arcaniste runique, <span class="lit-badge lit-badge--legendary">Légendaire</span></p>
   <p><strong>Effet :</strong> Imprègne une arme de l’hôte ou d’un allié d’une aura élémentaire au choix.</p>
   <p><strong>Coût :</strong> 200 Mana et destruction définitive d’une rune quelconque, quels que soient son rang et sa rareté.</p>
   <p class="lit-window__row"><strong>Durée :</strong> <span class="lit-window__value">24 heures.</span></p>
+  </details>
 </div>
 
 Hasol resta immobile.
@@ -10746,11 +11096,18 @@ Elle venait d’imprégner une arme d’une énergie élémentaire.
 
 Sans l’aide d’un forgeron.
 <div class="system-window lit-window" data-window-id="049" data-window-type="effet-temporaire">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/049-mobile.svg">
+    <img src="assets/fenetres/049.svg" alt="Fenêtre du système — AURA RUNIQUE — IMPRÉGNATION RÉUSSIE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 3"/></svg>AURA RUNIQUE — IMPRÉGNATION RÉUSSIE</div>
   <p><strong>Arme :</strong> Épée d’essai — <strong>Élément choisi :</strong> Feu</p>
   <p class="lit-window__row"><strong>Mana consommé :</strong> <span class="lit-window__value">200</span></p>
   <p><strong>Rune sacrifiée :</strong> <span class="lit-badge lit-badge--rune-common">Commune (blanche)</span>, 1★ — détruite définitivement.</p>
   <p class="lit-window__row"><strong>Durée de l’aura :</strong> <span class="lit-window__value">24 heures.</span></p>
+  </details>
 </div>
 
 Orven s’approcha immédiatement.
@@ -11402,12 +11759,19 @@ Hasol sentit une vibration brutale traverser ses cercles.
 Une lumière dorée jaillit devant elle.
 
 <div class="system-window legendary lit-window" data-window-id="050" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/050-mobile.svg">
+    <img src="assets/fenetres/050.svg" alt="Fenêtre du système — ACTIVATION CRITIQUE — ÉVOLUTION DE COMPÉTENCE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>ACTIVATION CRITIQUE — ÉVOLUTION DE COMPÉTENCE</div>
   <p><strong>Compétence :</strong> Aura runique — critique au lancement.</p>
   <p><strong>Effet supplémentaire :</strong> Infiltration runique.</p>
   <p><span class="temporary-bonus">Pendant les 30 premières secondes suivant l’activation critique, chaque attaque portée avec l’arme imprégnée inflige au minimum des dégâts égaux à la Puissance arcanique actuelle de Hasol.</span></p>
   <p>La Défense de la cible n’est pas réduite. Un critique à l’épée ne déclenche pas cet effet.</p>
   <p><strong>Aura élémentaire :</strong> durée normale de 24 heures conservée.</p>
+  </details>
 </div>
 
 Hasol resta figée.
@@ -12017,10 +12381,17 @@ Hasol activa l’identification habituelle.
 Les niveaux apparurent.
 
 <div class="system-window monster lit-window" data-window-id="051" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/051-mobile.svg">
+    <img src="assets/fenetres/051.svg" alt="Fenêtre du système — ADVERSAIRES IDENTIFIÉS">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>ADVERSAIRES IDENTIFIÉS</div>
   <p>Loup gris — Niveau 7</p>
   <p>Loup gris — Niveau 8</p>
   <p>Loup gris — Niveau 9</p>
+  </details>
 </div>
 
 Yoon inspira brusquement.
@@ -12467,10 +12838,17 @@ Mais elles avaient affronté trois adversaires plus dangereux que ceux de leurs 
 
 Et elles avaient gagné.
 <div class="system-window lit-window" data-window-id="052" data-window-type="bilan">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/052-mobile.svg">
+    <img src="assets/fenetres/052.svg" alt="Fenêtre du système — BILAN DU PASSAGE ÉTROIT">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>BILAN DU PASSAGE ÉTROIT</div>
   <p><strong>Adversaires vaincus :</strong> Trois loups gris, niveaux 7, 8 et 9.</p>
   <p><strong>Hasol :</strong> Niveau 11 — dix cercles, dix runes équipées.</p>
   <p><strong>Arme :</strong> Aura de Terre du forgeron ; aucune activation d’Aura runique pendant ce combat.</p>
+  </details>
 </div>
 
 Ensemble.
@@ -12806,20 +13184,34 @@ Depuis sa découverte, une idée ne la quittait plus : augmenter sa Puissance ar
 L’ensemble Arcanique semblait parfaitement adapté.
 
 <div class="rune-window lit-window" data-window-id="053" data-window-type="ensemble">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/053-mobile.svg">
+    <img src="assets/fenetres/053.svg" alt="Fenêtre du système — ENSEMBLE ARCANIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ENSEMBLE ARCANIQUE</div>
   <p><strong>Condition :</strong> 4 pièces équipées.</p>
   <p><span class="rune-bonus">Bonus d’ensemble : +1 200 Puissance arcanique.</span></p>
   <p>Deux ou trois pièces : aucun bonus d’ensemble.</p>
+  </details>
 </div>
 
 Avec les règles de calcul des critiques, ce bonus représentait à lui seul quinze points supplémentaires de taux critique, auxquels s’ajoutaient les cinq pour cent de base.
 
 Et il augmentait également ses dégâts critiques.
 <div class="system-window lit-window" data-window-id="054" data-window-type="regle">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/054-mobile.svg">
+    <img src="assets/fenetres/054.svg" alt="Fenêtre du système — PUISSANCE ARCANIQUE ET CRITIQUES">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>PUISSANCE ARCANIQUE ET CRITIQUES</div>
   <p><strong>CC (%) :</strong> 5 + (Puissance arcanique effective / 80) + Bonus CC</p>
   <p><strong>DCC (%) :</strong> 150 + (Puissance arcanique effective / 100) + Bonus DCC</p>
   <p>À 100 % de CC ou davantage, une action éligible est toujours critique, sans surcritique.</p>
+  </details>
 </div>
 
 Le problème était ailleurs.
@@ -13252,11 +13644,18 @@ Hasol acquiesça.
 
 — Je comprends.
 <div class="system-window lit-window" data-window-id="055" data-window-type="bilan">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/055-mobile.svg">
+    <img src="assets/fenetres/055.svg" alt="Fenêtre du système — COMPARAISON DES SÉRIES D’AMÉLIORATION">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>COMPARAISON DES SÉRIES D’AMÉLIORATION</div>
   <p><strong>Orven :</strong> 20 échecs / 80 tentatives — 25 %.</p>
   <p><strong>Hasol :</strong> 14 échecs / 80 tentatives — 17,5 %.</p>
   <p><strong>Écart :</strong> 7,5 points de pourcentage ; réduction relative de 30 % des échecs.</p>
   <p>Résultats de séries comparables, pas une réussite garantie.</p>
+  </details>
 </div>
 
 Orven resta silencieux quelques instants.
@@ -13779,11 +14178,18 @@ Il croisa les bras.
 
 — Mais nous continuerons à vérifier. Je ne veux pas inventer une fréquence exacte à partir de données encore limitées.
 <div class="system-window lit-window" data-window-id="056" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/056-mobile.svg">
+    <img src="assets/fenetres/056.svg" alt="Fenêtre du système — BÉNÉDICTION RUNIQUE — OBSERVATIONS">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>BÉNÉDICTION RUNIQUE — OBSERVATIONS</div>
   <p><span class="passive-badge">Passive</span></p>
   <p><strong>Réussite :</strong> Environ 30 % d’échecs en moins relativement aux séries comparables d’Orven.</p>
   <p><strong>Qualité :</strong> Maximum très fréquent lors d’un renforcement variable effectivement déclenché après une réussite.</p>
   <p>Maximum non garanti, fréquence exacte non fixée ; ni choix de la caractéristique, ni dépassement des limites de la rune.</p>
+  </details>
 </div>
 
 Hasol acquiesça.
@@ -14381,10 +14787,17 @@ Les inscriptions brillèrent un instant.
 Hasol retint son souffle.
 
 <div class="rune-window success lit-window" data-window-id="057" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/057-mobile.svg">
+    <img src="assets/fenetres/057.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
   <p><strong>Rune d’épreuve :</strong> Ensemble, grade et rang en étoiles : À DÉFINIR.</p>
   <p><strong>Niveau atteint :</strong> <span class="upgrade-badge">+6</span></p>
   <p>Commande du Griffon d’Argent — rune distincte de l’équipement personnel d’Hasol.</p>
+  </details>
 </div>
 
 Elle expira.
@@ -14884,10 +15297,17 @@ Elle en prit une délicatement.
 La pierre était légèrement tiède.
 
 <div class="rune-window lit-window" data-window-id="058" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/058-mobile.svg">
+    <img src="assets/fenetres/058.svg" alt="Fenêtre du système — RUNE ARCANIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE ARCANIQUE</div>
   <p><strong>Ensemble :</strong> Arcanique — <strong>Grade et rang :</strong> À DÉFINIR.</p>
   <p><span class="rune-bonus">Caractéristique principale : Puissance arcanique.</span></p>
   <p>Valeurs et caractéristiques secondaires : À DÉFINIR.</p>
+  </details>
 </div>
 
 Hasol sourit.
@@ -14973,11 +15393,18 @@ Une sensation nouvelle parcourut son corps.
 Elle consulta son interface.
 
 <div class="character-sheet lit-window" data-window-id="059" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/059-mobile.svg">
+    <img src="assets/fenetres/059.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>ÉQUIPEMENT RUNIQUE</div>
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">10 / 10</span></p>
   <p><strong>Composition :</strong> 4 Fatal ; 2 Gardien ; 2 Énergie ; 2 Arcanique.</p>
   <p><strong>Origines :</strong> Deux cadeaux paternels <span class="lit-badge lit-badge--rune-rare">rares (bleus)</span>, 6★, +6 ; six runes maternelles 3★ ; deux Arcanique de grades et rangs À DÉFINIR.</p>
   <p><strong>Ensembles :</strong> Fatal, Gardien et Énergie actifs ; Arcanique 2 / 4 — inactif.</p>
+  </details>
 </div>
 Les bonus Fatal, Gardien et Énergie encore réunis restaient actifs.
 
@@ -15226,6 +15653,12 @@ Hasol retint son souffle.
 Il lui montra le bilan.
 
 <div class="character-sheet lit-window" data-window-id="060" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/060-mobile.svg">
+    <img src="assets/fenetres/060.svg" alt="Fenêtre du système — ÉQUIPEMENT D’HASOL — BILAN">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>ÉQUIPEMENT D’HASOL — BILAN</div>
   <p><strong>Runes équipées :</strong> 10 / 10 — <strong>Cercles :</strong> 10</p>
   <p><strong>Améliorations :</strong> 6 runes <span class="upgrade-badge">+6</span> ; 4 runes <span class="upgrade-badge">+3</span>.</p>
@@ -15233,6 +15666,7 @@ Il lui montra le bilan.
   <p><strong>Arcanique :</strong> 2 / 4 — bonus inactif.</p>
   <p><strong>Cadeaux paternels :</strong> Fatal et Gardien <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 — inchangées.</p>
   <p><strong>Autres pièces :</strong> Six maternelles 3★, grades actuels À DÉFINIR ; deux Arcanique, grades et rangs À DÉFINIR.</p>
+  </details>
 </div>
 
 Hasol contempla les chiffres.
@@ -15517,11 +15951,18 @@ Mais elle avait tenu plus longtemps que lors de ses premiers essais, et porté d
 
 Elle nota soigneusement le résultat.
 <div class="system-window lit-window" data-window-id="061" data-window-type="entrainement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/061-mobile.svg">
+    <img src="assets/fenetres/061.svg" alt="Fenêtre du système — EXERCICE TERMINÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE TERMINÉ</div>
   <p><strong>Adversaire simulé :</strong> Guerrier ordinaire — Niveau 10.</p>
   <p><strong>Touches portées :</strong> 3 — <strong>Touches reçues :</strong> 3.</p>
   <p><strong>Arrêt :</strong> Troisième touche reçue — défaite.</p>
   <p>Durée supérieure aux essais précédents.</p>
+  </details>
 </div>
 
 Puis regarda le mannequin.
@@ -16325,12 +16766,19 @@ Puis elle ouvrit son interface.
 Elle ne révéla que les informations qu’elle souhaitait partager.
 
 <div class="character-sheet lit-window" data-window-id="062" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/062-mobile.svg">
+    <img src="assets/fenetres/062.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE PARTAGÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>ÉQUIPEMENT RUNIQUE PARTAGÉ</div>
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">10 / 10.</span></p>
   <p><strong>Composition :</strong> 4 Fatal ; 2 Gardien ; 2 Énergie ; 2 Arcanique.</p>
   <p><strong>Améliorations :</strong> 6 runes <span class="upgrade-badge">+6</span> ; 4 runes <span class="upgrade-badge">+3</span>.</p>
   <p><strong>Origines :</strong> Deux paternelles <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; six maternelles 3★, grades actuels À DÉFINIR ; deux Arcanique, grades et rangs À DÉFINIR.</p>
   <p><strong>Arcanique :</strong> 2 / 4 — bonus inactif.</p>
+  </details>
 </div>
 
 Yoon parcourut les informations.
@@ -16516,9 +16964,16 @@ Puis riposta.
 Cette fois, au moment où sa lame atteignit l’animal, une notification traversa brièvement son champ de vision.
 
 <div class="system-window lit-window" data-window-id="063" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/063-mobile.svg">
+    <img src="assets/fenetres/063.svg" alt="Fenêtre du système — COUP CRITIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>COUP CRITIQUE</div>
   <p><strong>Action :</strong> Attaque à l’épée.</p>
   <p>Aucune activation d’Aura runique ; Infiltration runique non déclenchée.</p>
+  </details>
 </div>
 
 Le choc fut sensiblement plus violent.
@@ -17182,8 +17637,15 @@ Ses crocs brillaient entre ses babines retroussées.
 Une fenêtre apparut.
 
 <div class="system-window monster lit-window" data-window-id="064" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/064-mobile.svg">
+    <img src="assets/fenetres/064.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
   <p><strong>Loup alpha — Niveau 12</strong></p>
+  </details>
 </div>
 
 Hasol resta immobile.
@@ -17784,10 +18246,17 @@ Ses autres principales équipées bénéficièrent du même effet selon leur nat
 
 Mais les caractéristiques secondaires et les bonus d’ensemble restèrent inchangés.
 <div class="system-window lit-window" data-window-id="065" data-window-type="effet-temporaire">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/065-mobile.svg">
+    <img src="assets/fenetres/065.svg" alt="Fenêtre du système — RÉSONANCE RUNIQUE — EFFET TEMPORAIRE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 3"/></svg>RÉSONANCE RUNIQUE — EFFET TEMPORAIRE</div>
   <p><strong>Yoon cible Hasol.</strong></p>
   <p><span class="temporary-bonus">Caractéristiques principales des runes équipées amplifiées.</span></p>
   <p>Secondaires et bonus d’ensemble inchangés.</p>
+  </details>
 </div>
 
 Hasol sentit une énergie nouvelle parcourir son équipement.
@@ -17839,8 +18308,15 @@ Et frappa de nouveau.
 Une notification traversa son champ de vision.
 
 <div class="system-window lit-window" data-window-id="066" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/066-mobile.svg">
+    <img src="assets/fenetres/066.svg" alt="Fenêtre du système — COUP CRITIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>COUP CRITIQUE</div>
   <p><strong>Action :</strong> Attaque à l’épée — distincte du critique d’activation d’Aura runique.</p>
+  </details>
 </div>
 
 La lame pénétra beaucoup plus profondément dans le flanc du loup.
@@ -18244,9 +18720,16 @@ L’animal ne bougea plus.
 Une notification apparut.
 
 <div class="system-window success lit-window" data-window-id="067" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/067-mobile.svg">
+    <img src="assets/fenetres/067.svg" alt="Fenêtre du système — ÉLIMINATION CONFIRMÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>ÉLIMINATION CONFIRMÉE</div>
   <p><strong>Loup alpha — Niveau 12</strong></p>
   <p>Expérience obtenue.</p>
+  </details>
 </div>
 
 Hasol lut les mots.
@@ -19678,9 +20161,16 @@ Les inscriptions lumineuses se déployèrent autour de ses doigts.
 Une pierre de mana se consuma.
 
 <div class="rune-window success lit-window" data-window-id="068" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/068-mobile.svg">
+    <img src="assets/fenetres/068.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
   <p><strong>Rune :</strong> Énergie maternelle, 3★ — grade actuel et étape exacte : À DÉFINIR.</p>
   <p>Pierres de mana consommées et Mana personnel dépensé.</p>
+  </details>
 </div>
 
 Hasol sourit.
@@ -19690,9 +20180,16 @@ Elle prépara la tentative suivante.
 Cette fois, la lumière vacilla.
 
 <div class="rune-window lit-window" data-window-id="069" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/069-mobile.svg">
+    <img src="assets/fenetres/069.svg" alt="Fenêtre du système — AMÉLIORATION ÉCHOUÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 8 8 8 M16 8l-8 8"/></svg>AMÉLIORATION ÉCHOUÉE</div>
   <p><strong>Rune :</strong> Énergie maternelle, 3★ — grade actuel et étape exacte : À DÉFINIR.</p>
   <p>Aucune progression ; ressources engagées consommées.</p>
+  </details>
 </div>
 
 Elle soupira.
@@ -19714,10 +20211,17 @@ D'autres exigèrent davantage de ressources.
 Mais à la fin de la séance, la première rune avait atteint le palier recherché.
 
 <div class="rune-window success lit-window" data-window-id="070" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/070-mobile.svg">
+    <img src="assets/fenetres/070.svg" alt="Fenêtre du système — PALIER ATTEINT">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>PALIER ATTEINT</div>
   <p><strong>Rune :</strong> Énergie <span class="lit-badge lit-badge--rune-epic">épique (violette)</span>, 3★.</p>
   <p><strong>Amélioration :</strong> <span class="upgrade-badge">+9</span></p>
   <p>Principale renforcée et troisième secondaire présente.</p>
+  </details>
 </div>
 
 Hasol contempla la pierre.
@@ -20413,8 +20917,15 @@ Puis pencha la tête.
 Hasol ouvrit son interface.
 
 <div class="character-sheet lit-window" data-window-id="071" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/071-mobile.svg">
+    <img src="assets/fenetres/071.svg" alt="Fenêtre du système — STATUT D’HASOL SHUN">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>STATUT D’HASOL SHUN</div>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">12</span></p>
+  </details>
 </div>
 
 La jeune Sage sourit.
@@ -20574,8 +21085,15 @@ Elle s'arrêta près d'un vieux tronc.
 Puis ouvrit son interface.
 
 <div class="system-window lit-window" data-window-id="072" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/072-mobile.svg">
+    <img src="assets/fenetres/072.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE</div>
   <p><strong>Progression cumulée depuis le huitième palier :</strong> 999 / 1 000 éliminations admissibles, reliquat antérieur inclus.</p>
+  </details>
 </div>
 <!-- Raccord validé par l'auteur : le compteur inclut le reliquat des huit premiers paliers, dont la valeur isolée reste inconnue. Aucun ancien millier recompté. -->
 
@@ -20606,8 +21124,15 @@ Hasol tourna la tête.
 Un loup gris apparut.
 
 <div class="system-window monster lit-window" data-window-id="073" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/073-mobile.svg">
+    <img src="assets/fenetres/073.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
   <p><strong>Loup gris — Niveau 5</strong></p>
+  </details>
 </div>
 
 Elle contempla l'animal.
@@ -20637,8 +21162,15 @@ Puis pivota.
 Son épée frappa.
 
 <div class="system-window lit-window" data-window-id="074" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/074-mobile.svg">
+    <img src="assets/fenetres/074.svg" alt="Fenêtre du système — COUP CRITIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>COUP CRITIQUE</div>
   <p>Attaque à l’épée.</p>
+  </details>
 </div>
 
 Le loup s'effondra.
@@ -20652,10 +21184,17 @@ Une seconde passa.
 Puis une notification apparut.
 
 <div class="system-window success lit-window" data-window-id="075" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/075-mobile.svg">
+    <img src="assets/fenetres/075.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE — PALIER ATTEINT">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE — PALIER ATTEINT</div>
   <p><strong>Progression cumulée depuis le huitième palier :</strong> 1 000 éliminations admissibles, reliquat antérieur inclus.</p>
   <p>Nouveau cercle de mana et nouvel emplacement runique obtenus.</p>
   <p class="lit-window__row"><strong>Cercles :</strong> <span class="lit-window__value">10 → 11.</span></p>
+  </details>
 </div>
 
 Hasol ouvrit de grands yeux.
@@ -20811,11 +21350,18 @@ Toutes deux possédaient deux étoiles.
 Mais leurs caractéristiques principales correspondaient exactement à ce que recherchait Hasol.
 
 <div class="rune-window lit-window" data-window-id="076" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/076-mobile.svg">
+    <img src="assets/fenetres/076.svg" alt="Fenêtre du système — DEUX NOUVELLES RUNES ARCANIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>DEUX NOUVELLES RUNES ARCANIQUE</div>
   <p><strong>Rang :</strong> 2★ chacune — <strong>Grades :</strong> À DÉFINIR.</p>
   <p><strong>Amélioration :</strong> <span class="upgrade-badge">+6</span> chacune.</p>
   <p><span class="rune-bonus">Caractéristique principale : Puissance arcanique.</span></p>
   <p>Valeurs et secondaires : À DÉFINIR.</p>
+  </details>
 </div>
 
 Hasol contempla les fiches.
@@ -20936,9 +21482,16 @@ Les inscriptions lumineuses se déployèrent autour de ses cercles.
 Une notification apparut.
 
 <div class="rune-window success lit-window" data-window-id="077" data-window-type="ensemble">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/077-mobile.svg">
+    <img src="assets/fenetres/077.svg" alt="Fenêtre du système — ENSEMBLE ARCANIQUE ACTIVÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ENSEMBLE ARCANIQUE ACTIVÉ</div>
   <p class="lit-window__row"><strong>Pièces équipées :</strong> <span class="lit-window__value">4 / 4.</span></p>
   <p><span class="rune-bonus">Bonus d’ensemble : Puissance arcanique +1 200.</span></p>
+  </details>
 </div>
 
 Hasol cessa de respirer.
@@ -21012,12 +21565,19 @@ Une lumière douce traversa la pierre.
 Hasol contempla sa nouvelle configuration.
 
 <div class="character-sheet lit-window" data-window-id="078" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/078-mobile.svg">
+    <img src="assets/fenetres/078.svg" alt="Fenêtre du système — HASOL SHUN — ONZE CERCLES">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>HASOL SHUN — ONZE CERCLES</div>
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">11 / 11.</span></p>
   <p><strong>Fatal :</strong> 4 — ensemble actif.</p>
   <p><strong>Arcanique :</strong> 4 — ensemble actif.</p>
   <p><strong>Gardien :</strong> 3 — une paire active ; <strong>Énergie :</strong> 0.</p>
   <p><strong>Origines :</strong> Deux paternelles <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; cinq maternelles 3★, grades actuels À DÉFINIR ; deux premières Arcanique, grades et rangs À DÉFINIR ; deux nouvelles Arcanique, 2★, grades À DÉFINIR.</p>
+  </details>
 </div>
 
 La rune Gardien bleue six étoiles +6 offerte par son père restait équipée.
@@ -21432,11 +21992,18 @@ Une lumière douce parcourut ses cercles.
 Une notification apparut.
 
 <div class="rune-window success lit-window" data-window-id="079" data-window-type="ensemble">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/079-mobile.svg">
+    <img src="assets/fenetres/079.svg" alt="Fenêtre du système — ENSEMBLE ÉNERGIE ACTIVÉ — YOON">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ENSEMBLE ÉNERGIE ACTIVÉ — YOON</div>
   <p><strong>Runes :</strong> Deux Énergie <span class="lit-badge lit-badge--rune-epic">épiques (violettes)</span>, 3★, +9, offertes par Hasol.</p>
   <p class="lit-window__row"><strong>Pièces équipées :</strong> <span class="lit-window__value">2 / 2.</span></p>
   <p><span class="rune-bonus">Bonus d’ensemble : PV maximums +15 %.</span></p>
   <p><strong>Anciennes runes :</strong> Conservées dans l’inventaire à +6 ; grades et rangs À DÉFINIR.</p>
+  </details>
 </div>
 
 Yoon contempla sa fiche.
@@ -21800,11 +22367,18 @@ Elle ne savait pas encore comment faire.
 Puis, quelques jours plus tard, lors d'un nouvel exercice difficile, une notification apparut.
 
 <div class="system-window level-up lit-window" data-window-id="080" data-window-type="niveau">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/080-mobile.svg">
+    <img src="assets/fenetres/080.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR — YOON NOTOS">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR — YOON NOTOS</div>
   <p class="lit-window__row"><strong>Niveau atteint :</strong> <span class="lit-window__value">20.</span></p>
   <p><strong>Nouvelle compétence :</strong> Domaine des Entraves Runiques.</p>
   <p>Cercle violet d’écritures runiques au sol : ralentit les ennemis sans les immobiliser, alliés épargnés.</p>
   <p>Consommation de Mana pour le maintien ; résistance partielle des adversaires puissants.</p>
+  </details>
 </div>
 
 Yoon resta immobile.
@@ -22204,8 +22778,15 @@ Elle attendit qu'il engage son mouvement.
 Puis frappa.
 
 <div class="system-window lit-window" data-window-id="081" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/081-mobile.svg">
+    <img src="assets/fenetres/081.svg" alt="Fenêtre du système — COUP CRITIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>COUP CRITIQUE</div>
   <p>Attaque à l’épée.</p>
+  </details>
 </div>
 
 Le loup s'effondra.
@@ -22267,8 +22848,15 @@ Ces trois voies se complétaient.
 Hasol consulta son interface.
 
 <div class="character-sheet lit-window" data-window-id="082" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/082-mobile.svg">
+    <img src="assets/fenetres/082.svg" alt="Fenêtre du système — STATUT D’HASOL SHUN">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>STATUT D’HASOL SHUN</div>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">19</span></p>
+  </details>
 </div>
 
 Elle sourit.
@@ -22282,8 +22870,15 @@ Elle devait donc obtenir son douzième cercle avant de devoir changer de terrain
 Hasol ouvrit son compteur.
 
 <div class="system-window lit-window" data-window-id="083" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/083-mobile.svg">
+    <img src="assets/fenetres/083.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE</div>
   <p><strong>Progression cumulée depuis le huitième palier :</strong> 1 998 / 2 000 éliminations admissibles, reliquat antérieur inclus.</p>
+  </details>
 </div>
 <!-- Raccord validé par l'auteur : suivi cumulatif après le huitième palier, reliquat inclus ; le neuvième millier n'est pas récompensé une deuxième fois. -->
 
@@ -22320,8 +22915,15 @@ Un second coup termina le combat.
 Elle consulta son compteur.
 
 <div class="system-window lit-window" data-window-id="084" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/084-mobile.svg">
+    <img src="assets/fenetres/084.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE</div>
   <p><strong>Progression cumulée depuis le huitième palier :</strong> 1 999 / 2 000, reliquat antérieur inclus.</p>
+  </details>
 </div>
 
 Hasol sentit son cœur accélérer.
@@ -22371,8 +22973,15 @@ Elle évita sa gueule.
 Puis frappa.
 
 <div class="system-window lit-window" data-window-id="085" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/085-mobile.svg">
+    <img src="assets/fenetres/085.svg" alt="Fenêtre du système — COUP CRITIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>COUP CRITIQUE</div>
   <p>Attaque à l’épée.</p>
+  </details>
 </div>
 
 Le monstre s'effondra.
@@ -22380,10 +22989,17 @@ Le monstre s'effondra.
 Une notification apparut immédiatement.
 
 <div class="system-window success lit-window" data-window-id="086" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/086-mobile.svg">
+    <img src="assets/fenetres/086.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE — PALIER ATTEINT">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE — PALIER ATTEINT</div>
   <p><strong>Progression cumulée depuis le huitième palier :</strong> 2 000 éliminations admissibles, reliquat antérieur inclus.</p>
   <p>Nouveau cercle de mana et nouvel emplacement runique obtenus.</p>
   <p class="lit-window__row"><strong>Cercles :</strong> <span class="lit-window__value">11 → 12.</span></p>
+  </details>
 </div>
 
 Hasol resta immobile.
@@ -22611,6 +23227,12 @@ Les inscriptions lumineuses se déployèrent autour de ses cercles.
 Son équipement était désormais composé de :
 
 <div class="character-sheet lit-window" data-window-id="087" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/087-mobile.svg">
+    <img src="assets/fenetres/087.svg" alt="Fenêtre du système — HASOL SHUN — ÉQUIPEMENT RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>HASOL SHUN — ÉQUIPEMENT RUNIQUE</div>
   <p><strong>Classe :</strong> Arcaniste runique — <span class="lit-badge lit-badge--legendary">Légendaire</span>.</p>
   <p><strong>Niveau :</strong> 19 — <strong>Cercles :</strong> 12 — <strong>Runes équipées :</strong> 12 / 12.</p>
@@ -22618,6 +23240,7 @@ Son équipement était désormais composé de :
   <p><strong>Arcanique :</strong> 4 — <span class="rune-bonus">Puissance arcanique +1 200.</span></p>
   <p><strong>Gardien :</strong> 4 — deux paires, <span class="rune-bonus">Défense +15 % +15 % = +30 %.</span></p>
   <p><strong>Origines :</strong> Deux paternelles <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; six maternelles 3★, grades actuels À DÉFINIR ; deux premières Arcanique, grades et rangs À DÉFINIR ; deux nouvelles Arcanique, 2★, grades À DÉFINIR.</p>
+  </details>
 </div>
 
 La rune Gardien bleue six étoiles +6 offerte par son père restait équipée.
@@ -22723,8 +23346,15 @@ Hasol éclata de rire.
 Yoon ouvrit fièrement son interface.
 
 <div class="character-sheet lit-window" data-window-id="088" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/088-mobile.svg">
+    <img src="assets/fenetres/088.svg" alt="Fenêtre du système — YOON NOTOS — SAGE RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>YOON NOTOS — SAGE RUNIQUE</div>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">24</span></p>
+  </details>
 </div>
 
 Hasol ouvrit de grands yeux.
@@ -22860,8 +23490,15 @@ Puis elle remarqua quelque chose.
 Hasol ouvrit sa fiche.
 
 <div class="character-sheet lit-window" data-window-id="089" data-window-type="personnage">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/089-mobile.svg">
+    <img src="assets/fenetres/089.svg" alt="Fenêtre du système — HASOL SHUN — ARCANISTE RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>HASOL SHUN — ARCANISTE RUNIQUE</div>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">19</span></p>
+  </details>
 </div>
 
 Yoon contempla le chiffre.
@@ -23615,10 +24252,17 @@ Comme s’il savait que ses proies ne pouvaient plus lui échapper.
 Hasol concentra son regard.
 
 <div class="system-window monster lit-window" data-window-id="092" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/092-mobile.svg">
+    <img src="assets/fenetres/092.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
   <h3>Loup alpha élite</h3>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">26</span></p>
   <p class="lit-window__row"><strong>Catégorie :</strong> <span>Élite</span></p>
+  </details>
 </div>
 
 — Niveau vingt-six…, murmura-t-elle.
@@ -24168,10 +24812,17 @@ Puis une autre.
 Le monstre ne bougea plus.
 
 <div class="system-window success lit-window" data-window-id="093" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/093-mobile.svg">
+    <img src="assets/fenetres/093.svg" alt="Fenêtre du système — ENNEMI VAINCU">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>ENNEMI VAINCU</div>
   <h3>Loup alpha élite — Niveau 26</h3>
   <p class="lit-window__row"><strong>Coup fatal :</strong> <span>Hasol Shun</span></p>
   <p class="lit-window__row"><strong>Expérience :</strong> <span>Acquise</span></p>
+  </details>
 </div>
 
 Hasol contempla le corps de l’animal.
@@ -24279,6 +24930,12 @@ Une chaleur familière parcourait ses cercles, suivie d’un étrange frémissem
 Elle leva les yeux.
 
 <div class="system-window level-up lit-window" data-window-id="094" data-window-type="niveau">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/094-mobile.svg">
+    <img src="assets/fenetres/094.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
   <h3>Hasol Shun</h3>
   <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
@@ -24286,6 +24943,7 @@ Elle leva les yeux.
   <hr>
   <p class="lit-window__row"><strong>Ancien niveau :</strong> <span class="lit-window__value">19</span></p>
   <p class="lit-window__row"><strong>Nouveau niveau :</strong> <span class="success-text lit-window__value">20</span></p>
+  </details>
 </div>
 
 Elle resta un instant sans voix.
@@ -24321,6 +24979,12 @@ Cette fois, la lumière était différente.
 De fines inscriptions turquoise se déployèrent devant ses yeux.
 
 <div class="system-window legendary lit-window" data-window-id="095" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/095-mobile.svg">
+    <img src="assets/fenetres/095.svg" alt="Fenêtre du système — NOUVELLE COMPÉTENCE DÉBLOQUÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>NOUVELLE COMPÉTENCE DÉBLOQUÉE</div>
   <h3>Œil runique</h3>
   <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
@@ -24332,6 +24996,7 @@ De fines inscriptions turquoise se déployèrent devant ses yeux.
   <p>Lorsque quatre caractéristiques secondaires sont présentes, l'ordre exact des renforcements intermédiaires peut demeurer indéterminé.</p>
   <p>Ne garantit pas la réussite des tentatives d'amélioration.</p>
   </div>
+  </details>
 </div>
 
 Hasol relut la description.
@@ -24453,6 +25118,12 @@ Hasol accepta finalement la pierre.
 Une fenêtre apparut.
 
 <div class="rune-window blue-grade lit-window" data-window-id="096" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/096-mobile.svg">
+    <img src="assets/fenetres/096.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
   <h3>Rune Vitesse</h3>
   <p class="lit-window__row"><strong>Grade :</strong> <span class="lit-badge lit-badge--rune-rare">Rare — Bleue</span></p>
@@ -24465,6 +25136,7 @@ Une fenêtre apparut.
     <li>Attaque <span class="rune-bonus">+8 %</span></li>
     <li>Puissance arcanique <span class="rune-bonus">+60</span></li>
   </ul>
+  </details>
 </div>
 
 Hasol se figea.
@@ -24894,6 +25566,12 @@ Hasol la reçut entre ses mains.
 Elle concentra immédiatement son regard.
 
 <div class="rune-window legendary lit-window" data-window-id="097" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/097-mobile.svg">
+    <img src="assets/fenetres/097.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
   <h3>Rune Énergie</h3>
   <p class="lit-window__row"><strong>Grade :</strong> <span class="legendary-text lit-badge lit-badge--rune-legendary">Légendaire — Orange</span></p>
@@ -24906,6 +25584,7 @@ Elle concentra immédiatement son regard.
   <p class="lit-window__row"><strong>Vitesse secondaire :</strong> <span class="rune-bonus lit-window__value">+4</span></p>
   <p class="lit-window__row"><strong>Défense secondaire :</strong> <span class="rune-bonus lit-window__value">+30</span></p>
   <p class="lit-window__row"><strong>Mana secondaire :</strong> <span class="rune-bonus lit-window__value">+20</span></p>
+  </details>
 </div>
 
 Hasol resta bouche bée.
@@ -25435,12 +26114,19 @@ Une nouvelle inscription apparut.
 Sa couleur pâle se teinta d’un léger vert.
 
 <div class="rune-window success lit-window" data-window-id="098" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/098-mobile.svg">
+    <img src="assets/fenetres/098.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
   <h3>Rune Énergie — 1★</h3>
   <p class="lit-window__row"><strong>Amélioration :</strong> <span class="upgrade-badge">+3</span></p>
   <p class="lit-window__row"><strong>Grade actuel :</strong> <span class="lit-badge lit-badge--rune-uncommon">Peu commun — Vert</span></p>
   <hr>
   <p class="lit-window__row"><strong>Nouvelle caractéristique secondaire :</strong> <span class="rune-bonus">Mana +10</span></p>
+  </details>
 </div>
 
 Hasol leva immédiatement les yeux.
@@ -25732,6 +26418,12 @@ Dans la première, il plaça le gain de +20 au palier +12.
 Dans la seconde, celui de +60.
 
 <div class="rune-window legendary lit-window" data-window-id="099" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/099-mobile.svg">
+    <img src="assets/fenetres/099.svg" alt="Fenêtre du système — ŒIL RUNIQUE — ANALYSE PERSONNELLE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ŒIL RUNIQUE — ANALYSE PERSONNELLE</div>
   <h3>Rune Énergie — <span class="lit-badge lit-badge--rune-legendary">Légendaire (orange)</span>, 4★</h3>
   <p class="lit-window__row"><strong>État actuel :</strong> <span class="lit-window__value">+9</span></p>
@@ -25751,6 +26443,7 @@ Dans la seconde, celui de +60.
   <p class="lit-window__row"><strong>Vitesse secondaire :</strong> <span class="rune-bonus lit-window__value">+4</span></p>
   <p class="lit-window__row"><strong>Défense secondaire :</strong> <span class="rune-bonus lit-window__value">+30</span></p>
   <p class="lit-window__row"><strong>Mana secondaire :</strong> <span class="rune-bonus lit-window__value">+20</span></p>
+  </details>
 </div>
 
 Hasol regarda la feuille.
@@ -26696,6 +27389,12 @@ Puis signa.
 La fenêtre de confirmation apparut devant eux.
 
 <div class="system-window success lit-window" data-window-id="100" data-window-type="equipe">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/100-mobile.svg">
+    <img src="assets/fenetres/100.svg" alt="Fenêtre du système — ÉQUIPE ACTUALISÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>ÉQUIPE ACTUALISÉE</div>
   <h3>Composition provisoire</h3>
   <p><strong>Hasol Shun :</strong> Arcaniste runique — <span class="lit-badge lit-badge--legendary">Légendaire</span> — 20 points</p>
@@ -26705,6 +27404,7 @@ La fenêtre de confirmation apparut devant eux.
   <p class="lit-window__row"><strong>Membres :</strong> <span class="lit-window__value">3 / 5</span></p>
   <p class="lit-window__row"><strong>Points de classe :</strong> <span class="lit-window__value">35 / 50</span></p>
   <p class="success-text">Condition de nombre de membres pour accéder aux donjons remplie.</p>
+  </details>
 </div>
 
 Hasol contempla longuement les trois noms.
@@ -26804,11 +27504,18 @@ Elle le prit délicatement.
 Une fenêtre apparut devant ses yeux.
 
 <div class="system-window lit-window" data-window-id="101" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/101-mobile.svg">
+    <img src="assets/fenetres/101.svg" alt="Fenêtre du système — OBJET IDENTIFIÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>OBJET IDENTIFIÉ</div>
   <h3>Anneau runique</h3>
   <p class="lit-window__row"><strong>Type :</strong> <span>Accessoire</span></p>
   <p><strong>Fonction :</strong> Inventaire spécialisé réservé aux runes.</p>
   <p>Permet de conserver des runes séparément des autres objets de l'inventaire.</p>
+  </details>
 </div>
 
 Hasol resta bouche bée.
@@ -28858,9 +29565,16 @@ Elle leva une main.
 Une fenêtre venait d’apparaître.
 
 <div class="system-window lit-window" data-window-id="102" data-window-type="niveau">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/102-mobile.svg">
+    <img src="assets/fenetres/102.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
   <p><strong>Personnage :</strong> Hasol Shun — Arcaniste runique</p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">20 → 21</span></p>
+  </details>
 </div>
 
 Hasol sourit largement.
@@ -28880,10 +29594,17 @@ De petites inscriptions turquoise se dessinèrent brièvement autour de l’Anne
 Hasol se figea.
 
 <div class="system-window lit-window" data-window-id="103" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/103-mobile.svg">
+    <img src="assets/fenetres/103.svg" alt="Fenêtre du système — NOUVELLE COMPÉTENCE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>NOUVELLE COMPÉTENCE</div>
   <p class="lit-window__row"><strong>Nom :</strong> <span>Aimant runique</span></p>
   <p class="lit-window__row"><strong>Type :</strong> <span class="passive-badge">Compétence passive</span></p>
   <p><strong>Effet :</strong> Les chances d’obtention de runes sont améliorées.</p>
+  </details>
 </div>
 
 Elle cligna des yeux.
@@ -29855,6 +30576,12 @@ Elle ajouta officiellement le nom de Zio à leur registre.
 Puis confirma la nouvelle composition.
 
 <div class="system-window lit-window" data-window-id="104" data-window-type="equipe">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/104-mobile.svg">
+    <img src="assets/fenetres/104.svg" alt="Fenêtre du système — ÉQUIPE ACTUALISÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>ÉQUIPE ACTUALISÉE</div>
   <p><strong>Composition :</strong> Officielle</p>
   <p><strong>Hasol Shun :</strong> Arcaniste runique, <span class="lit-badge lit-badge--legendary">légendaire</span> — 20 points</p>
@@ -29863,6 +30590,7 @@ Puis confirma la nouvelle composition.
   <p><strong>Zio Notos :</strong> Gardien, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
   <p class="lit-window__row"><strong>Membres :</strong> <span class="lit-window__value">4 / 5</span></p>
   <p class="lit-window__row"><strong>Points :</strong> <span class="lit-window__value">45 / 50</span></p>
+  </details>
 </div>
 
 Hasol contempla les quatre noms.
@@ -31688,12 +32416,19 @@ Elle sélectionna le type d’adversaire.
 Puis son niveau.
 
 <div class="system-window lit-window" data-window-id="105" data-window-type="entrainement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/105-mobile.svg">
+    <img src="assets/fenetres/105.svg" alt="Fenêtre du système — EXERCICE D’ENTRAÎNEMENT">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE D’ENTRAÎNEMENT</div>
   <p><strong>Adversaire simulé :</strong> Guerrier — Classe <span class="lit-badge lit-badge--rare">rare</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">20</span></p>
   <p><strong>Condition de défaite :</strong> 3 touches reçues</p>
   <p><strong>Condition de victoire :</strong> Neutralisation de l’adversaire</p>
   <p><strong>État :</strong> Simulation prête.</p>
+  </details>
 </div>
 
 Hasol contempla les réglages.
@@ -31979,12 +32714,19 @@ Le mannequin ne bougea plus.
 Une fenêtre apparut devant elle.
 
 <div class="system-window lit-window" data-window-id="106" data-window-type="entrainement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/106-mobile.svg">
+    <img src="assets/fenetres/106.svg" alt="Fenêtre du système — EXERCICE TERMINÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE TERMINÉ</div>
   <p><strong>Adversaire simulé :</strong> Guerrier <span class="lit-badge lit-badge--rare">rare</span> — Niveau 20</p>
   <p class="lit-window__row"><strong>Statut :</strong> <span>Victoire</span></p>
   <p class="lit-window__row"><strong>Touches reçues :</strong> <span class="lit-window__value">2 / 3</span></p>
   <p class="lit-window__row"><strong>Adversaire :</strong> <span>Neutralisé</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Victoire</span></p>
+  </details>
 </div>
 
 Hasol contempla la notification.
@@ -33746,10 +34488,17 @@ Une faible lumière rouge brillait au fond de son casque.
 Hasol concentra son regard.
 
 <div class="system-window lit-window" data-window-id="107" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/107-mobile.svg">
+    <img src="assets/fenetres/107.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>MONSTRE IDENTIFIÉ</div>
   <p><strong>Nom :</strong> Sentinelle des pierres scellées</p>
   <p><strong>Catégorie :</strong> Boss de donjon</p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">32</span></p>
+  </details>
 </div>
 
 Elle inspira lentement.
@@ -33881,10 +34630,17 @@ Puis des corps d’argile, armés de griffes sombres.
 Des créatures plus petites venaient d’apparaître autour du boss.
 
 <div class="system-window lit-window" data-window-id="108" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/108-mobile.svg">
+    <img src="assets/fenetres/108.svg" alt="Fenêtre du système — ENNEMIS IDENTIFIÉS">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></svg>ENNEMIS IDENTIFIÉS</div>
   <p><strong>Nom :</strong> Serviteurs d’argile</p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">11</span></p>
   <p class="lit-window__row"><strong>Nombre observé :</strong> <span class="lit-window__value">4</span></p>
+  </details>
 </div>
 
 Ray ouvrit de grands yeux.
@@ -34690,6 +35446,12 @@ L’employée du Griffon d’Argent examina les cinq dossiers.
 Puis ajouta le nom de Samia au registre.
 
 <div class="system-window lit-window" data-window-id="109" data-window-type="equipe">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/109-mobile.svg">
+    <img src="assets/fenetres/109.svg" alt="Fenêtre du système — ÉQUIPE ACTUALISÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>ÉQUIPE ACTUALISÉE</div>
   <p><strong>Hasol Shun :</strong> Arcaniste runique, <span class="lit-badge lit-badge--legendary">légendaire</span> — 20 points</p>
   <p><strong>Yoon Notos :</strong> Sage runique, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
@@ -34699,6 +35461,7 @@ Puis ajouta le nom de Samia au registre.
   <p class="lit-window__row"><strong>Membres :</strong> <span class="lit-window__value">5 / 5</span></p>
   <p class="lit-window__row"><strong>Points de classe :</strong> <span class="lit-window__value">50 / 50</span></p>
   <p><strong>État :</strong> Composition complète.</p>
+  </details>
 </div>
 
 Hasol contempla les cinq noms.
@@ -35588,10 +36351,17 @@ Puis une autre.
 La Sentinelle ne bougea plus.
 
 <div class="system-window lit-window" data-window-id="110" data-window-type="combat">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/110-mobile.svg">
+    <img src="assets/fenetres/110.svg" alt="Fenêtre du système — BOSS VAINCU">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 19 14-14 M14 4h6v6 M3 16l5 5 M5 5l5 5 M14 14l5 5"/></svg>BOSS VAINCU</div>
   <p><strong>Nom :</strong> Sentinelle des pierres scellées — Niveau 32</p>
   <p class="lit-window__row"><strong>Coup fatal :</strong> <span>Hasol Shun</span></p>
   <p class="lit-window__row"><strong>Expérience :</strong> <span>Acquise.</span></p>
+  </details>
 </div>
 
 Hasol contempla la notification.

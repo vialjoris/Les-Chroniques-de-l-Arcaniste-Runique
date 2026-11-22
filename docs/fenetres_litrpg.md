@@ -1,10 +1,14 @@
-# Fenêtres LitRPG : modèles et lecteur local
+# Fenêtres LitRPG : source textuelle, modèles et exports
 
 ## 1. Périmètre et sources
 
-`roman.md` reste le manuscrit unique. `style.css` porte la présentation ;
-`scripts/generer_lecture.py` produit `lecture.html`, un dérivé à régénérer, jamais
-à modifier à la main. Ce guide ne valide ni chapitre, ni valeur, ni règle LitRPG.
+`roman.md` reste le manuscrit unique et le point d’entrée principal sur GitHub.
+La source HTML textuelle de chaque fenêtre y est conservée intégralement dans
+un `details` dépliable, sous son affichage SVG local dérivé (DEC-103).
+Voir le [guide GitHub](fenetres_github.md) pour les enveloppes et leur génération.
+`style.css` porte la présentation de l’export local ;
+`scripts/generer_lecture.py` produit `lecture.html`, un dérivé facultatif à
+régénérer, jamais à modifier à la main. Ce guide ne valide ni chapitre, ni valeur, ni règle LitRPG.
 Les décisions éditoriales et leurs statuts restent dans `AGENTS.md` et `lore/`.
 
 Les modèles ci-dessous sont des **gabarits techniques NON CANON**. Les champs
@@ -13,13 +17,15 @@ de substitution. Reprendre uniquement les données autorisées et connues au poi
 du récit ; une donnée manquante reste **À DÉFINIR**, jamais zéro par défaut.
 Ne pas ajouter un champ simplement parce que le modèle le propose.
 
-Les fenêtres sont du texte HTML, pas des captures d’écran. Ne pas ajouter
-d’illustrations narratives au roman : l’auteur les réserve au manhwa. Ne pas
-réintroduire les encadrés éditoriaux de lore en ouverture ou clôture de chapitre.
+La source des fenêtres est du texte HTML, pas une capture d’écran ni un SVG
+à éditer. Les SVG sont une exception technique d’affichage des seules fenêtres
+du système, pas une autorisation d’illustrations narratives : l’auteur réserve
+ces dernières au manhwa. Ne pas réintroduire les encadrés éditoriaux de lore en
+ouverture ou clôture de chapitre.
 
 ## 2. Charte et classes
 
-| Élément | Contrat dans `style.css` |
+| Élément | Contrat de présentation locale dans `style.css` |
 |---|---|
 | Fond des fenêtres | Blanc `#FFFFFF` |
 | Texte courant, statistiques naturelles | Anthracite `#242424` |
@@ -31,6 +37,8 @@ réintroduire les encadrés éditoriaux de lore en ouverture ou clôture de chap
 | Effets temporaires | `.temporary-bonus`, vert `#22643b` |
 | Notification de réussite | `.success-text`, vert `#22643b`, sans signifier un effet temporaire |
 
+Les SVG dérivés reprennent cette charte pour GitHub ; les classes et le CSS du
+HTML source ne suffisent pas à la faire apparaître dans son aperçu Markdown.
 Conserver les classes de compatibilité, même lorsqu’on ajoute les classes modernes :
 
 - Racine : `.system-window`, `.character-sheet` ou `.rune-window`, plus `.lit-window`.
@@ -119,6 +127,10 @@ utilise `competence`, pas `passive`. Ces attributs ne créent aucune mécanique
 et ne sont pas des ancres HTML `id`.
 
 ## 4. Composant commun et pictogramme local
+
+Ce modèle décrit la **source HTML textuelle**, avant son enveloppe de publication
+GitHub générée. Son SVG inline décoratif sert au lecteur local, pas au rendu
+Markdown GitHub, qui le filtre. Ne pas remplacer la source textuelle par une image.
 
 Copier cette enveloppe complète, remplacer les marqueurs, choisir la classe
 racine adaptée, puis remplacer le paragraphe du corps par une variante de la
@@ -360,7 +372,12 @@ Pour `entrainement` ou `regle`, conserver l’enveloppe commune avec des paragra
 étiquetés décrivant uniquement le résultat ou le message établi. Une règle du
 système n’est pas un encadré éditorial de lore.
 
-## 6. Générer et contrôler la lecture
+## 6. Générer et contrôler l’export local facultatif
+
+Pour la lecture GitHub principale, générer d’abord les fenêtres selon
+[`fenetres_github.md`](fenetres_github.md). Le lecteur local utilise la source
+textuelle des fenêtres, sans leur affichage SVG ni leur repli dépliable : il ne
+doit pas présenter chaque fenêtre deux fois.
 
 Depuis la racine du dépôt, avec Python 3 et son module `venv` disponibles :
 
@@ -437,12 +454,20 @@ périmètre délégué. Le générateur ne renouvelle jamais le manifeste.
 
 ## 7. Diffusion, sécurité et formats de livre
 
-### HTML local et GitHub
+### HTML local et GitHub : deux modes de rendu
 
-Le rendu Markdown de GitHub n’assure ni le chargement de `style.css`, ni la
-conservation des SVG et attributs HTML. Pour la présentation prévue, privilégier
-`lecture.html` accompagné de `style.css`, avec leurs chemins relatifs conservés.
-Le lecteur et ses pictogrammes n’utilisent ni JavaScript ni ressources distantes.
+**GitHub est prioritaire : ouvrir `roman.md` en aperçu.** GitHub filtre les
+styles, classes et SVG inline ; le CSS externe ou inline n’y fournit pas cette
+présentation. Les images SVG locales référencées par `picture` portent les
+couleurs ; le `details` conserve toute la version textuelle dans le manuscrit.
+Le guide [GitHub](fenetres_github.md) distingue les preuves d’acceptation du
+balisage des contrôles visuels à réaliser.
+
+`lecture.html` accompagné de `style.css`, avec leurs chemins relatifs conservés,
+est un export facultatif à télécharger et ouvrir localement. Cliquer sur le
+fichier HTML du dépôt n’équivaut pas à accéder à un site publié. Aucun GitHub
+Pages n’est déployé par cette adaptation. Le lecteur et ses pictogrammes
+n’utilisent ni JavaScript ni ressources distantes.
 
 Le générateur accepte le HTML/SVG **local de confiance** du manuscrit : ce n’est
 pas un assainisseur de contenus non fiables. Sa CSP restrictive est une défense
