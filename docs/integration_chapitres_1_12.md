@@ -1,5 +1,14 @@
 # Intégration du livre I — chapitres 1 à 12
 
+**Localisation actuelle des sources :** l’auteur a déplacé les six fichiers de provenance de la racine vers ce dossier `docs/`, sans changement de contenu : [`new.txt`](new.txt), [`old.txt`](old.txt), [`chap1_revision.md`](chap1_revision.md), [`chap2_revision.md`](chap2_revision.md), [`chap3_revision.md`](chap3_revision.md), [`chap4_revision.md`](chap4_revision.md). Les noms courts dans les tableaux et contrôles ci-dessous désignent ces mêmes fichiers ; les anciens chemins et repères de lignes restent historiques. Aucun nouvel import ni changement de validation.
+
+**Suivi ultérieur — DEC-109, 22 novembre 2026 :** le chapitre 13 actuel est désormais
+validé littérairement, corrections DEC-106/107/108 comprises ; voir
+[`preparation_chapitre_13.md`](preparation_chapitre_13.md). Les contrôles et mentions
+d’absence du 13 ci-dessous décrivent l’import historique 1–12, pas l’état courant.
+Chapitres 1–9 et 13 validés ; 10–12 toujours en lecture sans validation littéraire
+globale. Aucune rédaction du 14 autorisée, inconnues chiffrées inchangées.
+
 ## Autorisation et statuts — 22 novembre 2026
 
 - **CANON :** l’auteur approuve les quatre révisions séparées : « autre info les chapitre revision sont validé mais sans le lore en debut et fin ». Les encadrés avaient déjà été retirés par DEC-091.

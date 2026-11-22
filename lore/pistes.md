@@ -23,7 +23,7 @@ Le plan du livre I en seize chapitres est validé par **DEC-045** ; versions ret
 - **Œil/Bénédiction — résolu, actualisé par DEC-097 le 22 novembre 2026 :** types de secondaires prédéterminés pour tout artisan ; Œil affiche le **résultat final exact à +15 si Hasol effectue les améliorations et atteint ce palier**. Pas de prédiction des valeurs d’un autre artisan ou de l’ordre exact des paliers intermédiaires, ni de choix d’affixes ou de renforcements tous maximaux. Bénédiction et échecs coûteux préservés. Pouvoir futur au niveau 20, inconnu des personnages au chapitre 9 ; autres arbitrages 10–12 maintenus.
 - **À DÉFINIR :** affixes et identités non récupérables, valeur isolée du reliquat historique déjà inclus dans les compteurs du 9, fréquence globale de drop et distribution conjointe grade/étoiles, cumul des livres et report des cercles entre vies. **32 cercles fin II en R11 avant le dernier retour**, **36 fin III** et **16 fin I** conservés, pas niveaux ou reports implicites. Les tables de grades, Œil/Bénédiction et retour préfatal ne sont plus ouverts. **DEC-081 valide l'exploitation des invocations infinies comme levier majeur des livres II et III**, avec compteur de Croissance admissible et XP ×0,5 d'un monstre comparable ; scènes, gains, débit, base d'XP, partage et arrondis restent ouverts.
 
-**Provenance :** échanges de cette session, notamment la proposition initiale de douze chapitres par livre, la discussion d’un rythme plus confortable à seize, les questions éditoriales et la réflexion sur l’XP. Les titres et intrigues non validés proposés par l’assistant sont identifiés comme tels ; les anciennes conversations mobiles restent dans `../new.txt`.
+**Provenance :** échanges de cette session, notamment la proposition initiale de douze chapitres par livre, la discussion d’un rythme plus confortable à seize, les questions éditoriales et la réflexion sur l’XP. Les titres et intrigues non validés proposés par l’assistant sont identifiés comme tels ; les anciennes conversations mobiles restent dans [`../docs/new.txt`](../docs/new.txt).
 
 ## 2. Règles et paramètres encore en discussion
 
@@ -61,7 +61,7 @@ Le plan du livre I en seize chapitres est validé par **DEC-045** ; versions ret
 
 ### Compétences — détails transmis à reprendre avant rédaction
 
-**Historique des questions antérieures à l’import — remplacé sur les points arbitrés ci-dessous.** Provenance : consignes et échanges de `../new.txt`. Les paramètres adoptés dans DEC-074 à DEC-076 ne sont plus de simples propositions ; les variantes restent ici pour leur provenance.
+**Historique des questions antérieures à l’import — remplacé sur les points arbitrés ci-dessous.** Provenance : consignes et échanges de [`../docs/new.txt`](../docs/new.txt). Les paramètres adoptés dans DEC-074 à DEC-076 ne sont plus de simples propositions ; les variantes restent ici pour leur provenance.
 
 - **Aura runique — désormais CANON, DEC-075 :** 200 Mana, rune quelconque détruite, élément choisi, arme personnelle/alliée, 24 h ; origine et valeur des ressources à suivre. Ni les dix runes équipées ni les commandes clients ne sont une réserve gratuite.
 - **Infiltration — désormais CANON, DEC-075 :** critique d’activation d’Aura, pas d’épée ; trente premières secondes, plancher par attaque égal à la PA effective actuelle d’Hasol sans réduction par la Défense, sans réduction de la Défense elle-même ; dégâts supérieurs possibles. Aura 24 h conservée ; aucune formule générale de dégâts supplémentaires.
@@ -241,4 +241,4 @@ Ces pistes complètent le plan validé ; elles ne déplacent pas ses événement
 2. Une piste retenue doit faire l’objet d’un choix explicite ou d’une délégation bornée de l’auteur ; mettre ensuite à jour les références concernées sans transformer les autres pistes en canon.
 3. Conserver la provenance des variantes remplacées plutôt que les présenter comme encore actives.
 4. Ce fichier n’autorise ni rédaction de chapitre, ni réécriture d’un texte validé, ni publication.
-5. Cette synthèse ne remplace pas `../old.txt` et `../new.txt`, qui conservent des textes et échanges plus détaillés. Ne pas les supprimer ou vider du seul fait de sa création.
+5. Cette synthèse ne remplace pas [`../docs/old.txt`](../docs/old.txt) et [`../docs/new.txt`](../docs/new.txt), déplacés par l’auteur dans `docs/` sans changement de contenu, qui conservent des textes et échanges plus détaillés. Ne pas les supprimer ou vider du seul fait de sa création.

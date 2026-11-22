@@ -1,5 +1,7 @@
 # Transmission mobile — contrôle des chapitres 10 à 12
 
+**Localisation actuelle des sources :** `new.txt`, `old.txt` et `chap1_revision.md` à `chap4_revision.md` cités ci-dessous sont désormais dans `../docs/`, après déplacement par l’auteur sans changement de contenu. Voir la [notice de provenance](../source.md#références-internes), la [transmission](../docs/new.txt) et l’[archive](../docs/old.txt). Les noms et repères de lignes de cet audit restent historiques.
+
 ## Résultat actuel — import terminé, DEC-102
 
 Confirmation de la session d’intégration et preuves : [`../docs/integration_chapitres_1_12.md`](../docs/integration_chapitres_1_12.md). Douze chapitres, une seule occurrence de chacun : révisions 1–4 approuvées intégrées sans repères du lore, 5–9 validés préservés, 10 V2/11/12 en lecture sans validation globale. **Les suspensions et arbitrages encore demandés dans le relevé initial ci-dessous sont historiques**, remplacés par DEC-097 à DEC-102 ; nouvelles classes des vies futures toujours non validées et laissées hors import.

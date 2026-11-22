@@ -102,11 +102,13 @@ Les fiches consultées ne fournissent pas de Mana et de Puissance arcanique dire
 
 ## Références internes
 
+**Localisation actuelle des archives — 22 novembre 2026 :** l’auteur a déplacé [`new.txt`](docs/new.txt), [`old.txt`](docs/old.txt) et les quatre copies [`chap1_revision.md`](docs/chap1_revision.md), [`chap2_revision.md`](docs/chap2_revision.md), [`chap3_revision.md`](docs/chap3_revision.md), [`chap4_revision.md`](docs/chap4_revision.md) de la racine vers `docs/`. Les six contenus sont identiques aux blobs Git antérieurs au déplacement. Les noms courts et chemins de racine dans les notices historiques ci-dessous désignent ces mêmes sources, désormais dans `docs/` ; leurs repères de lignes restent ceux des relevés cités. Aucun nouvel apport, réimport ou changement de statut éditorial ne découle de ce rangement. Les copies de provenance restent intactes, y compris leurs références internes historiques.
+
 **Adaptation du Paladin pour Zio — CANON, DEC-058 :** l'auteur valide la liste proposée de six actifs et trois passifs, avec noms, niveaux, effets qualitatifs et limites consignés dans `lore/systeme.md`. Dernier Rempart devient le nom officiel de son autodestruction au niveau 50. Cette adaptation propre au roman ne constitue pas une transcription des compétences du jeu ni une adoption de ses chiffres. Paramètres numériques, équipement et inventaire restent à définir ; Zio conserve sa classe Gardien, Rare, et un soin personnel secondaire.
 
-### Apports futurs depuis ChatGPT mobile — `new.txt`
+### Apports futurs depuis ChatGPT mobile — `docs/new.txt`
 
-- **Provenance annoncée par l’auteur :** travail poursuivi dans ChatGPT en mode conversation depuis son téléphone, puis copié dans `new.txt`.
+- **Provenance annoncée par l’auteur :** travail poursuivi dans ChatGPT en mode conversation depuis son téléphone, puis copié dans `docs/new.txt`.
 - **Statut :** support de transmission ; chapitres, variantes et décisions doivent être identifiés avant intégration dans `roman.md`.
 - **Priorité :** une proposition de ChatGPT n’est pas canon par sa simple présence. Les décisions explicites de l’auteur suivent l’ordre de priorité défini dans `AGENTS.md` ; signaler les contradictions qui subsistent.
 - **Traitement :** lecture complète, contrôle de continuité, prévention des doublons, adaptation des fenêtres en HTML/CSS, intégration ciblée puis mise à jour des références.
@@ -115,7 +117,7 @@ Les fiches consultées ne fournissent pas de Mana et de Puissance arcanique dire
 - **Publication :** l’auteur indique que le dépôt GitHub est public. Les fichiers poussés peuvent exposer les révélations futures et les conversations copiées ; aucune publication n’est effectuée par la seule mise en place de ce workflow.
 - **Choix confirmé :** l’auteur accepte cette accessibilité publique, y compris pour l’intrigue et les documents de travail. Ne pas réitérer les avertissements de spoilers à chaque intégration. Une publication effective reste soumise à autorisation ; les secrets et données privées de tiers ne sont pas couverts par cette acceptation.
 
-### Archive narrative `old.txt`
+### Archive narrative `docs/old.txt`
 
 - **Provenance :** anciens chapitres copiés par l’auteur, signalés le 19 novembre 2026.
 - **Contenu examiné :** chapitres 1 à 6 ; aucun chapitre 7 dans la copie consultée.

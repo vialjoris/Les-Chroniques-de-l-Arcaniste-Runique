@@ -1,5 +1,7 @@
 # Décisions éditoriales
 
+**Localisation actuelle des sources :** l’auteur a déplacé `new.txt`, `old.txt` et `chap1_revision.md` à `chap4_revision.md` de la racine vers `docs/`, sans changement de contenu. Accès : [`../docs/new.txt`](../docs/new.txt), [`../docs/old.txt`](../docs/old.txt), [`révision 1`](../docs/chap1_revision.md), [`révision 2`](../docs/chap2_revision.md), [`révision 3`](../docs/chap3_revision.md), [`révision 4`](../docs/chap4_revision.md). Les chemins et noms courts des décisions ci-dessous restent les traces historiques de leurs interventions ; ce rangement n’ajoute aucune décision éditoriale et ne modifie notamment pas DEC-109.
+
 **Lecture du registre :** les décisions les plus récentes priment dans leur périmètre. Les formulations anciennes sont conservées comme historique ; les actualisations DEC-072 à DEC-080 du 21 novembre 2026 ne valident pas toutes les réponses de ChatGPT de `new.txt`. Les doublons historiques **DEC-055** (Yoon/Zio) et **DEC-060** (Ray/Samia) sont conservés sans renumérotation pour ne pas casser les références ; préciser le personnage ou le titre lorsqu'un renvoi serait ambigu.
 
 ## DEC-001 — Secondaires des cadeaux du père
@@ -1205,6 +1207,17 @@
 - **À DÉFINIR :** dates exactes du changement de suite d’Iseria, de la reprise par Hasol et de l’installation de Zio. Ne pas imposer un déménagement immédiat après le décès ou une cohabitation conjugale avant la relation du chapitre 13. Cette résidence ne décide ni donation, ni propriété, ni héritage, ni organisation détaillée des pièces.
 - **Limites :** un seul ajout narratif ; autres octets du manuscrit, fenêtres, images et archives inchangés. Aucun niveau, statistique, rune, compétence ou événement futur modifié. Aucun commit ni push.
 - **Fichiers concernés :** `roman.md`, `lore/personnages.md`, `lore/chronologie.md` et présent registre.
+
+## DEC-109 — Validation littéraire du chapitre 13 corrigé
+
+- **Statut : CANON — validation littéraire explicite de l’auteur le 22 novembre 2026.** Actualise le statut de lecture de DEC-105, sans réécrire les décisions historiques.
+- **Source :** déclaration directe de l’auteur dans la session : « chapitre 13 validé ».
+- **Version retenue :** chapitre 13 « Ce que nous construisons » actuellement dans `roman.md`, avec les raccords déjà appliqués : cheveux bruns courts de Zio (DEC-106), salon familial spacieux et apprentissage concret auprès de Samia sans anticipation d’une évolution de pouvoir (DEC-107), résidence d’Hasol et Zio dans la demeure Shun, suite principale reprise par Hasol et Iseria dans une suite secondaire (DEC-108). La validation vise ce texte corrigé, pas la seule version initiale de DEC-105.
+- **État éditorial :** chapitres **1–9 et 13 validés** ; **10 V2, 11 et 12 restent en lecture sans validation littéraire globale**. Les relations, le mariage intime vers vingt-huit ans et les apprentissages sur plusieurs années racontés au 13 sont validés, sans romance établie rétroactive à l’Académie ni retrait de Samia du groupe de cinq, 50/50 points.
+- **Limites :** niveaux, XP, caractéristiques naturelles, cercles, compteurs, inventaires détaillés et paramètres non fixés d’Œil/Main restent **À DÉFINIR**. Dates des changements de suite et de l’installation de Zio, cause du décès d’Armin et différend avec le Griffon restent ouverts. Ni fiches au niveau 60 appliquées, ni total du chapitre 9 figé après les ellipses, ni pouvoir astral coffres/portes sans restriction transféré au livre I.
+- **Suite :** centième boss au 14 et premier sort offensif au 15 toujours futurs ; **aucune rédaction du chapitre 14 autorisée**. Aucune validation des classes proposées des vies futures ni autorisation de publication.
+- **Consignation documentaire uniquement :** aucun changement au manuscrit, aux fenêtres, images ou archives ; aucun commit, push ou déploiement. Empreinte SHA-256 du manuscrit lors de la consignation : `9458d378fb0634383cb7c43bd9ef06db763328b981bd05e6aa863901b26d1f9c`.
+- **Fichiers concernés :** `AGENTS.md`, `PLAN_DIRECTEUR.md`, `README.md`, `lore/personnages.md`, `lore/chronologie.md`, `lore/runes.md`, `lore/systeme.md`, documents de suivi d’intégration et présent registre.
 
 ## Questions de système toujours ouvertes
 

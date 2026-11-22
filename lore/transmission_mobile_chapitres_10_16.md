@@ -1,5 +1,12 @@
 # Transmission mobile — préparation des chapitres 10 à 16
 
+**État ultérieur — DEC-109, 22 novembre 2026 :** chapitres 1–9 et 13 validés ;
+10–12 toujours en lecture sans validation littéraire globale. Le 13 actuel,
+corrections DEC-106/107/108 comprises, raconte désormais mariage et acquisition
+d’Œil/pièges puis Main/coffres après plusieurs années auprès de Samia. Voir
+`../docs/preparation_chapitre_13.md`. Les mentions contraires ci-dessous sont
+historiques. Inconnues chiffrées inchangées ; aucune rédaction du 14 autorisée.
+
 **Date : 21 novembre 2026.** Document demandé par l’auteur avant son passage sur ChatGPT mobile pour répondre aux questions restantes. Il s’agit d’un questionnaire et d’une synthèse de continuité, **pas d’un manuscrit ni d’une autorisation de rédaction**.
 
 **Actualisation DEC-102, 22 novembre :** retour 10–12 intégré en lecture, preuves dans `../docs/integration_chapitres_1_12.md` ; révisions 1–4 et textes 5–9 validés. Ce questionnaire conserve son **point de départ historique de fin du 9**, pas l’état courant. Pour la suite 13–16, partir des vingt-cinq ans d’Hasol en fin du 12, groupe de cinq/50 points, décès d’Armin au 11 et reprise commerciale partielle. Niveaux finaux, statistiques, XP, cercles et inventaires détaillés restent à définir. Main, détection des pièges par Œil, mariage et sort offensif sont futurs ; Œil/Aimant acquis au 10/11. Ne pas recopier le message initial ci-dessous comme s’il précédait encore ces événements. Aucun chapitre 13 autorisé ni validation littéraire globale des textes 10–12.
@@ -177,4 +184,4 @@ Pas de résurrection, membre recréé, guérison instantanée de toute blessure 
 3. Changements de niveaux, cercles, compétences, équipements, blessures, ressources et secrets.
 4. Questions encore ouvertes et éventuels conflits avec les pièces jointes.
 
-Déposer la transmission dans `new.txt` pour intégration ultérieure. Ne pas assimiler la rédaction mobile à un remplacement automatique des textes locaux ni à une autorisation de publication.
+Déposer la transmission dans [`../docs/new.txt`](../docs/new.txt), emplacement actuel après déplacement par l’auteur, pour intégration ultérieure. Ne pas assimiler la rédaction mobile à un remplacement automatique des textes locaux ni à une autorisation de publication.

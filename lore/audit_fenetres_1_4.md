@@ -2,6 +2,8 @@
 
 # Audit des fenêtres — chapitres 1 à 4
 
+**Localisation actuelle des sources :** `new.txt`, `old.txt` et les quatre copies `chap1_revision.md` à `chap4_revision.md` citées dans cet historique ont été déplacés par l’auteur dans `../docs/`, sans changement de contenu. Accès : [`transmission`](../docs/new.txt), [`archive`](../docs/old.txt), [`révision 1`](../docs/chap1_revision.md), [`révision 2`](../docs/chap2_revision.md), [`révision 3`](../docs/chap3_revision.md), [`révision 4`](../docs/chap4_revision.md). Les constats et noms d’origine ci-dessous sont préservés.
+
 ## Actualisation du 22 novembre 2026 — DEC-091
 
 **CANON — orientation de présentation :** la décision explicite de l’auteur dans `new.txt` (ligne 51618 au moment de la transmission) remplace la demande d’encadrés d’ouverture/clôture de DEC-072. Une partie lore consultable librement en fin de livre est désormais l’orientation retenue ; son contenu et son détail restent **À DÉFINIR**. Aucune annexe n’est rédigée ici.

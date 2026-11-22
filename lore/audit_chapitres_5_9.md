@@ -1,5 +1,7 @@
 # Audit d’intégration — chapitres 5 à 9
 
+**Localisation actuelle des archives :** les noms `new.txt` et `old.txt` dans ce relevé historique désignent désormais [`../docs/new.txt`](../docs/new.txt) et [`../docs/old.txt`](../docs/old.txt), déplacés par l’auteur sans changement de contenu. Les contrôles et bornes de lignes ci-dessous restent ceux de l’intervention auditée.
+
 **Suivi DEC-102 — 22 novembre 2026 :** le manuscrit atteint désormais douze chapitres ; les textes 5–9 validés restent préservés. Révisions 1–4 intégrées sans repères du lore, nouveaux 10–12 en lecture sans validation globale. Les contrôles de l’import distinct sont consignés dans [`../docs/integration_chapitres_1_12.md`](../docs/integration_chapitres_1_12.md). Les anciens états et constats de préservation ci-dessous décrivent les étapes précédentes, pas un manuscrit toujours limité au chapitre 9.
 
 ## Actualisation documentaire — DEC-099 à DEC-101

@@ -1,10 +1,12 @@
 # Personnages — Continuité et historique par chapitre
 
-## État courant — fin du chapitre 13 en lecture, DEC-105
+## État courant — fin du chapitre 13 validé, DEC-109
 
-**22 novembre 2026 :** chapitre 13 rédigé sur le « go » explicite de l’auteur,
-ajouté sans modification des 1–12. Chapitres 1–9 validés ; 10–13 en lecture,
-sans validation littéraire globale. Les notices antérieures ci-dessous restent
+**22 novembre 2026 :** chapitre 13 validé littérairement par l’auteur après les
+corrections DEC-106/107/108 (coiffure de Zio, salon, apprentissage sans anticipation,
+résidence et suites Shun). Chapitres 1–9 et 13 validés ; 10–12 en lecture,
+sans validation littéraire globale ; aucune rédaction du 14 autorisée.
+Les notices antérieures ci-dessous restent
 historiques lorsqu’elles parlent encore du mariage ou de Main comme futurs.
 
 - **Hasol :** départ à vingt-cinq ans ; épouse Zio vers **vingt-huit ans**, cérémonie
@@ -33,7 +35,7 @@ historiques lorsqu’elles parlent encore du mariage ou de Main comme futurs.
 - **Samia :** reconnaît ses vues de jeunesse sur Zio, comprend rapidement ses
   sentiments pour Hasol et leur réciprocité, renonce sans rivalité prolongée et
   encourage son premier pas. Reste **pleinement membre** et amie, même après la
-  transmission. Dans le texte de lecture, construit des exercices d’observation
+  transmission. Dans le texte validé, construit des exercices d’observation
   pour d’autres chasseurs, obtient une table chez Orven, mène ses séances ; Hasol
   l’aide ensuite à les préparer. Pas de départ d’équipe ou de romance de remplacement.
 - **Yoon :** sœur de Zio, **meilleure amie de Samia**, souhaite Hasol pour belle-sœur ;
@@ -60,7 +62,7 @@ historiques lorsqu’elles parlent encore du mariage ou de Main comme futurs.
 
 **Fiche d’Iseria confirmée — DEC-100, pour l’examen au chapitre 10 :** Énergie légendaire (orange), 4★, +9 ; principale PV +25 %, projection +43 % à +15 ; secondaires PA +60 (projection +140 via +20/+60, ordre inconnu), Vitesse +4, Défense +30, Mana +20 inchangées. Prêt et restitution intacte, aucune amélioration effectuée ; ne pas appliquer la projection à ses statistiques naturelles ni inventer le reste de son équipement. Détails dans `runes.md`.
 
-Ce fichier distingue la sortie du chapitre 12 en lecture, les instantanés historiques 1–9 et les futurs planifiés 13–16/II/III. `new.txt` conserve les variantes et leur provenance, sans devenir un second manuscrit.
+Ce fichier distingue la sortie du chapitre 12 en lecture, les instantanés historiques 1–9 et les futurs planifiés 13–16/II/III. [`../docs/new.txt`](../docs/new.txt), déplacé par l’auteur sans changement de contenu, conserve les variantes et leur provenance, sans devenir un second manuscrit.
 
 ## Instantané historique — fin du chapitre 12 en lecture
 

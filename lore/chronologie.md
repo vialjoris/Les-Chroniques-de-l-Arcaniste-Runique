@@ -1,10 +1,14 @@
 # Chronologie
 
-## État courant — fin du chapitre 13 en lecture, DEC-105
+**Localisation des sources historiques :** `new.txt` et `old.txt` cités ci-dessous se trouvent désormais dans [`../docs/new.txt`](../docs/new.txt) et [`../docs/old.txt`](../docs/old.txt), déplacés par l’auteur sans changement de contenu. Les dates, repères de lignes et statuts des relevés historiques ne changent pas.
 
-**Rédaction autorisée le 22 novembre 2026 (« go »), pas validation littéraire.**
-Treize chapitres présents : 1–9 validés, 10–13 en lecture. Les 1–12 n’ont pas
-été modifiés ; aucune rédaction du 14 autorisée.
+## État courant — fin du chapitre 13 validé, DEC-109
+
+**Validation littéraire explicite le 22 novembre 2026 : « chapitre 13 validé ».**
+Treize chapitres présents : 1–9 et 13 validés, 10–12 en lecture sans validation
+littéraire globale. Version du 13 après DEC-106/107/108 : coiffure de Zio,
+salon spacieux, apprentissage sans anticipation du pouvoir, résidence et suites Shun.
+Consignation sans modification du manuscrit ; aucune rédaction du 14 autorisée.
 
 - **Départ :** après les vingt-cinq ans d’Hasol, réunion de préparation au neuvième
   jour, puis expédition prévue dix jours après la réunion finale du 12. Mission

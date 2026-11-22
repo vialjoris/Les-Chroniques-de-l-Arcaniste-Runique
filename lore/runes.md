@@ -1,9 +1,12 @@
 # Inventaire runique
 
-## Actualisation courante — fin du chapitre 13 en lecture, DEC-105
+**Localisation de la transmission citée :** `new.txt` se trouve désormais dans [`../docs/new.txt`](../docs/new.txt), déplacé par l’auteur sans changement de contenu. Les bornes de provenance ci-dessous restent celles des relevés historiques, sans nouvel import ni modification de l’inventaire.
 
-Chapitre rédigé sur autorisation explicite, non validé littérairement ; les
-chapitres 1–12 sont préservés. Aucun nouveau butin individuel, affixe, transfert,
+## Actualisation courante — fin du chapitre 13 validé, DEC-109
+
+Chapitre validé littérairement le 22 novembre 2026, corrections DEC-106/107/108
+comprises ; 1–9 validés, 10–12 toujours en lecture sans validation globale.
+Aucune rédaction du 14 autorisée. Aucun nouveau butin individuel, affixe, transfert,
 amélioration personnelle ou remplacement de rune identifié dans le 13.
 Les commandes y sont évoquées génériquement, sans inventaire concurrent.
 
@@ -21,7 +24,7 @@ Les commandes y sont évoquées génériquement, sans inventaire concurrent.
 
 ## Périmètre
 
-Historique des chapitres 1 à 13 ; état de sortie : fin du chapitre 13 **en lecture** (DEC-105), sans validation littéraire globale des textes 10–13. Sources : manuscrit, `docs/integration_chapitres_1_12.md`, `docs/preparation_chapitre_13.md`, transmission, plan et décisions. Les instantanés antérieurs ne sont pas automatiquement l’équipement final. Les identifiants restent documentaires et stables, y compris après transfert de propriétaire. Les commandes clients et runes de recyclage restent distinctes de l’équipement personnel.
+Historique des chapitres 1 à 13 ; état de sortie : fin du chapitre 13 **validé** (DEC-109), sans validation littéraire globale des textes 10–12. Sources : manuscrit, `docs/integration_chapitres_1_12.md`, `docs/preparation_chapitre_13.md`, transmission, plan et décisions. Les instantanés antérieurs ne sont pas automatiquement l’équipement final. Les identifiants restent documentaires et stables, y compris après transfert de propriétaire. Les commandes clients et runes de recyclage restent distinctes de l’équipement personnel.
 
 ## Instantané historique — fin du chapitre 12 en lecture, DEC-102
 

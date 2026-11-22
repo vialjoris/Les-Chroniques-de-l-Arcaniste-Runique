@@ -1,11 +1,18 @@
 # Chapitre 13 — Continuité et suivi éditorial
 
+**Localisation des archives citées :** [`new.txt`](new.txt) et [`old.txt`](old.txt) sont désormais dans ce dossier `docs/`, après déplacement par l’auteur sans changement de contenu. Ce rangement n’est pas un nouvel apport et ne change ni la validation DEC-109 du 13 ni l’absence d’autorisation de rédaction du 14.
+
 ## Autorisation et statut
 
 22 novembre 2026 : « go » explicite de l’auteur après questionnaire et synthèse,
 transmis dans la mission de rédaction. DEC-105 consigne les choix nouveaux
 (DEC-104, ajouté pendant le travail, concerne les références visuelles).
-Chapitre rédigé sur autorisation, **version de lecture non validée littérairement**.
+Chapitre initialement intégré en lecture, puis **validé littérairement par l’auteur
+le 22 novembre 2026 : « chapitre 13 validé » (DEC-109)**. La validation porte sur
+le texte actuel après DEC-106 (coiffure de Zio), DEC-107 (salon spacieux et
+apprentissage auprès de Samia sans anticipation du pouvoir) et DEC-108 (résidence
+commune dans la demeure Shun, suite principale reprise par Hasol, Iseria en suite
+secondaire). Aucun paramètre manquant n’est fixé par cette validation.
 Les chapitres 1–9 restent validés ; 10–12 restent en lecture. Aucun chapitre 14 autorisé.
 
 ## Fiche de continuité préparée avant rédaction
