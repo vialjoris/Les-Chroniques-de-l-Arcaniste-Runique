@@ -1108,6 +1108,84 @@
 - **Limites :** données, narration et octets hors fenêtres inchangés ; aucune règle LitRPG modifiée, aucun chapitre validé par cette présentation, aucune rédaction nouvelle. Inclure tous les SVG dérivés lors d’une publication autorisée, faute de quoi les liens seront cassés. Aucune publication Git, aucun commit/push, aucun déploiement GitHub Pages autorisé ou réalisé par cette décision. Le rendu de documents futurs plus volumineux reste à contrôler selon les limites de GitHub, sans créer automatiquement un second manuscrit.
 - **Fichiers concernés :** `roman.md`, dérivés `assets/fenetres/`, générateurs et tests associés pour l’implémentation ; `AGENTS.md`, `README.md`, `docs/fenetres_litrpg.md`, `docs/fenetres_github.md` et présent registre pour le suivi.
 
+## DEC-104 — Références visuelles limitées au design, indépendamment de leurs annotations
+
+- **Statut : CANON — précision explicite de l’auteur, le 22 novembre 2026.** Complète les garde-fous d’apparence de DEC-088/089 sans modifier les anciennes décisions.
+- **Source :** demande de l’auteur dans la session : « les références visuelles même si elles comportent du texte ne sont là que pour le design ». L’auteur souhaite des descriptions du roman raccord aux visuels retenus, pas l’import de leurs annotations.
+- **Décision :** utiliser ces références pour le design uniquement ; aucun texte inscrit sur une image ne valide à lui seul une identité, une classe, un pouvoir ou une règle. Ray reste un **mage de feu commun** (DEC-036/069) ; ignorer « Arcaniste runique » sur sa planche.
+- **Samia :** elle reste **blonde au livre I**. L’auteur annonce un changement de couleur de cheveux dans sa « seconde vie » ; la **couleur exacte est À DÉFINIR**. Cette formulation ne définit aucune mécanique de réincarnation propre à Samia ; ne pas en extrapoler souvenirs, pouvoirs ou parcours.
+- **Limites :** aucune réécriture du manuscrit ni modification d’image par cette consignation ; aucune règle de pouvoir modifiée, aucune rédaction nouvelle ou publication autorisée. Les paramètres visuels non confirmés restent à définir plutôt qu’être déduits des annotations.
+- **Fichiers concernés :** `AGENTS.md`, `source.md` et présent registre ; raccords descriptifs éventuels suivis séparément.
+
+## DEC-106 — Raccords descriptifs autorisés aux designs retenus
+
+- **Statut : CANON — correction et ajouts ciblés explicitement autorisés le 22 novembre 2026.** Applique DEC-104 et précise DEC-088/089, sans modifier les arbitrages du chapitre 13 consignés par DEC-105.
+- **Source :** validation de la recommandation précédente par l’auteur : « je valides fait les changements et ajout ». Périmètre : coiffure de Zio, portraits brefs d’Armin et Iseria au chapitre 1, barbe et lunettes d’Orven dès sa rencontre au chapitre 3.
+- **Zio :** cheveux **bruns, coupés court**, en remplacement des cheveux attachés préservés historiquement par DEC-088. Correction au chapitre 5, section I, et des deux reprises de la même incohérence au chapitre 13 (près de Samia et à la cérémonie). Silhouette, équipement, gestes, émotion et déroulement des scènes préservés ; aucun changement de coiffure intermédiaire inventé. DEC-088 est conservée comme historique, supplantée sur ce seul point.
+- **Armin :** portrait au registre commercial dans le souvenir des sept ans d’Hasol : mèches brunes, traits nets et veste sombre à col haut bordée de fins galons dorés. Tenue d’affaires fantasy en application de DEC-089, sans costume moderne ni vieillissement artificiel du père dans ce souvenir.
+- **Iseria :** portrait auprès d’Hasol à la Révélation : longs cheveux rose pâle, robe claire de coupe elfique aux broderies dorées et au tombé soigné, raccord à la qualité vestimentaire de DEC-089. Aucun titre ou ascendance déduit ; couleurs des yeux non fixées.
+- **Vérification visuelle :** références d’Armin et Iseria consultées uniquement sur une planche temporaire réduite de 780 × 600 pixels, dérivée des fichiers de leurs dossiers `references-visuelles/`. Cheveux et vêtements utilisés comme design, pas les textes, ornements ou effets lumineux comme règles, pouvoirs ou statut social.
+- **Orven :** lunettes et barbe déjà présentes aux chapitres 6–7, ajoutées dès son introduction au chapitre 3 ; cheveux grisonnants et gestes d’artisan préservés, sans nouvel âge de scène fixé.
+- **Limites :** six passages descriptifs uniquement dans `roman.md` ; fenêtres, statistiques, runes, compétences, événements, dialogues et statuts littéraires inchangés. Samia blonde au livre I et Ray mage de feu commun inchangés. Images, archives et copies de révision non modifiées ; aucune rédaction de chapitre nouveau, aucun commit ni push.
+- **Fichiers concernés :** `roman.md`, `lore/personnages.md` et présent registre. Les anciennes notices du plan sur les cheveux attachés relèvent désormais de l’historique DEC-088, pas d’un arbitrage concurrent.
+
+## DEC-105 — Chapitre 13 : amour réciproque, mariage et transmission longue
+
+- **Statut : CANON pour les décisions explicites ci-dessous ; rédaction autorisée,
+  chapitre intégré comme VERSION DE LECTURE NON VALIDÉE LITTÉRAIREMENT.**
+- **Source :** réponses de l’auteur au questionnaire et synthèse, puis « go »
+  explicite, transmis dans la mission locale de rédaction du 22 novembre 2026.
+  Pas de nouvel apport annoncé dans `new.txt`, pas d’import ou de modification
+  de cette archive. DEC-104, ajouté pendant le travail, reste consacré aux références
+  visuelles ; le présent identifiant est le suivant disponible.
+- **Mariage :** Hasol épouse Zio vers **vingt-huit ans** ; cérémonie intime et fin
+  de chapitre dans leur vie commune apaisée. Le texte part de la fin du 12 à
+  vingt-cinq ans et de l’expédition prévue dans dix jours. Aucun enfant inventé.
+- **Hasol :** la jalousie envers Samia, qui a aussi des vues sur Zio, lui fait
+  reconnaître ses sentiments. Pas de rivalité artificielle ou prolongée, pas de
+  droit de possession sur Zio ni de faute attribuée à Samia pour ses sentiments.
+- **Zio :** coup de foudre secret pour Hasol dès ses premiers jours à l’Académie,
+  admiration de sa détermination ; le temps partagé transforme le fantasme ou
+  l’engouement adolescent en amour mature. Il fait le premier pas et sa déclaration
+  malgré son manque de confiance sentimental. Hasol apprend ce passé en dialogue
+  et confidences, pas par omniscience. Aucune romance établie rétroactive ; son
+  intervention à l’Académie n’attend aucune récompense ni contrepartie affective.
+- **Samia :** comprend rapidement l’amour de Zio pour Hasol et leurs sentiments
+  réciproques, renonce à ses sentiments de jeunesse et soutient Zio. Conserve
+  autonomie, amitiés, projets et place dans l’équipe après la transmission ; ni
+  rivale prolongée, ni simple outil d’apprentissage. Dans la version de lecture,
+  développe des exercices d’observation pour d’autres chasseurs ; leur organisation
+  est un choix de mise en scène, pas une institution ou règle universelle validée.
+- **Yoon :** sœur de Zio et **meilleure amie de Samia**, souhaite qu’Hasol devienne
+  sa belle-sœur ; elle n’impose pas les sentiments ou les décisions des autres.
+- **Transmission :** apprentissage auprès de Samia sur **plusieurs années**,
+  détection des pièges par le **même Œil runique** conservant la lecture des runes,
+  puis **Main runique active** pour ouvrir les coffres. Ni détection = désamorçage,
+  ni ouverture universelle ou pouvoir astral coffres/portes sans restriction au I.
+  Niveaux, coûts, portée, récupération, protections couvertes et conditions
+  universelles de déblocage **À DÉFINIR** ; scènes d’acquisition ne valant pas recette.
+- **Intégration :** dix sections, environ **10 100 mots** ; deux sources HTML
+  `C13-F01` (Œil amélioré) et `C13-F02` (Main). Ajout à `roman.md` uniquement,
+  préfixe 1–12 vérifié identique octet pour octet à la copie de début de travail
+  (SHA-256 `ad1b690d57563906e9654d4c7d5b15c69da07805448e0b6c18d7efb9e98ba123`).
+  Contrôle effectué avant les raccords descriptifs concurrents DEC-106 : il ne
+  revendique pas l’identité du préfixe après ces retouches distinctes autorisées.
+  Fiche préalable et suivi : `docs/preparation_chapitre_13.md`.
+- **Préservé :** chapitres 1–9 validés, 10–12 toujours en lecture ; groupe de cinq,
+  50/50 points ; artisanat et responsabilités commerciales d’Hasol, deuil et
+  inconnues d’Armin, engagement choisi de Ray. Aucun niveau, XP, fiche naturelle,
+  cercle, compteur, butin individuel ou inventaire nouveau chiffré. Pas de fiches
+  du 60, pas de total du 9 arbitrairement figé après les ellipses.
+- **Suite :** centième boss au **14**, vers le niveau 38, toujours futur ; premier
+  sort offensif au **15**, niveau 40, toujours futur. Aucun chapitre 14 autorisé,
+  aucune validation littéraire globale du 13, aucun commit/push ou déploiement.
+  Génération SVG/enveloppes GitHub et lecteur confiée à la session principale,
+  non exécutée pendant cette rédaction.
+- **Fichiers concernés :** `roman.md`, `PLAN_DIRECTEUR.md`, `AGENTS.md`,
+  `lore/personnages.md`, `lore/runes.md`, `lore/chronologie.md`, `lore/systeme.md`,
+  présent registre et fiche du chapitre 13. Archives, scripts, styles et SVG non
+  modifiés par l’agent de rédaction.
+
 ## Questions de système toujours ouvertes
 
 - Barème numérique des gains secondaires, au-delà des choix individuels consignés pour les deux cadeaux ; règle d’apparition résolue par DEC-006.

@@ -1,6 +1,35 @@
 # Chronologie
 
-## État courant — fin du chapitre 12 en lecture, DEC-102
+## État courant — fin du chapitre 13 en lecture, DEC-105
+
+**Rédaction autorisée le 22 novembre 2026 (« go »), pas validation littéraire.**
+Treize chapitres présents : 1–9 validés, 10–13 en lecture. Les 1–12 n’ont pas
+été modifiés ; aucune rédaction du 14 autorisée.
+
+- **Départ :** après les vingt-cinq ans d’Hasol, réunion de préparation au neuvième
+  jour, puis expédition prévue dix jours après la réunion finale du 12. Mission
+  collective sans gain chiffré ni boss numéroté.
+- **Premières semaines :** jalousie d’Hasol devant les attentions de Samia envers
+  Zio ; confidence à Yoon, puis échange direct avec Samia. Vues de jeunesse de
+  la Ranger abandonnées sans rivalité prolongée ; elle encourage Zio.
+- **Déclaration :** Zio propose le dîner et fait le premier pas ; aveux réciproques,
+  confidence sur son coup de foudre secret à l’Académie, admiration de la
+  détermination et maturation avec le temps partagé. Pas de romance établie
+  rétroactive ni récompense pour son intervention. Couple ensuite construit au
+  quotidien, distinct des décisions tactiques de l’équipe.
+- **Plusieurs années :** travail, commerce, missions et leçons auprès de Samia ;
+  la Ranger développe aussi ses exercices pour d’autres chasseurs. Même Œil
+  amélioré avec pièges (`C13-F01`), puis Main active/coffres (`C13-F02`) avant le
+  mariage ; aucun niveau exact ou seuil d’apprentissage défini.
+- **Vers vingt-huit ans :** demande en mariage puis cérémonie intime Hasol/Zio.
+  Iseria, Orven et amis présents ; deuil d’Armin conservé sans explication du
+  différend ou de sa mort, aucun enfant inventé. Fin quelques semaines plus tard
+  dans la vie commune apaisée ; Samia toujours membre du groupe de cinq, 50/50.
+- **À DÉFINIR :** dates calendaires, âges précis des autres, niveaux/statistiques/XP,
+  cercles, compteurs et inventaires après les années. Pas de centième boss ni
+  premier sort offensif au 13 ; leurs jalons 14/15 restent futurs.
+
+## Instantané historique — fin du chapitre 12 en lecture, DEC-102
 
 Import 1–12 confirmé, preuves dans `docs/integration_chapitres_1_12.md`. Révisions 1–4 validées et intégrées sans repères du lore, chapitres 5–9 validés préservés. **10–12 intégrés en lecture, pas globalement validés.** Les anciennes notices de suspension sont historiques.
 

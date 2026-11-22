@@ -162,6 +162,36 @@ def manifest(source):
     }
 
 
+def historical_prefix(source, reference):
+    """Retrouver la fin exacte de la baseline sans absorber ni rogner sa dernière narration."""
+    document = Document(source)
+    count = len(reference["window_text_sha256"])
+    if len(document.windows) < count:
+        raise ValueError("Fenêtres historiques manquantes")
+    packed = base64.b64decode(reference["outside_segments_sha256_base64"], validate=True)
+    if len(packed) != (count + 1) * 32:
+        raise ValueError("Manifeste des segments historiques invalide")
+    start = document.windows[count - 1].end
+    stop = document.windows[count].start if len(document.windows) > count else len(source)
+    checksum = sha256()
+    for end in range(start, stop + 1):
+        if checksum.digest() == packed[-32:]:
+            suffix = source[end:]
+            if suffix:
+                chapter = re.match(
+                    r'\s*(?:---\s*)?(?:<span id="chapitre-(?P<anchor>\d+)"></span>\s*)?'
+                    r'# Chapitre (?P<number>\d+)\b', suffix,
+                )
+                if (not chapter
+                        or int(chapter["number"]) <= max(map(int, reference["chapter_window_counts"]))
+                        or (chapter["anchor"] is not None and chapter["anchor"] != chapter["number"])):
+                    raise ValueError("Ajout hors d'un nouveau chapitre après la baseline")
+            return source[:end]
+        if end < stop:
+            checksum.update(source[end].encode("utf-8"))
+    raise ValueError("Dernier segment narratif historique altéré ou tronqué")
+
+
 def table_cells(document):
     return [
         [[(cell.tag, compact(cell.text())) for cell in row.children if cell.tag in {"th", "td"}]

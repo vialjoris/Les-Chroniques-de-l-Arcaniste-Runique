@@ -9,9 +9,10 @@ import subprocess
 import sys
 import tempfile
 import unittest
+from unittest.mock import patch
 from urllib.parse import unquote, urlsplit
 
-from lecture_support import ROOT_CLASSES, Document, compact, digest, manifest, semantic_classes, table_cells
+from lecture_support import ROOT_CLASSES, Document, compact, digest, historical_prefix, manifest, semantic_classes, table_cells
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -54,25 +55,92 @@ class AnalyseurTests(unittest.TestCase):
         self.assertEqual(Document(source).windows[0].text(), "CANON 6★Mana 1 200")
 
 
+class AjoutsChapitresTests(unittest.TestCase):
+    def setUp(self):
+        self.original = ('# Chapitre 1 — Historique\r\nAvant.\r\n'
+                         '<div class="system-window" data-window-id="001">Mana 1 200</div>'
+                         '\r\nToute la fin historique, même son dernier octet.\r\n')
+        self.reference = manifest(self.original)
+        self.addition = ('\n---\n\n# Chapitre 2 — Ajout\nTexte nouveau.\n'
+                         '<div class="system-window" data-window-id="nouvelle">Mana 2 150</div>\n'
+                         '\n---\n\n# Chapitre 3 — Autre ajout\nFin nouvelle.\n')
+
+    def assert_conserved(self, source):
+        historical = historical_prefix(source, self.reference)
+        check = ConservationManuscritTests()
+        check.document = Document(source)
+        check.historical = Document(historical)
+        check.actual = manifest(historical)
+        with patch.dict(REFERENCE, self.reference, clear=True):
+            check.test_segments_narratifs_octet_identiques_a_leur_position()
+            check.test_fenetres_ordonnees_et_integralite_du_texte_conservees()
+            check.test_chapitres_et_repartition_des_fenetres_inchanges()
+            check.test_classes_compatibles_et_associations_bonus_texte_valeurs()
+            check.test_tables_conservent_lignes_cellules_et_valeurs_associees()
+        self.assertEqual(historical.encode("utf-8"), self.original.encode("utf-8"))
+
+    def test_baseline_seule_et_plusieurs_chapitres_ajoutes_acceptes(self):
+        self.assert_conserved(self.original)
+        self.assert_conserved(self.original + self.addition)
+
+    def test_nouveau_chapitre_avec_ancre_dediee_accepte_sans_perte_octets(self):
+        addition = self.addition.replace('# Chapitre 2', '<span id="chapitre-2"></span>\n\n# Chapitre 2')
+        self.assert_conserved(self.original + addition)
+        with self.assertRaises(ValueError):
+            historical_prefix(self.original[:-1] + addition.lstrip("\n"), self.reference)
+
+    def test_texte_arbitraire_autour_ancre_et_numero_incoherent_refuses(self):
+        anchor = '<span id="chapitre-2"></span>\n\n'
+        for prefix in ("Texte interdit.\n" + anchor,
+                       anchor + "Texte interdit.\n",
+                       '<span id="chapitre-3"></span>\n\n'):
+            with self.subTest(prefix=prefix):
+                addition = self.addition.replace("# Chapitre 2", prefix + "# Chapitre 2")
+                with self.assertRaises(ValueError):
+                    historical_prefix(self.original + addition, self.reference)
+
+    def test_alterations_du_prefixe_et_de_toute_sa_fin_refusees(self):
+        variants = {
+            "début": self.original.replace("Avant.", "Après."),
+            "fenêtre": self.original.replace("1 200", "1 201"),
+            "dernier segment": self.original.replace("Toute la fin", "Une autre fin"),
+            "dernier caractère narratif": self.original.replace("octet.", "octet!"),
+            "dernier octet": self.original[:-1],
+            "derniers espaces": self.original.rstrip(),
+            "fin entièrement supprimée": self.original[:self.original.index("</div>") + len("</div>")],
+        }
+        for name, source in variants.items():
+            with self.subTest(alteration=name):
+                with self.assertRaises((ValueError, AssertionError)):
+                    self.assert_conserved(source + self.addition.lstrip("\n"))
+
+    def test_ajout_hors_nouveau_chapitre_ne_devient_pas_une_fin_historique_toleree(self):
+        for suffix in ("Narration ajoutée à la fin historique.\n", "\n# Chapitre 1 — Doublon\n"):
+            with self.subTest(suffix=suffix):
+                with self.assertRaises(ValueError):
+                    historical_prefix(self.original + suffix, self.reference)
+
+
 class ConservationManuscritTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.source = read_exact(ROOT / "roman.md")
         cls.document = Document(cls.source)
-        cls.actual = manifest(cls.source)
+        cls.historical = Document(historical_prefix(cls.source, REFERENCE))
+        cls.actual = manifest(cls.historical.source)
 
     def test_segments_narratifs_octet_identiques_a_leur_position(self):
         packed = base64.b64decode(REFERENCE["outside_segments_sha256_base64"], validate=True)
         expected_count = len(REFERENCE["window_text_sha256"]) + 1
         self.assertEqual(len(packed), expected_count * 32)
-        segments = self.document.outside_segments()
+        segments = self.historical.outside_segments()
         self.assertEqual(len(segments), expected_count)
         for index, segment in enumerate(segments):
             with self.subTest(segment=index):
                 self.assertEqual(digest(segment), packed[index * 32:(index + 1) * 32].hex())
 
     def test_fenetres_ordonnees_et_integralite_du_texte_conservees(self):
-        self.assertEqual(len(self.document.windows), len(REFERENCE["window_text_sha256"]))
+        self.assertEqual(len(self.historical.windows), len(REFERENCE["window_text_sha256"]))
         for index, expected in enumerate(REFERENCE["window_text_sha256"]):
             with self.subTest(fenetre=index + 1):
                 self.assertEqual(digest(compact(self.document.windows[index].text())), expected)
@@ -83,7 +151,7 @@ class ConservationManuscritTests(unittest.TestCase):
 
     def test_classes_compatibles_et_associations_bonus_texte_valeurs(self):
         self.assertEqual(self.actual["bonus_associations_sha256"], REFERENCE["bonus_associations_sha256"])
-        classes = [semantic_classes(window) for window in self.document.windows]
+        classes = [semantic_classes(window) for window in self.historical.windows]
         if self.actual["window_classes_sha256"] != REFERENCE["window_classes_sha256"]:
             # Seules les exceptions de présentation explicitement arbitrées sont admises.
             for allowance in REFERENCE.get("presentation_allowances", []):
@@ -100,14 +168,15 @@ class ConservationManuscritTests(unittest.TestCase):
         self.assertEqual(digest(json.dumps(classes, sort_keys=True)), REFERENCE["window_classes_sha256"])
 
     def test_tables_conservent_lignes_cellules_et_valeurs_associees(self):
-        self.assertEqual(len(table_cells(self.document)), REFERENCE["table_count"])
+        self.assertEqual(len(table_cells(self.historical)), REFERENCE["table_count"])
         self.assertEqual(self.actual["tables_sha256"], REFERENCE["tables_sha256"])
 
     def test_identifiants_fenetres_uniques_types_non_vides_et_couverture_racines(self):
         ids = [window.attrs.get("data-window-id", "").strip() for window in self.document.windows]
         self.assertTrue(all(ids))
         self.assertEqual(len(ids), len(set(ids)))
-        self.assertEqual(set(ids), {f"{number:03d}" for number in range(1, len(REFERENCE["window_text_sha256"]) + 1)})
+        historical_ids = ids[:len(REFERENCE["window_text_sha256"])]
+        self.assertEqual(set(historical_ids), {f"{number:03d}" for number in range(1, len(historical_ids) + 1)})
         for index, original_id in enumerate(REFERENCE.get("window_ids_before", [])):
             if original_id and re.fullmatch(r"\d{3}", original_id):
                 with self.subTest(identifiant_historique=original_id):
@@ -301,20 +370,22 @@ class GenerateurTests(unittest.TestCase):
         document = Document(read_exact(self.output))
         nodes = list(document.root.descendants())
         chapters = [node for node in nodes if node.tag in {"h1", "h2"} and compact(node.text()).startswith("Chapitre ")]
-        self.assertEqual([compact(node.text()) for node in chapters], REFERENCE["chapters"])
+        source_text = read_exact(ROOT / "roman.md")
+        expected_chapters = manifest(source_text)["chapters"]
+        self.assertEqual([compact(node.text()) for node in chapters], expected_chapters)
         ids = [node.attrs["id"] for node in nodes if "id" in node.attrs]
         self.assertEqual(len(ids), len(set(ids)))
         navs = list(document.root.descendants("nav"))
         self.assertEqual(len(navs), 1)
         links = list(navs[0].descendants("a"))
-        self.assertEqual([compact(node.text()) for node in links], REFERENCE["chapters"])
+        self.assertEqual([compact(node.text()) for node in links], expected_chapters)
         self.assertEqual([node.attrs["href"] for node in links], ["#" + node.attrs["id"] for node in chapters])
         for node in document.root.descendants("a"):
             href = node.attrs.get("href", "")
             if href.startswith("#"):
                 self.assertIn(href[1:], ids)
-        source = Document(read_exact(ROOT / "roman.md"))
-        self.assertEqual(len(document.windows), len(REFERENCE["window_text_sha256"]))
+        source = Document(source_text)
+        self.assertEqual(len(document.windows), len(source.windows))
         self.assertEqual([compact(node.text()) for node in document.windows], [compact(node.text()) for node in source.windows])
         self.assertEqual(table_cells(document), table_cells(source))
         self.assertEqual(len(list(document.root.descendants("svg"))), len(list(source.root.descendants("svg"))))

@@ -16,6 +16,7 @@
 10. [Chapitre 10 — Ceux qui riaient autrefois](#chapitre-10)
 11. [Chapitre 11 — Le dernier départ](#chapitre-11)
 12. [Chapitre 12 — La légende prend sa place](#chapitre-12)
+13. [Chapitre 13 — Ce que nous construisons](#chapitre-13)
 
 ---
 
@@ -89,7 +90,7 @@ Une petite fille aux cheveux bruns traversa le couloir à toute vitesse, les bra
 
 La fillette dévala les dernières marches, manqua de trébucher sur le tapis du salon et s’arrêta devant un homme installé dans un grand fauteuil.
 
-Son père leva les yeux du registre commercial qu’il consultait.
+Son père leva les yeux du registre commercial qu’il consultait. Quelques mèches brunes se soulevaient au-dessus de son front, adoucissant les traits nets de son visage. Il portait une veste sombre à col haut, bordée de fins galons dorés, dont il avait défait une attache pour lire à son aise.
 
 — Eh bien ! Qu’arrive-t-il à ma petite princesse ?
 
@@ -689,7 +690,7 @@ Hasol baissa les yeux.
 
 — Désolée.
 
-Sa mère sourit.
+Sa mère sourit. Ses longs cheveux rose pâle glissèrent sur son épaule lorsqu’elle se pencha vers Hasol. Les broderies dorées de sa robe claire dessinaient de fines arabesques le long des manches ; la coupe elfique et le tombé impeccable du tissu lui donnaient cette élégance que sa fille lui avait toujours connue.
 
 — Tu es nerveuse ?
 
@@ -4771,7 +4772,7 @@ Hasol ramena machinalement la plume dans sa rainure. Sa mère suivit le geste, p
 
 Une enseigne de bois sombre, gravée d’une rune entourée de trois cercles, se balançait au-dessus de la porte. Derrière la vitrine, les présentoirs laissaient voir le fond de la boutique : un comptoir usé au milieu, des tiroirs, des registres empilés à portée de main. Rien de ce que Hasol avait admiré sur les coussins de velours ne semblait ici plus important que la place laissée pour travailler.
 
-La clochette tinta. Une voix leur demanda d’attendre, puis un homme aux cheveux grisonnants sortit de l’arrière-boutique en s’essuyant les doigts. Il accueillit la mère de Hasol avec un sourire et contourna son comptoir.
+La clochette tinta. Une voix leur demanda d’attendre, puis un homme aux cheveux grisonnants sortit de l’arrière-boutique en s’essuyant les doigts. Une barbe encadrait son visage, et il releva les yeux derrière ses lunettes pour accueillir la mère de Hasol avec un sourire, avant de contourner son comptoir.
 
 — Tu passes enfin autrement qu’entre deux courses.
 
@@ -5941,7 +5942,7 @@ Elle s’arrêta.
 
 Près de la fontaine se tenait un jeune homme portant un grand bouclier dans le dos.
 
-Ses cheveux sombres étaient soigneusement attachés, et sa silhouette élancée ne semblait nullement gênée par le poids de son équipement.
+Ses cheveux bruns, coupés court, encadraient son visage, et sa silhouette élancée ne semblait nullement gênée par le poids de son équipement.
 
 Deux jeunes chasseuses qui passaient près de lui ralentirent pour le regarder.
 
@@ -38249,3 +38250,1420 @@ Elle était déjà en train de la vivre.
 ---
 
 **Fin du chapitre 12 — La légende prend sa place**
+
+---
+
+<span id="chapitre-13"></span>
+
+# Chapitre 13 — Ce que nous construisons
+
+## I. La place près de lui
+
+Le neuvième jour, Hasol ferma son dernier dossier avant que l’employé ait terminé de lui expliquer ce qu’il restait à vérifier.
+
+Il regarda le registre clos, puis les doigts qu’elle avait posés sur sa couverture.
+
+— Vous partez demain, n’est-ce pas ?
+
+— Oui. Mais je vous écoute.
+
+— Je viens précisément vous dire que les confirmations sont arrivées. Vous n’avez plus besoin de rester.
+
+Hasol retira sa main.
+
+L’homme eut un sourire discret.
+
+— Les doubles sont classés. Les décisions qui peuvent attendre attendront votre retour. Pour les autres, nous avons les consignes convenues avec madame Shun.
+
+Elle éprouva cette petite résistance familière, l’envie de rouvrir le registre pour s’assurer une dernière fois que rien ne manquait. Puis elle regarda la pile de documents préparée par son employé. Les rubans étaient noués, les pièces jointes regroupées, les dates recopiées dans la marge.
+
+— Merci. Je vais retrouver les autres.
+
+Dans la rue, l’air sentait la pluie prochaine et la poussière chaude. Hasol marcha d’un bon pas jusqu’au Griffon d’Argent, sa jupe de ville gênant légèrement ses grandes enjambées. Elle avait choisi cette tenue pour recevoir les représentants d’un fournisseur ; demain, elle retrouverait ses vêtements de combat et ses bottes marquées par les chemins.
+
+Elle entendit le rire de Samia avant d’atteindre leur table.
+
+La Ranger se tenait près de Zio. Elle lui montrait quelque chose sur la paume, les doigts ouverts devant lui. Le Gardien avait incliné la tête pour regarder ; une courte mèche brune retombait sur son front. Il souriait.
+
+Hasol ralentit.
+
+— Il a fallu reprendre toute la fixation, expliquait Samia. Regarde, c’est là que l’ancien outil m’appuyait dans la main.
+
+Zio examina la marque.
+
+— Tu devrais le montrer à celui qui l’a réparé.
+
+— Je l’ai fait. Il m’a répondu que je travaillais trop longtemps sans interruption.
+
+— C’est possible aussi.
+
+Samia lui donna un petit coup sur l’avant-bras.
+
+— Tu pourrais être de mon côté.
+
+— Je suis pour que tu conserves l’usage de ta main.
+
+Hasol connaissait cette façon de répondre. Elle l’avait entendue après ses propres entraînements, lorsqu’elle prétendait pouvoir recommencer malgré ses poignets tremblants. Cela n’avait pourtant aucune raison de la gêner que Zio s’inquiète pour Samia.
+
+Elle posa sa sacoche un peu trop fort sur la table.
+
+Ray leva les yeux de sa carte.
+
+— Bonjour. Une mauvaise nouvelle ?
+
+— Non. Tout est prêt.
+
+— Alors pourquoi cet air ? demanda Yoon.
+
+— Quel air ?
+
+Samia lui tira une chaise. Hasol la remercia, s’assit et s’intéressa avec application au tracé des galeries. Un siège restait libre près de Zio. Elle se demanda pourquoi elle ne l’avait pas pris, puis se reprocha aussitôt de s’être posé la question.
+
+La réunion dura jusqu’à l’arrivée de la pluie. Samia compara les passages signalés par différents groupes, Ray distingua les observations récentes des descriptions plus anciennes et Yoon leur fit reprendre la portion du trajet qui servirait au repli. Hasol posa ses questions. Elle en avait de bonnes ; elle le savait à la manière dont ses compagnons prenaient le temps d’y répondre. Mais, deux fois, elle perdit le fil parce que Samia s’était tournée vers Zio avec un sourire.
+
+Cela lui parut suffisamment absurde pour qu’elle s’interdise d’y penser davantage.
+
+Au moment de partir, le Gardien aperçut sa sacoche gonflée de dossiers.
+
+— Tu as terminé tes commandes ?
+
+— Celles que je devais rendre avant notre départ. Le reste est organisé.
+
+Il lui tendit son manteau.
+
+— Alors tu pourras dormir cette nuit.
+
+— C’était prévu.
+
+— Je préfère demander.
+
+Hasol prit le vêtement. Leurs doigts se frôlèrent sur le col humide.
+
+Elle pensa à la main de Samia, ouverte sous le regard de Zio quelques instants plus tôt. Une irritation brève lui serra le ventre, suivie d’une honte immédiate.
+
+— Hasol ?
+
+— Merci.
+
+Elle enfila son manteau trop vite, coinça sa manche dans la courroie de sa sacoche et dut se laisser aider. Zio dégagea le tissu sans commentaire. Hasol regarda ses mains plutôt que son visage.
+
+Sur le chemin du retour, elle se convainquit qu’elle était simplement fatiguée.
+
+## II. Les choses qu’on regarde
+
+Le lendemain, Samia les arrêta devant une marche dont Hasol ne distinguait rien de particulier.
+
+Le donjon s’enfonçait sous une succession de voûtes basses. L’eau suintait entre les pierres ; elle dessinait sur le sol des bandes sombres que leurs lumières rendaient presque luisantes. Zio occupait l’avant, en armure complète, mais il s’était écarté dès le signal de la Ranger.
+
+— Le bord, dit Samia.
+
+Hasol s’accroupit à une distance prudente.
+
+— Il est plus clair.
+
+— Où ?
+
+Elle allait montrer le centre de la marche, puis observa mieux.
+
+— Là. Sous la jointure.
+
+Samia acquiesça.
+
+— Maintenant, regarde la pierre au-dessus. Elle n’a pas la même usure. Nous n’allons pas mettre notre poids dessus avant d’avoir compris pourquoi.
+
+Hasol recula pour lui laisser la place. Son Œil runique ne lui apportait toujours aucune aide devant ces détails. Elle reconnaissait désormais certains indices, mais grâce aux explications de Samia, aux exercices et aux erreurs corrigées, pas à une nouvelle lecture magique.
+
+La Ranger sortit ses outils. Hasol observa la manière dont elle s’installait, avec un appui stable et une main libre, puis détourna involontairement les yeux vers Zio.
+
+Il surveillait le couloir. Derrière les plaques de son armure, elle entendait sa respiration régulière. Il déplaça son bouclier pour dégager un peu plus d’espace autour de Samia.
+
+Hasol se força à regarder la marche.
+
+— Si tu veux voir, approche par mon côté gauche, proposa la Ranger.
+
+Elle obéit. Cette fois, elle s’appliqua réellement.
+
+Il fallut du temps. Samia ne se contenta pas de rendre le passage praticable ; une fois son travail achevé, elle leur montra où poser les pieds et vérifia le déplacement de chacun. Lorsqu’ils reprirent leur progression, Hasol demeura près d’elle.
+
+— Tu as vu tout de suite ?
+
+— J’ai vu quelque chose qui ne me plaisait pas. Ce n’est pas exactement la même chose.
+
+— Et après ?
+
+— Après, j’ai vérifié.
+
+La réponse lui rappela Orven. Hasol sourit.
+
+Plus loin, une galerie déboucha dans une salle encombrée d’éboulis. Un frottement, puis un cri bref les avertirent. Des créatures basses sortirent entre les pierres, leurs griffes raclant le sol mouillé.
+
+Zio leva son bouclier.
+
+— Derrière moi. Samia, la droite ?
+
+— Dégagée jusqu’à la colonne. Pas au-delà.
+
+Yoon posa ses Entraves dans l’espace où les créatures se regroupaient. Les écritures violettes coururent entre les flaques. Hasol se plaça au flanc de Zio, attendit qu’un adversaire s’engage contre son bouclier et frappa à l’épée dans l’ouverture.
+
+Une autre bête escalada l’éboulis.
+
+— En hauteur ! annonça Samia.
+
+Sa flèche atteignit la créature avant qu’elle puisse bondir sur Ray. Le mage s’était déjà tourné, mais il retint son sort. Hasol vit son regard suivre la trajectoire qui aurait traversé la place occupée par la Ranger.
+
+— Je n’ai pas de ligne, prévint-il.
+
+— Garde ta position, répondit Samia. Je me décale.
+
+Elle bougea au moment où Zio refermait le passage devant un nouvel assaut. Hasol suivit son mouvement, recula elle aussi et laissa enfin Ray lancer un Trait incandescent sans menacer ses compagnons.
+
+Le combat se prolongea suffisamment pour que le mage annonce qu’il devait ménager sa réserve. Yoon déplaça leur point de regroupement ; Hasol abandonna une poursuite pour revenir dans la formation. Elle eut le temps de voir Zio se déporter vers Samia, exposée près d’un amas de pierres.
+
+L’inquiétude la saisit avant toute autre chose.
+
+— Samia, recule !
+
+La Ranger avait déjà pris appui. Elle glissa hors de portée, revint derrière le bouclier et reprit son arc.
+
+Hasol intercepta la créature qui la suivait.
+
+Lorsqu’ils purent enfin abaisser leurs armes, l’eau avait traversé le cuir de ses gants. Son épaule tirait, et un caillou s’était glissé dans sa botte. Samia examinait ses flèches avec une moue contrariée. Zio alla lui demander si elle avait été touchée.
+
+Cette fois encore, Hasol éprouva le pincement qu’elle aurait préféré ne pas reconnaître.
+
+Puis elle regarda Samia, qui releva vers elle un visage éclairé d’un sourire.
+
+— Merci pour l’annonce. Je l’avais vue, mais je préfère t’entendre que découvrir trop tard qu’il y en avait une deuxième.
+
+— Je n’étais pas certaine que tu puisses reculer.
+
+— Moi non plus, au début.
+
+La Ranger posa une main sur son bras, puis partit discuter avec Yoon du prochain passage. Hasol la suivit des yeux. Elle avait eu peur pour elle. Vraiment peur. Cette affection n’avait pas disparu parce qu’autre chose s’était mis à lui déplaire.
+
+Cela rendait le problème beaucoup plus difficile à ranger dans une case commode.
+
+À la halte, elle retira enfin le caillou de sa botte. Zio lui tendit sa gourde pendant qu’elle resserrait ses lacets.
+
+— Tu as mal quelque part ?
+
+Elle secoua la tête, puis corrigea :
+
+— L’épaule est fatiguée. Rien qui m’empêche de rentrer.
+
+— Nous allons prendre notre temps.
+
+Il s’assit sur une pierre près d’elle. Le métal de son armure grinça doucement. Hasol but, sentit l’eau froide lui descendre dans la gorge et comprit soudain que ce qui l’avait blessée n’était pas l’attention qu’il portait aux autres.
+
+Elle voulait une place différente dans cette attention.
+
+Cette idée la troubla davantage que le combat.
+
+## III. Un nom pour cela
+
+Deux jours après leur retour, Hasol posa le mauvais registre devant Yoon.
+
+La Sage parcourut les premières lignes.
+
+— Je suis certaine que les frais de transport sont passionnants, mais je venais chercher tes disponibilités.
+
+— Pardon.
+
+Hasol récupéra le document, en ouvrit un autre, puis s’arrêta sous le regard de son amie.
+
+Elles se trouvaient dans le petit salon de la maison Shun. La pluie du matin avait cessé ; par la fenêtre ouverte leur parvenait l’odeur humide du jardin. Yoon avait relevé ses cheveux violets aux reflets roses et portait une tunique souple sur une jupe claire. Elle s’était installée avec l’aisance de quelqu’un qui connaissait désormais les habitudes de la maison.
+
+— Qu’est-ce qui se passe ?
+
+— Rien.
+
+Yoon attendit.
+
+Hasol regarda les dossiers, puis repoussa l’ensemble de la pile.
+
+— Est-ce que Samia aime ton frère ?
+
+La Sage cligna des yeux. Elle posa lentement sa tasse.
+
+— C’est donc ça.
+
+Hasol sentit ses joues chauffer.
+
+— Je posais seulement une question.
+
+— Oui. Et tu as le droit de la lui poser. Je ne vais pas te raconter à sa place ce qu’elle m’a confié.
+
+Hasol baissa la tête.
+
+— Tu as raison.
+
+Un silence passa. Yoon ne souriait plus avec malice. Elle s’était rapprochée sur le canapé.
+
+— Pourquoi veux-tu le savoir ?
+
+— Parce que je me comporte stupidement.
+
+— Qu’est-ce que tu as fait ?
+
+— Rien. C’est justement… Je n’ai rien fait, mais j’ai pensé des choses idiotes. À la réunion. Pendant la mission aussi.
+
+Elle expliqua la chaise qu’elle n’avait pas prise, l’agacement en voyant Samia rire avec Zio et la honte qui avait suivi. Les mots sortirent par à-coups. Elle n’avait jamais eu de difficulté à défendre un avis sur une commande ; ici, chaque phrase lui semblait révéler quelque chose de plus embarrassant que la précédente.
+
+Yoon l’écouta jusqu’au bout.
+
+— Tu as été injuste avec elle ?
+
+Hasol chercha dans ses souvenirs.
+
+— Je ne crois pas. J’espère que non.
+
+— Alors commence par ne pas l’être maintenant.
+
+Elle acquiesça, les doigts serrés autour de sa tasse.
+
+— Je l’aime beaucoup, tu sais.
+
+— Je sais.
+
+— Je ne veux pas qu’elle pense que…
+
+— Hasol. Avant de décider ce que Samia pourrait penser, tu devrais peut-être comprendre ce que tu ressens, toi.
+
+La jeune femme resta immobile.
+
+Dans le jardin, quelqu’un déplaçait une échelle contre un mur. Le bruit lui parut extraordinairement net. Elle chercha une réponse qui lui permettrait encore de présenter tout cela comme un malaise sans importance.
+
+Elle n’en trouva aucune.
+
+— Je voudrais être avec lui, murmura-t-elle.
+
+Yoon lui prit doucement la main.
+
+— Pour les missions ?
+
+Hasol releva les yeux. Son amie ne se moquait pas. Elle lui donnait simplement la possibilité d’être plus précise.
+
+— Pas seulement. Quand il vient à l’atelier, je suis contente avant même de savoir pourquoi il est là. Je garde des choses à lui raconter. Et quand il repart…
+
+Elle s’interrompit, surprise de la facilité avec laquelle les exemples venaient désormais.
+
+— Quand il repart, j’aurais voulu qu’il reste.
+
+La Sage serra ses doigts.
+
+— Voilà une information plus utile que les frais de transport.
+
+Hasol eut un rire nerveux.
+
+— Je ne sais même pas depuis quand.
+
+— Tu n’as pas besoin d’une date.
+
+Elle réfléchit à Zio, à sa présence dans le jardin après les adieux à son père, aux entraînements, aux repas trop longs et aux discussions qui continuaient lorsqu’ils avaient déjà rangé les cartes. Elle n’avait pas vu un événement changer brusquement leur relation. Elle découvrait qu’elle avait commencé à attendre davantage de moments qui existaient déjà.
+
+— Je suis jalouse, dit-elle enfin, avec une grimace.
+
+— Oui, répondit Yoon sans cruauté. Maintenant que tu le sais, tu peux éviter de laisser cette jalousie décider à ta place.
+
+Hasol souffla lentement.
+
+— Et si lui ne ressent rien ?
+
+Yoon ouvrit la bouche, puis sembla choisir ses mots.
+
+— Je ne vais pas te faire une promesse en son nom.
+
+— Je sais.
+
+— En revanche, moi, je peux te dire quelque chose.
+
+Hasol la regarda.
+
+Un sourire reparut sur le visage de son amie.
+
+— J’aimerais beaucoup que tu deviennes ma belle-sœur.
+
+— Yoon !
+
+— Tu voulais de la franchise.
+
+Hasol cacha son visage dans sa main libre. Yoon rit, mais ne lâcha pas l’autre.
+
+— Ce n’est pas un ordre, ajouta-t-elle. Ni une décision d’équipe. Je veux que vous soyez heureux, tous les deux. Et Samia aussi.
+
+— Moi aussi.
+
+Hasol le dit sans hésiter.
+
+Cette certitude lui permit enfin de relever la tête.
+
+## IV. La demande de Samia
+
+Samia arriva à l’atelier avec une caisse, un rouleau de plans et une requête qui n’avait rien à voir avec Zio.
+
+— Il me faut une table sur laquelle nous pourrons laisser le travail plusieurs jours.
+
+Hasol l’aida à poser la caisse.
+
+— Bonjour à toi aussi.
+
+— Bonjour. Une table solide, si possible. Et où l’on ne viendra pas ranger les pièces parce qu’elles gênent une commande.
+
+La Ranger ouvrit le couvercle. À l’intérieur reposaient des plaques de bois, des éléments de serrure et des morceaux de mécanismes manifestement mis hors d’usage. Elle les disposa avec soin sur un tissu.
+
+— Je voudrais en faire des exercices. Pas seulement pour toi. J’ai vu des chasseurs traverser un couloir sans savoir ce que celui de devant avait vérifié. Ils s’arrêtent quand je m’arrête, mais personne ne sait ce qu’il faut annoncer s’il remarque quelque chose avant moi.
+
+Hasol prit le plan qu’elle lui tendait.
+
+— Tu veux leur apprendre à désamorcer ?
+
+— Pas leur faire croire qu’ils savent. Leur apprendre à regarder et à s’arrêter serait déjà un bon début.
+
+Samia montra un assemblage démonté.
+
+— Je peux expliquer un mécanisme au milieu d’un donjon. Mais j’aimerais le faire sans qu’un monstre attende au bout du passage. Et sans que chaque erreur puisse blesser quelqu’un.
+
+Hasol parcourut les croquis. Ils étaient nets, annotés de remarques très pratiques. Plusieurs pièces portaient des traces d’essais et de corrections.
+
+— Tu travailles là-dessus depuis longtemps ?
+
+— Assez pour savoir que je manque de place chez moi.
+
+— Nous allons demander à Orven. Il y a peut-être moyen de réserver un coin après les livraisons.
+
+Samia la regarda avec soulagement.
+
+— Je ne te demande pas de payer tout mon matériel.
+
+— Je ne te le proposais pas. Une table, c’est une table.
+
+— Avec toi, on ne sait jamais. Tu pourrais décider qu’il faut améliorer les meubles jusqu’à un palier exceptionnel.
+
+Hasol éclata de rire. Le rire lui fit du bien, puis la gêne revint. Elle posa le plan.
+
+— Samia… Est-ce que nous pouvons parler d’autre chose, avant d’aller voir maître Orven ?
+
+La Ranger referma sa caisse. Elle s’appuya contre l’établi.
+
+— Oui.
+
+Hasol inspira, se rappela les mots de Yoon et renonça à toute entrée prudente.
+
+— Je crois que je suis amoureuse de Zio. Et j’ai été jalouse de toi.
+
+Samia ne répondit pas immédiatement. Elle regarda Hasol avec attention, puis baissa les yeux vers une petite pièce qu’elle avait gardée dans la main.
+
+— Je me demandais quand tu allais t’en apercevoir.
+
+— Que j’étais jalouse ?
+
+— Que tu l’aimais.
+
+La jeune Arcaniste sentit ses joues s’embraser.
+
+Samia fit tourner la pièce entre ses doigts.
+
+— Oui, il m’a plu, dit-elle. Bien avant de vous rejoindre. Je le voyais à l’Académie. Il était beau, il avait l’air de toujours savoir quoi faire… Et quand Yoon m’a parlé de votre groupe, je n’ai pas été aussi détachée que je voulais le faire croire.
+
+Elle eut un petit sourire.
+
+— Je n’avais pas été très convaincante, de toute façon.
+
+Hasol ouvrit la bouche, mais Samia leva la main.
+
+— Laisse-moi finir. Au début, j’espérais qu’en passant du temps avec lui… Enfin, tu comprends.
+
+Hasol acquiesça, la gorge nouée.
+
+— Mais je vous ai vus ensemble. Pas seulement quand l’un de vous regarde ailleurs et que l’autre en profite. Quand vous discutez, quand tu contestes une idée et qu’il attend vraiment ta réponse. J’ai compris assez vite que je n’étais pas en train de manquer une occasion parce que je ne souriais pas assez fort.
+
+La Ranger posa enfin la pièce.
+
+— Ça m’a déçue. Un peu plus que je ne l’aurais dit à Yoon sur le moment. Puis c’est passé autrement. J’ai découvert le groupe, le travail, toi. J’aime être ici pour beaucoup plus de raisons que celles avec lesquelles j’étais arrivée.
+
+Hasol regarda les plans étalés entre elles. Ils lui parurent soudain plus importants encore.
+
+— Je ne voulais pas te blesser.
+
+— Alors ne me présente pas tes excuses comme si tu m’avais pris quelque chose.
+
+La voix de Samia resta douce.
+
+— Il ne m’avait rien promis. Et toi non plus.
+
+Hasol expira. Elle ignorait depuis combien de temps elle retenait son souffle.
+
+— Tu es certaine que ça va ?
+
+Samia eut une moue amusée.
+
+— Je suis capable d’avoir été triste sans que tu aies à me surveiller pendant les dix prochaines années.
+
+— D’accord.
+
+— Et je suis capable de vouloir que ça marche entre vous.
+
+Elles se sourirent, encore un peu maladroitement. Hasol fit le tour de l’établi pour la prendre dans ses bras. Samia la serra, puis s’écarta la première.
+
+— Bien. Maintenant, allons négocier notre table.
+
+— Notre table ?
+
+— Tu croyais que j’allais te dispenser de travailler parce que nous avions parlé de tes sentiments ?
+
+Hasol récupéra le rouleau de plans.
+
+— Certainement pas.
+
+La semaine suivante, elle trouva Samia et Zio dans la cour du Griffon d’Argent. La Ranger venait manifestement de terminer une phrase ; le Gardien avait l’air beaucoup moins assuré que devant leurs cartes de mission.
+
+Hasol s'arrêta, incertaine.
+
+Samia la salua naturellement, ramassa son arc et annonça qu’elle avait promis de retrouver Yoon. En passant près de Zio, elle lui donna un petit coup de coude.
+
+— Et ne transforme pas ça en reconnaissance de terrain. Demande-lui simplement.
+
+Puis elle s’éloigna.
+
+Hasol regarda le Gardien.
+
+— Me demander quoi ?
+
+Zio se redressa.
+
+— Si tu accepterais de dîner avec moi.
+
+Il marqua une pause assez longue pour qu’elle entende la fontaine derrière eux.
+
+— Sans les autres, précisa-t-il.
+
+Hasol sentit son cœur accélérer.
+
+— Oui.
+
+Il eut l’air soulagé, puis un peu perdu.
+
+— Ce soir ?
+
+Elle sourit.
+
+— Ce soir.
+
+## V. Ce qu’il n’avait jamais dit
+
+Hasol avait déjà mangé des dizaines de fois avec Zio. Elle découvrit ce soir-là qu’elle ne savait plus très bien où poser ses mains.
+
+Elle avait choisi une robe souple, d’un bleu assourdi, et recommencé deux fois à attacher ses cheveux avant de renoncer à obtenir un résultat différent. Zio portait une tunique sombre aux manches simples. En le voyant se lever pour l’accueillir, sans bouclier ni sac de voyage, elle éprouva une joie presque intimidante.
+
+Ils parlèrent d’abord de choses parfaitement familières.
+
+De la table qu’Orven avait accepté de laisser à Samia certains jours. D’une correction apportée par Ray à un vieux rapport. Du pain servi trop chaud pour qu’Hasol puisse le rompre sans se brûler les doigts.
+
+Zio lui passa le beurre, oublia qu’il venait de le faire et le lui proposa une seconde fois.
+
+Elle baissa les yeux pour cacher son sourire.
+
+— Tu n’es pas obligé de vérifier que je dispose de toutes mes ressources avant de commencer le repas.
+
+Le Gardien resta une seconde immobile, puis rit.
+
+— Je suis moins à l’aise que je ne l’avais espéré.
+
+— Moi aussi.
+
+Cet aveu changea quelque chose. Hasol réussit à prendre une bouchée. Zio posa enfin ses avant-bras sur la table au lieu de rester droit comme à un entretien.
+
+Ils quittèrent l’auberge après le repas et marchèrent longtemps, en ralentissant chaque fois que la rue leur offrait un prétexte pour ne pas choisir immédiatement une direction. Des boutiques fermaient. Un homme rangeait des paniers sous un auvent ; l’odeur des fruits mûrs se mêlait à celle de la cire et de la fumée des cuisines.
+
+Près d’un jardin tranquille, Zio lui demanda s’ils pouvaient s’asseoir.
+
+Hasol acquiesça.
+
+Le bois du banc avait gardé un peu de la chaleur du jour. Elle replia les mains sur ses genoux et attendit. Zio suivit du regard les derniers passants, puis se tourna vers elle.
+
+— Je n’avais pas seulement envie de te proposer un dîner.
+
+— Je m’en doutais.
+
+Elle avait répondu trop vite. Il sourit, et elle rougit.
+
+— Samia m’a dit que je compliquais les choses, reprit-il.
+
+— C’est ce qu’elle nous dit souvent.
+
+— Cette fois, elle avait raison.
+
+Il inspira.
+
+— Je suis amoureux de toi, Hasol. Et j’aimerais savoir si tu voudrais que nous essayions d’être ensemble autrement qu’en compagnons de mission.
+
+Les mots étaient simples. Hasol les avait espérés depuis qu’il l’avait invitée. Pourtant, lorsqu’elle les entendit, elle sentit monter une émotion qui lui ôta toute réponse immédiate.
+
+Zio baissa les yeux vers ses mains silencieuses.
+
+— Tu n’es pas obligée de répondre maintenant.
+
+Elle lui prit le poignet.
+
+— Si. Enfin… Je veux répondre maintenant.
+
+Il releva la tête.
+
+Hasol eut un rire bref, embarrassé par ses propres mots.
+
+— Moi aussi, je suis amoureuse de toi. Je viens seulement d’arrêter d’essayer de l’expliquer autrement.
+
+Zio resta immobile une seconde. Elle le vit réellement comprendre ; son visage se détendit, son souffle changea. Cela la toucha plus encore que si tout lui avait semblé évident.
+
+— Tu avais peur ? demanda-t-elle doucement.
+
+Il rit sans détourner les yeux.
+
+— Énormément.
+
+— Toi ?
+
+— Moi.
+
+Elle regarda sa main qui entourait encore son poignet et la desserra un peu.
+
+— Je croyais que quelqu’un d’aussi…
+
+Elle chercha un mot. Zio l’attendit, et cela la fit rire.
+
+— Que quelqu’un comme toi devait savoir.
+
+— Savoir si tu m’aimes ?
+
+Hasol acquiesça.
+
+— Je sais tenir un bouclier, dit-il. Ça m’aide très peu pour deviner ce que tu ressens quand tu viens t’asseoir près de moi.
+
+Elle rit avec lui. Ses doigts descendirent jusqu’à sa main.
+
+Ils restèrent un moment sans chercher d’autres paroles. Puis Hasol posa la question qui lui vint, plus timidement qu’elle ne l’aurait voulu :
+
+— Depuis quand ?
+
+Zio observa leurs mains jointes.
+
+— Ce n’est pas une réponse aussi simple que je l’aurais cru autrefois.
+
+Elle attendit.
+
+— Tu m’as plu dès tes premiers jours à l’Académie.
+
+Hasol se tourna tout à fait vers lui.
+
+— Dès mes premiers jours ?
+
+— Oui. J’ai eu ce que je crois bien devoir appeler un coup de foudre.
+
+Il sourit avec un embarras qu’elle ne lui connaissait pas.
+
+— Je ne savais presque rien de toi. Je te voyais arriver avec tes livres et tes questions, puis recommencer les exercices alors que tu étais déjà épuisée. Je te trouvais belle. J’admirais cette obstination. Et je me racontais beaucoup de choses sur la personne que tu étais.
+
+Hasol essaya de retrouver, dans ses souvenirs, quelque signe qu’elle aurait manqué. Il avait été pour elle l’étudiant plus âgé que les autres saluaient, puis celui qui lui avait rendu son carnet. Elle n’avait jamais imaginé qu’il l’avait remarquée si tôt.
+
+— Pourquoi tu ne m’as rien dit ?
+
+— Parce que je n’osais pas. Parce que je ne te connaissais pas réellement. Et ensuite…
+
+Il prit le temps de chercher ses mots.
+
+— Quand je t’ai défendue, tu venais d’être humiliée. Je ne voulais pas ajouter à cette journée l’obligation de comprendre ce que j’attendais de toi. Je n’avais pas à attendre quelque chose en échange.
+
+Hasol sentit ses yeux la piquer. Elle revit le carnet rendu, le soulagement presque douloureux de pouvoir récupérer ses pages sans avoir à les arracher à quelqu’un.
+
+— Je ne savais pas, murmura-t-elle.
+
+— Je sais.
+
+Zio passa doucement son pouce sur ses doigts.
+
+— Mais je ne veux pas non plus te dire que j’aimais déjà tout de toi. Ce serait faux. J’étais surtout amoureux de ce que j’imaginais. Nous avons parlé davantage après. J’ai connu ta façon de rire, de te mettre en colère, de refuser de dormir quand tu crois qu’une commande ne peut pas attendre…
+
+— Je fais des efforts.
+
+— Je les ai remarqués.
+
+Elle lui donna un petit coup d’épaule. Il sourit, puis reprit :
+
+— J’ai appris à connaître quelqu’un qui ne correspondait pas toujours à ce que j’avais inventé. Heureusement. Tu es beaucoup plus intéressante. Et beaucoup plus difficile à convaincre.
+
+Hasol rit malgré les larmes qui lui étaient venues.
+
+— Le temps passé ensemble a changé ce que je ressentais, continua-t-il. Aujourd’hui, j’ai envie de savoir comment s’est passée ta journée, même quand nous n’avons aucun combat à préparer. J’ai envie que tu me racontes pourquoi un contrat t’a contrariée. Et que tu sois là quand c’est moi qui ne sais plus ce que je fais.
+
+Elle regarda son visage. Il ne lui promettait pas de tout arranger. Elle ne se sentait pas appelée à devenir la personne qu’il avait imaginée dans une cour d’Académie.
+
+— Tu aurais pu commencer par ça, souffla-t-elle.
+
+— J’avais préparé d’autres phrases. Elles ne me paraissaient plus très bonnes une fois ici.
+
+— Celle-là me plaît.
+
+Hasol se rapprocha. Zio leva sa main libre vers sa joue, s’arrêta assez pour qu’elle puisse se détourner. Elle vint à sa rencontre.
+
+Leur premier baiser fut hésitant. Hasol sourit au mauvais moment, effleura son nez, recula en riant et dut recommencer. Cette maladresse lui donna le courage qui lui manquait encore.
+
+Lorsqu’ils quittèrent le banc, elle ne lâcha pas sa main.
+
+Devant la maison Shun, ils trouvèrent plusieurs choses urgentes à se dire, puis d’autres moins urgentes. Enfin, Hasol dut reconnaître que les lumières s’éteignaient une à une derrière les fenêtres.
+
+— À demain ? demanda Zio.
+
+— À demain.
+
+Elle monta l’escalier avec un sourire qu’elle ne tenta même pas de cacher.
+
+Iseria la croisa sur le palier, vêtue d’une robe de style elfique dont les broderies pâles luisaient dans la lumière de la lampe.
+
+Elle regarda sa fille, puis la porte du jardin.
+
+— Tu as passé une bonne soirée ?
+
+Hasol sentit son sourire grandir encore.
+
+— Oui, maman.
+
+Iseria lui caressa la joue.
+
+— Alors tu me raconteras demain.
+
+Pour une fois, Hasol avait envie de dormir afin que demain arrive plus vite.
+
+## VI. Apprendre à rester
+
+Leur première difficulté de couple fut un dîner qui refroidit.
+
+Hasol avait promis de quitter l’atelier avant la fermeture. Une commande avait pris du retard ; elle avait voulu terminer la vérification des notes, puis répondre à une question, puis s’assurer qu’un courrier pouvait partir le lendemain. Lorsqu’elle se souvint enfin de l’heure, elle trouva Zio assis dans le petit salon, devant deux assiettes couvertes.
+
+Il avait retiré son manteau. Une lampe éclairait le livre fermé près de sa main.
+
+— Je suis désolée.
+
+— Tu aurais pu m’avertir.
+
+Hasol posa sa sacoche.
+
+— Je pensais n’en avoir que pour quelques minutes.
+
+— Au début, certainement.
+
+Il n’avait pas élevé la voix. Cela lui ôta la possibilité commode de se défendre contre un reproche exagéré.
+
+— Tu aurais dû commencer sans moi, dit-elle.
+
+— J’aurais pu. Mais j’avais envie de manger avec toi. C’est ce que nous avions prévu.
+
+Hasol regarda la seconde assiette. Elle ressentit une honte bien différente de celle de l’Académie : personne ne lui disait qu’elle n’était pas capable. Quelqu’un lui montrait qu’il l’avait attendue.
+
+Elle tira sa chaise.
+
+— Tu as raison.
+
+Zio parut surpris. Elle eut un sourire las.
+
+— Ne prends pas cet air. Je peux le dire.
+
+— Je voulais seulement savoir si nous dînions encore ensemble.
+
+— Oui. Si tu en as toujours envie.
+
+Il poussa le plat vers elle.
+
+Ils mangèrent tiède et parlèrent sans se disputer. Hasol lui expliqua ce qui l’avait retenue, puis comprit en l’écoutant raconter sa propre journée qu’elle n’avait pas encore pensé à la lui demander.
+
+Elle le fit.
+
+Zio parla d’un entraînement qui s’était moins bien passé qu’il ne l’espérait. Son geste défensif était resté trop prévisible ; il en était contrarié, et l’expression presque enfantine avec laquelle il reconnut avoir voulu recommencer encore plut à Hasol.
+
+— Tu vois ? dit-elle.
+
+— Je vois surtout le piège dans lequel je viens d’entrer.
+
+— Je ne dirai rien.
+
+Elle tendit la main au-dessus de la table.
+
+— Sauf que je suis contente que tu me l’aies raconté.
+
+Les jours suivants, ils apprirent à ne pas traiter leur relation comme un espace qui se remplirait tout seul entre deux obligations. Hasol prévint lorsqu’elle était retenue. Zio lui dit lorsqu’il avait envie de la voir, au lieu de lui proposer systématiquement une aide dont elle n’avait pas besoin. Il lui arriva de souhaiter une soirée tranquille alors qu’elle avait envie de rejoindre les autres ; ils découvrirent qu’on pouvait se séparer pour quelques heures sans que personne ait mal choisi.
+
+Yoon accueillit l’annonce de leur couple avec une retenue qui ne dura que le temps d’une inspiration.
+
+Elle prit Hasol dans ses bras, embrassa son frère sur la joue et déclara qu’elle avait fait preuve d’une patience admirable.
+
+— Personne ne t’a demandé d’attendre, objecta Zio.
+
+— C’est bien ce qui rend mon effort si remarquable.
+
+Samia applaudit avec un sérieux exagéré. Ray ajusta ses lunettes, chercha manifestement une formule et finit par leur dire qu’il était heureux pour eux.
+
+— Tu peux respirer, Ray, lui dit Hasol. Nous n’allons pas te demander un rapport.
+
+Il sourit.
+
+— J’aurais au moins eu quelque chose de précis à rédiger.
+
+Le groupe ne changea pas de composition parce que deux de ses membres s’aimaient. Les premières sorties leur en fournirent des rappels très concrets. Lorsque Zio consacra trop d’attention au côté occupé par Hasol, Samia lui signala l’ouverture laissée ailleurs. Lorsqu’Hasol se retourna pour vérifier où il était au lieu d’annoncer un déplacement, Yoon lui demanda si elles devaient recommencer à travailler les bases.
+
+Personne ne transforma ces erreurs en drame. Ils les corrigèrent.
+
+À l’atelier aussi, la vie continuait. Hasol recevait ses clients, comparait leurs besoins aux analyses de l’Œil, établissait les budgets. Elle connaissait l’aisance financière qui lui permettait de ne plus compter chaque petite dépense, mais une journée passée à examiner des runes exigeait toujours son attention entière. Les pierres de mana et son Mana personnel se consommaient à chaque tentative ; l’échec faisait toujours partie du métier.
+
+Un soir, Zio la trouva devant les registres d’une commande interrompue. Elle lui montra les dépenses engagées, sans sortir les pierres de leurs coffrets.
+
+— Je sais où nous allons, expliqua-t-elle. Mais je dois demander au client s’il veut encore poursuivre maintenant. Je ne vais pas décider de son budget à sa place parce que je pourrais payer moi-même.
+
+Zio tira une chaise.
+
+— Tu veux que je relise ta lettre ?
+
+— Tu vas comprendre ce que j’ai écrit ?
+
+— Si ce n’est pas le cas, ton client risque d’avoir le même problème.
+
+Elle lui tendit la feuille avec un sourire.
+
+Il lut, posa des questions et lui fit supprimer une phrase trop longue. Hasol protesta, la relut à voix haute et se mit à rire avant d’en atteindre le bout.
+
+Ils finirent la lettre ensemble. Ensuite, elle éteignit la lampe de l’établi.
+
+Il restait du travail pour le lendemain. Elle savait exactement lequel.
+
+Cela ne l’empêcha pas de rentrer avec lui.
+
+## VII. Le travail des yeux
+
+Les leçons de Samia occupèrent d’abord les matinées qu’Hasol parvenait à libérer. Puis elles trouvèrent une place plus régulière, assez modeste pour durer : une séance après certaines commandes, une autre avant une réunion, des observations en mission lorsqu’il était possible de s’arrêter sans gêner le groupe.
+
+La table accordée par Orven devint reconnaissable au premier regard. Des panneaux démontables y attendaient sous une toile ; Samia exigeait que chaque pièce retrouve son compartiment, mais refusait qu’on modifie un assemblage préparé pour une leçon. Hasol apprit à ne plus poser ses dossiers sur le premier espace libre.
+
+— Celui-ci est sûr, annonça-t-elle un matin.
+
+Samia ne répondit pas.
+
+Hasol avait posé la main au-dessus d’une planche percée de deux ouvertures. Elle la retira.
+
+— Enfin… Je n’ai rien repéré.
+
+— Voilà ce que tu sais. Montre-moi ce que tu as vérifié.
+
+Il n’y avait rien de dangereux dans l’exercice. Hasol le savait, et cela n’empêcha pas sa contrariété lorsqu’elle découvrit qu’elle avait examiné la face visible sans réfléchir à ce qui pouvait se trouver dessous.
+
+Samia lui fit reprendre le chemin de son regard. Pas ses conclusions : l’ordre des observations, le détail qui l’avait attirée, celui qu’elle avait écarté parce qu’il lui semblait banal.
+
+— Tu cherches une réponse, lui dit-elle. Cherche d’abord ce que tu n’as pas regardé.
+
+Hasol nota la remarque. Plus tard, elle la retrouva à côté d’une explication d’Orven sur un dossier incomplet. Les deux écritures se ressemblaient peu ; l’exigence, beaucoup.
+
+La première année après ses vingt-cinq ans, elle reconnut davantage de choses. Cela ne la rendit pas rapidement compétente. Il lui arriva de désigner une fissure due au bois sec, de prendre une réparation ordinaire pour une commande dissimulée, de manquer un mécanisme qu’elle connaissait parce qu’il était présenté dans l’autre sens.
+
+Samia ne la laissa pas confondre l’enthousiasme avec la maîtrise.
+
+Mais elle ne l’empêcha jamais d’essayer sur les exercices préparés.
+
+Lorsque la saison froide revint, Hasol avait les doigts rougis et un assemblage démonté devant elle. Samia travaillait de l’autre côté de la table à une nouvelle série de supports. Elle devait bientôt montrer ses exercices à d’autres chasseurs, et cette perspective la rendait inhabituellement silencieuse.
+
+— Tu as peur qu’ils ne t’écoutent pas ? demanda Hasol.
+
+La Ranger releva les yeux.
+
+— J’ai peur de leur donner l’impression que c’est simple.
+
+Hasol posa son outil.
+
+— Tu pourrais commencer par me faire montrer la manière dont je m’y prenais au début.
+
+Samia la regarda, puis un sourire lui échappa.
+
+— Nous n’avons pas toute la journée.
+
+— Très drôle.
+
+— Mais… Oui. Pas pour les faire rire. Pour leur montrer une erreur qu’ils pourront reconnaître avant de la refaire.
+
+Elles préparèrent la séance ensemble. Hasol écouta Samia reprendre ses explications, lui posa des questions, demanda où elle pouvait se placer pour que les autres voient ses mains. Le jour venu, elle demeura en retrait et regarda la Ranger occuper sa place devant les chasseurs réunis.
+
+Samia ne parlait pas comme Orven. Elle avait sa façon de montrer un objet, de laisser quelqu’un répondre, puis de retourner le support pour révéler ce qu’il n’avait pas vu. Hasol sentit une fierté tranquille en l’entendant rire avec ceux qui venaient d’échouer à leur premier exercice.
+
+Après leur départ, la Ranger s’assit par terre au milieu des caisses.
+
+— Alors ?
+
+Hasol s’assit près d’elle.
+
+— Ils regardaient encore quand tu as arrêté de parler.
+
+Samia baissa les yeux, puis sourit.
+
+— C’est bon signe.
+
+Au fil des mois, les séances continuèrent. Les projets de Samia prenaient du temps ; il arrivait qu’elle reporte leur rendez-vous, et Hasol apprit à attendre comme les autres attendaient ses commandes. Elles parlaient de leurs travaux, de Yoon, du repas qu’elles avaient oublié de prévoir. Zio n’avait pas disparu des conversations, mais il n’en était plus le centre embarrassant.
+
+Hasol savait désormais qu’elle avait failli réduire son amie à une question qui la concernait elle seule.
+
+Elle préférait de loin la connaître ainsi : les cheveux blonds mal retenus après une matinée de travail, une planche sous le bras, occupée à lui expliquer pourquoi son dessin était incompréhensible pour quelqu’un qui ne connaissait pas déjà la solution.
+
+Un jour, dans un donjon où l’air froid lui faisait mal aux dents, elle s’arrêta avant le signal de Samia.
+
+Le groupe avançait dans une galerie au sol sec. Devant elle, une portion de dallage paraissait presque trop nette.
+
+Hasol leva la main.
+
+— Attendez.
+
+Zio s’immobilisa. Yoon s’arrêta derrière lui. Samia rejoignit Hasol sans sortir immédiatement ses outils.
+
+— Qu’est-ce que tu as vu ?
+
+Hasol allait désigner un joint. Mais au même instant, son regard changea.
+
+Une perception différente se superposa aux pierres. Elle connaissait cette netteté intime : celle de l’Œil lorsqu’une rune cessait d’être seulement une surface gravée et lui livrait des informations qu’elle n’aurait pu lire autrement.
+
+Cette fois, ce n’était pas une rune d’équipement.
+
+Hasol retint son souffle. Elle n’avança pas.
+
+<div class="system-window lit-window" data-window-id="C13-F01" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C13-F01-mobile.svg">
+    <img src="assets/fenetres/C13-F01.svg" alt="Fenêtre du système — COMPÉTENCE AMÉLIORÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>COMPÉTENCE AMÉLIORÉE</div>
+  <h3>Œil runique</h3>
+  <p><strong>Type :</strong> <span class="passive-badge">Compétence passive</span></p>
+  <p><strong>Nouvel effet :</strong> Détection des pièges.</p>
+  <p>Les effets de lecture des runes sont conservés.</p>
+  </details>
+</div>
+
+Elle lut la fenêtre, puis regarda de nouveau le sol. Son cœur battait avec une force presque ridicule dans le silence de la galerie.
+
+— Il vient de changer, murmura-t-elle.
+
+Samia tourna la tête vers elle.
+
+— Ton Œil ?
+
+Hasol acquiesça. Elle lui expliqua ce qu’elle voyait, en s’obligeant à distinguer la perception nouvelle de ses propres suppositions.
+
+La Ranger l’écouta, puis s’agenouilla pour examiner le passage.
+
+— Ne bouge pas encore.
+
+Hasol resta où elle était. Détecter le piège ne lui avait donné aucun geste certain pour l’interrompre. Elle voyait ce qu’il fallait éviter ; elle ne savait pas encore comment rendre la voie sûre.
+
+Samia travailla longtemps. Les autres surveillaient la galerie sans la presser. Hasol la regardait, partagée entre l’envie de bondir de joie et celle de comprendre chaque mouvement.
+
+Lorsque la Ranger leur indiqua enfin le passage, elle attendit que chacun ait traversé pour rejoindre Hasol.
+
+— Tu as bien fait de t’arrêter.
+
+— J’ai failli avancer avant que…
+
+— Mais tu ne l’as pas fait.
+
+Samia sourit.
+
+— Nous regarderons tout ça au calme en rentrant.
+
+Hasol acquiesça. Elle aurait aimé la serrer dans ses bras, mais le couloir était étroit et Zio attendait encore son annonce pour repartir.
+
+— C’est bon, dit-elle.
+
+Le Gardien la regarda avec un sourire qu’elle connaissait bien. Celui qu’il avait lorsqu’il était heureux pour elle sans avoir besoin de parler à sa place.
+
+Hasol lui rendit son sourire, puis reprit sa position.
+
+## VIII. Ce qui s’ouvre
+
+L’évolution de l’Œil ne fit pas disparaître la table de Samia.
+
+Hasol y revint dès la semaine suivante avec ses observations. Elles comparèrent ce qu’elle avait perçu à ce que la Ranger avait réellement fait. Hasol conservait sa lecture des runes ; à l’atelier, ses analyses personnelles de résultats finaux ne s’étaient pas transformées en connaissance universelle de tous les objets. Dans les galeries, elle apprenait à communiquer clairement l’existence d’un danger sans lui attribuer un fonctionnement qu’elle ne comprenait pas encore.
+
+Les coffres leur posèrent d’autres difficultés.
+
+Au début, Hasol aurait volontiers consacré toutes leurs séances à la partie la plus spectaculaire. Samia lui fit plutôt démonter des serrures d’exercice, replacer des pièces, comparer ce qui bougeait à ce qui ne faisait que sembler mobile.
+
+Hasol connaissait déjà les outils depuis longtemps. Elle apprit pourtant qu’on pouvait tenir correctement un instrument sans comprendre pourquoi on l’utilisait.
+
+— Tu forces, dit Samia.
+
+Hasol relâcha la pression.
+
+— Ça ne bouge pas.
+
+— Je sais.
+
+— Alors…
+
+— Recommence plus doucement.
+
+Elle recommença. Le petit mécanisme glissa si légèrement qu’elle faillit ne pas le sentir.
+
+Samia sourit avant qu’elle ait relevé la tête.
+
+— Voilà.
+
+Hasol resta penchée, attentive au bout de ses doigts.
+
+Le temps passa de cette manière, par des découvertes trop petites pour mériter un récit de victoire et assez importantes pour lui donner envie de revenir. Une soirée, elle expliqua à Zio qu’elle avait enfin compris un exercice sur lequel elle butait depuis plusieurs séances. Il lui demanda de le lui montrer.
+
+Elle installa le support devant lui. Il essaya, prit un air très sérieux et ne parvint à rien.
+
+Hasol voulut lui expliquer immédiatement. Il leva les yeux.
+
+— Attends. Laisse-moi chercher.
+
+Elle referma la bouche et s’assit sur ses mains pour ne pas intervenir.
+
+Au bout d’un moment, Zio tourna la tête vers elle.
+
+— Je comprends mieux pourquoi Samia a parfois besoin de partir marcher après vos leçons.
+
+Hasol lui lança le coussin qu’elle venait de prendre.
+
+Ils riaient encore lorsqu’Iseria entra leur demander s’ils comptaient déplacer tous les meubles avant le dîner.
+
+Hasol approchait désormais de ses vingt-huit ans. Leurs habitudes avaient trouvé une souplesse qu’elles n’avaient pas eue au début. Zio passait davantage de temps dans la maison ; elle connaissait le bruit de ses pas dans l’escalier, la manière dont il laissait sa tasse trop près du bord, son goût pour les matinées sans rendez-vous. Il savait qu’il fallait parfois lui demander de raconter le début d’une histoire plutôt que de commencer par sa conclusion technique.
+
+Ils partaient toujours avec les autres. Certains retours étaient silencieux de fatigue. D’autres s’achevaient à une table où Ray essayait de terminer son rapport pendant que Samia lui déplaçait l’encrier.
+
+Ce fut après l’un de ces retours, au cours d’une séance ordinaire avec la Ranger, que Main runique apparut.
+
+Hasol travaillait sur un petit coffre réservé aux exercices, son mécanisme examiné au préalable avec Samia. La lumière de fin de journée descendait sur la table. Dans la pièce voisine, Orven discutait avec un employé de l’ordre des livraisons.
+
+Elle avait retiré ses outils pour reprendre ses observations.
+
+Une impulsion de Mana lui fit lever les yeux. Elle regarda sa main, puis la fenêtre qui venait d’apparaître.
+
+<div class="system-window lit-window" data-window-id="C13-F02" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C13-F02-mobile.svg">
+    <img src="assets/fenetres/C13-F02.svg" alt="Fenêtre du système — NOUVELLE COMPÉTENCE DÉBLOQUÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>NOUVELLE COMPÉTENCE DÉBLOQUÉE</div>
+  <h3>Main runique</h3>
+  <p><strong>Type :</strong> Compétence active</p>
+  <p><strong>Effet :</strong> Permet l’ouverture des coffres.</p>
+  </details>
+</div>
+
+— Samia…
+
+La Ranger s’approcha.
+
+Hasol lui montra la notification. Samia la lut deux fois et repoussa une mèche blonde derrière son oreille.
+
+— Bien. Tu n’as encore rien fait ?
+
+Hasol secoua la tête.
+
+— Je viens juste de la découvrir.
+
+La Ranger dégagea la table, vérifia une nouvelle fois leur support et s’installa près d’elle.
+
+— Alors nous allons commencer avec celui-ci. Et tu vas me raconter ce qui se passe, pas ce que tu voudrais que ça fasse.
+
+Hasol sourit malgré l’émotion qui lui serrait la poitrine.
+
+— Tu sais que tu ressembles beaucoup à maître Orven ?
+
+— Tu veux que j’aille le chercher pour qu’il te fasse la même remarque ?
+
+— Non, merci.
+
+Elle se concentra. Cette fois, elle appela volontairement la compétence. Le Mana qu’elle engagea répondit au mouvement de sa main.
+
+Le mécanisme émit un déclic.
+
+Hasol ne tira pas aussitôt sur le couvercle. Elle regarda Samia. La Ranger vérifia le résultat avec elle, puis lui fit signe.
+
+Le coffre s’ouvrit.
+
+À l’intérieur, il n’y avait que les cales de bois qu’elles y avaient rangées pour empêcher les pièces de s’entrechoquer pendant le transport.
+
+Hasol se mit à rire.
+
+Samia sourit, les mains posées de chaque côté de l’objet.
+
+— C’est donc lui que tu garderas en souvenir ?
+
+— Ne te moque pas. Je pourrais.
+
+Orven passa la tête par la porte.
+
+— J’imagine que quelque chose a réussi.
+
+Hasol lui raconta. L’artisan écouta, examina le coffre sans prétendre en savoir davantage que Samia et alla chercher de quoi noter leurs premières observations.
+
+Ils ne passèrent pas la soirée à essayer d’ouvrir tout ce qui possédait une serrure. Hasol n’aurait d’ailleurs pas su expliquer jusqu’où ce nouveau pouvoir pouvait aller. Il leur fallait des essais, des supports vérifiés et le temps de distinguer ce qu’elle venait d’obtenir de ce qu’elle espérait déjà faire.
+
+Avant de partir, elle aida Samia à ranger les outils.
+
+— Tu sais, dit-elle, j’aimerais continuer.
+
+La Ranger referma un compartiment.
+
+— Je n’avais pas l’intention de te laisser croire que tu avais terminé.
+
+— Je parlais aussi de tes séances. Pour les autres. Si tu as encore besoin de moi.
+
+Samia releva les yeux.
+
+— Oui. J’aurai besoin de quelqu’un qui se souvienne très bien de ce que ça fait de ne pas comprendre.
+
+Hasol prit la dernière caisse.
+
+— Sur ce point, je suis devenue très expérimentée.
+
+Elles sortirent ensemble. Dans la rue, Zio les attendait avec un paquet de provisions et l’air prudent de quelqu’un qui ne savait pas s’il arrivait au milieu d’une discussion importante.
+
+Samia aperçut le paquet.
+
+— Dites-moi que vous avez prévu assez pour Yoon.
+
+— Elle a choisi la moitié, répondit Zio.
+
+— Alors nous sommes sauvés.
+
+Hasol lui prit la main. Elle raconterait sa découverte pendant le repas.
+
+Pour le moment, elle avait faim.
+
+## IX. Une réponse sans témoin
+
+La demande de Zio eut lieu dans le jardin, un matin où Hasol avait décidé de ne pas travailler avant midi.
+
+Il avait apporté le petit déjeuner dehors. Elle s’en était d’abord inquiétée : la table était bancale, le vent risquait d’emporter les serviettes et elle ne retrouvait pas la confiture qu’elle avait demandée. Zio la lui montra près de son coude.
+
+— Tu cherches déjà un problème à résoudre.
+
+— La stabilité de la table est un vrai problème.
+
+Il replia un morceau de bois sous le pied le plus court.
+
+— Celui-ci est réglé.
+
+Hasol posa sa tasse pour vérifier. Rien ne bougea. Elle lui adressa un sourire vaincu et se servit du pain.
+
+Ils parlèrent de la journée. Zio avait un entraînement prévu plus tard ; elle devait voir sa mère pour les affaires de la maison, puis retrouver Orven. Il lui demanda si elle serait libre le soir. Elle répondit qu’elle l’espérait, puis corrigea :
+
+— Oui. Je vais m’organiser.
+
+Il sourit, mais ne reprit pas son repas.
+
+Hasol s’en aperçut.
+
+— Qu’est-ce qu’il y a ?
+
+Zio posa sa tasse. Elle reconnut quelque chose dans son silence, une fragilité semblable à celle du banc, le soir où il lui avait déclaré son amour.
+
+— J’aimerais t’épouser.
+
+Hasol resta un instant avec son morceau de pain entre les doigts.
+
+— Maintenant ?
+
+Le visage de Zio changea.
+
+Elle se mit à rire, posa précipitamment le pain et lui prit la main.
+
+— Non, attends, je veux dire… Je ne pensais pas que tu allais me le demander pendant que je cherchais la confiture.
+
+Il eut un souffle qui ressemblait à un rire.
+
+— J’avais envisagé plusieurs moments. Ils étaient toujours interrompus par quelque chose.
+
+Hasol regarda la table, les miettes sur sa manche, la tasse de Zio dont la vapeur montait encore. Il n’y avait personne pour les observer. Aucune décision du groupe ne les avait conduits là. Elle pouvait sentir ses propres doigts trembler autour des siens.
+
+— Oui, dit-elle.
+
+Il la regarda.
+
+— Oui ?
+
+— Je veux t’épouser.
+
+Zio se leva pour la rejoindre. Elle se leva trop vite elle aussi, heurta la table du genou et renversa un peu de thé. Ils durent sauver la tasse avant de pouvoir s’embrasser.
+
+Plus tard, elle raconterait cet incident comme si tout était de sa faute à lui. Pour le moment, elle riait contre son épaule et n’avait aucune envie de rétablir les responsabilités.
+
+Ils s’assirent côte à côte, laissant le petit déjeuner refroidir.
+
+— Je ne veux pas une cérémonie où je passerai mon temps à chercher ta place dans une foule, dit Hasol.
+
+— Moi non plus.
+
+— Et je ne veux pas inviter des gens parce qu’ils représentent un contrat important.
+
+Zio acquiesça.
+
+— Alors nous n’allons pas le faire.
+
+La facilité avec laquelle ils pouvaient choisir lui sembla presque surprenante. Hasol avait assez d’argent pour organiser une réception dont on parlerait. Elle savait désormais que cela ne constituait pas une raison de la vouloir.
+
+Lorsqu’elle en parla à Iseria, sa mère l’écouta en silence, puis lui demanda de recommencer depuis le début.
+
+Hasol raconta la table, la confiture et le thé. Iseria rit avec elle. Puis elle lui prit le visage entre les mains et l’embrassa longuement sur le front.
+
+— Je suis heureuse pour vous.
+
+Hasol la serra contre elle.
+
+Elle ne pensa à son père qu’un peu plus tard, en entrant dans le petit salon pour chercher une feuille. Le fauteuil était toujours là. Pendant un instant, elle sut exactement comment elle aurait couru jusqu’à lui, quelle phrase elle aurait prononcée et à quel endroit sa voix se serait mise à trembler.
+
+Elle s’assit près de la fenêtre.
+
+Iseria la trouva quelques minutes après.
+
+— Il me manque, dit Hasol.
+
+Sa mère s’installa près d’elle.
+
+— Je sais.
+
+— Je suis heureuse. Je ne veux pas…
+
+— Tu n’as pas besoin de choisir.
+
+Hasol regarda le fauteuil. Le temps n’avait pas résolu leur dispute. Elle ne savait toujours pas pourquoi Armin avait voulu qu’elle cesse de travailler avec le Griffon d’Argent. Elle ne lui inventa pas une approbation pour rendre cette journée plus facile.
+
+Elle aurait simplement voulu son père.
+
+Iseria lui passa un mouchoir. Hasol essuya ses yeux, puis demanda si sa mère accepterait de l’aider à choisir sa robe.
+
+Le visage d’Iseria s’éclaira.
+
+— Oui, ma chérie. Avec grand plaisir.
+
+Les préparatifs prirent une place raisonnable dans des journées déjà pleines, ce qui n’empêcha pas Yoon d’avoir un avis sur presque tout. Samia lui rappela qu’un mariage intime n’exigeait pas de transformer le jardin en salle de réception. Ray proposa de vérifier que rien ne manquait et se retrouva chargé de quelques commissions très ordinaires.
+
+Un après-midi, il rejoignit Hasol avec ce qu’on lui avait demandé. Il posa les paquets et contempla la liste, désormais entièrement rayée.
+
+— Mes parents m’ont proposé de faire livrer davantage de choses, dit-il. J’ai refusé. Vous aviez déjà choisi.
+
+Hasol leva les yeux vers lui.
+
+— Merci.
+
+Il acquiesça, puis rangea soigneusement la liste.
+
+Elle le regarda faire.
+
+— Tu n’étais pas obligé de passer l’après-midi dehors pour nous.
+
+Ray sourit légèrement.
+
+— Je le sais.
+
+Hasol ne répondit pas tout de suite. Elle pensa au jeune homme qui lui avait apporté une lettre de sa famille au Griffon d’Argent, à la période d’essai, à tout ce qui avait suivi. Elle ne retrouvait pas exactement l’enfant avec lequel elle avait joué. Elle connaissait désormais l’ami qui venait de faire une course sous la pluie et refusait d’en tirer une promesse.
+
+— Tu restes manger ? demanda-t-elle.
+
+— Si je ne dérange pas.
+
+— Tu peux demander à Zio. Il prépare quelque chose avec Yoon et je crois qu’ils ont besoin d’une personne capable de lire une consigne jusqu’au bout.
+
+Ray ajusta ses lunettes avec un sérieux comique.
+
+— Dans ce cas, mon intervention semble indispensable.
+
+Hasol l’entendit se faire accueillir par la voix indignée de Yoon dans la pièce voisine.
+
+Elle sourit et alla les rejoindre.
+
+## X. Ce que nous construisons
+
+Hasol avait vingt-huit ans lorsque Zio et elle se marièrent.
+
+Le matin, elle se réveilla avant qu’on vienne la chercher. Pendant quelques instants, elle écouta la maison. Des portes se fermaient doucement ; quelqu’un descendait l’escalier en retenant ses pas. Une voix demanda où l’on avait posé les fleurs.
+
+Elle sourit dans son oreiller.
+
+Ce ne fut pas une journée sans maladresses. Un ruban manquait, puis fut retrouvé à l’endroit où Hasol l’avait elle-même rangé. Yoon arriva avec trop de choses dans les bras. Samia lui prit la moitié des paquets sans interrompre son récit d’un incident qui, à l’en croire, aurait pu être évité si Zio s’était contenté d’écouter.
+
+— Il va bien ? demanda Hasol.
+
+Yoon s’arrêta.
+
+— Oui.
+
+Elle regarda son amie, puis posa ses affaires.
+
+— Il est nerveux. Comme toi.
+
+— Je ne suis pas nerveuse.
+
+Samia désigna les doigts qu’Hasol avait noués dans le drap.
+
+— Bien sûr.
+
+Elles rirent toutes les trois. Iseria entra peu après et les trouva occupées à déplacer une chaise dont personne n’avait besoin.
+
+Sa robe de style elfique était claire, travaillée de broderies fines. Elle n’avait rien de la tenue qu’elle portait chaque jour, sinon cette élégance familière dans laquelle Hasol reconnaissait sa mère. Elle s’approcha et posa la main sur son épaule.
+
+— Nous avons le temps.
+
+Alors les choses ralentirent.
+
+Hasol enfila sa robe, laissa Iseria ajuster une attache, demanda à Samia de vérifier qu’elle n’avait rien oublié derrière son dos. Yoon recula pour la regarder et, pour une fois, ne trouva rien à dire immédiatement.
+
+— Quoi ? demanda Hasol.
+
+La Sage secoua la tête, les yeux un peu brillants.
+
+— Rien. Je suis contente.
+
+Samia lui tendit un mouchoir avant qu’elle le réclame.
+
+La cérémonie réunit leurs proches, sans foule de clients ni délégation venue représenter leurs contrats. Hasol entendit la voix d’Orven avant de le voir ; il expliquait à Ray que les préparatifs n’avaient pas besoin d’être contrôlés une dernière fois maintenant que chacun était déjà arrivé.
+
+Puis elle aperçut Zio.
+
+Il se tenait droit, dans ses vêtements de cérémonie, sans armure. Ses cheveux bruns étaient soigneusement coiffés, mais une courte mèche retombait encore sur son front. Hasol la regarda avec une tendresse si vive qu’elle oublia presque les personnes autour d’eux.
+
+Il la vit venir.
+
+Son sourire changea avant qu’il ait bougé.
+
+Hasol sentit ses doigts se desserrer autour de ceux de sa mère.
+
+Lorsqu’elle le rejoignit, Zio lui prit les mains. Elles étaient chaudes. Il inspira, et elle comprit qu’il avait dû attendre de la voir pour réussir à le faire aussi profondément.
+
+— Bonjour, murmura-t-elle.
+
+— Bonjour.
+
+Elle eut envie de rire parce qu’ils n’avaient rien trouvé de mieux. Il sourit comme s’il venait d’y penser lui aussi.
+
+Les paroles qu’ils échangèrent ensuite, Hasol les écouta réellement. Elle ne pensa ni à ce que les autres voyaient ni à ce qu’ils raconteraient. Elle regardait Zio et retrouvait dans sa voix l’homme qui lui avait avoué ne pas savoir comment lui proposer un dîner.
+
+Quand vint son tour, elle sentit une larme lui descendre sur la joue.
+
+— Je veux continuer à vivre avec toi, dit-elle. Pas seulement les jours où nous savons quoi faire. Les autres aussi.
+
+Elle s’arrêta pour respirer. Zio attendit, ses pouces immobiles sur ses doigts.
+
+— Je veux que tu puisses me dire ce qui te fait peur. Et je vais essayer de ne pas répondre immédiatement par un plan.
+
+Un rire doux parcourut leurs proches. Hasol sourit sans quitter Zio des yeux.
+
+— Je veux rentrer avec toi. Te retrouver. T’aimer dans toutes ces journées que nous n’avons pas encore vécues.
+
+Zio baissa la tête une seconde. Lorsqu’il la releva, ses yeux étaient humides.
+
+Hasol ne se souvint pas ensuite de chaque bruit autour d’eux. Elle garda le mouvement de ses mains, la chaleur de son visage quand il l’embrassa et le rire de Yoon qui tentait manifestement de pleurer avec discrétion.
+
+Au repas, les conversations se croisèrent sans ordre. Orven raconta une arrivée d’Hasol à l’atelier, du temps où elle avait encore l’air de lui demander la permission avant de toucher une chaise. Elle protesta. Il lui rappela une question exacte, et elle dut reconnaître qu’il n’exagérait presque pas.
+
+Ray parla de leurs plans d’aventures enfantins. Il choisit un souvenir heureux sans prétendre qu’aucune autre année n’avait existé. Hasol l’écouta, puis rectifia le rôle qu’il s’attribuait dans une expédition imaginaire où il avait manifestement oublié qu’elle avait dessiné presque toute la carte.
+
+— Tes montagnes étaient au milieu de la mer, objecta-t-il.
+
+— C’étaient des îles.
+
+— Tu ne l’avais pas précisé.
+
+— Tu ne m’avais pas demandé.
+
+Le rire de sa mère lui parvint de l’autre côté de la table.
+
+Hasol tourna la tête. Iseria lui adressa un sourire, un peu triste et profondément heureux. Elle le lui rendit.
+
+L’absence de son père l’accompagna par instants. Elle ne remplit pas toute la journée. Hasol pensa à lui en voyant sa mère lever son verre, puis Zio lui demanda de lui passer un plat et elle revint au repas. Elle pouvait aimer ceux qui étaient là sans cesser d’aimer celui qui manquait.
+
+Plus tard, Samia vint s’asseoir près d’elle, ses chaussures à la main.
+
+— Je maintiens que nos bottes de marche sont beaucoup plus raisonnables.
+
+Hasol regarda ses pieds.
+
+— Tu peux les retirer, tu sais.
+
+— C’est fait.
+
+Elles rirent. La Ranger suivit un instant Zio des yeux, puis se tourna vers Hasol.
+
+— Tu es heureuse ?
+
+— Oui.
+
+La réponse lui vint sans effort.
+
+Samia lui serra la main.
+
+— Bien.
+
+Yoon les rejoignit presque aussitôt, réclama une place et s’assit en prenant beaucoup plus de précautions que la situation ne l’exigeait.
+
+— Ma belle-sœur, dit-elle, comme pour vérifier le son des mots.
+
+Hasol leva les yeux au ciel.
+
+— Tu vas m’appeler comme ça longtemps ?
+
+— Je ne sais pas encore.
+
+Samia secoua la tête.
+
+— Très longtemps.
+
+La journée se termina sans discours supplémentaire. Des plats furent débarrassés, des chaises remises à leur place. Zio voulut aider à tout ranger ; Iseria le renvoya vers Hasol avec une douceur qui ne laissait aucune possibilité de négociation.
+
+Ils s’éloignèrent enfin à deux, encore surpris de pouvoir le faire.
+
+Les semaines qui suivirent apportèrent des changements beaucoup moins spectaculaires et auxquels Hasol s’attacha tout autant.
+
+Une place faite aux affaires de Zio. Des vêtements mêlés sur un dossier de chaise. Deux habitudes de sommeil à accorder et un désaccord durable sur la nécessité d’ouvrir les fenêtres dès le matin.
+
+Hasol découvrit que son mari savait laisser un livre exactement à l’endroit où elle avait prévu de poser un dossier. Zio découvrit qu’elle possédait une définition très personnelle du mot « rangé » lorsqu’un travail n’était pas tout à fait terminé.
+
+Ils en parlèrent, parfois avec impatience, plus souvent en riant. Le mariage ne les avait rendus ni moins occupés ni immédiatement meilleurs à tout. Ils apprenaient simplement à vivre dans un espace où le lendemain de chacun concernait aussi l’autre.
+
+Un soir, ils rentrèrent d’une expédition avec les vêtements encore imprégnés de l’odeur froide des galeries. Hasol avait mal aux jambes. Zio posa leurs sacs, retira les dernières pièces de son armure et resta quelques instants assis sans bouger.
+
+— Tu comptes dormir ici ? demanda-t-elle.
+
+— J’étudie cette possibilité.
+
+Elle lui tendit la main. Il la prit et se leva avec une grimace.
+
+Après s’être changés, ils mangèrent près de la fenêtre. Sur la table attendait un message de Samia : elle avait trouvé une façon plus claire de présenter un de ses exercices et voulait le leur montrer. Yoon avait ajouté quelques lignes au bas de la feuille, dont une remarque sur l’écriture de son amie. Ray avait déposé les observations de la mission suivante, sans exiger qu’on les lise le soir même.
+
+Hasol rangea les documents au bord de la table.
+
+— Demain, dit-elle.
+
+Zio releva les yeux.
+
+— Je n’avais rien demandé.
+
+— Je m’en suis chargée toute seule.
+
+Il sourit.
+
+Ils ouvrirent la fenêtre malgré la fraîcheur. Des bruits de pas montaient de la rue, mêlés à une conversation indistincte. Hasol vint s’appuyer contre Zio. Il passa un bras autour d’elle et demanda comment elle voulait organiser sa journée du lendemain.
+
+Elle lui raconta le rendez-vous avec sa mère, le travail à l’atelier, l’heure à laquelle elle espérait retrouver Samia. Puis elle lui posa la même question.
+
+Ils en parlèrent longtemps, corrigeant un horaire, changeant une course de main, décidant de garder le repas du soir pour eux.
+
+Lorsqu’ils allèrent enfin se coucher, Hasol laissa son carnet fermé.
+
+Elle n’avait rien à y inscrire pour se rappeler cette journée.
+
+Zio était près d’elle. Le lendemain les attendrait.
+
+Elle éteignit la lampe et trouva sa main dans l’obscurité.
+
+---
+
+**Fin du chapitre 13 — Ce que nous construisons**

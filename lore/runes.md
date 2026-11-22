@@ -1,10 +1,29 @@
 # Inventaire runique
 
+## Actualisation courante — fin du chapitre 13 en lecture, DEC-105
+
+Chapitre rédigé sur autorisation explicite, non validé littérairement ; les
+chapitres 1–12 sont préservés. Aucun nouveau butin individuel, affixe, transfert,
+amélioration personnelle ou remplacement de rune identifié dans le 13.
+Les commandes y sont évoquées génériquement, sans inventaire concurrent.
+
+- **Équipement final, cercles, occupation, améliorations et réserves : À DÉFINIR.**
+  Ne pas figer le bilan du 9 après les années jusqu’au mariage vers vingt-huit ans,
+  ni supposer toutes les pièces à +15 du fait des moyens financiers.
+- Œil amélioré conserve la lecture des runes de DEC-097 ; les nouveaux usages
+  pièges et Main/coffres sont des compétences, **pas de nouvelles runes à identifier**.
+- L’Anneau runique reste un accessoire distinct des emplacements ; aucun nouvel
+  anneau magique de mariage ni bonus conjugal créé. Pas d’Aura activée explicitement
+  dans ce chapitre, donc aucun sacrifice individuel ou débit chiffré à inventer.
+- `HAS-R015`, `ISE-R001` et les autres historiques ci-dessous conservent leurs
+  dernières données attestées, pas un état final extrapolé au 13. Pas de réécriture
+  des cadeaux paternels. Aucun lien rune temporelle/mariage ou pouvoir astral anticipé.
+
 ## Périmètre
 
-Historique des chapitres 1 à 12 ; état de sortie : fin du chapitre 12 **en lecture** (DEC-102), sans validation littéraire globale des textes 10–12. Sources : manuscrit, `docs/integration_chapitres_1_12.md`, transmission, plan et décisions. Les instantanés antérieurs ne sont pas automatiquement l’équipement final. Les identifiants restent documentaires et stables, y compris après transfert de propriétaire. Les commandes clients et runes de recyclage restent distinctes de l’équipement personnel.
+Historique des chapitres 1 à 13 ; état de sortie : fin du chapitre 13 **en lecture** (DEC-105), sans validation littéraire globale des textes 10–13. Sources : manuscrit, `docs/integration_chapitres_1_12.md`, `docs/preparation_chapitre_13.md`, transmission, plan et décisions. Les instantanés antérieurs ne sont pas automatiquement l’équipement final. Les identifiants restent documentaires et stables, y compris après transfert de propriétaire. Les commandes clients et runes de recyclage restent distinctes de l’équipement personnel.
 
-## État courant — fin du chapitre 12 en lecture, DEC-102
+## Instantané historique — fin du chapitre 12 en lecture, DEC-102
 
 - **Équipement final détaillé : À DÉFINIR.** Le début du 11 montre encore douze cercles/douze runes et Fatal/Arcanique/Gardien ; aucune nouvelle fiche exhaustive en fin du 12. Ne pas figer les valeurs historiques, inventer de nouveaux cercles ou considérer toutes les runes déjà +15.
 - **HAS-R015 :** Vitesse rare (bleue), 3★, +0, propriété d’Hasol explicitée au 10 ; rangée dans son Anneau en fin du 10, non équipée et non améliorée au début du 11. Devenir ultérieur **À DÉFINIR**. Ce n’est pas une treizième rune équipée.

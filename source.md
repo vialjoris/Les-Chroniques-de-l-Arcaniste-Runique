@@ -94,6 +94,12 @@ Les fiches consultées ne fournissent pas de Mana et de Puissance arcanique dire
 - **Portée :** référence esthétique pour le design des personnages ; cette inspiration visuelle ne transpose pas automatiquement leur identité, leur histoire, leurs compétences, leurs statistiques ou les règles du jeu dans le roman.
 - **À DÉFINIR :** personnages, illustrations et artistes de référence précis, non indiqués à ce stade. Cette mention d’inspiration ne constitue pas une autorisation de réutiliser les illustrations originales du jeu.
 
+### Garde-fou pour tous les visuels retenus — CANON, DEC-104
+
+- **Source :** demande explicite de l’auteur du 22 novembre 2026 : « les références visuelles même si elles comportent du texte ne sont là que pour le design ».
+- **Usage :** raccorder les descriptions aux designs retenus, sans importer les annotations des images comme faits du roman ou règles du système. Ray demeure un mage de feu commun ; ignorer l’étiquette « Arcaniste runique » sur sa planche.
+- **Samia :** blonde au livre I ; changement de couleur de cheveux annoncé pour sa « seconde vie », couleur exacte **À DÉFINIR**. Aucune mécanique de réincarnation de Samia n’en découle.
+
 ## Références internes
 
 **Adaptation du Paladin pour Zio — CANON, DEC-058 :** l'auteur valide la liste proposée de six actifs et trois passifs, avec noms, niveaux, effets qualitatifs et limites consignés dans `lore/systeme.md`. Dernier Rempart devient le nom officiel de son autodestruction au niveau 50. Cette adaptation propre au roman ne constitue pas une transcription des compétences du jeu ni une adoption de ses chiffres. Paramètres numériques, équipement et inventaire restent à définir ; Zio conserve sa classe Gardien, Rare, et un soin personnel secondaire.

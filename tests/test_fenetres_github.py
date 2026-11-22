@@ -14,7 +14,9 @@ import unittest
 from unittest.mock import patch
 import xml.etree.ElementTree as ET
 
-from lecture_support import Document, compact, digest
+from lecture_support import Document, compact, digest, historical_prefix, manifest
+import test_lecture as lecture_tests
+from test_lecture import REFERENCE
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -82,7 +84,7 @@ class GitHubFenetreTests(unittest.TestCase):
     def test_restauration_source_avant_wrappers_octet_identique_et_idempotente(self):
         generator = load_generator()
         restored = generator.extraire_source_fenetres(self.source)
-        self.assertEqual(digest(restored), BASELINE_SHA256)
+        self.assertEqual(digest(historical_prefix(restored, REFERENCE)), BASELINE_SHA256)
         self.assertEqual(generator.extraire_source_fenetres(restored), restored)
         self.assertEqual(Document(restored).outside_segments(), self.document.outside_segments())
 
@@ -237,6 +239,60 @@ class GenerateurFenetreCliTests(unittest.TestCase):
                 self.assertEqual(self.snapshot(), before)
                 self.assert_success(self.cli())
                 self.assert_success(self.cli("--check"))
+
+    def test_ajout_decouvert_et_controle_comme_les_fenetres_historiques(self):
+        self.original = self.original.replace("essai-001", "001")
+        self.manuscript.write_text(self.original, encoding="utf-8")
+        self.assert_success(self.cli())
+        historical = read_exact(self.manuscript)
+        addition = self.original.replace("Chapitre 1", "Chapitre 2").replace('data-window-id="001"', 'data-window-id="ajout-unique"')
+        self.manuscript.write_text(historical + "\n---\n\n" + addition, encoding="utf-8")
+        before = self.snapshot()
+        self.assertEqual(self.cli("--check").returncode, 1)
+        self.assertEqual(self.snapshot(), before)
+        self.assert_success(self.cli())
+        source = read_exact(self.manuscript)
+        self.assertTrue(source.startswith(historical))
+        check = GitHubFenetreTests()
+        check.source, check.document = source, Document(source)
+        structure = lecture_tests.ConservationManuscritTests()
+        structure.document = check.document
+
+        def validate():
+            with patch(__name__ + ".ROOT", self.directory):
+                check.test_picture_mobile_et_image_de_secours_avec_transcription_integrale()
+                check.test_svg_desktop_mobile_inventaire_dimensions_securite_et_texte_affiche()
+
+        validate()
+        structure.test_chaque_fenetre_modernisee_a_un_header_et_svg_decoratif_local()
+        with patch.dict(REFERENCE, manifest(self.original), clear=True):
+            structure.test_identifiants_fenetres_uniques_types_non_vides_et_couverture_racines()
+        added = check.document.windows[-1]
+        for attribute in ("data-window-id", "data-window-type"):
+            with self.subTest(attribut=attribute):
+                saved = added.attrs[attribute]
+                added.attrs[attribute] = ""
+                try:
+                    with patch.dict(REFERENCE, manifest(self.original), clear=True):
+                        with self.assertRaises(AssertionError):
+                            structure.test_identifiants_fenetres_uniques_types_non_vides_et_couverture_racines()
+                finally:
+                    added.attrs[attribute] = saved
+        for suffix in ("", "-mobile"):
+            asset = self.assets / f"ajout-unique{suffix}.svg"
+            original = asset.read_bytes()
+            with self.subTest(svg=asset.name):
+                svg = ET.fromstring(original)
+                next(node for node in svg.iter(SVG_NS + "text") if node.text == "150").text = "151"
+                asset.write_bytes(ET.tostring(svg, encoding="utf-8"))
+                self.assertNotEqual(asset.read_bytes(), original)
+                with self.assertRaises(AssertionError):
+                    validate()
+                asset.write_bytes(original)
+        picture = next(added.descendants("picture"))
+        picture.children[1].attrs["src"] = "assets/fenetres/essai-001.svg"
+        with self.assertRaises(AssertionError):
+            validate()
 
     def test_entrees_invalides_code_2_sans_ecriture_ni_traceback(self):
         invalid_sources = {

@@ -26,6 +26,21 @@ Les identifiants numériques historiques 001–089 restent associés à leurs fe
 les nouvelles fenêtres reçoivent 090–110. Leur ensemble est vérifié sans imposer
 une renumérotation séquentielle dans l’ordre du manuscrit.
 
+Les chapitres ajoutés après cette baseline ne nécessitent aucun renouvellement de
+fixture. `historical_prefix` retrouve la borne exacte du préfixe grâce au SHA-256
+existant du dernier segment narratif : aucun `rstrip`, aucune découpe approximative
+au prochain titre. Tous les octets historiques, y compris les fins de ligne et la
+fin du chapitre 12 après sa dernière fenêtre, restent contrôlés. Après cette borne,
+seul le début d'un nouveau chapitre (numéro supérieur au dernier historique),
+précédé éventuellement d'espaces, d'un séparateur `---` et de l'ancre dédiée
+`<span id="chapitre-N"></span>`, est admis. Le numéro de l'ancre doit correspondre
+exactement à celui du titre ; aucun texte arbitraire avant ou entre les deux n'est
+toléré. Cette prise en charge ne change ni la borne ni les empreintes historiques.
+Le nombre de
+chapitres ou de fenêtres ajoutés n'est pas figé. Les contrôles historiques portent
+sur le préfixe ; structure, identifiants uniques, types, enveloppes, sécurité et
+correspondance du texte SVG/HTML portent sur **toutes** les fenêtres découvertes.
+
 Dans les fenêtres, seuls les espaces et les entités HTML sont normalisés ; ✦◆✓ sont
 ignorés uniquement dans les headers. Le SVG décoratif n’entre pas dans le texte.
 Les étoiles ★, signes +, pourcentages, séparateurs de milliers et associations des
@@ -67,9 +82,9 @@ Les comptages sont recalculés par le même helper. Les exceptions de présentat
 arbitrées sont des métadonnées explicites de fixture, jamais déduites automatiquement
 ni appliquées aux classes de valeurs des bonus. Les nombres actuels décrivent la
 baseline de refonte à 110 fenêtres et douze chapitres, pas une validation littéraire
-globale des textes en lecture. Pendant un import, ne pas interpréter les tests
-de conservation du manuscrit comme une validation : attendre la nouvelle baseline
-explicitement fournie avant de les relancer et d’en tirer une preuve.
+globale des textes en lecture. Un ajout autorisé en fin de manuscrit conserve cette
+baseline ; il n'est pas une validation littéraire. Une révision du contenu historique
+requiert en revanche l'arbitrage éditorial décrit ci-dessus.
 
 Les tests CSS vérifient les déclarations contractuelles, non le rendu calculé :
 contrastes réels, débordements, impression et comportement des lecteurs d’écran
@@ -82,7 +97,7 @@ Les fixtures ci-dessus restent inchangées. La phase GitHub part de la source
 `/tmp/opencode/arcaniste-github-20261122/roman.md`, SHA-256
 `aef0ae36950a34bb3bf7cfb1dce08f31c3a282528226fe5ad045e3da8d3d8f23`.
 La fonction publique `extraire_source_fenetres(source: str) -> str` doit retrouver
-exactement cette empreinte depuis le manuscrit enveloppé, sans dépendre de la
+exactement cette empreinte pour le préfixe historique extrait du manuscrit enveloppé, sans dépendre de la
 présence future du fichier temporaire. Elle est idempotente et laisse intacte une
 source historique non enveloppée.
 
@@ -121,6 +136,26 @@ temporaire est nettoyé. L’extraction accepte aussi une source mixte, avec fen
 enveloppée et ancienne fenêtre sans identifiant, sans relâcher le contrôle strict
 des identifiants lors du build SVG. Les versions approuvées de Markdown et Pillow
 sont protégées par un test de contrat des dépendances.
+
+Les cas anti-régression simulent plusieurs chapitres ajoutés, puis des altérations
+du début, d'une fenêtre, du dernier segment et des derniers octets historiques.
+Un autre cas génère les SVG d'une nouvelle fenêtre dans le projet temporaire :
+l'ajout seul passe, les identifiants/types absents, le mauvais chemin d'image et un
+texte SVG altéré dans chacune des deux variantes échouent.
+
+Après la fin d'un ajout éditorial autorisé, faire générer les dérivés par l'agent
+responsable, puis vérifier avec l'interpréteur disposant des dépendances :
+
+```sh
+python3 scripts/generer_fenetres.py
+python3 scripts/generer_lecture.py
+python3 scripts/generer_fenetres.py --check
+python3 -m unittest discover -s tests -v
+```
+
+Les deux premières commandes écrivent les dérivés (et l'enveloppe des nouvelles
+fenêtres), contrairement à la suite de tests. Ne pas conclure sur des écritures
+éditoriales en cours ni renouveler les empreintes pour corriger un SVG manquant.
 
 Ces tests ne contactent pas l’API GitHub et ne prétendent pas simuler son filtre.
 GitHub filtre le CSS inline : ajouter du HTML avec `style` n’est donc pas une

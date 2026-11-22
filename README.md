@@ -63,9 +63,11 @@ Les chapitres 5 à 9 ont été validés par l'auteur dans la transmission mobile
 
 ### Dernière transmission contrôlée — 22 novembre 2026
 
-`roman.md` comporte **douze chapitres** : 1–4 révisions validées, 5–9 validés préservés, **10 V2, 11 et 12 intégrés en lecture sans validation littéraire globale** (DEC-102). Aucune rédaction du 13. Les blocages techniques sont levés par DEC-097 à DEC-100 ; les classes proposées des vies futures restent non validées. Preuves et limites : [audit d’import 1–12](docs/integration_chapitres_1_12.md) ; [audit de réception historique](lore/audit_transmission_chapitres_10_12.md).
+`roman.md` comporte **treize chapitres** : 1–4 révisions validées, 5–9 validés, **10 V2, 11, 12 et 13 en lecture sans validation littéraire globale** (DEC-102/105). Le chapitre 13, « Ce que nous construisons », est rédigé sur autorisation explicite ; aucune rédaction du 14 n’est autorisée. Les blocages techniques de l’import 10–12 sont levés par DEC-097 à DEC-100 ; les classes proposées des vies futures restent non validées. Preuves et limites : [audit d’import 1–12](docs/integration_chapitres_1_12.md) ; [audit de réception historique](lore/audit_transmission_chapitres_10_12.md) ; [continuité du chapitre 13](docs/preparation_chapitre_13.md).
 
 En fin du 12, Hasol vient d’avoir **vingt-cinq ans**, est une artisane reconnue et dispose de moyens financiers importants. Armin est mort au 11 sans cause révélée ni réconciliation ; Hasol reprend une partie de ses activités commerciales. Le groupe compte cinq membres avec Samia (**50/50 points**). Niveaux finaux, caractéristiques naturelles, XP, cercles finaux et inventaires détaillés restent **À DÉFINIR** ; les fiches au niveau 60 ne sont pas les états actuels.
+
+Le chapitre 13 développe leur vie sur plusieurs années : amour réciproque d’Hasol et Zio, transmission de Samia (détection des pièges par Œil et Main runique pour les coffres), puis mariage intime vers **vingt-huit ans** et vie commune apaisée. Les nouveaux choix sont consignés dans DEC-105 ; les raccords descriptifs distincts des premiers chapitres sont suivis par DEC-106.
 
 Les encadrés éditoriaux de lore en début et fin de chapitre sont retirés (DEC-091), sans supprimer les vraies fenêtres du système. Une partie de lore consultable en fin de livre reste à définir. L’inspiration visuelle du design des personnages d’*Epic Seven* est déclarée dans [`source.md`](source.md).
 

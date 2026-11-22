@@ -1,12 +1,62 @@
 # Personnages — Continuité et historique par chapitre
 
+## État courant — fin du chapitre 13 en lecture, DEC-105
+
+**22 novembre 2026 :** chapitre 13 rédigé sur le « go » explicite de l’auteur,
+ajouté sans modification des 1–12. Chapitres 1–9 validés ; 10–13 en lecture,
+sans validation littéraire globale. Les notices antérieures ci-dessous restent
+historiques lorsqu’elles parlent encore du mariage ou de Main comme futurs.
+
+- **Hasol :** départ à vingt-cinq ans ; épouse Zio vers **vingt-huit ans**, cérémonie
+  intime et vie commune apaisée. Jalousie envers Samia reconnue avant la déclaration,
+  sans comportement hostile ou rivalité prolongée ; amitié préservée. Artisane aisée
+  et responsabilités commerciales maintenues, apprentissage de la disponibilité
+  réciproque dans le couple. Deuil d’Armin toujours présent, ni cause du décès ni
+  différend avec le Griffon révélés ; aucun enfant fixé.
+- **Hasol, compétences :** même Œil runique amélioré avec détection des pièges
+  (`C13-F01`), lecture des runes conservée ; Main runique **active** d’ouverture
+  des coffres (`C13-F02`). Apprentissages auprès de Samia sur plusieurs années,
+  pas de désamorçage automatique ni extension astrale aux portes sans restriction.
+  Pas de premier sort offensif ni d’évolution aux cent boss.
+- **Zio :** premier pas, dîner et déclaration malgré son manque de confiance
+  sentimental ; confie à Hasol le coup de foudre secret dès ses premiers jours
+  à l’Académie, son admiration de sa détermination puis le passage de l’engouement
+  adolescent à l’amour mature. Pas de relation établie rétroactive, aucune aide
+  conditionnée à une contrepartie. Mari puis partenaire du quotidien, avec ses
+  entraînements, limites et besoins propres.
+- **Samia :** reconnaît ses vues de jeunesse sur Zio, comprend rapidement ses
+  sentiments pour Hasol et leur réciprocité, renonce sans rivalité prolongée et
+  encourage son premier pas. Reste **pleinement membre** et amie, même après la
+  transmission. Dans le texte de lecture, construit des exercices d’observation
+  pour d’autres chasseurs, obtient une table chez Orven, mène ses séances ; Hasol
+  l’aide ensuite à les préparer. Pas de départ d’équipe ou de romance de remplacement.
+- **Yoon :** sœur de Zio, **meilleure amie de Samia**, souhaite Hasol pour belle-sœur ;
+  écoute et respecte les confidences, sans décider au nom des autres. Maintient
+  son rôle tactique, ses activités et son amitié propre avec Hasol.
+- **Ray :** ami du groupe par des actes répétés ; choix des courses et aide aux
+  préparatifs, respect du mariage intime malgré les offres de sa famille.
+  Aucun pardon instantané ni effacement du passé ; flammes dangereuses pour les
+  alliés et faible endurance de Mana toujours prises en compte en mission.
+- **Iseria et Orven :** présents au mariage et dans la vie quotidienne ; mère
+  accompagne la joie et le deuil, mentor conserve son rôle artisanal et accueille
+  les supports d’exercices de Samia. Aucun âge présent, niveau ou pouvoir inventé.
+- **Équipe :** cinq membres, **50/50 points**, classes inchangées. Dernière
+  apparition du groupe, d’Iseria et d’Orven : chapitre 13 ; Armin : vivant au 11
+  avant son décès, souvenirs ultérieurs distincts.
+- **À DÉFINIR :** niveaux, XP, caractéristiques naturelles, cercles, compteurs,
+  inventaires détaillés, réserves et dates calendaires exactes ; paramètres
+  non définis d’Œil/Main. Pas de fiche au 60, ni douze cercles imposés après les
+  ellipses. Centième boss au 14, sort offensif au 15 encore futurs.
+
+## État antérieur — import 1–12
+
 **Actualisation DEC-102 — 22 novembre 2026 :** import 1–12 confirmé dans `docs/integration_chapitres_1_12.md`. Révisions 1–4 validées sans repères du lore et intégrées, textes 5–9 validés préservés ; 10–12 **en lecture, sans validation littéraire globale**. Les anciennes notices de validation attendue ou d’événements encore futurs aux chapitres 10–12 décrivent les étapes antérieures, pas l’état courant. Les classes proposées des vies futures restent non validées. PA naturelle hors runes inchangée par le nouveau barème runique.
 
 **Fiche d’Iseria confirmée — DEC-100, pour l’examen au chapitre 10 :** Énergie légendaire (orange), 4★, +9 ; principale PV +25 %, projection +43 % à +15 ; secondaires PA +60 (projection +140 via +20/+60, ordre inconnu), Vitesse +4, Défense +30, Mana +20 inchangées. Prêt et restitution intacte, aucune amélioration effectuée ; ne pas appliquer la projection à ses statistiques naturelles ni inventer le reste de son équipement. Détails dans `runes.md`.
 
 Ce fichier distingue la sortie du chapitre 12 en lecture, les instantanés historiques 1–9 et les futurs planifiés 13–16/II/III. `new.txt` conserve les variantes et leur provenance, sans devenir un second manuscrit.
 
-## État courant — fin du chapitre 12 en lecture
+## Instantané historique — fin du chapitre 12 en lecture
 
 - **Hasol Shun :** vient d’avoir **vingt-cinq ans**, Arcaniste runique légendaire. Artisane reconnue, moyens financiers considérables pour financer des tentatives jusqu’à +15 ; commandes et responsabilités commerciales limitent ses disponibilités de chasse. Reprend une partie des activités d’Armin, sans abandonner artisanat ou donjons. Aime sa vie sans disparition du deuil ni besoin d’attendre un sort offensif pour se sentir accomplie.
 - **Progression d’Hasol racontée :** 19→20 et Œil au 10 après sauvetage ; 20→21 et Aimant au 11 après combat avec l’Anneau. **Niveau final au 12, caractéristiques naturelles, XP, cercles finaux, équipement détaillé, réserves disponibles : À DÉFINIR.** Ne pas figer le niveau à 21 après les années ni lui appliquer la fiche naturelle du 60. Dernier instantané exhaustif : douze cercles/douze runes au début du 11, pas preuve d’un total final identique.
@@ -185,7 +235,7 @@ Le chapitre 2 est désormais présent dans `roman.md` comme version de lecture, 
 
 - **Âge CANON — DEC-088 : 52 ans**, date de référence **À CONFIRMER**. Cet âge ne reste pas constant pendant les ellipses du livre I.
 - **Rôle :** marchand et artisan runique, plus de vingt-cinq ans d’expérience, connaissance ancienne de la mère de Hasol ; devient employeur à l’essai puis mentor. État historique 3–4 ci-dessous ; dernière apparition au chapitre 12 en lecture. Mentor toujours présent, partage avec Hasol désormais reconnue l’étude des runes et accepte sa prise d’autonomie ; âge actuel non extrapolé depuis les 52 ans de référence.
-- **Apparence :** cheveux grisonnants, mains marquées par le travail ; âge de 52 ans fixé par DEC-088, date de référence à confirmer. Classe, niveau, caractéristiques et équipement personnel **À DÉFINIR**.
+- **Apparence :** cheveux grisonnants, barbe, lunettes et mains marquées par le travail ; barbe et lunettes déjà racontées aux chapitres 6–7, désormais présentes dès sa rencontre au 3 (DEC-106). Âge de 52 ans fixé par DEC-088, date de référence à confirmer. Classe, niveau, caractéristiques et équipement personnel **À DÉFINIR**.
 - **Attitude :** exigeant et pragmatique, respecte les commandes et leurs budgets ; consigne les tentatives, explique les échecs sans humilier, rémunère le travail de l’épreuve et refuse l’épuisement.
 - **Refonte du chapitre 3 — DEC-026 :** évalue les contrôles et le respect des ressources autorisées ; fait examiner l’état de la rune après l’échec plutôt que donner un long discours rassurant. Engagement à l’essai, ni promesse de prodige ni emploi définitif.
 - **Adaptation du chapitre 4 — DEC-027 :** confie une vraie commande dans un budget limité, surveille la réserve, fait arrêter les améliorations à cause d’une erreur d’attention, puis reconnaît la méthode et organise le travail du lendemain. L’initiative d’Hasol progresse, la supervision n’est pas levée.
@@ -199,7 +249,8 @@ Le chapitre 2 est désormais présent dans `roman.md` comme version de lecture, 
 - **Âges CANON — DEC-088 :** Armin a **26 ans à la naissance d’Hasol**, Iseria **20 ans**. Repères : environ 42/36 ans à ses seize ans et 45/39 ans à ses dix-neuf ans, selon les anniversaires non fixés. L’âge au décès d’Armin dépend de la date encore ouverte du chapitre 11. Ces repères complètent les anciennes rubriques d’âge à définir ci-dessous.
 - **Identités CANON — DEC-086 :** père **Armin Shun** ; mère **Iseria Astrea**, nom d’épouse **Shun** (Iseria Shun). Astrea est son nom de naissance, pas celui d’un autre personnage.
 - **Famille Astrea — CANON pour la famille perdue et l’origine supposée :** un ancien héros astral **en serait le fondateur**. L’identité du héros, la signification précise de « famille perdue », son histoire et les preuves sont **À DÉFINIR**. Ne pas affirmer cette fondation comme une certitude, déclarer Iseria dernière survivante ou attribuer une classe astrale héréditaire à Hasol. Ce que chaque personnage sait de cette origine et sa révélation au lecteur restent **À DÉFINIR**.
-- **Armin :** l’auteur ne souhaite pas développer ses statistiques. Conserver son rôle commercial et familial ; ne pas créer de fiche de combat pour combler ce manque. Classe, âge et apparence restent ouverts sans bloquer cette décision.
+- **Armin :** l’auteur ne souhaite pas développer ses statistiques. Conserver son rôle commercial et familial ; ne pas créer de fiche de combat pour combler ce manque. Classe **À DÉFINIR** ; repères d’âge ci-dessus. **Portrait intégré au chapitre 1 — CANON, DEC-106 :** cheveux bruns, traits nets, veste sombre à col haut et fins galons dorés, tenue d’affaires adaptée à la fantasy ; aucun costume permanent imposé. Dans le souvenir des sept ans d’Hasol, ne pas lui attribuer l’âge de la Révélation.
+- **Iseria, portrait intégré au chapitre 1 — CANON, DEC-106 :** longs cheveux rose pâle ; robe claire de coupe elfique, broderies dorées et tissu au tombé impeccable, raccord aux robes haut de gamme de DEC-089. Cette tenue de cérémonie ne remplace pas sa garde-robe variée ; ni ascendance elfique, rang nobiliaire ou propriété magique déduits du design. Couleur exacte des yeux des deux parents **À DÉFINIR**, non ajoutée au manuscrit.
 - **Livre III — PROPOSITION de l’auteur, DEC-087 :** grâce à sa mémoire parfaite, Hasol rapprocherait sa classe astrale et les origines maternelles Astrea ; ce rapprochement ouvrirait une piste pour résoudre une difficulté encore **À DÉFINIR**. Ce serait une déduction à examiner, pas une preuve automatique d’hérédité ni une résolution acquise. Indices, scène, difficulté et aboutissement non fixés.
 - **Iseria — CANON, décision directe de l’auteur :** soigneuse pure, élément **Terre**. Rareté et intitulé officiel de classe, âge, niveau courant, cercles et équipement **À DÉFINIR**. Les choix délégués de statistiques et de sorts sont détaillés ci-dessous ; ils ne font pas d’elle une combattante offensive ni une artisane d’une classe particulière.
 - **Mère :** soigne et surveille la blessure ; présente Hasol à Orven sans répondre à sa place. **Choix confirmé par l’auteur, explicité dans la refonte DEC-026 :** elle respectait son rêve de chasseuse et attendait qu’elle soit prête à envisager l’artisanat, sans ancienne proposition refusée inventée. Soutient son autonomie et son métier sans lui demander d’abandonner la chasse ; connaît l’utilité artisanale du Mana. Dernière apparition dans cet état historique : chapitre 4. Identité et profil précisés par DEC-086 ci-dessus ; âge et caractéristiques au moment de ces scènes **À DÉFINIR**.
@@ -305,7 +356,7 @@ Profil de soutien spécialisé : faible attaque physique, résistance correcte, 
 
 ## Zio Notos — État raconté au chapitre 1, DEC-021
 
-- **Apparence déjà racontée à préserver — DEC-088 :** cheveux sombres soigneusement attachés, silhouette élancée, aisance sous le poids de l’équipement et grand bouclier dans le dos (chapitre 5, section I). Au chapitre 1 : étudiant plus âgé, voix grave et posée, épée et imposant bouclier. Ne pas redéfinir ces traits. Plus costaud que Ray selon la précision ultérieure de l’auteur, sans lui attribuer une carrure massive. Couleur des yeux **À DÉFINIR**, identique à celle de Yoon.
+- **Apparence CANON — DEC-088, coiffure actualisée par DEC-106 :** cheveux **bruns, coupés court**, en raccord avec les designs retenus ; cette correction remplace uniquement les cheveux sombres attachés de DEC-088. Mentions raccordées aux chapitres 5 et 13, sans changement de coiffure raconté entre les deux. Silhouette élancée, aisance sous le poids de l’équipement et grand bouclier dans le dos préservés (chapitre 5, section I). Au chapitre 1 : étudiant plus âgé, voix grave et posée, épée et imposant bouclier. Plus costaud que Ray selon la précision ultérieure de l’auteur, sans lui attribuer une carrure massive. Couleur des yeux **À DÉFINIR**, identique à celle de Yoon.
 - **Statut : CANON — scène d’Académie validée par DEC-022, état historique ci-dessous.** Dernière apparition : chapitre 12 en lecture, membre officiel depuis le 11 ; retrouvailles et supervision au 5 consignées plus bas.
 - **Classe :** Gardien, Rare ; étudiant plus âgé que Hasol, connu pour son sérieux, son épée et son imposant bouclier. Âge et niveau exacts pendant l’intervention : **À DÉFINIR**. Ne pas importer rétroactivement son niveau 45 prévu lors des retrouvailles.
 - **Présence — CANON, DEC-043 :** très beau, fort et très populaire, sa beauté et sa force contribuant à cette popularité. Traits physiques précis et milieu de notoriété **À DÉFINIR**. Ni arrogance, séduction systématique, invulnérabilité ou nouveau niveau déduits de cette caractérisation ; aucune scène du chapitre 1 n'est réécrite par cette précision.

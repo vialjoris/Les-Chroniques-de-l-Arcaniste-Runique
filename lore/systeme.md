@@ -1,5 +1,15 @@
 # Système LitRPG — Règles runiques
 
+**Actualisation courante — DEC-105, 22 novembre 2026 :** treize chapitres présents,
+1–9 validés, 10–13 en lecture sans validation globale. Au 13, après plusieurs
+années auprès de Samia : même Œil amélioré avec pièges, lecture des runes conservée,
+et Main active pour les coffres. Aucun désamorçage automatique, pas de portes ni
+ouverture sans restriction du régime astral transférées au livre I. Niveaux,
+coûts, portée, récupération, protections couvertes et conditions universelles
+de déblocage restent **À DÉFINIR** ; les exercices racontés ne sont pas une recette.
+Pas de nouveau niveau/XP/cercle/inventaire chiffré ; centième boss au 14 et premier
+sort offensif au 15 encore futurs. La notice DEC-102 suivante décrit l’état antérieur.
+
 Ce fichier documente les règles établies et leurs limites. Sources : décisions explicites de l’auteur consignées dans `decisions.md`, transmission `new.txt` et inspirations identifiées dans `../source.md`. Les réponses de ChatGPT ne constituent pas à elles seules une validation. Actualisation du 21 novembre 2026 : DEC-072 à DEC-080 ; les états futurs restent distincts des chapitres déjà racontés.
 
 **Avancement narratif — DEC-102, 22 novembre 2026 :** douze chapitres intégrés, 1–9 validés, 10–12 en lecture sans validation globale. Œil au niveau 20/ch.10, Aimant au niveau 21/ch.11 après combat avec l’Anneau, groupe de cinq/50 points au 12 sont désormais racontés. Les mentions anciennes de ces jalons comme « futurs » sont historiques ; Main, détection des pièges par Œil, centième boss et premier sort offensif restent futurs. À vingt-cinq ans d’Hasol, niveaux finaux, statistiques, XP, cercles finaux et inventaires ne sont pas chiffrés. Préserver les profils naturels validés et séparer leurs valeurs des bonus : aucune fluctuation d’équipement ni nouvelle PA effective ne permet de déduire une courbe naturelle. Résonance évolue au niveau 40 de Yoon, sans lui assigner ce niveau en fin du 12.
@@ -322,7 +332,16 @@ Second effet caché : lors d'un renforcement variable déclenché par une améli
 - **Nouvelles vies — CANON, DEC-078/080 :** Samia ne rejoint plus l'équipe principale. Lorsque Hasol Astrale, Yoon Rare, Zio Rare et Ray Commun sont réunis : 25 + 10 + 10 + 5 = **50/50 points et 4/5 membres**. La place restante ne permet pas un ajout à cinq points. Cette composition de référence n'impose pas les mêmes rencontres ou recrutements à chaque réincarnation ; Samia n'est pas effacée du récit et l'équipe du livre I reste inchangée.
 - Nature, contrôle et exceptions de la restriction de donjon, statut d'un accompagnateur extérieur et conséquences d'une perte de membre en cours d'expédition restent **À DÉFINIR**. Ne pas inventer verrou magique, sanction, partage d'XP ou règle de butin.
 
-## 13. Ranger et apprentissages futurs d'Hasol — CANON DEC-037
+## 13. Ranger et apprentissages d’Hasol — CANON DEC-037, racontés au 13 en lecture, DEC-105
+
+**État raconté au 13 :** exercices d’observation et de mécanismes ordinaires sur
+plusieurs années, puis acquisition de la détection des pièges par le même Œil
+(`C13-F01`) et de Main active pour les coffres (`C13-F02`). Hasol s’arrête devant
+le piège détecté et Samia intervient : la détection ne le désamorce pas. Premier
+essai de Main sur un coffre d’exercice préalablement vérifié, pas preuve d’une
+ouverture universelle. Aucune formule de Mana ni tableau de progression adopté ;
+la compétence active engage du Mana sans débit numérique défini. Samia reste
+membre du groupe et poursuit ses projets après la transmission.
 
 - La Ranger commune du groupe est **Samia Claire** (DEC-041) ; elle combine archerie, détection des pièges et ouverture des coffres. Les techniques et compétences exactes du personnage ne sont pas encore décrites.
 - Vers la fin du livre I, Hasol apprend ces fonctions d'exploration auprès de Samia. Cet apprentissage conduit à une **amélioration du même passif Œil runique**, qui conserve son nom et ses effets de lecture des runes tout en permettant de voir les pièges. Ce n'est ni un second passif ni un renommage en Œil arcanique.
