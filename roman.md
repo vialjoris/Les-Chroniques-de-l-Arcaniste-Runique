@@ -15073,7 +15073,7 @@ Les runes Arcanique (grades et rangs : À DÉFINIR) n’étaient plus seulement 
 
 Elles devenaient quelque chose qu’elle pouvait réellement espérer acquérir.
 
-Le soir, en rentrant chez elle, Hasol retrouva sa mère dans le petit salon.
+Le soir, en rentrant chez elle, Hasol retrouva sa mère dans le salon.
 
 Celle-ci releva immédiatement les yeux.
 
@@ -25316,7 +25316,7 @@ Pas encore.
 
 ## IV. Le secret d’Iseria
 
-Le lendemain matin, Hasol descendit au petit salon familial avec son carnet sous le bras.
+Le lendemain matin, Hasol descendit au salon familial avec son carnet sous le bras.
 
 Son avant-bras était encore bandé et son épaule restait douloureuse, mais elle avait beaucoup mieux dormi qu’elle ne l’aurait cru.
 
@@ -27865,7 +27865,7 @@ Puis quitta le Griffon d’Argent.
 
 ## VIII. La promesse tenue
 
-Iseria se trouvait dans le petit salon lorsque Hasol rentra.
+Iseria se trouvait dans le salon lorsque Hasol rentra.
 
 Elle portait une robe de style elfique aux manches finement brodées, et lisait près de la fenêtre ouverte sur le jardin.
 
@@ -32100,7 +32100,7 @@ Et se mit à pleurer à son tour.
 
 Plus tard, Hasol ne parvint pas à se souvenir de la manière dont elles avaient quitté le hall.
 
-Elle savait seulement qu’elle se trouvait maintenant dans le petit salon.
+Elle savait seulement qu’elle se trouvait maintenant dans le salon.
 
 Iseria était assise à côté d’elle.
 
@@ -33844,7 +33844,7 @@ Mais Hasol remarquait désormais les moments où sa mère semblait plus fatigué
 
 Les silences qui s’attardaient.
 
-Les regards qu’elle adressait parfois au fauteuil vide du petit salon.
+Les regards qu’elle adressait parfois au fauteuil vide du salon.
 
 — Je termine un dossier, répondit-elle.
 
@@ -36731,7 +36731,7 @@ Et son père pouvait continuer à lui manquer.
 
 Les deux sentiments n’étaient pas obligés de s’effacer l’un l’autre.
 
-En rentrant, Hasol trouva Iseria dans le petit salon.
+En rentrant, Hasol trouva Iseria dans le salon.
 
 Sa mère avait ouvert un livre, mais son regard se portait surtout vers le jardin.
 
@@ -37987,7 +37987,7 @@ Elle sourit davantage.
 
 Ce soir-là, Hasol rentra plus tard que prévu.
 
-Iseria se trouvait dans le petit salon.
+Iseria se trouvait dans le salon.
 
 Elle avait ouvert un livre près de la fenêtre, comme elle le faisait souvent.
 
@@ -38371,7 +38371,7 @@ Samia acquiesça.
 
 — Maintenant, regarde la pierre au-dessus. Elle n’a pas la même usure. Nous n’allons pas mettre notre poids dessus avant d’avoir compris pourquoi.
 
-Hasol recula pour lui laisser la place. Son Œil runique ne lui apportait toujours aucune aide devant ces détails. Elle reconnaissait désormais certains indices, mais grâce aux explications de Samia, aux exercices et aux erreurs corrigées, pas à une nouvelle lecture magique.
+Hasol recula pour lui laisser la place. Elle reconnaissait désormais certains indices grâce aux explications de Samia, aux exercices et aux erreurs corrigées.
 
 La Ranger sortit ses outils. Hasol observa la manière dont elle s’installait, avec un appui stable et une main libre, puis détourna involontairement les yeux vers Zio.
 
@@ -38471,7 +38471,7 @@ La Sage parcourut les premières lignes.
 
 Hasol récupéra le document, en ouvrit un autre, puis s’arrêta sous le regard de son amie.
 
-Elles se trouvaient dans le petit salon de la maison Shun. La pluie du matin avait cessé ; par la fenêtre ouverte leur parvenait l’odeur humide du jardin. Yoon avait relevé ses cheveux violets aux reflets roses et portait une tunique souple sur une jupe claire. Elle s’était installée avec l’aisance de quelqu’un qui connaissait désormais les habitudes de la maison.
+Elles se trouvaient dans le salon spacieux de la maison Shun. La pluie du matin avait cessé ; par la fenêtre ouverte leur parvenait l’odeur humide du jardin. Yoon avait relevé ses cheveux violets aux reflets roses et portait une tunique souple sur une jupe claire. Elle s’était installée avec l’aisance de quelqu’un qui connaissait désormais les habitudes de la maison.
 
 — Qu’est-ce qui se passe ?
 
@@ -38937,7 +38937,7 @@ Pour une fois, Hasol avait envie de dormir afin que demain arrive plus vite.
 
 Leur première difficulté de couple fut un dîner qui refroidit.
 
-Hasol avait promis de quitter l’atelier avant la fermeture. Une commande avait pris du retard ; elle avait voulu terminer la vérification des notes, puis répondre à une question, puis s’assurer qu’un courrier pouvait partir le lendemain. Lorsqu’elle se souvint enfin de l’heure, elle trouva Zio assis dans le petit salon, devant deux assiettes couvertes.
+Hasol avait promis de quitter l’atelier avant la fermeture. Une commande avait pris du retard ; elle avait voulu terminer la vérification des notes, puis répondre à une question, puis s’assurer qu’un courrier pouvait partir le lendemain. Lorsqu’elle se souvint enfin de l’heure, elle trouva Zio assis dans le salon, devant deux assiettes couvertes.
 
 Il avait retiré son manteau. Une lampe éclairait le livre fermé près de sa main.
 
@@ -39418,7 +39418,7 @@ Hasol raconta la table, la confiture et le thé. Iseria rit avec elle. Puis elle
 
 Hasol la serra contre elle.
 
-Elle ne pensa à son père qu’un peu plus tard, en entrant dans le petit salon pour chercher une feuille. Le fauteuil était toujours là. Pendant un instant, elle sut exactement comment elle aurait couru jusqu’à lui, quelle phrase elle aurait prononcée et à quel endroit sa voix se serait mise à trembler.
+Elle ne pensa à son père qu’un peu plus tard, en entrant dans le salon pour chercher une feuille. Le fauteuil était toujours là. Pendant un instant, elle sut exactement comment elle aurait couru jusqu’à lui, quelle phrase elle aurait prononcée et à quel endroit sa voix se serait mise à trembler.
 
 Elle s’assit près de la fenêtre.
 

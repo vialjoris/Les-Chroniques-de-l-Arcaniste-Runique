@@ -1186,6 +1186,16 @@
   présent registre et fiche du chapitre 13. Archives, scripts, styles et SVG non
   modifiés par l’agent de rédaction.
 
+## DEC-107 — Salon des Shun et apprentissage sans anticipation du pouvoir
+
+- **Statut : CANON — corrections ciblées explicitement autorisées le 22 novembre 2026.** Aucune validation littéraire globale du chapitre 13 ni autorisation de rédiger le 14.
+- **Source :** l’auteur précise que la famille possède une belle demeure et que son salon n’est pas petit ; il demande également de retirer du passage d’apprentissage auprès de Samia la formulation laissant supposer qu’Hasol attend une évolution de son passif.
+- **Demeure :** salon familial spacieux, compatible avec le standing des Shun. « Maison Shun » reste une désignation valable du foyer et des activités familiales ; ni palais, noblesse, plan des pièces ou agrandissement inventés.
+- **Audit du manuscrit :** dix mentions du « petit salon » familial corrigées aux chapitres 7, 10, 11, 12 et 13 ; dimension explicitée au 13, adjectif retiré ailleurs. Les deux petits salons du Griffon d’Argent (10 et 11) sont distincts et préservés. Salle d’entraînement, jardins, mobilier, petits objets, souvenirs et images du deuil compatibles conservés.
+- **Focalisation :** au chapitre 13, section II, conserver le recul d’Hasol et l’apprentissage concret par les explications, exercices et erreurs corrigées avec Samia, sans attente ni contraste anticipant une nouvelle lecture magique. L’évolution ultérieure d’Œil et l’acquisition de Main restent celles de DEC-105 ; aucune règle de compétence modifiée.
+- **Limites :** onze passages du manuscrit seulement ; fenêtres et tous les octets hors de ces substitutions préservés. Aucun niveau, statistique, rune, événement ou relation modifié. Décor architectural détaillé et paramètres non fixés des compétences restent **À DÉFINIR**. Aucun commit ni push.
+- **Fichiers concernés :** `roman.md`, `lore/personnages.md` et présent registre.
+
 ## Questions de système toujours ouvertes
 
 - Barème numérique des gains secondaires, au-delà des choix individuels consignés pour les deux cadeaux ; règle d’apparition résolue par DEC-006.

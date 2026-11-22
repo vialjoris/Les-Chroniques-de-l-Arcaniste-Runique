@@ -245,6 +245,7 @@ Le chapitre 2 est désormais présent dans `roman.md` comme version de lecture, 
 
 ## Parents de Hasol — Actualisation des chapitres 3 et 4
 
+- **Demeure familiale — CANON, DEC-107 :** la famille Shun possède une belle demeure ; son salon est spacieux, pas petit. « Maison Shun » reste une désignation du foyer ou des activités familiales compatible avec ce standing. Aucun palais, titre nobiliaire, plan des pièces ou agrandissement au fil du récit déduit.
 - **Focalisation du conflit avec le Griffon — CANON, DEC-090 :** au livre I, le lecteur reste dans l’incertitude d’Hasol sur les raisons d’Armin et partage son sentiment d’injustice. Pas de révélation par une scène entre les parents, leurs pensées ou un narrateur omniscient. Cause réelle et savoir d’Iseria **À DÉFINIR**, sans bloquer cette mise en scène ; ne pas conclure qu’Armin a raison ou tort ni relier la guilde à sa mort.
 - **Âges CANON — DEC-088 :** Armin a **26 ans à la naissance d’Hasol**, Iseria **20 ans**. Repères : environ 42/36 ans à ses seize ans et 45/39 ans à ses dix-neuf ans, selon les anniversaires non fixés. L’âge au décès d’Armin dépend de la date encore ouverte du chapitre 11. Ces repères complètent les anciennes rubriques d’âge à définir ci-dessous.
 - **Identités CANON — DEC-086 :** père **Armin Shun** ; mère **Iseria Astrea**, nom d’épouse **Shun** (Iseria Shun). Astrea est son nom de naissance, pas celui d’un autre personnage.
