@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="535" viewBox="0 0 680 535" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="672" height="525" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="528" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="111.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">SYSTÈME</text>
+<text x="175.24" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="180.64" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="12.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="193.60" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="199.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="157.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ÉQUIPEMENT</text>
+<text x="356.68" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="362.08" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="110.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RUNIQUE</text>
+<text x="472.24" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Hasol</text>
+<text x="84.16" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="88.48" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Shun</text>
+<text x="138.16" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="142.48" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="153.28" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="157.60" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="25.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">16</text>
+<text x="183.52" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="187.84" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="69.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">cercles</text>
+<text x="28.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Ensemble</text>
+<text x="236.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="54.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Runes</text>
+<text x="444.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="35.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">État</text>
+<path d="M28 179.29999999999998h624" stroke="#D8BF8F"/>
+<text x="28.00" y="210.30" font-size="18" font-weight="700" fill="#242424" textLength="45.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Fatal</text>
+<text x="236.00" y="210.30" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4</text>
+<text x="246.80" y="210.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="251.12" y="210.30" font-size="18" font-weight="400" fill="#242424" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">/</text>
+<text x="256.52" y="210.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="260.84" y="210.30" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4</text>
+<text x="444.00" y="210.30" font-size="18" font-weight="400" fill="#242424" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Actif</text>
+<path d="M28 228.99999999999997h624" stroke="#D8BF8F"/>
+<text x="28.00" y="260.00" font-size="18" font-weight="700" fill="#242424" textLength="89.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Arcanique</text>
+<text x="236.00" y="260.00" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4</text>
+<text x="246.80" y="260.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="251.12" y="260.00" font-size="18" font-weight="400" fill="#242424" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">/</text>
+<text x="256.52" y="260.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="260.84" y="260.00" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4</text>
+<text x="444.00" y="260.00" font-size="18" font-weight="400" fill="#242424" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Actif</text>
+<path d="M28 278.7h624" stroke="#D8BF8F"/>
+<text x="28.00" y="309.70" font-size="18" font-weight="700" fill="#242424" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Vitesse</text>
+<text x="236.00" y="309.70" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4</text>
+<text x="246.80" y="309.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="251.12" y="309.70" font-size="18" font-weight="400" fill="#242424" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">/</text>
+<text x="256.52" y="309.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="260.84" y="309.70" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4</text>
+<text x="444.00" y="309.70" font-size="18" font-weight="400" fill="#242424" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Actif</text>
+<path d="M28 328.4h624" stroke="#D8BF8F"/>
+<text x="28.00" y="359.40" font-size="18" font-weight="700" fill="#242424" textLength="69.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Gardien</text>
+<text x="236.00" y="359.40" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2</text>
+<text x="246.80" y="359.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="251.12" y="359.40" font-size="18" font-weight="400" fill="#242424" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">/</text>
+<text x="256.52" y="359.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="260.84" y="359.40" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2</text>
+<text x="444.00" y="359.40" font-size="18" font-weight="400" fill="#242424" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Actif</text>
+<path d="M28 378.09999999999997h624" stroke="#D8BF8F"/>
+<text x="28.00" y="409.10" font-size="18" font-weight="700" fill="#242424" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
+<text x="236.00" y="409.10" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2</text>
+<text x="246.80" y="409.10" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="251.12" y="409.10" font-size="18" font-weight="400" fill="#242424" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">/</text>
+<text x="256.52" y="409.10" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="260.84" y="409.10" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2</text>
+<text x="444.00" y="409.10" font-size="18" font-weight="400" fill="#242424" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Actif</text>
+<path d="M28 427.79999999999995h624" stroke="#D8BF8F"/>
+<text x="28.00" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">16</text>
+<text x="49.60" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="53.92" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="48.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runes</text>
+<text x="102.52" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="106.84" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="78.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">équipées</text>
+<text x="185.68" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="190.00" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">·</text>
+<text x="194.32" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="198.64" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="62.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Toutes</text>
+<text x="261.28" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="265.60" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="20.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">6★</text>
+<text x="286.12" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="290.44" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">·</text>
+<text x="294.76" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="299.08" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="54.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Grade</text>
+<text x="353.08" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="357.40" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="46.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">initial</text>
+<text x="403.84" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="408.16" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="34.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rare</text>
+<text x="442.72" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="447.04" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="50.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">(bleu)</text>
+<text x="497.80" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="502.12" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="78.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">minimum</text>
+<text x="580.96" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="585.28" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">·</text>
+<text x="589.60" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="593.92" y="458.80" font-size="18" font-weight="400" fill="#242424" textLength="54.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Grade</text>
+<text x="28.00" y="488.50" font-size="18" font-weight="400" fill="#242424" textLength="61.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">affiché</text>
+<text x="89.56" y="488.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="93.88" y="488.50" font-size="18" font-weight="400" fill="#242424" textLength="91.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">légendaire</text>
+<text x="185.68" y="488.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="190.00" y="488.50" font-size="18" font-weight="400" fill="#242424" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">(orange)</text>
+<text x="265.60" y="488.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="269.92" y="488.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">·</text>
+<text x="274.24" y="488.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="278.56" y="488.50" font-size="18" font-weight="400" fill="#242424" textLength="62.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Toutes</text>
+<text x="341.20" y="488.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="345.52" y="469.50" width="44.40" height="27" rx="13.5" fill="#edf4fc" stroke="#b6cce5"/>
+<text x="351.52" y="488.50" font-size="18" font-weight="700" fill="#175b9b" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+15</text>
+</svg>

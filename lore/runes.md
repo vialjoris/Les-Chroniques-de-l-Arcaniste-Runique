@@ -1,5 +1,29 @@
 # Inventaire runique
 
+## État courant — équipement attesté aux chapitres 14–16, DEC-110/112
+
+Livre I complet validé. Les notices « fin du 13 / équipement à définir » ci-dessous restent l’historique avant réception de la suite, pas un gel du bilan du 9.
+
+| Instantané | Composition attestée | Occupation |
+|---|---|---:|
+| Début du 14, Hasol niveau 38 | 4 Fatal + 4 Arcanique + 4 Vitesse + 1 Gardien | 13/13 |
+| Après le centième boss de donjon au 14 | Même composition + deuxième Gardien | 14/14 |
+| Fin du 15, conservée au dénouement | Même composition + 2 Énergie | 16/16 |
+
+**Treize puis quatorze premières pièces :** toutes **6★**, grade **natif rare (bleu) minimum**, **+15**. Avec quatre secondaires à ce stade, grade **affiché légendaire (orange)** ; ne pas appeler les pierres « bleues +15 » sans préciser qu’il s’agit de leur origine. Les cadeaux paternels Fatal/Gardien sont conservés et montés à +15, pas remplacés. Leurs fiches à +6 plus bas sont des instantanés historiques, pas leurs affixes finaux ; renforcements et secondaires ajoutées **À DÉFINIR**.
+
+**Deux Énergie finales :** 6★, **natives rares (bleues)**, +15 attestées par le **texte du 15 validé**, pas une validation explicite supposée du questionnaire. La seconde est décrite « comme la première », de qualité initiale rare ; grade affiché orange après progression ordinaire. Affixes **À DÉFINIR**. Ne pas reprendre les Énergie maternelles 3★ transférées à Yoon au 9. Nouvelles pièces et anciennes pierres de même ensemble ne sont pas interchangeables sans provenance.
+
+**Identités non résolues :** ne pas convertir les Arcanique 2★ `HAS-R013/014`, la Vitesse 3★ `HAS-R015` ou les anciennes runes maternelles en 6★ par amélioration. Les étoiles ne montent pas avec +15. Le texte atteste le remplacement agrégé sur des années, sans identifier chaque acquisition, retrait, revente ou stockage : **aucun nouvel ID ni affixe inventé**. Principales/secondaires finales, grades natifs individuels, emplacement occupé par chaque ID et stocks **À DÉFINIR**. Le présent bilan est un inventaire agrégé attesté, pas seize fiches entièrement connues.
+
+**Ensembles actifs à 14 pièces :** Fatal Attaque +35 %, Arcanique PA +1 200, Vitesse +30 %, Gardien Défense +15 %. À seize pièces : Énergie PV +15 % en plus. Bonus d’ensemble ≠ caractéristique naturelle ; ordre de calcul et arrondis toujours ouverts. Au départ à treize pièces, Gardien 1/2 inactif.
+
+**Autres suivis :** Yoon au 14 : six cercles, six runes équipées et une septième en réserve ; composition détaillée non extrapolée. Rune prêtée d’Iseria `ISE-R001` rendue à +9 au 10, puis devenir après sa mort **À DÉFINIR**, pas héritage équipé automatiquement.
+
+**Rune temporelle — section XV du 16 :** trouvée par les chasseurs d’inventaire près du lieu de chute du Démon stellaire, transmise à Hasol pour expertise, coffret laissé plusieurs jours sur son bureau ; identification partielle par Œil : nom connu, **grade et étoiles indéterminés**, propriétés non identifiées. Activation involontaire pendant son deuil, sur instabilité émotionnelle, puis cadran/sablier 12 DONG + 1 DING. Aucun affixe, grade astral, rang 6★, emplacement équipé ou origine profonde déduit ; ne pas créer une fiche chiffrée à partir du seul cadran.
+
+## Notices de réception antérieures — historiques
+
 **Localisation de la transmission citée :** `new.txt` se trouve désormais dans [`../docs/new.txt`](../docs/new.txt), déplacé par l’auteur sans changement de contenu. Les bornes de provenance ci-dessous restent celles des relevés historiques, sans nouvel import ni modification de l’inventaire.
 
 ## Actualisation courante — fin du chapitre 13 validé, DEC-109

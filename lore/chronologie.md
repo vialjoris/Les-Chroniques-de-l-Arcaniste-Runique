@@ -1,5 +1,35 @@
 # Chronologie
 
+## État courant — livre I complet validé, DEC-110 à DEC-116
+
+Seize chapitres lus et validés, ajout XI du 13 et 10–12 compris. Les notices de réception suivantes sont **historiques** ; les mentions « futurs », morts de Yoon/Ray ou « réveil seulement au II » ne constituent plus l’état courant.
+
+| Repère | Événement raconté et validé |
+|---|---|
+| Chapitre 13 I–X | Départ à 25 ans, apprentissage long auprès de Samia, relation puis mariage intime vers 28 ans, vie commune dans la demeure Shun |
+| Chapitre 13 XI | Notification mondiale nocturne des portails ; compteur indépendant 0/5 000, pas de cercle offert ; réconfort de Zio |
+| Chapitre 14, +48 h | Ouverture des premiers portails blancs |
+| Chapitre 14, +56 h | Mort d’Iseria en cueillette, forêt et portail blanc non repéré ; recherche, panier et découverte ensuite |
+| Chapitre 14, suite | Deuil et interventions contre blancs puis verts ; Hasol niveau 38, treize cercles, centième boss de donjon (Manticore des Cendres niveau 41), **13→14** |
+| Chapitre 15 | Portails bleus ; village familial de Samia détruit, plusieurs proches morts ; niveau 40 d’Hasol, Siphon runique ; Présage des failles, ~10 h approximatives ; puis opérations violettes collectives |
+| Chapitre 15, progression | À 5 000 démons personnels cumulés : **14→15** ; à 10 000 : **15→16**. Exclusivement compteur de portails ; âge d’environ 33 ans en fin de chapitre sans date calendaire imposée |
+| Chapitre 16, 34 ans | Grossesse découverte vers sept semaines, Zio informé, bonheur et ralentissement ; Samia s’isole, carte des portails par couleur |
+| Chapitre 16, orange | Portail près de la demeure Shun, démons 50/boss 70, 400 points ; Dernier Rempart de Zio niveau 61 tue Zio et le Démon stellaire ; Yoon, Ray et Samia survivent ; funérailles et deuil |
+| Chapitre 16, XV | Rune retrouvée près du lieu de chute du démon et confiée à Hasol ; identification partielle, puis activation involontaire sur instabilité émotionnelle pendant le deuil ; cadran, sablier, 12 DONG + 1 DING |
+| Épilogue du livre I | Hasol a quinze ans, à la veille de ses seize ans et de la Révélation ; cauchemar 12 DONG + 1 DING, mère retrouvée et réconfort ; ancien dialecte incompris |
+
+**Phrase d’Iseria :** « Astrae vaël norien… thara sel ven. » Sens pour le lecteur : « Qu’Astrae soit avec nous… Ça a commencé. » La nouvelle position du réveil remplace l’ouverture du II une semaine avant ; ne pas déplacer automatiquement R2–R11 ou la vie 13. La rune reste plusieurs jours dans son coffret avant examen ; pas d’ellipse inventée jusqu’à 45 ans. Origine profonde de l’objet, formule du déclencheur et devenir de l’enfant **À DÉFINIR**.
+
+### Ténébria et chronologie divergente — CANON, non raconté au I
+
+- **Avant les vies :** faille astrale scellée par un ancêtre Astrea ; date inconnue.
+- **Première vie :** Ténébria ~32 ans, Hasol ~28 ; grimoire royal, invocation et réouverture accidentelle permettant le retour des portails.
+- **Deuxième vie :** Révélation de Ténébria à seize ans, Hasol douze ; sceau fragilisé malgré le retour et résonance astrale, premiers portails. Ils sont donc présents au retour d’Hasol à seize ans. Ce repère ne signifie pas qu’Hasol se réveille à douze ans.
+- **Livre II :** passif de Samia disponible dès le début ; premiers portails bleus au même moment chronologique que dans la première vie. Chronologie des couleurs ultérieures et évolution de la faille lors des retours suivants **À DÉFINIR**.
+- **Livre III :** catastrophe mondiale l’année des 45 ans, distincte de l’orange du I. Mémoire parfaite acquise en R11, pas attribuée à l’Hasol du début du II.
+
+## Notices de réception antérieures — historiques
+
 **Localisation des sources historiques :** `new.txt` et `old.txt` cités ci-dessous se trouvent désormais dans [`../docs/new.txt`](../docs/new.txt) et [`../docs/old.txt`](../docs/old.txt), déplacés par l’auteur sans changement de contenu. Les dates, repères de lignes et statuts des relevés historiques ne changent pas.
 
 ## État courant — fin du chapitre 13 validé, DEC-109

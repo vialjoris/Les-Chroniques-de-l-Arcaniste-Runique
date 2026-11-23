@@ -1,5 +1,54 @@
 # Système LitRPG — Règles runiques
 
+## État courant — livre I validé, DEC-110 à DEC-116
+
+Seize chapitres validés, 13 XI et 10–12 compris. Les notices datées suivantes décrivent des états historiques. Les règles de cette section priment leurs mentions « futurs », « en lecture » et leurs paramètres désormais précisés.
+
+### Croissance runique et cercles
+
+| Compteur | Admissibilité | Gain |
+|---|---|---|
+| Mille monstres | Éliminations personnelles admissibles selon les seuils historiques, **hors portails** | Un cercle et un emplacement par 1 000 |
+| Cent boss de donjon | Boss de **donjon**, personnellement achevés, tout niveau | Premier gain au centième, puis 200, 300… |
+| Cinq mille démons de portails | Éliminations personnelles de portails, tout niveau ; jamais ajoutées aux mille | Un cercle et un emplacement à 5 000, 10 000… |
+
+Le troisième effet se débloque à l’événement mondial de fin du 13, à 0/5 000 sans cercle immédiat. Au 14, Hasol niveau 38 passe **13→14** sur la Manticore des Cendres, niveau 41, centième boss de donjon. Au 15 : **14→15 à 5 000**, **15→16 à 10 000** démons cumulés. Pas de cumul portails/mille ni de boss de portail parmi les cent. Un boss de donjon peut avancer les mille s’il satisfait leurs conditions. Origine exacte du treizième cercle après le 9 **À DÉFINIR** ; ne pas la déduire du seul niveau.
+
+Cercles naturels et niveaux sont distincts. L’absorption du mana ambiant et l’influence des combats sont des hypothèses du monde, sans loi scientifique ni formule. Révélation institutionnelle à seize ans après accumulation suffisante de mana ; premiers cercles plus précoces possibles, dont Hasol à sept ans. Croissance ajoute ses propres gains sans s’étendre aux compagnons (DEC-113).
+
+### Siphon runique — CANON, DEC-113
+
+Premier sort offensif direct d’Hasol au **niveau 40**, au 15 : actif **Vent**, zone, dégâts fondés sur la PA, vol de Mana, récupération entre usages. Le **Vent est neutre**, hors cycle Eau/Feu/Terre. Aucune nouvelle formule critique, Mana infini ou garantie de critique d’Aura. Coefficients, coût, rayon/portée, durée, recharge chiffrée et plafond **À DÉFINIR**. Les propositions 120 %/75 %/8 m/100 Mana/20 s/1 200 Mana ne sont pas des valeurs acquises.
+
+### Donjons et portails — CANON, DEC-111
+
+Donjons fixes, réexplorables et réinitialisés après mort du boss ; délai exact **À DÉFINIR**, 24 h provisoire. Minimum trois membres, maximum cinq et 50 points conservés ; contrôle économique sans propriété automatique. Sorties de monstres anormales, pas une fonction ordinaire.
+
+Portails imprévisibles, sans réinitialisation ; ouverture **48 h après manifestation**, prévision spécialisée **~10 h avant manifestation**, localisation initialement approximative. Mort du boss = fermeture, sans effacement des démons déjà sortis. Conditions d’entrée avant ouverture et effectif maximal **À DÉFINIR** ; les points ne sont pas des effectifs.
+
+| Couleur du portail | Niveau des démons ordinaires | Niveau du boss | Plafond de points de rareté |
+|---|---:|---:|---:|
+| Blanc | 10 | 30 | 100 |
+| Vert | 20 | 40 | 100 |
+| Bleu | 30 | 50 | 100 |
+| Violet | 40 | 60 | 250 |
+| Orange | 50 | 70 | 400 |
+| Rouge | 60 | 80 | 800 |
+
+Le groupe d’Hasol représente 50 points : jusqu’à 200 points de renforts en violet, 350 en orange. Ce barème remplace les limites uniformes de 100 et les variantes intermédiaires de conversation.
+
+### Présage, mémoire et faille
+
+Samia obtient **Présage des failles** au 15, passif de prévision approximative ~10 h ; évolution au 16 : carte magique des portails détectés par couleur. Ni contrôle des apparitions ni couverture mondiale garantie. Au II : passif présent dès le début, version cartographique initiale **À DÉFINIR**. Hasol n’obtient aucune prédiction : mémoire parfaite seulement à partir de R11, utile sur le passé connu, pas sur les nouvelles apparitions. Premiers portails du II déjà présents au retour, premiers bleus synchronisés chronologiquement avec la première vie.
+
+**Origine validée, non révélée au I — DEC-116 :** invocation de Ténébria rouvrant accidentellement une faille scellée par un ancêtre Astrea ; sceau encore fragilisé après le retour temporel, résonance à sa Révélation dans la deuxième vie. Détails du sort et état des retours ultérieurs **À DÉFINIR** ; pas de cause unique déduite pour les sorties anormales de donjons ou la catastrophe mondiale.
+
+### Retour initial — DEC-115
+
+La section XV du 16 montre la Rune temporelle retrouvée près du lieu de chute du démon, confiée à Hasol pour expertise ; Œil n’identifie ni grade ni étoiles. Pendant le deuil, « Instabilité émotionnelle détectée », activation involontaire, cadran/sablier, 12 DONG + 1 DING. Suit le réveil en épilogue du I, **la veille de la Révélation**, avec le cauchemar de ces sons. Cela remplace le réveil seulement au début du II une semaine avant, sans déplacer tous les autres retours. Origine profonde, grade/étoiles et formule du déclencheur **À DÉFINIR**. Le savoir d’Iseria et le sens profond d’Astrae restent cachés aux personnages concernés.
+
+## Notices de réception antérieures — historiques
+
 **Actualisation courante — DEC-105/109, 22 novembre 2026 :** treize chapitres présents,
 1–9 et 13 validés, 10–12 en lecture sans validation globale. Aucune rédaction du 14
 autorisée. Au 13, après plusieurs

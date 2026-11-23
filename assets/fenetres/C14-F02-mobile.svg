@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="877" viewBox="0 0 320 877" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="312" height="867" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="870" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="118.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">REGISTRE</text>
+<text x="174.80" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="180.20" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="33.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">DE</text>
+<text x="213.68" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="108.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">L’ÉQUIPE</text>
+<text x="164.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<path d="M20 109.19999999999999h280" stroke="#D8BF8F"/>
+<text x="20.00" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="83.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Chasseur</text>
+<text x="20.00" y="175.90" font-size="18" font-weight="700" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="20.00" y="205.60" font-size="18" font-weight="700" fill="#242424" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Cercles</text>
+<path d="M20 224.29999999999995h280" stroke="#D8BF8F"/>
+<text x="20.00" y="255.30" font-size="18" font-weight="700" fill="#242424" textLength="50.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Hasol</text>
+<text x="70.76" y="255.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="75.08" y="255.30" font-size="18" font-weight="700" fill="#242424" textLength="44.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Shun</text>
+<text x="20.00" y="285.00" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">38</text>
+<text x="20.00" y="314.70" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">13</text>
+<path d="M20 333.3999999999999h280" stroke="#D8BF8F"/>
+<text x="20.00" y="364.40" font-size="18" font-weight="700" fill="#242424" textLength="46.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Yoon</text>
+<text x="66.44" y="364.40" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="70.76" y="364.40" font-size="18" font-weight="700" fill="#242424" textLength="55.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Notos</text>
+<text x="20.00" y="394.10" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">47</text>
+<text x="20.00" y="423.80" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">6</text>
+<path d="M20 442.4999999999999h280" stroke="#D8BF8F"/>
+<text x="20.00" y="473.50" font-size="18" font-weight="700" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Ray</text>
+<text x="52.40" y="473.50" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="56.72" y="473.50" font-size="18" font-weight="700" fill="#242424" textLength="62.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Corvus</text>
+<text x="20.00" y="503.20" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">48</text>
+<text x="20.00" y="532.90" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">8</text>
+<path d="M20 551.5999999999999h280" stroke="#D8BF8F"/>
+<text x="20.00" y="582.60" font-size="18" font-weight="700" fill="#242424" textLength="28.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Zio</text>
+<text x="48.08" y="582.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="52.40" y="582.60" font-size="18" font-weight="700" fill="#242424" textLength="55.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Notos</text>
+<text x="20.00" y="612.30" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">56</text>
+<text x="20.00" y="642.00" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">7</text>
+<path d="M20 660.7h280" stroke="#D8BF8F"/>
+<text x="20.00" y="691.70" font-size="18" font-weight="700" fill="#242424" textLength="54.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Samia</text>
+<text x="74.00" y="691.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="78.32" y="691.70" font-size="18" font-weight="700" fill="#242424" textLength="50.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Claire</text>
+<text x="20.00" y="721.40" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">45</text>
+<text x="20.00" y="751.10" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">6</text>
+<path d="M20 769.8000000000002h280" stroke="#D8BF8F"/>
+<text x="20.00" y="800.80" font-size="18" font-weight="400" fill="#242424" textLength="57.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rareté</text>
+<text x="77.24" y="800.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="81.56" y="800.80" font-size="18" font-weight="400" fill="#242424" textLength="52.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">totale</text>
+<text x="134.48" y="800.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="138.80" y="800.80" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
+<text x="161.48" y="800.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="165.80" y="800.80" font-size="18" font-weight="400" fill="#242424" textLength="68.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">l’équipe</text>
+<text x="20.00" y="838.50" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">50</text>
+<text x="41.60" y="838.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="45.92" y="838.50" font-size="18" font-weight="400" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">points</text>
+</svg>

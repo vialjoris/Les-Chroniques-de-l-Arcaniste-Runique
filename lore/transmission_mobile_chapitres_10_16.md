@@ -1,5 +1,7 @@
 # Transmission mobile — préparation des chapitres 10 à 16
 
+**Réception courante — DEC-110 à DEC-116, 23 novembre 2026 :** tous les chapitres 1–16 lus et validés ; retour mobile traité, dont XI du 13 et seconde rédaction du 15. Cette fiche demeure un **questionnaire historique**, non un état courant à recopier. Lire `../docs/integration_chapitres_13_16.md` et les références actualisées pour les compteurs, l’équipement, Iseria, Samia, Siphon, la grossesse, les survivants et l’épilogue. Les anciennes absences d’autorisation ci-dessous sont remplacées ; aucune suite au II autorisée.
+
 **État ultérieur — DEC-109, 22 novembre 2026 :** chapitres 1–9 et 13 validés ;
 10–12 toujours en lecture sans validation littéraire globale. Le 13 actuel,
 corrections DEC-106/107/108 comprises, raconte désormais mariage et acquisition

@@ -1,5 +1,7 @@
 # Transmission mobile — contrôle des chapitres 10 à 12
 
+**Statut courant — DEC-110, 23 novembre 2026 :** 10–12 désormais lus et validés littérairement, comme l’ensemble des 1–16. Cet audit conserve ses constats et arbitrages datés ; les mentions de lecture ci-dessous ne sont plus le statut courant. Voir `../docs/integration_chapitres_13_16.md` pour la réception suivante et ses limites.
+
 **Localisation actuelle des sources :** `new.txt`, `old.txt` et `chap1_revision.md` à `chap4_revision.md` cités ci-dessous sont désormais dans `../docs/`, après déplacement par l’auteur sans changement de contenu. Voir la [notice de provenance](../source.md#références-internes), la [transmission](../docs/new.txt) et l’[archive](../docs/old.txt). Les noms et repères de lignes de cet audit restent historiques.
 
 ## Résultat actuel — import terminé, DEC-102

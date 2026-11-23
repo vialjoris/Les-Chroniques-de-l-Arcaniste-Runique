@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="145" viewBox="0 0 320 145" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="312" height="135" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="138" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="85.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Siphon</text>
+<text x="141.32" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="146.72" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="93.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
+<text x="240.68" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<path d="M20 69.6h280" stroke="#D8BF8F"/>
+<text x="20.00" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="84.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Recharge</text>
+<text x="104.24" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="108.56" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">en</text>
+<text x="130.16" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="134.48" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="54.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">cours.</text>
+</svg>

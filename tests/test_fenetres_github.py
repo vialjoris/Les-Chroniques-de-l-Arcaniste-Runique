@@ -134,7 +134,8 @@ class GitHubFenetreTests(unittest.TestCase):
                     self.assertGreater(viewbox[3], 0)
                     for node in svg.iter():
                         tag = node.tag.split("}")[-1].lower()
-                        self.assertNotIn(tag, {"script", "foreignobject", "image", "iframe", "animate", "set"})
+                        self.assertIn(tag, {"svg", "g", "rect", "path", "circle", "text", "tspan", "title", "desc"},
+                                      "Primitive SVG non approuvée : contrat passif fermé")
                         for key, value in node.attrib.items():
                             key = key.split("}")[-1].lower()
                             self.assertFalse(key.startswith("on"), key)
@@ -286,6 +287,16 @@ class GenerateurFenetreCliTests(unittest.TestCase):
                 next(node for node in svg.iter(SVG_NS + "text") if node.text == "150").text = "151"
                 asset.write_bytes(ET.tostring(svg, encoding="utf-8"))
                 self.assertNotEqual(asset.read_bytes(), original)
+                with self.assertRaises(AssertionError):
+                    validate()
+                asset.write_bytes(original)
+        asset = self.assets / "ajout-unique.svg"
+        original = asset.read_bytes()
+        for tag in ("a", "script", "foreignObject", "image", "animateTransform", "filter", "feImage"):
+            with self.subTest(primitive_hostile=tag):
+                svg = ET.fromstring(original)
+                ET.SubElement(svg, SVG_NS + tag)
+                asset.write_bytes(ET.tostring(svg, encoding="utf-8"))
                 with self.assertRaises(AssertionError):
                     validate()
                 asset.write_bytes(original)

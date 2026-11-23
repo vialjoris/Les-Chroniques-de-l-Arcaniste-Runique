@@ -17,6 +17,11 @@
 11. [Chapitre 11 — Le dernier départ](#chapitre-11)
 12. [Chapitre 12 — La légende prend sa place](#chapitre-12)
 13. [Chapitre 13 — Ce que nous construisons](#chapitre-13)
+14. [Chapitre 14 — Le centième boss](#chapitre-14)
+15. [Chapitre 15 — Enfin, la magie](#chapitre-15)
+16. [Chapitre 16 — Celle qui demeure](#chapitre-16)
+
+[Épilogue — La nuit avant la Révélation](#epilogue)
 
 ---
 
@@ -39668,4 +39673,14945 @@ Elle éteignit la lampe et trouva sa main dans l’obscurité.
 
 ---
 
+## XI. La nuit où tout a changé
+
+La demeure Shun était plongée dans le silence.
+
+À travers les rideaux entrouverts, la lumière de la lune dessinait une bande pâle sur le parquet de la chambre.
+
+Hasol dormait paisiblement, la tête posée contre l’épaule de Zio.
+
+Depuis leur mariage, elle avait pris l’habitude de s’endormir ainsi. Elle aimait sentir sa respiration régulière, la chaleur de son corps et cette façon qu’il avait de passer un bras autour d’elle même lorsqu’il était à moitié endormi.
+
+Il lui arrivait encore de s’étonner de son bonheur.
+
+Pas parce qu’elle estimait ne pas le mériter.
+
+Simplement parce qu’elle avait longtemps imaginé sa vie comme une succession d’objectifs à atteindre, de difficultés à surmonter et de choses à accomplir.
+
+Elle n’avait jamais vraiment pensé à ces moments où elle n’avait rien à réussir.
+
+Seulement quelqu’un à retrouver.
+
+Cette nuit-là, elle s’était endormie le sourire aux lèvres.
+
+Un tintement cristallin résonna soudain.
+
+Hasol ouvrit les yeux.
+
+Pendant une seconde, elle crut avoir rêvé.
+
+Puis une lumière apparut devant elle.
+
+Une fenêtre translucide flottait au-dessus du lit, projetant de faibles reflets dorés sur les couvertures.
+
+Hasol cligna des yeux.
+
+Elle connaissait parfaitement les notifications du système. Depuis sa Révélation, elle en avait reçu suffisamment pour ne plus s’étonner de leur apparition.
+
+Mais jamais une fenêtre ne s’était manifestée pendant son sommeil.
+
+Elle se redressa légèrement.
+
+Et lut.
+
+<div class="system-window lit-window" data-window-id="C13-F03" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C13-F03-mobile.svg">
+    <img src="assets/fenetres/C13-F03.svg" alt="Fenêtre du système — SYSTÈME — ÉVÉNEMENT MONDIAL">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — ÉVÉNEMENT MONDIAL
+  </div>
+  <p>Apparition des portails démoniaques</p>
+  <p>Nouveau phénomène détecté</p>
+  <p>Croissance runique</p>
+  <p>Compétence passive améliorée</p>
+  <p>Nouvel effet débloqué</p>
+  <p>Toutes les 5 000 éliminations personnelles de monstres provenant de portails démoniaques accordent :</p>
+  <p>+1 cercle de mana</p>
+  <p>+1 emplacement runique</p>
+  <p>Aucune restriction de niveau.</p>
+  <p>Effets précédents conservés.</p>
+  <p>Monstres de portails vaincus</p>
+  <p>0 / 5 000</p>
+  </details>
+</div>
+
+Hasol resta immobile.
+
+Elle relut la première ligne.
+
+Puis la seconde.
+
+Et enfin l’ensemble de la notification.
+
+Événement mondial ?
+
+Portails démoniaques ?
+
+Elle connaissait les donjons.
+
+Elle avait consacré une grande partie de sa vie à les explorer. Elle connaissait leurs règles, leurs dangers et l’importance qu’ils occupaient dans l’économie des guildes.
+
+Mais des portails démoniaques ?
+
+Elle n’avait jamais rencontré ce terme dans une notification.
+
+Et pourquoi le système annonçait-il leur apparition comme un événement mondial ?
+
+Son regard descendit vers la seconde partie de la fenêtre.
+
+Croissance runique.
+
+Sa compétence venait d’évoluer.
+
+Sans combat.
+
+Sans montée de niveau.
+
+Sans qu’elle ait atteint l’un de ses seuils habituels.
+
+Hasol sentit son cœur accélérer.
+
+— Qu’est-ce que… ?
+
+Elle tendit la main vers la fenêtre, comme si elle pouvait y trouver une explication supplémentaire.
+
+Il n’y en avait aucune.
+
+Elle consulta de nouveau la description.
+
+Cinq mille monstres de portails.
+
+Le nombre lui parut presque irréel.
+
+D’où viendraient ces créatures ?
+
+Pourquoi le système prévoyait-il qu’elle pourrait en affronter autant ?
+
+Une inquiétude froide remonta lentement dans sa poitrine.
+
+Elle regarda vers la fenêtre de la chambre.
+
+Au-delà des rideaux, la capitale dormait.
+
+Aucun cri.
+
+Aucune alarme.
+
+Aucun bruit inhabituel.
+
+Pourtant, quelque chose venait de changer.
+
+Et elle était incapable de dire quoi.
+
+— Non…
+
+Elle repoussa légèrement la couverture.
+
+Pendant un instant, elle pensa à réveiller sa mère.
+
+Puis à courir jusqu’à son bureau pour consulter ses livres.
+
+Elle pourrait peut-être trouver une référence ancienne. Une mention oubliée. Un récit d’explorateur parlant de passages entre les mondes.
+
+Mais ses idées se bousculaient trop vite.
+
+Et plus elle cherchait une explication, plus elle avait l’impression de ne rien comprendre.
+
+Ses mains commencèrent à trembler.
+
+— Hasol ?
+
+La voix ensommeillée de Zio la fit sursauter.
+
+Il se redressa sur un coude, les cheveux ébouriffés, une courte mèche brune retombant sur son front.
+
+— Qu’est-ce qui se passe ?
+
+Elle tourna la tête vers lui.
+
+Pendant une seconde, elle essaya de répondre.
+
+Mais aucun mot ne sortit.
+
+Alors, sans réfléchir davantage, elle se précipita contre lui.
+
+Zio eut à peine le temps d’ouvrir les bras qu’elle s’y blottissait déjà, agrippant fermement sa chemise de nuit.
+
+— Hasol… ?
+
+— Serre-moi.
+
+Il l’enlaça aussitôt.
+
+— Bien sûr.
+
+— Plus fort…
+
+Zio resserra doucement son étreinte.
+
+Ce fut alors qu’il sentit qu’elle tremblait.
+
+Il acheva de se réveiller.
+
+— Hé… ma princesse. Qu’est-ce qui t’arrive ?
+
+Hasol enfouit son visage contre son torse.
+
+— J’ai reçu une notification.
+
+— Du système ?
+
+Elle hocha la tête.
+
+— Il parle d’un événement mondial… De portails démoniaques. Et ma compétence vient de changer toute seule.
+
+Zio resta silencieux quelques instants.
+
+Il passa une main dans les longs cheveux brun sombre d’Hasol, démêlant doucement une mèche coincée entre eux.
+
+— D’accord.
+
+Hasol releva brusquement la tête.
+
+— D’accord ?
+
+— Je t’écoute.
+
+— Zio, tu ne comprends pas ! Le système ne m’a jamais réveillée comme ça ! Et pourquoi une compétence évoluerait-elle à cause de quelque chose qui se passe dans le monde ?
+
+Elle s’interrompit.
+
+Sa respiration était devenue trop rapide.
+
+— Et si c’était dangereux ?
+
+Zio posa une main contre sa joue.
+
+— Alors nous chercherons à comprendre.
+
+— Mais nous ne savons même pas ce que c’est !
+
+— Je sais.
+
+— Et si ces portails apparaissaient près de la capitale ? Ou près de la maison ?
+
+Elle regarda instinctivement vers la porte.
+
+— Maman est ici. Yoon aussi habite dans la capitale. Et les autres…
+
+— Hasol.
+
+— Et si quelque chose arrivait pendant que nous dormons ? Si nous ne savions pas comment réagir ?
+
+Sa voix se brisa légèrement.
+
+— Et si c’était quelque chose que nous ne pouvons pas arrêter ?
+
+Zio ne répondit pas immédiatement.
+
+Il la regarda, puis écarta doucement les cheveux qui lui barraient le visage.
+
+Enfin, il embrassa son front.
+
+— Hasol, regarde-moi.
+
+Elle leva les yeux vers lui.
+
+— Est-ce qu’il y a quelque chose que nous pouvons faire maintenant ?
+
+Elle hésita.
+
+— Je… je ne sais pas.
+
+— Est-ce que la notification t’indique un endroit précis ?
+
+— Non.
+
+— Est-ce qu’elle annonce qu’un danger se trouve ici ?
+
+Hasol secoua la tête.
+
+— Non, mais…
+
+— Alors nous commencerons par nous renseigner demain. Nous irons à la guilde, nous parlerons aux autres, et nous découvrirons ce qui se passe.
+
+Il lui adressa un petit sourire.
+
+— Mais cette nuit, tu n’as pas besoin de résoudre tous les problèmes du monde.
+
+Hasol baissa les yeux.
+
+— Je sais…
+
+— Tu n’en as pas l’air.
+
+Elle lui donna une petite tape sur le torse.
+
+— Ce n’est pas drôle !
+
+— Je sais.
+
+Pourtant, son sourire ne disparut pas complètement.
+
+Hasol voulut protester une seconde fois.
+
+Puis elle renonça.
+
+Elle se blottit de nouveau contre lui.
+
+Zio l’entoura de ses bras et remonta la couverture sur ses épaules.
+
+— Je suis là, Hasol.
+
+Cette fois, elle ne répondit pas.
+
+Elle ferma simplement les yeux.
+
+Pendant plusieurs minutes, Zio continua de caresser doucement ses cheveux, sans lui demander de s’expliquer davantage.
+
+Peu à peu, sa respiration ralentit.
+
+Hasol sentait toujours l’inquiétude au fond de sa poitrine.
+
+Mais elle n’avait plus l’impression de devoir lutter seule contre elle.
+
+— Zio ?
+
+— Hmm ?
+
+— Tu crois que je réagis trop ?
+
+— Non.
+
+— Même si je ne sais pas encore ce que sont ces portails ?
+
+— Tu as peur de quelque chose que tu ne comprends pas. Ce n’est pas une honte.
+
+Hasol resta silencieuse.
+
+Elle pensa à toutes les années passées à essayer de devenir plus forte.
+
+À l’Académie, elle avait longtemps cru qu’il suffirait d’acquérir davantage de niveaux, de cercles et de compétences pour finir par ne plus avoir peur.
+
+Elle avait désormais suffisamment d’expérience pour savoir que ce n’était pas ainsi que les choses fonctionnaient.
+
+Il existait toujours un adversaire inconnu.
+
+Un combat mal préparé.
+
+Une décision dont on ne connaissait pas les conséquences.
+
+Et parfois, une simple fenêtre du système suffisait à lui rappeler qu’elle ne comprenait pas encore tout de ce monde.
+
+— Je déteste ne pas savoir, murmura-t-elle.
+
+Zio eut un léger rire.
+
+— Ça, je l’avais remarqué.
+
+— Je suis sérieuse.
+
+— Moi aussi.
+
+Il lui caressa la joue.
+
+— Tu as passé des années à apprendre des choses que personne ne pouvait t’expliquer au début. Tu n’as pas toujours trouvé les réponses immédiatement.
+
+Hasol réfléchit à ses paroles.
+
+Orven lui avait souvent dit quelque chose de semblable.
+
+Samia aussi.
+
+Elle sourit faiblement.
+
+— Tu vas finir par parler comme mon maître.
+
+— Je vais considérer ça comme un compliment.
+
+— Il serait ravi.
+
+— Alors tout va bien.
+
+Hasol laissa échapper un petit rire.
+
+Le son la surprit elle-même.
+
+Elle n’aurait pas cru pouvoir rire quelques instants plus tôt.
+
+Puis son regard se posa sur la place qu’avait occupée la fenêtre du système.
+
+Elle avait disparu.
+
+Mais elle se souvenait parfaitement de chaque mot.
+
+— Ma compétence a vraiment évolué, dit-elle plus doucement.
+
+— Tu me raconteras ?
+
+Elle acquiesça.
+
+— Elle me donnera un cercle de mana supplémentaire chaque fois que j’aurai vaincu cinq mille monstres provenant de ces portails.
+
+Zio haussa légèrement les sourcils.
+
+— Cinq mille ?
+
+— Oui.
+
+— Ça fait beaucoup de monstres.
+
+— Je sais.
+
+— Et tu n’as aucune idée de ce qu’ils sont ?
+
+— Pas encore.
+
+Il acquiesça lentement.
+
+Hasol s’attendait presque à ce qu’il commence à établir une stratégie.
+
+À évoquer les chasseurs de la capitale, la guilde ou les moyens de se préparer à une nouvelle menace.
+
+Mais Zio resta silencieux.
+
+— Quoi ? demanda-t-elle.
+
+— Rien.
+
+— Tu réfléchis.
+
+— Un peu.
+
+— À quoi ?
+
+Il l’observa un instant.
+
+— Au fait que tu as l’air de vouloir commencer à compter jusqu’à cinq mille avant même de savoir contre quoi nous allons nous battre.
+
+Hasol ouvrit la bouche.
+
+Puis la referma.
+
+— Ce n’est pas…
+
+Elle s’arrêta.
+
+Zio attendit.
+
+— D’accord, admit-elle. J’y ai pensé.
+
+Il rit doucement.
+
+— Évidemment.
+
+— Ce n’est pas ma faute si ma compétence évolue !
+
+— Je n’ai pas dit le contraire.
+
+— Et ce n’est pas comme si j’allais ignorer une possibilité de gagner des cercles !
+
+— Je sais.
+
+Elle le regarda d’un air soupçonneux.
+
+— Tu te moques de moi ?
+
+— Un peu.
+
+— Zio !
+
+Il la serra contre lui avant qu’elle puisse lui donner une seconde tape.
+
+Hasol protesta pour la forme, puis se laissa faire.
+
+Elle était encore inquiète.
+
+Mais cette inquiétude ne l’empêchait plus de sentir la chaleur de son mari, ni d’apprécier le bruit de son rire dans la chambre silencieuse.
+
+Après un moment, elle murmura :
+
+— Je suis contente que tu sois là.
+
+Zio déposa un baiser sur ses cheveux.
+
+— Moi aussi, ma princesse.
+
+Elle referma les yeux.
+
+Puis les rouvrit presque aussitôt.
+
+— Tu crois que je devrais noter la notification ?
+
+— Tu te souviens de ce qu’elle disait ?
+
+— Parfaitement.
+
+— Alors elle ne disparaîtra pas de ta mémoire pendant la nuit.
+
+— Non, mais…
+
+— Hasol.
+
+— Quoi ?
+
+— Ton carnet sera toujours là demain.
+
+Elle tourna légèrement la tête vers sa table de chevet.
+
+Le petit carnet reposait à l’endroit habituel, près d’une lampe éteinte et d’un ouvrage qu’elle n’avait pas encore terminé.
+
+Pendant des années, elle avait eu peur de manquer une occasion d’apprendre.
+
+Elle savait maintenant que certaines découvertes pouvaient attendre quelques heures.
+
+— D’accord, souffla-t-elle.
+
+Zio lui sourit.
+
+— Bonne nuit.
+
+— Bonne nuit.
+
+Elle se rapprocha encore de lui.
+
+Puis, après quelques instants :
+
+— Zio ?
+
+Il rouvrit les yeux.
+
+— Oui ?
+
+Hasol hésita.
+
+— Tu te souviens de ce que je t’ai dit le jour de notre mariage ?
+
+— Tu m’as dit plusieurs choses.
+
+— Celle où je parlais des jours où nous ne saurions pas quoi faire.
+
+Son visage s’adoucit.
+
+— Je m’en souviens.
+
+Elle baissa légèrement la tête.
+
+— Je crois que je viens d’en trouver un.
+
+Zio la regarda longtemps.
+
+Puis il lui prit la main, glissant ses doigts entre les siens.
+
+— Alors nous ferons comme tu l’as promis.
+
+— C’est-à-dire ?
+
+— Nous le traverserons ensemble.
+
+Hasol sentit sa gorge se serrer.
+
+Elle ne trouva rien à répondre.
+
+Alors elle se contenta de poser sa joue contre lui.
+
+Elle entendait les battements réguliers de son cœur.
+
+Au-dehors, la nuit demeurait calme.
+
+Les lumières de la capitale s’éteignaient progressivement, une à une, derrière les fenêtres des maisons.
+
+Personne ne courait dans les rues.
+
+Aucune cloche d’alarme ne retentissait.
+
+Hasol ignorait encore ce que signifiaient les mots portails démoniaques.
+
+Elle ignorait où ils étaient apparus.
+
+Elle ignorait quels monstres s’y trouvaient.
+
+Et, pour une fois, elle accepta de ne pas chercher toutes les réponses immédiatement.
+
+Demain, elle retrouverait ses compagnons.
+
+Demain, elle irait à la guilde.
+
+Demain, elle commencerait à comprendre.
+
+Mais cette nuit, elle voulait simplement rester dans les bras de l’homme qu’elle aimait.
+
+Zio resserra doucement son étreinte.
+
+— Dors, Hasol.
+
+Elle ferma les yeux.
+
+Et, pour le moment, cela lui suffit.
+
+---
+
 **Fin du chapitre 13 — Ce que nous construisons**
+
+
+---
+
+<span id="chapitre-14"></span>
+
+# Chapitre 14 — Le centième boss
+
+## I. Le lendemain du monde
+
+Hasol n’avait presque pas dormi.
+
+Lorsqu’elle descendit dans le salon, le soleil éclairait déjà les grandes fenêtres de la demeure Shun. Une odeur de thé chaud flottait dans l’air.
+
+Sa mère était installée dans son fauteuil habituel.
+
+Iseria portait une robe claire de coupe elfique, ornée de fines broderies dorées. Ses longs cheveux rose pâle retombaient sur ses épaules tandis qu’elle examinait une poignée de plantes médicinales.
+
+Tout semblait normal.
+
+C’était précisément ce qui inquiétait Hasol.
+
+Quelques heures auparavant, une notification du système l’avait réveillée pour lui annoncer l’apparition des portails démoniaques.
+
+Un événement mondial.
+
+Une évolution de Croissance runique.
+
+Et pourtant, sa mère continuait de trier ses plantes comme si rien n’avait changé.
+
+— Bonjour, ma chérie.
+
+Hasol s’approcha.
+
+— Bonjour, maman.
+
+Iseria leva les yeux.
+
+— Tu as mauvaise mine.
+
+— Merci.
+
+— Tu n’as pas beaucoup dormi ?
+
+— Pas vraiment.
+
+Sa mère posa délicatement ses plantes.
+
+— Un cauchemar ?
+
+Hasol hésita.
+
+— Pas exactement.
+
+Zio entra quelques instants plus tard. Ses cheveux courts étaient encore légèrement ébouriffés par le sommeil.
+
+Il salua Iseria avant de prendre place près de son épouse.
+
+— Elle a reçu une notification du système cette nuit, expliqua-t-il.
+
+Hasol lui lança un regard.
+
+— J’allais lui dire.
+
+— Je sais.
+
+Iseria les observa.
+
+— Une notification suffisamment importante pour vous empêcher de dormir ?
+
+Hasol acquiesça.
+
+Elle raconta ce qui s’était produit.
+
+Les portails démoniaques.
+
+L’annonce mondiale.
+
+L’évolution inattendue de sa compétence.
+
+Sa mère l’écouta jusqu’au bout, sans l’interrompre.
+
+— Des portails… murmura-t-elle finalement.
+
+— Tu en as déjà entendu parler ?
+
+Iseria réfléchit.
+
+— Jamais dans ces termes.
+
+Elle reprit sa tasse.
+
+— Et tu ne sais pas où ils sont apparus ?
+
+— Non.
+
+— Alors tu devrais commencer par te renseigner auprès de la guilde.
+
+Hasol soupira.
+
+— C’est exactement ce que Zio m’a dit.
+
+— Voilà un mari raisonnable.
+
+Zio inclina légèrement la tête.
+
+— Merci, Iseria.
+
+— Ne l’encourage pas, maman.
+
+Sa mère sourit.
+
+Pendant quelques instants, la conversation reprit un cours plus ordinaire.
+
+Iseria expliqua qu’elle devait renouveler certaines réserves de plantes médicinales. Quelques préparations avaient été utilisées plus rapidement que prévu.
+
+— Je dois notamment retourner chercher des herbes de lune, dit-elle. Il ne m’en reste presque plus.
+
+— Tu pourrais demander à quelqu’un de les récolter, proposa Hasol.
+
+— Je pourrais.
+
+Iseria lui adressa un sourire amusé.
+
+— Et toi, tu pourrais confier toutes tes améliorations runiques à d’autres artisans.
+
+— Ce n’est pas pareil.
+
+— Vraiment ?
+
+Zio dissimula un sourire derrière sa tasse.
+
+Hasol leva les yeux au ciel.
+
+— Vous êtes impossibles.
+
+Iseria rit doucement.
+
+Hasol contempla son visage.
+
+Elle aimait ces matins-là.
+
+Les repas pris ensemble.
+
+Les petites discussions sans importance.
+
+La tranquillité que la maison avait retrouvée depuis son mariage.
+
+Elle pensa à la notification de la nuit précédente.
+
+Puis à sa mère.
+
+Une inquiétude fugitive traversa son esprit.
+
+— Fais quand même attention pendant tes cueillettes.
+
+Iseria hocha la tête.
+
+— Comme toujours, ma chérie.
+
+Hasol lui sourit.
+
+Elle ignorait encore que ce serait leur dernier petit déjeuner ensemble.
+
+La guilde était en effervescence.
+
+Des chasseurs se pressaient devant les panneaux d’affichage. Des officiers transportaient des cartes. Plusieurs messagers couraient d’un bureau à l’autre.
+
+Hasol reconnut immédiatement le changement.
+
+Les habituelles annonces de donjons avaient été déplacées.
+
+À leur place figuraient de nouveaux contrats.
+
+PORTAIL DÉMONIAQUE — BLANC.
+
+Elle s’arrêta.
+
+Zio se plaça près d’elle.
+
+— Ils sont apparus cette nuit.
+
+— Oui…
+
+Hasol examina les informations.
+
+Plusieurs portails avaient été localisés dans différentes régions de l’Empire.
+
+Leur apparition ne semblait suivre aucune logique géographique.
+
+Une vallée.
+
+Une route commerciale.
+
+Une forêt éloignée.
+
+Aucun emplacement fixe, contrairement aux donjons.
+
+Un responsable de la guilde les rejoignit.
+
+— Vous avez vu les annonces ?
+
+Hasol acquiesça.
+
+— Que savez-vous exactement ?
+
+— Peu de choses, malheureusement.
+
+Il leur indiqua une carte.
+
+— Les premiers relevés permettent d’identifier une classification par couleur. Pour les portails blancs, les monstres ordinaires semblent être de niveau dix.
+
+— Et les boss ? demanda Zio.
+
+— Niveau trente.
+
+Hasol fronça les sourcils.
+
+— Vingt niveaux de différence ?
+
+— C’est bien ce qui figure dans les données du système.
+
+Il poursuivit :
+
+— Les portails autorisent des formations pouvant atteindre cent points de rareté.
+
+Zio observa les annonces.
+
+— C’est le double de la limite des donjons.
+
+— Exactement. Nous préparons donc des équipes importantes. Nous ignorons encore combien de monstres peuvent en sortir.
+
+Hasol regarda les cartes.
+
+— Ils sont déjà ouverts ?
+
+— Non. Les premières observations indiquent qu’ils s’ouvriront quarante-huit heures après leur apparition.
+
+— Et ensuite ?
+
+Le responsable hésita.
+
+— Nous n’en savons pas davantage.
+
+Hasol resta silencieuse.
+
+Dans son esprit, une autre fenêtre du système réapparut.
+
+Toutes les 5 000 éliminations personnelles de monstres provenant de portails démoniaques…
+
+Pourquoi sa compétence prévoyait-elle une telle quantité de victimes ?
+
+Elle contempla les cartes.
+
+Puis les chasseurs qui se pressaient autour d’elles.
+
+Pour la première fois depuis longtemps, elle eut le sentiment d’être confrontée à un phénomène que ni ses années de formation ni son expérience ne lui permettaient de comprendre.
+
+## II. Cinquante-six heures
+
+Les deux journées suivantes furent marquées par les rumeurs.
+
+On racontait que certaines personnes avaient développé une étrange sensibilité leur permettant de ressentir l’arrivée prochaine d’un portail.
+
+Elles ne pouvaient pas toujours indiquer un emplacement précis.
+
+Mais plusieurs avaient annoncé un phénomène dans une région donnée, environ dix heures avant son apparition.
+
+Les guildes commencèrent immédiatement à rechercher ces individus.
+
+Leur aptitude pourrait sauver des vies.
+
+Pour le moment, pourtant, les informations restaient fragmentaires.
+
+La plupart des habitants ne comprenaient pas encore ce qu’était réellement un portail.
+
+Certains pensaient à un nouveau type de donjon.
+
+D’autres à une anomalie magique temporaire.
+
+Les marchands s’inquiétaient pour les routes commerciales.
+
+Les chasseurs, eux, attendaient de connaître la nature des monstres.
+
+À la quarante-huitième heure, les premiers portails s’ouvrirent.
+
+Des démons apparurent dans plusieurs régions.
+
+Les équipes déjà mobilisées intervinrent.
+
+Mais un portail n’avait pas été découvert.
+
+Il se trouvait dans une forêt, à plusieurs heures de la capitale.
+
+Blanc.
+
+Invisible depuis les routes principales.
+
+Aucune équipe n’avait été envoyée sur place.
+
+Huit heures après son ouverture, Iseria Shun avançait sur un sentier qu’elle connaissait depuis des années.
+
+Un panier en osier reposait au creux de son bras.
+
+Sa robe de promenade, de coupe elfique comme celles qu’elle affectionnait, était d’un vert pâle dont le tissu délicat avait été spécialement adapté pour ses cueillettes.
+
+Elle aimait cette forêt.
+
+Elle y avait récolté des plantes bien avant la naissance d’Hasol.
+
+Armin l’y avait parfois accompagnée lorsqu’il était encore vivant, même s’il passait généralement plus de temps à plaisanter sur ses connaissances en botanique qu’à l’aider réellement.
+
+Cette pensée lui arracha un sourire.
+
+— Tu n’aurais toujours pas appris à distinguer les herbes, murmura-t-elle.
+
+Elle s’agenouilla près d’une petite plante aux feuilles argentées.
+
+Voilà ce qu’il me fallait.
+
+Avec précaution, elle dégagea les racines et déposa la plante dans son panier.
+
+Quelques feuilles supplémentaires, et elle pourrait rentrer.
+
+Elle avait promis de préparer un baume pour une employée de la maison qui souffrait régulièrement des poignets.
+
+Peut-être Hasol rentrerait-elle suffisamment tôt pour déjeuner.
+
+Et Zio aussi.
+
+Iseria sourit.
+
+Elle aimait voir sa fille heureuse.
+
+Après toutes les difficultés qu’Hasol avait traversées, après les humiliations de l’Académie et les années passées à travailler jusqu’à l’épuisement, elle avait enfin construit une vie qui lui ressemblait.
+
+Armin aurait été fier.
+
+Iseria en était certaine.
+
+Un craquement retentit derrière elle.
+
+Elle tourna la tête.
+
+Entre deux arbres se tenait une créature.
+
+Elle ressemblait vaguement à un être humain, mais ses bras étaient beaucoup trop longs et sa peau sombre semblait craquelée.
+
+Deux yeux pâles la fixaient.
+
+Iseria se redressa lentement.
+
+— Qu’est-ce que… ?
+
+La créature émit un grondement.
+
+Puis une deuxième silhouette apparut.
+
+Et une troisième.
+
+Iseria recula.
+
+Elle n’avait jamais rencontré de monstres dans cette partie de la forêt.
+
+Il n’y avait aucun donjon à proximité.
+
+Son regard se posa sur les créatures.
+
+Et une pensée traversa brusquement son esprit.
+
+Les portails démoniaques.
+
+Elle sentit son cœur accélérer.
+
+Une quatrième silhouette apparut.
+
+Puis plusieurs autres.
+
+Il y en avait derrière les arbres.
+
+Entre les buissons.
+
+Sur le sentier.
+
+Iseria serra son panier.
+
+Elle comprit qu’elle devait partir.
+
+Immédiatement.
+
+Elle se retourna et courut.
+
+Les monstres la poursuivirent.
+
+Iseria connaissait parfaitement le chemin.
+
+Elle savait où le sentier descendait vers le ruisseau.
+
+Où les arbres devenaient moins serrés.
+
+Où elle pourrait rejoindre la route.
+
+Mais les créatures étaient rapides.
+
+Une première bondit depuis un talus.
+
+Elle parvint à l’éviter.
+
+Une seconde surgit sur sa droite.
+
+Une griffe lui entailla l’avant-bras.
+
+La douleur lui arracha un cri.
+
+Elle continua de courir tout en dirigeant son mana vers la blessure.
+
+Une douce lumière de Terre enveloppa son bras.
+
+Le saignement diminua.
+
+Mais d’autres monstres arrivaient.
+
+Iseria ralentit légèrement.
+
+Une créature apparut devant elle.
+
+Puis deux autres.
+
+Elle tenta de contourner le groupe.
+
+Une griffe frappa son épaule.
+
+Elle trébucha.
+
+Son panier glissa de son bras et roula sur le sentier.
+
+Les plantes médicinales se répandirent sur le sol.
+
+Iseria se releva avec difficulté.
+
+Je dois rentrer.
+
+Elle concentra de nouveau son mana.
+
+Une autre blessure commença à se refermer.
+
+Mais les démons ne lui laissèrent aucun répit.
+
+Dès qu’elle tentait de reprendre sa course, une nouvelle créature surgissait entre les arbres.
+
+Elle était soigneuse.
+
+Elle savait stabiliser les blessés et réparer progressivement les tissus endommagés.
+
+Mais elle n’avait pas les compétences offensives d’une chasseuse.
+
+Et il y avait trop d’ennemis.
+
+Beaucoup trop.
+
+Elle recula jusqu’au pied d’un vieux chêne.
+
+Ses mains tremblaient.
+
+Elle leva les yeux.
+
+Au-dessus des branches, le ciel était parfaitement bleu.
+
+À cet instant, une image s’imposa à elle.
+
+Hasol, petite, assise sur les genoux d’Armin.
+
+Sa fille riait tandis que son père l’appelait ma princesse.
+
+Puis elle revit Hasol dans sa robe de mariée.
+
+Elle avait été si heureuse.
+
+Iseria sentit des larmes couler sur ses joues.
+
+— Hasol…
+
+La horde se referma sur elle.
+
+Et personne n’entendit son dernier appel.
+
+Cinquante-six heures après la notification mondiale, Iseria Shun mourut dans cette forêt.
+
+Le portail était blanc.
+
+Ses monstres n’étaient que de niveau dix.
+
+Mais leur nombre avait suffi.
+
+## III. Le panier
+
+Hasol commença à s’inquiéter lorsque le repas de midi fut servi sans sa mère.
+
+Au début, elle essaya de se rassurer.
+
+Iseria prolongeait parfois ses cueillettes.
+
+Lorsqu’une plante était difficile à trouver, elle pouvait passer plusieurs heures supplémentaires dans la forêt.
+
+Mais l’après-midi avança.
+
+Et sa mère ne rentra pas.
+
+Hasol se rendit dans sa suite.
+
+La pièce était calme.
+
+Une robe claire reposait sur un fauteuil.
+
+Plusieurs flacons étaient disposés sur une petite table.
+
+Un carnet ouvert présentait une liste de plantes médicinales.
+
+Hasol reconnut immédiatement l’écriture de sa mère.
+
+Herbes de lune. Feuilles de sève. Racines argentées.
+
+Elle relut la liste.
+
+Puis regarda vers la fenêtre.
+
+Une sensation glaciale lui traversa le ventre.
+
+— Non…
+
+Elle se précipita hors de la chambre.
+
+— Zio !
+
+Son mari apparut presque aussitôt.
+
+— Qu’est-ce qu’il y a ?
+
+— Maman est partie dans la forêt.
+
+Il fronça les sourcils.
+
+— Pour ses plantes ?
+
+— Oui.
+
+— Depuis quand ?
+
+— Ce matin.
+
+Hasol le regarda.
+
+— Zio, elle n’est pas rentrée.
+
+Il ne demanda rien de plus.
+
+— Nous allons la chercher.
+
+Samia fut la première à les rejoindre.
+
+La Ranger avait apporté son arc et ses outils habituels.
+
+Yoon arriva quelques minutes plus tard, suivie de Ray.
+
+— Montre-moi le sentier qu’elle emprunte, demanda Samia.
+
+Hasol le désigna sur la carte.
+
+Ils partirent immédiatement.
+
+À l’entrée de la forêt, Samia prit naturellement la tête.
+
+Elle connaissait les traces.
+
+Les déplacements des animaux.
+
+Les signes qu’une branche avait été brisée récemment.
+
+Hasol activa son Œil runique.
+
+Depuis son apprentissage auprès de Samia, elle était capable de détecter certains pièges et d’observer davantage de détails dans les mécanismes runiques.
+
+Mais rien ne lui permettait de retrouver automatiquement une personne disparue.
+
+Elle devait chercher.
+
+Comme les autres.
+
+— Là, dit soudain Samia.
+
+Elle s’agenouilla.
+
+Une empreinte marquait la terre humide.
+
+Zio s’approcha.
+
+— Un animal ?
+
+Samia secoua lentement la tête.
+
+— Je n’en connais aucun qui laisse ce genre de trace.
+
+Hasol sentit sa gorge se serrer.
+
+— Un démon ?
+
+Samia ne répondit pas immédiatement.
+
+— C’est possible.
+
+Ils accélérèrent.
+
+Puis Ray aperçut quelque chose près d’un arbre.
+
+— Attendez.
+
+Hasol suivit son regard.
+
+Un panier était renversé sur le sentier.
+
+Des plantes médicinales jonchaient le sol.
+
+Elle s’arrêta net.
+
+Elle reconnaissait ce panier.
+
+Elle connaissait jusqu’au petit ruban noué autour de sa poignée.
+
+C’était elle qui l’avait offert à sa mère.
+
+— Maman… ?
+
+Samia posa une main sur son bras.
+
+— Hasol…
+
+Mais elle ne l’écouta pas.
+
+Elle se précipita en avant.
+
+— Maman !
+
+Les arbres défilaient autour d’elle.
+
+Elle trébucha sur une racine.
+
+Se rattrapa.
+
+Continua.
+
+Puis elle aperçut quelque chose au pied d’un grand chêne.
+
+Une silhouette.
+
+Une robe vert pâle.
+
+De longs cheveux roses étendus sur la terre.
+
+Hasol s’immobilisa.
+
+Le monde sembla se vider de tous ses bruits.
+
+— Maman… ?
+
+Elle avança lentement.
+
+Un pas.
+
+Puis un autre.
+
+Elle s’agenouilla.
+
+Iseria était là.
+
+Hasol effleura son visage.
+
+— Maman ?
+
+Aucune réponse.
+
+— C’est moi.
+
+Elle posa doucement une main sur son épaule.
+
+— Réveille-toi…
+
+Yoon arriva derrière elle.
+
+La Sage porta une main à sa bouche.
+
+Zio s’agenouilla immédiatement.
+
+Il examina Iseria.
+
+Puis son expression changea.
+
+Hasol leva les yeux.
+
+— Zio ?
+
+Il ne répondit pas.
+
+— Tu peux faire quelque chose ?
+
+Le Gardien baissa lentement la tête.
+
+Hasol se tourna vers Yoon.
+
+— Soigne-la.
+
+Son amie resta immobile.
+
+— Hasol…
+
+— Utilise Chant runique !
+
+Yoon sentit ses yeux se remplir de larmes.
+
+— Hasol…
+
+— Fais quelque chose !
+
+Sa voix résonna dans la forêt.
+
+Puis elle regarda de nouveau sa mère.
+
+Elle connaissait suffisamment les blessures pour comprendre.
+
+Elle connaissait les limites des soins.
+
+Elle savait reconnaître les signes qu’aucune compétence ordinaire ne pouvait effacer.
+
+Mais une partie d’elle refusait encore cette évidence.
+
+— Non…
+
+Elle prit Iseria dans ses bras.
+
+— Non, maman…
+
+Elle la serra contre elle.
+
+— S’il te plaît…
+
+Zio posa une main sur son dos.
+
+Hasol ne réagit pas.
+
+— Je suis là, murmura-t-elle. Je suis venue…
+
+Elle enfouit son visage contre l’épaule de sa mère.
+
+— Je suis venue, maman…
+
+Mais Iseria ne pouvait plus l’entendre.
+
+Hasol resta longtemps ainsi.
+
+Puis ses sanglots éclatèrent.
+
+Zio s’agenouilla près d’elle et passa ses bras autour de ses épaules.
+
+Elle ne le repoussa pas.
+
+Elle continua simplement de serrer sa mère contre elle.
+
+Ils découvrirent le portail plus profondément dans la forêt.
+
+Une brèche blanche flottait entre les arbres.
+
+Des démons en sortaient encore.
+
+Zio prit le commandement tandis que Samia retournait prévenir la guilde.
+
+Yoon resta auprès d’Hasol.
+
+Ray participa à la sécurisation du sentier pour empêcher d’autres créatures d’atteindre la route.
+
+Lorsque les renforts arrivèrent, ils établirent un périmètre autour du portail.
+
+Le boss fut finalement abattu.
+
+La brèche se referma.
+
+Mais cette victoire ne changea rien à ce qui s’était produit.
+
+Le rapport de la guilde confirma qu’aucune alerte n’avait été transmise pour cette forêt.
+
+Le portail n’avait pas été découvert avant son ouverture.
+
+Iseria était partie pour une cueillette ordinaire.
+
+Elle n’avait eu aucune raison de savoir qu’une horde de démons s’y trouvait.
+
+Hasol écouta ces explications sans prononcer un mot.
+
+Elle ne demanda pas qui avait tué le boss.
+
+Elle ne demanda pas combien de monstres avaient été éliminés.
+
+Elle voulait seulement rentrer avec sa mère.
+
+Et elle savait que cela ne serait plus jamais possible.
+
+## IV. Ce que la colère laisse derrière elle
+
+Les funérailles eurent lieu quelques jours plus tard.
+
+La demeure Shun accueillit des dizaines de visiteurs.
+
+Des employés de l’entreprise familiale.
+
+Des artisans qui avaient travaillé avec Armin.
+
+Des chasseurs soignés autrefois par Iseria.
+
+Des voisins.
+
+Des amis.
+
+Tous avaient quelque chose à raconter.
+
+Une attention.
+
+Un souvenir.
+
+Un mot gentil.
+
+Hasol les écoutait.
+
+Elle les remerciait.
+
+Mais elle ne parvenait pas à ressentir leur présence.
+
+Après le départ des derniers invités, elle monta dans la suite de sa mère.
+
+La pièce était restée intacte.
+
+Elle ouvrit le carnet posé sur la table.
+
+Une liste de préparations occupait la dernière page.
+
+Baume pour les poignets de Mara.
+
+Vérifier les réserves de sève.
+
+Préparer une nouvelle infusion pour Hasol.
+
+Hasol fixa cette dernière ligne.
+
+Elle sentit ses yeux la brûler.
+
+Sa mère avait pensé à elle.
+
+Même dans une journée aussi ordinaire.
+
+Même avant de partir.
+
+Hasol referma le carnet.
+
+Elle s’assit sur le bord du lit.
+
+Pendant longtemps, elle resta immobile.
+
+Puis elle aperçut une petite boîte.
+
+À l’intérieur se trouvaient plusieurs rubans qu’elle avait portés lorsqu’elle était enfant.
+
+Iseria les avait tous conservés.
+
+Hasol en prit un.
+
+Elle se souvenait de ce ruban.
+
+Sa mère le lui avait attaché dans les cheveux le jour où elle était allée montrer son premier cercle de mana à Armin.
+
+Elle l’avait presque oublié.
+
+Pas Iseria.
+
+Hasol serra le tissu entre ses doigts.
+
+— Pourquoi… ?
+
+Sa voix trembla.
+
+— Pourquoi vous partez tous les deux ?
+
+Elle pensa à son père.
+
+À leur dernière dispute.
+
+Au voyage dont il n’était jamais revenu.
+
+Puis elle revit sa mère.
+
+Son sourire au petit déjeuner.
+
+Sa tasse de thé.
+
+Sa voix lorsqu’elle lui avait dit de faire attention à elle.
+
+Hasol se leva brusquement.
+
+— Pourquoi ?!
+
+La boîte tomba.
+
+Les rubans se dispersèrent sur le parquet.
+
+— Pourquoi elle ?!
+
+Elle donna un coup de poing contre le montant du lit.
+
+La douleur remonta le long de son bras.
+
+Elle s’en moquait.
+
+Elle voulait quelque chose à frapper.
+
+Quelque chose qui puisse répondre.
+
+Elle revit les traces de griffes dans la forêt.
+
+Le panier renversé.
+
+Les démons.
+
+Sa respiration s’accéléra.
+
+— Je vais les tuer…
+
+Elle ramassa le carnet de sa mère et le posa soigneusement sur la table.
+
+Puis elle sortit.
+
+Zio la retrouva dans leur chambre.
+
+Hasol avait déjà sorti son équipement de combat.
+
+Son épée reposait sur le lit.
+
+Ses protections étaient alignées à côté.
+
+Elle attachait ses bottes.
+
+— Hasol ?
+
+Elle ne leva pas les yeux.
+
+— Je vais à la guilde.
+
+— Pour quoi faire ?
+
+— Chercher une intervention.
+
+Zio regarda l’épée.
+
+— Un portail ?
+
+— Oui.
+
+Il s’approcha.
+
+— Les funérailles viennent d’avoir lieu.
+
+— Je sais.
+
+— Tu n’as presque pas dormi.
+
+— Je dormirai plus tard.
+
+Elle se redressa.
+
+Zio posa doucement la main sur son bras.
+
+— Pourquoi veux-tu y aller ?
+
+Hasol serra les dents.
+
+— Parce qu’il y a des démons.
+
+— Hasol.
+
+Elle tourna brusquement la tête.
+
+— Ils ont tué maman !
+
+Sa voix tremblait.
+
+— Elle était seule, Zio ! Elle s’est retrouvée face à une horde et personne n’était là !
+
+Il resta silencieux.
+
+— Je suis devenue forte. J’ai des compétences, des cercles, des runes que presque personne ne peut se permettre !
+
+Elle désigna son épée.
+
+— Et tout ça n’a servi à rien !
+
+Des larmes coulèrent sur ses joues.
+
+— Alors je vais les tuer. Tous ceux que je pourrai.
+
+Zio ne lui dit pas que sa colère était inutile.
+
+Il ne lui demanda pas de pardonner.
+
+Il ne prétendit pas que tout irait bientôt mieux.
+
+Il se contenta de prendre son propre équipement.
+
+Hasol le regarda.
+
+— Qu’est-ce que tu fais ?
+
+— Je viens avec toi.
+
+— Tu n’es pas obligé.
+
+— Je sais.
+
+Il fixa son bouclier dans son dos.
+
+— Mais je viens.
+
+Hasol resta silencieuse.
+
+Puis elle baissa les yeux.
+
+— D’accord.
+
+Elle avait encore envie de crier.
+
+De courir.
+
+De frapper quelque chose.
+
+Mais lorsqu’elle sortit de leur chambre, Zio marchait à ses côtés.
+
+Et elle ne lui demanda pas de partir.
+
+## V. Les runes d’une légende
+
+Deux jours plus tard, Hasol entra dans l’atelier d’Orven.
+
+Le maître artisan leva les yeux de son établi.
+
+Ses lunettes glissèrent légèrement sur son nez lorsqu’il aperçut son ancienne apprentie.
+
+— Hasol…
+
+Elle s’inclina doucement.
+
+— Bonjour, maître.
+
+Orven posa son outil.
+
+Il avait assisté aux funérailles d’Iseria.
+
+Il avait connu cette femme pendant des années. Il se souvenait encore du jour où elle lui avait présenté une jeune fille déterminée à apprendre l’amélioration runique.
+
+Cette jeune fille se tenait maintenant devant lui.
+
+Une chasseuse accomplie.
+
+Une artisane réputée.
+
+Et une fille qui venait de perdre sa mère.
+
+— Tu n’as pas besoin de travailler aujourd’hui, dit-il.
+
+— Je ne viens pas pour une commande.
+
+Hasol posa son Anneau runique sur la table.
+
+— Je veux vérifier mon équipement avant de partir.
+
+Orven l’observa longuement.
+
+Puis il acquiesça.
+
+— Très bien.
+
+Treize runes apparurent sur l’établi.
+
+Orven contempla les pierres disposées devant lui.
+
+Il connaissait chacune d’elles.
+
+Certaines avaient été améliorées dans cet atelier.
+
+D’autres dans celui qu’Hasol avait progressivement fait aménager pour ses propres activités.
+
+Quelques-unes avaient nécessité tant de tentatives qu’il se souvenait encore des discussions qu’elles avaient provoquées.
+
+Toutes étaient des runes six étoiles, de qualité initiale rare — bleue — au minimum.
+
+À présent, toutes affichaient le grade légendaire (orange).
+
+Et toutes avaient atteint le niveau maximal d’amélioration.
+
++15.
+
+Orven effleura l’une des pierres.
+
+— Je me souviens encore de la première fois où tu as voulu améliorer une rune jusqu’à +15.
+
+Hasol ne répondit pas.
+
+— Tu pensais pouvoir y parvenir avec les pierres de mana que tu avais économisées pendant trois mois.
+
+— J’étais optimiste.
+
+— Tu étais terriblement optimiste.
+
+Il eut un léger sourire.
+
+— Et très mauvaise gestionnaire de tes réserves.
+
+— Je me suis améliorée.
+
+— Heureusement.
+
+Il regarda les treize runes.
+
+Hasol n’avait pas acquis cet équipement en quelques jours.
+
+Il lui avait fallu des années.
+
+Des contrats d’artisanat particulièrement rémunérateurs.
+
+Des chasses difficiles.
+
+Des achats coûteux.
+
+De nombreuses améliorations ratées.
+
+Et d’innombrables journées où elle avait épuisé son mana personnel avant même d’avoir terminé son travail.
+
+Sa compétence Bénédiction runique lui accordait un avantage considérable.
+
+Mais elle ne garantissait pas la réussite.
+
+Atteindre +15 sur une rune six étoiles demeurait un accomplissement coûteux, même pour elle.
+
+Aujourd’hui, pourtant, les treize pierres étincelaient devant Orven.
+
+Il ouvrit son registre.
+
+— Nous avons donc quatre Fatal, quatre Arcanique, quatre Vitesse et une Gardien.
+
+Hasol acquiesça.
+
+<div class="system-window lit-window" data-window-id="C14-F01" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F01-mobile.svg">
+    <img src="assets/fenetres/C14-F01.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE — HASOL SHUN">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    ÉQUIPEMENT RUNIQUE — HASOL SHUN
+  </div>
+  <p>Arcaniste runique</p>
+  <p>Niveau 38 · Rareté <span class="lit-badge lit-badge--legendary">légendaire</span></p>
+  <table>
+    <thead><tr><th scope="col">Ensemble</th><th scope="col">Runes</th><th scope="col">État</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">Fatal</th><td>4/4</td><td><span class="upgrade-badge">+15</span> · Actif</td></tr>
+      <tr><th scope="row">Arcanique</th><td>4/4</td><td><span class="upgrade-badge">+15</span> · Actif</td></tr>
+      <tr><th scope="row">Vitesse</th><td>4/4</td><td><span class="upgrade-badge">+15</span> · Actif</td></tr>
+      <tr><th scope="row">Gardien</th><td>1/2</td><td><span class="upgrade-badge">+15</span> · Incomplet</td></tr>
+    </tbody>
+  </table>
+  <p>Cercles et emplacements occupés</p>
+  <p>13 / 13</p>
+  <p>Toutes les runes équipées : 6★, grade initial rare (bleu) minimum, grade affiché légendaire (orange), <span class="upgrade-badge">+15</span>.</p>
+  </details>
+</div>
+
+Orven désigna les quatre Fatal.
+
+— Ton ensemble d’Attaque est complet.
+
+— Oui.
+
+— Et tes Arcanique ?
+
+— Toujours les quatre.
+
+Le maître artisan acquiesça.
+
+L’ensemble Arcanique lui apportait à lui seul mille deux cents points de Puissance arcanique supplémentaires.
+
+Sans compter les caractéristiques principales et secondaires des runes.
+
+Sans compter les statistiques naturelles d’Hasol.
+
+Et sans compter les renforcements temporaires que Yoon pouvait lui accorder.
+
+Cette Puissance arcanique influençait également ses chances de critique et ses dégâts critiques.
+
+Mais surtout, elle rendait son Infiltration runique particulièrement dangereuse.
+
+— Avec un équipement pareil, murmura Orven, tu pourrais faire trembler des chasseurs bien plus expérimentés que toi.
+
+Hasol ne répondit pas.
+
+Elle regardait deux pierres.
+
+Une Fatal.
+
+Une Gardien.
+
+Orven suivit son regard.
+
+Il les reconnut immédiatement.
+
+Les cadeaux d’Armin.
+
+Deux runes rares, bleues, six étoiles, offertes à Hasol lorsqu’elle était encore adolescente.
+
+À l’époque, elles étaient améliorées à +6.
+
+Hasol les avait conservées pendant toutes ces années.
+
+Elle avait fini par les porter, elles aussi, à +15.
+
+Leur amélioration avait transformé leurs caractéristiques, mais pas leur identité.
+
+C’étaient toujours les deux pierres que son père avait choisies pour elle.
+
+Orven les contempla.
+
+— Tu aurais pu les remplacer.
+
+— Je sais.
+
+— Tu as probablement vu passer des runes plus intéressantes pour certaines configurations.
+
+— Oui.
+
+Il leva les yeux vers elle.
+
+Hasol posa doucement les doigts sur la Fatal.
+
+— Mais celles-ci viennent de papa.
+
+Orven resta silencieux.
+
+— Je ne les remplacerai pas.
+
+Il acquiesça.
+
+— Alors elles resteront.
+
+Le maître artisan passa aux quatre Vitesse.
+
+Toutes étaient également six étoiles et +15.
+
+Hasol avait longtemps travaillé pour réunir cet ensemble.
+
+À une époque, elle avait privilégié la Défense pour compenser sa faiblesse physique.
+
+Mais son style de combat avait évolué.
+
+Elle utilisait davantage les déplacements.
+
+Les changements de position.
+
+Les esquives.
+
+Elle cherchait à éviter les coups plutôt qu’à simplement les encaisser.
+
+Les runes Vitesse augmentaient sa vitesse de déplacement et d’incantation, ce qui lui donnait davantage de possibilités tactiques.
+
+Elles ne transformaient pas chaque mouvement de son épée en une attaque automatiquement plus rapide.
+
+C’était toujours à elle d’anticiper les monstres.
+
+De lire leurs mouvements.
+
+Et de choisir le bon instant.
+
+Orven examina une dernière fois l’ensemble.
+
+— Tu as eu raison de le compléter en priorité.
+
+— Je ne voulais plus attendre.
+
+— Le bonus de trente pour cent change beaucoup de choses.
+
+Hasol acquiesça.
+
+Ses quatre Vitesse étaient désormais une partie essentielle de son style de combat.
+
+Elle n’aurait pas sacrifié cet ensemble pour obtenir un peu plus de protection.
+
+Orven désigna sa seule Gardien.
+
+— Il ne te manque donc plus qu’une deuxième Gardien.
+
+Hasol ouvrit son Anneau.
+
+Une autre pierre apparut.
+
+Six étoiles.
+
+Qualité initiale rare (bleue), désormais légendaire (orange).
+
+Amélioration +15.
+
+— Je l’ai déjà.
+
+Orven sourit.
+
+— Évidemment.
+
+— J’attends seulement un quatorzième cercle.
+
+Il examina la pierre.
+
+— Et tu l’as déjà préparée.
+
+— Depuis plusieurs mois.
+
+— Tu n’as vraiment jamais su attendre sans t’organiser.
+
+Hasol contempla la rune.
+
+Autrefois, elle aurait souri à cette remarque.
+
+Aujourd’hui, elle se contenta de la ranger.
+
+Orven referma son registre.
+
+— Ton équipement est en excellent état.
+
+Hasol acquiesça.
+
+— Merci.
+
+Elle commença à reprendre ses pierres.
+
+Le maître artisan hésita.
+
+Puis demanda :
+
+— Combien de runes as-tu préparées pour Aura runique ?
+
+Hasol leva les yeux.
+
+— Beaucoup.
+
+— Combien ?
+
+Elle consulta son inventaire.
+
+Des dizaines de runes ordinaires y étaient soigneusement classées.
+
+Certaines provenaient de donjons.
+
+D’autres de lots achetés à bas prix.
+
+D’autres encore avaient été récupérées parmi des pièces sans intérêt commercial pour ses travaux d’amélioration.
+
+Elle avait aussi constitué plusieurs réserves distinctes dans ses ateliers.
+
+Toutes lui appartenaient.
+
+Aucune ne provenait des biens confiés par ses clients.
+
+— J’ai suffisamment de stock pour plusieurs expéditions, répondit-elle.
+
+Orven fronça les sourcils.
+
+— Tu comptes utiliser Aura runique si souvent ?
+
+— Oui.
+
+— Même lorsque l’activation n’est pas critique ?
+
+Hasol acquiesça.
+
+— Je peux recommencer.
+
+Orven retira ses lunettes.
+
+— Hasol…
+
+— Chaque lancement coûte deux cents points de Mana et une rune.
+
+— Je connais le coût.
+
+— J’ai les réserves nécessaires.
+
+Elle referma son Anneau.
+
+— Si je veux obtenir Infiltration runique, je peux tenter plusieurs activations.
+
+Orven contempla son ancienne apprentie.
+
+Il savait que son raisonnement était techniquement valable.
+
+Pendant des années, il lui avait enseigné à ne pas gaspiller une seule pierre.
+
+Aujourd’hui, elle possédait suffisamment de ressources pour envisager des dépenses qu’elle aurait autrefois jugées impossibles.
+
+Mais quelque chose le préoccupait.
+
+— Tu sais qu’un critique n’est jamais garanti.
+
+— Oui.
+
+— Et que les trente secondes commencent dès l’activation.
+
+— Je sais.
+
+— Alors ne gaspille pas tes ressources simplement parce que tu peux te le permettre.
+
+Hasol releva les yeux.
+
+Son expression était froide.
+
+— Je veux pouvoir tuer les boss rapidement.
+
+Orven resta silencieux.
+
+Puis il soupira.
+
+— Je comprends.
+
+Il posa doucement une main sur son épaule.
+
+— Mais tu n’es pas obligée de transformer chaque combat en punition.
+
+Hasol baissa les yeux.
+
+Elle reprit ses runes sans répondre.
+
+## VI. Une équipe qui n’a plus rien d’ordinaire
+
+Lorsque Hasol arriva à la guilde, ses quatre compagnons l’attendaient.
+
+Yoon fut la première à s’approcher.
+
+Elle prit Hasol dans ses bras.
+
+— Tu es sûre de vouloir partir aujourd’hui ?
+
+— Oui.
+
+Son amie la serra un peu plus fort avant de reculer.
+
+Ray avait apporté plusieurs cartes.
+
+Samia vérifiait son arc.
+
+Zio terminait d’examiner les informations de la mission.
+
+Ils formaient toujours le même groupe.
+
+Cinq chasseurs.
+
+Cinquante points de rareté.
+
+Mais ils n’avaient plus grand-chose à voir avec les jeunes aventuriers de leurs premières expéditions.
+
+<div class="system-window lit-window" data-window-id="C14-F02" data-window-type="equipe">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F02-mobile.svg">
+    <img src="assets/fenetres/C14-F02.svg" alt="Fenêtre du système — REGISTRE DE L’ÉQUIPE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    REGISTRE DE L’ÉQUIPE
+  </div>
+  <table>
+    <thead><tr><th scope="col">Chasseur</th><th scope="col">Niveau</th><th scope="col">Cercles</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">Hasol Shun</th><td>38</td><td>13</td></tr>
+      <tr><th scope="row">Yoon Notos</th><td>47</td><td>6</td></tr>
+      <tr><th scope="row">Ray Corvus</th><td>48</td><td>8</td></tr>
+      <tr><th scope="row">Zio Notos</th><td>56</td><td>7</td></tr>
+      <tr><th scope="row">Samia Claire</th><td>45</td><td>6</td></tr>
+    </tbody>
+  </table>
+  <p>Rareté totale de l’équipe</p>
+  <p>50 points</p>
+  </details>
+</div>
+
+Leurs cercles de mana étaient remarquables.
+
+Ray, malgré sa classe commune de Mage de feu, en possédait déjà huit.
+
+Samia, également de classe commune, en avait six.
+
+Yoon et Zio avaient eux aussi progressé bien au-delà de ce que l’on observait habituellement chez des chasseurs de leurs raretés.
+
+Personne ne savait exactement pourquoi les cercles apparaissaient.
+
+On supposait que le corps absorbait naturellement le mana de l’environnement et que les combats contre les monstres favorisaient ce phénomène.
+
+Mais aucune formule ne permettait de prédire leur apparition.
+
+Les cercles ne se formaient pas automatiquement à chaque niveau.
+
+Et plus les chasseurs progressaient, plus les nouveaux cercles semblaient difficiles à obtenir naturellement.
+
+Hasol regarda ses compagnons.
+
+Ils avaient énormément chassé ensemble.
+
+Peut-être cette activité intense expliquait-elle une partie de leurs résultats.
+
+Mais même ainsi, Ray restait une anomalie.
+
+Huit cercles pour un Mage commun de niveau quarante-huit.
+
+C’était exceptionnel.
+
+Leurs équipements étaient tout aussi impressionnants.
+
+Yoon possédait sept runes particulièrement travaillées.
+
+Cinq étaient améliorées à +12 et deux à +15.
+
+Mais elle ne disposait que de six cercles.
+
+Elle équipait donc ses deux runes +15 et quatre de ses cinq runes +12.
+
+La dernière +12 restait dans son inventaire.
+
+Parmi ses deux pierres +15 se trouvaient les anciennes runes Énergie que Hasol lui avait offertes des années plus tôt.
+
+À l’époque, elles n’étaient qu’à +9.
+
+Yoon les avait conservées.
+
+Et Hasol avait fini par les améliorer davantage pour elle.
+
+La Sage privilégiait toujours les points de vie et la protection.
+
+Son Chant runique soignait en fonction de ses propres PV maximums : renforcer cette réserve améliorait donc directement la quantité restaurée à chaque impulsion.
+
+Son équipement lui permettait également de rester active plus longtemps lorsque les combats devenaient dangereux.
+
+Zio possédait sept runes.
+
+Plusieurs étaient améliorées à +15, notamment parmi celles qu’il utilisait pour renforcer sa Défense.
+
+Ses quatre Gardien lui procuraient une protection considérable.
+
+Deux Énergie amélioraient sa résistance générale.
+
+Sa dernière rune favorisait sa mobilité.
+
+Il portait toujours une armure complète pendant les missions et son grand bouclier restait l’élément central de sa manière de combattre.
+
+Mais il ne se contentait plus d’encaisser les coups.
+
+Il savait désormais contrôler les déplacements des ennemis et créer des ouvertures pour ses compagnons.
+
+Ray avait équipé ses huit cercles de runes améliorées à +9 ou +12.
+
+Il avait privilégié les Arcanique pour renforcer sa Puissance arcanique, tout en conservant des protections supplémentaires.
+
+Son équipement compensait certaines faiblesses de sa classe commune.
+
+Il pouvait produire des attaques particulièrement dangereuses.
+
+Mais même avec huit cercles, ses sorts consommaient rapidement son Mana.
+
+Il devait choisir ses interventions avec soin.
+
+Samia, enfin, disposait de six runes +9 ou +12.
+
+Quatre Vitesse renforçaient sa mobilité.
+
+Deux Énergie amélioraient ses chances de survivre aux situations où un ennemi parviendrait à l’atteindre.
+
+Elle était devenue une Ranger remarquable.
+
+Ses déplacements étaient fluides.
+
+Sa précision à l’arc impressionnante.
+
+Et sa capacité à observer les dangers du terrain restait indispensable à l’équipe.
+
+Une partie de ces équipements avait coûté une véritable fortune.
+
+Hasol avait financé de nombreux achats.
+
+Elle avait payé des pierres de mana.
+
+Des améliorations.
+
+Des remplacements.
+
+Et parfois l’acquisition de runes que ses compagnons n’auraient jamais pu acheter seuls.
+
+Au début, Ray avait eu du mal à accepter.
+
+Samia avait refusé plusieurs propositions.
+
+Même Zio avait tenté de limiter les dépenses qu’elle engageait pour lui.
+
+Mais Hasol n’avait jamais considéré ces sommes comme des cadeaux destinés à leur imposer une dette.
+
+Elle était devenue une artisane extrêmement prospère.
+
+Ses contrats lui rapportaient suffisamment pour entretenir ses ateliers, financer ses propres projets et aider ceux qu’elle aimait.
+
+Et ses compagnons contribuaient eux aussi à l’équipe.
+
+Ils lui avaient offert leur temps.
+
+Leur confiance.
+
+Leurs compétences.
+
+Leur présence dans les moments difficiles.
+
+L’argent ne remplaçait rien de cela.
+
+Mais elle pouvait l’utiliser pour les aider à devenir plus forts.
+
+Un jour, Samia lui avait demandé pourquoi elle insistait autant pour améliorer leurs équipements.
+
+Hasol avait répondu simplement :
+
+— Parce que je préfère vous savoir vivants plutôt que de garder toutes mes pièces dans un coffre.
+
+Depuis, Samia avait cessé de protester à chaque nouvelle proposition.
+
+Elle continuait toutefois à choisir elle-même ses runes.
+
+Comme les autres.
+
+Hasol pouvait les conseiller.
+
+Les financer.
+
+Les améliorer.
+
+Mais elle ne décidait pas de leur manière de combattre à leur place.
+
+Ray referma sa carte.
+
+— Le portail blanc se trouve près d’un village au nord.
+
+Samia examina les informations.
+
+— Des démons sont déjà sortis ?
+
+— Oui.
+
+Zio se redressa.
+
+— Alors nous devons partir.
+
+Hasol prit son épée.
+
+— Allons-y.
+
+Yoon posa doucement une main sur son bras.
+
+— Hasol.
+
+Elle tourna la tête.
+
+— Quoi ?
+
+— Nous sommes tous là.
+
+Hasol regarda ses compagnons.
+
+Zio.
+
+Yoon.
+
+Ray.
+
+Samia.
+
+Tous étaient prêts.
+
+Elle acquiesça.
+
+— Je sais.
+
+Mais dans son regard, la colère n’avait pas disparu.
+
+## VII. Le premier portail blanc
+
+Le portail était apparu au bord d’une vaste plaine.
+
+Une brèche blanche flottait à quelques mètres du sol, entourée de distorsions lumineuses.
+
+Des démons en sortaient à intervalles irréguliers.
+
+Les chasseurs de la guilde avaient établi un périmètre autour de la zone.
+
+Plusieurs groupes gardaient les routes d’accès et protégeaient les habitants évacués.
+
+Un officier coordonnait les chasseurs chargés d’affronter les créatures au plus près de la brèche, dans la limite des cent points de rareté autorisés pour l’intervention.
+
+Le responsable examina l’équipe d’Hasol.
+
+— Vous êtes cinq ?
+
+Zio acquiesça.
+
+— Cinquante points de rareté.
+
+L’officier fronça les sourcils.
+
+— Nos formations mobilisent normalement beaucoup plus de monde. Le portail autorise jusqu’à cent points.
+
+— Nous pouvons prendre un secteur, proposa Zio.
+
+Le responsable regarda les cinq chasseurs.
+
+Puis son attention s’arrêta sur Hasol.
+
+— Vous êtes Hasol Shun ?
+
+— Oui.
+
+— L’Arcaniste runique ?
+
+Elle acquiesça.
+
+Il sembla hésiter.
+
+Puis répondit :
+
+— Très bien. Vous prendrez le flanc oriental. Une autre équipe couvrira la zone opposée. Mais restez coordonnés avec les autres chasseurs.
+
+Zio approuva.
+
+— Compris.
+
+Hasol, elle, regardait déjà les démons.
+
+Niveau dix.
+
+Des créatures semblables à celles qui avaient tué sa mère.
+
+Sa main se referma lentement sur la poignée de son épée.
+
+— En position ! lança Zio.
+
+Samia se déplaça vers la gauche.
+
+Ray choisit un emplacement qui lui permettrait d’utiliser ses sorts sans toucher ses compagnons.
+
+Yoon prépara son Chant runique.
+
+Hasol dégaina.
+
+Un groupe de démons surgit de la brèche.
+
+Zio leva son bouclier.
+
+La première créature le percuta.
+
+Il absorba l’impact sans reculer.
+
+Ses runes Gardien renforcées à +15 lui apportaient une résistance impressionnante.
+
+Le deuxième démon tenta de contourner sa protection.
+
+Hasol était déjà en mouvement.
+
+Elle pivota.
+
+Sa lame traversa le flanc de la créature.
+
+Le monstre s’effondra.
+
+Un troisième bondit.
+
+Hasol se déplaça sur le côté.
+
+Ses quatre runes Vitesse à +15, associées au bonus complet de leur ensemble, lui permirent de sortir rapidement de la trajectoire.
+
+Puis elle frappa.
+
+Encore.
+
+Et encore.
+
+Les monstres tombaient les uns après les autres.
+
+Samia décocha une flèche.
+
+Elle atteignit une créature qui s’approchait de Ray.
+
+— À droite ! cria-t-elle.
+
+Le mage se retourna.
+
+— Trait incandescent !
+
+Une ligne de feu traversa l’air.
+
+Le démon fut frappé de plein fouet.
+
+Ray avait attendu que Samia dégage la trajectoire avant de lancer son sort.
+
+Il connaissait trop bien les dangers de ses propres flammes pour attaquer sans vérifier la position de ses alliés.
+
+Plus loin, Yoon plaça son Domaine des Entraves Runiques.
+
+Un cercle violet apparut sous plusieurs démons.
+
+Leurs mouvements ralentirent.
+
+Hasol en profita immédiatement.
+
+Elle traversa l’espace libéré par Zio et abattit deux créatures supplémentaires.
+
+Puis trois.
+
+Puis quatre.
+
+Les chasseurs qui combattaient dans le secteur voisin commencèrent à regarder dans leur direction.
+
+— Qui est cette femme ?
+
+— L’Arcaniste runique !
+
+— Celle qui travaille avec Orven ?
+
+— Oui !
+
+Un autre chasseur observa les démons au sol.
+
+— Elle est de niveau combien ?
+
+— Trente-huit, je crois.
+
+Il ouvrit de grands yeux.
+
+— Trente-huit seulement ?
+
+Hasol n’entendait rien.
+
+Elle ne regardait que les créatures.
+
+Leurs griffes.
+
+Leurs silhouettes.
+
+Leurs visages monstrueux.
+
+Vous avez tué maman.
+
+Elle frappa encore.
+
+Après plusieurs vagues, Zio leva la main.
+
+— Repli de quelques pas !
+
+Hasol continua d’avancer.
+
+— Hasol !
+
+Elle s’arrêta brusquement.
+
+Zio s’approcha.
+
+— Nous avons besoin de reformer la ligne.
+
+— Je peux continuer.
+
+— Je sais. Mais Ray doit récupérer et Yoon doit replacer sa zone.
+
+Hasol serra les dents.
+
+Puis recula.
+
+Zio l’observa.
+
+— Tu n’es pas seule ici.
+
+Elle détourna les yeux.
+
+— Je sais.
+
+Il attendit un instant.
+
+— Alors bats-toi avec nous.
+
+Hasol inspira lentement.
+
+Puis acquiesça.
+
+Le boss se manifesta peu après.
+
+La brèche blanche s’élargit.
+
+Une silhouette massive en émergea, entourée de plusieurs démons.
+
+<div class="system-window lit-window" data-window-id="C14-F03" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F03-mobile.svg">
+    <img src="assets/fenetres/C14-F03.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — BOSS DE PORTAIL
+  </div>
+  <p>Dévoreur des Brumes</p>
+  <p>Classification</p>
+  <p>Portail blanc</p>
+  <p>Niveau</p>
+  <p>30</p>
+  </details>
+</div>
+
+Le boss poussa un hurlement.
+
+Plusieurs chasseurs reculèrent instinctivement.
+
+Hasol, elle, ouvrit son Anneau.
+
+Elle sélectionna une rune ordinaire.
+
+Une pièce sans grande valeur qu’elle avait conservée pour ses enchantements.
+
+Puis elle leva son épée.
+
+— Aura runique.
+
+Deux cents points de Mana furent consommés.
+
+La rune disparut.
+
+Une aura élémentaire enveloppa la lame.
+
+Mais aucune activation critique ne se produisit.
+
+Hasol fixa son arme.
+
+Pas encore.
+
+Elle sélectionna une deuxième rune.
+
+Puis renouvela l’activation.
+
+Deux cents points de Mana supplémentaires.
+
+Une autre pierre détruite.
+
+L’aura se manifesta.
+
+Toujours aucun critique.
+
+Zio tourna brièvement la tête.
+
+— Hasol ?
+
+— Encore une tentative.
+
+Elle sortit une troisième rune.
+
+Ray l’observa avec étonnement.
+
+— Tu en sacrifies une autre ?
+
+— Oui.
+
+— Tu sais combien tu viens de dépenser ?
+
+Hasol ne répondit pas.
+
+Elle connaissait parfaitement le coût.
+
+Mais ses réserves étaient importantes.
+
+Bien plus importantes qu’autrefois.
+
+Et le boss venait de quitter le portail.
+
+Elle leva une troisième fois son épée.
+
+— Aura runique.
+
+La rune se fissura.
+
+Son Mana diminua de nouveau.
+
+Puis une lumière plus vive parcourut la lame.
+
+Une notification apparut.
+
+<div class="system-window lit-window" data-window-id="C14-F04" data-window-type="effet-temporaire">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F04-mobile.svg">
+    <img src="assets/fenetres/C14-F04.svg" alt="Fenêtre du système — SYSTÈME — ACTIVATION CRITIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — ACTIVATION CRITIQUE
+  </div>
+  <p>Infiltration runique</p>
+  <p>Aura runique a été activée de manière critique.</p>
+  <p>Durée de l’effet supplémentaire</p>
+  <p>30 secondes</p>
+  <p>Pendant l’effet, chaque coup porté avec l’arme imprégnée bénéficie d’un minimum de dégâts égal à la Puissance arcanique effective d’Hasol, sans réduction de ce minimum par la Défense adverse.</p>
+  </details>
+</div>
+
+Hasol sentit la puissance de sa compétence parcourir son épée.
+
+Elle leva les yeux.
+
+— Zio !
+
+Il comprit immédiatement.
+
+— Yoon, renforce-la !
+
+— Résonance runique !
+
+La compétence de la Sage amplifia temporairement les caractéristiques principales de ses runes, ainsi que les premières secondaires auxquelles sa Résonance évoluée avait désormais accès.
+
+La Puissance arcanique effective d’Hasol augmenta.
+
+Son Infiltration runique en devint encore plus dangereuse.
+
+— Maintenant ! lança Zio.
+
+Le Gardien chargea.
+
+Son bouclier heurta le boss et détourna son attention.
+
+Samia décocha deux flèches pour gêner les mouvements de la créature.
+
+Ray attendit une ouverture.
+
+Puis lança un Trait incandescent qui frappa le flanc du monstre.
+
+Hasol s’élança.
+
+Ses runes Vitesse facilitaient son déplacement.
+
+Elle atteignit le boss avant qu’il puisse se tourner complètement.
+
+Sa lame frappa.
+
+Le monstre poussa un hurlement.
+
+Hasol recula immédiatement.
+
+Puis changea d’angle.
+
+Chaque ouverture était précieuse.
+
+Elle savait que les trente secondes ne dureraient pas éternellement.
+
+Zio repoussa une attaque.
+
+— Hasol !
+
+Elle comprit.
+
+Le boss venait d’exposer son flanc.
+
+Elle avança.
+
+Frappe.
+
+Recul.
+
+Nouvelle ouverture.
+
+La créature tenta de la saisir.
+
+Samia atteignit son bras d’une flèche.
+
+Ray lança une attaque supplémentaire, puis interrompit ses incantations pour préserver le Mana qui lui restait.
+
+Yoon maintint la coordination du groupe.
+
+Hasol revint au contact.
+
+Sa lame s’enfonça profondément.
+
+Le boss chancela.
+
+Puis s’effondra.
+
+Un silence stupéfait s’installa.
+
+La brèche blanche commença à se contracter.
+
+Quelques instants plus tard, le portail disparut.
+
+Hasol contempla l’endroit où il s’était trouvé.
+
+Elle venait d’éliminer un boss de niveau trente.
+
+Et pourtant, elle n’éprouvait aucune satisfaction.
+
+Une notification apparut.
+
+Son compteur de monstres de portails avait progressé.
+
+Elle le referma.
+
+— Il y a d’autres portails ? demanda-t-elle.
+
+Zio baissa son bouclier.
+
+— Hasol…
+
+— Je veux savoir où ils sont.
+
+Elle regarda les chasseurs autour d’eux.
+
+Certains l’observaient avec admiration.
+
+D’autres semblaient incapables de croire ce qu’ils venaient de voir.
+
+Hasol les ignora.
+
+— Je veux le prochain.
+
+## VIII. Celle qui ferme les portails
+
+Les semaines suivantes changèrent profondément la réputation d’Hasol Shun.
+
+Les portails blancs continuaient d’apparaître dans différentes régions.
+
+Les guildes tentaient d’améliorer leur coordination.
+
+Les premières personnes capables d’anticiper approximativement leur apparition devenaient essentielles aux opérations.
+
+Mais les alertes arrivaient encore trop tard.
+
+Certaines zones restaient difficiles à surveiller.
+
+Les équipes de chasse étaient mobilisées presque quotidiennement.
+
+Et Hasol répondait à autant d’appels qu’elle le pouvait.
+
+Elle ne partait pas toujours avec ses quatre compagnons.
+
+Parfois, Zio et Samia l’accompagnaient.
+
+D’autres fois, elle intervenait avec Yoon et Ray.
+
+Sur certaines opérations, Zio restait à ses côtés tandis que Yoon assurait le soutien.
+
+Et il leur arriva même de fermer quelques portails blancs particulièrement favorables avec seulement deux chasseurs.
+
+Hasol et Zio.
+
+Vingt points de rareté légendaire.
+
+Dix points de Gardien rare.
+
+Trente points au total.
+
+Bien loin du plafond de cent points autorisé pour les portails.
+
+Ce n’était pas une méthode applicable à toutes les situations.
+
+Certains portails nécessitaient encore des formations importantes, notamment lorsque les démons étaient trop nombreux ou que la population devait être évacuée.
+
+Mais lorsqu’un portail blanc apparaissait dans une zone dégagée, que les conditions étaient favorables et que les risques pour les civils restaient limités, Hasol et ses compagnons pouvaient parfois intervenir avec des effectifs exceptionnellement réduits.
+
+Un jour, un officier de la guilde arriva au bord d’une vallée avec plusieurs équipes.
+
+Il s’attendait à devoir coordonner près de cent points de rareté.
+
+À sa grande surprise, le portail était déjà fermé.
+
+Hasol, Zio et Samia revenaient vers la route.
+
+L’officier les regarda.
+
+— Vous étiez seulement trois ?
+
+Zio acquiesça.
+
+— Oui.
+
+— Et le boss ?
+
+— Vaincu, répondit Samia.
+
+L’homme contempla le ciel vide.
+
+— Mais nous avions prévu une formation complète !
+
+Samia haussa les épaules.
+
+— Nous avons trouvé une ouverture favorable.
+
+L’officier se tourna vers Hasol.
+
+— Vous avez porté le coup final ?
+
+Elle rengaina son épée.
+
+— Oui.
+
+Il resta silencieux.
+
+Puis murmura :
+
+— Je comprends mieux pourquoi tout le monde parle de vous.
+
+Hasol ne répondit pas.
+
+Elle ouvrit son carnet.
+
+— Où se trouve le prochain portail ?
+
+Les récits commencèrent à circuler.
+
+On parlait de l’Arcaniste runique capable de se déplacer entre les démons sans se laisser encercler.
+
+De son épée imprégnée d’une aura élémentaire.
+
+De ses activations critiques.
+
+De ses runes à +15.
+
+De la manière dont elle sacrifiait plusieurs pierres successivement lorsque le combat justifiait la dépense.
+
+Certains chasseurs trouvaient cette méthode extravagante.
+
+D’autres comprenaient qu’elle était devenue possible grâce à sa fortune et à son expertise d’artisane.
+
+Hasol n’avait plus besoin d’économiser chaque rune ordinaire comme à ses débuts.
+
+Elle disposait de stocks considérables.
+
+Et elle continuait à les renouveler.
+
+Les démons des portails alimentaient également son inventaire lorsqu’ils abandonnaient du butin.
+
+Son Aimant runique augmentait ses possibilités d’obtenir des runes intéressantes, sans pour autant garantir un butin à chaque élimination.
+
+Elle conservait les meilleures pièces.
+
+Elle préparait des lots destinés à ses travaux.
+
+Et elle réservait les runes sans intérêt pour ses prochains enchantements.
+
+Son équipement principal, lui, n’était jamais sacrifié.
+
+Les treize pierres qu’elle avait soigneusement sélectionnées représentaient des années d’investissement.
+
+Les deux cadeaux d’Armin restaient particulièrement précieux.
+
+Mais ses réserves ordinaires pouvaient être dépensées beaucoup plus librement.
+
+Au fil des expéditions, la colère d’Hasol devint évidente pour ses proches.
+
+Elle combattait avec une précision remarquable.
+
+Elle protégeait ses compagnons.
+
+Elle respectait leurs indications.
+
+Mais dès qu’un portail se fermait, elle cherchait déjà le suivant.
+
+Elle dormait peu.
+
+Travaillait davantage.
+
+Et supportait de moins en moins les moments où elle n’avait rien à faire.
+
+Un soir, après une intervention particulièrement longue, Zio la retrouva dans l’atelier.
+
+Elle était en train de trier de nouvelles runes.
+
+— Hasol.
+
+— Hmm ?
+
+— Il est tard.
+
+— Je sais.
+
+— Tu as déjà travaillé toute la journée.
+
+— Je dois préparer mes réserves.
+
+Zio s’approcha.
+
+— Elles sont presque pleines.
+
+— Je préfère prévoir davantage.
+
+Il resta silencieux.
+
+Puis demanda :
+
+— Tu as pensé à maman aujourd’hui ?
+
+Hasol s’immobilisa.
+
+Elle ne se retourna pas.
+
+— Oui.
+
+— Quand ?
+
+Sa main se crispa sur une pierre.
+
+— Quand je suis rentrée.
+
+Zio attendit.
+
+— J’ai vu sa chaise.
+
+Sa voix était devenue plus basse.
+
+— Et j’ai pensé qu’elle viendrait me demander pourquoi je travaillais encore.
+
+Elle posa la rune.
+
+— Pendant les combats, je n’y pense pas.
+
+Zio s’approcha doucement.
+
+— Je sais.
+
+— Je suis concentrée. Je dois regarder les monstres, surveiller mes déplacements, protéger les autres…
+
+Elle inspira difficilement.
+
+— Et pendant quelques heures, ça fait moins mal.
+
+Zio posa une main sur son épaule.
+
+Hasol baissa la tête.
+
+— Quand je m’arrête, je revois la forêt.
+
+Les larmes commencèrent à couler.
+
+— Je me demande si elle a appelé quelqu’un. Si elle a pensé que je viendrais.
+
+Elle se retourna brusquement.
+
+— Je suis devenue forte, Zio !
+
+Il resta immobile.
+
+— Tout le monde me le répète maintenant ! Ils disent que je suis une vraie chasseuse légendaire !
+
+Sa voix éclata.
+
+— Alors pourquoi je n’ai pas pu protéger maman ?!
+
+Zio posa doucement ses deux mains sur ses épaules.
+
+— Parce que tu ne savais pas.
+
+— J’aurais dû !
+
+— Hasol…
+
+— J’aurais dû être là !
+
+Elle se mit à trembler.
+
+— J’aurais dû…
+
+Sa voix se brisa.
+
+Zio ouvrit les bras.
+
+Hasol resta un instant immobile.
+
+Puis elle se précipita contre lui.
+
+Il la serra doucement.
+
+— Je sais que tu es en colère, murmura-t-il.
+
+Elle pleurait contre son torse.
+
+— Je les déteste…
+
+— Je sais.
+
+— Je veux qu’ils disparaissent tous.
+
+Zio caressa ses cheveux.
+
+— Mais je ne veux pas te perdre en essayant de tous les tuer.
+
+Hasol ne répondit pas.
+
+Elle resserra simplement les bras autour de lui.
+
+Cette nuit-là, Zio parvint à la convaincre de quitter son atelier.
+
+Mais le lendemain, Hasol demanda de nouveau quelles alertes de portails avaient été reçues.
+
+Sa colère n’avait pas disparu.
+
+## IX. Les premiers portails verts
+
+La première annonce arriva un matin pluvieux.
+
+Hasol était à la guilde avec Ray lorsque trois officiers traversèrent précipitamment le hall.
+
+L’un d’eux transportait une carte couverte d’annotations.
+
+Un autre tenait une fenêtre de relevés ouverte devant lui.
+
+— Faites prévenir toutes les équipes disponibles ! ordonna le responsable.
+
+Les conversations s’interrompirent.
+
+Un chasseur s’approcha.
+
+— Un nouveau portail blanc ?
+
+L’officier secoua la tête.
+
+— Non.
+
+Il se dirigea vers le tableau principal.
+
+Retira une ancienne annonce.
+
+Puis en fixa une nouvelle.
+
+Hasol sentit immédiatement son attention se concentrer sur les mots inscrits en haut du document.
+
+PORTAIL DÉMONIAQUE — VERT.
+
+Elle s’approcha.
+
+Ray se plaça à ses côtés.
+
+— Vert ? murmura-t-il.
+
+L’officier se retourna vers les chasseurs rassemblés.
+
+— Deux portails verts viennent d’être confirmés dans les régions voisines. D’autres signalements sont en cours de vérification.
+
+Un murmure parcourut la salle.
+
+— Quelle différence avec les blancs ? demanda quelqu’un.
+
+Le responsable consulta son relevé.
+
+— Les monstres ordinaires sont de niveau vingt.
+
+Hasol fronça les sourcils.
+
+— Et les boss ?
+
+L’homme hésita une fraction de seconde.
+
+— Niveau quarante.
+
+Le silence se fit.
+
+Les premiers portails blancs avaient déjà causé plusieurs morts.
+
+Et pourtant, leurs monstres n’étaient que de niveau dix.
+
+Les chasseurs savaient désormais qu’un groupe de démons relativement faibles pouvait devenir mortel par son nombre.
+
+Avec des monstres de niveau vingt et un boss de niveau quarante, les risques augmentaient considérablement.
+
+Ray ajusta ses lunettes.
+
+— Les couleurs correspondent donc bien à des paliers de difficulté.
+
+— C’est ce que nous commençons à penser, répondit l’officier.
+
+Hasol contempla les deux nouvelles annonces.
+
+L’un des portails était apparu près d’une région agricole, au pied d’une chaîne de collines.
+
+L’autre se trouvait à l’ouest, non loin de plusieurs villages.
+
+— Ils sont ouverts ? demanda-t-elle.
+
+— Pas encore. Nous avons le temps de préparer les évacuations.
+
+Zio arriva quelques instants plus tard, accompagné de Yoon et Samia.
+
+Il examina les annonces.
+
+Puis regarda Hasol.
+
+— Ce ne sont plus des portails blancs.
+
+— Je sais.
+
+— Nous ne pouvons pas les aborder de la même manière.
+
+Hasol serra légèrement les dents.
+
+— Je sais, Zio.
+
+Il ne répondit pas immédiatement.
+
+Puis posa une main sur son épaule.
+
+— Alors nous partirons avec une formation complète.
+
+Elle contempla les informations.
+
+Il avait raison.
+
+Même avec ses runes à +15, elle ne pouvait pas ignorer la différence entre un boss de niveau trente et un boss de niveau quarante.
+
+Et, surtout, les monstres ordinaires seraient deux fois plus élevés en niveau que ceux des portails blancs.
+
+Elle referma la fenêtre.
+
+— D’accord.
+
+La guilde organisa une opération commune.
+
+L’équipe d’Hasol représentait cinquante points de rareté.
+
+Une seconde formation de chasseurs expérimentés fut affectée à la même intervention, pour atteindre le plafond autorisé de cent points.
+
+D’autres membres de la guilde assureraient l’évacuation et la protection des routes à l’extérieur du périmètre du portail.
+
+Hasol observa les préparatifs.
+
+Il y avait des cartes.
+
+Des points de rassemblement.
+
+Des itinéraires pour les habitants.
+
+Des soigneurs envoyés vers les villages voisins.
+
+Tout cela aurait semblé excessif avant l’apparition des portails.
+
+Aujourd’hui, personne ne contestait ces précautions.
+
+Elle pensa à la forêt où sa mère était morte.
+
+Là-bas, aucun avertissement n’avait été donné.
+
+Aucune évacuation n’avait été organisée.
+
+Aucun chasseur n’avait surveillé le sentier.
+
+Hasol sentit la colère remonter.
+
+Elle détourna les yeux.
+
+Zio remarqua son expression.
+
+Mais il ne dit rien.
+
+Le portail vert flottait au-dessus d’une pente herbeuse, à quelques centaines de mètres des premières fermes.
+
+Sa lumière était différente de celle des portails blancs.
+
+Plus profonde.
+
+Plus inquiétante.
+
+De fines ondulations parcouraient sa surface, comme si quelque chose remuait derrière un rideau d’eau teintée de vert.
+
+Hasol le contempla longuement.
+
+— Il n’a pas encore commencé à s’ouvrir, observa Samia.
+
+Ray consulta ses notes.
+
+— Nous devons encore attendre plusieurs heures.
+
+— Les évacuations sont terminées ? demanda Zio.
+
+Un officier acquiesça.
+
+— Les habitants ont quitté les fermes les plus proches. Nous surveillons les routes.
+
+Hasol regarda vers les bâtiments abandonnés.
+
+Sur une petite clôture, une couverture avait été laissée à sécher.
+
+Un panier reposait près d’une porte.
+
+Des objets ordinaires.
+
+Des choses que leurs propriétaires avaient probablement prévu de récupérer le soir même.
+
+Elle détourna la tête.
+
+— Alors préparons-nous.
+
+Lorsque le portail s’ouvrit, les premiers démons surgirent presque immédiatement.
+
+Ils étaient plus grands que ceux des portails blancs.
+
+Leurs membres étaient puissants.
+
+Certains portaient d’épaisses excroissances osseuses sur les épaules.
+
+D’autres avançaient à quatre pattes, griffant la terre à chaque mouvement.
+
+<div class="system-window lit-window" data-window-id="C14-F05" data-window-type="regle">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F05-mobile.svg">
+    <img src="assets/fenetres/C14-F05.svg" alt="Fenêtre du système — SYSTÈME — PORTAIL DÉMONIAQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — PORTAIL DÉMONIAQUE
+  </div>
+  <p>Classification</p>
+  <p>VERT</p>
+  <p>Niveau des monstres</p>
+  <p>20</p>
+  <p>Niveau du boss</p>
+  <p>40</p>
+  <p>Plafond de rareté</p>
+  <p>100 points</p>
+  </details>
+</div>
+
+Zio leva son bouclier.
+
+— En position !
+
+Les deux formations se déployèrent selon les instructions de leurs responsables.
+
+Hasol prit place près de Zio.
+
+Samia se positionna à distance.
+
+Ray attendit que les monstres entrent dans sa portée.
+
+Yoon prépara ses compétences de soutien.
+
+Les premières créatures chargèrent.
+
+Zio encaissa le choc.
+
+Cette fois, il recula.
+
+Pas beaucoup.
+
+Mais suffisamment pour que Hasol remarque immédiatement la différence.
+
+— Elles sont plus puissantes ! lança-t-il.
+
+— J’ai vu !
+
+Hasol se déplaça sur le flanc.
+
+Sa première attaque frappa un démon à la poitrine.
+
+La lame traversa sa protection, mais la créature ne tomba pas immédiatement.
+
+Elle pivota brusquement.
+
+Une griffe passa près du visage d’Hasol.
+
+Elle recula.
+
+Ses runes Vitesse lui permirent de reprendre rapidement ses distances.
+
+Puis elle revint frapper.
+
+Le démon s’effondra enfin.
+
+Deux coups.
+
+Sur un portail blanc, un seul lui suffisait souvent.
+
+Elle regarda les autres monstres.
+
+Ils étaient nombreux.
+
+Et ils résistaient davantage.
+
+La différence n’était pas insurmontable.
+
+Mais elle était réelle.
+
+Ray leva une main.
+
+— Je vais bloquer leur progression !
+
+Un Mur de flammes apparut devant un groupe de démons.
+
+Les créatures hésitèrent.
+
+Certaines tentèrent de contourner la zone.
+
+Samia les accueillit avec une série de flèches.
+
+— À gauche !
+
+Hasol changea immédiatement de position.
+
+Elle frappa une créature qui menaçait un chasseur de l’autre formation.
+
+Puis recula avant sa riposte.
+
+Yoon activa son Domaine des Entraves Runiques.
+
+Plusieurs démons ralentirent.
+
+Leurs mouvements devinrent suffisamment prévisibles pour permettre aux deux équipes de reprendre du terrain.
+
+Mais une autre vague surgit.
+
+Puis une troisième.
+
+Un chasseur tomba.
+
+Zio se précipita pour bloquer la créature qui allait l’achever.
+
+— Yoon !
+
+— Je l’ai vu !
+
+La Sage activa ses soins.
+
+Le blessé fut rapidement évacué vers un secteur protégé.
+
+Hasol contempla la scène.
+
+Pendant un instant, elle revit le vieux chêne.
+
+Le panier.
+
+Les plantes répandues sur le sol.
+
+Sa mâchoire se crispa.
+
+Elle s’élança.
+
+— Hasol ! lança Zio.
+
+Elle entendit son appel.
+
+Mais continua.
+
+Un démon s’effondra sous sa lame.
+
+Puis un second.
+
+Elle se déplaça entre deux créatures, évita une attaque et frappa de nouveau.
+
+Sa vitesse était impressionnante.
+
+Ses runes lui permettaient de couvrir des distances qu’un chasseur de niveau comparable aurait eu du mal à franchir aussi rapidement.
+
+Mais les monstres verts étaient plus dangereux.
+
+L’un d’eux parvint à anticiper son changement de direction.
+
+Sa griffe heurta la protection de son épaule.
+
+Hasol vacilla.
+
+Une seconde créature bondit.
+
+Le bouclier de Zio s’interposa brutalement.
+
+L’impact résonna.
+
+— Recule !
+
+Hasol reprit immédiatement ses distances.
+
+Zio resta devant elle.
+
+— Tu ne peux pas les traverser comme les blancs !
+
+Elle serra les dents.
+
+— Je sais !
+
+— Alors regarde-moi quand je te parle !
+
+Il la fixa.
+
+Hasol s’immobilisa.
+
+Il poursuivit, plus calmement :
+
+— Tu es très forte. Mais nous sommes une équipe.
+
+Elle détourna les yeux vers les démons.
+
+Puis vers Yoon, Ray et Samia.
+
+Tous continuaient de combattre.
+
+Tous comptaient sur elle.
+
+Elle inspira profondément.
+
+— D’accord.
+
+Zio abaissa légèrement son bouclier.
+
+— Bien. On reprend ensemble.
+
+Le boss apparut alors que la bataille durait déjà depuis un long moment.
+
+Sa silhouette traversa lentement la surface du portail.
+
+C’était une créature massive, couverte de plaques osseuses verdâtres.
+
+Deux longues cornes partaient de son front.
+
+Ses griffes labouraient la terre.
+
+Lorsqu’elle poussa son premier hurlement, plusieurs démons ordinaires s’écartèrent sur son passage.
+
+<div class="system-window lit-window" data-window-id="C14-F06" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F06-mobile.svg">
+    <img src="assets/fenetres/C14-F06.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — BOSS DE PORTAIL
+  </div>
+  <p>Briseur des Ronces</p>
+  <p>Classification</p>
+  <p>Portail vert</p>
+  <p>Niveau</p>
+  <p>40</p>
+  </details>
+</div>
+
+Le responsable de la seconde formation leva son arme.
+
+— Préparez-vous !
+
+Hasol observa le boss.
+
+Niveau quarante.
+
+Deux niveaux au-dessus d’elle.
+
+Elle pouvait compenser cet écart grâce à ses runes.
+
+Mais son regard se posa sur les chasseurs blessés.
+
+Sur les monstres ordinaires qui continuaient d’apparaître.
+
+Sur l’étendue du terrain.
+
+Elle comprit qu’il ne suffirait pas de se précipiter vers le boss.
+
+— Zio.
+
+Il tourna la tête.
+
+— Oui ?
+
+— Je vais préparer Aura runique.
+
+— Combien de tentatives ?
+
+— Autant que nécessaire pour obtenir un critique, dans la limite de mon Mana disponible.
+
+Il acquiesça.
+
+— Nous allons te couvrir.
+
+Hasol sortit une rune de son Anneau.
+
+Elle lança sa compétence.
+
+L’aura se manifesta.
+
+Pas de critique.
+
+Elle recommença.
+
+Une deuxième rune disparut.
+
+Puis une troisième.
+
+Yoon surveillait les environs.
+
+Samia empêchait les monstres de s’approcher.
+
+Zio avait pris position devant Hasol.
+
+La quatrième activation produisit une lumière plus intense.
+
+Les inscriptions runiques de son épée brillèrent.
+
+Infiltration runique.
+
+Trente secondes.
+
+Hasol leva les yeux.
+
+— Maintenant !
+
+Zio chargea.
+
+Le second groupe détourna l’attention des démons ordinaires.
+
+Ray lança une attaque de feu contre l’une des épaules du boss.
+
+Samia visa une articulation.
+
+Yoon renforça Hasol.
+
+La Puissance arcanique supplémentaire amplifia immédiatement l’efficacité de son Infiltration runique.
+
+Hasol s’élança.
+
+Elle se déplaça sur le côté, évitant le premier coup de griffes.
+
+Puis frappa.
+
+Le boss poussa un hurlement.
+
+Elle recula.
+
+Changea de direction.
+
+Frappa une seconde fois.
+
+Mais la créature était rapide.
+
+Sa taille ne l’empêchait pas de pivoter brutalement.
+
+Hasol dut éviter une charge.
+
+Puis une autre.
+
+Zio intervint.
+
+Son bouclier encaissa un choc si violent qu’il recula de plusieurs pas.
+
+Yoon lui apporta immédiatement du soutien.
+
+Ray lança une nouvelle attaque, puis dut interrompre ses incantations pour préserver son Mana.
+
+Le boss était blessé.
+
+Mais il tenait toujours debout.
+
+Hasol regarda brièvement sa fenêtre de compétence.
+
+Les trente secondes approchaient de leur terme.
+
+Elle pouvait chercher une nouvelle ouverture.
+
+Mais le boss venait de se tourner vers un chasseur au sol.
+
+— Samia !
+
+La Ranger comprit immédiatement.
+
+Une flèche atteignit l’articulation de la créature.
+
+Zio chargea sur son flanc.
+
+Le boss perdit l’équilibre.
+
+Hasol s’élança.
+
+Elle aurait pu tenter de viser directement une zone vitale.
+
+Mais elle vit la créature préparer une nouvelle attaque vers les blessés.
+
+Elle changea son geste.
+
+Sa lame frappa l’articulation déjà affaiblie.
+
+Le démon s’effondra sur un genou.
+
+— Maintenant ! cria-t-elle.
+
+Les chasseurs de la seconde formation frappèrent ensemble.
+
+Une dernière attaque atteignit le boss.
+
+La créature s’écroula.
+
+Le portail vert trembla.
+
+Sa surface se contracta.
+
+Puis la brèche disparut.
+
+Le silence qui suivit fut interrompu par les cris de soulagement des chasseurs.
+
+Plusieurs s’assirent directement sur l’herbe.
+
+D’autres aidèrent les blessés.
+
+Un officier vérifia les dernières présences sur le terrain.
+
+Hasol rengaina son épée.
+
+Elle n’avait pas porté le coup final.
+
+Cela ne changeait rien à la fermeture du portail.
+
+Son compteur personnel de monstres de portails avait progressé au cours de la bataille.
+
+Mais il lui restait encore beaucoup à accomplir avant d’atteindre les cinq mille.
+
+Zio la rejoignit.
+
+— Ça va ?
+
+Elle regarda son épaule blessée.
+
+— Oui.
+
+— Tu es sûre ?
+
+— J’ai déjà connu pire.
+
+Il soupira.
+
+— Ce n’est pas une réponse.
+
+Hasol baissa légèrement les yeux.
+
+Puis elle observa les chasseurs qui évacuaient leurs compagnons.
+
+— Nous avons réussi.
+
+Zio acquiesça.
+
+— Oui.
+
+Elle regarda le ciel.
+
+Là où le portail vert avait flotté quelques instants auparavant.
+
+— Et il y en a un autre à l’ouest.
+
+— Je sais.
+
+— Ils vont avoir besoin de renforts.
+
+Zio posa doucement sa main sur la sienne.
+
+— Alors nous aiderons. Mais après avoir récupéré.
+
+Hasol voulut protester.
+
+Puis elle regarda de nouveau les blessés.
+
+Elle se souvenait du mouvement du boss.
+
+De la vitesse avec laquelle il avait failli atteindre un chasseur incapable de se relever.
+
+Si elle s’était précipitée sans réfléchir, d’autres auraient pu mourir.
+
+Elle inspira lentement.
+
+— D’accord.
+
+Zio sembla presque surpris.
+
+Hasol lui lança un regard.
+
+— Ne prends pas cet air.
+
+Il sourit.
+
+— Quel air ?
+
+— Celui-là.
+
+Il eut un petit rire.
+
+Et, malgré elle, Hasol sentit le coin de ses lèvres se relever.
+
+Un instant seulement.
+
+Mais suffisamment pour qu’elle s’en rende compte.
+
+Le second portail vert fut fermé plus tard par une autre opération, à laquelle leur équipe participa après avoir récupéré.
+
+La région avait eu le temps d’évacuer les villages les plus proches.
+
+Les chasseurs engagèrent les démons avec une formation importante.
+
+Cette fois encore, les combats furent difficiles.
+
+Mais aucun habitant ne fut surpris en pleine activité ordinaire.
+
+Hasol observa les familles évacuées lorsqu’elle revint avec ses compagnons.
+
+Des enfants couraient près d’un convoi.
+
+Une vieille femme remerciait les soigneurs.
+
+Un homme cherchait son épouse parmi les voyageurs.
+
+Hasol resta immobile.
+
+Elle pensa à sa mère.
+
+À sa promenade dans la forêt.
+
+À toutes les choses qui auraient pu être différentes si quelqu’un avait repéré le portail à temps.
+
+Elle aurait voulu que ces précautions existent cinquante-six heures après la première notification.
+
+Mais elles existaient maintenant.
+
+Et cette fois, plusieurs familles pourraient rentrer ensemble.
+
+Hasol ferma les yeux.
+
+Elle était toujours en colère.
+
+Terriblement en colère.
+
+Pourtant, au milieu de cette colère, une autre pensée commençait à prendre forme.
+
+Elle ne pourrait pas sauver sa mère.
+
+Mais elle pouvait encore empêcher d’autres personnes de vivre la même chose.
+
+## X. Quatre-vingt-dix-neuf
+
+Un peu plus tard, Orven demanda à Hasol de passer le voir.
+
+Le maître artisan préparait plusieurs commandes destinées aux guildes mobilisées contre les portails.
+
+Il avait besoin de matériaux provenant d’un donjon précis.
+
+Un donjon permanent, régulièrement exploité par les chasseurs.
+
+Rien à voir avec les nouvelles brèches démoniaques.
+
+— Nous manquons de certains composants, expliqua-t-il.
+
+Hasol examina la liste.
+
+— Vous voulez que nous y entrions ?
+
+— Si vous êtes disponibles.
+
+Elle parcourut les informations.
+
+Puis son regard s’arrêta sur le boss.
+
+Une manticore de niveau quarante et un.
+
+Hasol ouvrit son carnet personnel.
+
+À la fin d’une page consacrée à ses expéditions figurait un nombre.
+
+99.
+Zio, qui se tenait près d’elle, suivit son regard.
+
+— Quatre-vingt-dix-neuf ?
+
+Hasol acquiesça.
+
+— Boss de donjon personnellement achevés.
+
+Il sourit.
+
+— Tu continues de les compter ?
+
+— Depuis le début.
+
+Elle contempla le nombre.
+
+Elle se souvenait de son premier boss.
+
+De la peur qu’elle avait ressentie.
+
+Des années où elle avait considéré chaque victoire comme une preuve supplémentaire de sa valeur.
+
+Aujourd’hui, elle avait personnellement achevé quatre-vingt-dix-neuf boss de donjon.
+
+Les boss de portails vaincus récemment ne figuraient pas sur cette liste.
+
+Ils alimentaient le compteur particulier des monstres de portails.
+
+Mais pas celui des cent boss de donjon.
+
+Hasol referma son carnet.
+
+— Nous allons prendre le contrat.
+
+Le donjon venait de se réinitialiser après son délai habituel.
+
+Ils y entrèrent tous les cinq.
+
+Zio menait la formation.
+
+Samia surveillait les mécanismes dissimulés.
+
+Hasol utilisait son Œil runique pour confirmer certains dangers.
+
+Ses compétences avaient considérablement évolué au fil de son apprentissage.
+
+Mais elle ne disposait toujours pas d’une capacité lui permettant de désamorcer automatiquement tous les pièges.
+
+Samia restait indispensable.
+
+Lorsqu’ils atteignirent un coffre protégé, Hasol examina le mécanisme avec attention.
+
+— Je peux tenter Main runique, dit-elle.
+
+Samia observa les inscriptions.
+
+— Attends. Celui-ci a une protection particulière.
+
+Hasol acquiesça.
+
+Elle ne chercha pas à forcer la serrure.
+
+Les deux femmes prirent le temps de comprendre le dispositif.
+
+Puis elles l’ouvrirent ensemble.
+
+Ray les observa.
+
+— Je trouve toujours impressionnant de vous voir faire ça.
+
+Samia sourit.
+
+— Tu pourrais apprendre.
+
+Il ajusta ses lunettes.
+
+— Je crois que je préfère continuer à éviter les pièges que vous repérez.
+
+Yoon eut un petit rire.
+
+Zio secoua la tête.
+
+— Avançons. Le boss nous attend.
+
+Hasol les suivit.
+
+Pendant quelques instants, elle retrouva le plaisir simple d’explorer un donjon avec ses compagnons.
+
+Leurs habitudes.
+
+Leurs plaisanteries.
+
+Leur confiance.
+
+Puis ils atteignirent la chambre du boss.
+
+La Manticore des Cendres les attendait au centre d’une vaste salle de pierre.
+
+Ses ailes sombres se déployèrent lorsqu’elle les aperçut.
+
+Un long dard frappa le sol derrière elle.
+
+<div class="system-window lit-window" data-window-id="C14-F07" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F07-mobile.svg">
+    <img src="assets/fenetres/C14-F07.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE DONJON">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — BOSS DE DONJON
+  </div>
+  <p>Manticore des Cendres</p>
+  <p>Niveau</p>
+  <p>41</p>
+  </details>
+</div>
+
+Hasol observa la salle.
+
+Plusieurs colonnes limitaient les déplacements.
+
+Le plafond était suffisamment haut pour permettre à la créature de bondir, mais pas de voler librement.
+
+Elle regarda ses compagnons.
+
+— Zio, garde le centre. Samia, surveille sa queue.
+
+Les deux acquiescèrent.
+
+— Ray, attends que nous ayons une ouverture. Je ne veux pas que tu épuises ton Mana dès le début.
+
+— Compris.
+
+Hasol se tourna vers Yoon.
+
+— Je vais avoir besoin de ta Résonance.
+
+Son amie sourit.
+
+— Tu l’auras.
+
+Hasol prit une rune ordinaire dans son inventaire.
+
+Puis activa Aura runique.
+
+L’incantation réussit.
+
+Mais elle ne fut pas critique.
+
+Hasol examina sa lame.
+
+Elle aurait pu recommencer.
+
+Ses réserves le lui permettaient.
+
+Mais cette fois, elle décida de conserver son Mana.
+
+Elle connaissait suffisamment le donjon pour savoir qu’un long combat pouvait exiger davantage de prudence.
+
+Zio leva son bouclier.
+
+— Prêts ?
+
+Hasol acquiesça.
+
+— Prêts.
+
+La manticore bondit.
+
+Zio encaissa la première charge.
+
+Son bouclier vibra sous l’impact.
+
+Même avec ses runes +15, il dut reculer.
+
+— Elle frappe fort !
+
+Samia décocha une flèche vers l’une des ailes.
+
+Ray attendit une ouverture.
+
+Puis lança un Trait incandescent.
+
+Le projectile frappa le flanc de la créature.
+
+Hasol se déplaça sur la droite.
+
+Son équipement Vitesse lui permettait de changer rapidement de position.
+
+Elle évita une attaque du dard.
+
+Puis frappa l’une des pattes arrière.
+
+La manticore poussa un grondement.
+
+Elle tenta de se retourner.
+
+Zio intervint immédiatement.
+
+— Défi du Gardien !
+
+Le boss reporta son attention sur lui.
+
+Yoon plaça un Chant runique dans une zone où ses compagnons pourraient se replier.
+
+Puis elle renforça Hasol.
+
+— Résonance runique !
+
+Les caractéristiques principales de ses runes furent amplifiées.
+
+Ses caractéristiques secondaires concernées par la compétence évoluée de Yoon bénéficièrent également du renforcement.
+
+Hasol sentit ses appuis devenir plus sûrs.
+
+Elle observa la manticore.
+
+Puis s’élança.
+
+Sa lame frappa une articulation déjà affaiblie par Samia.
+
+Le boss chancela.
+
+Ray prépara une nouvelle attaque.
+
+— Écartez-vous !
+
+Les autres se repositionnèrent.
+
+Une déflagration frappa la créature.
+
+Elle poussa un hurlement et tenta de reprendre son équilibre.
+
+Hasol aperçut l’ouverture.
+
+— Zio !
+
+Il comprit immédiatement.
+
+Le Gardien bloqua le passage du boss.
+
+Samia décocha une dernière flèche.
+
+La créature tourna légèrement la tête.
+
+Hasol s’élança.
+
+Elle concentra toute son attention sur la zone fragilisée.
+
+Puis frappa.
+
+La lame traversa la protection affaiblie.
+
+La manticore s’effondra.
+
+Le silence revint.
+
+Hasol resta immobile.
+
+Elle regarda le corps du boss.
+
+Puis son épée.
+
+Le centième.
+
+Elle venait d’achever personnellement son centième boss de donjon.
+
+Un tintement cristallin résonna.
+
+Une fenêtre apparut.
+
+<div class="system-window lit-window" data-window-id="C14-F08" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F08-mobile.svg">
+    <img src="assets/fenetres/C14-F08.svg" alt="Fenêtre du système — SYSTÈME — ÉVOLUTION DE COMPÉTENCE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — ÉVOLUTION DE COMPÉTENCE
+  </div>
+  <p>Croissance runique</p>
+  <p>Palier atteint</p>
+  <p>Boss de donjon achevés personnellement</p>
+  <p>100 / 100</p>
+  <p>Nouvel effet permanent</p>
+  <p>Chaque tranche de 100 boss de donjon personnellement achevés accorde un cercle de mana et un emplacement runique supplémentaires, sans restriction de niveau du boss.</p>
+  <p>Premier palier accordé immédiatement</p>
+  <p>Cercles de mana</p>
+  <p>13 → 14</p>
+  </details>
+</div>
+
+Hasol sentit son mana se rassembler.
+
+Une lumière turquoise apparut autour d’elle.
+
+Puis un nouveau cercle se forma, rejoignant les treize autres.
+
+Quatorze.
+
+Elle possédait désormais quatorze cercles.
+
+Yoon ouvrit de grands yeux.
+
+— Hasol !
+
+Samia porta une main à sa bouche.
+
+Ray ajusta ses lunettes comme s’il avait besoin de vérifier ce qu’il voyait.
+
+Zio sourit.
+
+— Félicitations.
+
+Hasol contempla les cercles.
+
+Elle avait attendu ce moment pendant des années.
+
+Depuis longtemps, elle savait que les boss représentaient une étape importante de sa progression.
+
+Elle avait tenu son registre.
+
+Compté les victoires.
+
+Surmonté les défaites.
+
+Et enfin atteint le centième.
+
+Elle aurait dû être heureuse.
+
+Elle essaya de sourire.
+
+Mais son regard se troubla.
+
+Elle pensa à sa mère.
+
+Tu aurais été si fière…
+
+Hasol baissa les yeux.
+
+— Merci.
+
+Ce fut tout.
+
+## XI. Quatorze runes
+
+De retour à la demeure Shun, Hasol se rendit dans son atelier.
+
+Elle ouvrit son Anneau runique.
+
+La deuxième Gardien était toujours là.
+
+Une magnifique rune six étoiles, de qualité initiale rare (bleue), désormais légendaire (orange), améliorée à +15.
+
+Elle l’avait préparée depuis longtemps.
+
+Elle activa son quatorzième cercle.
+
+Puis équipa la pierre.
+
+Une sensation nouvelle parcourut son corps.
+
+Ses ensembles runiques étaient enfin tous complets.
+
+Quatre Fatal.
+
+Quatre Arcanique.
+
+Quatre Vitesse.
+
+Deux Gardien.
+
+<div class="system-window lit-window" data-window-id="C14-F09" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F09-mobile.svg">
+    <img src="assets/fenetres/C14-F09.svg" alt="Fenêtre du système — SYSTÈME — ÉQUIPEMENT RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — ÉQUIPEMENT RUNIQUE
+  </div>
+  <table>
+    <thead><tr><th scope="col">Ensemble</th><th scope="col">Runes</th><th scope="col">Bonus</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">Fatal</th><td>4 / 4</td><td><span class="rune-bonus">Attaque +35 %</span></td></tr>
+      <tr><th scope="row">Arcanique</th><td>4 / 4</td><td><span class="rune-bonus">Puissance arcanique +1 200</span></td></tr>
+      <tr><th scope="row">Vitesse</th><td>4 / 4</td><td><span class="rune-bonus">Vitesse +30 %</span></td></tr>
+      <tr><th scope="row">Gardien</th><td>2 / 2</td><td><span class="rune-bonus">Défense +15 %</span></td></tr>
+    </tbody>
+  </table>
+  <p>Cercles équipés</p>
+  <p>14 / 14</p>
+  <p>Tous les ensembles activés</p>
+  <p>Toutes les runes équipées sont 6★, de grade initial rare (bleu) minimum, de grade affiché légendaire (orange), et améliorées à <span class="upgrade-badge">+15</span>.</p>
+  </details>
+</div>
+
+Hasol observa ses cercles.
+
+Quatorze.
+
+Un nombre qui lui aurait autrefois semblé impossible.
+
+Elle possédait davantage de runes que la plupart des chasseurs légendaires n’en développaient naturellement au cours de leur existence.
+
+Et chacune de ses pierres était un chef-d’œuvre.
+
+Elle contempla longtemps son équipement.
+
+Puis ses yeux se posèrent sur les deux runes de son père.
+
+La Fatal.
+
+La Gardien.
+
+Elle les reconnaissait immédiatement parmi les autres.
+
+Elle les avait tenues dans ses mains lorsqu’elle était encore adolescente.
+
+Armin les avait choisies pour elle.
+
+Il avait voulu lui donner les moyens de poursuivre son rêve.
+
+Hasol les effleura du bout des doigts.
+
+— Papa…
+
+Elle baissa les yeux.
+
+— J’ai réussi.
+
+Sa voix trembla légèrement.
+
+— J’ai quatorze cercles maintenant.
+
+Elle attendit.
+
+Comme si une réponse pouvait venir.
+
+Comme si son père allait apparaître derrière elle et lui dire qu’il avait toujours su qu’elle réussirait.
+
+Puis elle pensa à Iseria.
+
+À son sourire.
+
+À la manière dont elle aimait l’écouter raconter ses progrès.
+
+Une larme glissa sur sa joue.
+
+— Vous auriez dû être là…
+
+Hasol referma lentement son interface.
+
+Elle resta seule dans l’atelier.
+
+Entourée de runes qui valaient une fortune.
+
+Et pour la première fois depuis longtemps, elle aurait voulu posséder beaucoup moins de choses.
+
+Si cela avait pu lui rendre ses parents.
+
+## XII. Une légende sans joie
+
+La nouvelle de son centième boss se répandit rapidement.
+
+Les guildes parlaient déjà de ses interventions contre les portails blancs.
+
+Mais cet accomplissement renforça encore sa réputation.
+
+Hasol Shun possédait désormais quatorze cercles.
+
+Son équipement était composé exclusivement de runes six étoiles de qualité exceptionnelle, toutes améliorées à +15.
+
+Elle avait réussi à fermer plusieurs portails blancs avec des groupes de deux ou trois chasseurs.
+
+Et elle avait participé aux premières grandes opérations contre les portails verts.
+
+Les rapports de ces interventions confirmaient que leur difficulté était bien supérieure à celle des portails blancs.
+
+Les guildes multipliaient leurs préparatifs.
+
+Les formations importantes devenaient indispensables à mesure que les nouvelles couleurs apparaissaient.
+
+Et Hasol, malgré son niveau trente-huit, avait déjà prouvé qu’elle pouvait participer efficacement à ces combats plus exigeants.
+
+La jeune fille autrefois surnommée la légendaire inutile était devenue l’une des chasseuses les plus admirées de sa génération.
+
+Certains voulaient rejoindre son équipe.
+
+D’autres cherchaient à obtenir ses conseils.
+
+Des guildes lui proposaient des contrats particulièrement rémunérateurs.
+
+On parlait de son talent d’artisane.
+
+De sa maîtrise des runes.
+
+De sa façon de se battre à l’épée sans posséder encore de véritable sort offensif.
+
+Et de son extraordinaire capacité à exploiter ses compétences.
+
+Hasol recevait enfin toute la reconnaissance qu’elle avait désirée pendant son adolescence.
+
+Mais elle ne ressentait plus rien en l’entendant.
+
+Un soir, alors qu’elle quittait la guilde après une nouvelle intervention, un jeune chasseur l’attendait près de l’entrée.
+
+Il tenait un carnet contre lui.
+
+— Madame Shun ?
+
+Hasol s’arrêta.
+
+— Oui ?
+
+Il semblait nerveux.
+
+— Je voulais vous remercier.
+
+Elle fronça légèrement les sourcils.
+
+— Pourquoi ?
+
+— Vous avez fermé un portail près de mon village.
+
+Hasol réfléchit.
+
+Elle se souvenait de l’intervention.
+
+Un portail blanc.
+
+Une expédition avec Zio et Samia.
+
+Les habitants avaient pu être évacués à temps.
+
+— Je n’étais pas seule, répondit-elle.
+
+— Je sais.
+
+Le jeune homme baissa les yeux.
+
+— Mais mes parents sont encore en vie grâce à vous.
+
+Hasol sentit quelque chose se serrer dans sa poitrine.
+
+Elle resta silencieuse.
+
+Puis répondit doucement :
+
+— Je suis contente qu’ils soient en sécurité.
+
+Le garçon sourit.
+
+— Je veux devenir un chasseur comme vous.
+
+Hasol le regarda longtemps.
+
+Elle repensa à une petite fille de sept ans qui courait dans le salon de la demeure Shun.
+
+À son père qui l’appelait ma princesse.
+
+À sa mère qui lui ajustait ses rubans avant de sortir.
+
+Elle repensa à toutes les années où elle avait voulu devenir forte.
+
+À ses premiers échecs.
+
+À ses premières runes.
+
+À ses premières victoires.
+
+— Alors entraîne-toi, dit-elle.
+
+Le jeune homme acquiesça immédiatement.
+
+— Oui !
+
+Elle hésita.
+
+Puis ajouta :
+
+— Et n’oublie jamais pourquoi tu veux devenir fort.
+
+Le garçon réfléchit.
+
+— Pour protéger les autres ?
+
+Hasol sentit sa gorge se serrer.
+
+Elle acquiesça.
+
+— Oui.
+
+Le jeune homme la remercia encore avant de partir.
+
+Hasol resta un instant devant la guilde.
+
+Autour d’elle, plusieurs chasseurs la saluèrent avec respect.
+
+Elle leur répondit poliment.
+
+Puis elle rentra.
+
+Zio l’attendait dans le salon.
+
+Il avait préparé deux tasses de thé.
+
+Hasol retira sa cape.
+
+Puis s’immobilisa.
+
+Deux tasses.
+
+Autrefois, il y en aurait eu trois.
+
+Elle contempla la table.
+
+Zio suivit son regard.
+
+Il ne dit rien.
+
+Hasol s’assit près de lui.
+
+Pendant quelques minutes, ils restèrent silencieux.
+
+Puis elle posa doucement sa tête contre son épaule.
+
+— Zio ?
+
+— Oui, ma princesse ?
+
+— Aujourd’hui, un jeune chasseur m’a dit qu’il voulait devenir comme moi.
+
+Zio sourit.
+
+— Je comprends pourquoi.
+
+Hasol baissa les yeux.
+
+— Il m’a dit que j’étais une vraie légendaire.
+
+— C’est ce que tu es.
+
+Elle resta silencieuse.
+
+Puis murmura :
+
+— Toute ma vie, j’ai voulu entendre ça.
+
+Zio l’écoutait.
+
+— Je voulais prouver que je pouvais combattre. Que ma classe n’était pas inutile. Que j’avais ma place parmi les chasseurs.
+
+Elle regarda ses mains.
+
+— Maintenant, tout le monde me respecte.
+
+Sa voix trembla.
+
+— Mais je m’en fiche, Zio.
+
+Il passa un bras autour d’elle.
+
+Hasol ferma les yeux.
+
+— J’aurais échangé tous leurs compliments contre un seul dîner de plus avec maman.
+
+Zio resserra doucement son étreinte.
+
+Elle se blottit contre lui.
+
+— Je sais, murmura-t-il.
+
+Hasol laissa couler ses larmes.
+
+Elle ne chercha pas à les retenir.
+
+Ce soir-là, elle ne demanda pas où apparaîtrait le prochain portail.
+
+Elle ne consulta pas son compteur de monstres.
+
+Elle ne vérifia pas ses runes.
+
+Elle resta simplement dans les bras de son mari.
+
+Dans le salon où elle avait autrefois passé tant de soirées avec ses parents.
+
+La demeure était toujours aussi belle.
+
+Les fenêtres laissaient entrer la douceur du soir.
+
+Les meubles n’avaient presque pas changé.
+
+Mais deux voix manquaient désormais.
+
+Hasol ferma les yeux.
+
+Le monde entier commençait enfin à la reconnaître comme une chasseuse légendaire.
+
+La seule chose qu’elle aurait voulue, c’était que son père et sa mère soient encore là pour le voir.
+
+**Fin du chapitre 14 — Le centième boss**
+
+
+---
+
+<span id="chapitre-15"></span>
+
+# Chapitre 15 — Enfin, la magie
+
+## I. Le dernier sourire de Samia
+
+Le portail vert se referma dans un long frémissement de lumière.
+
+Pendant quelques secondes, personne ne bougea.
+
+Puis les chasseurs commencèrent à se féliciter. Certains s'assirent directement dans l'herbe, trop fatigués pour rejoindre immédiatement le campement. D'autres aidèrent leurs compagnons blessés à retirer leurs protections.
+
+Hasol essuya lentement sa lame.
+
+À quelques pas d'elle, Zio abaissa son immense bouclier.
+
+— Aucun blessé grave dans notre groupe, annonça-t-il.
+
+— Et personne n'a terminé coincé sous un démon, ajouta Samia. C'est une amélioration appréciable.
+
+Ray ajusta ses lunettes.
+
+— Tu fais référence à l'incident de la semaine dernière ?
+
+— Je ne citerai aucun nom.
+
+— Tu me regardes.
+
+— C'est une coïncidence.
+
+Yoon éclata de rire.
+
+Ray soupira.
+
+— La créature était déjà morte lorsqu'elle m'est tombée dessus.
+
+— Ce qui rend l'exploit encore plus remarquable, répondit Samia.
+
+Même Zio ne parvint pas à dissimuler son sourire.
+
+Hasol observa ses compagnons.
+
+Quelques mois s'étaient écoulés depuis la mort d'Iseria.
+
+La douleur était toujours là.
+
+Elle se manifestait au réveil, lorsqu'Hasol s'attendait encore à entendre sa mère dans les couloirs de la demeure Shun. Elle revenait lorsqu'elle traversait le jardin où Iseria cultivait ses plantes médicinales, ou lorsqu'elle apercevait un panier semblable à celui qu'ils avaient retrouvé dans la forêt.
+
+Certains matins étaient plus difficiles que d'autres.
+
+Certains soirs, elle s'endormait en pleurant contre Zio.
+
+Et puis il y avait les jours de chasse.
+
+Les combats lui permettaient de faire taire ses pensées.
+
+Pendant quelques heures, elle n'avait plus besoin de se demander pourquoi sa mère était morte.
+
+Elle avait simplement un ennemi devant elle.
+
+Mais lorsque ses compagnons étaient réunis, des instants plus doux parvenaient encore à traverser sa tristesse.
+
+Surtout lorsque Samia était là.
+
+La Ranger avait cette manière bien à elle de rendre les journées plus légères.
+
+Même couverte de poussière, son arc sur l'épaule et ses cheveux blonds retenus par une attache à moitié défaite, elle conservait une bonne humeur presque contagieuse.
+
+Ses yeux bleus pétillaient lorsqu'elle préparait une plaisanterie.
+
+Elle souriait facilement.
+
+Parlait aux jeunes chasseurs.
+
+Trouvait toujours une remarque pour détendre les plus nerveux.
+
+Ce jour-là, elle avait passé une partie de la préparation de l'expédition à rassurer un apprenti qui tremblait à l'idée d'affronter son premier démon.
+
+Maintenant que le portail était fermé, le garçon s'approcha d'elle.
+
+— Madame Claire ?
+
+Samia se retourna.
+
+— Oui ?
+
+— Je voulais vous remercier.
+
+— Pour quoi ?
+
+— Vous m'avez expliqué comment reconnaître les traces des démons. J'ai réussi à prévenir mon groupe avant qu'ils arrivent par la gauche.
+
+Elle lui adressa un grand sourire.
+
+— Alors c'est toi qu'il faut féliciter.
+
+Le jeune chasseur rougit.
+
+— Je n'ai fait que suivre vos conseils.
+
+— C'est déjà beaucoup. La prochaine fois, tu verras peut-être quelque chose avant moi.
+
+Il sembla incapable de croire cette possibilité.
+
+Samia rit doucement.
+
+— Allez, retrouve tes compagnons. Et n'oublie pas de vérifier tes flèches.
+
+Lorsqu'il s'éloigna, Yoon la rejoignit.
+
+— Tu sais qu'il va raconter partout que tu l'as félicité ?
+
+— Tant mieux. Il a bien travaillé.
+
+— Tu vas finir par avoir des admirateurs.
+
+Samia écarta une mèche blonde de son visage.
+
+— Je suis certaine qu'Hasol m'en prêtera quelques-uns.
+
+Hasol leva les yeux.
+
+— Les miens sont surtout intéressés par mes runes.
+
+— C'est parce qu'ils ne t'ont jamais vue essayer de préparer un repas.
+
+Zio tourna brusquement la tête.
+
+— Samia…
+
+— Quoi ?
+
+— Ne lui donne pas d'idées.
+
+Hasol croisa les bras.
+
+— Je cuisine très bien.
+
+Ray toussota.
+
+— Je me souviens d'une soupe…
+
+— Ray !
+
+Le groupe éclata de rire.
+
+Hasol tenta de conserver son expression indignée.
+
+Elle échoua.
+
+Pendant quelques secondes, son sourire fut véritable.
+
+Ils déjeunèrent près du campement.
+
+Samia avait apporté des fruits et plusieurs petits pains qu'elle distribua sans même vérifier si chacun avait déjà reçu sa part.
+
+— Tu as dévalisé une boulangerie ? demanda Ray.
+
+— Non. Je prévois simplement que certains d'entre nous oublient de manger lorsqu'ils étudient trop longtemps leurs cartes.
+
+Elle poussa un pain vers lui.
+
+Ray le prit.
+
+— Je ne vois absolument pas à qui tu fais référence.
+
+— Évidemment.
+
+Hasol mangeait en silence lorsqu'elle aperçut une lettre dépassant de la sacoche de Samia.
+
+— Du courrier ?
+
+La Ranger baissa les yeux.
+
+Son visage s'éclaira.
+
+— Oui ! Ma tante m'a écrit.
+
+Elle sortit la lettre avec précaution.
+
+— Elle veut que je vienne au village dès que j'aurai quelques jours. Apparemment, mon petit cousin a décidé qu'il deviendrait chasseur.
+
+Yoon sourit.
+
+— Encore un ?
+
+— Il a fabriqué un arc avec une branche et de la ficelle. Il prétend pouvoir atteindre les pommes du jardin depuis le toit de la remise.
+
+— Et il y arrive ? demanda Zio.
+
+— Absolument pas. Mais il aurait déjà cassé deux pots et effrayé toutes les poules.
+
+Ray hocha gravement la tête.
+
+— Une carrière prometteuse.
+
+Samia rit.
+
+— Ma tante affirme qu'il veut apprendre avec moi. Je lui ai promis de passer.
+
+Elle replia soigneusement la lettre.
+
+— Ça fait trop longtemps que je ne suis pas rentrée.
+
+Hasol l'observa.
+
+— Tu devrais prendre quelques jours.
+
+Samia haussa les épaules.
+
+— Quand les interventions se calmeront.
+
+Zio leva les yeux vers elle.
+
+— Elles ne se calmeront peut-être pas rapidement.
+
+— Alors j'irai quand même. Il faut bien que quelqu'un rappelle à ce garçon qu'un arc n'est pas destiné à terroriser les volailles.
+
+Elle sourit de nouveau.
+
+La lumière de l'après-midi traversait ses cheveux blonds.
+
+Hasol pensa fugitivement que Samia ressemblait au soleil.
+
+Toujours en mouvement.
+
+Toujours capable de réchauffer les autres.
+
+Même après les journées les plus éprouvantes.
+
+Elle ne savait pas encore combien cette image lui manquerait.
+
+## II. La couleur bleue
+
+La première annonce arriva moins de deux semaines plus tard.
+
+Hasol se trouvait dans son atelier lorsqu'un messager de la guilde demanda à lui parler.
+
+Il était essoufflé.
+
+— Madame Shun, nous avons besoin de chasseurs expérimentés.
+
+Elle posa la rune qu'elle examinait.
+
+— Un portail vert ?
+
+— Non.
+
+Le jeune homme déglutit.
+
+— Bleu.
+
+Hasol se redressa.
+
+— Bleu ?
+
+— Plusieurs apparitions ont été confirmées ce matin.
+
+Elle n'attendit pas davantage.
+
+Quelques minutes plus tard, elle rejoignait Zio devant la demeure.
+
+Son mari avait déjà préparé leurs équipements.
+
+— Ray et Yoon sont prévenus, dit-il. Samia nous attend à la guilde.
+
+Hasol acquiesça.
+
+— Allons-y.
+
+La salle des opérations était pleine.
+
+Sur la grande carte de l'Empire, de nouveaux repères avaient été placés.
+
+Les marqueurs blancs et verts étaient désormais nombreux.
+
+Mais trois marqueurs bleus attiraient tous les regards.
+
+Un officier attendit que les chasseurs se taisent.
+
+— Nous avons confirmé l'apparition de portails de troisième catégorie.
+
+Les informations du système furent présentées aux responsables des équipes.
+
+<div class="system-window lit-window" data-window-id="C15-F01" data-window-type="regle">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F01-mobile.svg">
+    <img src="assets/fenetres/C15-F01.svg" alt="Fenêtre du système — SYSTÈME — CLASSIFICATION">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — CLASSIFICATION
+  </div>
+  <h3>Portail démoniaque bleu</h3>
+  <p>Monstres</p>
+  <p>Niveau 30</p>
+  <p>Boss</p>
+  <p>Niveau 50</p>
+  <p>Ouverture</p>
+  <p>48 h après apparition</p>
+  <p>Capacité</p>
+  <p>100 points de rareté</p>
+  </details>
+</div>
+
+Un murmure inquiet parcourut la salle.
+
+— Un boss de niveau cinquante…
+
+— Les portails verts étaient déjà difficiles.
+
+— Combien de villages sont proches de ces brèches ?
+
+L'officier leva la main.
+
+— Les évacuations ont commencé. Nous disposons encore d'un délai avant l'ouverture.
+
+Hasol examina les positions.
+
+— Quelle intervention nous attribuez-vous ?
+
+— Celle du secteur oriental. Votre groupe représente cinquante points de rareté. Une autre formation de cinquante points vous rejoindra.
+
+Zio acquiesça.
+
+— Nous coordonnerons les deux groupes.
+
+Samia observait la carte.
+
+— Et le portail du nord ?
+
+L'officier hésita.
+
+— Nous attendons qu'une équipe termine son opération actuelle.
+
+— Il y a des habitations à proximité.
+
+— Nous le savons.
+
+— Combien de personnes ?
+
+— Les informations ne sont pas encore complètes.
+
+Samia fronça les sourcils.
+
+— Si vous attendez trop longtemps, les routes risquent d'être encombrées au moment de l'évacuation.
+
+L'officier hocha la tête.
+
+— Nous allons envoyer des messagers supplémentaires.
+
+Samia acquiesça.
+
+Puis son regard parcourut le reste de la carte.
+
+Elle s'arrêta brièvement sur une région de villages agricoles.
+
+Celui où vivait une partie de sa famille se trouvait dans cette direction.
+
+Aucun portail n'y était signalé.
+
+Elle détourna les yeux.
+
+Le premier combat contre un portail bleu fut brutal.
+
+Les démons de niveau trente étaient plus résistants, plus rapides et beaucoup moins prévisibles que ceux des couleurs précédentes.
+
+Hasol disposait pourtant d'un équipement exceptionnel.
+
+Ses quatorze runes étaient toutes six étoiles, de qualité initiale rare (bleue) au minimum, désormais légendaires (orange), et améliorées à +15.
+
+Ses ensembles Fatal, Arcanique, Vitesse et Gardien étaient complets.
+
+Ses déplacements étaient rapides.
+
+Ses attaques précises.
+
+Mais une erreur pouvait désormais coûter cher.
+
+Zio encaissa une charge qui le força à reculer de plusieurs pas.
+
+Yoon dut intervenir pour soigner un chasseur blessé.
+
+Ray utilisa ses flammes pour dégager un passage, avant de ralentir ses incantations afin de préserver sa réserve de Mana.
+
+Samia abattit plusieurs créatures qui tentaient de contourner les formations.
+
+Hasol combattit pendant de longues minutes.
+
+Elle activa Aura runique.
+
+Une première fois.
+
+Puis une deuxième.
+
+Chaque lancement lui coûta deux cents points de Mana et une rune sacrifiée.
+
+Lorsque l'activation critique finit par se produire, elle exploita les trente secondes d'Infiltration runique pour affaiblir les ennemis les plus dangereux.
+
+Mais les vagues se succédaient.
+
+Et même lorsque les chasseurs parvinrent à engager le boss, il leur fallut un véritable effort collectif pour l'abattre.
+
+La créature tenta à plusieurs reprises de briser leur ligne.
+
+Zio encaissa une attaque qui fendit son bouclier de secours.
+
+Yoon dut poser son cercle de soin dans une position particulièrement exposée.
+
+Hasol profita d'une ouverture créée par Samia pour atteindre le flanc du monstre.
+
+Puis un chasseur de la seconde formation frappa son autre côté.
+
+Le boss finit par s'effondrer.
+
+Le portail se referma.
+
+La victoire coûta plusieurs blessures sérieuses.
+
+Un officier félicita les équipes.
+
+Hasol regarda les brancards.
+
+Puis le ciel vide.
+
+— Combien de temps avant le prochain ?
+
+Zio s'approcha.
+
+— Hasol, nous venons à peine de terminer.
+
+— Je sais.
+
+Elle regarda la carte que tenait l'officier.
+
+— Mais les autres portails ne vont pas attendre.
+
+## III. Le village qui n'existe plus
+
+Le message arriva quelques jours plus tard.
+
+Samia était en train de vérifier son arc lorsqu'un messager entra dans la salle réservée aux équipes de chasse.
+
+Il demanda son nom.
+
+Puis lui tendit un document portant le sceau de la guilde.
+
+Elle l'ouvrit avec son sourire habituel.
+
+Son expression changea presque immédiatement.
+
+Yoon, qui préparait ses propres affaires à quelques pas, releva la tête.
+
+— Samia ?
+
+La Ranger ne répondit pas.
+
+Ses yeux parcouraient les lignes.
+
+Une fois.
+
+Puis une seconde.
+
+— Non…
+
+Yoon s'approcha.
+
+— Qu'est-ce qu'il y a ?
+
+Samia releva lentement les yeux.
+
+— Le village…
+
+Sa voix semblait venir de très loin.
+
+— Quel village ?
+
+— Celui de ma tante.
+
+Elle regarda de nouveau le document.
+
+— Un portail bleu s'est ouvert à proximité.
+
+Yoon sentit son cœur se serrer.
+
+— Ils ont réussi à évacuer ?
+
+Samia secoua la tête.
+
+— Non.
+
+Un silence lourd s'installa.
+
+Puis elle murmura :
+
+— Le village a été détruit.
+
+La guilde leur fournit des chevaux et un accompagnement.
+
+Hasol, Zio, Yoon et Ray partirent avec Samia.
+
+Personne ne tenta de la convaincre d'attendre un rapport plus complet.
+
+La Ranger resta silencieuse pendant presque tout le trajet.
+
+Elle serrait toujours la lettre contre elle.
+
+Celle que sa tante lui avait envoyée quelques semaines auparavant.
+
+Hasol l'aperçut lorsque Samia vérifia sa sacoche.
+
+Elle reconnut le papier.
+
+Le souvenir de leur déjeuner lui revint avec une précision douloureuse.
+
+*Mon petit cousin a fabriqué un arc avec une branche et de la ficelle.*
+
+Elle détourna les yeux.
+
+Ils aperçurent les premières traces de destruction bien avant d'atteindre le village.
+
+Une charrette renversée.
+
+Des clôtures brisées.
+
+Des terres brûlées.
+
+Puis les maisons apparurent.
+
+Ou ce qu'il en restait.
+
+Samia arrêta son cheval.
+
+Pendant quelques secondes, elle contempla la scène sans bouger.
+
+Il n'y avait plus de village.
+
+Plus de rues telles qu'elle les connaissait.
+
+Plus de jardins soigneusement entretenus.
+
+Les bâtiments avaient été ravagés.
+
+Certaines maisons n'étaient plus que des murs écroulés.
+
+Des chasseurs et des secouristes fouillaient les décombres.
+
+Le portail avait finalement été fermé.
+
+Mais il avait été découvert trop tard et les renforts nécessaires n'avaient pas pu intervenir à temps.
+
+Les démons, sortis après les quarante-huit heures précédant l'ouverture, avaient eu le temps de ravager les habitations.
+
+Samia descendit de cheval.
+
+Ses jambes semblaient incapables de la porter.
+
+— Non…
+
+Yoon se plaça près d'elle.
+
+— Samia…
+
+La Ranger avança.
+
+Elle reconnut le puits au centre de la place.
+
+La vieille fontaine.
+
+Une portion de mur où des enfants avaient autrefois gravé leurs initiales.
+
+Puis elle tourna dans une rue.
+
+Elle connaissait chaque pierre de ce chemin.
+
+Elle l'avait parcouru des centaines de fois.
+
+La maison de sa tante se trouvait au bout.
+
+Samia s'arrêta devant les ruines.
+
+Une partie de la toiture s'était effondrée.
+
+Le petit jardin avait disparu.
+
+Il ne restait de la remise qu'une structure noircie.
+
+Samia regarda la terre retournée.
+
+C'était là que son cousin s'entraînait avec son arc.
+
+Elle avança d'un pas.
+
+Puis d'un autre.
+
+Parmi les débris reposait un morceau de bois courbé, encore attaché à une ficelle.
+
+Samia s'agenouilla.
+
+Elle le prit entre ses mains.
+
+— Non…
+
+Ses doigts se refermèrent sur le petit arc.
+
+— Non, non…
+
+Yoon s'accroupit près d'elle.
+
+— Samia…
+
+— Il devait me le montrer.
+
+Sa voix tremblait.
+
+— Il m'avait promis qu'il réussirait à tirer droit avant ma prochaine visite.
+
+Elle regarda Yoon.
+
+— Je devais venir.
+
+Les larmes commencèrent à couler.
+
+— Je lui avais promis.
+
+Yoon l'enlaça.
+
+Samia resta d'abord immobile.
+
+Puis elle se mit à pleurer.
+
+Les recherches durèrent plusieurs heures.
+
+Le rapport final confirma la mort de plusieurs membres de sa famille.
+
+Sa tante.
+
+Son oncle.
+
+Deux de ses cousins.
+
+D'autres habitants manquaient encore à l'appel.
+
+Samia écouta les noms.
+
+Elle ne pleurait plus.
+
+Son visage était devenu étrangement immobile.
+
+Lorsque l'officier eut terminé, elle demanda :
+
+— À quelle heure le portail a-t-il été repéré ?
+
+L'homme hésita.
+
+— Trop tard pour permettre une évacuation complète.
+
+— Je vous demande l'heure.
+
+Il consulta son registre.
+
+— Les premiers signalements fiables sont arrivés après l'ouverture.
+
+— Donc personne ne l'avait trouvé pendant les quarante-huit heures précédentes ?
+
+— Non.
+
+Samia serra le petit arc entre ses mains.
+
+— Et une fois ouvert ?
+
+L'officier baissa les yeux.
+
+— Les équipes disponibles étaient engagées ailleurs. Nous avons dû réunir des renforts capables d'affronter un boss de niveau cinquante.
+
+— Combien de temps ?
+
+Il ne répondit pas immédiatement.
+
+Samia comprit.
+
+Elle n'avait pas besoin d'entendre davantage.
+
+Elle recula.
+
+Puis se détourna.
+
+Hasol la retrouva près de l'ancien jardin.
+
+La lumière du soir éclairait les pierres brisées.
+
+Samia était assise sur une marche, les mains posées sur ses genoux.
+
+Le petit arc reposait à côté d'elle.
+
+Hasol s'approcha.
+
+— Samia ?
+
+Aucune réponse.
+
+Elle s'assit près de son amie.
+
+Pendant longtemps, elles restèrent silencieuses.
+
+Puis Samia murmura :
+
+— Ils étaient chez eux.
+
+Hasol baissa les yeux.
+
+— Je sais.
+
+— Ils n'étaient pas des chasseurs. Ils ne savaient même pas se défendre contre ces choses.
+
+Sa voix se fit plus dure.
+
+— Ils ont vécu ici toute leur vie.
+
+Elle regarda les ruines.
+
+— Ma tante cultivait des fleurs devant cette maison. Elle disait toujours que le jardin paraissait triste lorsqu'il n'y avait pas assez de couleurs.
+
+Hasol sentit sa gorge se serrer.
+
+Elle pensa à sa mère, occupée à trier ses plantes médicinales.
+
+— Et maintenant, poursuivit Samia, tout le monde parle du portail qui a été fermé.
+
+Elle eut un rire sans joie.
+
+— Comme si c'était une victoire.
+
+Hasol ne répondit pas.
+
+— Le boss est mort. Le portail a disparu. Les chasseurs vont recevoir leurs récompenses.
+
+Les doigts de Samia se crispèrent.
+
+— Mais eux sont morts aussi.
+
+Hasol contempla le petit arc.
+
+— Je sais.
+
+Samia tourna lentement la tête.
+
+— Tu as pensé la même chose pour ta mère, n'est-ce pas ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Un nouveau silence s'installa.
+
+Puis Samia demanda :
+
+— Tu crois qu'on pourra tous les tuer ?
+
+Hasol regarda son amie.
+
+Elle aurait pu lui dire que ce n'était pas la bonne question.
+
+Qu'aucune vengeance ne lui rendrait sa famille.
+
+Qu'il fallait prendre le temps de pleurer.
+
+Mais elle savait à quel point ces mots lui auraient semblé vides lorsqu'Iseria était morte.
+
+Elle prit doucement la main de Samia.
+
+— Je ne sais pas.
+
+Samia baissa les yeux.
+
+— Alors je veux venir avec toi.
+
+— Tu es déjà dans l'équipe.
+
+— Non.
+
+Elle releva la tête.
+
+— Je veux être là pour tous les portails que nous pourrons trouver.
+
+Hasol resta silencieuse.
+
+— Je ne veux plus entendre qu'il était trop tard.
+
+Le vent souleva quelques mèches blondes autour de son visage.
+
+— Je ne veux plus qu'un village disparaisse pendant que nous attendons des informations.
+
+Hasol serra sa main.
+
+— D'accord.
+
+Lorsque Yoon les rejoignit, elle trouva les deux femmes assises côte à côte.
+
+Aucune ne pleurait.
+
+Et pour la première fois depuis qu'elle connaissait Samia, elle ne vit pas la moindre trace de sourire sur son visage.
+
+## IV. Deux colères
+
+Le retour à la capitale fut silencieux.
+
+Samia demanda quelques jours pour régler les affaires de sa famille.
+
+Yoon l'accompagna.
+
+Elles passèrent du temps auprès des survivants, aidèrent à transporter ce qui pouvait encore l'être et participèrent à l'organisation d'un lieu où les habitants pourraient retrouver leurs proches.
+
+Samia ne refusa aucune tâche.
+
+Elle travaillait.
+
+Rangeait.
+
+Cherchait.
+
+Portait des caisses.
+
+Répondait aux questions qu'on lui posait.
+
+Mais sa manière de parler avait changé.
+
+Les plaisanteries avaient disparu.
+
+Même lorsqu'un enfant survivant lui adressa un sourire, elle ne parvint qu'à lui caresser brièvement les cheveux.
+
+Yoon remarqua tout cela.
+
+Elle ne fit aucun commentaire.
+
+Mais le soir, lorsqu'elles furent seules, elle demanda :
+
+— Tu veux parler de ta tante ?
+
+Samia rangeait des vêtements dans une malle.
+
+— Pas maintenant.
+
+— Tu dis ça depuis trois jours.
+
+— Alors tu sais ce que je vais répondre.
+
+Yoon resta immobile.
+
+Samia s'arrêta.
+
+Elle vit l'expression de son amie.
+
+— Excuse-moi.
+
+— Tu n'as pas besoin de t'excuser.
+
+— Si.
+
+Elle referma la malle.
+
+Puis s'assit.
+
+— Je ne voulais pas te parler comme ça.
+
+Yoon la rejoignit.
+
+— Je sais.
+
+Samia baissa la tête.
+
+— J'entends encore sa voix.
+
+Yoon attendit.
+
+— Parfois, pendant quelques secondes, j'oublie.
+
+Ses doigts tremblèrent.
+
+— Je me dis que je vais lui écrire. Ou que je devrais aller la voir.
+
+Elle inspira difficilement.
+
+— Et puis je me souviens.
+
+Yoon lui prit la main.
+
+Cette fois, Samia se laissa aller contre son épaule.
+
+Mais elle ne pleura pas.
+
+Ses larmes semblaient épuisées.
+
+Une semaine plus tard, Samia se présenta chez Hasol avec plusieurs cartes.
+
+Elle avait cerné les emplacements des derniers portails connus.
+
+Les blancs.
+
+Les verts.
+
+Les bleus.
+
+Elle posa les documents sur la table du bureau.
+
+— J'ai comparé les rapports.
+
+Hasol les examina.
+
+— Qu'est-ce que tu cherches ?
+
+— Une façon de les trouver avant les guildes.
+
+— Les apparitions sont imprévisibles.
+
+— Pour nous, oui.
+
+Samia déplia une autre carte.
+
+— Mais certaines personnes les ressentent à l'avance.
+
+Hasol acquiesça.
+
+Elle connaissait les récits concernant ces rares individus capables de pressentir une brèche plusieurs heures avant sa manifestation.
+
+Elle-même ne possédait pas cette aptitude.
+
+Ni son Œil runique ni ses autres compétences ne lui permettaient de prévoir l'apparition d'un portail.
+
+— Les spécialistes de la guilde ne suffisent pas toujours, poursuivit Samia.
+
+— Je sais.
+
+— Ils sont peu nombreux. Et lorsqu'ils annoncent une localisation, il reste encore à envoyer les informations à toutes les équipes.
+
+Elle désigna les villages entourés de rouge.
+
+— Alors il nous faut mieux.
+
+Hasol contempla les marques.
+
+Elle pensa à Iseria.
+
+À sa forêt.
+
+Puis au village de Samia.
+
+Elle sentit revenir cette colère familière qui ne l'avait jamais vraiment quittée.
+
+— Nous allons chercher.
+
+Samia releva les yeux.
+
+— Ensemble ?
+
+Hasol acquiesça.
+
+— Ensemble.
+
+Lorsque Zio entra dans le bureau un peu plus tard, il les trouva penchées sur les cartes.
+
+Elles parlaient déjà des prochaines interventions.
+
+Il s'arrêta dans l'encadrement de la porte.
+
+Puis regarda son épouse.
+
+Elle lui adressa un bref sourire.
+
+— Samia pense que nous pouvons améliorer notre manière de repérer les portails.
+
+Zio contempla les documents.
+
+Les régions entourées.
+
+Les horaires.
+
+Les routes.
+
+Il comprit immédiatement ce qu'elles préparaient.
+
+— Vous avez dormi cette nuit ?
+
+Hasol hésita.
+
+Samia répondit :
+
+— Un peu.
+
+Zio ferma les yeux.
+
+— Ce n'est pas rassurant.
+
+Aucune des deux ne rit.
+
+Il s'en rendit compte.
+
+Et quelque chose se serra dans sa poitrine.
+
+## V. Le niveau quarante
+
+Les mois suivants furent une succession de combats.
+
+Les portails blancs continuaient d'apparaître, parfois dans des régions déjà touchées.
+
+Les verts se multipliaient.
+
+Et les bleus forçaient les guildes à mobiliser leurs meilleurs chasseurs.
+
+Hasol avait toujours progressé plus lentement que ses compagnons.
+
+Sa rareté légendaire exigeait davantage d'expérience pour chaque niveau, et ses responsabilités artisanales lui avaient longtemps imposé de partager son temps entre les contrats, les expéditions et la demeure Shun.
+
+Mais désormais, elle chassait presque sans relâche.
+
+Les interventions lui rapportaient de l'expérience.
+
+Les boss de portail représentaient des adversaires particulièrement intéressants.
+
+Elle continua de progresser.
+
+Lentement.
+
+Jusqu'à ce qu'un matin, au cours d'une opération contre un portail bleu, elle atteigne enfin le seuil qu'elle attendait depuis si longtemps.
+
+Le combat avait commencé depuis près d'une heure.
+
+Les formations engagées dans l'intervention tenaient encore leur position, mais les démons étaient nombreux.
+
+Un groupe de créatures de niveau trente venait de franchir le portail.
+
+Zio leva son bouclier.
+
+— Ils arrivent !
+
+Samia décocha une flèche.
+
+Ray lança un Trait incandescent.
+
+Hasol se déplaça sur le flanc du groupe.
+
+Sa lame frappa le premier démon.
+
+Puis le deuxième.
+
+Un troisième tenta de la saisir.
+
+Elle pivota et trancha sa gorge.
+
+La créature s'effondra.
+
+Un tintement cristallin résonna.
+
+Hasol s'arrêta une fraction de seconde.
+
+Elle connaissait ce son.
+
+Une montée de niveau.
+
+<div class="system-window lit-window" data-window-id="C15-F02" data-window-type="niveau">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F02-mobile.svg">
+    <img src="assets/fenetres/C15-F02.svg" alt="Fenêtre du système — SYSTÈME — PROGRESSION">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — PROGRESSION
+  </div>
+  <h3>Niveau 40 atteint</h3>
+  <p>Hasol Shun · Arcaniste runique</p>
+  <p>Nouvelle compétence débloquée</p>
+  <h3>Siphon runique</h3>
+  </details>
+</div>
+
+Hasol fixa la fenêtre.
+
+*Niveau quarante.*
+
+Pendant des années, elle avait attendu ce moment.
+
+Depuis sa Révélation, elle possédait une immense Puissance arcanique et une réserve de Mana largement supérieure à ce qu'on attendait d'une classe de soutien.
+
+Mais elle n'avait jamais reçu de véritable sort offensif.
+
+Elle s'était battue avec son épée.
+
+Avec ses runes.
+
+Avec Aura runique et Infiltration runique.
+
+Et maintenant…
+
+Elle ouvrit la description.
+
+<div class="system-window lit-window" data-window-id="C15-F03" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F03-mobile.svg">
+    <img src="assets/fenetres/C15-F03.svg" alt="Fenêtre du système — Siphon runique">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    Siphon runique
+  </div>
+  <p>Élément Vent · Attaque de zone · Vol de Mana</p>
+  <p>Déploie une tempête de Vent imprégnée d&#x27;inscriptions runiques. Les ennemis atteints subissent des dégâts magiques déterminés par la Puissance arcanique effective du lanceur.</p>
+  <p>Le sort absorbe une partie du Mana disponible chez les cibles touchées et le transfère au lanceur, dans la limite de sa réserve maximale et de la capacité d&#x27;absorption de la compétence.</p>
+  <p>Temps de recharge</p>
+  <p>Oui</p>
+  </details>
+</div>
+
+Hasol sentit son cœur accélérer.
+
+Un sort offensif.
+
+Enfin.
+
+— Hasol !
+
+La voix de Zio la ramena brutalement au combat.
+
+Un démon approchait.
+
+Elle esquiva sa première attaque.
+
+Puis leva la main.
+
+Une sensation nouvelle parcourut ses cercles de Mana.
+
+Ce n'était pas Aura runique.
+
+Elle n'avait pas besoin de sacrifier une pierre.
+
+Le sort semblait demander qu'elle organise sa Puissance arcanique autrement, en concentrant son Mana autour d'un point dans l'espace.
+
+Elle choisit un groupe de démons qui approchait devant elle.
+
+— Siphon runique !
+
+Une spirale turquoise apparut.
+
+Des inscriptions runiques tourbillonnèrent dans le courant.
+
+Puis le vent se déploya brutalement.
+
+Plusieurs démons furent frappés en même temps.
+
+Deux s'effondrèrent.
+
+D'autres reculèrent, blessés.
+
+Hasol sentit aussitôt quelque chose revenir vers elle.
+
+Un courant invisible.
+
+Une énergie qui ne provenait pas de ses propres réserves.
+
+Le Mana des démons.
+
+Il afflua dans ses cercles.
+
+Elle ouvrit de grands yeux.
+
+— Qu'est-ce que…
+
+Ray, qui avait observé la scène, resta bouche bée.
+
+— Hasol !
+
+Elle tourna brièvement la tête.
+
+— Quoi ?
+
+— Tu viens de lancer un sort de zone !
+
+— Je sais !
+
+— Et tu viens de récupérer du Mana !
+
+Hasol regarda sa réserve.
+
+Il avait raison.
+
+Une partie de ce qu'elle venait de dépenser lui avait été restituée.
+
+Elle sourit malgré elle.
+
+Un véritable sourire de surprise.
+
+Puis son regard retourna vers les démons.
+
+— Je vais recommencer.
+
+Elle leva la main.
+
+Mais la compétence ne répondit pas.
+
+Une indication du système apparut.
+
+<div class="system-window lit-window" data-window-id="C15-F04" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F04-mobile.svg">
+    <img src="assets/fenetres/C15-F04.svg" alt="Fenêtre du système — Siphon runique">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    Siphon runique
+  </div>
+  <p>Recharge en cours.</p>
+  </details>
+</div>
+
+Hasol fronça les sourcils.
+
+— Ah.
+
+Ray eut un rire stupéfait.
+
+— Tu viens à peine de l'obtenir !
+
+— Je vérifie.
+
+— Tu vérifies quoi ?
+
+— Ses limites.
+
+Zio repoussa un démon qui tentait de s'approcher.
+
+— Vous pourrez discuter des limites après le combat !
+
+Hasol reprit son épée.
+
+— D'accord !
+
+Elle se remit en mouvement.
+
+Mais dans son esprit, une idée commençait déjà à prendre forme.
+
+*Du Mana récupéré sur plusieurs ennemis…*
+
+Elle pensa à ses réserves de runes.
+
+Aux dépenses répétées d'Aura runique.
+
+Aux critiques qu'elle cherchait parfois pendant plusieurs activations.
+
+Et comprit.
+
+Ce nouveau sort ne lui apportait pas seulement un moyen de combattre à distance.
+
+Il pouvait transformer toute sa manière de se battre.
+
+Ils terminèrent l'intervention avec l'aide de l'autre formation.
+
+Le boss de niveau cinquante fut vaincu au terme d'un affrontement difficile.
+
+Lorsque le portail disparut, Ray se précipita vers Hasol.
+
+— Montre-moi.
+
+Elle le regarda.
+
+— Quoi ?
+
+— Ton nouveau sort !
+
+— Tu viens de le voir.
+
+— Je veux comprendre comment il fonctionne !
+
+Il ajusta ses lunettes.
+
+— Tu réalises ce que ça signifie ? Une attaque qui inflige des dégâts et qui reconstitue ta réserve de Mana ?
+
+Hasol sourit faiblement.
+
+— Je commence à le comprendre.
+
+— J'ai huit cercles, une classe de Mage de feu, et je passe mon temps à économiser mon Mana.
+
+Il leva les bras.
+
+— Toi, tu attends le niveau quarante pour obtenir ton premier sort offensif et il te permet de voler celui des autres !
+
+Samia, qui rangeait ses flèches, leva les yeux.
+
+— Tu as l'air jaloux, Ray.
+
+— Je suis jaloux.
+
+Yoon rit doucement.
+
+— Au moins, il est honnête.
+
+Hasol contempla sa main.
+
+Autrefois, elle aurait sauté de joie.
+
+Elle aurait couru jusqu'à la demeure Shun pour tout raconter à Iseria.
+
+Sa mère lui aurait demandé de recommencer l'explication depuis le début.
+
+Puis lui aurait préparé une tasse de thé.
+
+Hasol sentit sa gorge se serrer.
+
+Son sourire disparut.
+
+Zio remarqua immédiatement le changement.
+
+Il s'approcha.
+
+— Hé.
+
+Elle releva les yeux.
+
+— Quoi ?
+
+— Félicitations, ma princesse.
+
+Il lui prit doucement la main.
+
+— Tu l'as enfin obtenu.
+
+Hasol acquiesça.
+
+— Oui.
+
+Elle regarda de nouveau les traces de la bataille.
+
+— Maintenant, il faut que j'apprenne à bien m'en servir.
+
+## VI. Apprendre à voler le vent
+
+Les premières semaines furent consacrées à l'apprentissage de Siphon runique.
+
+Hasol découvrit rapidement que la compétence n'était pas aussi simple qu'elle l'avait imaginé.
+
+La zone d'effet exigeait un placement précis.
+
+Lorsque les ennemis étaient trop dispersés, le sort perdait une partie de son intérêt.
+
+Lorsqu'ils se trouvaient trop près des chasseurs alliés, elle devait choisir un autre angle plutôt que risquer une attaque mal dirigée.
+
+Et surtout, le Mana volé dépendait réellement des réserves de ses adversaires.
+
+Face à plusieurs monstres disposant encore de beaucoup de Mana, la récupération était remarquable.
+
+Face à des créatures presque épuisées, elle devenait beaucoup plus faible.
+
+Certaines n'avaient pratiquement rien à lui offrir.
+
+Le plafond d'absorption empêchait également Hasol de récupérer une quantité illimitée de Mana, même lorsqu'elle touchait une horde entière.
+
+Elle devait donc observer.
+
+Attendre.
+
+Et choisir le moment le plus rentable.
+
+Ray se montra particulièrement intéressé par ses essais.
+
+Il l'accompagna plusieurs fois sur un terrain d'entraînement où ils pouvaient tester les manifestations du Vent sans risquer de blesser leurs compagnons.
+
+Il prenait des notes.
+
+Beaucoup de notes.
+
+— Tu as remarqué que le sort est plus intéressant lorsque tu atteins plusieurs cibles en même temps ?
+
+Hasol lui lança un regard.
+
+— Oui, Ray.
+
+— Et que les réserves de Mana disponibles influencent directement ta récupération ?
+
+— Oui.
+
+— Et que ton équipement Arcanique augmente considérablement les dégâts ?
+
+Elle croisa les bras.
+
+— Tu veux peut-être que je te laisse faire les essais à ma place ?
+
+Ray réfléchit.
+
+— Si c'était possible, oui.
+
+Hasol finit par rire.
+
+Une seconde.
+
+Puis deux.
+
+Zio, qui observait la séance depuis un banc, sourit.
+
+Il n'avait pas entendu son épouse rire aussi spontanément depuis longtemps.
+
+La véritable découverte vint pendant une intervention contre un portail blanc.
+
+Hasol se retrouva face à une large vague de démons.
+
+Elle lança Siphon runique.
+
+Une spirale de Vent turquoise traversa les premières lignes.
+
+Plusieurs monstres s'effondrèrent.
+
+D'autres furent blessés.
+
+Le Mana récupéré remplit une partie de la réserve qu'elle venait de dépenser.
+
+Hasol regarda ses cercles.
+
+Puis son Anneau runique.
+
+Une idée lui traversa l'esprit.
+
+Elle sélectionna une rune ordinaire.
+
+— Aura runique.
+
+La pierre fut sacrifiée.
+
+L'enchantement apparut sur son épée.
+
+Pas de critique.
+
+Hasol en sélectionna une seconde.
+
+— Aura runique.
+
+Nouvelle dépense de deux cents Mana.
+
+Nouvelle rune détruite.
+
+Toujours pas de critique.
+
+Elle recommença.
+
+Une troisième fois.
+
+Puis une quatrième.
+
+Cette fois, les inscriptions de son épée brillèrent intensément.
+
+Un signal du système traversa sa vision.
+
+*Infiltration runique — trente secondes.*
+
+Hasol leva les yeux.
+
+— Zio !
+
+Il se tourna.
+
+— Je vois !
+
+Il força un démon à reculer, ouvrant un passage vers le boss.
+
+Hasol s'élança.
+
+Pendant trente secondes, ses coups bénéficiaient du plancher de dégâts accordé par sa Puissance arcanique effective.
+
+Son équipement Arcanique à +15 rendait cette propriété redoutable.
+
+Elle frappa.
+
+Changea de position.
+
+Frappa de nouveau.
+
+Le boss tenta de se défendre.
+
+Zio détourna son attention.
+
+Samia atteignit l'une de ses articulations.
+
+Hasol exploita l'ouverture.
+
+Quelques instants plus tard, la créature s'effondra.
+
+Le portail blanc se referma.
+
+Hasol resta immobile.
+
+Puis regarda sa réserve de Mana.
+
+Elle avait dépensé une quantité importante pour ses activations successives.
+
+Mais une partie de ces dépenses avait été compensée par le Siphon.
+
+Et son stock de runes ordinaires demeurait considérable.
+
+Elle sourit légèrement.
+
+— Ça fonctionne.
+
+Ray, qui venait de rejoindre le groupe, observa les pierres consumées.
+
+— Tu as vraiment décidé de transformer tes runes en carburant.
+
+— C'est une manière de voir les choses.
+
+— Une manière coûteuse.
+
+— Pas pour moi.
+
+Samia contempla l'endroit où le portail avait disparu.
+
+— Combien de temps avons-nous mis ?
+
+Zio consulta le relevé.
+
+— Beaucoup moins que lors de nos premières interventions.
+
+Elle acquiesça.
+
+Puis regarda Hasol.
+
+— Nous pouvons aller plus vite.
+
+Hasol ne répondit pas immédiatement.
+
+Elle observait déjà une nouvelle possibilité.
+
+Avec Siphon runique, les groupes de monstres pouvaient être éliminés beaucoup plus rapidement.
+
+Avec le Mana récupéré, elle pouvait multiplier les activations d'Aura runique.
+
+Et grâce à Infiltration runique, elle pouvait infliger des dégâts redoutables aux boss.
+
+Ce n'était pas une combinaison infaillible.
+
+Le temps de recharge du Siphon demeurait une contrainte.
+
+Les critiques n'étaient jamais garantis.
+
+Le Mana des ennemis pouvait s'épuiser.
+
+Et ses propres réserves ne supprimaient ni la fatigue ni les blessures.
+
+Mais pour les portails blancs, elle venait de découvrir une méthode d'une efficacité remarquable.
+
+— Oui, répondit-elle enfin.
+
+Elle regarda Samia.
+
+— Nous pouvons aller beaucoup plus vite.
+
+## VII. Présage des failles
+
+La nouvelle compétence de Samia se manifesta plusieurs semaines plus tard.
+
+Elle était seule dans sa chambre lorsqu'une sensation étrange lui traversa la poitrine.
+
+Ce n'était pas une douleur.
+
+Plutôt une impression de déséquilibre.
+
+Comme si quelque chose, très loin, venait de tirer sur un fil invisible.
+
+Samia interrompit immédiatement son travail.
+
+Elle leva les yeux.
+
+La sensation persistait.
+
+Elle essaya de l'ignorer.
+
+Mais quelque chose en elle semblait insister.
+
+Une direction.
+
+Une région.
+
+Un endroit qu'elle n'avait pourtant aucune raison de regarder.
+
+Elle se leva et déplia une carte.
+
+Son doigt suivit les routes.
+
+Puis s'arrêta au-dessus d'une vallée située à l'est.
+
+Samia contempla cet emplacement.
+
+— Pourquoi là… ?
+
+Un tintement cristallin résonna.
+
+<div class="system-window lit-window" data-window-id="C15-F05" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F05-mobile.svg">
+    <img src="assets/fenetres/C15-F05.svg" alt="Fenêtre du système — SYSTÈME — COMPÉTENCE DÉBLOQUÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — COMPÉTENCE DÉBLOQUÉE
+  </div>
+  <h3>Présage des failles</h3>
+  <p>Samia Claire · Ranger · Rareté commune</p>
+  <p>Compétence passive</p>
+  <p>Permet de ressentir l&#x27;apparition prochaine de portails démoniaques et d&#x27;en localiser approximativement la zone avant leur manifestation.</p>
+  <p>Fenêtre de prévision : environ dix heures avant l&#x27;apparition physique.</p>
+  </details>
+</div>
+
+Samia resta immobile.
+
+Elle relut la notification.
+
+Puis regarda la carte.
+
+La vallée.
+
+L'est.
+
+Cette sensation insistante.
+
+Son cœur se mit à battre plus vite.
+
+— Un portail…
+
+Elle saisit immédiatement son manteau.
+
+Hasol ouvrit la porte de son bureau lorsque Samia frappa.
+
+— Qu'est-ce qu'il y a ?
+
+La Ranger entra sans même retirer sa cape.
+
+— J'ai trouvé quelque chose.
+
+Elle déplia sa carte sur le bureau.
+
+— Ici.
+
+Hasol observa l'endroit indiqué.
+
+— Il n'y a aucun signalement.
+
+— Je sais.
+
+— Alors comment…
+
+— J'ai obtenu un nouveau passif.
+
+Hasol releva brusquement les yeux.
+
+Samia lui montra la notification.
+
+Pendant plusieurs secondes, elle ne dit rien.
+
+Puis elle murmura :
+
+— Tu peux sentir les portails avant leur apparition ?
+
+Samia acquiesça.
+
+— Environ dix heures avant.
+
+— Et tu peux trouver leur emplacement ?
+
+— La zone. Pas un point parfaitement exact.
+
+Elle désigna la vallée.
+
+— Mais je suis certaine que quelque chose va apparaître là-bas.
+
+Hasol regarda de nouveau la carte.
+
+Son cœur accéléra.
+
+Une dizaine d'heures avant la manifestation.
+
+Puis quarante-huit heures supplémentaires avant l'ouverture du portail.
+
+Cela leur laisserait le temps d'avertir les habitants.
+
+D'organiser les routes.
+
+De demander des renforts lorsque la couleur l'exigeait.
+
+Elle leva les yeux vers son amie.
+
+— Nous devons vérifier.
+
+Samia acquiesça.
+
+— Immédiatement.
+
+Zio insista pour les accompagner.
+
+Ray et Yoon furent prévenus.
+
+Ils partirent ensemble.
+
+La vallée était paisible lorsqu'ils arrivèrent.
+
+Quelques fermes occupaient les pentes.
+
+Des voyageurs traversaient la route principale.
+
+Aucune distorsion magique n'était visible.
+
+Hasol observa Samia.
+
+— Tu le sens toujours ?
+
+— Oui.
+
+La Ranger regarda vers un bosquet au pied de la colline.
+
+— Par là.
+
+Ils suivirent son indication.
+
+Puis attendirent.
+
+Les heures s'écoulèrent.
+
+Ray commença à examiner ses relevés.
+
+Yoon discuta avec les habitants les plus proches, sans provoquer de panique.
+
+Zio prépara un itinéraire d'évacuation.
+
+Hasol étudia le terrain.
+
+Samia, elle, ne quittait presque pas le bosquet des yeux.
+
+Puis, alors que le délai approchait de dix heures depuis la première sensation, l'air commença à vibrer.
+
+Une lumière apparut.
+
+Une brèche se dessina entre les arbres.
+
+Un portail blanc.
+
+Hasol ouvrit de grands yeux.
+
+Ray resta bouche bée.
+
+Zio regarda Samia.
+
+La Ranger ne bougea pas.
+
+Elle contempla le portail.
+
+Puis murmura :
+
+— J'avais raison.
+
+Yoon s'approcha.
+
+— Samia…
+
+Mais la Ranger ne la regardait plus.
+
+Ses yeux étaient fixés sur la brèche.
+
+— Nous avons presque deux jours pour préparer l'ouverture.
+
+Hasol acquiesça lentement.
+
+— Oui.
+
+Samia serra les poings.
+
+— Cette fois, personne ne pourra dire qu'il ne savait pas.
+
+Le portail fut surveillé jusqu'à son ouverture.
+
+Les habitants furent évacués.
+
+Les chasseurs préparèrent leurs positions.
+
+Lorsque les premiers démons apparurent, ils les attendaient.
+
+Aucun village ne fut surpris.
+
+Aucune famille ne dut fuir sans avertissement.
+
+Le boss fut éliminé.
+
+Puis les derniers démons sortis furent traqués avant qu'ils puissent atteindre les routes.
+
+Lorsque l'intervention s'acheva, l'officier responsable félicita les chasseurs.
+
+— Sans votre signalement, nous aurions peut-être découvert ce portail trop tard.
+
+Samia resta silencieuse.
+
+Hasol posa doucement une main sur son épaule.
+
+— Tu as sauvé des gens.
+
+Samia contempla les fermes intactes.
+
+— Oui.
+
+Puis son regard se durcit.
+
+— Alors trouvons le suivant.
+
+## VIII. Les traqueuses
+
+Le nouveau pouvoir de Samia transforma l'organisation de leur équipe.
+
+Jusqu'alors, les guildes annonçaient les portails dès qu'elles obtenaient des informations.
+
+Les chasseurs étaient mobilisés.
+
+Les formations se constituaient.
+
+Et Hasol attendait que les responsables leur attribuent une intervention.
+
+Désormais, Samia pouvait ressentir les apparitions futures.
+
+Elle affinait leur localisation à partir de ses observations.
+
+Elle confrontait ses impressions aux cartes.
+
+Puis transmettait les informations nécessaires.
+
+Le groupe n'avait plus besoin d'attendre qu'une guilde découvre un portail pour connaître sa position.
+
+En revanche, les guildes restaient indispensables pour organiser les évacuations et réunir des renforts contre les menaces les plus dangereuses.
+
+Samia le savait.
+
+Elle ne cherchait pas à ignorer les autres chasseurs.
+
+Elle voulait simplement qu'aucune heure ne soit perdue.
+
+Hasol partageait entièrement cette détermination.
+
+Les premières semaines furent impressionnantes.
+
+Samia annonçait une apparition.
+
+Hasol préparait les runes et les matériaux.
+
+Zio étudiait la meilleure manière d'approcher la zone.
+
+Ray vérifiait les routes.
+
+Yoon organisait les soins et les renforts nécessaires.
+
+Puis ils partaient.
+
+Les portails blancs étaient désormais des interventions relativement rapides pour leur équipe lorsque le terrain s'y prêtait.
+
+Hasol utilisait Siphon runique sur les groupes de démons.
+
+Ses sorts de Vent éliminaient plusieurs ennemis en une seule activation.
+
+Le Mana récupéré l'aidait à financer de nouvelles tentatives d'Aura runique.
+
+Et lorsqu'elle obtenait Infiltration runique, les boss de niveau trente résistaient rarement longtemps à l'ensemble de leurs attaques.
+
+Les portails verts demandaient davantage de prudence.
+
+Les bleus restaient dangereux et exigeaient souvent des formations plus importantes.
+
+Mais leur efficacité augmentait.
+
+Leur réputation aussi.
+
+Un soir, après avoir fermé un portail blanc avec Zio et Samia, Hasol consulta son compteur.
+
+Il avait dépassé les trois mille éliminations personnelles de monstres de portails.
+
+Elle contempla le chiffre.
+
+Trois mille.
+
+Trois mille créatures qui ne pourraient plus s'attaquer à des habitants.
+
+Trois mille démons éliminés depuis la première notification mondiale.
+
+Elle se souvint de la fenêtre apparue au milieu de la nuit, lorsque Zio l'avait serrée contre lui pour la rassurer.
+
+À l'époque, cinq mille lui avaient semblé un nombre presque inconcevable.
+
+Aujourd'hui, elle s'en rapprochait.
+
+Samia vint la rejoindre.
+
+— J'ai une autre localisation.
+
+Zio leva les yeux.
+
+— Déjà ?
+
+— Oui.
+
+Elle posa une carte sur la table.
+
+— Un portail devrait apparaître demain matin dans cette région.
+
+Hasol observa le secteur.
+
+— Blanc ou vert ?
+
+— Je ne connais pas encore la couleur. Mon passif me donne la localisation, pas toutes les caractéristiques.
+
+Zio se frotta le visage.
+
+— Nous venons de terminer une intervention.
+
+— Je sais.
+
+— Et vous avez besoin de repos.
+
+Samia ne répondit pas.
+
+Elle regarda simplement Hasol.
+
+— Nous pouvons partir à l'aube.
+
+Hasol examina la carte.
+
+Puis acquiesça.
+
+— D'accord.
+
+Zio ferma les yeux.
+
+Il aurait voulu protester.
+
+Leur rappeler qu'ils avaient déjà passé une grande partie de la journée à combattre.
+
+Qu'aucun d'eux ne pouvait continuer ainsi éternellement.
+
+Mais il connaissait aussi les conséquences d'un portail ignoré.
+
+Et ni Hasol ni Samia n'avaient oublié les leurs.
+
+Les mois passèrent.
+
+L'équipe traversa des vallées.
+
+Des villages.
+
+Des régions montagneuses.
+
+Des routes commerciales.
+
+Elle participa à des interventions où plusieurs formations de chasseurs étaient nécessaires.
+
+À d'autres où trois compagnons suffisaient.
+
+Hasol continua de gagner de l'expérience.
+
+Son niveau progressait lentement.
+
+Mais le compteur des portails, lui, montait beaucoup plus vite.
+
+Chaque élimination personnelle était comptabilisée.
+
+Pas les monstres abattus par Ray.
+
+Pas ceux que Samia achevait d'une flèche.
+
+Pas ceux qui mouraient sous les attaques de Zio ou des autres chasseurs.
+
+Seulement les créatures réellement vaincues par Hasol.
+
+Et son Siphon runique lui permettait désormais d'en abattre plusieurs à la fois.
+
+Un matin, pendant une opération particulièrement longue, une notification apparut.
+
+<div class="system-window lit-window" data-window-id="C15-F06" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F06-mobile.svg">
+    <img src="assets/fenetres/C15-F06.svg" alt="Fenêtre du système — SYSTÈME — CROISSANCE RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — CROISSANCE RUNIQUE
+  </div>
+  <h3>Palier des portails atteint</h3>
+  <p>Démons vaincus personnellement</p>
+  <p>5 000</p>
+  <p>+1 cercle de Mana</p>
+  <p>+1 emplacement runique</p>
+  <h3>14 → 15 cercles</h3>
+  </details>
+</div>
+
+Hasol sentit un nouveau cercle se former.
+
+Son Mana circula autour d'elle.
+
+Une lumière turquoise apparut brièvement.
+
+Puis disparut.
+
+— Hasol ! lança Yoon.
+
+La Sage avait aperçu la manifestation.
+
+— Tu as gagné un cercle !
+
+Ray leva la tête.
+
+— Quinze ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Zio sourit.
+
+— Félicitations.
+
+Samia s'approcha.
+
+Elle contempla le nouveau cercle.
+
+Puis la zone où le portail venait de disparaître.
+
+— Cinq mille, murmura-t-elle.
+
+Hasol la regarda.
+
+— Oui.
+
+Samia déplia sa carte.
+
+— Alors il nous en reste encore cinq mille.
+
+Zio tourna lentement la tête vers elle.
+
+— Samia…
+
+La Ranger leva les yeux.
+
+— Quoi ?
+
+Il hésita.
+
+Puis secoua la tête.
+
+— Rien.
+
+Hasol regarda son nouveau cercle.
+
+Elle pensa à la rune Énergie six étoiles, rare (bleue) à l’origine, désormais légendaire (orange) et améliorée à +15, qu'elle avait préparée pour ce moment.
+
+Elle pourrait l'équiper dès son retour.
+
+Mais au lieu de se réjouir, elle demanda :
+
+— Où se trouve la prochaine brèche ?
+
+Samia posa immédiatement le doigt sur la carte.
+
+Zio contempla les deux femmes.
+
+Elles venaient de gagner un nouveau pouvoir.
+
+Et leur première pensée était déjà de repartir.
+
+## IX. Une table pour cinq
+
+Le quinzième cercle fut équipé le soir même.
+
+Hasol avait préparé une rune Énergie rare (bleue) à l'origine, désormais légendaire (orange), six étoiles et améliorée à +15.
+
+Elle l'installa dans son nouvel emplacement, sans modifier ses quatorze runes précédentes.
+
+Ses deux cadeaux paternels demeuraient équipés.
+
+Ses ensembles Fatal, Arcanique, Vitesse et Gardien restaient actifs.
+
+La nouvelle rune Énergie lui apportait ses propres caractéristiques, mais elle ne possédait pas encore la seconde pièce nécessaire pour activer le bonus de l'ensemble.
+
+Orven vint vérifier l'opération.
+
+Il contempla les quinze cercles avec une admiration qu'il ne chercha même pas à cacher.
+
+— Tu te rends compte de ce que tu as accompli ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Il attendit.
+
+Elle referma son interface.
+
+— Je dois encore préparer des runes pour Aura.
+
+Le sourire d'Orven s'effaça légèrement.
+
+Il avait connu une jeune fille qui aurait passé une soirée entière à examiner son nouveau cercle.
+
+Qui aurait voulu comparer ses caractéristiques avant et après l'équipement.
+
+Qui lui aurait posé tant de questions qu'il aurait fini par lui ordonner de rentrer dormir.
+
+Cette jeune fille était toujours là.
+
+Mais quelque chose avait changé.
+
+Et le vieil artisan n'était pas certain de savoir comment la retrouver.
+
+— Hasol.
+
+Elle releva la tête.
+
+— Oui, maître ?
+
+Il hésita.
+
+Puis désigna les deux runes qu'Armin lui avait offertes lorsqu'elle était enfant.
+
+— Ton père aurait été très fier de voir ce que tu es devenue.
+
+Hasol baissa les yeux vers les pierres.
+
+La Fatal.
+
+La Gardien.
+
+Toutes deux améliorées à +15.
+
+Toutes deux toujours équipées.
+
+Elle les avait conservées malgré les occasions de les remplacer.
+
+— Je sais, murmura-t-elle.
+
+Orven regarda son ancienne élève.
+
+— Il aurait sans doute aussi voulu te voir profiter un peu de la vie qu'il a essayé de construire pour toi.
+
+Hasol demeura silencieuse.
+
+Elle pensa à son père.
+
+Puis à Iseria.
+
+Et pendant quelques secondes, elle fut incapable de regarder Orven.
+
+Les responsabilités d'Hasol n'avaient pas disparu avec les portails.
+
+L'entreprise familiale continuait de recevoir des commandes.
+
+Les clients attendaient leurs améliorations.
+
+Les employés avaient besoin de décisions.
+
+Les ateliers consommaient des pierres de Mana et des matériaux dont les prix augmentaient avec les nouvelles mobilisations.
+
+Au début, Hasol avait essayé de tout gérer elle-même.
+
+Puis Zio l'avait trouvée, un soir, endormie devant un registre commercial qu'elle n'avait même pas eu le temps de refermer.
+
+Le lendemain, il avait demandé à rencontrer les responsables de ses activités.
+
+Ensemble, ils avaient organisé davantage de délégations.
+
+Les employés expérimentés pouvaient prendre certaines décisions sans attendre qu'Hasol revienne d'expédition.
+
+Les contrats particulièrement complexes lui étaient réservés.
+
+Les autres étaient traités selon les procédures qu'elle avait déjà établies.
+
+Hasol continua de participer au travail.
+
+Mais ses absences devinrent plus fréquentes.
+
+Et de plus en plus longues.
+
+Un soir, les cinq compagnons se retrouvèrent autour d'une table à la demeure Shun.
+
+Ray avait apporté plusieurs rapports.
+
+Yoon examinait les prochaines missions.
+
+Samia avait disposé ses cartes devant elle.
+
+Zio, lui, avait surtout insisté pour qu'ils commencent par manger.
+
+— Les documents peuvent attendre une demi-heure, déclara-t-il.
+
+— Pas tous, répondit Samia.
+
+— Ceux-là, si.
+
+Elle leva les yeux.
+
+— Tu ne sais pas ce qu'ils contiennent.
+
+— Je sais qu'il y a une assiette devant toi.
+
+Ray observa la table.
+
+— Techniquement, une carte occupe la moitié de son assiette.
+
+Zio lui lança un regard reconnaissant.
+
+— Merci.
+
+Samia déplaça finalement le document.
+
+Mais elle ne sourit pas.
+
+Yoon le remarqua.
+
+Elle avait cessé de compter les journées depuis la dernière fois où son amie avait véritablement ri.
+
+Elle essaya de relancer une conversation plus légère.
+
+— J'ai atteint le niveau cinquante.
+
+Ray releva immédiatement la tête.
+
+— Tu ne nous l'avais pas encore dit !
+
+Yoon sourit.
+
+— Nous n'avons pas vraiment eu le temps.
+
+Hasol posa sa tasse.
+
+— Tu as débloqué quelque chose ?
+
+— Oui.
+
+Pour la première fois depuis le début du repas, la Sage sembla retrouver une partie de son enthousiasme habituel.
+
+— Tempête arcanique.
+
+Elle expliqua qu'elle pouvait désormais poser un cercle runique rouge capable d'infliger des dégâts sur la durée aux ennemis pris dans sa zone.
+
+Ce n'était pas un remplacement de ses soins.
+
+Ni de ses Entraves.
+
+C'était une nouvelle manière de contribuer aux combats tout en conservant son rôle de soutien.
+
+Hasol se redressa légèrement.
+
+— Tu l'as déjà essayé ?
+
+— Une fois. Avec prudence.
+
+— Et ?
+
+Yoon sourit.
+
+— Et j'aimerais bien que tu m'aides à trouver la meilleure position pour le placer avec ton Siphon.
+
+Ray ajusta ses lunettes.
+
+— Mes flammes peuvent aussi empêcher les monstres de sortir trop rapidement de ta zone.
+
+— À condition de ne pas brûler nos alliés, lui rappela Samia.
+
+— Je sais.
+
+— Je préfère le répéter.
+
+Yoon regarda sa meilleure amie.
+
+Pendant un instant, elle espéra retrouver le sourire qui aurait accompagné cette remarque autrefois.
+
+Mais Samia s'était déjà replongée dans ses cartes.
+
+Plus tard, Yoon la rejoignit dans le jardin.
+
+Samia se tenait près de la fontaine.
+
+La lumière des lampes éclairait ses longs cheveux blonds.
+
+— Tu te souviens de l'Académie ? demanda Yoon.
+
+Samia tourna la tête.
+
+— Bien sûr.
+
+— Tu m'avais dit qu'un jour, nous serions assez fortes pour choisir nos propres expéditions.
+
+— C'est le cas.
+
+— Oui.
+
+Yoon s'approcha.
+
+— Mais tu avais aussi dit que nous prendrions le temps de profiter de nos victoires.
+
+Samia contempla l'eau.
+
+— C'était avant.
+
+Yoon sentit son cœur se serrer.
+
+— Avant quoi ?
+
+Samia la regarda.
+
+Son expression était calme.
+
+Beaucoup trop calme.
+
+— Avant de comprendre ce qu'une seule intervention manquée pouvait coûter.
+
+Yoon resta silencieuse.
+
+Puis elle demanda :
+
+— Tu as encore envie de venir avec nous, parfois ? Juste pour nous voir ?
+
+Samia fronça légèrement les sourcils.
+
+— Je suis avec vous tous les jours.
+
+— Ce n'est pas ce que je te demande.
+
+Un silence s'installa.
+
+Yoon reprit plus doucement :
+
+— Tu me manques.
+
+Samia baissa les yeux.
+
+Elle sembla chercher quelque chose à répondre.
+
+Mais les mots ne vinrent pas.
+
+Alors elle tendit simplement la main.
+
+Yoon la prit.
+
+Elles restèrent longtemps ainsi.
+
+Sans parler des portails.
+
+Sans chercher de nouvelle mission.
+
+Puis Samia murmura :
+
+— Toi aussi, tu me manques.
+
+Yoon serra ses doigts.
+
+Pour cette nuit-là, cela lui suffit.
+
+Les mois suivants apportèrent encore des progrès à l'équipe.
+
+Les cercles naturels continuaient d'apparaître chez certains d'entre eux, sans calendrier prévisible.
+
+Ray développa un nouveau cercle.
+
+Il passa des jours à essayer de comprendre pourquoi sa classe commune lui permettait d'en posséder autant.
+
+Yoon lui rappela que les cercles ne se formaient pas selon une formule connue.
+
+Il lui répondit qu'il espérait justement découvrir cette formule.
+
+Zio poursuivit son entraînement et gagna lui aussi un nouveau cercle au fil de ses nombreuses années de combat.
+
+Samia finit par atteindre sept cercles.
+
+Hasol continua de financer une partie importante de leurs équipements, offrant des améliorations et des runes soigneusement choisies.
+
+Tous progressaient.
+
+Tous devenaient plus puissants.
+
+Mais personne, parmi eux, n'était capable de mesurer exactement ce que les portails leur coûtaient en retour.
+
+## X. La quatrième couleur
+
+Samia ressentit la nouvelle apparition avant l'aube.
+
+Elle était réveillée depuis plusieurs heures, occupée à comparer les derniers relevés, lorsqu'une pression inhabituelle se manifesta.
+
+Plus profonde que d'habitude.
+
+Plus lourde.
+
+Elle se leva immédiatement.
+
+Déplia une carte.
+
+Puis posa un doigt sur une région de collines, au sud-ouest de la capitale.
+
+La sensation était différente.
+
+Elle ne pouvait pas expliquer pourquoi.
+
+Mais elle savait qu'un portail allait apparaître là-bas.
+
+Elle rejoignit Hasol et Zio quelques minutes plus tard.
+
+— J'ai une localisation.
+
+Hasol se redressa aussitôt.
+
+— Où ?
+
+Samia montra la carte.
+
+Zio examina les routes.
+
+— Il y a plusieurs villages.
+
+— Oui.
+
+— Tu connais la couleur ?
+
+Samia secoua la tête.
+
+— Pas encore. Mais cette fois, la sensation est beaucoup plus forte.
+
+Hasol contempla la région.
+
+Puis releva les yeux.
+
+— Prévenons la guilde.
+
+Dix heures plus tard, une brèche se manifesta au-dessus d'une plaine entourée de collines.
+
+Elle n'était ni blanche.
+
+Ni verte.
+
+Ni bleue.
+
+Une lumière violette parcourait sa surface.
+
+L'officier responsable de l'observation resta immobile.
+
+Puis ouvrit précipitamment son interface.
+
+<div class="system-window lit-window" data-window-id="C15-F07" data-window-type="regle">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F07-mobile.svg">
+    <img src="assets/fenetres/C15-F07.svg" alt="Fenêtre du système — SYSTÈME — CLASSIFICATION">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — CLASSIFICATION
+  </div>
+  <h3>Portail démoniaque violet</h3>
+  <p>Monstres</p>
+  <p>Niveau 40</p>
+  <p>Boss</p>
+  <p>Niveau 60</p>
+  <p>Ouverture</p>
+  <p>48 h après apparition</p>
+  <p>Capacité maximale</p>
+  <h3>250 points de rareté</h3>
+  </details>
+</div>
+
+Le silence fut immédiat.
+
+Puis les conversations éclatèrent.
+
+— Niveau soixante ?
+
+— Deux cent cinquante points ?
+
+— C'est plus du double de la capacité des portails précédents !
+
+L'officier chargé du classement releva les yeux.
+
+— Il s'agit du plafond de rareté autorisé pour l'opération. Pas du nombre de personnes.
+
+Il examina les chasseurs réunis.
+
+— Mais cette augmentation est considérable. Si nous devons mobiliser une formation complète pour affronter cette menace, il nous faudra plusieurs dizaines de combattants expérimentés.
+
+Les regards se tournèrent vers le portail.
+
+Sa surface ondulait lentement.
+
+Il paraissait presque paisible.
+
+Hasol savait que cette impression était trompeuse.
+
+Elle se souvenait des premiers portails blancs.
+
+De leur capacité de cent points, que son équipe n'avait pourtant pas toujours eu besoin d'utiliser entièrement.
+
+Puis des bleus.
+
+Et de ce village où Samia avait perdu sa famille.
+
+Si le système permettait désormais d'engager jusqu'à deux cent cinquante points de rareté, elle préférait ne pas imaginer ce qu'un échec pourrait provoquer.
+
+Samia semblait penser la même chose.
+
+— Les évacuations ? demanda-t-elle.
+
+— Les messagers sont déjà partis.
+
+— Combien de villages sont menacés ?
+
+— Cinq directement. D'autres pourraient être exposés si des créatures franchissent les routes de surveillance.
+
+— Il faut commencer par les deux plus proches.
+
+L'officier acquiesça.
+
+— C'est prévu.
+
+Zio regarda la carte.
+
+— Les routes du sud risquent de devenir inutilisables si les démons se dispersent.
+
+— Nous allons y installer des postes de protection, répondit le responsable.
+
+Hasol contempla la brèche violette.
+
+Quarante-huit heures.
+
+C'était le temps dont ils disposaient.
+
+Elle se tourna vers Zio.
+
+— Cette fois, il nous faudra beaucoup de monde.
+
+Il acquiesça.
+
+— Et des gens qui savent combattre ensemble.
+
+La guilde mobilisa ses meilleures unités.
+
+Des chasseurs furent rappelés de plusieurs régions.
+
+Des formations déjà engagées contre des portails blancs ou verts furent remplacées par d'autres équipes afin de libérer leurs membres les plus expérimentés.
+
+Des chariots transportèrent des potions, des protections, des armes de rechange et du matériel de soin.
+
+La demeure Shun fournit des runes améliorées à plusieurs chasseurs, selon les disponibilités de ses ateliers.
+
+Les rues voisines des dépôts de la guilde demeurèrent animées pendant une grande partie de la nuit.
+
+Hasol participa elle-même à la vérification de certaines pierres.
+
+Mais Zio lui interdit presque de passer la seconde nuit dans l'atelier.
+
+— Nous partons demain, lui rappela-t-il.
+
+— Je dois encore examiner celles-ci.
+
+— Tu as des artisans compétents.
+
+— Je sais.
+
+— Alors laisse-les travailler.
+
+Hasol leva les yeux.
+
+Il croisa les bras.
+
+Elle finit par soupirer.
+
+— D'accord.
+
+Zio sourit.
+
+— Je vais finir par croire que je peux encore te convaincre de quelque chose.
+
+Elle lui lança un regard indigné.
+
+Puis se rapprocha et glissa ses bras autour de sa taille.
+
+— Seulement parce que c'est toi.
+
+Il l'enlaça.
+
+Pendant quelques instants, ils restèrent immobiles au milieu de l'atelier.
+
+Puis Hasol murmura :
+
+— Tu crois qu'on y arrivera ?
+
+Zio baissa les yeux.
+
+Elle ne parlait pas seulement du portail.
+
+Il le savait.
+
+— Nous ferons tout ce que nous pouvons.
+
+Hasol resserra son étreinte.
+
+— J'ai peur qu'il arrive la même chose qu'au village de Samia.
+
+— Moi aussi.
+
+Elle leva la tête.
+
+— Tu as peur ?
+
+Zio lui caressa doucement les cheveux.
+
+— Bien sûr.
+
+Elle sembla surprise.
+
+Il sourit tristement.
+
+— Je ne suis pas devenu incapable d'avoir peur parce que je porte un grand bouclier.
+
+Hasol baissa les yeux.
+
+— Pourtant, tu as toujours l'air si calme.
+
+— Parce que quelqu'un doit réfléchir pendant que tu prépares ta prochaine attaque.
+
+Elle eut un petit rire.
+
+Zio déposa un baiser sur son front.
+
+— Et parce que je sais que nous sommes plus forts ensemble.
+
+La formation de combat fut finalisée le lendemain.
+
+Elle atteignait exactement le plafond de **250 points de rareté**.
+
+Le groupe d'Hasol représentait toujours cinquante points.
+
+Hasol, légendaire : vingt.
+
+Zio, rare : dix.
+
+Yoon, rare : dix.
+
+Ray et Samia, communs : cinq chacun.
+
+Les deux cents points supplémentaires furent répartis entre plusieurs unités expérimentées.
+
+Une avant-garde de quatre-vingts points, composée de défenseurs et de combattants capables de tenir une ligne.
+
+Soixante-dix points de chasseurs offensifs, de soigneurs et de spécialistes du contrôle.
+
+Et une réserve mobile de cinquante points, destinée à intervenir sur les flancs ou à remplacer les unités épuisées.
+
+Ces chiffres n'étaient pas des effectifs.
+
+Une unité de quatre-vingts points pouvait rassembler des chasseurs de raretés différentes.
+
+L'ensemble représentait plusieurs dizaines de personnes, chacune avec son équipement, son expérience et son rôle.
+
+Les responsables de la guilde tenaient à ne pas dépasser le plafond, même pour un seul chasseur supplémentaire.
+
+Des équipes distinctes furent affectées aux convois et aux villages situés hors de la zone d'engagement. Elles ne participeraient pas à la formation de deux cent cinquante points contre le portail.
+
+Pour la première fois, Hasol eut véritablement l'impression de préparer une opération militaire.
+
+Elle observa les responsables réunis autour de la carte.
+
+Puis les dizaines de chasseurs qui vérifiaient leurs équipements.
+
+Elle avait longtemps été considérée comme une légendaire incapable de combattre.
+
+Aujourd'hui, une formation de deux cent cinquante points comptait sur elle pour affronter une menace majeure.
+
+Mais au lieu de ressentir de la fierté, elle se demanda seulement combien de personnes risquaient de ne pas rentrer chez elles.
+
+## XI. La bataille des deux cent cinquante points
+
+Quarante-huit heures après l'apparition du portail violet, la plaine était méconnaissable.
+
+Des positions défensives avaient été préparées.
+
+Des postes de soin occupaient les hauteurs.
+
+Les voies d'évacuation étaient balisées.
+
+Les villages les plus proches étaient désormais presque déserts.
+
+Au centre du dispositif, les chasseurs de la formation principale attendaient.
+
+Deux cent cinquante points de rareté.
+
+Pas davantage.
+
+Hasol se tenait auprès de ses quatre compagnons.
+
+Zio portait son immense bouclier.
+
+Yoon vérifiait les cercles qu'elle pourrait poser rapidement sur le terrain.
+
+Ray avait préparé plusieurs positions de tir pour éviter que ses flammes ne traversent les rangs alliés.
+
+Samia observait les alentours.
+
+Hasol, elle, contemplait le portail.
+
+Ses quinze cercles de Mana étaient disponibles.
+
+Ses runes brillaient faiblement sous ses vêtements et ses protections légères.
+
+Elle avait préparé un grand nombre de runes ordinaires destinées à Aura runique.
+
+Son épée reposait dans son fourreau.
+
+Zio posa une main sur son épaule.
+
+— Tu es prête ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Il regarda Samia.
+
+— Et toi ?
+
+— Oui.
+
+Il soupira.
+
+— J'espérais au moins une réponse un peu plus longue.
+
+Ray ajusta ses lunettes.
+
+— Personnellement, je préférerais ne pas avoir à répondre.
+
+Yoon lui adressa un sourire.
+
+— Trop tard.
+
+Une brève détente parcourut le groupe.
+
+Puis la lumière violette du portail s'intensifia.
+
+Le silence revint immédiatement.
+
+Une vibration profonde traversa la plaine.
+
+Le portail s'ouvrit.
+
+Les premières créatures sortirent lentement.
+
+Elles étaient de niveau quarante.
+
+Certaines portaient de longues excroissances osseuses.
+
+D'autres possédaient des membres puissants capables de déchirer la terre en quelques mouvements.
+
+Quelques-unes se déplaçaient avec une rapidité étonnante malgré leur taille.
+
+Puis une seconde vague apparut.
+
+Et une troisième.
+
+Les responsables des formations échangèrent des signaux.
+
+— Avant-garde ! Préparez-vous !
+
+Les boucliers furent levés.
+
+Les archers ajustèrent leurs positions.
+
+Les mages commencèrent leurs incantations.
+
+Zio se tourna vers Hasol.
+
+— Attends qu'ils se regroupent.
+
+Elle acquiesça.
+
+— Je sais.
+
+Les premières créatures chargèrent.
+
+L'impact contre l'avant-garde fut terrible.
+
+Plusieurs défenseurs reculèrent immédiatement.
+
+Un combattant tomba à genoux.
+
+Un autre dut être soutenu par ses voisins pour empêcher une ouverture dans la ligne.
+
+Zio avança et plaça son bouclier entre deux chasseurs qui menaçaient de céder.
+
+Ses runes Gardien à +15 lui permirent d'absorber une partie du choc.
+
+Mais même avec sa Défense exceptionnelle, il sentit la violence de l'attaque parcourir ses bras.
+
+— Maintenant ! cria-t-il.
+
+Hasol leva la main.
+
+— Siphon runique !
+
+Une spirale turquoise apparut au-dessus du terrain.
+
+Les inscriptions runiques se mirent à tourner.
+
+Puis une tempête de Vent s'abattit sur plusieurs démons regroupés devant les défenseurs.
+
+La première ligne fut frappée.
+
+Certaines créatures s'effondrèrent.
+
+D'autres reculèrent, blessées.
+
+Hasol sentit le Mana de ses victimes refluer vers ses propres cercles.
+
+La récupération fut importante.
+
+Mais le sort atteignit rapidement son plafond d'absorption.
+
+Elle n'en reçut pas davantage.
+
+Hasol baissa la main.
+
+— Yoon !
+
+— J'arrive !
+
+La Sage leva les bras.
+
+Un vaste cercle violet apparut au sol.
+
+Le Domaine des Entraves Runiques ralentit les ennemis pris dans sa zone.
+
+Puis Yoon fit apparaître un second cercle.
+
+Rouge.
+
+Parcouru d'inscriptions lumineuses.
+
+— Tempête arcanique !
+
+Les démons qui restèrent dans cette zone commencèrent à subir des dégâts continus.
+
+Ray profita immédiatement de la situation.
+
+Il orienta ses flammes vers un passage dégagé, sans mettre les défenseurs en danger.
+
+Une partie des créatures fut forcée de contourner la zone brûlante.
+
+D'autres continuèrent d'avancer malgré les blessures.
+
+Samia décochait ses flèches avec une précision remarquable.
+
+Elle visait les monstres qui tentaient de quitter les zones de contrôle.
+
+Et ceux qui menaçaient les chasseurs blessés.
+
+Leur coordination était excellente.
+
+Mais les démons violets étaient puissants.
+
+La seconde vague frappa le flanc gauche.
+
+Une unité de l'avant-garde fut forcée de reculer.
+
+L'officier responsable donna immédiatement le signal prévu.
+
+Une partie de la réserve mobile s'avança.
+
+Des chasseurs remplacèrent ceux qui ne pouvaient plus tenir leur position.
+
+Hasol observa le mouvement.
+
+C'était précisément pour cela que la formation avait mobilisé deux cent cinquante points.
+
+Contre un portail blanc, son groupe pouvait parfois agir avec une grande liberté.
+
+Ici, une seule erreur de placement pouvait mettre en danger des dizaines de chasseurs.
+
+Et même avec ses nouveaux pouvoirs, elle ne pouvait pas se trouver partout.
+
+Un démon massif tenta de contourner les défenseurs.
+
+Samia l'aperçut immédiatement.
+
+— À gauche !
+
+Deux flèches partirent.
+
+La première atteignit la créature à la jambe.
+
+La seconde passa entre deux plaques osseuses.
+
+Le démon ralentit.
+
+Hasol s'élança.
+
+Sa vitesse lui permit de rejoindre la zone avant qu'il atteigne les soigneurs.
+
+Elle frappa son flanc.
+
+La créature riposta.
+
+Hasol évita la première attaque.
+
+Mais la seconde la força à reculer brutalement.
+
+Un autre chasseur intervint et détourna l'attention du démon.
+
+Hasol reprit son équilibre.
+
+Puis lança une nouvelle attaque.
+
+Le monstre s'effondra.
+
+Elle regarda l'homme qui l'avait aidée.
+
+— Merci !
+
+— Restez avec votre formation !
+
+Elle acquiesça.
+
+Il avait raison.
+
+Elle retourna auprès de Zio.
+
+La bataille se prolongea.
+
+Les démons continuaient d'affluer.
+
+Les chasseurs de la formation principale alternaient attaques et phases de protection.
+
+Des soigneurs intervenaient dès qu'un combattant risquait de ne plus pouvoir tenir sa position.
+
+Yoon utilisait son Chant runique pour soutenir les alliés, tout en choisissant soigneusement les moments où sa Tempête arcanique pouvait frapper plusieurs ennemis.
+
+Ray contribuait à ralentir les mouvements adverses.
+
+Mais sa réserve de Mana demeurait une contrainte.
+
+Même avec ses nombreux cercles, il ne pouvait pas multiplier indéfiniment les attaques les plus coûteuses.
+
+Hasol, de son côté, commençait à comprendre toute la valeur de Siphon runique.
+
+Les démons arrivaient en groupes.
+
+Lorsqu'elle trouvait un angle favorable, elle pouvait en frapper plusieurs simultanément.
+
+La Puissance arcanique procurée par son équipement rendait ses attaques dévastatrices.
+
+Et le Mana volé lui permettait d'alimenter ses autres compétences.
+
+Mais le temps de recharge imposait toujours des intervalles.
+
+Pendant ces moments, Hasol devait continuer à se battre à l'épée.
+
+Elle ne pouvait pas simplement lever la main et faire disparaître toute une armée.
+
+Et lorsqu'un ennemi possédait peu de Mana, sa récupération était bien moins importante.
+
+Pourtant, l'efficacité de cette combinaison était indéniable.
+
+Samia l'observa abattre plusieurs démons d'une seule tempête.
+
+Puis elle consulta les mouvements de la horde.
+
+— Hasol !
+
+L'Arcaniste tourna la tête.
+
+— Quoi ?
+
+— Si nous les attirons entre ces deux formations, tu pourras en frapper davantage !
+
+Hasol suivit son indication.
+
+Un étroit passage se formait entre les défenseurs avancés et un talus.
+
+— Zio !
+
+Il comprit immédiatement.
+
+— J'organise le repli !
+
+Les chasseurs se déplacèrent selon ses indications.
+
+Les démons suivirent.
+
+Yoon ralentit les premiers.
+
+Ray empêcha une partie de la horde de contourner le passage.
+
+Et lorsque les créatures furent suffisamment regroupées, Hasol leva la main.
+
+— Siphon runique !
+
+La tempête turquoise traversa la zone.
+
+Des inscriptions lumineuses tourbillonnèrent dans les rafales.
+
+Plusieurs démons s'effondrèrent.
+
+Hasol sentit sa réserve se remplir d'une quantité importante de Mana.
+
+Samia contempla les corps qui jonchaient le passage.
+
+— Parfait.
+
+Son visage demeurait impassible.
+
+— Nous recommencerons au prochain groupe.
+
+Zio l'entendit.
+
+Il se tourna vers elle.
+
+— Samia, attends que la formation soit replacée.
+
+Elle regarda les chasseurs.
+
+Puis acquiesça.
+
+— D'accord.
+
+Pendant une seconde, Zio se demanda ce qu'elle aurait répondu s'il n'avait pas été là pour le lui rappeler.
+
+Le boss apparut alors que le soleil commençait à décliner.
+
+La surface du portail s'élargit.
+
+Une silhouette gigantesque émergea lentement.
+
+Son corps était couvert de plaques sombres traversées de fissures violettes.
+
+De longues griffes raclaient la terre.
+
+Sa tête était entourée d'une couronne osseuse irrégulière.
+
+Lorsqu'il poussa un hurlement, plusieurs monstres ordinaires semblèrent répondre à son appel.
+
+<div class="system-window lit-window" data-window-id="C15-F08" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F08-mobile.svg">
+    <img src="assets/fenetres/C15-F08.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — BOSS DE PORTAIL
+  </div>
+  <h3>Héraut du Nadir</h3>
+  <p>Portail</p>
+  <p>Violet</p>
+  <p>Niveau</p>
+  <p>60</p>
+  </details>
+</div>
+
+Un silence inquiet parcourut les chasseurs les plus proches.
+
+Même ceux qui possédaient une longue expérience des boss semblaient impressionnés.
+
+Le Héraut du Nadir avança.
+
+Puis frappa le sol.
+
+Une onde de choc fit trembler la première ligne.
+
+Plusieurs chasseurs furent projetés en arrière.
+
+Les soigneurs se précipitèrent.
+
+L'officier général ordonna le repli partiel de l'avant-garde.
+
+La formation de réserve avança pour couvrir les blessés.
+
+Hasol sentit immédiatement la différence.
+
+Ce n'était pas un boss blanc.
+
+Ni vert.
+
+Ni même bleu.
+
+La créature possédait une puissance largement supérieure à la sienne.
+
+Elle ne pourrait pas se contenter d'avancer et de frapper.
+
+Zio se tourna vers elle.
+
+— Attends notre ouverture.
+
+Hasol acquiesça.
+
+— Je sais.
+
+Le boss chargea de nouveau.
+
+Cette fois, plusieurs défenseurs levèrent leurs boucliers ensemble.
+
+Zio prit place à leurs côtés.
+
+L'impact fut si violent qu'un homme tomba à genoux.
+
+Mais la ligne tint.
+
+À l'arrière, Yoon fit apparaître son cercle de soin.
+
+Des lueurs vertes entourèrent plusieurs chasseurs blessés.
+
+Samia dirigea ses flèches vers les articulations de la créature.
+
+Ray profita d'une ouverture pour lancer une attaque concentrée sur son flanc.
+
+Puis le boss se retourna.
+
+Une énorme griffe traversa les rangs.
+
+Deux chasseurs durent se jeter au sol pour l'éviter.
+
+Hasol commença à préparer Aura runique.
+
+Une première rune disparut.
+
+Pas de critique.
+
+Une deuxième.
+
+Puis une troisième.
+
+Elle surveillait le boss à chaque tentative.
+
+Attendre trop longtemps serait dangereux.
+
+Mais frapper sans Infiltration runique réduirait fortement l'efficacité de sa stratégie.
+
+À la quatrième activation, la lumière de son épée s'intensifia.
+
+*Infiltration runique — trente secondes.*
+
+Hasol leva les yeux.
+
+— Zio !
+
+Il tourna la tête.
+
+Puis lui ouvrit un passage.
+
+— Maintenant !
+
+Elle s'élança.
+
+Sa lame frappa le flanc du boss.
+
+L'impact fut violent.
+
+La créature poussa un hurlement.
+
+Hasol recula immédiatement.
+
+Une griffe traversa l'endroit où elle se trouvait une fraction de seconde auparavant.
+
+Elle changea d'angle.
+
+Frappa de nouveau.
+
+Puis une troisième fois.
+
+L'Infiltration lui permettait de garantir un minimum de dégâts malgré l'énorme Défense du monstre.
+
+Mais ce minimum ne suffisait pas à lui seul à abattre instantanément une créature de niveau soixante.
+
+Les autres chasseurs devaient continuer à agir.
+
+L'avant-garde maintenait la pression.
+
+Les spécialistes du contrôle ralentissaient les mouvements du boss lorsqu'ils en avaient la possibilité.
+
+Les unités mobiles intervenaient sur ses flancs.
+
+Zio encaissait les attaques les plus dangereuses.
+
+Yoon maintenait ses soins.
+
+Ray cherchait les ouvertures où ses flammes seraient les plus efficaces.
+
+Samia surveillait les mouvements des démons secondaires.
+
+Et Hasol frappait chaque fois qu'une occasion apparaissait.
+
+Puis un cri retentit au-delà des défenses.
+
+— Des civils !
+
+Hasol tourna brusquement la tête.
+
+Sur la route extérieure, un petit groupe de personnes venait d'apparaître.
+
+Des habitants qui avaient pris du retard pendant leur évacuation, accompagnés d'un guide blessé.
+
+Ils se trouvaient trop près de la zone de combat.
+
+Une partie des démons ordinaires avait contourné les positions de protection extérieures.
+
+Plusieurs créatures se dirigeaient désormais vers eux.
+
+Un jeune chasseur tenta de leur barrer la route.
+
+Il fut repoussé.
+
+Hasol regarda le boss.
+
+Il était blessé.
+
+Une nouvelle série d'attaques pourrait peut-être permettre à la formation de le faire tomber.
+
+Mais les civils n'avaient presque plus de protection.
+
+Elle sentit son cœur se serrer.
+
+Le panier d'Iseria lui revint en mémoire.
+
+Puis la maison détruite de la famille de Samia.
+
+Pendant une seconde, elle resta immobile.
+
+Ensuite, elle prit sa décision.
+
+— Zio, je quitte le boss !
+
+Il tourna la tête.
+
+— Quoi ?
+
+Elle désigna la route.
+
+Il aperçut les civils.
+
+Son expression changea.
+
+— Vas-y ! Nous tenons ici !
+
+Hasol se précipita.
+
+Elle traversa le terrain en utilisant toute la mobilité que lui apportaient ses runes Vitesse.
+
+Un démon bondit vers une femme tombée sur le chemin.
+
+Hasol l'intercepta.
+
+Sa lame frappa la créature.
+
+Puis elle se plaça entre les habitants et la horde.
+
+Son Siphon runique était de nouveau disponible.
+
+Elle leva la main.
+
+Une spirale de Vent turquoise se déploya devant elle.
+
+Plusieurs démons furent frappés.
+
+Le Mana qu'ils portaient fut partiellement absorbé.
+
+Hasol reprit immédiatement son épée.
+
+— Courez vers les chasseurs !
+
+Les habitants obéirent.
+
+Samia arriva sur son flanc.
+
+Elle décocha plusieurs flèches pour empêcher les monstres de les poursuivre.
+
+Pendant quelques instants, les deux femmes combattirent côte à côte.
+
+Samia vit un enfant trébucher près d'une charrette.
+
+Son visage se figea.
+
+Un instant, elle revit les ruines de son village.
+
+Le petit arc brisé.
+
+Les vêtements retrouvés sous les décombres.
+
+Puis elle décocha sa flèche.
+
+Le démon qui s'approchait de l'enfant s'effondra.
+
+Samia courut vers lui.
+
+Elle le releva.
+
+— Va rejoindre les autres.
+
+L'enfant la regarda avec terreur.
+
+— Et ma mère ?
+
+Samia aperçut une femme qui courait vers eux.
+
+— Elle est là.
+
+Elle le poussa doucement dans sa direction.
+
+La mère le serra contre elle.
+
+Samia les regarda s'éloigner.
+
+Pendant un instant, ses yeux se remplirent de larmes.
+
+Puis elle se retourna vers les démons.
+
+Son expression redevint glaciale.
+
+— Hasol.
+
+L'Arcaniste leva les yeux.
+
+— Oui ?
+
+— Il en reste trois.
+
+Hasol resserra les doigts autour de son épée.
+
+— Alors terminons.
+
+Lorsque le dernier démon menaçant la route s'effondra, Samia vérifia que les civils avaient atteint les positions extérieures.
+
+— Ils sont en sécurité.
+
+Hasol regarda les familles rejoindre les convois.
+
+— Oui.
+
+Un rugissement retentit derrière elles.
+
+Le Héraut du Nadir venait de recevoir une nouvelle attaque.
+
+Hasol se retourna.
+
+Les unités de la formation principale avaient réussi à le pousser vers une zone préparée par les spécialistes du contrôle.
+
+Zio se tenait toujours parmi les défenseurs.
+
+Son bouclier était couvert d'impacts.
+
+Il semblait épuisé.
+
+Mais la ligne tenait.
+
+Yoon posa une nouvelle Tempête arcanique.
+
+Ray lança une attaque de feu au moment où le boss exposait son flanc.
+
+Les chasseurs d'assaut frappèrent ensemble.
+
+Un défenseur détourna la dernière charge de la créature.
+
+Puis une épée s'enfonça entre deux plaques de son armure.
+
+Le Héraut du Nadir poussa un ultime hurlement.
+
+Et s'effondra.
+
+La lumière violette du portail commença à se contracter.
+
+Les chasseurs reculèrent pour laisser la brèche disparaître.
+
+Puis le ciel retrouva sa couleur habituelle.
+
+Le portail était fermé.
+
+La victoire ne provoqua pas immédiatement les acclamations auxquelles Hasol s'était habituée.
+
+Les blessés étaient nombreux.
+
+Plusieurs chasseurs avaient dû être évacués pendant le combat.
+
+Les soigneurs continuaient de travailler.
+
+Les défenseurs remplaçaient leurs protections brisées.
+
+Les unités de surveillance vérifiaient que les derniers démons sortis ne menaçaient plus les routes.
+
+Deux cent cinquante points de rareté avaient été mobilisés.
+
+Et même une formation d'une telle envergure avait dû lutter longuement pour vaincre le boss de niveau soixante.
+
+Hasol regarda les chasseurs rassemblés.
+
+Elle savait désormais que sa puissance ne suffisait pas à tout résoudre.
+
+Même avec son Siphon runique.
+
+Même avec ses quinze cercles.
+
+Même avec des centaines de runes ordinaires prêtes à être sacrifiées.
+
+Il lui fallait toujours des compagnons.
+
+Des soigneurs.
+
+Des défenseurs.
+
+Des personnes capables de tenir une position pendant qu'elle en attaquait une autre.
+
+Et parfois, il fallait simplement accepter de ne pas être celle qui portait le coup final.
+
+Zio rejoignit Hasol près du campement.
+
+Il regarda la route où les civils avaient été évacués.
+
+Puis son épouse.
+
+— Tu as fait le bon choix.
+
+Hasol baissa les yeux.
+
+— Le boss était presque vaincu.
+
+— Je sais.
+
+— J'aurais peut-être pu l'achever.
+
+— Peut-être.
+
+Il posa doucement une main sur sa joue.
+
+— Mais ces gens avaient besoin de toi.
+
+Hasol contempla les familles rassemblées près des convois.
+
+Elle aperçut une petite fille endormie contre l'épaule de son père.
+
+Une femme qui aidait son mari blessé à marcher.
+
+Deux enfants partageant une couverture.
+
+Elle pensa à ses parents.
+
+Puis à ceux de Samia.
+
+Son cœur lui fit mal.
+
+Mais cette douleur était différente.
+
+— Ils vont pouvoir rentrer ensemble, murmura-t-elle.
+
+Zio acquiesça.
+
+— Oui.
+
+Hasol resta longtemps à regarder les familles.
+
+Puis elle glissa doucement sa main dans celle de son mari.
+
+Et, pendant quelques minutes, elle ne pensa pas au prochain portail.
+
+## XII. Dix mille
+
+Les premières victoires contre les portails violets ne mirent pas fin aux apparitions.
+
+Au contraire.
+
+Les mois suivants confirmèrent que les couleurs les plus dangereuses n'étaient pas de simples anomalies isolées.
+
+Des portails blancs surgissaient encore près de villages tranquilles.
+
+Les verts menaçaient régulièrement les routes commerciales.
+
+Les bleus exigeaient des mobilisations importantes.
+
+Et chaque portail violet obligeait les guildes à réorganiser une partie de leurs forces.
+
+Deux cent cinquante points de rareté.
+
+Une capacité qui avait d'abord semblé presque inconcevable.
+
+Puis, progressivement, les responsables des guildes apprirent à réunir des formations capables d'approcher ce plafond lorsque la situation l'exigeait.
+
+Des alliances temporaires se formaient.
+
+Des chasseurs expérimentés étaient appelés depuis des régions éloignées.
+
+Des artisans travaillaient jour et nuit pour fournir des équipements adaptés.
+
+Mais tout cela prenait du temps.
+
+Et les portails continuaient d'apparaître.
+
+Hasol et Samia devinrent inséparables pendant les interventions.
+
+La Ranger détectait les prochaines brèches.
+
+L'Arcaniste préparait ses runes.
+
+Elles travaillaient avec les guildes lorsqu'une opération exigeait davantage de chasseurs.
+
+Mais pour les portails blancs et certaines situations favorables, elles pouvaient partir avec seulement Zio, ou parfois avec un autre compagnon disponible.
+
+Elles connaissaient désormais leurs méthodes presque par cœur.
+
+Samia repérait les zones.
+
+Hasol organisait les attaques.
+
+Le Siphon runique éliminait les groupes de démons.
+
+Le Mana récupéré alimentait les prochaines compétences.
+
+Aura runique était relancée autant que les ressources et la situation le permettaient.
+
+Et les activations critiques transformaient les ouvertures contre les boss en occasions de frappes dévastatrices.
+
+Les portails se fermaient souvent beaucoup plus rapidement qu'au début de la crise.
+
+Mais une intervention terminée ne signifiait pas nécessairement que la région était entièrement débarrassée des démons déjà sortis.
+
+Il fallait parfois poursuivre les recherches pendant des heures.
+
+Parfois davantage.
+
+Hasol et Samia participaient également à ces opérations.
+
+Elles ne semblaient jamais fatiguées de chercher.
+
+Même lorsque leurs corps montraient le contraire.
+
+Les saisons passèrent.
+
+Puis les années.
+
+Hasol continua de progresser, bien que sa classe légendaire exigeât toujours une quantité considérable d'expérience.
+
+Zio approchait désormais du niveau soixante.
+
+Yoon maîtrisait de mieux en mieux ses zones runiques, notamment sa Tempête arcanique.
+
+Ray était devenu un Mage de feu dont les capacités étonnaient même des chasseurs de rareté supérieure.
+
+Et Samia, avec ses sept cercles, son équipement soigneusement amélioré et son nouveau passif, était désormais considérée comme l'une des Rangers les plus précieuses dans la lutte contre les portails.
+
+Mais elle souriait rarement.
+
+Ses cheveux étaient toujours blonds.
+
+Ses yeux toujours bleus.
+
+Son visage conservait la même beauté.
+
+Pourtant, ceux qui l'avaient connue à l'Académie la reconnaissaient parfois difficilement.
+
+Elle parlait moins.
+
+Écoutait davantage.
+
+Ne cherchait plus à détendre les autres avec une plaisanterie.
+
+Ses décisions étaient devenues rapides.
+
+Précises.
+
+Parfois terriblement froides.
+
+Lorsqu'un responsable expliquait qu'une intervention devait attendre, elle demandait combien de civils se trouvaient dans la région.
+
+Lorsqu'un groupe hésitait, elle préparait déjà une autre solution.
+
+Et lorsqu'un portail venait d'être fermé, elle regardait les prochaines localisations.
+
+Hasol la suivait.
+
+Presque toujours.
+
+Un soir, elles revinrent d'une opération contre un portail bleu.
+
+Samia avait une coupure au front.
+
+Hasol boitait légèrement.
+
+Zio avait dû remplacer plusieurs attaches de son bouclier.
+
+Ray marchait lentement, épuisé par ses dernières incantations.
+
+Yoon avait passé une grande partie du trajet à surveiller les blessures des autres.
+
+Lorsqu'ils atteignirent la guilde, Zio annonça :
+
+— Demain, personne ne part en mission.
+
+Samia releva la tête.
+
+— Nous avons encore deux localisations.
+
+— Et nous avons besoin de récupérer.
+
+— Le premier portail ne s'ouvrira que dans deux jours.
+
+— Très bien. Alors nous avons le temps.
+
+Hasol regarda la carte.
+
+— Nous pouvons au moins préparer le déplacement.
+
+Zio soupira.
+
+— Hasol…
+
+Elle leva les yeux.
+
+— Quoi ?
+
+— Je vous demande une journée.
+
+Samia observa son visage.
+
+Pendant quelques secondes, elle sembla vouloir protester.
+
+Puis elle rangea sa carte.
+
+— D'accord.
+
+Zio la regarda avec surprise.
+
+— Vraiment ?
+
+— Nous partirons après-demain.
+
+Il ferma brièvement les yeux.
+
+— Merci.
+
+Ray étouffa un rire fatigué.
+
+Yoon sourit.
+
+Hasol, elle, regardait déjà le calendrier.
+
+La journée de repos ne dura pas aussi longtemps que prévu.
+
+Une alerte arriva dans l'après-midi.
+
+Un portail blanc venait de s'ouvrir dans une région où aucune équipe suffisante n'était disponible.
+
+Samia sentit immédiatement son attention se concentrer sur la localisation.
+
+Hasol prit son épée.
+
+Zio les regarda toutes les deux.
+
+Puis détourna les yeux.
+
+Il avait déjà compris.
+
+Le combat fut rapide.
+
+Hasol utilisa Siphon runique sur un groupe de démons.
+
+La tempête de Vent frappa plusieurs créatures.
+
+Une grande quantité de Mana fut absorbée.
+
+Elle se déplaça ensuite vers la seconde vague.
+
+Ses runes Vitesse lui permettaient de traverser rapidement les espaces laissés libres par Zio.
+
+Samia décochait ses flèches depuis une position élevée.
+
+Leur coordination était devenue presque instinctive.
+
+Un démon s'effondra sous la lame d'Hasol.
+
+Un autre fut frappé par Siphon runique lorsque la compétence fut de nouveau disponible.
+
+Puis une troisième créature tomba.
+
+Un tintement cristallin résonna.
+
+Hasol s'immobilisa.
+
+Une fenêtre du système apparut.
+
+<div class="system-window lit-window" data-window-id="C15-F09" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F09-mobile.svg">
+    <img src="assets/fenetres/C15-F09.svg" alt="Fenêtre du système — SYSTÈME — CROISSANCE RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — CROISSANCE RUNIQUE
+  </div>
+  <h3>Deuxième palier des portails atteint</h3>
+  <p>Éliminations personnelles de démons</p>
+  <p>10 000</p>
+  <p>+1 cercle de Mana</p>
+  <p>+1 emplacement runique</p>
+  <h3>15 → 16 cercles</h3>
+  </details>
+</div>
+
+Le seizième cercle apparut.
+
+Une lumière turquoise traversa brièvement le corps d'Hasol.
+
+Ses cercles tournoyèrent autour d'elle.
+
+Puis la manifestation s'apaisa.
+
+Hasol contempla le nouveau cercle.
+
+Seize.
+
+Elle en possédait désormais seize.
+
+À une époque, elle aurait considéré ce résultat comme un accomplissement presque inimaginable.
+
+Aujourd'hui, elle referma simplement la fenêtre.
+
+Zio s'approcha.
+
+— Hasol ?
+
+Elle leva les yeux.
+
+— Oui ?
+
+Il regarda les cercles.
+
+— Seize…
+
+Elle acquiesça.
+
+— Oui.
+
+Il sourit doucement.
+
+— Je suis fier de toi.
+
+Hasol contempla son mari.
+
+Puis baissa les yeux.
+
+— Merci.
+
+Samia les rejoignit.
+
+— Le boss devrait bientôt apparaître.
+
+Hasol se tourna aussitôt.
+
+— Préparons-nous.
+
+Zio la regarda reprendre son épée.
+
+Le seizième cercle brillait encore faiblement autour d'elle.
+
+Mais elle n'avait pas pris le temps de s'en réjouir.
+
+De retour à l'atelier, Hasol équipa sa deuxième rune Énergie.
+
+Comme la première, elle était six étoiles, de qualité initiale rare (bleue), désormais légendaire (orange), et améliorée à +15.
+
+L'ensemble fut immédiatement activé.
+
+<div class="system-window lit-window" data-window-id="C15-F10" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F10-mobile.svg">
+    <img src="assets/fenetres/C15-F10.svg" alt="Fenêtre du système — SYSTÈME — ÉQUIPEMENT RUNIQUE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — ÉQUIPEMENT RUNIQUE
+  </div>
+  <h3>Hasol Shun — 16 cercles</h3>
+  <table><thead><tr><th scope="col"><strong>Ensemble</strong></th><th scope="col"><strong>Runes</strong></th><th scope="col"><strong>État</strong></th></tr></thead><tbody>
+  <tr><th scope="row">Fatal</th><td>4 / 4</td><td>Actif</td></tr>
+  <tr><th scope="row">Arcanique</th><td>4 / 4</td><td>Actif</td></tr>
+  <tr><th scope="row">Vitesse</th><td>4 / 4</td><td>Actif</td></tr>
+  <tr><th scope="row">Gardien</th><td>2 / 2</td><td>Actif</td></tr>
+  <tr><th scope="row">Énergie</th><td>2 / 2</td><td>Actif</td></tr>
+  </tbody></table>
+  <p>16 runes équipées · Toutes 6★ · Grade initial rare (bleu) minimum · Grade affiché légendaire (orange) · Toutes <span class="upgrade-badge">+15</span></p>
+  </details>
+</div>
+
+Hasol contempla ses seize runes.
+
+Toutes étaient d'une qualité exceptionnelle.
+
+Les deux cadeaux d'Armin étaient toujours là.
+
+La Fatal.
+
+La Gardien.
+
+Elle avait conservé ces pierres pendant toutes les années où elle avait eu besoin de prouver sa valeur.
+
+Aujourd'hui, elles faisaient partie de l'un des équipements les plus puissants que l'on puisse rencontrer chez une chasseuse de son niveau.
+
+Mais Hasol ne ressentit pas la joie qu'elle avait autrefois imaginée.
+
+Elle pensa à Iseria.
+
+À son père.
+
+Au village de Samia.
+
+Puis elle ouvrit son inventaire et commença à préparer un nouveau lot de runes destinées à Aura runique.
+
+Le travail n'était pas terminé.
+
+Il ne semblait jamais devoir l'être.
+
+## XIII. Ceux qui ne savent plus s'arrêter
+
+Hasol approchait de ses trente-quatre ans.
+
+Les portails continuaient d'occuper une part grandissante de leur existence.
+
+La demeure Shun était devenue un lieu de passage pour les cartes, les messagers et les rapports de mission.
+
+Les ateliers continuaient de fonctionner.
+
+Les employés géraient les commandes.
+
+Orven venait parfois examiner les améliorations les plus complexes.
+
+Mais Hasol passait de moins en moins de temps à profiter de sa maison.
+
+Elle rentrait.
+
+Se reposait.
+
+Préparait son équipement.
+
+Puis repartait.
+
+Samia suivait un rythme presque identique.
+
+Elles ne se voyaient plus seulement comme deux amies parties chasser ensemble.
+
+Elles étaient devenues les deux principales organisatrices d'une succession d'interventions que même les guildes avaient parfois du mal à suivre.
+
+Et Zio commençait à perdre patience.
+
+— Quatre portails en trois jours.
+
+Sa voix résonna dans le bureau d'Hasol.
+
+Samia ne leva pas les yeux de sa carte.
+
+— Il en reste deux dans la région.
+
+— Je sais.
+
+— Alors nous devons nous préparer.
+
+Zio posa son bouclier contre le mur.
+
+Il n'avait même pas encore retiré toutes ses protections.
+
+— Nous avons besoin de dormir.
+
+— Les démons n'attendent pas.
+
+Il inspira profondément.
+
+— Samia…
+
+— Quoi ?
+
+Elle releva enfin les yeux.
+
+Son visage était calme.
+
+Froid.
+
+— Tu veux que nous ignorions les prochaines apparitions ?
+
+— Non !
+
+Il avait élevé la voix malgré lui.
+
+Les deux femmes se tournèrent vers lui.
+
+Zio passa une main sur son visage.
+
+— Je ne veux pas que nous ignorions les portails.
+
+Il regarda Hasol.
+
+— Je veux que nous cessions de prétendre que nous pouvons tout faire sans jamais récupérer.
+
+Hasol posa son carnet.
+
+— Nous pouvons organiser les prochaines interventions avec d'autres chasseurs.
+
+— C'est précisément ce que je vous demande depuis des semaines !
+
+Samia replia une partie de sa carte.
+
+— Les autres groupes ne sont pas toujours disponibles.
+
+— Alors nous devons leur transmettre les informations suffisamment tôt pour qu'ils puissent s'organiser.
+
+— Certains portails sont trop proches des habitations.
+
+Zio se tourna vers elle.
+
+— Je le sais.
+
+Samia croisa les bras.
+
+— Ma famille aussi vivait près d'un portail qui n'avait pas été pris en charge à temps.
+
+Le silence tomba.
+
+Zio sentit sa colère disparaître presque immédiatement.
+
+Il regarda la Ranger.
+
+Elle ne pleurait pas.
+
+Ses yeux étaient secs.
+
+Mais il reconnaissait cette expression.
+
+Il l'avait vue chez Hasol après la mort d'Iseria.
+
+Il savait ce qu'elle signifiait.
+
+— Samia…
+
+— Ma famille n'a pas eu le temps d'attendre.
+
+Elle baissa les yeux vers sa carte.
+
+— Alors je ne demanderai pas aux autres d'attendre si je peux les aider.
+
+Hasol s'approcha de son amie.
+
+Elle posa doucement une main sur son épaule.
+
+— Nous trouverons une solution.
+
+Zio regarda son épouse.
+
+— Hasol…
+
+Elle tourna la tête.
+
+— Quoi ?
+
+Il hésita.
+
+Puis demanda plus doucement :
+
+— Et si la solution était, pour une fois, de laisser quelqu'un d'autre partir ?
+
+Hasol resta silencieuse.
+
+Elle regarda les cartes.
+
+Les points entourés.
+
+Les noms des villages.
+
+Elle pensa au jeune chasseur qui lui avait dit que ses parents étaient encore vivants grâce à elle.
+
+Puis à Iseria.
+
+— Je ne sais pas faire ça, murmura-t-elle.
+
+Zio sentit sa poitrine se serrer.
+
+Hasol releva les yeux.
+
+— Quand je vois un portail, je pense à maman.
+
+Sa voix trembla.
+
+— Je me demande s'il y a quelqu'un là-bas qui ne sait pas ce qui va lui arriver.
+
+Elle inspira difficilement.
+
+— Je sais que nous ne pouvons pas sauver tout le monde. Mais je ne peux pas rester ici en sachant que je pourrais peut-être aider.
+
+Samia acquiesça.
+
+— Moi non plus.
+
+Zio les contempla.
+
+Les deux femmes qui se tenaient devant lui étaient devenues extraordinairement puissantes.
+
+Hasol possédait seize cercles et un équipement runique exceptionnel.
+
+Samia pouvait détecter des portails avant leur apparition.
+
+Ensemble, elles permettaient de sauver de nombreuses vies.
+
+Mais elles ne semblaient plus capables de s'accorder le droit de vivre les leurs.
+
+Il baissa lentement la tête.
+
+— Je ne vous demande pas d'arrêter de protéger les gens.
+
+Sa voix était plus basse.
+
+— Je vous demande de ne pas vous détruire en essayant.
+
+Personne ne répondit.
+
+Puis Yoon entra dans le bureau.
+
+Elle avait entendu la dernière partie de la conversation.
+
+— Zio a raison.
+
+Samia tourna la tête.
+
+— Yoon…
+
+— Non. Écoute-moi.
+
+La Sage s'approcha.
+
+— Je veux continuer à combattre avec vous. Je veux aider les villages. Je veux que nous empêchions d'autres familles de disparaître.
+
+Elle regarda son amie.
+
+— Mais tu ne peux pas continuer à faire comme si tu n'avais jamais besoin de t'arrêter.
+
+Samia détourna les yeux.
+
+Yoon poursuivit :
+
+— Et toi non plus, Hasol.
+
+L'Arcaniste baissa la tête.
+
+Ray apparut à son tour dans l'encadrement de la porte.
+
+Il avait entendu suffisamment de choses pour comprendre.
+
+— J'ai une proposition.
+
+Les quatre autres se tournèrent vers lui.
+
+Il ajusta ses lunettes.
+
+— Nous avons des contacts dans plusieurs guildes. Nous avons de l'argent. Nous connaissons des chasseurs expérimentés.
+
+Il posa un registre sur la table.
+
+— Nous pouvons organiser des équipes de relève pour les régions où Samia détecte des portails.
+
+Samia releva les yeux.
+
+— Et si personne n'est disponible ?
+
+— Alors nous partirons.
+
+Ray contempla ses compagnons.
+
+— Mais au moins, nous aurons essayé de ne pas être les seuls à répondre à toutes les alertes.
+
+Hasol regarda le registre.
+
+Puis Zio.
+
+Elle savait qu'il avait raison.
+
+Tous avaient raison.
+
+Et pourtant, une partie d'elle refusait encore l'idée de rester derrière lorsque d'autres partaient au combat.
+
+Après un long silence, elle acquiesça.
+
+— Nous allons essayer.
+
+Zio sembla se détendre.
+
+Un peu.
+
+Samia posa sa carte.
+
+— D'accord.
+
+Yoon sourit faiblement.
+
+— Merci.
+
+Pendant quelque temps, cette nouvelle organisation fonctionna.
+
+Des chasseurs expérimentés acceptèrent de participer aux interventions annoncées par Samia.
+
+Certaines guildes mirent en place des formations de réserve.
+
+L'entreprise Shun contribua à financer du matériel destiné aux équipes qui protégeaient les villages les plus exposés.
+
+Hasol continua d'aider à préparer des runes et des équipements.
+
+Mais la multiplication des portails rendait chaque progrès fragile.
+
+Une nouvelle apparition obligeait à modifier un planning.
+
+Un boss particulièrement dangereux mobilisait les renforts destinés à une autre région.
+
+Une mission qui devait durer quelques heures se prolongeait.
+
+Et lorsqu'un village était menacé, Hasol et Samia repartaient.
+
+Toujours.
+
+Zio ne parvenait pas à les convaincre de ralentir durablement.
+
+Il continuait de les accompagner.
+
+De les protéger.
+
+D'organiser leurs retours.
+
+Mais au fond de lui, une inquiétude grandissait.
+
+Il connaissait sa femme.
+
+Il savait ce qu'elle pouvait accomplir.
+
+Il savait aussi qu'elle était capable de se pousser bien au-delà de ses limites lorsqu'elle croyait pouvoir sauver quelqu'un.
+
+Et désormais, Samia l'encourageait à aller toujours plus loin.
+
+Un soir, Zio trouva Samia seule sur la terrasse de la demeure.
+
+Elle observait la lune.
+
+Ses cheveux blonds prenaient des reflets pâles sous la lumière nocturne.
+
+Elle tenait une carte entre ses mains.
+
+— Tu ne dors pas ? demanda-t-il.
+
+— Pas encore.
+
+Il s'approcha.
+
+— Tu as senti quelque chose ?
+
+— Non.
+
+Zio s'arrêta.
+
+— Alors pourquoi cette carte ?
+
+Samia la contempla.
+
+— Pour être prête.
+
+Il resta silencieux.
+
+Puis demanda :
+
+— Tu te souviens du jour où tu as failli convaincre Ray que son arc d'entraînement avait été fabriqué à l'envers ?
+
+Samia tourna lentement la tête.
+
+— Oui.
+
+Zio sourit.
+
+— Il l'a vraiment cru pendant plusieurs minutes.
+
+Elle baissa les yeux.
+
+— Je me souviens.
+
+Il attendit.
+
+Mais elle ne rit pas.
+
+Il regarda la jeune femme qu'il connaissait depuis si longtemps.
+
+La Ranger vive et souriante qui avait autrefois plaisanté pendant les entraînements de l'Académie.
+
+Celle qui trouvait toujours une manière de se moquer gentiment des autres sans jamais les blesser.
+
+Elle était toujours là.
+
+Quelque part.
+
+Mais son sourire semblait appartenir à une autre époque.
+
+— Samia…
+
+Elle releva les yeux.
+
+— Quoi ?
+
+Zio hésita.
+
+Puis répondit :
+
+— Tu nous manques.
+
+Un silence s'installa.
+
+Samia contempla la lune.
+
+Pendant plusieurs secondes, elle ne bougea pas.
+
+Puis elle murmura :
+
+— Je suis toujours là.
+
+Zio acquiesça.
+
+— Je sais.
+
+Il ne trouva rien d'autre à dire.
+
+Et Samia retourna à sa carte.
+
+## XIV. Pas cette nuit, ma princesse
+
+La demeure Shun était silencieuse.
+
+Il était tard.
+
+Dans les couloirs, les dernières lampes avaient été éteintes.
+
+Le personnel avait terminé sa journée depuis longtemps.
+
+Zio monta lentement l'escalier.
+
+Il venait de rentrer d'une réunion avec plusieurs responsables de la guilde.
+
+Ils avaient discuté des procédures d'évacuation.
+
+Des renforts.
+
+Des besoins en équipement.
+
+Et des difficultés croissantes rencontrées dans les régions touchées par les portails violets.
+
+Il avait espéré retrouver Hasol dans leur chambre.
+
+Mais lorsqu'il ouvrit la porte de leur suite, le lit était vide.
+
+Il soupira doucement.
+
+Puis se dirigea vers le bureau.
+
+Hasol s'était endormie sur une pile de documents.
+
+Sa tête reposait sur son bras.
+
+Ses longs cheveux brun sombre s'étaient défaits de leur attache et couvraient une partie des cartes.
+
+Une plume était encore coincée entre ses doigts.
+
+Sur la table, plusieurs registres étaient ouverts.
+
+Des commandes destinées aux chasseurs.
+
+Des listes de runes.
+
+Des itinéraires.
+
+Des rapports de portails.
+
+Et, au centre, une grande carte de l'Empire sur laquelle Samia avait inscrit les dernières localisations.
+
+Zio resta un moment dans l'encadrement de la porte.
+
+Puis un sourire triste se dessina sur ses lèvres.
+
+Il s'approcha silencieusement.
+
+Hasol dormait profondément.
+
+Il aperçut une petite tache d'encre sur sa joue.
+
+Autrefois, elle se serait probablement indignée en l'apprenant.
+
+Il posa doucement la main sur son épaule.
+
+— Hasol ?
+
+Elle ne réagit pas.
+
+— Ma princesse…
+
+Elle remua légèrement.
+
+Puis murmura quelque chose d'incompréhensible.
+
+Zio se pencha.
+
+— Quoi ?
+
+— Le prochain…
+
+Il fronça légèrement les sourcils.
+
+— Le prochain quoi ?
+
+Hasol resserra les doigts autour de sa plume.
+
+— Le prochain portail…
+
+Zio ferma les yeux.
+
+Pendant quelques secondes, il resta immobile.
+
+Puis il lui retira doucement la plume des mains.
+
+Il referma les registres.
+
+Éteignit la lampe de travail.
+
+Et souleva délicatement son épouse.
+
+Hasol ouvrit à peine les yeux.
+
+— Zio… ?
+
+— Oui, ma princesse.
+
+— Je travaillais…
+
+— J'avais remarqué.
+
+Elle essaya de relever la tête.
+
+— Il faut que je termine…
+
+— Demain.
+
+— Mais…
+
+— Demain, Hasol.
+
+Elle soupira.
+
+Puis posa sa joue contre son épaule.
+
+— Tu es têtu.
+
+Il sourit doucement.
+
+— J'ai eu un excellent professeur.
+
+Même à moitié endormie, elle sembla comprendre.
+
+Un petit sourire apparut sur ses lèvres.
+
+Puis disparut lorsqu'elle se blottit davantage contre lui.
+
+Zio la porta jusqu'à leur chambre.
+
+Il la déposa doucement sur le lit.
+
+Retira ses chaussures.
+
+Puis remonta la couverture sur elle.
+
+Hasol ouvrit les yeux.
+
+Pendant un instant, elle sembla chercher à comprendre où elle se trouvait.
+
+Puis elle aperçut Zio.
+
+— Tu es rentré…
+
+— Oui.
+
+Il s'assit près d'elle.
+
+Hasol tendit la main.
+
+Il la prit.
+
+— La réunion s'est bien passée ?
+
+— Assez.
+
+— Ils ont accepté les nouvelles équipes de réserve ?
+
+— Nous en reparlerons demain.
+
+Elle fronça légèrement les sourcils.
+
+— Zio…
+
+Il se pencha et embrassa son front.
+
+— Demain.
+
+Hasol le regarda.
+
+Puis elle soupira.
+
+— D'accord.
+
+Il se leva pour se changer.
+
+Lorsqu'il revint, elle avait repoussé une partie de la couverture.
+
+Elle le regarda approcher.
+
+— Viens.
+
+Zio sourit.
+
+Il se glissa près d'elle.
+
+Hasol se rapprocha aussitôt et posa sa tête contre son torse.
+
+Il passa un bras autour de ses épaules.
+
+Pendant un moment, ils restèrent silencieux.
+
+Puis Hasol murmura :
+
+— Tu es fâché contre moi ?
+
+Zio baissa les yeux.
+
+— Pourquoi ?
+
+— Parce que je repars toujours.
+
+Il réfléchit.
+
+— Parfois, je suis fatigué.
+
+Elle acquiesça contre lui.
+
+— Je sais.
+
+— Parfois, j'ai peur.
+
+Hasol releva la tête.
+
+Il la regarda.
+
+— Pas seulement pour moi.
+
+Elle ne répondit pas.
+
+Zio poursuivit :
+
+— Quand je te vois partir sans avoir dormi, quand tu oublies de manger parce que Samia a trouvé une nouvelle localisation… je me demande jusqu'où tu iras.
+
+Hasol baissa les yeux.
+
+— Je ne veux pas te faire peur.
+
+— Je sais.
+
+Il écarta une mèche de son visage.
+
+— Mais tu n'es pas obligée de faire semblant de ne jamais avoir besoin de repos.
+
+Elle resta silencieuse.
+
+Puis murmura :
+
+— J'ai encore peur de m'arrêter.
+
+Zio ne répondit pas immédiatement.
+
+Hasol poursuivit :
+
+— Quand je ferme les yeux, je pense à maman.
+
+Sa voix trembla.
+
+— Et parfois, je me dis que si nous avions seulement trouvé le portail un peu plus tôt…
+
+Elle s'interrompit.
+
+Zio la serra doucement contre lui.
+
+— Je sais.
+
+Elle enfouit son visage contre sa poitrine.
+
+— Je voudrais tellement qu'elle soit encore là.
+
+Il déposa un baiser sur ses cheveux.
+
+— Moi aussi.
+
+Ils restèrent longtemps ainsi.
+
+Puis Hasol murmura :
+
+— Tu crois qu'elle serait fière de moi ?
+
+Zio baissa les yeux.
+
+La question lui serra le cœur.
+
+Il pensa à Iseria.
+
+À son sourire pendant leur mariage.
+
+À sa manière de regarder Hasol lorsqu'elle parlait de ses runes.
+
+À toutes les fois où elle avait pris la défense de sa fille.
+
+— Oui, répondit-il.
+
+Hasol releva légèrement la tête.
+
+— Même maintenant ?
+
+— Oui.
+
+Il posa une main contre sa joue.
+
+— Mais je crois aussi qu'elle te dirait de dormir.
+
+Hasol eut un petit rire.
+
+Un rire fragile.
+
+Mais véritable.
+
+— Elle disait toujours ça.
+
+Zio sourit.
+
+— Je sais.
+
+Elle se blottit de nouveau contre lui.
+
+Sa respiration ralentit progressivement.
+
+Au-dehors, la capitale dormait.
+
+Les lumières des rues s'éteignaient.
+
+La lune éclairait les fenêtres de la demeure Shun.
+
+Quelque part dans l'Empire, de nouveaux portails apparaîtraient certainement.
+
+D'autres chasseurs devraient bientôt partir.
+
+De nouvelles cartes seraient préparées.
+
+De nouvelles décisions devraient être prises.
+
+Mais pour l'instant, Hasol était là.
+
+Dans les bras de son mari.
+
+Zio caressa doucement ses cheveux.
+
+Puis l'entendit murmurer une dernière fois :
+
+— Le prochain portail…
+
+Il resserra son étreinte.
+
+Et répondit tout bas :
+
+— Pas cette nuit, ma princesse.
+
+Hasol ne répondit pas.
+
+Elle dormait déjà.
+
+Zio resta éveillé encore quelques instants.
+
+Il contempla son visage apaisé.
+
+Puis ferma les yeux à son tour.
+
+Pour quelques heures, au moins, ils pouvaient encore se retrouver.
+
+Et cela lui suffisait.
+
+**Fin du chapitre 15 — Enfin, la magie**
+
+
+---
+
+<span id="chapitre-16"></span>
+
+# Chapitre 16 — Celle qui demeure
+
+## I. Une fatigue différente
+
+Hasol avait appris à reconnaître presque toutes les formes de fatigue.
+
+Celle qui suivait un entraînement trop long, lorsque ses bras tremblaient encore après avoir rangé son épée.
+
+Celle qui accompagnait les longues journées passées devant son établi, à examiner des inscriptions runiques si minuscules qu'elle finissait par les voir même en fermant les yeux.
+
+Et celle, plus profonde, des expéditions contre les portails démoniaques.
+
+Depuis plusieurs années, elle avait affronté des centaines de créatures, participé à d'innombrables interventions et utilisé des quantités de Mana qui auraient épuisé plusieurs chasseurs ordinaires.
+
+Elle connaissait son corps.
+
+Ses limites.
+
+Ses habitudes.
+
+Pourtant, depuis quelque temps, quelque chose lui échappait.
+
+Ce matin-là, elle était assise devant son petit déjeuner lorsqu'une odeur provenant de la cuisine lui souleva brusquement le cœur.
+
+Elle porta une main à sa bouche.
+
+Zio, installé en face d'elle, releva immédiatement la tête.
+
+— Hasol ?
+
+Elle se leva.
+
+— Excuse-moi.
+
+Il repoussa sa chaise, mais elle avait déjà quitté la pièce.
+
+Lorsqu'il la retrouva quelques minutes plus tard, elle était appuyée contre le rebord d'une fenêtre, dans le couloir qui menait au jardin.
+
+— Ma princesse ?
+
+Hasol tourna légèrement la tête.
+
+Ses longs cheveux brun sombre étaient attachés en une queue-de-cheval un peu désordonnée.
+
+— Je vais bien.
+
+Zio croisa les bras.
+
+— Tu sais que c'est la troisième fois cette semaine que tu me dis ça ?
+
+— Parce que je vais bien.
+
+Il la regarda.
+
+Elle soutint son regard pendant deux secondes.
+
+Puis détourna les yeux.
+
+— Enfin… presque.
+
+Zio s'approcha.
+
+— Tu as encore des nausées ?
+
+— Un peu.
+
+— Et tu as dormi combien de temps ?
+
+Hasol réfléchit.
+
+— Suffisamment.
+
+— Hasol.
+
+Elle soupira.
+
+— Je ne sais pas. Cinq heures ?
+
+— Quatre, corrigea-t-il. Tu es venue te coucher après moi et tu étais déjà réveillée lorsque je me suis levé.
+
+— Tu exagères.
+
+— J'ai regardé l'heure.
+
+Elle fit la moue.
+
+Zio eut un sourire attendri.
+
+Malgré les années, certaines expressions de son épouse lui rappelaient toujours la jeune fille qui tentait de convaincre Orven qu'une rune supplémentaire ne représentait pas une dépense déraisonnable.
+
+Mais cette fois, son amusement ne suffisait pas à dissiper son inquiétude.
+
+— Je voudrais que tu consultes quelqu'un.
+
+Hasol fronça les sourcils.
+
+— Pourquoi ?
+
+— Parce que tu es fatiguée depuis plusieurs semaines, que tu manges moins et que tu as régulièrement des nausées.
+
+— Les derniers portails ont été particulièrement éprouvants.
+
+— Je sais. J'étais avec toi.
+
+Il posa doucement une main sur sa joue.
+
+— C'est justement pour ça que je m'inquiète.
+
+Hasol baissa les yeux.
+
+Elle détestait reconnaître qu'il avait raison lorsqu'elle ne comprenait pas elle-même ce qui lui arrivait.
+
+Et pourtant…
+
+Elle se sentait effectivement différente.
+
+Pas malade.
+
+Pas vraiment.
+
+Simplement épuisée d'une manière qu'aucune nuit de sommeil ne semblait corriger.
+
+— D'accord, murmura-t-elle.
+
+Zio haussa légèrement les sourcils.
+
+— D'accord ?
+
+— Je vais consulter.
+
+— Sans discuter ?
+
+Hasol leva les yeux au ciel.
+
+— Tu veux que je change d'avis ?
+
+— Certainement pas.
+
+Il déposa un baiser sur son front.
+
+— Je t'accompagne ?
+
+Elle secoua la tête.
+
+— Tu as une réunion avec les responsables de la guilde.
+
+— Elle peut attendre.
+
+— Zio.
+
+Elle lui prit la main.
+
+— Je peux aller voir une soigneuse sans que mon mari abandonne toutes ses obligations.
+
+Il hésita.
+
+Puis acquiesça.
+
+— Très bien. Mais tu me promets de m'en parler ce soir.
+
+Hasol lui adressa un petit sourire.
+
+— Promis.
+
+La consultation dura plus longtemps qu'elle ne l'avait imaginé.
+
+La soigneuse commença par lui poser des questions sur ses dernières interventions, ses blessures et la fréquence de ses périodes de repos.
+
+Hasol répondit avec précision.
+
+Lorsqu'on lui demanda si elle avait récemment subi un épuisement important de Mana, elle expliqua qu'elle utilisait régulièrement Siphon runique pour compenser certaines de ses dépenses.
+
+La femme écouta attentivement.
+
+Puis lui posa d'autres questions.
+
+Des questions auxquelles Hasol n'avait pas immédiatement pensé.
+
+Elle se tut.
+
+Compta mentalement plusieurs semaines.
+
+Puis releva brusquement les yeux.
+
+— Vous croyez que…
+
+La soigneuse lui adressa un sourire discret.
+
+— C'est une possibilité.
+
+Hasol resta immobile.
+
+Quelques examens et questions supplémentaires permirent d'écarter les autres causes les plus évidentes.
+
+Finalement, la femme s'assit en face d'elle.
+
+— Madame Shun, tout indique que vous attendez un enfant.
+
+Hasol ne répondit pas.
+
+Elle regardait la soigneuse sans réellement la voir.
+
+— Un… enfant ?
+
+— Oui.
+
+Le silence qui suivit sembla durer une éternité.
+
+— Vous en êtes certaine ?
+
+La femme lui expliqua ce qu'elle avait constaté, puis précisa que sa grossesse semblait encore très récente.
+
+Environ sept semaines.
+
+Sept semaines.
+
+Hasol porta lentement une main à son ventre.
+
+Elle ne sentait rien de particulier sous ses doigts.
+
+Aucun mouvement.
+
+Aucun signe visible de cette petite vie dont elle venait d'apprendre l'existence.
+
+Pourtant, quelque chose venait de changer.
+
+Elle pensa à Zio.
+
+À son sourire lorsqu'il lui apportait son thé.
+
+À ses bras autour d'elle, le soir.
+
+À leur mariage.
+
+À cette promesse qu'ils s'étaient faite de construire leur vie ensemble.
+
+Puis elle pensa à Iseria.
+
+Et les larmes lui montèrent aux yeux.
+
+Sa mère lui manquait chaque jour.
+
+Mais, à cet instant, son absence lui parut presque insupportable.
+
+Elle aurait voulu lui poser mille questions.
+
+Lui demander ce qu'elle avait ressenti lorsqu'elle avait appris qu'elle attendait Hasol.
+
+Si elle avait eu peur.
+
+Si Armin avait pleuré.
+
+S'il avait immédiatement commencé à l'appeler *sa princesse*, bien avant sa naissance.
+
+La soigneuse lui tendit un mouchoir.
+
+— Madame Shun ?
+
+Hasol cligna des yeux.
+
+— Excusez-moi.
+
+— Vous n'avez pas à vous excuser.
+
+Hasol regarda de nouveau son ventre.
+
+Puis un sourire se dessina lentement sur ses lèvres.
+
+— Je vais être maman…
+
+Elle prononça ces mots presque pour elle-même.
+
+Et, pour la première fois depuis très longtemps, elle sentit une joie qui ne dépendait ni d'un niveau gagné, ni d'une rune améliorée, ni d'un portail fermé.
+
+Une joie qui ne lui demandait rien d'autre que d'exister.
+
+Elle resta longtemps dans le jardin de la demeure Shun avant de rejoindre son bureau.
+
+Iseria avait autrefois passé des heures à cet endroit.
+
+Certaines plantes qu'elle avait cultivées poussaient toujours.
+
+Les employés entretenaient soigneusement les parterres, conformément aux indications que la mère d'Hasol avait laissées dans ses carnets.
+
+Hasol s'agenouilla près d'un massif de fleurs.
+
+Elle effleura une feuille du bout des doigts.
+
+— Maman…
+
+Sa voix se brisa légèrement.
+
+Elle baissa les yeux vers son ventre.
+
+— Tu aurais été tellement heureuse.
+
+Une larme glissa sur sa joue.
+
+Puis une autre.
+
+Hasol les essuya.
+
+Elle aurait voulu annoncer cette nouvelle à ses deux parents.
+
+Mais elle ne le pouvait plus.
+
+Alors elle resta quelques minutes auprès des fleurs d'Iseria.
+
+Et, lorsqu'elle se releva, elle avait pris une décision.
+
+Elle voulait l'annoncer à Zio elle-même.
+
+Ce soir.
+
+Sans rapports de mission.
+
+Sans cartes.
+
+Sans portails.
+
+Simplement eux deux.
+
+## II. « Tu vas être papa »
+
+Zio trouva la demeure étrangement calme lorsqu'il rentra.
+
+Aucun messager ne l'attendait dans le vestibule.
+
+Aucun employé ne courait à la recherche d'une signature urgente.
+
+Et, lorsqu'il demanda où se trouvait son épouse, on lui répondit qu'elle était dans leur salle à manger privée.
+
+Il s'arrêta.
+
+— Elle ne travaille pas ?
+
+L'employée eut un petit sourire.
+
+— Non, monsieur.
+
+Zio fronça les sourcils.
+
+C'était presque inquiétant.
+
+Il monta les escaliers.
+
+Lorsqu'il ouvrit la porte, il découvrit une table soigneusement préparée.
+
+Deux assiettes.
+
+Des fleurs.
+
+Quelques bougies.
+
+Et Hasol, debout près de la fenêtre.
+
+Elle portait une robe élégante, d'un bleu profond qui faisait ressortir ses yeux turquoise.
+
+Ses longs cheveux étaient détachés.
+
+Zio s'immobilisa.
+
+Puis sourit.
+
+— Je crois que j'ai oublié quelque chose.
+
+Hasol éclata de rire.
+
+— Quoi ?
+
+— Notre anniversaire de mariage ?
+
+— Non.
+
+— Ton anniversaire ?
+
+— Non plus.
+
+Il regarda la table.
+
+— Alors j'ai commis une erreur dont j'ignore encore la gravité.
+
+Hasol secoua la tête.
+
+— Viens ici, idiot.
+
+Il s'approcha.
+
+Elle se hissa légèrement sur la pointe des pieds et l'embrassa.
+
+Zio passa ses bras autour d'elle.
+
+— Bonjour, ma princesse.
+
+— Bonsoir.
+
+— Tu as l'air heureuse.
+
+Hasol sourit davantage.
+
+— Je le suis.
+
+Il la regarda avec attention.
+
+Depuis la mort d'Iseria, il avait appris à reconnaître les rares moments où le bonheur d'Hasol n'était pas traversé par une inquiétude secrète.
+
+Ce soir, quelque chose avait changé.
+
+Elle semblait nerveuse.
+
+Mais ses yeux brillaient.
+
+— Alors raconte-moi.
+
+— D'abord, nous dînons.
+
+— D'accord.
+
+— Et tu ne poses pas de questions.
+
+— Ça va être difficile.
+
+— Zio.
+
+— Très bien. Je serai exemplaire.
+
+Il tint cette promesse pendant presque toute la première partie du repas.
+
+Presque.
+
+Puis il posa ses couverts.
+
+— Hasol.
+
+Elle releva les yeux.
+
+— Oui ?
+
+— Est-ce que tu vas m'expliquer pourquoi tu as souri à ton verre d'eau pendant cinq minutes ?
+
+Elle se mit à rire.
+
+— Je n'ai pas fait ça.
+
+— Si.
+
+— Tu exagères.
+
+— Un peu.
+
+Elle baissa les yeux.
+
+Ses doigts jouaient nerveusement avec le bord de sa serviette.
+
+Zio remarqua ce geste.
+
+Son sourire s'adoucit.
+
+— Ma princesse ?
+
+Hasol inspira.
+
+Puis releva les yeux.
+
+— J'ai quelque chose à te dire.
+
+Il posa immédiatement sa tasse.
+
+— Tu me fais peur.
+
+— Pourquoi ?
+
+— Parce que tu prends exactement le même air que lorsque tu m'annonces que tu as décidé d'affronter un boss beaucoup trop puissant pour toi.
+
+Hasol rit nerveusement.
+
+— Cette fois, ce n'est pas un boss.
+
+— Alors je suis rassuré.
+
+Elle tendit les mains au-dessus de la table.
+
+Zio les prit.
+
+Pendant quelques secondes, Hasol contempla leurs doigts enlacés.
+
+Elle avait imaginé cette annonce plusieurs fois depuis la consultation.
+
+Elle avait préparé des phrases.
+
+Des plaisanteries.
+
+Même une manière élégante d'amener le sujet.
+
+Mais maintenant qu'il se trouvait devant elle, aucun de ces préparatifs ne lui semblait nécessaire.
+
+Elle avait simplement envie de lui dire.
+
+— Zio…
+
+— Oui ?
+
+Ses yeux se remplirent de larmes.
+
+— Je suis enceinte.
+
+Il resta immobile.
+
+Une seconde.
+
+Puis deux.
+
+Son regard glissa vers son ventre.
+
+Revint vers son visage.
+
+— Tu…
+
+Il s'interrompit.
+
+Hasol sourit à travers ses larmes.
+
+— Oui.
+
+— Tu es…
+
+— Enceinte.
+
+Zio ouvrit légèrement la bouche.
+
+Puis la referma.
+
+Hasol eut un petit rire.
+
+— Tu n'es pas obligé de trouver quelque chose à dire tout de suite.
+
+Il secoua la tête.
+
+— Attends.
+
+Il inspira profondément.
+
+— Je vais être papa ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Il la regarda encore.
+
+— Vraiment ?
+
+— Zio !
+
+— Pardon !
+
+Il se leva brusquement.
+
+Puis contourna la table.
+
+Hasol eut à peine le temps de se tourner vers lui qu'il s'agenouillait déjà devant sa chaise.
+
+Il posa délicatement les mains de chaque côté de son ventre.
+
+Comme s'il craignait de déranger quelque chose d'extrêmement fragile.
+
+— Bonjour, toi, murmura-t-il.
+
+Hasol éclata de rire.
+
+— Zio ! Il est beaucoup trop tôt pour qu'il t'entende !
+
+— Ce n'est pas grave.
+
+Il contempla son ventre.
+
+— Je préfère commencer à lui parler maintenant.
+
+Il releva les yeux.
+
+Son sourire était immense.
+
+— Comme ça, quand notre enfant arrivera, il connaîtra déjà ma voix.
+
+Hasol sentit son cœur se serrer de bonheur.
+
+Elle glissa une main dans les cheveux courts de son mari.
+
+— Tu es vraiment impossible.
+
+— Tu m'as épousé en connaissance de cause.
+
+Il se releva.
+
+Puis la prit dans ses bras.
+
+Hasol enfouit immédiatement son visage contre son épaule.
+
+Zio la serra doucement.
+
+Il riait.
+
+Puis elle sentit ses épaules trembler.
+
+Elle recula légèrement.
+
+— Zio ?
+
+Il essuya rapidement ses yeux.
+
+— Je suis heureux.
+
+Hasol sentit ses propres larmes revenir.
+
+— Moi aussi.
+
+Il posa son front contre le sien.
+
+— Tellement heureux, ma princesse.
+
+Ils restèrent enlacés longtemps.
+
+Puis Zio recula brusquement.
+
+— Attends.
+
+Hasol fronça les sourcils.
+
+— Quoi ?
+
+— Tu dois t'asseoir.
+
+Elle le regarda.
+
+— Je suis déjà assise depuis presque tout le dîner.
+
+— Oui, mais maintenant je sais que tu es enceinte.
+
+— Et ?
+
+— Et je ne sais pas encore exactement ce que je suis censé faire.
+
+Hasol se mit à rire.
+
+— Je crois que tu peux commencer par respirer.
+
+Il inspira ostensiblement.
+
+Elle rit davantage.
+
+— Voilà. Très bien.
+
+Zio la regarda avec tendresse.
+
+— Tu vas te moquer de moi pendant neuf mois ?
+
+— Probablement.
+
+— Alors notre enfant va avoir beaucoup de choses à apprendre.
+
+Hasol passa les bras autour de son cou.
+
+— Avec une mère comme moi ?
+
+— Certainement pas la patience.
+
+— Zio !
+
+Il l'embrassa avant qu'elle puisse protester davantage.
+
+Plus tard, ils s'installèrent près de la fenêtre.
+
+Hasol était assise entre les bras de son mari, sa tête appuyée contre lui.
+
+Au-dehors, les lumières de la capitale brillaient sous le ciel nocturne.
+
+— Sept semaines, répéta Zio.
+
+Hasol acquiesça.
+
+— Environ.
+
+Il contempla son ventre.
+
+— Et tu as combattu pendant tout ce temps sans le savoir…
+
+Elle se raidit légèrement.
+
+— Je sais.
+
+Il sentit immédiatement le changement.
+
+— Hé.
+
+Hasol baissa les yeux.
+
+— J'ai pris tellement de risques.
+
+Zio lui releva doucement le menton.
+
+— Tu ne savais pas.
+
+— Mais maintenant, je sais.
+
+Il acquiesça.
+
+— Oui.
+
+Hasol inspira profondément.
+
+— Je vais ralentir.
+
+Zio resta silencieux.
+
+Elle tourna la tête.
+
+— Tu pourrais au moins avoir l'air surpris.
+
+— Je suis extrêmement surpris.
+
+— Menteur.
+
+Il sourit.
+
+Puis reprit plus sérieusement :
+
+— Je ne veux pas t'interdire quoi que ce soit, Hasol.
+
+— Je sais.
+
+— Tu es une chasseuse exceptionnelle. Mais nous pouvons organiser les interventions autrement. Tu n'as pas besoin d'être au premier rang de chaque combat.
+
+Hasol contempla les lumières.
+
+— J'ai passé tellement de temps à poursuivre les portails…
+
+Elle posa une main sur son ventre.
+
+— Et maintenant, j'ai envie de rester ici.
+
+Zio l'embrassa sur la tempe.
+
+— Alors reste.
+
+Elle hésita.
+
+— Pas toujours.
+
+— Je sais.
+
+— Mais plus souvent.
+
+Il sourit.
+
+— Ça me paraît être un excellent début.
+
+Hasol se blottit contre lui.
+
+Puis murmura :
+
+— J'aurais voulu que papa et maman soient là.
+
+Zio resserra son étreinte.
+
+— Moi aussi.
+
+— Maman aurait probablement commencé à préparer la chambre immédiatement.
+
+— Et ton père ?
+
+Hasol eut un petit rire.
+
+— Il aurait acheté tout ce que l'Empire possède de plus coûteux.
+
+Zio sourit.
+
+— Je vois très bien la scène.
+
+— Il aurait dit que rien n'était trop beau pour son petit-enfant.
+
+Elle s'interrompit.
+
+Puis ajouta plus doucement :
+
+— Il m'appelait toujours sa princesse.
+
+Zio posa sa joue contre ses cheveux.
+
+— Alors nous raconterons ça à notre enfant.
+
+Hasol releva les yeux.
+
+— Quoi ?
+
+— Tout.
+
+Il sourit.
+
+— Comment son grand-père t'appelait sa princesse. Comment sa grand-mère connaissait les plantes mieux que n'importe qui. Comment ils t'ont aimée.
+
+Hasol sentit les larmes monter.
+
+— Tu crois qu'il voudra entendre toutes ces histoires ?
+
+— Avec une mère qui possède autant de souvenirs à raconter ?
+
+Il l'embrassa.
+
+— Il n'aura pas le choix.
+
+Elle rit doucement.
+
+Puis posa sa main sur la sienne, contre son ventre.
+
+Pour la première fois depuis des années, Hasol ne ressentit pas le besoin de penser au prochain portail.
+
+Elle imaginait une petite chambre.
+
+Des rires.
+
+Des pas dans les couloirs.
+
+Et Zio, assis près d'un berceau, racontant avec beaucoup trop de sérieux les exploits d'un enfant qui ne saurait pas encore parler.
+
+Elle ferma les yeux.
+
+L'avenir lui faisait encore peur.
+
+Mais pour la première fois depuis longtemps, elle avait de nouveau hâte de le découvrir.
+
+## III. Une famille à venir
+
+La nouvelle fut annoncée aux compagnons quelques jours plus tard.
+
+Zio avait insisté pour réunir tout le monde à la demeure Shun.
+
+Ray arriva le premier, un livre sous le bras.
+
+Yoon le suivit peu après.
+
+Samia fut la dernière à entrer.
+
+Elle portait encore son équipement de Ranger et semblait revenir directement d'une intervention.
+
+Hasol remarqua les traces de poussière sur ses bottes.
+
+— Tu as encore chassé toute la journée ?
+
+— Une équipe avait besoin de renforts pour un portail vert.
+
+Samia retira sa cape.
+
+— Il a été fermé avant que les démons puissent atteindre les habitations.
+
+— Tant mieux.
+
+Samia acquiesça.
+
+Puis aperçut la table préparée.
+
+— Une occasion particulière ?
+
+Zio regarda Hasol.
+
+Elle sourit.
+
+— Oui.
+
+Ray leva les yeux de son livre.
+
+— Vous avez découvert une nouvelle rune ?
+
+Yoon soupira.
+
+— Ray…
+
+— Quoi ? C'est généralement pour ça qu'Hasol nous réunit.
+
+— Pas généralement, protesta l'Arcaniste.
+
+Zio eut un petit rire.
+
+— Assieds-toi, Ray.
+
+Les cinq compagnons prirent place autour de la table.
+
+Hasol sentit sa nervosité revenir.
+
+Mais cette fois, Zio lui tenait la main.
+
+Elle regarda leurs amis.
+
+Ces quatre personnes avaient partagé tant de choses avec elle.
+
+Les premières humiliations de l'Académie.
+
+Les entraînements.
+
+Les donjons.
+
+Les victoires.
+
+Le mariage.
+
+Puis les pertes.
+
+Elle inspira profondément.
+
+— Nous avons quelque chose à vous annoncer.
+
+Yoon observa leurs mains enlacées.
+
+Puis les yeux brillants d'Hasol.
+
+Son expression changea.
+
+— Attendez…
+
+Zio sourit.
+
+— Yoon.
+
+Sa sœur porta les mains à sa bouche.
+
+— Non…
+
+Hasol éclata de rire.
+
+— Je n'ai encore rien dit !
+
+— Tu n'as pas besoin !
+
+Ray regarda alternativement les deux femmes.
+
+— Quelqu'un pourrait-il expliquer ?
+
+Samia restait silencieuse.
+
+Hasol posa doucement une main sur son ventre.
+
+— Je suis enceinte.
+
+Yoon poussa un cri.
+
+Puis bondit de sa chaise.
+
+— Hasol !
+
+Elle contourna la table et prit sa belle-sœur dans ses bras.
+
+— Je vais être tante !
+
+Zio éclata de rire.
+
+— Tu pourrais faire attention à ma femme ?
+
+Yoon lui lança un regard.
+
+— C'est aussi ma belle-sœur !
+
+— Je suis au courant.
+
+— Et ton enfant sera mon neveu ou ma nièce !
+
+Ray referma lentement son livre.
+
+— Oh.
+
+Il regarda Hasol.
+
+Puis Zio.
+
+— Oh !
+
+Samia baissa les yeux vers le ventre de son amie.
+
+Pendant quelques secondes, personne ne remarqua son silence.
+
+Puis Hasol se tourna vers elle.
+
+— Samia ?
+
+La Ranger releva la tête.
+
+Son visage, habituellement si fermé depuis la disparition d’une partie de sa famille, semblait soudain hésiter entre plusieurs émotions.
+
+Elle s'approcha lentement.
+
+— Tu vas être maman…
+
+Hasol acquiesça.
+
+— Oui.
+
+Samia contempla son amie.
+
+Puis ses lèvres s'étirèrent.
+
+Un sourire.
+
+Pas celui, bref et poli, qu'elle adressait parfois aux responsables des guildes.
+
+Un véritable sourire.
+
+Chaleureux.
+
+Presque semblable à ceux d'autrefois.
+
+— Je suis tellement heureuse pour toi.
+
+Hasol sentit sa gorge se serrer.
+
+Elle ouvrit les bras.
+
+Samia vint immédiatement s'y blottir.
+
+Pendant quelques instants, les deux femmes restèrent enlacées.
+
+Puis Samia murmura :
+
+— Tu vas avoir une famille à toi…
+
+Hasol resserra doucement son étreinte.
+
+— Tu en feras toujours partie.
+
+La Ranger resta immobile.
+
+Puis baissa la tête contre l'épaule de son amie.
+
+Lorsqu'elle se recula, ses yeux étaient humides.
+
+Mais son sourire n'avait pas complètement disparu.
+
+Ray reprit rapidement ses habitudes.
+
+— C'est fascinant.
+
+Hasol leva les yeux.
+
+— Quoi ?
+
+— La question de l'hérédité.
+
+Zio le regarda avec méfiance.
+
+— Ray.
+
+— Nous ignorons encore dans quelle mesure les particularités des cercles de Mana sont liées aux parents. Avec une Arcaniste runique légendaire et un Gardien rare…
+
+— Ray, répéta Yoon.
+
+— Je ne dis pas que nous pouvons prédire sa classe ! Justement, ce serait une erreur scientifique.
+
+Samia baissa les yeux pour dissimuler un sourire.
+
+Hasol croisa les bras.
+
+— Notre enfant n'a même pas encore de prénom.
+
+— C'est un autre sujet.
+
+Zio soupira.
+
+— Tu peux au moins attendre qu'il soit né avant de vouloir lui faire passer un examen ?
+
+Ray ajusta ses lunettes.
+
+— Bien sûr.
+
+Un silence s'installa.
+
+Puis il ajouta :
+
+— Je pourrais simplement commencer par noter les observations familiales…
+
+— Ray !
+
+Cette fois, tout le monde éclata de rire.
+
+Même Samia.
+
+Un rire bref.
+
+Surprenant.
+
+Mais tellement familier que Yoon sentit son cœur se serrer.
+
+Elle regarda son amie.
+
+Samia s'essuya rapidement les yeux.
+
+— Quoi ?
+
+Yoon sourit.
+
+— Rien.
+
+Elle lui prit la main sous la table.
+
+Et ne la lâcha pas pendant le reste du repas.
+
+Après le départ de Ray et Yoon, Samia resta quelques minutes avec Hasol.
+
+Elles marchèrent dans le jardin.
+
+La nuit était douce.
+
+Les fleurs qu'Iseria avait plantées diffusaient une odeur légère.
+
+Samia les observa longuement.
+
+— Ta mère aurait été heureuse.
+
+Hasol acquiesça.
+
+— Je sais.
+
+La Ranger hésita.
+
+Puis ajouta :
+
+— Ma tante aussi.
+
+Un silence s'installa.
+
+Hasol posa doucement une main sur son bras.
+
+Samia contempla le jardin.
+
+— Elle adorait les enfants.
+
+Sa voix s'adoucit.
+
+— Elle disait toujours que les maisons trop silencieuses étaient tristes.
+
+Hasol sentit sa gorge se serrer.
+
+— Alors tu viendras remplir la nôtre de bruit.
+
+Samia tourna la tête.
+
+Hasol sourit.
+
+— Je compte sur toi pour apprendre à notre enfant à tirer à l'arc.
+
+La Ranger eut un petit rire.
+
+— Pas avant qu'il sache marcher.
+
+— Tu es moins ambitieuse que Ray.
+
+— Ce n'est pas difficile.
+
+Elles sourirent toutes les deux.
+
+Puis Samia baissa les yeux.
+
+— Hasol…
+
+— Oui ?
+
+— Je suis vraiment heureuse pour vous.
+
+— Je sais.
+
+Samia contempla la demeure.
+
+Les fenêtres éclairées.
+
+La silhouette de Zio qui rangeait encore quelques affaires dans la salle à manger.
+
+— Tu devrais profiter de tout ça.
+
+Hasol fronça légèrement les sourcils.
+
+— Tu en parles comme si tu allais partir.
+
+Samia secoua la tête.
+
+— Non.
+
+Elle hésita.
+
+— Mais tu n'as plus besoin de courir après chaque portail.
+
+Hasol posa une main sur son ventre.
+
+— Je sais.
+
+Samia lui adressa un sourire fragile.
+
+— Alors laisse-moi m'occuper de ceux que je peux.
+
+Hasol la regarda.
+
+— Tu n'es pas obligée de prendre ma place.
+
+— Ce n'est pas ce que je fais.
+
+Samia contempla le ciel.
+
+— J'ai simplement encore du travail.
+
+Hasol sentit une inquiétude naître en elle.
+
+Mais elle ne trouva pas immédiatement les mots pour la formuler.
+
+Alors elle serra la main de son amie.
+
+— Promets-moi de faire attention.
+
+Samia acquiesça.
+
+— Je te le promets.
+
+Puis elle repartit.
+
+Hasol la regarda traverser le jardin.
+
+Pendant un instant, elle eut l'impression de voir s'éloigner une lumière qui avait autrefois éclairé toute leur équipe.
+
+## IV. Celle qui continue seule
+
+Les semaines suivantes apportèrent de profonds changements à la vie d'Hasol.
+
+Elle ne cessa pas immédiatement toute activité.
+
+Son entreprise avait toujours besoin d'elle.
+
+Les ateliers réclamaient parfois ses connaissances.
+
+Les guildes sollicitaient encore ses conseils pour préparer les interventions les plus dangereuses.
+
+Mais elle ne participait plus à chaque expédition.
+
+Elle confia davantage de responsabilités à ses employés.
+
+Accepta que Ray et Yoon organisent certaines missions sans elle.
+
+Et passa plus de temps auprès de Zio.
+
+Ils commencèrent à examiner les pièces disponibles dans la demeure Shun.
+
+La première chambre envisagée leur parut trop éloignée de leur suite.
+
+La seconde était trop sombre.
+
+La troisième avait une vue magnifique sur le jardin, mais Zio remarqua immédiatement qu'une fenêtre fermait mal.
+
+Hasol leva les yeux au ciel.
+
+— Nous pouvons la faire réparer.
+
+— Je sais.
+
+— Tu n'as pas besoin de chercher un défaut à chaque pièce.
+
+— Je ne cherche pas des défauts. Je prépare la chambre de notre enfant.
+
+Elle sourit.
+
+— Avec le sérieux d'un commandant de guilde.
+
+— C'est une mission importante.
+
+Hasol rit.
+
+Puis se rapprocha de lui.
+
+— Tu crois que nous serons de bons parents ?
+
+Zio la regarda avec surprise.
+
+— Bien sûr.
+
+— Tu réponds vite.
+
+Il lui prit la main.
+
+— Je n'ai pas dit que nous ne ferions jamais d'erreurs.
+
+Hasol baissa les yeux.
+
+— J'ai peur d'en faire.
+
+— Moi aussi.
+
+Il l'attira doucement contre lui.
+
+— Mais nous apprendrons.
+
+Elle posa sa tête contre son épaule.
+
+— Ensemble ?
+
+Zio l'embrassa sur les cheveux.
+
+— Ensemble.
+
+Pendant ce temps, Samia continuait de chasser.
+
+Elle avait accepté plusieurs interventions auprès de guildes qui ne travaillaient habituellement pas avec l'équipe d'Hasol.
+
+Un portail blanc dans les montagnes.
+
+Deux verts près des routes commerciales.
+
+Un bleu dans une région agricole.
+
+Puis d'autres.
+
+Elle prévenait parfois Hasol de ses déplacements.
+
+Mais de moins en moins souvent.
+
+Ses messages devenaient courts.
+
+Précis.
+
+Une localisation.
+
+Une couleur.
+
+Une équipe mobilisée.
+
+Une intervention terminée.
+
+Yoon tenta plusieurs fois de la convaincre de prendre quelques jours de repos.
+
+Samia refusait presque toujours.
+
+— Je vais bien.
+
+— Tu n'as pas dormi depuis combien de temps ?
+
+— Suffisamment.
+
+Yoon reconnaissait cette réponse.
+
+Hasol l'avait utilisée pendant des années.
+
+Mais là où Hasol avait fini par accepter l'idée de ralentir, Samia semblait désormais incapable d'envisager cette possibilité.
+
+Un soir, Hasol la trouva dans l'un des petits salons de la guilde.
+
+Des cartes recouvraient la table.
+
+La Ranger vérifiait son équipement.
+
+— Tu repars déjà ?
+
+Samia releva la tête.
+
+— Un portail bleu. À l'ouest.
+
+— Zio m'a dit qu'une guilde avait envoyé une équipe.
+
+— Oui. Je pars avec eux.
+
+Hasol resta silencieuse.
+
+— Tu sais que tu peux rester un peu avec nous ?
+
+Samia referma sa sacoche.
+
+— Je sais.
+
+— Tu n'as pas besoin de tout faire toute seule.
+
+— Je ne suis pas seule. Il y aura des chasseurs.
+
+Hasol baissa les yeux.
+
+— Ce n'est pas ce que je voulais dire.
+
+Samia l'observa longtemps.
+
+Puis son regard glissa vers le ventre encore discret de son amie.
+
+Elle s'approcha et posa doucement une main sur la sienne.
+
+— Tu dois prendre soin de vous deux.
+
+Hasol sentit son cœur se serrer.
+
+— Et toi, tu dois prendre soin de toi.
+
+Un silence s'installa.
+
+— Je fais attention, répondit Samia.
+
+Hasol secoua doucement la tête.
+
+— Non. Tu fais attention aux autres.
+
+Samia détourna les yeux.
+
+— Quelqu'un doit continuer à fermer les portails.
+
+— Samia…
+
+— Je suis heureuse pour toi, Hasol. Vraiment.
+
+Sa voix s'adoucit.
+
+— Tu as enfin quelque chose qui mérite que tu t'arrêtes.
+
+Hasol se rapprocha.
+
+— Toi aussi, tu mérites de vivre.
+
+Samia ne répondit pas.
+
+Elle prit son arc.
+
+Puis quitta doucement la pièce.
+
+Ce soir-là, Hasol raconta la conversation à Zio.
+
+Il l'écouta sans l'interrompre.
+
+Lorsqu'elle eut terminé, il resta silencieux.
+
+— Tu crois qu'elle m'en veut ? demanda-t-elle.
+
+Zio secoua immédiatement la tête.
+
+— Non.
+
+— Pourtant, elle s'éloigne.
+
+— Je sais.
+
+Il prit la main de son épouse.
+
+— Samia est heureuse pour toi. Je l'ai vu lorsqu'elle a appris la nouvelle.
+
+Hasol baissa les yeux.
+
+— Alors pourquoi ne vient-elle plus ?
+
+Zio réfléchit.
+
+— Pendant des années, vous vous êtes encouragées à combattre toujours davantage.
+
+Il lui caressa doucement les doigts.
+
+— Maintenant que tu commences à ralentir, elle ne sait peut-être plus quoi faire de toute cette colère.
+
+Hasol contempla leurs mains.
+
+— Je voudrais l'aider.
+
+— Je sais, ma princesse.
+
+Il l'attira contre lui.
+
+— Mais tu ne peux pas vivre à sa place.
+
+Hasol ferma les yeux.
+
+Elle avait passé des années à croire qu'il suffisait d'avoir assez de puissance pour empêcher les gens de souffrir.
+
+Elle commençait seulement à comprendre que certaines blessures ne se refermaient pas avec une rune améliorée.
+
+Ni avec un sort de soin.
+
+Ni même avec une victoire.
+
+Et cette découverte lui faisait peur.
+
+## V. La carte des failles
+
+La nouvelle évolution du passif de Samia apparut au cours d'une nuit sans sommeil.
+
+Elle était seule dans une chambre louée près de la guilde.
+
+Une carte de l'Empire reposait sur la table.
+
+Autour d'elle, plusieurs rapports d'intervention étaient empilés avec un soin presque excessif.
+
+Depuis qu'elle avait obtenu Présage des failles, Samia notait tout.
+
+L'heure de ses premières sensations.
+
+Le délai jusqu'à l'apparition du portail.
+
+La distance entre sa première estimation et la position réelle de la brèche.
+
+La couleur observée.
+
+La durée des opérations.
+
+Le nombre de victimes.
+
+Surtout le nombre de victimes.
+
+Elle conservait tous ces relevés.
+
+Pas pour les publier.
+
+Pas pour impressionner les guildes.
+
+Mais parce qu'elle refusait d'oublier ce qui arrivait lorsqu'une information manquait.
+
+Ce soir-là, elle venait de terminer son dernier rapport lorsqu'une sensation familière traversa sa poitrine.
+
+Un portail allait apparaître.
+
+Puis une deuxième sensation suivit.
+
+Plus faible.
+
+Dans une autre direction.
+
+Samia posa sa plume.
+
+Elle avait déjà ressenti plusieurs apparitions presque simultanées.
+
+Mais cette fois, quelque chose était différent.
+
+Les deux présages ne se mélangeaient plus dans son esprit.
+
+Elle percevait leur position comme deux points distincts.
+
+Et autour de chacun, une impression particulière.
+
+Une nuance.
+
+Une intensité.
+
+Une couleur.
+
+Samia ferma les yeux.
+
+Une image se forma devant elle.
+
+Des lignes.
+
+Des routes.
+
+Des reliefs.
+
+La silhouette familière de l'Empire.
+
+Puis deux petites lumières apparurent.
+
+L'une blanche.
+
+L'autre verte.
+
+Samia ouvrit brusquement les yeux.
+
+L'image ne disparut pas immédiatement.
+
+Elle flottait devant elle comme une carte faite de Mana.
+
+Elle se leva si vite que sa chaise recula contre le mur.
+
+— Qu'est-ce que…
+
+Une fenêtre du système apparut.
+
+<div class="system-window lit-window" data-window-id="C16-F01" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F01-mobile.svg">
+    <img src="assets/fenetres/C16-F01.svg" alt="Fenêtre du système — SYSTÈME — ÉVOLUTION DE COMPÉTENCE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — ÉVOLUTION DE COMPÉTENCE
+  </div>
+  <h3>Présage des failles</h3>
+  <p>Évolution : Cartographie des portails</p>
+  <p>Permet de visualiser sur une carte magique les portails démoniaques détectés, leur emplacement et leur classification par couleur.</p>
+  <p>Les futurs portails deviennent visibles pendant la fenêtre habituelle de prévision, environ dix heures avant leur manifestation.</p>
+  <p>La carte se met à jour selon les apparitions perçues.</p>
+  </details>
+</div>
+
+Samia resta immobile.
+
+Puis elle tendit la main vers la carte lumineuse.
+
+L'image suivit son mouvement.
+
+Elle pouvait l'agrandir.
+
+La déplacer.
+
+Observer une région particulière.
+
+Et surtout…
+
+Elle pouvait distinguer les couleurs.
+
+Un sourire incrédule apparut brièvement sur ses lèvres.
+
+— Enfin…
+
+Elle contempla les deux lumières.
+
+Depuis des mois, elle cherchait une manière de mieux organiser les interventions.
+
+Avec cette carte, les informations seraient beaucoup plus faciles à exploiter.
+
+Elle n'aurait plus besoin de comparer des dizaines de relevés pour interpréter ses sensations.
+
+Elle pourrait voir les portails.
+
+Et leur couleur.
+
+Avant même qu'ils apparaissent.
+
+Samia sentit les larmes lui monter aux yeux.
+
+Elle pensa au village détruit.
+
+À sa tante.
+
+À l'arc brisé de son cousin.
+
+Puis elle ferma les poings.
+
+— Cette fois, je vous trouverai.
+
+Yoon découvrit la nouvelle compétence le lendemain matin.
+
+Samia avait demandé à lui parler dans une petite salle de la guilde.
+
+Lorsqu'elle arriva, la Ranger se tenait devant une carte magique suspendue au-dessus de la table.
+
+Des points de lumière indiquaient plusieurs portails existants.
+
+D'autres apparaissaient près de régions où aucune brèche n'était encore visible.
+
+Yoon s'arrêta.
+
+— Samia…
+
+La Ranger tourna la tête.
+
+— Regarde.
+
+Elle déplaça la carte.
+
+Puis agrandit une région.
+
+— Celui-ci apparaîtra dans environ six heures. Blanc.
+
+Yoon observa le point.
+
+— Et tu connais déjà sa couleur ?
+
+Samia acquiesça.
+
+— Oui.
+
+Elle désigna un second emplacement.
+
+— Celui-là sera vert.
+
+Yoon resta silencieuse.
+
+Puis un sourire se dessina sur son visage.
+
+— C'est extraordinaire.
+
+Samia baissa les yeux vers sa carte.
+
+— C'est surtout utile.
+
+— Samia.
+
+La Ranger releva la tête.
+
+— Quoi ?
+
+Yoon s'approcha.
+
+— Tu viens d'obtenir une compétence dont les guildes rêveraient.
+
+Elle prit doucement la main de son amie.
+
+— Tu peux être contente.
+
+Samia regarda de nouveau les points lumineux.
+
+— Je le serai quand ils auront été fermés.
+
+Le sourire de Yoon s'effaça.
+
+Elle connaissait cette réponse.
+
+Elle l'avait entendue trop souvent.
+
+— Tu es venue ici directement après ta dernière mission ?
+
+Samia hésita.
+
+— Oui.
+
+— Tu as dormi ?
+
+— Un peu.
+
+Yoon soupira.
+
+Puis observa les cernes sous ses yeux.
+
+— Tu pourrais venir passer la journée avec moi.
+
+Samia fronça les sourcils.
+
+— Pourquoi ?
+
+— Parce que j'en ai envie.
+
+La Ranger resta silencieuse.
+
+Yoon poursuivit :
+
+— Nous pourrions aller déjeuner. Nous promener. Parler de quelque chose qui n'a aucun rapport avec les portails.
+
+Samia baissa les yeux.
+
+Pendant quelques secondes, elle sembla hésiter sincèrement.
+
+Puis l'un des points de sa carte se mit à briller.
+
+Elle releva immédiatement la tête.
+
+— Un nouveau présage.
+
+Yoon ferma les yeux.
+
+Samia agrandit l'image.
+
+— C'est un blanc, près de la route du nord.
+
+Elle attrapa son carnet.
+
+— Je dois prévenir la guilde.
+
+— Samia…
+
+— Nous déjeunerons une autre fois.
+
+La Ranger se dirigea vers la porte.
+
+Puis s'arrêta.
+
+Elle se retourna.
+
+— Yoon ?
+
+La Sage releva les yeux.
+
+— Oui ?
+
+Samia hésita.
+
+— Merci d'être venue.
+
+Yoon lui adressa un sourire triste.
+
+— Je viendrai toujours.
+
+La porte se referma.
+
+Yoon resta seule devant la table.
+
+La carte magique s'était dissipée avec le départ de Samia.
+
+Mais elle avait l'impression que son amie, elle aussi, disparaissait un peu davantage chaque jour.
+
+Hasol accueillit la nouvelle avec une admiration sincère.
+
+Lorsque Samia lui présenta sa carte, elle passa plusieurs minutes à l'examiner.
+
+— Tu peux vraiment distinguer les futurs portails ?
+
+— Oui.
+
+— Même lorsqu'ils ne sont pas encore apparus ?
+
+— Pendant les dix heures qui précèdent leur manifestation.
+
+Hasol observa les petites lumières.
+
+— Et tu connais leur couleur…
+
+Samia acquiesça.
+
+— Blanc, vert, bleu, violet. Tous ceux que nous avons rencontrés jusqu'ici.
+
+Hasol releva les yeux.
+
+— C'est incroyable.
+
+Un bref sourire apparut sur le visage de Samia.
+
+Puis elle désigna un point vert.
+
+— Celui-ci sera le prochain à ouvrir.
+
+Hasol examina la région.
+
+— Une guilde a déjà préparé l'intervention ?
+
+— Oui. Mais je vais les accompagner.
+
+Hasol baissa les yeux.
+
+— Encore ?
+
+Samia ne répondit pas immédiatement.
+
+Puis elle fit disparaître la carte.
+
+— Ils auront besoin d'une Ranger expérimentée.
+
+Hasol contempla son amie.
+
+Elle aurait voulu lui demander de rester.
+
+De partager un repas.
+
+De venir choisir les premiers meubles de la chambre du bébé.
+
+Mais elle savait déjà ce que Samia répondrait.
+
+Alors elle se contenta de dire :
+
+— Reviens nous voir après.
+
+Samia acquiesça.
+
+— Je passerai.
+
+Elle repartit.
+
+Et Hasol demeura seule dans le salon, avec le sentiment douloureux de voir son amie s'éloigner d'une vie dont elle n'arrivait plus à profiter.
+
+## VI. La lumière orange
+
+Le présage arriva quatre jours plus tard.
+
+Il était encore très tôt.
+
+Samia venait de rentrer d'une intervention contre un portail vert.
+
+Elle n'avait pas retiré ses bottes.
+
+Son arc reposait contre la porte.
+
+Elle s'apprêtait à fermer les yeux quelques instants lorsqu'une sensation brutale traversa tout son corps.
+
+Samia se redressa.
+
+Ce n'était pas un présage ordinaire.
+
+La pression était immense.
+
+Comme si une nouvelle brèche venait de déformer la perception qu'elle avait de l'espace.
+
+Elle invoqua immédiatement sa carte.
+
+Plusieurs points lumineux apparurent.
+
+Des blancs.
+
+Un vert.
+
+Deux bleus déjà sous surveillance.
+
+Puis une autre lumière se forma.
+
+Au sud de la capitale.
+
+Tout près des quartiers où se trouvait la demeure Shun.
+
+Elle était orange.
+
+Samia se figea.
+
+Elle n'avait jamais vu cette couleur sur sa carte.
+
+Même les portails violets semblaient beaucoup moins inquiétants.
+
+Elle agrandit la région.
+
+Vérifia les routes.
+
+Les propriétés.
+
+Les positions.
+
+Puis son doigt s'arrêta.
+
+— Non…
+
+Le point lumineux se trouvait près de la demeure d'Hasol.
+
+Samia recula d'un pas.
+
+Pendant quelques secondes, elle revit les ruines de son village.
+
+Les habitants qui n'avaient pas eu le temps de fuir.
+
+Les secouristes.
+
+Les noms annoncés par l'officier.
+
+Puis elle referma les doigts.
+
+— Pas cette fois.
+
+Elle saisit sa cape.
+
+Et partit immédiatement.
+
+Zio ouvrit lui-même la porte lorsqu'elle arriva.
+
+Il était encore en tenue de nuit.
+
+— Samia ?
+
+La Ranger respirait rapidement.
+
+— Il faut réveiller Hasol.
+
+Son expression changea aussitôt.
+
+— Qu'est-ce qui se passe ?
+
+— Un portail.
+
+— Où ?
+
+Samia le regarda.
+
+— Ici.
+
+Zio resta immobile.
+
+Puis il suivit la direction de son regard.
+
+La demeure.
+
+Les jardins.
+
+Les quartiers voisins.
+
+— Ici ?
+
+Samia acquiesça.
+
+— À proximité immédiate.
+
+— Quelle couleur ?
+
+Elle hésita.
+
+— Orange.
+
+Zio sentit un froid lui parcourir le dos.
+
+Il n'avait jamais entendu parler d'un portail de cette couleur.
+
+— Attends ici.
+
+Il monta immédiatement à l'étage.
+
+Hasol se réveilla lorsqu'il posa une main sur son épaule.
+
+— Ma princesse ?
+
+Elle ouvrit les yeux.
+
+— Zio… ?
+
+Il s'assit près d'elle.
+
+Elle remarqua aussitôt son expression.
+
+— Qu'est-ce qu'il y a ?
+
+— Samia est là.
+
+Hasol se redressa.
+
+— Un portail ?
+
+Zio acquiesça.
+
+— Près de la maison.
+
+Elle resta silencieuse.
+
+— Quelle couleur ?
+
+Il la regarda.
+
+— Orange.
+
+Hasol sentit son cœur se serrer.
+
+Elle posa instinctivement une main sur son ventre.
+
+Puis repoussa la couverture.
+
+— Nous devons prévenir la guilde.
+
+Zio lui prit doucement le bras.
+
+— Nous allons le faire.
+
+Elle le regarda.
+
+— Il faut évacuer les quartiers.
+
+— Je sais.
+
+— Et les employés. Les ateliers. Les habitants des propriétés voisines…
+
+— Hasol.
+
+Sa voix était calme.
+
+Elle s'interrompit.
+
+Zio posa une main sur la sienne.
+
+— Nous allons nous en occuper.
+
+Elle inspira difficilement.
+
+Il baissa les yeux vers son ventre.
+
+Puis releva le regard.
+
+— Mais cette fois, nous allons aussi penser à vous deux.
+
+Hasol resta silencieuse.
+
+Puis acquiesça.
+
+— D'accord.
+
+Samia déploya sa carte sur la grande table du bureau.
+
+Le point orange brillait près de la capitale.
+
+Hasol l'observa longuement.
+
+Elle avait passé des années à consulter des cartes semblables.
+
+À comparer les distances.
+
+À préparer des interventions.
+
+À protéger les villages menacés.
+
+Mais jamais elle n'avait vu sa propre demeure apparaître si près d'une future brèche.
+
+— Combien de temps ? demanda-t-elle.
+
+— Moins de dix heures avant la manifestation.
+
+Hasol acquiesça.
+
+Puis regarda Zio.
+
+— Prévenons tout le monde.
+
+Il posa une main sur son épaule.
+
+— Je m'occupe de la guilde. Ray et Yoon doivent être avertis aussi.
+
+Samia désigna les routes.
+
+— Je vais aider à organiser l'évacuation.
+
+Hasol regarda son amie.
+
+— Samia…
+
+La Ranger releva la tête.
+
+— Quoi ?
+
+Hasol hésita.
+
+Puis répondit :
+
+— Merci.
+
+Samia resta immobile.
+
+Un instant, son expression s'adoucit.
+
+— Je t'avais promis de protéger ta famille.
+
+Hasol sentit les larmes lui monter aux yeux.
+
+Samia regarda son ventre.
+
+— Je compte bien tenir cette promesse.
+
+La brèche apparut un peu moins de dix heures plus tard.
+
+Une lumière orange se dessina dans le ciel.
+
+D'abord petite.
+
+Puis grandissante.
+
+Elle se stabilisa à proximité des terres entourant la demeure Shun, suffisamment près pour menacer directement le domaine et les quartiers voisins si les démons parvenaient à s'échapper.
+
+Les premiers observateurs restèrent sans voix.
+
+La surface du portail ressemblait à une immense blessure lumineuse.
+
+Des reflets dorés et cuivrés parcouraient ses contours.
+
+Puis les informations du système furent confirmées.
+
+<div class="system-window lit-window" data-window-id="C16-F02" data-window-type="regle">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F02-mobile.svg">
+    <img src="assets/fenetres/C16-F02.svg" alt="Fenêtre du système — SYSTÈME — NOUVELLE CLASSIFICATION">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — NOUVELLE CLASSIFICATION
+  </div>
+  <h3>Portail démoniaque orange</h3>
+  <p>Niveau des démons</p>
+  <p>50</p>
+  <p>Niveau du boss</p>
+  <p>70</p>
+  <p>Ouverture après apparition</p>
+  <p>48 heures</p>
+  <p>Capacité maximale</p>
+  <h3>400 points</h3>
+  <p>Somme des points de rareté autorisés pour l&#x27;opération</p>
+  </details>
+</div>
+
+Quatre cents points.
+
+Le chiffre circula immédiatement parmi les responsables des guildes.
+
+Même les opérations violettes, avec leurs deux cent cinquante points, paraissaient soudain beaucoup plus modestes.
+
+Et pourtant, le système ne présentait aucune explication sur ce qui attendait les chasseurs.
+
+Seulement une classification.
+
+Un niveau.
+
+Une capacité.
+
+Hasol contempla la lumière orange.
+
+Elle pensa aux démons blancs qui avaient tué Iseria.
+
+Aux bleus qui avaient détruit la famille de Samia.
+
+Puis aux violets que des formations entières avaient peiné à vaincre.
+
+Et, pour la première fois depuis longtemps, elle sentit une peur qui ne lui donnait pas envie de se précipiter vers son épée.
+
+Une peur qui lui donnait envie de rentrer.
+
+De fermer la porte.
+
+Et de ne plus quitter Zio.
+
+## VII. Quatre cents points
+
+Les quarante-huit heures qui suivirent furent consacrées aux préparatifs.
+
+L'ordre d'évacuation fut donné dès la confirmation du portail.
+
+Des familles quittèrent les quartiers les plus proches.
+
+Les employés de la demeure Shun aidèrent à charger les documents importants, les médicaments, les réserves de nourriture et les objets que les habitants ne pouvaient pas abandonner.
+
+Les ateliers fermèrent temporairement.
+
+Les artisans furent répartis entre des sites plus sûrs.
+
+Orven supervisa lui-même le déplacement de certaines réserves runiques.
+
+Hasol l'accompagna pendant une partie de la première journée.
+
+Le vieil artisan l'observa alors qu'elle examinait une caisse de pierres améliorées.
+
+— Tu n'es pas obligée de tout vérifier toi-même.
+
+Elle releva les yeux.
+
+— Je sais.
+
+Il regarda son visage.
+
+Puis son ventre encore presque plat.
+
+— Et tu n'es surtout pas obligée de faire comme si rien n'avait changé.
+
+Hasol baissa les yeux.
+
+Orven s'approcha.
+
+— Tu as bâti une entreprise capable de fonctionner lorsque tu n'es pas là. C'est aussi ça, réussir.
+
+Elle resta silencieuse.
+
+Puis acquiesça.
+
+— Vous avez raison.
+
+Il sourit légèrement.
+
+— J'aimerais pouvoir faire inscrire ces mots sur une pierre.
+
+Hasol eut un petit rire.
+
+— Ne vous habituez pas trop.
+
+Orven lui posa doucement une main sur l'épaule.
+
+— Va retrouver ton mari.
+
+Au centre de commandement, les guildes réunirent leurs meilleurs chasseurs.
+
+Une mobilisation exceptionnelle fut organisée.
+
+La formation destinée à combattre directement les démons du portail orange atteignit le plafond de quatre cents points de rareté.
+
+L'équipe d'Hasol en représentait cinquante.
+
+Les trois cent cinquante autres points furent répartis entre plusieurs formations capables d'agir ensemble.
+
+Des Gardien expérimentés.
+
+Des combattants offensifs.
+
+Des mages.
+
+Des soigneurs.
+
+Des spécialistes du contrôle et des déplacements.
+
+Des chasseurs habitués à coordonner de grandes opérations.
+
+Il ne s'agissait pas de quatre cents personnes.
+
+Seulement de quatre cents points de rareté, répartis entre plusieurs dizaines de combattants.
+
+Les autres unités chargées des évacuations, du ravitaillement et de la surveillance des routes demeuraient à l'extérieur de la formation engagée directement contre le portail.
+
+Zio participa longuement aux réunions préparatoires.
+
+Son niveau soixante et un et son expérience de Gardien faisaient de lui l'un des combattants les plus respectés du dispositif.
+
+Ses huit cercles, ses équipements soigneusement améliorés et ses compétences défensives lui permettaient de tenir des positions que beaucoup d'autres chasseurs n'auraient pas osé approcher.
+
+Mais il ne se considérait pas comme invincible.
+
+Il connaissait les limites de son bouclier.
+
+Celles de ses protections.
+
+Et celles de son propre corps.
+
+Hasol assista à une partie des préparatifs.
+
+Elle venait d'atteindre le niveau quarante-cinq.
+
+Ses seize cercles et ses runes à +15 lui donnaient une puissance exceptionnelle.
+
+Son Siphon runique avait transformé sa manière de combattre.
+
+Mais sa grossesse imposait une prudence nouvelle.
+
+Lorsque les responsables proposèrent qu'elle se tienne dans la première ligne offensive, Zio intervint immédiatement.
+
+— Non.
+
+Un silence suivit.
+
+L'officier le regarda.
+
+— Gardien Notos ?
+
+Zio posa son doigt sur la carte.
+
+— Hasol peut frapper à distance avec Siphon runique. Nous pouvons préparer une position protégée d'où elle pourra soutenir les formations.
+
+Hasol le regarda.
+
+Il tourna les yeux vers elle.
+
+— Je ne te demande pas de renoncer à aider.
+
+Elle resta silencieuse.
+
+Zio poursuivit :
+
+— Je te demande de ne pas te placer à portée directe d'un boss dont nous ne connaissons rien.
+
+L'officier réfléchit.
+
+— C'est raisonnable.
+
+Hasol contempla la carte.
+
+Une partie d'elle aurait voulu protester.
+
+Elle était une Arcaniste runique légendaire.
+
+Elle possédait seize cercles.
+
+Elle avait affronté des centaines de boss.
+
+Mais elle posa finalement une main sur son ventre.
+
+Et acquiesça.
+
+— D'accord.
+
+Zio lui adressa un sourire discret.
+
+Elle le regarda.
+
+— Mais si quelque chose se passe mal, je ne resterai pas immobile.
+
+Il acquiesça.
+
+— Je le sais.
+
+Samia assista aux dernières réunions sans presque parler.
+
+Sa carte magique permettait de surveiller les autres portails qui apparaissaient dans l'Empire.
+
+Elle transmit plusieurs alertes aux guildes afin d'éviter que toute l'attention soit concentrée sur la capitale au détriment des autres régions.
+
+Puis elle se joignit aux préparatifs du portail orange.
+
+Son expérience de Ranger serait particulièrement utile pour repérer les mouvements des démons secondaires et protéger les passages entre les formations.
+
+Yoon, désormais niveau cinquante-quatre, fut affectée au soutien des équipes.
+
+Ray, niveau cinquante-six, devait contribuer à contenir les créatures avec ses attaques de feu tout en évitant de mettre les alliés en danger.
+
+Tous étaient expérimentés.
+
+Tous étaient puissants.
+
+Mais aucun d'eux ne sous-estimait ce qui approchait.
+
+À la fin de la seconde journée, les derniers convois quittèrent les environs de la demeure Shun.
+
+Hasol se tenait devant la porte principale.
+
+Elle regardait les employés partir.
+
+La maison semblait étrangement vide.
+
+Elle y avait grandi.
+
+Elle y avait appris ses premières runes.
+
+Elle s'y était disputée avec son père.
+
+Elle y avait pleuré sa mort.
+
+Elle y avait retrouvé Zio après leurs premières expéditions.
+
+Puis elle avait partagé avec lui des années de vie commune.
+
+Aujourd'hui, elle devait abandonner cette demeure pour la protéger.
+
+Zio la rejoignit.
+
+— Les derniers employés sont partis.
+
+Hasol acquiesça.
+
+— Je sais.
+
+Il contempla la façade.
+
+Puis son épouse.
+
+— Tu veux prendre quelque chose d'autre ?
+
+Elle hésita.
+
+Puis leva les yeux vers les fenêtres de leur suite.
+
+— Oui.
+
+## VIII. La dernière nuit
+
+Hasol entra dans la chambre qu'ils avaient commencé à préparer pour leur enfant.
+
+Ils n'avaient pas encore choisi tous les meubles.
+
+Une petite commode avait été déplacée près de la fenêtre.
+
+Des échantillons de tissus reposaient sur une table.
+
+Zio avait laissé plusieurs dessins de berceaux, avec des annotations si minutieuses qu'Hasol l'avait accusé de préparer une forteresse plutôt qu'une chambre d'enfant.
+
+Elle s'approcha de la commode.
+
+Ouvrit un tiroir.
+
+Puis en sortit un petit morceau de tissu soigneusement plié.
+
+C'était une ancienne couverture.
+
+Iseria l'avait conservée parmi les affaires de leur famille.
+
+Hasol l'avait retrouvée après la mort de sa mère.
+
+Au début, elle n'avait pas eu le courage de l'ouvrir.
+
+Puis, quelques jours après avoir appris sa grossesse, elle avait découvert qu'il s'agissait d'une couverture qu'Iseria avait préparée lorsqu'elle était enceinte d'elle.
+
+Hasol la déplia doucement.
+
+Le tissu était ancien.
+
+Mais les broderies avaient été entretenues avec soin.
+
+Elle passa ses doigts sur les motifs.
+
+Puis sentit des larmes lui monter aux yeux.
+
+Zio entra silencieusement.
+
+— Tu l'as retrouvée ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Il s'approcha.
+
+Elle lui montra la couverture.
+
+— Maman l'avait faite pour moi.
+
+Zio sourit doucement.
+
+— Alors notre enfant pourra l'utiliser aussi.
+
+Hasol baissa les yeux.
+
+— Tu crois ?
+
+— Bien sûr.
+
+Il lui prit la main.
+
+— Ce sera une manière de lui faire connaître sa grand-mère.
+
+Hasol se tourna vers lui.
+
+Puis enfouit son visage contre son torse.
+
+Zio la serra doucement.
+
+— Hé…
+
+Elle inspira difficilement.
+
+— J'ai peur.
+
+Il posa une main sur ses cheveux.
+
+— Moi aussi.
+
+Hasol releva les yeux.
+
+— Tu ne dis jamais ça devant les autres.
+
+— Parce qu'ils ont besoin d'un Gardien qui paraît savoir ce qu'il fait.
+
+Elle eut un petit sourire.
+
+— Et moi ?
+
+Il lui caressa la joue.
+
+— Toi, tu as droit à la vérité.
+
+Hasol resta silencieuse.
+
+Puis murmura :
+
+— J'ai peur de te perdre.
+
+Zio sentit sa poitrine se serrer.
+
+Il connaissait cette peur.
+
+Il la partageait.
+
+Mais il ne voulait pas lui promettre quelque chose qu'il ne contrôlait pas.
+
+Alors il l'embrassa.
+
+Longuement.
+
+Puis posa son front contre le sien.
+
+— Nous avons préparé tout ce que nous pouvions.
+
+Hasol acquiesça.
+
+— Je sais.
+
+— Nous avons quatre cents points de rareté. Des chasseurs expérimentés. Des plans d'évacuation. Des positions défensives.
+
+Il baissa les yeux vers son ventre.
+
+— Et nous avons une excellente raison de rentrer.
+
+Hasol posa sa main sur la sienne.
+
+— Notre enfant…
+
+Zio sourit.
+
+— Oui.
+
+Puis il ajouta :
+
+— Après cette bataille, je veux quelques semaines sans intervention.
+
+Hasol leva les yeux.
+
+— Quelques semaines ?
+
+— Au moins.
+
+— Tu es ambitieux.
+
+— Extrêmement.
+
+Elle eut un petit rire.
+
+Zio poursuivit :
+
+— Nous pourrions aller quelque part. Pas trop loin, mais suffisamment pour que personne ne puisse venir nous parler d'un portail pendant le petit déjeuner.
+
+— Tu sais que Samia nous retrouverait.
+
+— Alors nous ne lui donnerons pas l'adresse.
+
+Hasol éclata de rire.
+
+Puis son sourire s'adoucit.
+
+— Elle est tellement seule en ce moment…
+
+Zio acquiesça.
+
+— Je sais.
+
+— J'aimerais qu'elle puisse être heureuse.
+
+Il la serra contre lui.
+
+— Moi aussi.
+
+Ils restèrent silencieux.
+
+Puis Hasol posa doucement la couverture dans une petite caisse.
+
+Elle prit la main de Zio.
+
+— Allons-y.
+
+Ils quittèrent la chambre ensemble.
+
+Avant de partir, ils s'arrêtèrent dans leur suite.
+
+Hasol contempla leur lit.
+
+Les livres posés sur la table.
+
+Les vêtements soigneusement rangés.
+
+La petite tasse que Zio oubliait régulièrement près de la fenêtre.
+
+Elle sourit faiblement.
+
+— Tu as encore laissé ta tasse ici.
+
+Zio suivit son regard.
+
+— Elle m'attendait.
+
+— Depuis hier.
+
+— C'est une tasse fidèle.
+
+Hasol leva les yeux au ciel.
+
+Puis elle s'approcha de lui.
+
+Il l'enlaça immédiatement.
+
+— Je t'aime, murmura-t-elle.
+
+Zio baissa la tête.
+
+— Je t'aime aussi, ma princesse.
+
+Elle ferma les yeux.
+
+Il posa doucement une main sur son ventre.
+
+— Et toi aussi, ajouta-t-il tout bas.
+
+Hasol sentit les larmes lui monter aux yeux.
+
+Zio la serra une dernière fois contre lui.
+
+Puis ils quittèrent la demeure Shun.
+
+La porte se referma derrière eux.
+
+Hasol ne savait pas encore que c'était la dernière fois qu'ils la franchissaient ensemble.
+
+## IX. L'ouverture
+
+Le lendemain, le soleil se leva sur une plaine transformée en champ de défense.
+
+Des lignes avaient été tracées dans la terre.
+
+Des postes de soin occupaient les positions les plus protégées.
+
+Des signaux permettaient aux différentes formations de communiquer sans dépendre de messagers capables de traverser toute la zone de combat.
+
+Plus loin, les dernières équipes d'évacuation surveillaient les routes.
+
+La demeure Shun était toujours visible au-delà des arbres.
+
+De la position qu'on lui avait attribuée, Hasol pouvait apercevoir une partie de son toit.
+
+Elle détourna les yeux.
+
+Zio vérifiait les attaches de son bouclier.
+
+Yoon préparait ses premiers cercles runiques.
+
+Ray avait disposé ses réserves de Mana à portée de main.
+
+Samia observait sa carte magique.
+
+Le point orange était désormais stable.
+
+Autour de lui, plusieurs autres points signalaient des portails apparus ailleurs dans l'Empire.
+
+La Ranger les examina rapidement.
+
+Puis referma son interface.
+
+Pour cette fois, elle n'irait nulle part ailleurs.
+
+— Tout le monde est prêt ? demanda Zio.
+
+Yoon acquiesça.
+
+Ray ajusta ses lunettes.
+
+— Aussi prêt qu'on peut l'être.
+
+Samia vérifia une dernière fois son arc.
+
+— Oui.
+
+Hasol posa une main sur son ventre.
+
+Puis releva les yeux vers son mari.
+
+— Oui.
+
+Il s'approcha d'elle.
+
+— Tu connais ta position.
+
+Elle acquiesça.
+
+— Je sais.
+
+— Tu restes derrière les défenseurs.
+
+— Zio…
+
+— Et si la ligne se brise, tu rejoins le poste de repli.
+
+Elle soupira.
+
+— Je connais le plan.
+
+Il sourit doucement.
+
+— Je vérifie.
+
+Hasol lui prit la main.
+
+— Et toi, fais attention.
+
+— Toujours.
+
+Elle leva les yeux au ciel.
+
+— Tu mens très mal.
+
+Il se pencha et l'embrassa.
+
+Un baiser bref.
+
+Mais assez long pour qu'elle s'y accroche une seconde de plus.
+
+— On se retrouve après, ma princesse.
+
+Elle acquiesça.
+
+— Après.
+
+Puis Zio rejoignit la première ligne.
+
+Le portail orange commença à vibrer.
+
+Les conversations cessèrent.
+
+Une profonde pulsation traversa le sol.
+
+Puis une seconde.
+
+La lumière cuivrée se déforma.
+
+Une ouverture noire apparut en son centre.
+
+Elle grandit.
+
+Et les premiers démons émergèrent.
+
+Ils étaient énormes.
+
+Certains possédaient plusieurs bras terminés par de longues griffes.
+
+D'autres avaient des corps couverts de plaques minérales sur lesquelles couraient des reflets orange.
+
+Leur niveau fut immédiatement confirmé.
+
+Cinquante.
+
+Chaque créature représentait une menace considérable pour un chasseur ordinaire.
+
+Et elles étaient nombreuses.
+
+Beaucoup trop nombreuses.
+
+— Avant-garde ! cria un officier.
+
+Les défenseurs levèrent leurs boucliers.
+
+Zio se plaça parmi eux.
+
+Il activa Rempart de lumière.
+
+Une protection s'étendit devant son grand bouclier, couvrant les chasseurs les plus proches dans la direction qu'il défendait.
+
+D'autres Gardien préparèrent leurs propres compétences.
+
+La première vague chargea.
+
+Le choc fut assourdissant.
+
+La terre trembla.
+
+Plusieurs chasseurs reculèrent malgré leurs protections.
+
+Une créature parvint à franchir une partie de la ligne avant qu'un groupe de combattants la repousse.
+
+Zio encaissa un coup particulièrement violent.
+
+Ses bottes glissèrent dans la terre.
+
+Il serra les dents.
+
+Puis redressa son bouclier.
+
+— Tenez !
+
+Les chasseurs autour de lui reprirent leur position.
+
+À l'arrière, les mages commencèrent leurs attaques.
+
+Ray leva la main.
+
+— Déflagration !
+
+Une explosion de feu frappa un groupe de démons qui venait de se rassembler dans une zone dégagée.
+
+Les créatures reculèrent.
+
+Certaines furent gravement blessées.
+
+Mais plusieurs continuèrent d'avancer.
+
+Ray inspira profondément.
+
+Il sentait déjà la première dépense importante de Mana.
+
+Il devait faire attention.
+
+Il était puissant, mais sa réserve n'était pas infinie.
+
+Hasol attendit que les démons soient suffisamment regroupés.
+
+Puis elle leva la main.
+
+— Siphon runique !
+
+Une spirale turquoise apparut au-dessus du terrain.
+
+Des inscriptions runiques se mirent à tourner dans le courant.
+
+Puis la tempête s'abattit.
+
+Plusieurs démons furent frappés simultanément.
+
+La Puissance arcanique d'Hasol rendait l'attaque particulièrement violente.
+
+Mais les créatures de niveau cinquante étaient résistantes.
+
+Certaines survécurent.
+
+D'autres s'effondrèrent sous la force du sort.
+
+Et Hasol sentit leur Mana refluer vers ses propres cercles.
+
+Une quantité importante.
+
+Suffisante pour préparer plusieurs nouvelles activations d'Aura runique.
+
+Elle regarda sa réserve.
+
+Puis les démons qui continuaient d'avancer.
+
+Son nouveau sort lui donnait un avantage considérable.
+
+Mais il ne suffisait pas à lui seul à arrêter la horde.
+
+Elle sélectionna une rune ordinaire.
+
+— Aura runique.
+
+La pierre fut sacrifiée.
+
+Son épée s'illumina.
+
+Pas de critique.
+
+Elle recommença.
+
+Une deuxième fois.
+
+Puis une troisième.
+
+La lumière changea.
+
+*Infiltration runique.*
+
+Hasol inspira.
+
+Trente secondes.
+
+Elle pouvait maintenant infliger des dégâts redoutables si elle parvenait à atteindre les ennemis.
+
+Mais elle était restée dans sa position protégée.
+
+Elle regarda les démons.
+
+Puis Zio.
+
+Son mari était engagé dans un combat difficile, à plusieurs dizaines de pas.
+
+Un monstre massif venait de le forcer à reculer.
+
+Hasol resserra les doigts autour de son épée.
+
+Pendant un instant, l'habitude fut plus forte que la prudence.
+
+Elle voulut s'élancer.
+
+Puis une petite voix, née du souvenir de la soirée précédente, lui revint.
+
+*Nous avons une excellente raison de rentrer.*
+
+Hasol posa une main sur son ventre.
+
+Et resta à sa position.
+
+Elle transmit les informations sur les mouvements ennemis aux chasseurs qui se trouvaient devant elle.
+
+Lorsque son Siphon redevint disponible, elle frappa un autre groupe de démons.
+
+Puis un troisième.
+
+Elle avait accepté de ne pas se placer au premier rang.
+
+Cela ne signifiait pas qu'elle était inutile.
+
+Yoon travaillait sans relâche.
+
+Son Chant runique soutenait les combattants proches.
+
+Lorsqu'une formation reculait, elle déplaçait ses zones de soin afin d'atteindre les blessés sans exposer inutilement les autres chasseurs.
+
+Son Domaine des Entraves Runiques ralentissait les groupes les plus dangereux.
+
+Et lorsque les démons s'accumulaient suffisamment loin des défenseurs, elle posait une Tempête arcanique.
+
+Les cercles rouges, traversés d'inscriptions lumineuses, infligeaient progressivement des dégâts aux créatures prises dans leur zone.
+
+Mais Yoon devait surveiller son Mana.
+
+Et les blessés étaient de plus en plus nombreux.
+
+Samia se déplaçait entre plusieurs postes d'observation.
+
+Elle repérait les tentatives de contournement.
+
+Prévenait les unités mobiles.
+
+Et, lorsque cela devenait nécessaire, intervenait directement avec son arc.
+
+Son calme impressionnait les chasseurs qui ne la connaissaient pas.
+
+Elle donnait ses indications sans hausser la voix.
+
+Ne perdait pas de temps en discussions inutiles.
+
+Et semblait constamment penser à l'étape suivante.
+
+Un jeune Ranger qui combattait auprès d'elle finit par demander :
+
+— Vous avez déjà vu autant de démons ?
+
+Samia observa la horde.
+
+— Non.
+
+L'homme déglutit.
+
+— Et vous n'avez pas peur ?
+
+Elle tourna brièvement la tête.
+
+— Si.
+
+Il sembla surpris.
+
+Samia reprit son arc.
+
+— Mais avoir peur ne les empêchera pas d'avancer.
+
+Elle décocha une flèche.
+
+Puis une seconde.
+
+— Alors continuez de tirer.
+
+La première heure fut terrible.
+
+La seconde davantage.
+
+Les formations alternaient leurs positions.
+
+Des chasseurs blessés étaient remplacés.
+
+D'autres revenaient après avoir reçu des soins.
+
+Les responsables échangeaient des signaux pour éviter que les unités ne se retrouvent isolées.
+
+Les quatre cents points de rareté mobilisés étaient pleinement engagés.
+
+Et pourtant, les démons continuaient d'affluer.
+
+Lorsqu'un groupe menaçait de franchir les lignes, Hasol utilisait Siphon runique pour ralentir leur progression et réduire leur nombre.
+
+Elle avait appris à rechercher les zones où les créatures se regroupaient naturellement.
+
+Son sort frappait plusieurs cibles.
+
+Le Mana volé lui permettait de financer d'autres compétences.
+
+Mais le temps de recharge et la résistance des ennemis imposaient toujours des limites.
+
+Elle commençait à ressentir la fatigue.
+
+Ses bras étaient lourds.
+
+Son souffle plus court.
+
+Et elle savait qu'elle n'avait pas encore affronté le boss.
+
+Un officier se précipita vers sa position.
+
+— Madame Shun !
+
+Elle tourna la tête.
+
+— Quoi ?
+
+— Le flanc sud est en difficulté. Nous avons besoin de soutien magique.
+
+Hasol regarda le terrain.
+
+Plusieurs démons s'étaient accumulés près d'un passage protégé par une unité secondaire.
+
+Si cette position cédait, les créatures pourraient rejoindre une route empruntée par les derniers convois de ravitaillement.
+
+Hasol acquiesça.
+
+— Je peux les atteindre d'ici en me déplaçant jusqu'à la position suivante.
+
+L'officier hésita.
+
+— Nous allons renforcer votre escorte.
+
+Elle jeta un regard à Zio.
+
+Il était toujours engagé dans la première ligne.
+
+Elle aurait voulu l'avertir directement.
+
+Mais il n'avait pas le temps de se retourner.
+
+Alors elle demanda à un messager de lui transmettre son déplacement.
+
+Puis elle suivit l'officier.
+
+Quelques minutes plus tard, elle leva la main vers le groupe de démons.
+
+— Siphon runique !
+
+La tempête turquoise frappa les créatures.
+
+Plusieurs tombèrent.
+
+Le passage fut dégagé.
+
+Les chasseurs en difficulté reprirent leur position.
+
+Hasol expira.
+
+Puis regarda le portail orange.
+
+La lumière avait changé.
+
+Elle semblait plus profonde.
+
+Plus instable.
+
+Comme si quelque chose, de l'autre côté, commençait enfin à s'approcher.
+
+## X. Le Démon stellaire
+
+Le premier signe fut le silence.
+
+Pas un silence véritable.
+
+Les combats continuaient.
+
+Les cris des chasseurs résonnaient toujours sur la plaine.
+
+Mais pendant un instant, Hasol eut l'impression que tous ces bruits s'éloignaient.
+
+La lumière du portail orange se contracta.
+
+Puis s'étendit brusquement.
+
+Une silhouette apparut.
+
+Elle était grande.
+
+Beaucoup plus grande que les démons ordinaires.
+
+Son corps semblait recouvert d'une armure sombre, traversée de lignes lumineuses rappelant des constellations.
+
+Des fragments de lumière tournaient lentement autour de ses épaules.
+
+Derrière lui, l'air se déformait.
+
+Lorsqu'il avança, plusieurs démons s'écartèrent.
+
+La créature leva la tête.
+
+Et les chasseurs virent ses yeux.
+
+Deux points de lumière froide.
+
+Presque semblables à des étoiles.
+
+Une fenêtre du système apparut.
+
+<div class="system-window lit-window" data-window-id="C16-F03" data-window-type="monstre">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F03-mobile.svg">
+    <img src="assets/fenetres/C16-F03.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — BOSS DE PORTAIL
+  </div>
+  <h3>Démon stellaire</h3>
+  <p>Classification</p>
+  <p>Orange</p>
+  <p>Niveau</p>
+  <h3>70</h3>
+  </details>
+</div>
+
+Un frisson parcourut les rangs.
+
+Niveau soixante-dix.
+
+Hasol sentit immédiatement la différence de puissance.
+
+Elle avait affronté des boss de niveau soixante.
+
+Elle savait à quel point ils pouvaient être dangereux.
+
+Mais cette créature appartenait à une catégorie supérieure.
+
+Le Démon stellaire contempla les chasseurs.
+
+Puis leva une main.
+
+Plusieurs points de lumière apparurent dans le ciel.
+
+Ray fronça les sourcils.
+
+— Qu'est-ce que…
+
+La première lumière tomba.
+
+Elle frappa la terre au milieu d'une formation.
+
+Une déflagration projeta plusieurs chasseurs en arrière.
+
+La seconde atteignit une ligne de défense.
+
+Les boucliers furent levés trop tard.
+
+La troisième se dirigea vers le poste de soin.
+
+— Yoon ! cria Ray.
+
+La Sage leva brusquement les yeux.
+
+Zio vit la trajectoire.
+
+Il activa Rempart de lumière et se plaça devant les soigneurs les plus exposés.
+
+La protection absorba une partie de l'impact.
+
+Mais la force du projectile le fit glisser en arrière.
+
+Son bouclier vibra si violemment qu'une douleur traversa son bras.
+
+La lumière se dissipa.
+
+Zio resta debout.
+
+Mais il savait qu'il ne pourrait pas répéter cette manœuvre indéfiniment.
+
+Le Démon stellaire avança.
+
+Les chasseurs tentèrent de le ralentir.
+
+Plusieurs attaques de feu frappèrent son armure.
+
+Des flèches atteignirent ses articulations.
+
+Des combattants équipés de runes puissantes s'approchèrent de ses flancs.
+
+Mais la créature était redoutablement résistante.
+
+Elle paraissait presque indifférente aux blessures les plus superficielles.
+
+Hasol observa son comportement.
+
+Les lignes lumineuses de son armure semblaient se concentrer avant certaines attaques.
+
+Elle suivit leurs mouvements.
+
+Puis comprit que la créature préparait une nouvelle série de projectiles.
+
+— Attention au ciel !
+
+Plusieurs chasseurs levèrent les yeux.
+
+Les premières lumières apparurent.
+
+La formation se dispersa immédiatement.
+
+Cette fois, les pertes furent moins importantes.
+
+Mais la créature continua d'avancer.
+
+Et les démons ordinaires profitaient du désordre.
+
+Hasol leva la main.
+
+— Siphon runique !
+
+La tempête turquoise frappa un groupe de créatures secondaires.
+
+Plusieurs s'effondrèrent.
+
+Le Mana récupéré remplit une partie de sa réserve.
+
+Elle sélectionna une rune ordinaire.
+
+— Aura runique.
+
+La pierre disparut.
+
+Pas de critique.
+
+Une seconde activation.
+
+Puis une troisième.
+
+À la quatrième, les inscriptions de son épée s'illuminèrent davantage.
+
+*Infiltration runique.*
+
+Hasol regarda le boss.
+
+Puis les défenseurs qui tentaient de contenir son avancée.
+
+Elle pouvait l'atteindre.
+
+Elle le savait.
+
+Mais il lui faudrait traverser une zone particulièrement dangereuse.
+
+Elle hésita.
+
+Puis son regard glissa vers les positions de soin.
+
+Plusieurs chasseurs étaient déjà blessés.
+
+Si elle restait immobile, le Démon stellaire pourrait les atteindre.
+
+Hasol se tourna vers l'officier qui commandait sa position.
+
+— Je vais soutenir l'avant-garde.
+
+L'homme hésita.
+
+— Madame Shun…
+
+— Je resterai avec les autres chasseurs. Mais ma compétence est prête.
+
+Il regarda les inscriptions lumineuses sur son épée.
+
+Puis acquiesça.
+
+— Nous vous couvrons.
+
+Hasol s'élança.
+
+Elle rejoignit les défenseurs quelques instants plus tard.
+
+Zio tourna brusquement la tête.
+
+— Hasol ?
+
+Elle lui adressa un regard déterminé.
+
+— Je peux l'atteindre.
+
+Il serra les dents.
+
+Puis regarda le boss.
+
+Il comprit immédiatement que l'Infiltration était active.
+
+— Alors nous faisons ça ensemble.
+
+Hasol acquiesça.
+
+Zio leva son bouclier.
+
+— Défenseurs ! Ouvrez un passage !
+
+Plusieurs chasseurs se déplacèrent.
+
+Ray lança une Déflagration sur un flanc dégagé.
+
+Samia atteignit une articulation du boss avec une flèche soigneusement préparée.
+
+Yoon posa son Domaine des Entraves Runiques.
+
+Le cercle violet ralentit brièvement les mouvements de la créature.
+
+Ce ne fut pas suffisant pour l'immobiliser.
+
+Mais ce fut assez pour permettre à Hasol d'approcher.
+
+Elle frappa.
+
+Sa lame heurta l'armure sombre.
+
+Une gerbe de lumière jaillit.
+
+Le Démon stellaire tourna la tête.
+
+Hasol recula immédiatement.
+
+Une griffe traversa l'espace devant elle.
+
+Puis elle changea d'angle.
+
+Frappa de nouveau.
+
+Grâce à Infiltration runique, chacun de ses coups bénéficiait du minimum de dégâts imposé par sa Puissance arcanique effective.
+
+La Défense du boss ne pouvait pas réduire cette valeur minimale.
+
+Son ensemble Arcanique rendait chaque ouverture particulièrement précieuse.
+
+Mais le Démon stellaire possédait une quantité de vie considérable.
+
+Ses attaques ne suffisaient pas à le faire tomber.
+
+Autour d'elle, les autres chasseurs continuaient de combattre.
+
+Un groupe frappait les jambes de la créature.
+
+Un autre détournait ses attaques.
+
+Ray économisait son Mana pour les moments où les ouvertures étaient suffisamment grandes.
+
+Yoon soutenait les blessés.
+
+Samia surveillait les mouvements des démons secondaires.
+
+Zio restait le point d'ancrage de leur formation.
+
+Pendant quelques secondes, ils réussirent à faire reculer le boss.
+
+Puis les trente secondes d'Infiltration runique prirent fin.
+
+Hasol sentit immédiatement la différence.
+
+Elle recula.
+
+— Zio !
+
+Il comprit.
+
+— Repli !
+
+Les chasseurs se déplacèrent.
+
+Le Démon stellaire poussa un hurlement.
+
+Et le ciel s'illumina de nouveau.
+
+Cette fois, les projectiles furent plus nombreux.
+
+Certains frappèrent les positions avancées.
+
+D'autres explosèrent près des réserves mobiles.
+
+Une déflagration détruisit une partie des protections aménagées devant le poste de soin.
+
+La terre trembla.
+
+Des cris retentirent.
+
+Hasol perdit brièvement l'équilibre.
+
+Zio se plaça devant elle.
+
+Son bouclier reçut une pluie de fragments brûlants.
+
+Il resta debout.
+
+Mais l'un de ses bras tremblait.
+
+Hasol leva les yeux.
+
+— Zio !
+
+Il tourna la tête.
+
+— Ça va !
+
+Elle regarda son bouclier.
+
+Une profonde fissure traversait sa surface.
+
+— Tu es blessé !
+
+— Pas assez pour m'arrêter.
+
+Il essaya de sourire.
+
+Puis son regard glissa vers son ventre.
+
+— Va rejoindre la position de repli.
+
+Hasol ouvrit la bouche.
+
+Il la regarda.
+
+Pas comme un commandant.
+
+Pas comme un chasseur.
+
+Comme son mari.
+
+— S'il te plaît.
+
+Elle sentit sa gorge se serrer.
+
+Puis acquiesça.
+
+— D'accord.
+
+Il posa brièvement sa main contre sa joue.
+
+— Je te retrouve.
+
+Hasol le regarda encore une seconde.
+
+Puis elle se replia auprès de Yoon.
+
+Le combat continua.
+
+Les quatre cents points de rareté engagés permettaient encore aux chasseurs de maintenir une organisation.
+
+Mais les pertes s'accumulaient.
+
+Des unités entières étaient remplacées lorsqu'elles ne pouvaient plus tenir leurs positions.
+
+Les soigneurs manquaient de temps.
+
+Les réserves de Mana diminuaient.
+
+Et le Démon stellaire semblait encore loin d'être vaincu.
+
+Hasol le savait.
+
+Elle avait observé ses blessures.
+
+Les attaques de son groupe avaient porté.
+
+Celles des autres chasseurs aussi.
+
+Mais il faudrait encore de nombreuses ouvertures pour l'abattre.
+
+Elle regarda Zio.
+
+Il se tenait près du boss, parmi les derniers défenseurs capables de maintenir la ligne.
+
+Son bouclier était abîmé.
+
+Son armure portait plusieurs traces de brûlure.
+
+Mais il continuait.
+
+Hasol sentit une peur immense l'envahir.
+
+Puis elle vit le Démon stellaire relever lentement les deux bras.
+
+Les lignes lumineuses de son armure commencèrent à converger.
+
+Au-dessus de lui, les fragments de lumière se rassemblèrent.
+
+Une sphère éclatante apparut.
+
+Elle grandit.
+
+Encore.
+
+Puis encore.
+
+Ray leva brusquement les yeux.
+
+— Ce n'est pas comme les autres attaques !
+
+Yoon sentit sa gorge se serrer.
+
+— Hasol…
+
+La sphère continuait de grossir.
+
+Et sa lumière se dirigeait vers la partie du terrain où se trouvaient les blessés, les positions de repli et la route d'évacuation.
+
+Hasol comprit immédiatement.
+
+Si cette attaque atteignait sa cible, les conséquences seraient catastrophiques.
+
+Elle leva la main.
+
+Son Siphon runique n'était pas encore disponible.
+
+Elle regarda les lignes de défense.
+
+Les chasseurs épuisés.
+
+Les protections brisées.
+
+Puis son mari.
+
+Zio avait lui aussi compris.
+
+Et, pour la première fois depuis le début de la bataille, Hasol vit sur son visage une expression qui la terrifia.
+
+Il ne cherchait plus seulement à tenir.
+
+Il venait de prendre une décision.
+
+## XI. Le dernier rempart
+
+Zio connaissait cette expression.
+
+Il l'avait vue chez les chasseurs qui comprenaient qu'une bataille ne pouvait plus être gagnée de la manière prévue.
+
+Il l'avait lui-même ressentie devant des boss bien plus puissants que lui.
+
+Mais jamais avec une telle intensité.
+
+Le Démon stellaire préparait une attaque capable de ravager les positions de repli.
+
+Les premières protections avaient déjà été détruites.
+
+Les chasseurs les plus puissants étaient épuisés.
+
+Et parmi les personnes menacées se trouvaient Hasol, Yoon et des dizaines de blessés incapables de fuir rapidement.
+
+Zio regarda le boss.
+
+Puis l'immense sphère lumineuse qui grandissait au-dessus de lui.
+
+Une nouvelle attaque frontale ne suffirait pas.
+
+Une défense ordinaire non plus.
+
+Il connaissait pourtant une compétence capable de transformer toute sa vie en une dernière attaque.
+
+Il l'avait obtenue au niveau cinquante.
+
+*Dernier Rempart.*
+
+Une technique que sa classe de Gardien lui avait accordée après des années passées à protéger les autres.
+
+Il avait appris à l'utiliser avec prudence.
+
+En sacrifiant une partie de ses propres points de vie pour provoquer une explosion défensive et offensive.
+
+Plus le sacrifice était important, plus la puissance libérée augmentait.
+
+Mais la compétence possédait une limite terrible.
+
+Zio la connaissait depuis longtemps.
+
+Hasol aussi.
+
+Ils en avaient parlé.
+
+Et il avait toujours choisi de conserver suffisamment de vie pour continuer à se battre.
+
+Jusqu'à aujourd'hui.
+
+Il jeta un regard vers sa femme.
+
+Hasol tentait de rejoindre les positions de repli.
+
+Yoon se trouvait près d'elle.
+
+Ray aidait un chasseur blessé à se déplacer.
+
+Samia couvrait leur progression avec son arc.
+
+Zio sentit son cœur se serrer.
+
+Il revit une jeune fille de l'Académie.
+
+Ses longs cheveux bruns.
+
+Ses yeux turquoise.
+
+Cette manière obstinée de continuer à s'entraîner même lorsque tout le monde lui répétait que sa classe ne lui permettrait jamais de devenir une véritable combattante.
+
+Il se souvint de la première fois où il avait osé l'inviter à dîner.
+
+De son embarras.
+
+De son sourire.
+
+Puis de leur mariage.
+
+*Je veux rentrer avec toi. Te retrouver. T'aimer dans toutes ces journées que nous n'avons pas encore vécues.*
+
+Il entendait encore ses paroles.
+
+Il aurait voulu qu'elles deviennent toutes réalité.
+
+Des dizaines d'années.
+
+Des milliers de matins.
+
+Des soirées ordinaires.
+
+Des disputes sans importance.
+
+Des promenades.
+
+Un enfant qui grandirait dans leur maison.
+
+Peut-être plusieurs.
+
+Et Hasol, un jour, avec quelques cheveux gris, lui reprochant encore d'oublier sa tasse près de la fenêtre.
+
+Il aurait voulu tout cela.
+
+Plus que n'importe quelle victoire.
+
+Plus que n'importe quelle réputation.
+
+Mais il regarda la sphère lumineuse.
+
+Puis les blessés.
+
+Et comprit qu'il risquait de perdre tout cela de toute façon.
+
+— Repli général vers les protections arrière ! cria-t-il.
+
+L'officier de l'avant-garde tourna la tête.
+
+— Gardien Notos ?
+
+— Éloignez les chasseurs du boss ! Maintenant !
+
+L'homme observa la lumière qui grandissait.
+
+Il comprit qu'une attaque majeure était imminente.
+
+Il transmit l'ordre.
+
+Les formations commencèrent à reculer.
+
+Zio resta en avant.
+
+Un autre Gardien s'arrêta près de lui.
+
+— Vous venez ?
+
+Zio secoua la tête.
+
+— Je couvre le repli.
+
+— Vous ne pourrez pas tenir seul !
+
+— Je sais.
+
+L'homme hésita.
+
+Puis aperçut l'expression de Zio.
+
+Il comprit que celui-ci avait pris une décision qu'il ne pourrait pas lui faire changer.
+
+Alors il recula.
+
+Zio regarda de nouveau le Démon stellaire.
+
+Il n'était pas indemne.
+
+Les attaques répétées des quatre cents points de rareté avaient fini par endommager son armure.
+
+Plusieurs fissures parcouraient ses protections.
+
+Les coups d'Hasol, renforcés par Infiltration runique, avaient laissé de profondes traces.
+
+Les flammes de Ray avaient fragilisé certains de ses mouvements.
+
+Les zones de Yoon avaient permis aux autres formations de le frapper plus efficacement.
+
+Les flèches de Samia avaient atteint plusieurs articulations.
+
+Et des dizaines d'autres chasseurs avaient contribué à l'affaiblir.
+
+Le Démon stellaire restait terrifiant.
+
+Mais il n'était plus intact.
+
+Zio inspira profondément.
+
+Il n'avait pas la certitude que cela suffirait.
+
+Il devait donc utiliser toute la puissance disponible.
+
+Hasol entendit l'ordre de repli.
+
+Puis elle vit Zio rester seul devant le boss.
+
+Son cœur s'arrêta presque.
+
+— Zio ?
+
+Il ne bougea pas.
+
+La lumière du Démon stellaire continuait de grandir.
+
+Hasol regarda son mari.
+
+Puis ses mains.
+
+Puis le bouclier qu'il redressait lentement.
+
+Elle comprit.
+
+Non.
+
+Impossible.
+
+— Zio !
+
+Elle voulut courir vers lui.
+
+Yoon lui attrapa le bras.
+
+— Hasol !
+
+— Lâche-moi !
+
+— Attends !
+
+Hasol se tourna vers sa belle-sœur.
+
+Son visage était décomposé.
+
+— Il va utiliser Dernier Rempart !
+
+Yoon ouvrit de grands yeux.
+
+Elle regarda son frère.
+
+Puis la lumière qui commençait à l'entourer.
+
+— Zio…
+
+Il les entendit.
+
+Et tourna légèrement la tête.
+
+Il vit Hasol.
+
+Sa femme.
+
+La personne qu'il aimait depuis tant d'années.
+
+Elle essayait de le rejoindre.
+
+Ses yeux étaient pleins de larmes.
+
+Zio sentit une douleur terrible lui traverser la poitrine.
+
+Il aurait voulu courir vers elle.
+
+La prendre dans ses bras.
+
+Lui dire que tout allait bien.
+
+Qu'ils allaient rentrer.
+
+Qu'ils pourraient encore préparer la chambre de leur enfant.
+
+Mais il ne pouvait pas lui mentir.
+
+Pas maintenant.
+
+— Hasol !
+
+Sa voix porta au-dessus du vacarme.
+
+Elle s'immobilisa.
+
+— Zio !
+
+Il lui adressa un sourire.
+
+Un sourire fragile.
+
+Presque celui du jeune homme qu'elle avait connu à l'Académie.
+
+— Recule, ma princesse.
+
+Elle secoua la tête.
+
+— Non !
+
+Il baissa brièvement les yeux vers son ventre.
+
+Puis releva son regard.
+
+— Prends soin de vous deux.
+
+Hasol sentit ses jambes trembler.
+
+— Non… Non, tu viens avec nous !
+
+Zio ferma les yeux une fraction de seconde.
+
+Il l'aurait voulu.
+
+De toutes ses forces.
+
+Lorsqu'il les rouvrit, il regarda sa sœur.
+
+— Yoon !
+
+Elle pleurait déjà.
+
+— Grand frère…
+
+— Aide-la.
+
+Yoon secoua la tête.
+
+— Je peux encore te soigner ! Nous pouvons…
+
+Zio la regarda.
+
+— Je t'aime, petite sœur.
+
+Elle ouvrit la bouche.
+
+Mais aucun son ne sortit.
+
+Ray arriva près d'elles.
+
+Il vit la lumière qui entourait Zio.
+
+Puis comprit immédiatement.
+
+— Non…
+
+Samia s'arrêta à son tour.
+
+Elle contempla le Gardien.
+
+Et pour la première fois depuis des mois, son calme se brisa complètement.
+
+— Zio !
+
+Il ne répondit pas.
+
+Il regardait Hasol.
+
+Elle tendit la main vers lui.
+
+— Tu m'avais promis…
+
+Sa voix se brisa.
+
+— Tu m'avais promis qu'on rentrerait ensemble !
+
+Zio sentit les larmes lui monter aux yeux.
+
+Il ne chercha pas à les cacher.
+
+— Je sais, ma princesse.
+
+Il inspira difficilement.
+
+Puis ajouta :
+
+— Je voulais tellement rentrer avec toi.
+
+Hasol poussa un sanglot.
+
+— Alors viens !
+
+Le Démon stellaire leva la tête.
+
+La sphère lumineuse approchait de son point de rupture.
+
+Zio regarda une dernière fois sa femme.
+
+— Vis, Hasol.
+
+Elle secoua la tête.
+
+— Non…
+
+— Vis aussi pour toi.
+
+Il esquissa un sourire.
+
+— Pas seulement pour les autres.
+
+Hasol voulut avancer.
+
+Yoon la retint.
+
+Ray vint les aider.
+
+Samia se plaça près d'elles.
+
+Zio contempla leurs visages.
+
+Ses amis.
+
+Sa sœur.
+
+Sa famille.
+
+Puis il leva son bouclier.
+
+Et se tourna vers le Démon stellaire.
+
+Il avait consacré sa vie à protéger.
+
+Des inconnus.
+
+Des compagnons.
+
+Sa sœur.
+
+Puis la femme qu'il aimait.
+
+Il aurait souhaité protéger leur enfant en restant auprès de lui.
+
+En l'accompagnant dans ses premiers pas.
+
+En lui apprenant à tenir une épée, si un jour il en avait envie.
+
+En lui racontant les aventures de sa mère.
+
+Il n'aurait jamais voulu devenir un souvenir.
+
+Mais un Gardien ne choisissait pas toujours les batailles qu'il devait mener.
+
+Parfois, il devait simplement décider ce qu'il refusait de laisser détruire.
+
+Zio ouvrit son interface.
+
+Une dernière fois.
+
+<div class="system-window lit-window" data-window-id="C16-F04" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F04-mobile.svg">
+    <img src="assets/fenetres/C16-F04.svg" alt="Fenêtre du système — SYSTÈME — COMPÉTENCE ACTIVE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — COMPÉTENCE ACTIVE
+  </div>
+  <h3>Dernier Rempart</h3>
+  <p>Gardien · Niveau 50</p>
+  <p>Libère une explosion dont la puissance dépend des points de vie sacrifiés par le lanceur.</p>
+  <p>PV conservés</p>
+  <h3>0 %</h3>
+  <p>Sacrifice total — Puissance maximale</p>
+  </details>
+</div>
+
+Zio contempla le dernier choix.
+
+Zéro.
+
+Aucun point de vie conservé.
+
+Aucune possibilité de revenir en arrière.
+
+Il inspira.
+
+Puis confirma.
+
+Une lumière intense jaillit autour de lui.
+
+Les inscriptions de ses runes se mirent à briller.
+
+Son bouclier vibra.
+
+La terre se souleva sous ses pieds.
+
+Les chasseurs les plus proches reculèrent précipitamment, suivant l'ordre de repli.
+
+Zio avança vers le Démon stellaire.
+
+La créature tourna brusquement la tête.
+
+Elle sentit la puissance qui se rassemblait autour du Gardien.
+
+Son immense sphère lumineuse trembla.
+
+Zio ne ralentit pas.
+
+Il leva une dernière fois son bouclier.
+
+Puis murmura :
+
+— Je vous aime.
+
+Et libéra tout ce qu'il lui restait.
+
+## XII. Là où la lumière s'éteint
+
+L'explosion fut aveuglante.
+
+Un cercle de lumière se déploya autour de Zio.
+
+La puissance de Dernier Rempart frappa le Démon stellaire de plein fouet.
+
+Les lignes lumineuses de son armure se fissurèrent.
+
+Puis éclatèrent.
+
+La créature poussa un hurlement qui traversa toute la plaine.
+
+Elle tenta de résister.
+
+Mais les blessures accumulées pendant la bataille, ajoutées à la puissance maximale de l'ultime de Zio, furent trop importantes.
+
+Son armure se brisa.
+
+Sa silhouette se disloqua dans la lumière.
+
+Et le Démon stellaire mourut.
+
+Au même instant, la vie de Zio s'éteignit.
+
+Hasol hurla son nom.
+
+— ZIO !
+
+La déflagration avait projeté une onde de choc sur les lignes les plus proches.
+
+Les chasseurs s'étaient abrités derrière les protections encore intactes.
+
+Plusieurs furent renversés.
+
+D'autres durent être aidés à se relever.
+
+Yoon, Ray et Samia avaient entraîné Hasol derrière un talus renforcé.
+
+La lumière les enveloppa.
+
+Puis disparut lentement.
+
+Pendant quelques secondes, personne ne bougea.
+
+La plaine était couverte de poussière.
+
+Des fragments de terre retombaient autour des positions défensives.
+
+Le silence semblait irréel.
+
+Puis un bruit faible résonna.
+
+Le portail orange commençait à se refermer.
+
+Sa lumière se contracta.
+
+Les bords de la brèche tremblèrent.
+
+Puis elle disparut complètement.
+
+Le boss était mort.
+
+Le portail était fermé.
+
+La bataille principale venait de s'achever.
+
+Mais Hasol ne regardait pas le ciel.
+
+Elle fixait l'endroit où Zio s'était tenu.
+
+— Lâchez-moi !
+
+Elle repoussa les bras qui la retenaient.
+
+— Hasol ! cria Yoon.
+
+Mais l'Arcaniste courait déjà.
+
+Elle traversa la terre dévastée.
+
+Ses bottes glissèrent sur les pierres.
+
+Elle faillit tomber.
+
+Se rattrapa.
+
+Puis continua.
+
+— Zio !
+
+Il n'y avait personne devant elle.
+
+Seulement un vaste espace noirci.
+
+Des fragments d'armure.
+
+Des traces de l'explosion.
+
+Et, à quelques pas, une partie du grand bouclier qu'elle connaissait si bien.
+
+Hasol s'arrêta.
+
+Son souffle se brisa.
+
+Elle regarda autour d'elle.
+
+— Zio… ?
+
+Aucune réponse.
+
+Elle avança.
+
+Lentement.
+
+Puis s'agenouilla près du bouclier.
+
+Une partie de sa surface avait fondu.
+
+Les attaches étaient brisées.
+
+Hasol le toucha du bout des doigts.
+
+— Non…
+
+Elle releva la tête.
+
+— Zio ?
+
+Sa voix était presque inaudible.
+
+Elle regarda les alentours.
+
+Chercha une silhouette.
+
+Un mouvement.
+
+Une respiration.
+
+N'importe quoi.
+
+— Zio, réponds-moi…
+
+Elle se releva brusquement.
+
+Puis se mit à chercher parmi les débris.
+
+— Il est là quelque part !
+
+Yoon arriva derrière elle.
+
+Sa respiration était irrégulière.
+
+Ses yeux étaient pleins de larmes.
+
+— Hasol…
+
+L'Arcaniste se retourna.
+
+— Aide-moi !
+
+Yoon resta immobile.
+
+— Hasol…
+
+— Tu peux le soigner !
+
+Sa voix se brisa.
+
+— Tu peux le soigner, Yoon !
+
+La Sage porta une main à sa bouche.
+
+Elle regarda les débris.
+
+Puis l'endroit où son frère s'était tenu.
+
+Elle savait ce que signifiait Dernier Rempart lorsque son utilisateur choisissait de ne conserver aucun point de vie.
+
+Elle connaissait la compétence.
+
+Elle en avait parlé avec Zio.
+
+Elle savait que ses soins ne pouvaient pas inverser un sacrifice total.
+
+Mais savoir cela ne rendait pas la réalité plus supportable.
+
+Elle tomba à genoux.
+
+— Grand frère…
+
+Hasol recula.
+
+— Non.
+
+Yoon éclata en sanglots.
+
+— Non…
+
+Hasol secoua la tête.
+
+— Il ne peut pas…
+
+Elle regarda le bouclier.
+
+Puis le ciel.
+
+Puis les débris autour d'elle.
+
+— Il m'avait promis…
+
+Sa voix disparut.
+
+Elle porta une main à sa poitrine.
+
+Une douleur immense la traversa.
+
+Plus violente que toutes les blessures qu'elle avait connues.
+
+Elle pensa à son père.
+
+À Iseria.
+
+À toutes les personnes qu'elle avait perdues.
+
+Puis au sourire de Zio.
+
+À sa voix.
+
+À ses bras.
+
+À la manière dont il lui disait *ma princesse* lorsqu'elle revenait d'une mauvaise journée.
+
+Et elle comprit.
+
+Il ne reviendrait pas.
+
+Hasol poussa un cri.
+
+Un cri si désespéré que plusieurs chasseurs se retournèrent.
+
+Elle se laissa tomber près du bouclier.
+
+Ses doigts se refermèrent sur le métal brisé.
+
+— Zio…
+
+Les larmes brouillaient sa vue.
+
+— Je t'en supplie…
+
+Elle posa son front contre le bouclier.
+
+— Reviens…
+
+Yoon s'approcha.
+
+Puis l'enlaça.
+
+Hasol s'accrocha à elle.
+
+Les deux femmes pleurèrent ensemble.
+
+L'une venait de perdre son mari.
+
+L'autre son frère.
+
+Et autour d'elles, les chasseurs survivants demeuraient silencieux.
+
+Ray s'arrêta à quelques pas.
+
+Ses lunettes étaient couvertes de poussière.
+
+Il les retira.
+
+Essuya machinalement une lentille.
+
+Puis s'interrompit.
+
+Ses mains tremblaient.
+
+Il regarda le bouclier.
+
+Puis ses amies.
+
+Il avait connu Zio à l'Académie.
+
+Il l'avait admiré.
+
+Puis craint.
+
+Puis appris à lui faire confiance.
+
+Le Gardien avait souvent été celui qui interrompait leurs disputes.
+
+Celui qui repérait les erreurs que les autres ne voyaient pas.
+
+Celui qui levait son bouclier lorsque tout le monde avait besoin de quelques secondes supplémentaires.
+
+Ray ouvrit la bouche.
+
+Aucun mot ne vint.
+
+Alors il s'agenouilla près d'Hasol et de Yoon.
+
+Et resta avec elles.
+
+Samia arriva la dernière.
+
+Elle avait participé à la vérification des derniers démons qui menaçaient encore les positions extérieures.
+
+Lorsqu'elle aperçut Hasol et Yoon, elle comprit immédiatement.
+
+Elle ralentit.
+
+Puis s'arrêta.
+
+Son regard glissa vers le bouclier.
+
+Elle resta immobile.
+
+Pendant quelques secondes, elle revit le jeune homme qui plaisantait avec elle pendant les entraînements de l'Académie.
+
+Celui qui avait toujours défendu Hasol.
+
+Celui qui avait fini par épouser son amie.
+
+Celui qui lui avait dit, quelques semaines plus tôt, qu'elle leur manquait.
+
+*Je suis toujours là.*
+
+Elle se souvenait de sa réponse.
+
+Et maintenant, lui ne l'était plus.
+
+Samia ferma les yeux.
+
+Puis s'approcha.
+
+Elle posa doucement une main sur l'épaule d'Hasol.
+
+L'Arcaniste leva la tête.
+
+Ses yeux turquoise étaient noyés de larmes.
+
+— Samia…
+
+La Ranger sentit sa gorge se serrer.
+
+Hasol la regarda comme si elle attendait encore une solution.
+
+Une information.
+
+Une possibilité qu'elle n'aurait pas envisagée.
+
+Mais Samia n'avait rien.
+
+Aucune carte ne pouvait retrouver Zio.
+
+Aucun présage ne pouvait annuler son choix.
+
+Aucune flèche ne pouvait atteindre la mort.
+
+Alors elle s'agenouilla.
+
+Et prit son amie dans ses bras.
+
+Hasol s'effondra contre elle.
+
+Samia la serra de toutes ses forces.
+
+Pendant longtemps, elles restèrent ainsi.
+
+Puis Samia sentit des larmes couler sur ses propres joues.
+
+Elle ne chercha pas à les retenir.
+
+La bataille était terminée.
+
+Mais les opérations se poursuivirent jusqu'à ce que les derniers démons sortis du portail aient été éliminés.
+
+Les blessés furent transportés vers les postes de soin.
+
+Les morts furent recensés.
+
+Des équipes commencèrent à examiner la zone où le Démon stellaire avait disparu.
+
+La guilde proclama officiellement la fermeture du premier portail orange.
+
+La capitale avait été sauvée d'une catastrophe majeure.
+
+La demeure Shun était toujours debout.
+
+Les quartiers évacués avaient échappé à une destruction totale.
+
+Des milliers de personnes pourraient rentrer chez elles.
+
+Mais Hasol n'écouta aucun des discours de victoire.
+
+Elle demeura près du bouclier.
+
+Et lorsque les chasseurs vinrent enfin lui proposer de quitter la plaine, elle secoua la tête.
+
+— Pas encore.
+
+Yoon lui prit la main.
+
+— Hasol…
+
+L'Arcaniste contempla le métal brisé.
+
+— J'ai peur qu'il soit seul.
+
+Yoon sentit ses propres larmes revenir.
+
+Elle s'agenouilla près d'elle.
+
+— Alors restons encore un peu.
+
+## XIII. Le prix d'une victoire
+
+Les funérailles de Zio eurent lieu plusieurs jours plus tard.
+
+La capitale était encore en train de réparer les dégâts de la bataille.
+
+Certains quartiers n'avaient pas retrouvé leurs habitants.
+
+Les guildes poursuivaient les travaux de sécurisation.
+
+Mais ce jour-là, de nombreux chasseurs interrompirent leurs activités pour venir rendre hommage au Gardien.
+
+Il y avait des hommes et des femmes qui avaient combattu à ses côtés.
+
+Des responsables de guilde.
+
+Des artisans.
+
+Des amis de l'Académie.
+
+Et des personnes qui ne l'avaient jamais rencontré, mais qui avaient appris ce qu'il avait fait.
+
+Le grand bouclier de Zio avait été restauré autant que possible pour la cérémonie.
+
+Les fissures demeuraient visibles.
+
+Hasol avait demandé qu'elles ne soient pas entièrement dissimulées.
+
+Elle ne voulait pas qu'on transforme les derniers instants de son mari en une histoire parfaitement propre.
+
+Elle voulait qu'on se souvienne de ce qu'il avait réellement donné.
+
+Elle portait une robe sombre.
+
+Ses longs cheveux avaient été attachés avec soin par Yoon.
+
+Mais son visage était pâle.
+
+Ses yeux semblaient épuisés.
+
+La grossesse n'était pas encore visible.
+
+Pourtant, Hasol avait l'impression que chaque personne qui la regardait pouvait deviner ce qu'elle portait.
+
+Un enfant.
+
+L'enfant de Zio.
+
+Elle posa doucement une main sur son ventre.
+
+Puis leva les yeux vers le bouclier.
+
+Un officier prit la parole.
+
+Il évoqua le courage du Gardien.
+
+Ses années de service.
+
+Son rôle dans les nombreuses expéditions de l'Empire.
+
+Son exceptionnelle maîtrise des compétences défensives.
+
+Puis sa dernière décision.
+
+L'explosion de Dernier Rempart.
+
+La mort du Démon stellaire.
+
+La fermeture du portail orange.
+
+Les vies sauvées.
+
+Hasol entendait les mots.
+
+Mais ils lui paraissaient très lointains.
+
+Lorsqu'on évoqua l'héroïsme de son mari, elle baissa les yeux.
+
+Elle savait que Zio avait été courageux.
+
+Elle savait qu'il avait sauvé des milliers de personnes.
+
+Mais ce n'était pas le héros qu'elle cherchait.
+
+C'était l'homme qui déposait sa tasse près de la fenêtre.
+
+Celui qui lui disait de dormir lorsqu'elle travaillait trop tard.
+
+Celui qui riait lorsqu'elle prétendait savoir cuisiner.
+
+Celui qui avait posé sa main sur son ventre en murmurant bonjour à un enfant qu'il ne rencontrerait jamais.
+
+Et cet homme-là lui manquait tellement qu'elle avait parfois l'impression de ne plus pouvoir respirer.
+
+Yoon se tenait près d'elle.
+
+La Sage avait passé les derniers jours à aider les chasseurs blessés.
+
+Elle avait soigné.
+
+Organisé.
+
+Répondu aux demandes.
+
+Fait tout ce qu'elle pouvait pour rester occupée.
+
+Mais lorsqu'elle aperçut le bouclier de son frère, ses jambes tremblèrent.
+
+Hasol lui prit la main.
+
+Yoon serra ses doigts.
+
+— Il était tellement heureux, murmura-t-elle.
+
+Hasol tourna la tête.
+
+— Qui ?
+
+Yoon la regarda.
+
+— Zio.
+
+Ses yeux se remplirent de larmes.
+
+— Quand il m'a dit que tu étais enceinte, il avait l'air d'un enfant.
+
+Hasol sentit sa gorge se serrer.
+
+Yoon eut un sourire douloureux.
+
+— Il m'a demandé si je croyais qu'il serait un bon père.
+
+Hasol baissa les yeux.
+
+— Vraiment ?
+
+— Oui.
+
+Yoon essuya rapidement ses joues.
+
+— Je lui ai dit que s'il était aussi protecteur avec son enfant qu'avec sa petite sœur, ce pauvre bébé n'aurait jamais le droit de tomber en apprenant à marcher.
+
+Hasol laissa échapper un sanglot mêlé d'un rire.
+
+Yoon se rapprocha.
+
+— Il m'a répondu qu'il essaierait de ne pas être trop inquiet.
+
+Les deux femmes pleurèrent.
+
+Puis Hasol murmura :
+
+— Il aurait été merveilleux.
+
+Yoon acquiesça.
+
+— Oui.
+
+Elle posa doucement une main sur celle qu'Hasol tenait contre son ventre.
+
+— Et je serai là.
+
+Hasol releva les yeux.
+
+— Yoon…
+
+— Pour toi. Pour votre enfant.
+
+Sa voix trembla.
+
+— Je ne pourrai pas remplacer mon frère.
+
+Hasol secoua la tête.
+
+— Personne ne le pourra.
+
+Yoon acquiesça.
+
+Puis la prit dans ses bras.
+
+Ray ne prononça aucun discours.
+
+Il resta auprès de ses amies pendant toute la cérémonie.
+
+Lorsque quelqu'un lui demanda ce qu'il souhaitait dire au sujet de Zio, il retira simplement ses lunettes.
+
+Les regarda.
+
+Puis murmura :
+
+— Il a été meilleur que moi tellement de fois…
+
+Il s'interrompit.
+
+Ses doigts tremblaient.
+
+— J'aurais voulu avoir encore le temps de le lui dire.
+
+Personne ne chercha à le faire parler davantage.
+
+Samia demeura silencieuse.
+
+Elle avait rangé ses cartes.
+
+Pour la première fois depuis des mois, elle n'avait accepté aucune intervention.
+
+Lorsque plusieurs guildes lui demandèrent de nouvelles localisations, elle transmit seulement les informations indispensables et confia les opérations à d'autres chasseurs.
+
+Elle voulait rester auprès d'Hasol.
+
+Mais elle ne savait pas comment l'aider.
+
+Les mots lui manquaient.
+
+Elle avait déjà perdu une partie de sa famille.
+
+Elle connaissait cette douleur.
+
+Pourtant, elle avait l'impression de la redécouvrir sous une forme encore plus cruelle.
+
+Quelques semaines auparavant, Hasol lui avait annoncé sa grossesse avec un sourire immense.
+
+Zio s'était agenouillé devant elle.
+
+Ils avaient parlé d'un enfant.
+
+D'une chambre.
+
+De leur avenir.
+
+Et maintenant…
+
+Samia regarda la jeune femme qu'elle aimait comme une sœur.
+
+Elle avait voulu lui promettre qu'elle protégerait sa famille.
+
+Elle avait échoué.
+
+Cette pensée s'installa dans son cœur.
+
+Froide.
+
+Tenace.
+
+Et quelque chose en elle se referma davantage.
+
+Orven vint voir Hasol après la cérémonie.
+
+Le vieil artisan avait les yeux rouges.
+
+Il contempla longuement le bouclier.
+
+Puis se tourna vers son ancienne élève.
+
+— Hasol…
+
+Elle releva les yeux.
+
+Il semblait chercher les mots.
+
+Puis il secoua doucement la tête.
+
+— Je suis désolé.
+
+Hasol acquiesça.
+
+— Merci, maître.
+
+Il posa une main sur son épaule.
+
+— Tu n'as pas besoin d'être forte aujourd'hui.
+
+Elle sentit les larmes revenir.
+
+Pendant un instant, elle redevint la petite fille qui entrait dans son atelier avec trop de questions et pas assez de patience.
+
+— Je ne sais plus comment faire, murmura-t-elle.
+
+Orven la regarda avec une tendresse douloureuse.
+
+— Alors ne cherche pas à tout savoir aujourd'hui.
+
+Elle baissa la tête.
+
+Il ajouta :
+
+— Nous serons là demain.
+
+Hasol ferma les yeux.
+
+Puis acquiesça.
+
+La cérémonie s'acheva.
+
+Les chasseurs quittèrent progressivement les lieux.
+
+Les responsables de guilde retournèrent à leurs obligations.
+
+Les habitants de la capitale reprirent lentement le cours de leur vie.
+
+Le premier portail orange appartenait désormais à l'histoire.
+
+Mais pour Hasol, rien n'était terminé.
+
+Elle avait trente-quatre ans.
+
+Seize cercles de Mana.
+
+Un équipement runique exceptionnel.
+
+Une réputation qui s'étendait bien au-delà de l'Empire.
+
+Et un enfant à naître.
+
+Mais elle venait de perdre l'homme avec lequel elle voulait partager tout cela.
+
+Elle avait survécu.
+
+C'était la dernière chose que Zio lui avait demandée.
+
+Et, pour le moment, elle ignorait encore comment tenir cette promesse.
+
+## XIV. Ce qui reste
+
+Le silence de la demeure Shun était devenu insupportable.
+
+Hasol le découvrit dès la première nuit.
+
+Elle avait demandé à rentrer chez elle.
+
+Yoon avait proposé de rester.
+
+Samia aussi.
+
+Mais Hasol avait insisté pour passer quelques heures seule.
+
+Elle voulait retrouver sa chambre.
+
+Leur chambre.
+
+Elle voulait se convaincre que les événements des derniers jours n'étaient pas réels.
+
+Qu'elle allait ouvrir la porte et découvrir Zio assis près de la fenêtre.
+
+Qu'il lèverait les yeux.
+
+Lui sourirait.
+
+Et lui demanderait pourquoi elle avait encore travaillé si tard.
+
+Mais lorsqu'elle entra, la pièce était vide.
+
+Les affaires de son mari se trouvaient toujours à leur place.
+
+Ses vêtements.
+
+Ses livres.
+
+Sa tasse.
+
+Hasol s'approcha lentement de la fenêtre.
+
+La petite tasse était toujours là.
+
+Elle la prit entre ses mains.
+
+Puis s'assit.
+
+Pendant longtemps, elle la contempla sans bouger.
+
+Finalement, elle murmura :
+
+— Tu l'as encore oubliée…
+
+Sa voix se brisa.
+
+Les larmes commencèrent à couler.
+
+Elle serra la tasse contre elle.
+
+— Zio…
+
+Personne ne répondit.
+
+Plus tard, elle entra dans la chambre qu'ils avaient commencé à préparer.
+
+La commode était toujours là.
+
+Les échantillons de tissus aussi.
+
+Les dessins de berceaux reposaient sur la petite table.
+
+Hasol les prit délicatement.
+
+Elle reconnut immédiatement l'écriture de son mari.
+
+Des dimensions.
+
+Des observations.
+
+Des corrections.
+
+Sur l'un des dessins, Zio avait ajouté une petite remarque.
+
+*Prévoir une commode suffisamment haute pour qu'Hasol ne puisse pas y empiler ses dossiers.*
+
+Hasol resta immobile.
+
+Puis un rire lui échappa.
+
+Un rire douloureux, interrompu presque aussitôt par un sanglot.
+
+— Idiot…
+
+Elle posa le dessin contre sa poitrine.
+
+— Tu es vraiment un idiot…
+
+Les larmes coulaient sans qu'elle cherche à les arrêter.
+
+Elle s'assit sur le sol.
+
+Puis contempla la pièce.
+
+Ils avaient passé tant de temps à choisir cette chambre.
+
+À imaginer leur enfant.
+
+À discuter de détails sans importance.
+
+Elle avait cru qu'ils disposaient de toutes les années nécessaires.
+
+Mais il n'avait même pas pu voir leur enfant naître.
+
+Hasol posa doucement une main sur son ventre.
+
+— Ton papa était quelqu'un d'extraordinaire…
+
+Sa voix trembla.
+
+— Tu sais…
+
+Elle essuya ses joues.
+
+— Il était gentil. Et courageux. Et tellement têtu…
+
+Un nouveau sanglot lui échappa.
+
+— Il t'aurait tellement aimé.
+
+Elle serra le dessin contre elle.
+
+— Il t'aimait déjà.
+
+Puis elle se mit à pleurer.
+
+Longtemps.
+
+Jusqu'à ce qu'elle n'ait plus la force de prononcer un seul mot.
+
+Les jours suivants, Yoon passa régulièrement la voir.
+
+Ray s'occupa de plusieurs questions administratives.
+
+Orven supervisa une partie des commandes les plus importantes.
+
+Samia vint déposer des rapports, puis comprit rapidement qu'Hasol n'avait aucune envie de les lire.
+
+Alors elle cessa de les apporter.
+
+Elle s'assit simplement auprès de son amie.
+
+Parfois pendant une heure.
+
+Parfois davantage.
+
+Elles parlaient peu.
+
+Mais Hasol appréciait sa présence.
+
+Un soir, alors que la pluie frappait doucement les fenêtres, Samia lui demanda :
+
+— Tu veux que je reste cette nuit ?
+
+Hasol réfléchit.
+
+Puis acquiesça.
+
+— Oui.
+
+La Ranger s'assit près d'elle.
+
+Hasol posa sa tête sur son épaule.
+
+— Tu te souviens du jour où il nous a demandé de nous arrêter après quatre portails en trois jours ?
+
+Samia baissa les yeux.
+
+— Oui.
+
+— Nous ne l'avons même pas écouté.
+
+Un silence s'installa.
+
+Samia serra doucement sa main.
+
+— Il voulait nous protéger.
+
+Hasol acquiesça.
+
+— Il essayait toujours.
+
+Elle ferma les yeux.
+
+— Et maintenant, je donnerais n'importe quoi pour l'entendre encore me demander de dormir.
+
+Samia sentit sa gorge se serrer.
+
+Elle contempla le visage de son amie.
+
+Puis murmura :
+
+— Moi aussi.
+
+## XV. La rune temporelle
+
+Parmi les objets récupérés après la mort du Démon stellaire se trouvait une rune inhabituelle.
+
+Les chasseurs chargés de l'inventaire avaient découvert la pierre près de l'endroit où le boss s'était effondré.
+
+Elle ne ressemblait à aucune rune ordinaire.
+
+Sa surface changeait légèrement d'aspect selon l'angle sous lequel on l'observait.
+
+De fines inscriptions semblaient se déplacer à l'intérieur, sans jamais reprendre exactement la même position.
+
+Personne n'avait réussi à déterminer son grade.
+
+Ni son nombre d'étoiles.
+
+L'objet avait finalement été transmis à Hasol, dont les connaissances runiques étaient reconnues bien au-delà de l'Empire.
+
+Elle l'avait reçu dans un petit coffret.
+
+Puis oublié sur son bureau.
+
+Pendant plusieurs jours, elle n'avait pas eu la force de l'examiner.
+
+Ce soir-là, elle se trouvait seule dans sa chambre.
+
+Sur la table reposait l'un des dessins de Zio.
+
+Elle venait de le relire.
+
+Encore.
+
+Elle connaissait désormais presque par cœur chaque annotation.
+
+Chaque correction.
+
+Chaque mot.
+
+Puis son regard tomba sur le coffret.
+
+Hasol resta immobile.
+
+Elle se souvint de l'officier qui le lui avait remis.
+
+*Une rune retrouvée après la mort du Démon stellaire.*
+
+Elle ne savait même pas pourquoi elle avait accepté de la conserver.
+
+Autrefois, un objet aussi étrange aurait immédiatement éveillé sa curiosité.
+
+Elle aurait cherché Orven.
+
+Consulté ses livres.
+
+Examiné les inscriptions pendant des heures.
+
+Mais aujourd'hui…
+
+Elle n'avait envie de rien.
+
+Hasol ouvrit néanmoins le coffret.
+
+La rune reposait sur un coussin sombre.
+
+De minces lignes argentées parcouraient sa surface.
+
+Elle la prit délicatement entre ses doigts.
+
+Aussitôt, une sensation étrange traversa son corps.
+
+Elle fronça les sourcils.
+
+Son Œil runique tenta instinctivement d'examiner l'objet.
+
+Une inscription apparut.
+
+Puis disparut.
+
+Hasol fixa la pierre.
+
+Les lignes semblaient dessiner un cercle.
+
+Un cadran.
+
+Quelque chose qui ressemblait à un ancien mécanisme d'horlogerie.
+
+Elle cligna des yeux.
+
+Une nouvelle fenêtre se forma.
+
+<div class="system-window lit-window" data-window-id="C16-F05" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F05-mobile.svg">
+    <img src="assets/fenetres/C16-F05.svg" alt="Fenêtre du système — SYSTÈME — IDENTIFICATION PARTIELLE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — IDENTIFICATION PARTIELLE
+  </div>
+  <h3>Rune temporelle</h3>
+  <p>Grade</p>
+  <p>Indéterminé</p>
+  <p>Rang</p>
+  <p>Indéterminé</p>
+  <p>Propriétés non identifiées</p>
+  </details>
+</div>
+
+Hasol contempla la fenêtre.
+
+— Temporelle… ?
+
+Elle n'avait jamais entendu parler d'une rune de ce type.
+
+Elle essaya d'examiner ses inscriptions.
+
+Mais celles-ci ne ressemblaient à aucun système qu'elle connaissait.
+
+Elle finit par refermer l'interface.
+
+Puis posa la pierre sur la table.
+
+Son regard revint vers les dessins de Zio.
+
+Et toute sa curiosité disparut.
+
+Elle s'approcha du lit.
+
+S'assit.
+
+Puis contempla la place vide à côté d'elle.
+
+Le silence pesait sur ses épaules.
+
+Hasol tendit la main vers l'oreiller de son mari.
+
+Elle le rapprocha doucement.
+
+Puis enfouit son visage contre lui.
+
+— Tu me manques…
+
+Sa voix tremblait.
+
+Elle ferma les yeux.
+
+— Je sais que tu voulais me sauver.
+
+Une larme glissa sur sa joue.
+
+— Je sais que tu as sauvé tous ces gens…
+
+Elle inspira difficilement.
+
+— Mais je voulais simplement que tu restes avec moi.
+
+Elle se mit à pleurer.
+
+Pas comme lors des funérailles.
+
+Pas avec cette douleur si violente qu'elle empêchait presque de respirer.
+
+Cette fois, c'était une tristesse profonde.
+
+Une absence sans fond.
+
+Elle pensa à son père.
+
+À sa mère.
+
+À toutes les personnes qu'elle aurait voulu retrouver.
+
+Puis à Zio.
+
+Et à l'enfant qu'ils avaient commencé à attendre ensemble.
+
+Elle posa les mains sur son ventre.
+
+— Je vais essayer…
+
+Sa voix se brisa.
+
+— Je vais essayer de vivre, comme tu me l'as demandé.
+
+Elle ferma les yeux.
+
+— Mais je ne sais pas comment faire sans toi.
+
+Sur la table, la rune temporelle se mit à briller.
+
+D'abord faiblement.
+
+Puis davantage.
+
+Les inscriptions argentées se déplacèrent.
+
+Une à une.
+
+Comme les pièces d'un mécanisme invisible.
+
+Hasol ne remarqua rien.
+
+Elle pleurait toujours.
+
+Puis un son résonna.
+
+Très faible.
+
+Presque imperceptible.
+
+Elle releva la tête.
+
+Un second son suivit.
+
+Un tintement métallique.
+
+Hasol regarda autour d'elle.
+
+— Qu'est-ce que… ?
+
+La rune s'éleva lentement au-dessus de la table.
+
+Les lignes argentées s'étirèrent autour d'elle.
+
+Un cercle apparut.
+
+Puis un second.
+
+Ils tournèrent l'un autour de l'autre.
+
+Hasol se leva brusquement.
+
+— Non…
+
+Une fenêtre du système traversa sa vision.
+
+<div class="system-window lit-window" data-window-id="C16-F06" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F06-mobile.svg">
+    <img src="assets/fenetres/C16-F06.svg" alt="Fenêtre du système — SYSTÈME — RUNE TEMPORELLE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">
+    <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
+    SYSTÈME — RUNE TEMPORELLE
+  </div>
+  <p>Instabilité émotionnelle détectée</p>
+  <h3>Activation</h3>
+  </details>
+</div>
+
+Hasol recula.
+
+— Attends !
+
+Le sol sembla disparaître sous ses pieds.
+
+La chambre se déforma.
+
+Le lit.
+
+Les fenêtres.
+
+Les dessins de Zio.
+
+Tout devint flou.
+
+Elle tendit la main vers la table.
+
+Mais l'espace autour d'elle s'étirait déjà.
+
+La rune se plaça devant son visage.
+
+Puis un immense cadran apparut.
+
+Suspendu dans l'obscurité.
+
+Douze marques parcouraient sa circonférence.
+
+Au centre, un sablier semblait contenir une lumière mouvante.
+
+Hasol contempla cette apparition.
+
+Elle ne comprenait pas.
+
+Elle n'avait pas demandé à activer cette rune.
+
+Elle ignorait même ce qu'elle était capable de faire.
+
+Pourtant, le mécanisme continuait de tourner.
+
+Une première marque s'illumina.
+
+Et le cadran sonna.
+
+**DONG.**
+
+La vibration traversa tout son corps.
+
+Le sable du sablier se déplaça.
+
+Hasol recula.
+
+— Arrête !
+
+Une seconde marque s'illumina.
+
+**DONG.**
+
+Puis une troisième.
+
+**DONG.**
+
+Hasol porta les mains à sa tête.
+
+Le son était immense.
+
+Comme si un clocher invisible résonnait directement à l'intérieur de son esprit.
+
+Elle essaya de fermer les yeux.
+
+Mais le cadran demeurait devant elle.
+
+Une quatrième marque brilla.
+
+**DONG.**
+
+Puis une cinquième.
+
+**DONG.**
+
+Et une sixième.
+
+**DONG.**
+
+Hasol sentit une peur terrible l'envahir.
+
+Elle pensa à son enfant.
+
+Ses mains se posèrent instinctivement sur son ventre.
+
+— Non…
+
+Une septième marque s'illumina.
+
+**DONG.**
+
+Puis une huitième.
+
+**DONG.**
+
+Une neuvième.
+
+**DONG.**
+
+Le sable continuait de progresser.
+
+Les inscriptions tournaient autour du cadran.
+
+Hasol tenta de se déplacer.
+
+Mais elle ne trouvait plus de sol sous ses pieds.
+
+Il n'y avait que l'obscurité.
+
+Le mécanisme.
+
+Et le bruit.
+
+Une dixième marque s'illumina.
+
+**DONG.**
+
+Puis une onzième.
+
+**DONG.**
+
+Hasol se mit à pleurer.
+
+— Zio…
+
+La dernière marque brilla.
+
+**DONG.**
+
+Le cadran s'immobilisa.
+
+Douze coups.
+
+Douze vibrations qui semblaient avoir traversé toutes les années de sa vie.
+
+Puis le silence.
+
+Hasol releva lentement la tête.
+
+Au centre du sablier, une nouvelle lumière apparut.
+
+Plus fine.
+
+Plus claire.
+
+Différente.
+
+Et un dernier son retentit.
+
+**DING.**
+
+Un seul.
+
+Aigu.
+
+Cristallin.
+
+La dernière vibration parcourut le sablier.
+
+Puis tout disparut.
+
+Hasol voulut crier.
+
+Mais aucun son ne sortit de sa bouche.
+
+La dernière chose qu'elle sentit fut une impression de chute.
+
+Une chute interminable.
+
+À travers les années.
+
+À travers les souvenirs.
+
+À travers une vie qu'elle venait de perdre.
+
+Puis l'obscurité l'emporta.
+
+---
+
+<span id="epilogue"></span>
+
+# Épilogue — La nuit avant la Révélation
+
+Hasol se réveilla en sursaut.
+
+Elle était trempée de sueur.
+
+Son cœur battait si vite qu'elle en avait mal à la poitrine.
+
+Pendant quelques secondes, elle ne comprit pas où elle se trouvait.
+
+Elle regarda autour d'elle.
+
+Sa chambre.
+
+Les rideaux.
+
+La petite table près du lit.
+
+Le livre consacré aux grandes expéditions de l'Empire d'Astréa.
+
+Tout était familier.
+
+Et pourtant, quelque chose lui semblait étrangement différent.
+
+Elle baissa les yeux.
+
+Ses mains étaient petites.
+
+Beaucoup plus petites que dans son rêve.
+
+Elle les contempla longuement.
+
+Puis passa les doigts sur son visage.
+
+Quinze ans.
+
+Demain, elle aurait seize ans.
+
+Demain, elle se présenterait devant la stèle sacrée pour découvrir sa classe.
+
+Elle le savait.
+
+Mais pourquoi cette simple pensée lui donnait-elle l'impression d'avoir oublié quelque chose d'immense ?
+
+Hasol ferma les yeux.
+
+Le cauchemar lui revint.
+
+Un cadran gigantesque.
+
+Un sablier.
+
+Des inscriptions lumineuses.
+
+Douze coups graves.
+
+Puis un seul son aigu.
+
+Elle entendait encore leur écho.
+
+*Dong.*
+
+*Dong.*
+
+*Dong.*
+
+Elle porta les mains à ses oreilles.
+
+— Arrête…
+
+Mais le son était dans sa tête.
+
+Elle inspira difficilement.
+
+Puis se recroquevilla sur son lit.
+
+Elle avait peur.
+
+Une peur qu'elle n'arrivait pas à expliquer.
+
+Elle avait l'impression d'avoir perdu quelque chose.
+
+Quelque chose de précieux.
+
+Une chaleur.
+
+Une présence.
+
+Une voix qui lui parlait doucement.
+
+*Ma princesse…*
+
+Hasol ouvrit brusquement les yeux.
+
+Qui avait dit cela ?
+
+Elle ne savait pas.
+
+Le souvenir s'effaça presque aussitôt.
+
+Elle sentit des larmes couler sur ses joues.
+
+Puis son regard se posa sur la porte.
+
+Maman.
+
+Elle voulait voir sa mère.
+
+Hasol repoussa sa couverture.
+
+Ses pieds nus touchèrent le sol froid.
+
+Elle enfila rapidement une robe de chambre.
+
+Puis ouvrit la porte.
+
+Le couloir était plongé dans la pénombre.
+
+La demeure Shun dormait.
+
+Quelques lampes éclairaient encore les passages.
+
+Hasol marcha rapidement.
+
+Elle connaissait ce chemin depuis son enfance.
+
+La porte de la chambre de ses parents se trouvait à l'autre bout du couloir.
+
+Elle s'arrêta devant.
+
+Hésita.
+
+Puis frappa doucement.
+
+Aucune réponse.
+
+Elle frappa de nouveau.
+
+— Maman… ?
+
+Un léger bruit lui parvint.
+
+Puis une voix familière.
+
+— Hasol ?
+
+La jeune fille sentit sa gorge se serrer.
+
+— Maman…
+
+Des pas approchèrent.
+
+La porte s'ouvrit.
+
+Iseria apparut.
+
+Ses longs cheveux roses retombaient librement sur ses épaules.
+
+Elle portait une robe de nuit claire et semblait encore à moitié endormie.
+
+Mais lorsqu'elle aperçut sa fille, son expression changea immédiatement.
+
+— Ma chérie ?
+
+Hasol ne répondit pas.
+
+Elle se jeta dans ses bras.
+
+Iseria eut un petit mouvement de surprise.
+
+Puis l'enlaça aussitôt.
+
+— Hasol ?
+
+La jeune fille s'accrocha à elle.
+
+De toutes ses forces.
+
+Comme si elle avait peur qu'elle disparaisse.
+
+Iseria referma doucement la porte derrière elles.
+
+Puis passa une main dans ses cheveux.
+
+— Qu'est-ce qui se passe, mon cœur ?
+
+Hasol ne parvenait pas à parler.
+
+Elle enfouit son visage contre l'épaule de sa mère.
+
+Et se mit à pleurer.
+
+Iseria la serra davantage.
+
+— Chut…
+
+Elle lui caressa doucement le dos.
+
+— Je suis là.
+
+Hasol sanglota.
+
+Ces mots lui firent un effet étrange.
+
+Une douleur immense.
+
+Puis un soulagement presque insupportable.
+
+*Je suis là.*
+
+Elle aurait voulu que sa mère les répète encore.
+
+Et encore.
+
+Pour être certaine que c'était vrai.
+
+Iseria conduisit sa fille jusqu'à un petit fauteuil près du lit.
+
+Elle s'assit et l'attira contre elle.
+
+Hasol se blottit immédiatement dans ses bras.
+
+Comme lorsqu'elle était petite.
+
+Sa mère lui caressa les cheveux.
+
+— Tu as fait un cauchemar ?
+
+Hasol acquiesça.
+
+— Oui…
+
+— Tu veux m'en parler ?
+
+La jeune fille hésita.
+
+Puis murmura :
+
+— Il y avait une horloge.
+
+Iseria continua de lui caresser les cheveux.
+
+— Une horloge ?
+
+Hasol acquiesça.
+
+— Mais pas une horloge normale.
+
+Elle inspira difficilement.
+
+— Elle était immense. Suspendue dans le noir.
+
+Iseria ne répondit pas.
+
+Hasol poursuivit :
+
+— Il y avait des symboles dessus.
+
+Elle ferma les yeux.
+
+— Et un sablier.
+
+La main d'Iseria ralentit légèrement.
+
+Hasol ne le remarqua pas.
+
+— Je ne pouvais pas partir…
+
+Sa voix trembla.
+
+— Puis elle a commencé à sonner.
+
+Iseria baissa les yeux vers sa fille.
+
+— À sonner ?
+
+Hasol acquiesça.
+
+— Douze fois.
+
+Un silence s'installa.
+
+La main d'Iseria s'immobilisa.
+
+Hasol leva légèrement la tête.
+
+— Maman ?
+
+Iseria la regardait.
+
+Son expression avait changé.
+
+Mais lorsqu'elle vit la peur dans les yeux de sa fille, elle se força à sourire.
+
+— Continue, ma chérie.
+
+Hasol hésita.
+
+— C'était un bruit très grave.
+
+Elle chercha ses mots.
+
+— Comme un énorme gong.
+
+Iseria sentit son cœur se serrer.
+
+— Douze coups ? demanda-t-elle doucement.
+
+Hasol acquiesça.
+
+— Oui.
+
+Elle baissa les yeux.
+
+— Et après…
+
+Sa voix devint presque inaudible.
+
+— Il y a eu un autre son.
+
+Iseria ne bougea plus.
+
+— Quel autre son ?
+
+Hasol ferma les yeux.
+
+— Un seul.
+
+Elle inspira.
+
+— Plus aigu.
+
+Ses doigts se crispèrent sur la robe de sa mère.
+
+— Comme une petite cloche.
+
+Le silence tomba dans la chambre.
+
+Iseria contempla sa fille.
+
+Longuement.
+
+Ses doigts tremblèrent légèrement.
+
+Puis elle referma ses bras autour d'elle.
+
+Hasol ne comprenait pas pourquoi.
+
+Elle avait simplement l'impression que sa mère la serrait plus fort qu'auparavant.
+
+— Maman… ?
+
+Iseria enfouit doucement son visage dans les cheveux de sa fille.
+
+— Je suis là, ma chérie.
+
+Hasol ferma les yeux.
+
+Elle se sentit un peu mieux.
+
+La chaleur des bras d'Iseria.
+
+Son odeur familière de fleurs et de plantes médicinales.
+
+Le mouvement régulier de sa main dans ses cheveux.
+
+Tout cela était réel.
+
+Sa mère était là.
+
+Elle pouvait la toucher.
+
+Entendre sa voix.
+
+Respirer contre elle.
+
+Et, sans comprendre pourquoi, Hasol eut l'impression de retrouver quelque chose qu'elle avait perdu depuis une éternité.
+
+Iseria, elle, ne regardait plus sa fille de la même manière.
+
+Son visage était devenu grave.
+
+Elle contempla la porte fermée.
+
+Puis la fenêtre.
+
+La nuit semblait parfaitement calme.
+
+Pourtant, son cœur battait beaucoup trop vite.
+
+Elle baissa de nouveau les yeux vers Hasol.
+
+Sa fille s'était blottie contre elle.
+
+Encore tremblante.
+
+Encore effrayée par un rêve dont elle ne comprenait pas le sens.
+
+Iseria posa doucement ses lèvres sur son front.
+
+Puis leva les yeux vers l'obscurité.
+
+Et, dans un dialecte ancien que sa fille n'avait jamais appris, elle murmura :
+
+— *Astrae vaël norien… thara sel ven.*
+
+Hasol entendit les paroles.
+
+Mais ne les comprit pas.
+
+Elle reconnut seulement un nom.
+
+*Astrae.*
+
+Sa mère lui caressa une dernière fois les cheveux.
+
+Et la serra davantage contre elle.
+
+Les mots qu'Iseria venait de prononcer signifiaient :
+
+*« Qu'Astrae soit avec nous… Ça a commencé. »*
+
+## FIN DU LIVRE I
+
+Les Chroniques de l'Arcaniste Runique
+
+À suivre dans le Livre II

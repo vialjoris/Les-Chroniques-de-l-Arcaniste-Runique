@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="352" viewBox="0 0 320 352" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="312" height="342" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="345" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="111.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">SYSTÈME</text>
+<text x="167.24" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="172.64" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="12.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="185.60" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="191.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">BOSS</text>
+<text x="256.88" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="262.28" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="33.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">DE</text>
+<text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="104.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PORTAIL</text>
+<text x="160.76" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<path d="M20 109.19999999999999h280" stroke="#D8BF8F"/>
+<text x="20.00" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="69.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Démon</text>
+<text x="89.12" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="93.44" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="74.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">stellaire</text>
+<text x="20.00" y="192.20" font-size="18" font-weight="400" fill="#242424" textLength="120.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Classification</text>
+<text x="20.00" y="229.90" font-size="18" font-weight="400" fill="#242424" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Orange</text>
+<text x="20.00" y="267.60" font-size="18" font-weight="400" fill="#242424" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="20.00" y="312.30" font-size="20" font-weight="700" fill="#242424" textLength="25.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">70</text>
+</svg>

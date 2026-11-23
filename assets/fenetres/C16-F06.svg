@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="207" viewBox="0 0 680 207" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="672" height="197" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="200" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="111.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">SYSTÈME</text>
+<text x="175.24" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="180.64" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="12.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
+<text x="193.60" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="199.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RUNE</text>
+<text x="265.96" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="271.36" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="164.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">TEMPORELLE</text>
+<text x="435.52" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Instabilité</text>
+<text x="114.40" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="118.72" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="113.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">émotionnelle</text>
+<text x="232.12" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="236.44" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="78.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">détectée</text>
+<text x="28.00" y="159.30" font-size="20" font-weight="700" fill="#242424" textLength="97.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Activation</text>
+</svg>

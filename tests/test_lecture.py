@@ -378,8 +378,12 @@ class GenerateurTests(unittest.TestCase):
         navs = list(document.root.descendants("nav"))
         self.assertEqual(len(navs), 1)
         links = list(navs[0].descendants("a"))
-        self.assertEqual([compact(node.text()) for node in links], expected_chapters)
-        self.assertEqual([node.attrs["href"] for node in links], ["#" + node.attrs["id"] for node in chapters])
+        epilogues = [node for node in nodes if node.tag in {"h1", "h2"}
+                     and compact(node.text()).startswith("Épilogue")]
+        expected_navigation = expected_chapters + [compact(node.text()) for node in epilogues]
+        self.assertEqual([compact(node.text()) for node in links], expected_navigation)
+        self.assertEqual([node.attrs["href"] for node in links],
+                         ["#" + node.attrs["id"] for node in [*chapters, *epilogues]])
         for node in document.root.descendants("a"):
             href = node.attrs.get("href", "")
             if href.startswith("#"):

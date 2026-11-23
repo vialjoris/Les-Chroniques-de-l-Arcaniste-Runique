@@ -164,6 +164,8 @@ def manifest(source):
 
 def historical_prefix(source, reference):
     """Retrouver la fin exacte de la baseline sans absorber ni rogner sa dernière narration."""
+    source = without_added_contents(source, reference)
+    source = before_approved_description_corrections(source)
     document = Document(source)
     count = len(reference["window_text_sha256"])
     if len(document.windows) < count:
@@ -190,6 +192,60 @@ def historical_prefix(source, reference):
         if end < stop:
             checksum.update(source[end].encode("utf-8"))
     raise ValueError("Dernier segment narratif historique altéré ou tronqué")
+
+
+# Corrections éditoriales DEC-104/106/107, déjà présentes avant l'import final.
+# Les phrases exactes sont réversibles pour conserver les anciennes empreintes.
+APPROVED_DESCRIPTIONS = (
+    ("Son père leva les yeux du registre commercial qu’il consultait.",
+     "Son père leva les yeux du registre commercial qu’il consultait. Quelques mèches brunes se soulevaient au-dessus de son front, adoucissant les traits nets de son visage. Il portait une veste sombre à col haut, bordée de fins galons dorés, dont il avait défait une attache pour lire à son aise."),
+    ("Sa mère sourit.",
+     "Sa mère sourit. Ses longs cheveux rose pâle glissèrent sur son épaule lorsqu’elle se pencha vers Hasol. Les broderies dorées de sa robe claire dessinaient de fines arabesques le long des manches ; la coupe elfique et le tombé impeccable du tissu lui donnaient cette élégance que sa fille lui avait toujours connue."),
+    ("La clochette tinta. Une voix leur demanda d’attendre, puis un homme aux cheveux grisonnants sortit de l’arrière-boutique en s’essuyant les doigts. Il accueillit la mère de Hasol avec un sourire et contourna son comptoir.",
+     "La clochette tinta. Une voix leur demanda d’attendre, puis un homme aux cheveux grisonnants sortit de l’arrière-boutique en s’essuyant les doigts. Une barbe encadrait son visage, et il releva les yeux derrière ses lunettes pour accueillir la mère de Hasol avec un sourire, avant de contourner son comptoir."),
+    ("Ses cheveux sombres étaient soigneusement attachés, et sa silhouette élancée ne semblait nullement gênée par le poids de son équipement.",
+     "Ses cheveux bruns, coupés court, encadraient son visage, et sa silhouette élancée ne semblait nullement gênée par le poids de son équipement."),
+    ("Le soir, en rentrant chez elle, Hasol retrouva sa mère dans le petit salon.",
+     "Le soir, en rentrant chez elle, Hasol retrouva sa mère dans le salon."),
+    ("Le lendemain matin, Hasol descendit au petit salon familial avec son carnet sous le bras.",
+     "Le lendemain matin, Hasol descendit au salon familial avec son carnet sous le bras."),
+    ("Iseria se trouvait dans le petit salon lorsque Hasol rentra.",
+     "Iseria se trouvait dans le salon lorsque Hasol rentra."),
+    ("Elle savait seulement qu’elle se trouvait maintenant dans le petit salon.",
+     "Elle savait seulement qu’elle se trouvait maintenant dans le salon."),
+    ("Les regards qu’elle adressait parfois au fauteuil vide du petit salon.",
+     "Les regards qu’elle adressait parfois au fauteuil vide du salon."),
+    ("En rentrant, Hasol trouva Iseria dans le petit salon.",
+     "En rentrant, Hasol trouva Iseria dans le salon."),
+    ("Iseria se trouvait dans le petit salon.", "Iseria se trouvait dans le salon."),
+)
+
+
+def before_approved_description_corrections(source):
+    end = re.search(r"^# Chapitre 13\b", source, re.M)
+    prefix, suffix = (source[:end.start()], source[end.start():]) if end else (source, "")
+    for before, after in APPROVED_DESCRIPTIONS:
+        prefix = prefix.replace(after, before)
+    return prefix + suffix
+
+
+def without_added_contents(source, reference):
+    """Exclure uniquement les liens du sommaire correspondant aux nouveaux titres."""
+    first = re.search(r"^# Chapitre \d+\b", source, re.M)
+    if first is None:
+        return source
+    last = max(map(int, reference["chapter_window_counts"]))
+    prefix, body = source[:first.start()], source[first.start():]
+    titles = re.findall(r"^# (Chapitre (\d+)[^\n]*)$", body, re.M)
+    added = {f"{number}. [{title}](#chapitre-{number})"
+             for title, number in titles if int(number) > last}
+    epilogue = re.search(r"^# (Épilogue[^\n]*)$", body, re.M)
+    if epilogue:
+        for link in ("[Épilogue](#epilogue)", f"[{epilogue[1]}](#epilogue)",
+                     f"- [{epilogue[1]}](#epilogue)"):
+            prefix = prefix.replace("\n\n" + link + "\n", "\n")
+    return "".join(line for line in prefix.splitlines(keepends=True)
+                   if line.rstrip("\r\n") not in added) + body
 
 
 def table_cells(document):

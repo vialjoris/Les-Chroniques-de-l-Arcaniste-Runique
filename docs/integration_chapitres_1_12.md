@@ -1,5 +1,7 @@
 # Intégration du livre I — chapitres 1 à 12
 
+**État courant — DEC-110 à DEC-116, 23 novembre 2026 :** livre I complet, 1–16 lus et validés, y compris 10–12 et 13 XI. Voir [`integration_chapitres_13_16.md`](integration_chapitres_13_16.md). Les mentions « en lecture » et absences d’autorisation ci-dessous décrivent les réceptions historiques, sans annuler cette validation ni modifier leurs preuves datées.
+
 **Localisation actuelle des sources :** l’auteur a déplacé les six fichiers de provenance de la racine vers ce dossier `docs/`, sans changement de contenu : [`new.txt`](new.txt), [`old.txt`](old.txt), [`chap1_revision.md`](chap1_revision.md), [`chap2_revision.md`](chap2_revision.md), [`chap3_revision.md`](chap3_revision.md), [`chap4_revision.md`](chap4_revision.md). Les noms courts dans les tableaux et contrôles ci-dessous désignent ces mêmes fichiers ; les anciens chemins et repères de lignes restent historiques. Aucun nouvel import ni changement de validation.
 
 **Suivi ultérieur — DEC-109, 22 novembre 2026 :** le chapitre 13 actuel est désormais

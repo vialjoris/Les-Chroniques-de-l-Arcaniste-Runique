@@ -1,5 +1,34 @@
 # Personnages — Continuité et historique par chapitre
 
+## État courant — fin du livre I et épilogue, DEC-110 à DEC-116
+
+**Seize chapitres lus et validés**, 10–12 et 13 XI compris. Les états de lecture et jalons futurs des notices antérieures ci-dessous sont historiques. Séparer les états du dénouement adulte et ceux de l’épilogue, sans reporter équipement ou statistiques.
+
+| Personnage | État attesté au dénouement du I |
+|---|---|
+| Hasol | 34 ans, environ niveau 45, seize cercles ; grossesse découverte vers sept semaines, Zio informé avant le portail orange ; vivante, veuve et endeuillée |
+| Zio | Niveau 61 ; Dernier Rempart fatal tue le Démon stellaire ; funérailles racontées |
+| Yoon | Niveau final de référence 54 ; **survit**, ne ressuscite pas Zio |
+| Ray | Niveau final de référence 56 ; **survit**, mage de feu commun |
+| Samia | Niveau final de référence 52 ; **survit**, Ranger commune blonde, endeuillée et isolée mais attachée à ses amis |
+| Iseria | Morte au 14, en forêt pendant une cueillette, démons d’un portail blanc non repéré, 56 h après la notification ; niveau réel non déduit de la référence au 60 |
+
+**Hasol :** niveau 38 et treize cercles au début du 14 ; centième boss de donjon = quatorzième cercle ; niveau 40 et **Siphon runique** au 15 (Vent neutre, zone, dégâts PA, vol Mana, recharge, chiffres ouverts), quinzième et seizième cercles à 5 000/10 000 démons de portails. Deuil d’Iseria, chasse obsessionnelle puis retour au désir d’avenir grâce à la grossesse ; aucun affaiblissement automatique. Prénom, sexe, naissance et devenir de l’enfant **À DÉFINIR**. Responsabilités commerciales et artisanat ne sont pas effacés. Voir l’inventaire agrégé dans `runes.md`, sans appliquer les fiches naturelles au niveau 60.
+
+**Zio et Hasol :** amour réciproque et mariage du 13 conservés ; Zio utilise **« ma princesse »**, comme Armin. Il apprend la grossesse avant le portail orange et choisit le sacrifice, pas une mort simplement subie suivie d’un dernier coup d’Hasol. Survie des trois amis remplace les décès de l’ancien plan.
+
+**Samia :** plusieurs proches tués lors de la destruction de son village par un portail bleu, pas toute sa famille affirmée disparue. **Présage des failles** acquis au 15 : ~10 h, localisation approximative ; au 16, carte des portails détectés par couleur. Son éloignement accompagne le ralentissement d’Hasol sans jalousie ni rupture affective. Au II : passif dès le début ; carte complète dès l’ouverture **À DÉFINIR**, pas de souvenirs des vies passées. Mort solitaire au village, classe Ténèbres et transformation physique détaillée des vies futures restent des propositions à distinguer des faits du I.
+
+**Iseria et épilogue :** après le deuil adulte, Hasol se réveille à quinze ans, à la veille de ses seize ans et de la Révélation, terrifiée par les 12 DONG + 1 DING, et cherche sa mère. Iseria la réconforte, murmure **« Astrae vaël norien… thara sel ven. »** (« Qu’Astrae soit avec nous… Ça a commencé. »). Hasol ne comprend pas le dialecte. Ce savoir caché ne rend pas Iseria omnisciente ; aucune explication généalogique dans la scène. Armin et Iseria vivants dans cette période ne sont pas des résurrections au milieu de la chronologie adulte.
+
+### Ténébria — dossier de planification, DEC-116
+
+**CANON dans les grandes lignes validées à la ligne 74228 :** sœur d’Hasol, quatre ans plus âgée ; Mage Noir astrale. Clan Astrea l’ayant soustraite à ses parents pour en faire une sauveuse, vie imposée et souffrance, puis exploitation contre les démons. Dans la première vie, à environ 32 ans (Hasol 28), découverte d’un grimoire dans la bibliothèque royale et invocation rouvrant accidentellement la faille scellée par un ancêtre. Colère contre la vie injuste, pas volonté d’exterminer le monde. Dans la deuxième vie, résonance avec le sceau fragilisé lors de sa Révélation à seize ans (Hasol douze) : portails présents avant le retour d’Hasol à seize ans.
+
+**À DÉFINIR :** identité de l’ancêtre, parents explicitement nommés dans son dossier, détails de la prophétie et de l’enlèvement, statut de l’oncle empereur, répertoire/paramètres des pouvoirs, apparence, niveaux, chronologie de ses rencontres avec Hasol et connaissances de chacun. Propositions de désir exaucé ou confrontation non validées mot pour mot. Ne pas réécrire le livre I pour annoncer cette sœur ou révéler la responsabilité de Ténébria ; révélation progressive au II, souffrance comprise avant l’origine des portails.
+
+## Notices de réception antérieures — historiques
+
 ## État courant — fin du chapitre 13 validé, DEC-109
 
 **22 novembre 2026 :** chapitre 13 validé littérairement par l’auteur après les

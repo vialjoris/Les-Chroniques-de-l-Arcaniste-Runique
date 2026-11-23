@@ -1,5 +1,58 @@
 # Tests de la refonte de lecture
 
+## Import final du livre I — 23 novembre 2026
+
+`test_import_livre_i.py` vérifie les seize chapitres uniques, dans l'ordre, puis
+un épilogue non numéroté. Les SHA-256 supplémentaires des corps 1–12 et du 13
+I–X proviennent de la copie **avant intervention d'intégration**
+`/tmp/opencode/roman-baseline-test-writer-13.md`. Ils ne remplacent aucune fixture
+ancienne et ne dépendent pas de la présence de cette copie lors des exécutions.
+Le sommaire est hors de ces corps ; seule la clôture du 13 et ses séparateurs
+peuvent être déplacés après la nouvelle section XI.
+
+Les anciennes empreintes restent appliquées. Le helper historique inverse
+uniquement onze corrections textuelles exactes antérieures à cet import
+(descriptions visuelles DEC-104/106 et salon DEC-107), et retire les seuls liens
+de sommaire ajoutés correspondant à des titres réellement présents. Il ne
+supprime pas arbitrairement du texte, ne normalise pas la narration et ne
+renouvelle pas les fixtures. La protection supplémentaire avant import empêche
+également de rétablir les anciennes descriptions. Un test de mutation vérifie
+qu'un ancien lien de sommaire altéré reste détecté.
+
+La source mobile est recherchée par titres et fins de chapitres, jamais par
+numéro de ligne ou nombre total de lignes. Pour les 14–16, la dernière version
+complète est retenue ; la section XI du 13 est contrôlée séparément. Les
+paragraphes de soixante caractères au moins, sans chiffres ni tableaux, sont
+comparés dans l'ordre après normalisation des espaces, apostrophes, Markdown et
+entités HTML. Le texte des transcriptions HTML compte, pas seulement la narration
+hors fenêtres. Les exceptions explicites sont le surnom « ma princesse », le
+raccord de trente secondes d'Infiltration, la précision sur les cheveux d'Hasol
+et « une partie » de la famille de Samia, ainsi que la réplique de Ray qui rappelle
+le niveau quarante sans inventer vingt-quatre niveaux d'attente ; leur résultat est
+aussi vérifié.
+Suppression, altération et inversion de paragraphes sont testées par mutations.
+Ces ancres protègent largement la prose, sans prétendre comparer chaque fragment
+court ou chiffré de l'archive : une revue éditoriale reste nécessaire.
+
+Les contrats ciblés couvrent les compteurs distincts de 5 000/10 000 démons et
+100 boss, la progression 13→14→15→16, les ensembles d'équipement, Siphon qualitatif
+sans formule numérique, les douze DONG et l'unique DING. Le contrôle du surnom
+n'interdit pas la relation familiale légitime « ma belle-sœur ».
+
+`test_securite_documents.py` contrôle **tout** le manuscrit et le lecteur, y
+compris hors fenêtres : ni script, base, formulaire, redirection meta refresh,
+gestionnaire d'événement ni ressource externe. Des injections artificielles
+vérifient ces refus. Les SVG dérivés ont désormais un vocabulaire fermé de
+primitives passives ; liens, filtres, images et animations sont refusés, avec
+mutations sur un asset temporaire. Ces contrôles ne sont pas un assainisseur
+universel de contenu HTML ni une preuve du filtre distant de GitHub.
+
+Validation finale locale : **54 tests réussis**, plus `generer_fenetres.py --check`
+(138 fenêtres, 276 SVG) et `generer_lecture.py --check`. Aucun test n'écrit dans
+le manuscrit ou les dérivés réels ; aucune publication n'est effectuée.
+
+## Exécution et protections historiques
+
 Depuis la racine, avec l’interpréteur disposant des dépendances du générateur :
 
 ```sh

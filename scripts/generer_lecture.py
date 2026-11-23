@@ -43,6 +43,13 @@ def generer_html(source: str, css_href: str) -> str:
                         and enfants[index + 1].tag == "ol"):
                     root.remove(enfant)
                     root.remove(enfants[index + 1])
+                    if index + 2 < len(enfants):
+                        suite = enfants[index + 2]
+                        if (suite.tag == "p" and len(suite) == 1
+                                and suite[0].tag == "a"
+                                and suite[0].get("href") == "#epilogue"
+                                and "".join(suite.itertext()).strip().startswith("Épilogue")):
+                            root.remove(suite)
                     break
 
             for element in root.iter():
@@ -51,6 +58,11 @@ def generer_html(source: str, css_href: str) -> str:
                     chapitre = re.match(r"Chapitre\s+(\d+)\b", texte, re.IGNORECASE)
                     if chapitre:
                         identifiant = f"lecture-chapitre-{chapitre.group(1)}"
+                    elif re.match(r"Épilogue\b", texte, re.IGNORECASE):
+                        identifiant = "lecture-epilogue"
+                    else:
+                        identifiant = None
+                    if identifiant:
                         element.set("id", identifiant)
                         element.set("tabindex", "-1")
                         self.chapitres.append((identifiant, texte))

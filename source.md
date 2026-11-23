@@ -1,5 +1,14 @@
 # Sources et inspirations
 
+## Dernière transmission — livre I complet, DEC-110 à DEC-116
+
+**Source interne, pas inspiration externe :** `docs/new.txt`, 74 252 lignes à la réception ; nouvel apport après la ligne 51618, dossier principal 51619–74026 puis append Ténébria 74029–74252. Archives inchangées. Voir [`docs/integration_chapitres_13_16.md`](docs/integration_chapitres_13_16.md) pour bornes exactes, versions concurrentes et corrections autorisées. Toutes les dates et validations de réceptions antérieures ci-dessous restent historiques ; 1–16, 10–12 et 13 XI sont désormais lus et validés par l’auteur.
+
+- **Instructions explicites actuelles de l’auteur :** GO d’intégration, validation littéraire du livre I complet, exclusivité portails/5 000, barème final 100/100/100/250/400/800, Vent neutre, « ma princesse », limites de la grossesse et de l’enfant. Elles priment les variantes chiffrées de ChatGPT.
+- **Textes retenus :** 13 XI seul, 14, seconde rédaction du 15, 16 et épilogue ; les faits de ces chapitres validés ne sont pas présentés comme des réponses explicites à toutes les suggestions du questionnaire. Ainsi, deux Énergie finales sont attestées par le texte du 15, pas par une validation imaginaire de la proposition antérieure.
+- **Ténébria :** l’auteur expose la réouverture de la faille à la ligne 74029 puis répond « je valide . » à 74228 après le développement 74030–74226. Le noyau et le mécanisme temporel proposés avant cette validation sont retenus selon DEC-116 ; la reformulation 74229–74252 n’est pas une nouvelle parole d’auteur. Dialogues proposés, promesse du grimoire, détails d’enlèvement, prophétie et pouvoir impérial non documentés précisément ne deviennent pas des scènes ou chiffres acquis.
+- **Limites :** mémoire parfaite seulement à R11 ; chiffres de Siphon non adoptés ; aucune augmentation d’étoiles par amélioration ; pas de publication implicite ni de nouveau manuscrit. La catastrophe mondiale à 45 ans reste distincte de l’orange à 34 ans. Aucun résultat technique de génération ou de test n’est revendiqué par cette note documentaire.
+
 Les sources externes ci-dessous éclairent la conception du roman. Elles ne deviennent pas automatiquement des règles canoniques : les décisions explicites de l’auteur et les règles validées du projet restent prioritaires.
 
 ## Système runique — Summoners War

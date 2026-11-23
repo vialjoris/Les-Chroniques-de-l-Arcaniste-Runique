@@ -1,5 +1,7 @@
 # Chapitre 13 — Continuité et suivi éditorial
 
+**État courant — DEC-110 à DEC-116, 23 novembre 2026 :** 13 I–X validés conservés, XI mobile validée ajoutée ; livre I complet 1–16 lu et validé. Les mentions du 14 non autorisé et 10–12 en lecture ci-dessous sont **historiques**. Voir [`integration_chapitres_13_16.md`](integration_chapitres_13_16.md), notamment pour la notification mondiale ajoutée en XI et les paramètres précisés par la suite. Aucun nouveau chapitre du II autorisé.
+
 **Localisation des archives citées :** [`new.txt`](new.txt) et [`old.txt`](old.txt) sont désormais dans ce dossier `docs/`, après déplacement par l’auteur sans changement de contenu. Ce rangement n’est pas un nouvel apport et ne change ni la validation DEC-109 du 13 ni l’absence d’autorisation de rédaction du 14.
 
 ## Autorisation et statut

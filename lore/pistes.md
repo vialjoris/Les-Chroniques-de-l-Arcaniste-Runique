@@ -1,5 +1,9 @@
 # Pistes éditoriales — propositions et questions à retrouver
 
+**État courant — DEC-110 à DEC-116 :** livre I 1–16 validé, 13 XI compris. Les rappels anciens « futurs » ci-dessous sont historiques lorsqu’ils concernent les faits désormais racontés : apprentissages/mariage, décès d’Iseria, Siphon, seize cercles et survie de Yoon/Ray/Samia. Le réveil initial est en épilogue du I la veille de la Révélation, non seulement au II une semaine avant ; pas de déplacement général des retours. Voir `../docs/integration_chapitres_13_16.md`.
+
+**Pistes mobiles à conserver sans survalidation :** mort de Samia au village dans le II, carte évoluée disponible d’emblée au II, classe/affinité et transformation physique détaillée des vies futures ; chiffres de Siphon ; promesse du grimoire et dialogue de confrontation de Ténébria. Origine de la faille et mécanisme initial entre les deux premières vies validés par DEC-116, pas la scène proposée mot pour mot ni une règle de tous les retours.
+
 ## 1. Rôle de ce fichier
 
 Ce document conserve une synthèse des idées évoquées dans la conversation avec l’auteur et non encore adoptées, afin de ne pas les perdre. Ce n’est ni une transcription exhaustive des échanges, ni un second manuscrit, ni une nouvelle source de canon.
