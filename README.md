@@ -4,12 +4,15 @@
 
 **Auteur : Joris VIAL.**
 
-Projet de roman de fantasy LitRPG en **trilogie**. Les livres I et II comportent chacun seize chapitres ; le découpage détaillé du livre II et le nombre de chapitres du livre III restent à définir.
+Projet de roman de fantasy LitRPG en **trilogie**. Les livres I et II comportent chacun seize chapitres ; le plan détaillé du livre II est validé et actualisé jusqu’à DEC-139, avec deux drames encore ouverts. Le nombre de chapitres du livre III reste à définir.
 
 ## Documents de référence
 
-- [`roman.md`](roman.md) : manuscrit unique ; chaque chapitre conserve son statut de validation propre.
+- [`livre_1_l_ascension_d_une_legende_oubliee.md`](livre_1_l_ascension_d_une_legende_oubliee.md) : manuscrit unique du livre I, *L’Ascension d’une légende oubliée* ; chaque chapitre conserve son statut de validation propre.
+- [`livre_2_le_vertige_des_vies_oubliees.md`](livre_2_le_vertige_des_vies_oubliees.md) : manuscrit unique du livre II, *Le Vertige des vies oubliées* ; aucun chapitre n’est encore autorisé par la validation du titre.
 - [`PLAN_DIRECTEUR.md`](PLAN_DIRECTEUR.md) : plan narratif, jalons validés et questions ouvertes.
+- [`PLAN_LIVRE_II.md`](PLAN_LIVRE_II.md) : plan validé en seize chapitres pour les vies 2–12 ; scènes détaillées encore proposées et deux drames à définir avant les chapitres concernés.
+- [`docs/integration_livre_2.md`](docs/integration_livre_2.md) : audit de la nouvelle transmission mobile, décisions retenues et limites.
 - [`lore/decisions.md`](lore/decisions.md) : décisions de l’auteur et limites de leur validation.
 - [`lore/personnages.md`](lore/personnages.md) : fiches, compétences et historique des personnages.
 - [`lore/systeme.md`](lore/systeme.md) : règles LitRPG, Mana, cercles et compétences.
@@ -30,13 +33,15 @@ Les fiches au niveau 60 ne remplacent pas les états de fin de livre I. Un nombr
 
 ### Lire le manuscrit sur GitHub
 
-Ouvrir [`roman.md`](roman.md) en **aperçu GitHub** : c’est le point d’entrée principal. Les fenêtres en couleur utilisent des SVG locaux dérivés ; leur **version textuelle complète**, dépliable sous chaque fenêtre, reste dans ce même manuscrit (DEC-103). Aucune illustration narrative n’est ajoutée. GitHub filtre le CSS HTML : lier `style.css` ou ajouter des styles inline ne suffit pas à y reproduire la charte.
+Ouvrir [`livre_1_l_ascension_d_une_legende_oubliee.md`](livre_1_l_ascension_d_une_legende_oubliee.md) en **aperçu GitHub** : c’est le point d’entrée principal du livre I. Les fenêtres en couleur utilisent des SVG locaux dérivés ; leur **version textuelle complète**, dépliable sous chaque fenêtre, reste dans ce même manuscrit (DEC-103). Aucune illustration narrative n’est ajoutée. GitHub filtre le CSS HTML : lier `style.css` ou ajouter des styles inline ne suffit pas à y reproduire la charte.
 
-Pour modifier une fenêtre, éditer sa source HTML textuelle dans `roman.md`, jamais les SVG à la main, puis régénérer et contrôler les dérivés. Les SVG bureau/mobile de `assets/fenetres/` doivent accompagner le Markdown lors d’une publication autorisée. Voir le [guide GitHub](docs/fenetres_github.md) pour la maintenance et les limites.
+Pour modifier une fenêtre du livre I, éditer sa source HTML textuelle dans `livre_1_l_ascension_d_une_legende_oubliee.md`, jamais les SVG à la main, puis régénérer et contrôler les dérivés. Les SVG bureau/mobile de `assets/fenetres/` doivent accompagner le Markdown lors d’une publication autorisée. Voir le [guide GitHub](docs/fenetres_github.md) pour la maintenance et les limites.
 
 ### Export local facultatif
 
-Pour lire hors de GitHub ou préparer une impression, ouvrir [`lecture.html`](lecture.html) dans un navigateur, en conservant [`style.css`](style.css) à côté : la feuille n’est pas copiée dans le lecteur. Télécharger ces fichiers avant ouverture ; le lien vers le HTML dans le dépôt ne constitue pas un site de lecture. `roman.md` reste la source unique ; le lecteur est un dérivé à régénérer, jamais à modifier manuellement.
+Pour lire hors de GitHub ou préparer une impression, ouvrir [`lecture.html`](lecture.html) dans un navigateur, en conservant [`style.css`](style.css) à côté : la feuille n’est pas copiée dans le lecteur. Télécharger ces fichiers avant ouverture ; le lien vers le HTML dans le dépôt ne constitue pas un site de lecture. `livre_1_l_ascension_d_une_legende_oubliee.md` reste la source unique du livre I ; le lecteur est un dérivé à régénérer, jamais à modifier manuellement.
+
+Chaque livre possède son propre manuscrit Markdown nommé selon son titre validé, et non un manuscrit commun à la trilogie. Le titre du II est validé et sa source est `livre_2_le_vertige_des_vies_oubliees.md`. Ne pas créer de fichier de remplacement `roman.md` ni déduire de cette organisation ou de DEC-130 une autorisation de chapitre II. Les générateurs actuels ciblent le livre I.
 
 Depuis la racine, avec Python 3 et `venv` disponibles :
 
@@ -73,7 +78,7 @@ La fin du livre I est désormais documentée dans DEC-111 à DEC-116 : trois com
 
 Les encadrés éditoriaux de lore en début et fin de chapitre sont retirés (DEC-091), sans supprimer les vraies fenêtres du système. Une partie de lore consultable en fin de livre reste à définir. L’inspiration visuelle du design des personnages d’*Epic Seven* est déclarée dans [`source.md`](source.md).
 
-**Roman non illustré — DEC-101, précisé par DEC-103 :** l’ajout d’image au chapitre 1 est annulé ; les illustrations narratives sont destinées au manhwa. L’image du couple ci-dessus reste une présentation du projet, hors manuscrit. Les SVG dérivés des fenêtres du système sont une exception technique d’affichage, avec leur texte intégral conservé dans `roman.md`, pas des illustrations de scènes.
+**Roman non illustré — DEC-101, précisé par DEC-103 :** l’ajout d’image au chapitre 1 est annulé ; les illustrations narratives sont destinées au manhwa. L’image du couple ci-dessus reste une présentation du projet, hors manuscrit. Les SVG dérivés des fenêtres du système sont une exception technique d’affichage, avec leur texte intégral conservé dans `livre_1_l_ascension_d_une_legende_oubliee.md`, pas des illustrations de scènes.
 
 ## Droits d’auteur
 

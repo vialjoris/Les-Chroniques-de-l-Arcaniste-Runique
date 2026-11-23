@@ -391,7 +391,7 @@ def main(argv=None):
                         help="vérifie les enveloppes et SVG sans écrire ; code 1 si périmés, 2 si erreur")
     args = parser.parse_args(argv)
     try:
-        manuscrit = ROOT / "roman.md"
+        manuscrit = ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md"
         source = manuscrit.read_text(encoding="utf-8")
         resultat, images = produire(source)
         dossier = ROOT / "assets/fenetres"

@@ -41,11 +41,15 @@ Le groupe d’Hasol représente 50 points : jusqu’à 200 points de renforts en
 
 Samia obtient **Présage des failles** au 15, passif de prévision approximative ~10 h ; évolution au 16 : carte magique des portails détectés par couleur. Ni contrôle des apparitions ni couverture mondiale garantie. Au II : passif présent dès le début, version cartographique initiale **À DÉFINIR**. Hasol n’obtient aucune prédiction : mémoire parfaite seulement à partir de R11, utile sur le passé connu, pas sur les nouvelles apparitions. Premiers portails du II déjà présents au retour, premiers bleus synchronisés chronologiquement avec la première vie.
 
-**Origine validée, non révélée au I — DEC-116 :** invocation de Ténébria rouvrant accidentellement une faille scellée par un ancêtre Astrea ; sceau encore fragilisé après le retour temporel, résonance à sa Révélation dans la deuxième vie. Détails du sort et état des retours ultérieurs **À DÉFINIR** ; pas de cause unique déduite pour les sorties anormales de donjons ou la catastrophe mondiale.
+**Origine validée, calendrier de révélation DEC-131 :** la bible conserve l’invocation de Ténébria rouvrant accidentellement une faille scellée par un ancêtre Astrea, puis le sceau fragilisé et la résonance de deuxième vie. Au chapitre 1 du II, il est interdit de dire, suggérer ou préfigurer cette responsabilité historique : Ténébria y est seulement innocente dans la situation actuelle et injustement accusée. Révélation plus tardive après compréhension de sa souffrance. Détails du sort et état des retours ultérieurs **À DÉFINIR**.
 
 ### Retour initial — DEC-115
 
 La section XV du 16 montre la Rune temporelle retrouvée près du lieu de chute du démon, confiée à Hasol pour expertise ; Œil n’identifie ni grade ni étoiles. Pendant le deuil, « Instabilité émotionnelle détectée », activation involontaire, cadran/sablier, 12 DONG + 1 DING. Suit le réveil en épilogue du I, **la veille de la Révélation**, avec le cauchemar de ces sons. Cela remplace le réveil seulement au début du II une semaine avant, sans déplacer tous les autres retours. Origine profonde, grade/étoiles et formule du déclencheur **À DÉFINIR**. Le savoir d’Iseria et le sens profond d’Astrae restent cachés aux personnages concernés.
+
+### Porte-bouclier d’Elric — CANON, DEC-140
+
+Classe **Commune**, cinq points, rôle de tank très orienté soutien. Elric Arowell a **42 ans et est niveau 45** lors de sa rencontre avec Hasol ; il utilise une épée avec un bouclier. Répertoire établi qualitativement : une attaque offensive de **Terre**, au moins une capacité de provocation et une capacité d’étourdissement. Noms, niveaux de déblocage, coûts, portées, durées, recharges, chances ou résistances restent **À DÉFINIR** ; provocation et étourdissement ne garantissent pas un contrôle absolu. Hasol applique Aura runique à son épée pendant le mentorat ; élément, scène et ressource sacrifiée restent à préparer. Le niveau 45 d’Elric satisfait le seuil de niveau 10 pour utiliser une arme imprégnée.
 
 ## Notices de réception antérieures — historiques
 
@@ -481,13 +485,15 @@ Progression propre à Zio, validée par l'auteur ; ce n'est pas un calendrier un
 - **Paramètres À DÉFINIR :** coûts, durées, récupérations, puissances, portées, nombres de cibles, cumuls, modalités de lancement et interactions, sans ajouter de formule ou d'immunité implicite. Rempart de lumière exige le maintien de position et d'effet, sans coût de maintien chiffré déduit.
 - **Continuité :** au niveau 45 prévu au chapitre 5, Zio dispose des capacités jusqu'au niveau 40, mais pas de Dernier Rempart ni de Volonté inébranlable. À l'Académie, son niveau reste inconnu : ne pas lui attribuer rétroactivement une capacité de niveau supérieur. Dates de découverte de l'ultime et du passif de niveau 60 à fixer.
 
-**Jalons de cercles d'Hasol — CANON, DEC-057 :** 32 cercles et emplacements à la fin du livre II, 36 à la fin du livre III. Niveaux correspondants, acquisition, compteurs et équipement restent **À DÉFINIR** ; ces totaux ne définissent pas une progression par niveau ni un report automatique depuis la première vie. Les seize cercles de fin du livre I (DEC-056) sont préservés. Les chiffres des équipements simulés ne deviennent pas des règles de calcul.
+**Jalons de cercles d'Hasol — DEC-057 actualisée par DEC-136 :** le total de **32 cercles/emplacements à la fin du livre II est retiré du canon**. Niveau, acquisition, compteurs, nombre de cercles et équipement restent **À DÉFINIR** ; ne pas en déduire 32 runes. Les seize cercles de fin du I (DEC-056) et les 36 cercles/emplacements de fin du III sont préservés. Le report des cercles reste non validé, distinct de la remise à zéro des compteurs de Croissance et de la conservation de Mémoire runique.
 
-Avec la dernière activation en fin de livre II, le jalon de **32 cercles se situe avant ce dernier retour** ; il ne valide pas 32 cercles au réveil de la vie 13. Le report des cercles reste non validé, distinct de la remise à zéro des compteurs de Croissance et de la conservation de Mémoire runique.
+**Direction de progression au II — CANON, DEC-136 :** Hasol termine le tome nettement plus puissante que dans la première vie. Cette direction repose sur trois facteurs établis : portails présents tôt et urgence permanente de chasse, progression artisanale accélérée, Armin maintenu vivant dans les vies ultérieures pour gérer les affaires Shun et réduire sa charge administrative. Elle ne fixe aucune formule, courbe, quantité d’éliminations, réussite automatique d’amélioration, niveau, total de cercles ou équipement.
 
-## 17. Mage de feu de Ray — CANON, DEC-069
+## 17. Ray : mage de feu au I, Stratège runique rare en vie 4
 
 Ray reste de classe commune. Son répertoire repose sur des techniques directes, rendues efficaces par la maîtrise, les choix tactiques et les runes, sans pouvoirs exceptionnels supplémentaires déduits de ses cercles. Progression individuelle, pas calendrier universel des classes.
+
+**Actualisation ciblée — DEC-133 :** cette classe commune et le répertoire ci-dessous concernent le livre I et les vies où ils sont attestés. En vie 4, Ray devient **Stratège runique rare**, dix points. Son répertoire, ses caractéristiques, ses cercles et son équipement restent **À DÉFINIR** ; ne pas copier automatiquement ses sorts de feu ni modifier rétroactivement le I.
 
 | Niveau | Type | Compétence | Effet et limites validés |
 |---|---|---|---|
@@ -535,9 +541,9 @@ Cette liste explicite remplace la simplification « anciens passifs seulement »
 - **Activation n (1 à 12) :** **12 DONG puis n DING**. La première quitte la vie 1 pour R1 ; à la fin de Rk, l'activation k+1 mène à la vie suivante. Les drames peuvent se répéter : ne pas imposer onze tragédies entièrement différentes.
 - **Signature visuelle :** une horloge runique avec sablier accompagne les sons ; le mécanisme progresse à chaque DONG et à chaque DING. Les détails supplémentaires proposés par ChatGPT ne sont pas des lois physiques du système.
 - Les drames provoquent la notification d'instabilité émotionnelle de l'hôte puis l'activation temporelle. **Clarification CANON de l'auteur — DEC-079 :** face à sa propre mort imminente, notamment contre le démon en R5, la détresse d'Hasol déclenche la rune **avant le coup fatal**. Raconter ce dernier instant sans instaurer une mort effective suivie d'un déclenchement post mortem : le déclencheur reste l'instabilité émotionnelle, pas la mort.
-- Hasol seule conserve des souvenirs, **imparfaits avant R11**, revenant notamment en flashs et cauchemars. Ceux-ci sont des souvenirs vécus, pas une vision infaillible du futur. En **R11**, dans une bibliothèque, la condition « l'hôte a lu **plus de 100 000 livres** » débloque **Mémoire runique**, passif de mémoire parfaite. Le caractère cumulatif du seuil entre vies reste **À DÉFINIR**.
+- **Mémoire — DEC-132 :** en vie 2, Hasol ne se rappelle aucun drame de la première vie. À partir de la vie 3, chaque réincarnation apporte des fragments cumulatifs, incomplets et désordonnés des drames terminaux vécus depuis la vie 2 jusqu’à la vie précédente. Ils ne donnent ni chronologie exhaustive ni prédiction. La première vie reste entièrement inaccessible jusqu’en **R11** : dans une bibliothèque, la condition « l'hôte a lu **plus de 100 000 livres** » débloque **Mémoire runique**, qui restitue alors toutes les vies, première incluse. Le caractère cumulatif du seuil entre vies reste **À DÉFINIR**.
 - Le retour précis du souvenir de Zio et de son sacrifice submerge Hasol : dernière activation **12 DONG + 12 DING**, puis rune fissurée et réduite en poussière. Fin du livre II. Le livre III présente sa dernière vie, mémoire parfaite conservée et **aucun nouveau retour**. Mémoire parfaite ne signifie ni omniscience ni connaissance des conséquences inédites de ses changements.
-- Âges, niveaux, cercles, inventaires, monnaie et autres reports ne se déduisent pas de ce mécanisme. Les jalons de 32 et 36 cercles aux fins des livres II et III restent distincts des compteurs remis à zéro.
+- Âges, niveaux, cercles, inventaires, monnaie et autres reports ne se déduisent pas de ce mécanisme. Le total de fin du II reste **À DÉFINIR** ; seul le jalon de 36 cercles en fin du III subsiste, distinct des compteurs remis à zéro.
 
 ## 21. Questions à définir
 

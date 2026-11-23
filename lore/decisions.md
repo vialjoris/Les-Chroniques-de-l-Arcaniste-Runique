@@ -627,6 +627,7 @@
 ## DEC-057 — Cercles d'Hasol aux fins des livres II et III
 
 - **Statut : CANON.**
+- **Actualisation ciblée — DEC-136 :** la partie fixant **32 cercles/emplacements à la fin du livre II est retirée du canon**. Les lignes ci-dessous conservent la décision historique et sa provenance ; elles ne doivent plus fixer le total du II. Le jalon distinct de **36 cercles/emplacements à la fin du livre III** demeure canonique.
 - **Raccord avec DEC-079 :** les **32 cercles de fin du livre II sont le jalon avant le dernier retour temporel**, pas un nombre validé au réveil de la vie 13. Le report des cercles reste non validé ; ne pas le confondre avec les compteurs de Croissance remis à zéro ou avec Mémoire conservée.
 - **Source :** l'auteur demande « 32 rune fin livre II et livre III fin du livre 36 stocke cette informations », puis autorise l'enregistrement par « go » après reformulation en cercles et emplacements disponibles.
 - **Décision :** Hasol dispose de **32 cercles runiques, soit 32 emplacements, à la fin du livre II**, et de **36 cercles runiques, soit 36 emplacements, à la fin du livre III**. Le jalon de seize cercles à la fin du livre I (DEC-056) est préservé.
@@ -858,6 +859,7 @@
 - **Visuel :** horloge runique avec sablier ; progression à chaque DONG et à chaque DING. Les variantes d'aiguilles, verrouillage ou décoration proposées dans les réponses ne doivent pas devenir des contraintes supplémentaires non choisies.
 - **Déclencheur narratif :** instabilité émotionnelle de l'hôte après les drames, notification puis activation. **Clarification directe ultérieure de l'auteur, 21 novembre 2026 :** face à sa propre fin, la détresse d'Hasol déclenche la rune **avant le coup fatal**, notamment en R5. Le récit s'attache au dernier instant ; il ne faut pas raconter une mort effective puis un retour déclenché après celle-ci. **Aucun nouveau déclencheur post mortem** : l'instabilité émotionnelle reste le mécanisme. Cette précision remplace les anciennes mentions abrégées de sa « mort » face au démon.
 - **Mémoire :** Hasol seule conserve des souvenirs, imparfaits jusqu'en R11 ; flashs et cauchemars sont des fragments vécus, non des prédictions infaillibles. En **R11**, à la bibliothèque, le seuil « l'hôte a lu **plus de 100 000 livres** » débloque **Mémoire runique**, mémoire parfaite. Le souvenir intégral de Zio et du sacrifice de sa première vie provoque le dernier choc et retour. **Cumul des livres entre les vies À DÉFINIR.**
+- **Actualisation ciblée — DEC-132 :** cette formulation générale est historique. En vie 2, Hasol n’a aucun souvenir des drames de la première vie. À partir de la vie 3, les fragments sont cumulatifs, incomplets et désordonnés, limités aux drames terminaux vécus depuis la vie 2 jusqu’à la vie précédente. La première vie ne redevient accessible qu’avec Mémoire runique en R11, qui restitue alors toutes les vies.
 - **Vie 13 :** Mémoire conservée, souvenirs parfaits des douze vies, rune détruite, aucune nouvelle réinitialisation. Mémoire parfaite n'est pas omniscience : elle ne connaît pas les conséquences inédites des changements qu'elle provoque.
 - **Limites :** ne pas imposer onze drames tous différents ; les répétitions sont expressément voulues. Reports d'objets, niveaux, cercles et autres ressources non déduits. Le zéro des compteurs de Croissance vient de DEC-078 ; les jalons de cercles de DEC-057 ne fixent pas les états à chaque réveil.
 - **Fichiers concernés :** `lore/systeme.md`, `lore/personnages.md`, `lore/chronologie.md`, `PLAN_DIRECTEUR.md`, `AGENTS.md`, `source.md` ; présent registre.
@@ -1281,11 +1283,207 @@
 - **Dossier familial validé dans ses grandes lignes, non encore raconté au livre I :** Ténébria est la sœur d’Hasol ; le clan Astrea l’a soustraite à ses parents pour en faire une sauveuse et l’utilise contre les démons. Sa souffrance doit être comprise avant la révélation progressive de sa responsabilité au II. L’ampleur des connaissances d’Iseria, la prophétie, les détails du clan, de l’enlèvement et du pouvoir impérial restent **À DÉFINIR** ; ne pas en tirer une hérédité automatique des classes.
 - **PROPOSITIONS / limites :** promesse d’un souhait dans le grimoire, question « Pourquoi personne ne m’aime ? », scène de confrontation avec Hasol et répliques exactes sont des suggestions, pas des scènes validées mot pour mot. Un oncle devenu empereur est évoqué par ChatGPT sans identité, calendrier ou causalité documentée : **À DÉFINIR**, pas une fiche créée. Ne pas importer ces révélations dans les pensées des personnages du I. Aucun nom, sort, statistique ou serviteur supplémentaire inventé.
 - **Questions :** dates absolues, chronologie ultérieure des couleurs hors bleus, état de la faille lors des retours suivants, topologie des mondes et rapport aux sorties anormales de donjons ouverts. Le fait que les bleus restent synchronisés entre vies demeure valable ; aucune loi d’accélération uniforme des couleurs déduite.
+- **Actualisation de révélation — DEC-131 :** le noyau de bible ci-dessus reste canonique, mais il est interdit de le dire, le suggérer ou le préfigurer au chapitre 1 du II. Ténébria y est seulement innocente dans la situation actuelle et injustement accusée. La révélation historique est réservée à plus tard, après compréhension de sa souffrance.
+
+## DEC-117 — Organisation des manuscrits et préparation du livre II
+
+- **Statut : CANON pour l’organisation demandée ; plan du II en préparation, non validé automatiquement.** Demandes directes de l’auteur dans la session du 23 novembre 2026 : mise à jour de `new.txt`, demande d’un plan du livre II, renommage de `roman.md` avec le titre du livre I et travail sur une branche `livre2` ; précision : « le livre 2 sera écrit dans un fichier md du nom du livre 2 ».
+- **Organisation :** un manuscrit Markdown distinct par livre, nommé selon son titre. Le livre I, *L’Ascension d’une légende oubliée*, devient `livre_1_l_ascension_d_une_legende_oubliee.md`, sans modification de son contenu. Les mentions historiques de `roman.md` renvoient à ce fichier renommé ; ne pas recréer de copie concurrente.
+- **Livre II :** son plan est conservé séparément dans `PLAN_LIVRE_II.md`. Son futur manuscrit portera son titre ; aucun titre non validé ne doit être imposé par le choix du nom de fichier. Le plan doit distinguer décisions explicites, propositions de structure et paramètres ouverts.
+- **Périmètre :** travail local sur `livre2`, lecture de la transmission, préparation du plan et raccords nécessaires des outils et références. Aucun chapitre du II, aucune réécriture du livre I, aucun commit/push ni déploiement autorisé par cette demande. `docs/new.txt` reste intact comme provenance.
+- **Remplace :** l’obligation d’un fichier `roman.md` unique pour l’ensemble du projet ; l’unicité de la source narrative reste exigée pour chaque livre.
+
+## DEC-118 — Innocence de Ténébria dans la deuxième vie
+
+- **Statut : CANON.** Auteur, `docs/new.txt:74254` : les accusations sont injustes « car dans cette vie tenebria n'a rien fait ».
+- Elle n’a pas provoqué les portails par une nouvelle invocation. Complète DEC-116 sans effacer sa réouverture accidentelle de première vie ni convertir la résonance involontaire actuelle en faute personnelle. Pas de règle universelle sur tous les retours déduite.
+- Provenance détaillée et limites : `docs/integration_livre_2.md`. Cette référence vaut aussi pour DEC-119–128, consignées le 23 novembre 2026, sans dater artificiellement les échanges mobiles.
+
+## DEC-119 — Premier drame du II : Ray et le loup alpha
+
+- **Statut : CANON pour le premier drame et le contexte ; réception contextuelle pour le sauvetage suivant.** Auteur 74321–74323 : onze drames incluant Ténébria/Astrea ; mort de Ray dans les bois contre le loup alpha ; Hasol astrale populaire dans un groupe solide ; Zio la trouve hors de portée et n’a pas le même coup de cœur.
+- **Remplace le poison de R1 et l’ancien double échec de DEC-080.** L’auteur valide ensuite le drame de Samia (75306) présenté après Ray sauvé en vie 3 (75272–75274) : retenir cet enchaînement vie 2 Ray mort / vie 3 Ray sauvé puis Samia, sans valider les scènes détaillées de ChatGPT.
+- Meilleur ami et Ray hors équipe de vie 2 conservés ; modalités du sauvetage, âges, niveaux et annonce **À DÉFINIR**. Lunettes récupérées et souvenir conscient précis du sauvetage du I non validés. Classe Stratège runique rare dès vie 4 : **PROPOSITION**, la phrase auteur 75048 étant une question, non une adoption des précisions de la réponse.
+- **Actualisation — DEC-133 :** le statut de proposition de la classe de Ray est historique ; l’arbitrage direct ultérieur la rend canonique en vie 4.
+- La mémoire imparfaite demeure ; l’amour de Zio n’est pas dû à Hasol. Aucun chapitre du I révisé.
+
+## DEC-120 — Yoon légendaire et présentation à Hasol
+
+- **Statut : CANON.** Auteur 74728 : Yoon présentée après la Révélation de sa classe légendaire pour sa complémentarité avec Hasol astrale.
+- Concerne le II, sans modifier Yoon rare au I. L’écart d’âge demeure : environ treize ans au retour initial d’Hasol, Révélation trois ans plus tard environ. Ni rencontre de chasse immédiate à treize ans, ni nouveaux sorts automatiquement importés.
+- **Conséquence :** l’ancien quatuor astral à 50 points n’est plus une composition courante valide : 25+20+10+5 = 60 ; 65 si Ray devient rare. Hasol/Yoon/Ray commun = 50, mais avec Ray rare = 55. Plafonds et minimum de trois membres non modifiés ; compositions réelles **À DÉFINIR**.
+- Doctrine militaire et vétéran obligatoire aux donjons (74623–74727) : **PROPOSITIONS de ChatGPT**, non règles adoptées par cette déclaration.
+
+## DEC-121 — Parcours d’élite de Zio et mauvaise entente avec Ténébria
+
+- **Statut : CANON pour les précisions auteur.** 74830/74832, doublon de la même intervention : une année commune d’Académie et certaines opérations de portails partagées au II. 74931 : groupe d’élite rare avec la sauveuse théorique, avance de niveau ; très mauvaise entente réciproque, motif de son départ vers le groupe de sa sœur au I.
+- Remplace la relation amicale/confiance particulière proposée par ChatGPT dans la réponse précédente. Causes tactiques ou éthiques, dialogues de démission, calendrier et composition exacte **À DÉFINIR** ; aucune romance avec Ténébria déduite.
+- Complète les causes du départ laissées ouvertes par DEC-035/067, **sans autoriser de réécriture ou ajout au I validé**.
+
+## DEC-122 — Samia transformée dès la vie 2 et spécialiste des portails
+
+- **Statut : CANON pour le changement initial, la rareté et le statut stratégique.** Auteur 75132 : changement de classe et d’apparence direct ; 75178 : commune traitée aussi bien qu’une Astrale ; correction 75206 : découverte des **portails**, pas des donjons.
+- Passif dès le début déjà fixé par DEC-114. **À DÉFINIR :** nom exact de classe, apparence détaillée, affinité, carte complète dès le départ et paramètres. *Marcheuse astrale*, blanc argenté, Ténèbres et tempérament lunaire détaillé restent proposés par ChatGPT, pas confirmés par la seule phrase auteur.
+- Ne pas adopter de gains statistiques légendaires, mémoire de vies antérieures, exhaustivité de détection ou utilité limitée au seul repérage. Samia garde une vie propre hors de l’équipe principale.
+
+## DEC-123 — Drames validés de Samia et Ténébria au II
+
+- **Statut : CANON pour les drames approuvés ; placements détaillés À DÉFINIR.** Auteur 75306 : « Drame samia -> je valide on avait deja fait cette pistes ensemble . » Piste 75270–75274 : après Ray sauvé en vie 3, Samia meurt en protégeant les siens face à un portail bleu sans renforts suffisants. Actualise le statut de proposition de DEC-114.
+- Raccord avec l’avertissement d’Hasol dans la piste antérieure 62198 à préparer ; pas de cauchemar omniscient de faits jamais vécus. Famille intégralement morte, niveaux personnels et déroulement non fixés.
+- Auteur 75307 : validation de Ténébria, déclenchement temporel à la **lecture de sa mort**, alors qu’Hasol la connaît peu ; surprise du lecteur et ouverture de la découverte de sa sœur.
+- Vie 9, rapport impérial, cause du décès, vie suivante d’enquête, preuves et révélation au chapitre 14 : **PROPOSITIONS de placement/mise en scène**. Aucun mécanisme de rune automatiquement sensible à la parenté établi.
+- **Actualisation — DEC-135 :** le placement en vie 9 est historique. La mort de Ténébria passe en vie 8, chapitre 11 ; le rapport impérial et la cause restent des propositions.
+
+## DEC-124 — Armin sauvé par les vacances et indice d’Iseria
+
+- **Statut : CANON pour la solution et la révélation limitée ; CONTRADICTION de nom à arbitrer.** Auteur 75430 : dans la vie où Armin est sauvé, Iseria révèle que le « griffon ardent » est lié à sa famille ; Hasol écoute son père sans en apprendre davantage. Auteur 75557 : annuler le voyage commercial et partir tous les trois en vacances pour apaiser l’ambiance familiale.
+- Compatible avec R5/vie 6 de DEC-080. Pas d’escorte améliorée comme solution, pas de catastrophe sur la route abandonnée affirmée sans validation, destination/durée **À DÉFINIR**.
+- **Griffon Ardent / Griffon d’Argent : CONTRADICTION** avec le nom du I/DEC-080. Ni renommage rétroactif ni seconde guilde inventée. Mémoire effacée d’Armin et généalogie impériale détaillée ne sont pas validées par l’intervention d’Iseria.
+
+## DEC-125 — Progression accélérée et instinct artisanal d’Hasol au II
+
+- **Statut : CANON pour la direction explicite.** Auteur 75704 : davantage de cercles grâce aux portails ; compréhension et pratique artisanales beaucoup plus rapides, comme des milliers d’heures d’expérience ; Orven stupéfait dès les premiers essais.
+- **Qualification historique :** cette direction avait été dite compatible avec les **32 cercles en R11** de DEC-057. DEC-136 retire désormais ce total sans annuler l’accélération ; niveau, cercles et équipement de fin du II restent ouverts. DEC-132 précise séparément la mémoire. Coûts, fatigue, échecs, apprentissages et ressources demeurent.
+- La scène de fabrication/inscription de rune de ChatGPT et le nom « Orven Vals » ne sont pas adoptés. Les paramètres de Croissance astrale et de ses évolutions restent à détailler.
+
+## DEC-126 — Croissance Astrea astrale et compteurs personnels de Ténébria
+
+- **Statut : CANON pour le déclencheur, l’effet familial et la condition de groupe ; modalités À DÉFINIR.** Auteur 75898 : Croissance évolue dès reconnaissance de Ténébria comme sœur ; un membre Astrea astral dans le groupe profite aussi du passif ; groupe des sœurs pour le donjon infini au III. Auteur 75978 : Ténébria a ses propres compteurs, qui augmentent seulement si Hasol est dans son groupe.
+- **À DÉFINIR :** graphie du libellé Astrea/Astrae, seuils transmis, emplacements, éliminations créditées, état des compteurs hors groupe et reports entre vies. Suspension sans remise à zéro et exclusivité des éliminations personnelles pour le bénéficiaire sont des formalismes de ChatGPT, non une décision auteur supplémentaire.
+- **CONTRADICTION d’accès à arbitrer au III :** deux Astrales totalisent 50 points mais le minimum de trois membres de DEC-035/111 demeure. L’auteur parle d’un groupe, ne valide pas l’entrée en duo proposée ensuite par ChatGPT. Aucune exception ou troisième membre gratuit inventé.
+- Ne confirme pas l’hypothèse générale DEC-066 pour tous les compagnons et ne transfère pas les compteurs d’Hasol à Ténébria.
+
+## DEC-127 — Actif de vol de vie de Ténébria
+
+- **Statut : CANON pour l’actif et le changement d’usage.** Auteur 76036 : vol de vie monocible sur elle-même ou un allié ; jusque-là utilisé sur elle seule, ce comportement change avec Hasol.
+- Nom officiel, niveau, durée, coût, recharge, efficacité et déclencheurs **À DÉFINIR**. Première utilisation sur Hasol au chapitre 14 et circonstances de combat : **PROPOSITIONS**, pas texte validé.
+
+## DEC-128 — Portails rouges réservés au livre III
+
+- **Statut : CANON.** Auteur 76623 : rouges au III, pas au II. Barème rouge conservé (DEC-111), aucune apparition au II, même lorsqu’une vie atteint 45 ans.
+- Ne démontre pas l’origine de la mort des Notos, un calendrier universel des couleurs ou une cause unique de la catastrophe mondiale.
+- **Limite générale de cet apport :** le plan ChatGPT 76040–76621 n’a pas de validation globale auteur. Les quatre drames vie 4/Orven, vie 7/défaite et pertes civiles, vie 8/liberté d’Iseria, vie 10/séparation des sœurs restent des **PROPOSITIONS**. Titres, placements et détails de Carmela/oncle empereur/effacement de mémoire restent ouverts. Réveil final au III, pas en clôture du II.
+- **Actualisation ultérieure :** cette liste de quatre drames décrit l’état de réception de l’apport. DEC-134 résout Orven ; DEC-135 déplace le drame d’Iseria en vie 9/ch.12 ; DEC-137 le résout. Deux drames restent ouverts aux chapitres 10 et 14.
+
+## DEC-129 — Titre et fichier du livre II
+
+- **Statut : CANON — validation explicite de l’auteur dans la session du 23 novembre 2026.** Source : « Le Vertige des vies oubliées validé ».
+- **Titre :** le livre II s’intitule *Le Vertige des vies oubliées*.
+- **Manuscrit :** conformément à DEC-117, sa source unique est `livre_2_le_vertige_des_vies_oubliees.md`, distincte du plan `PLAN_LIVRE_II.md` et du manuscrit du livre I.
+- **Limites :** cette validation remplace uniquement le statut « titre à définir » et les anciennes propositions de titre. Elle ne valide ni les titres des seize chapitres, ni leur découpage proposé, ni les quatre drames encore ouverts, et n’autorise la rédaction d’aucun chapitre, commit ou push.
+- **Historique :** DEC-130 a ensuite validé la structure ; DEC-134/135 ont résolu Orven et actualisé les placements. Cette ligne conserve la portée initiale de DEC-129.
+- **Fichiers concernés :** `AGENTS.md`, `README.md`, `PLAN_DIRECTEUR.md`, `PLAN_LIVRE_II.md`, `lore/chronologie.md`, présent registre et création du manuscrit titré.
+
+## DEC-130 — Validation de la structure en seize chapitres du livre II
+
+- **Statut : CANON pour la structure — validation explicite de l’auteur dans la session du 23 novembre 2026.** Après clarification de la portée du « go », l’auteur choisit « Valider le plan » avec la limite proposée : valider le découpage actuel, ses seize titres et ses placements, en laissant explicitement ouverts les quatre drames signalés.
+- **Décision :** les seize titres de `PLAN_LIVRE_II.md`, leur ordre, la répartition des vies absolues 2–12/R1–R11 et les jalons déjà canoniques sont validés. La vie 13 reste réservée au livre III.
+- **Restent À DÉFINIR :** drame d’Orven au chapitre 6 ; issue et éventuelles pertes civiles au chapitre 10 ; devenir et éventuelle privation de liberté d’Iseria au chapitre 11 ; issue et éventuelle séparation des sœurs au chapitre 14. Les propositions actuelles ne deviennent pas canon par cette validation de structure.
+- **Actualisation — DEC-134/135/137 :** la liste ci-dessus est l’état historique de DEC-130. Orven et Iseria sont résolus. Les deux drames ouverts sont ceux des chapitres 10 et 14.
+- **Limites :** les scènes détaillées, dialogues, paramètres LitRPG, niveaux, équipements, compositions d’équipe et modalités des transitions restent à préparer ou arbitrer selon leur statut propre. Aucun chapitre n’est autorisé à la rédaction ; aucun commit/push n’est autorisé.
+- **Fichiers concernés :** `AGENTS.md`, `README.md`, `PLAN_DIRECTEUR.md`, `PLAN_LIVRE_II.md`, `lore/chronologie.md` et présent registre. Le manuscrit du II reste limité à son titre.
+
+## DEC-131 — Réserver l’histoire de la faille après la souffrance de Ténébria
+
+- **Statut : CANON — arbitrage direct de l’auteur.** Au chapitre 1 du livre II, Ténébria est décrite uniquement dans sa situation actuelle : innocente de l’apparition des portails et accusée injustement.
+- **Décision :** ne jamais dire, suggérer ni préfigurer dans ce chapitre qu’elle a rouvert la faille dans la première vie. La révélation historique de DEC-116 doit intervenir plus tard, après que sa souffrance a été comprise.
+- **Portée :** DEC-116 reste vraie dans la bible ; seul son calendrier de révélation est resserré. Aucun dialogue, indice symbolique ou pensée d’Hasol ne doit contourner cette réserve.
+
+## DEC-132 — Mémoire cumulative à partir de la vie 3
+
+- **Statut : CANON — arbitrage direct de l’auteur ; remplace les formulations générales antérieures sur la mémoire imparfaite.**
+- **Vie 2 :** Hasol ne se rappelle aucun drame de la première vie.
+- **À partir de la vie 3 :** après chaque réincarnation, elle reçoit des fragments cumulatifs, incomplets et désordonnés des drames terminaux vécus depuis la vie 2 jusqu’à la vie précédente. Elle ne reçoit pas les faits ordinaires exhaustifs, une chronologie fiable ou des événements jamais vécus.
+- **R11 :** la première vie reste entièrement inaccessible jusque-là. Mémoire runique restitue alors toutes les vies, première incluse ; mémoire parfaite ne vaut toujours pas omniscience.
+
+## DEC-133 — Ray Stratège runique rare en vie 4
+
+- **Statut : CANON — arbitrage direct de l’auteur.** Ray devient **Stratège runique, Rare**, en vie 4.
+- **Conséquences :** cette version vaut dix points. Avec Hasol astrale 25 et Yoon légendaire 20, le trio totaliserait 55 points et ne constitue donc pas une formation de donjon admissible sous le plafond actuel de 50. Les formations réelles restent **À DÉFINIR** ; aucun relèvement du plafond ou retrait automatique d’un personnage n’est déduit.
+- **Limites :** ce changement ne modifie ni le mage de feu commun du livre I ni les versions antérieures de Ray. Répertoire, statistiques, cercles, apparence de classe et cause du changement restent **À DÉFINIR**.
+
+## DEC-134 — Mort indirecte d’Orven au chapitre 6
+
+- **Statut : CANON — arbitrage direct de l’auteur.** Le drame d’Orven est fixé au chapitre 6, vie 4.
+- **Causalité :** Hasol termine sa formation beaucoup plus vite ; Iseria rend donc moins souvent visite à Orven. Dans la première vie, Iseria avait repéré une toux inquiétante, donné des tisanes adaptées et son alerte avait permis une prise en charge. Dans la vie 4, la toux n’est pas repérée, la maladie progresse et Orven meurt.
+- **Limites :** causalité indirecte, sans faute morale d’Hasol ou d’Iseria. Les tisanes ne sont pas un remède miraculeux : l’élément déterminant de la première vie était l’alerte et la prise en charge. Maladie, calendrier, soins, annonce et scène restent **À DÉFINIR**.
+- **Conséquence de plan à cette étape :** Orven n’est plus un drame ouvert. DEC-137 résout ensuite Iseria ; deux drames restent actuellement à définir.
+
+## DEC-135 — Inversion des vies 8 et 9 aux chapitres 11 et 12
+
+- **Statut : CANON — choix explicite de l’auteur ; remplace DEC-130 sur ce seul ordre.**
+- **Chapitre 11 :** « La mort d’une inconnue », vie 8. Hasol apprend la mort de Ténébria alors qu’elle la connaît peu. Support, cause et modalités restent **À DÉFINIR**.
+- **Chapitre 12 :** « Le prix de la victoire », vie 9. Hasol cherche Ténébria plus tôt ; Ténébria l’aide à sauver un village ; la victoire contre le démon est maintenue dans cette vie. **Actualisation DEC-137 :** village de Samia sauvé, puis Iseria exécutée ; le drame n’est plus ouvert.
+- **Limites :** village exact, menace, déroulement de l’aide et modalités de la victoire non fixés. L’ancienne proposition de perte de liberté d’Iseria n’est pas validée automatiquement. Les chapitres 13–16 et autres placements restent inchangés sauf raccords de numérotation nécessaires.
+- **Drames ouverts :** chapitre 10, issue et éventuelles pertes ; chapitre 12, drame d’Iseria ; chapitre 14, séparation éventuelle des sœurs.
+
+## DEC-136 — Progression de fin du II sans total de 32 cercles
+
+- **Statut : CANON — arbitrage direct de l’auteur ; remplace la partie de DEC-057 relative à la fin du livre II.**
+- **Retrait :** le jalon de **32 cercles et 32 emplacements à la fin du II** n’est plus canonique. Ne pas en déduire 32 runes, une courbe ou un inventaire.
+- **Direction :** Hasol termine le II nettement plus puissante que dans la première vie grâce aux portails présents tôt et à l’urgence permanente de chasse, à sa progression artisanale accélérée et à Armin maintenu vivant dans les vies ultérieures pour gérer les affaires Shun, ce qui réduit sa charge administrative.
+- **À DÉFINIR :** niveau, total de cercles, compteurs, équipement, inventaire et mesure exacte de l’écart de puissance.
+- **Préservé :** seize cercles en fin du I et **36 cercles/emplacements en fin du III**. Le retrait ciblé ne modifie pas automatiquement le jalon du III ni les règles de report.
+
+## DEC-137 — Pacte Astrea et exécution d’Iseria en vie 9
+
+- **Statut : CANON — arbitrages directs de l’auteur dans la session du 23 novembre 2026.**
+- **Pacte :** après l’enlèvement de Ténébria, un pacte imposé concerne Iseria, Armin et leur future famille : le clan doit les laisser vivre à l’écart ; Iseria doit garder le silence sur Ténébria et rompre tout contact avec elle et les Astrea. Hasol n’est pas connue du clan comme fille d’Iseria. Publiquement, elle est une Shun ; ce nom très répandu ne permet pas de la relier à Iseria.
+- **Prophétie et surveillance :** la prophétie ne mentionne qu’un enfant d’Iseria comme sauveur du monde. Après avoir obtenu Ténébria, le clan croit cet enfant identifié. Quand Hasol révèle à son tour une classe astrale, les Astrea la surveillent comme une Astrale extérieure potentiellement manipulable, toujours sans connaître sa filiation.
+- **Vie 9, chapitre 12 :** avertie par les fragments de la mort de Ténébria en vie 8, Hasol la cherche plus tôt. Elles sauvent le village de Samia et Hasol vainc le démon. Leur rapprochement déclenche une enquête qui révèle qu’Hasol est la seconde fille d’Iseria et une seconde enfant astrale cachée. Le clan se retourne contre Iseria.
+- **Condamnation :** l’empereur actuel est le frère d’Iseria, donc l’oncle d’Hasol et Ténébria. Il considère le pacte rompu, condamne sa sœur à mort et fait exécuter la sentence. La mort d’Iseria déclenche 12 DONG + 9 DING.
+- **Limites :** formulation exacte du pacte, danger menaçant le village, procédure, accusation officielle, lieu et méthode d’exécution, recours et tentatives de sauvetage restent à préparer. Ne pas présenter Iseria, Hasol ou Ténébria comme moralement responsables de cette injustice. Aucun chapitre n’est autorisé.
+
+## DEC-138 — La matriarche Astrea sauve Iseria en vie 10
+
+- **Statut : CANON — arbitrages directs de l’auteur dans la session du 23 novembre 2026.**
+- **Matriarche :** la grand-mère d’Hasol et Ténébria est la mère d’Iseria et de l’empereur, matriarche de la famille Astrea et garante du pacte familial.
+- **Secret du trône :** l’empereur n’a obtenu la couronne que par une manœuvre au détriment d’un autre de ses frères, initialement destiné à régner. Le frère lésé ignore cette vérité. La matriarche connaît les faits et détient le levier nécessaire : si la noblesse les apprenait, elle pourrait se rebeller en se ralliant au frère écarté.
+- **Vie 10 :** grâce aux fragments cumulatifs de l’exécution d’Iseria, Hasol sollicite la matriarche assez tôt et la convainc d’intervenir. Celle-ci menace de révéler l’accession irrégulière et impose le respect du pacte. L’empereur recule ; Iseria n’est pas exécutée dans cette vie.
+- **À DÉFINIR :** nature exacte de la manœuvre, preuves détenues, identité et caractère du frère lésé, arguments d’Hasol, scène d’intervention et conséquences politiques. La menace ne valide pas une rébellion effectivement déclenchée. Le drame d’Iseria est résolu ; seuls les drames des chapitres 10 et 14 restent ouverts.
+
+## DEC-139 — Filiation officielle de Ténébria et mémoire d’Armin
+
+- **Statut : CANON — précisions directes de l’auteur dans la session du 23 novembre 2026.**
+- **Filiation publique :** aux yeux du monde, Ténébria est la fille biologique de l’empereur actuel et de son épouse. Ténébria elle-même croit cette filiation et ignore qu’Iseria et Armin sont ses véritables parents ainsi qu’Hasol sa sœur.
+- **Détenteurs de la vérité :** Iseria ; l’ancien empereur et son épouse **Carmela Astrea** ; l’empereur actuel et son épouse. Carmela est aussi la mère d’Iseria et de l’empereur actuel, la grand-mère d’Hasol et Ténébria, la matriarche Astrea et l’intervenante de DEC-138.
+- **Armin :** Iseria a effacé par magie toute existence de Ténébria de sa mémoire : première fille, enlèvement et pacte. Motif précis, consentement, coût, sort utilisé, date et conséquences psychiques restent **À DÉFINIR** ; ne pas déduire qu’Iseria peut réécrire librement tous les souvenirs.
+- **Portée :** la fausse filiation protège le récit impérial et explique que le rapprochement des sœurs menace le clan. Elle n’est pas révélée au chapitre 1 et ne doit pas préfigurer la responsabilité historique de Ténébria. Modalités administratives, témoins, date de présentation comme princesse et histoire publique de sa naissance restent à préparer.
+
+## DEC-140 — Elric Arowell, mentor de chasse d’Hasol
+
+- **Statut : CANON — décisions directes de l’auteur dans la session du 23 novembre 2026.**
+- **Identité et introduction :** Elric Arowell apparaît au chapitre 1 du livre II, vie 2. L’Académie le désigne comme mentor de chasse d’Hasol. Il revient dans plusieurs réincarnations et est destiné à reparaître au livre III.
+- **Profil :** **42 ans et niveau 45** lors de leur rencontre ; classe **Porte-bouclier**, rareté Commune, cinq points. Tank vétéran très orienté soutien, équipé d’un bouclier et d’une épée.
+- **Compétences :** une attaque offensive d’élément Terre, des capacités de provocation et d’étourdissement. Noms, niveaux, coûts, portées, durées, récupérations et résistances restent **À DÉFINIR** ; aucun contrôle absolu déduit.
+- **Aura :** Hasol applique Aura runique à l’épée d’Elric pendant leur mentorat. Élément, moment, combat et rune sacrifiée restent à préparer selon les règles existantes ; Elric niveau 45 peut utiliser l’arme imprégnée.
+- **Retraite :** les années de mentorat passent rapidement dans le récit. Huit ans après leur rencontre, Elric atteint 50 ans et prend sa retraite de chasseur, usé par l’accumulation des combats ; Hasol a alors environ 24 ans. Aucune blessure terminale unique, maladie ou incapacité précise n’est déduite. Son éventuel rôle de conseiller après la retraite reste **À DÉFINIR**.
+- **Équipes :** Hasol astrale 25 + Yoon légendaire 20 + Elric commun 5 = 50 points. Cette compatibilité ne valide pas une équipe permanente ni l’ajout de Ray/Zio au-delà du plafond.
+- **À DÉFINIR :** apparence, personnalité, histoire, motivations, scènes précises, évolution selon les vies et rôle détaillé au III. Aucun chapitre n’est autorisé par cette décision.
+
+## DEC-141 — Hasol et Ray, une amitié troublée par les visions
+
+- **Statut : CANON pour la trajectoire affective ; PROPOSITION pour la scène de déclaration — arbitrage direct de l’auteur dans la session du 23 novembre 2026.**
+- **Livre II :** la proximité avec Ray constitue un fil des onze vies. Les visions poussent Hasol à s’intéresser à lui plus que nécessaire ; le temps réellement passé ensemble nourrit un attachement sincère qui dépasse un peu l’amitié, jusqu’à des pensées amoureuses. Les visions orientent son attention, elles ne créent pas à elles seules tous ses sentiments.
+- **Limite intime :** malgré cet attachement, Hasol sent au fond d’elle que Ray n’est pas le bon partenaire amoureux pour elle. Cette intuition ne lui donne pas une connaissance consciente de son mariage avec Zio ni de la première vie avant Mémoire runique.
+- **PROPOSITION autorisée :** une scène peut montrer Ray lui déclarant ses sentiments et Hasol déclinant poliment. Cette possibilité ne fixe ni une déclaration effective, ni des sentiments amoureux de Ray dans toutes les vies, ni sa réaction après le refus.
+- **Mémoire — DEC-132 préservée :** aucun souvenir des drames du I en vie 2 ; fragments cumulatifs des seuls drames terminaux des vies 2 et suivantes à partir de la vie 3, première vie inaccessible jusqu’à R11. Ne pas transformer ces visions en souvenirs romantiques complets, en prophétie ou en preuve d’un amour réciproque.
+- **À DÉFINIR :** vies et chapitres où l’attachement se développe, placement éventuel de la déclaration, paroles et suites du refus. Ne pas reproduire automatiquement la même évolution à chaque vie, dévaloriser Ray comme simple substitut de Zio ou modifier le livre I. Aucun chapitre n’est autorisé par cette décision.
+
+## DEC-142 — L’anneau offert par Ray et le dilemme d’Hasol au livre III
+
+- **Statut : CANON pour le jalon et le conflit intérieur — décision directe de l’auteur dans la session du 23 novembre 2026 ; placement et mise en scène À DÉFINIR.**
+- **Livre II :** dans une vie encore à placer, Ray offre de nouveau l’Anneau runique à Hasol, cette fois avec de véritables sentiments amoureux. Elle accepte l’anneau mais lui dit devoir encore réfléchir sur le plan sentimental. Cela ne constitue ni une acceptation de couple ni le refus poli immédiat envisagé en DEC-141 ; l’issue ultérieure reste ouverte.
+- **Confirmation explicite de l’auteur : scène obligatoire au livre II.** Le don de l’anneau par Ray amoureux et l’acceptation d’Hasol accompagnée de sa demande de réflexion doivent être montrés en scène, pas seulement évoqués ou résumés. Seuls la vie, le chapitre et les détails de mise en scène restent **À DÉFINIR** ; cette obligation ne constitue pas un GO de rédaction immédiate.
+- **Suite CANON — précision ultérieure de l’auteur :** un drame survient avant qu’Hasol donne sa réponse sentimentale à Ray au livre II. L’attente est interrompue ; aucun refus poli ni accord définitif ne doit être inséré avant ce drame. Nature du drame, vie, chapitre et lien éventuel avec un retour temporel restent **À DÉFINIR** ; ne pas déduire une nouvelle mort de Ray ou un drame supplémentaire distinct des jalons prévus. Cette précision remplace l’issue laissée ouverte pour cette scène, sans fixer la réponse qu’Hasol aurait donnée.
+- **Système préservé — DEC-077/078 :** le passif concerné est **Aimant runique**, à redébloquer dans chaque vie après un combat en portant l’Anneau. La remise de l’objet seule ne déclenche pas le passif ; niveau exact et délai avant combat restent **À DÉFINIR**. L’anneau n’est pas une bague de fiançailles ni un emplacement supplémentaire par cette décision.
+- **Livre III :** avec sa mémoire complète, Hasol se rappelle ce cadeau et les sentiments de Ray. Elle se trouve horrible de vouloir exploiter ces sentiments pour obtenir l’anneau et gagner en puissance, mais juge ce gain nécessaire. Ce jugement de nécessité appartient à Hasol : il n’établit pas qu’exploiter Ray soit objectivement la seule solution.
+- **Limites :** le projet conscient d’exploitation au III n’est pas attribué rétroactivement à Hasol au II. Il ne confirme ni une manipulation accomplie au III, ni la répétition certaine des sentiments de Ray dans la dernière vie. Manière de solliciter l’anneau, degré de franchise, décision effective et conséquences relationnelles restent **À DÉFINIR**. Préserver la sincérité de l’attachement de DEC-141 et l’autonomie de Ray ; aucun chapitre autorisé, aucun changement au livre I.
 
 ## Questions de système toujours ouvertes
 
 - Barème numérique des gains secondaires, au-delà des choix individuels consignés pour les deux cadeaux ; règle d’apparition résolue par DEC-006.
-- Bornes de PA et renforcements PA/plafond d’ensembles résolus par DEC-099 ; deux fiches et Attaque % secondaire confirmés par DEC-100. Courbe PA +1 à +14, probabilités des renforcements, PV %/Défense % en secondaires et nouvelles classes des vies futures restent ouverts. Ces classes ne bloquent pas l’intégration du livre I ; ne pas les importer avec ses textes. Le retrait CC/DCC est résolu par DEC-098.
+- Bornes de PA et renforcements PA/plafond d’ensembles résolus par DEC-099 ; deux fiches et Attaque % secondaire confirmés par DEC-100. Courbe PA +1 à +14, probabilités des renforcements, PV %/Défense % en secondaires et classes futures hors **Ray Stratège runique rare en vie 4** restent ouvertes. Cette classe ne modifie pas le livre I ; le retrait CC/DCC est résolu par DEC-098.
 - Ordre des opérations et arrondis des bonus d’ensemble.
 - Reliquat d’éliminations après les huit paliers rétroactifs de Croissance runique.
 - Durée, coût et portée de Chant (DEC-074), fréquence globale des runes, distributions d'étoiles hors exemple niveau 30 et dépendance éventuelle étoiles/grade (DEC-077), cumul du seuil de livres et report des cercles entre vies (DEC-079).

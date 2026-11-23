@@ -85,7 +85,7 @@ def assert_narrative_conserved(case, original, imported):
 class ImportLivreITests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.source = (ROOT / "roman.md").read_bytes().decode("utf-8")
+        cls.source = (ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md").read_bytes().decode("utf-8")
         cls.parts = chapters(cls.source)
         cls.archive = (ROOT / "docs/new.txt").read_text(encoding="utf-8")
 

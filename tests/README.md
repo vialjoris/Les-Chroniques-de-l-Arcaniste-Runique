@@ -1,5 +1,14 @@
 # Tests de la refonte de lecture
 
+## Source actuelle du livre I
+
+Les tests et les deux générateurs ciblent désormais
+`livre_1_l_ascension_d_une_legende_oubliee.md`, renommé depuis `roman.md`
+sans modification de contenu. Chaque livre possède son propre manuscrit nommé
+selon son titre validé ; les tests actuels protègent le livre I, pas un manuscrit
+commun à la trilogie. Les chemins temporaires et les noms de fixtures ci-dessous
+sont des références historiques inchangées, pas des sources concurrentes.
+
 ## Import final du livre I — 23 novembre 2026
 
 `test_import_livre_i.py` vérifie les seize chapitres uniques, dans l'ordre, puis

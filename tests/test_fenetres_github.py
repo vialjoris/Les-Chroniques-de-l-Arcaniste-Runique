@@ -39,7 +39,7 @@ def load_generator():
 class GitHubFenetreTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.source = read_exact(ROOT / "roman.md")
+        cls.source = read_exact(ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md")
         cls.document = Document(cls.source)
 
     def test_picture_mobile_et_image_de_secours_avec_transcription_integrale(self):
@@ -171,7 +171,7 @@ class GenerateurFenetreCliTests(unittest.TestCase):
         self.script = scripts / "generer_fenetres.py"
         # La CLI déduit sa racine de __file__ : une copie isole toutes ses écritures.
         shutil.copyfile(ROOT / "scripts/generer_fenetres.py", self.script)
-        self.manuscript = self.directory / "roman.md"
+        self.manuscript = self.directory / "livre_1_l_ascension_d_une_legende_oubliee.md"
         self.original = ('# Chapitre 1 — Test\n\nAvant & intact.\n\n'
                          '<div class="system-window lit-window" data-window-id="essai-001" data-window-type="system">\n'
                          '<div class="system-header lit-window__header"><svg aria-hidden="true" focusable="false" '

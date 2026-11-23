@@ -95,7 +95,7 @@ def generer_html(source: str, css_href: str) -> str:
   '''
     titre = escape(structure.titre)
     return f'''<!doctype html>
-<!-- Fichier dérivé de roman.md, généré par scripts/generer_lecture.py. Ne pas modifier à la main. -->
+<!-- Fichier dérivé de livre_1_l_ascension_d_une_legende_oubliee.md, généré par scripts/generer_lecture.py. Ne pas modifier à la main. -->
 <html lang="fr">
 <head>
   <meta charset="utf-8">
@@ -121,15 +121,15 @@ def generer_html(source: str, css_href: str) -> str:
 
 def main(argv=None) -> int:
     parser = argparse.ArgumentParser(
-        description="Générer lecture.html depuis roman.md (HTML/SVG local de confiance).",
+        description="Générer lecture.html depuis livre_1_l_ascension_d_une_legende_oubliee.md (HTML/SVG local de confiance).",
         add_help=False,
         epilog=("Lecture hors ligne : conserver le HTML et style.css à leurs emplacements relatifs. "
                 "Aucun téléchargement ni JavaScript. Codes de sortie : 0 succès, "
                 "1 erreur ou dérivé périmé, 2 arguments invalides."),
     )
     parser.add_argument("-h", "--help", action="help", help="Afficher cette aide et quitter.")
-    parser.add_argument("--input", type=Path, default=RACINE / "roman.md",
-                        help="Manuscrit Markdown UTF-8 (défaut : roman.md du projet).")
+    parser.add_argument("--input", type=Path, default=RACINE / "livre_1_l_ascension_d_une_legende_oubliee.md",
+                        help="Manuscrit Markdown UTF-8 (défaut : livre_1_l_ascension_d_une_legende_oubliee.md du projet).")
     parser.add_argument("--output", type=Path, default=RACINE / "lecture.html",
                         help="Fichier HTML à produire (défaut : lecture.html du projet).")
     parser.add_argument("--css", type=Path, default=RACINE / "style.css",

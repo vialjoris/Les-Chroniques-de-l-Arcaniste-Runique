@@ -2,7 +2,7 @@
 
 ## 1. Périmètre et sources
 
-`roman.md` reste le manuscrit unique et le point d’entrée principal sur GitHub.
+`livre_1_l_ascension_d_une_legende_oubliee.md` reste le manuscrit unique du livre I et son point d’entrée principal sur GitHub.
 La source HTML textuelle de chaque fenêtre y est conservée intégralement dans
 un `details` dépliable, sous son affichage SVG local dérivé (DEC-103).
 Voir le [guide GitHub](fenetres_github.md) pour les enveloppes et leur génération.
@@ -395,7 +395,7 @@ L’installation de `Markdown` peut demander le réseau ; **la génération et l
 lecture une fois la dépendance installée n’en ont pas besoin**. La version est
 fixée dans `requirements-lecture.txt`. Aucun navigateur n’est lancé par les tests.
 
-Le point d’entrée `main()` utilise par défaut `roman.md`, `lecture.html` et
+Le point d’entrée `main()` utilise par défaut `livre_1_l_ascension_d_une_legende_oubliee.md`, `lecture.html` et
 `style.css` à la racine. Options :
 
 | Option | Effet |
@@ -456,7 +456,7 @@ périmètre délégué. Le générateur ne renouvelle jamais le manifeste.
 
 ### HTML local et GitHub : deux modes de rendu
 
-**GitHub est prioritaire : ouvrir `roman.md` en aperçu.** GitHub filtre les
+**GitHub est prioritaire : ouvrir `livre_1_l_ascension_d_une_legende_oubliee.md` en aperçu.** GitHub filtre les
 styles, classes et SVG inline ; le CSS externe ou inline n’y fournit pas cette
 présentation. Les images SVG locales référencées par `picture` portent les
 couleurs ; le `details` conserve toute la version textuelle dans le manuscrit.

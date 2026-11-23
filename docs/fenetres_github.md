@@ -2,7 +2,7 @@
 
 ## Lecture et périmètre
 
-Ouvrir [`roman.md`](../roman.md) dans l’onglet **Preview / Aperçu** de GitHub.
+Ouvrir [`livre_1_l_ascension_d_une_legende_oubliee.md`](../livre_1_l_ascension_d_une_legende_oubliee.md) dans l’onglet **Preview / Aperçu** de GitHub.
 C’est le manuscrit unique et le point d’entrée principal. Chaque fenêtre présente
 une image SVG locale en couleur et une **version textuelle complète** dépliable
 dans le même fichier. Les variantes bureau/mobile utilisent `picture` et `source`.
@@ -75,7 +75,7 @@ conserver la transcription et de poursuivre les essais de zoom/lecteurs d’écr
 ## Source unique et fichiers dérivés
 
 - **Source éditable :** tout le texte utile et toutes les données de chaque
-  fenêtre restent dans le HTML de `roman.md`, à l’intérieur du `details`.
+  fenêtre restent dans le HTML de `livre_1_l_ascension_d_une_legende_oubliee.md`, à l’intérieur du `details`.
   Les classes racines et `data-window-id` restent stables.
 - **Dérivés :** `assets/fenetres/ID.svg` et `assets/fenetres/ID-mobile.svg`, où
   `ID` est l’identifiant de la fenêtre. Ce ne sont ni une autre version du roman,
@@ -97,7 +97,7 @@ de deux saisies manuelles de statistiques.
 
 ## Maintenance avant publication
 
-1. Modifier la source HTML textuelle de la fenêtre dans `roman.md`, en préservant
+1. Modifier la source HTML textuelle de la fenêtre dans `livre_1_l_ascension_d_une_legende_oubliee.md`, en préservant
    son identifiant et le contenu extérieur aux fenêtres. Une correction de
    présentation n’autorise aucun changement de données ou de narration.
 2. Installer les dépendances du générateur dans l’environnement Python du projet

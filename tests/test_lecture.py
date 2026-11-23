@@ -124,7 +124,7 @@ class AjoutsChapitresTests(unittest.TestCase):
 class ConservationManuscritTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.source = read_exact(ROOT / "roman.md")
+        cls.source = read_exact(ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md")
         cls.document = Document(cls.source)
         cls.historical = Document(historical_prefix(cls.source, REFERENCE))
         cls.actual = manifest(cls.historical.source)
@@ -366,11 +366,11 @@ class GenerateurTests(unittest.TestCase):
                     self.assertEqual((resource.scheme, resource.netloc), ("", ""))
 
     def test_chapitres_du_manuscrit_sommaire_resolu_et_fenetres_conservees(self):
-        self.assert_success(self.cli(source=ROOT / "roman.md"))
+        self.assert_success(self.cli(source=ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md"))
         document = Document(read_exact(self.output))
         nodes = list(document.root.descendants())
         chapters = [node for node in nodes if node.tag in {"h1", "h2"} and compact(node.text()).startswith("Chapitre ")]
-        source_text = read_exact(ROOT / "roman.md")
+        source_text = read_exact(ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md")
         expected_chapters = manifest(source_text)["chapters"]
         self.assertEqual([compact(node.text()) for node in chapters], expected_chapters)
         ids = [node.attrs["id"] for node in nodes if "id" in node.attrs]

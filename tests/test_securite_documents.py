@@ -30,7 +30,7 @@ def assert_passive(case, source):
 
 class DocumentsPassifsTests(unittest.TestCase):
     def test_manuscrit_et_lecteur_entiers_sans_contenu_actif_ni_ressource_distante(self):
-        for filename in ("roman.md", "lecture.html"):
+        for filename in ("livre_1_l_ascension_d_une_legende_oubliee.md", "lecture.html"):
             with self.subTest(document=filename):
                 assert_passive(self, (ROOT / filename).read_text(encoding="utf-8"))
 
