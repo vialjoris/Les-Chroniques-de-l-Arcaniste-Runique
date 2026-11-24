@@ -1577,6 +1577,13 @@
 - **Croissance :** Iseria demande le secret ; Hasol le confie ensuite à Elric puis au directeur pour adapter sa formation, et en informe sa mère. Ray ne le sait pas ; aucune diffusion à tous les enseignants ou obligation générale d’encadrement déduite.
 - **Fin de chapitre :** chasses extérieures de slimes sous le regard d’Elric ; pas de donjon en duo, de nouveau cercle, d’équipement individuel ou de palier chiffré attesté. Le programme de volume ne définit pas toutes les règles d’admissibilité avant dix.
 
+## DEC-155 — Raids de portails dans la première conversation avec Elric
+
+- **Statut : CANON — correction ciblée demandée par l’auteur dans la session locale.** Au chapitre 1 du II, section V, la question d’Hasol sur les dragons est remplacée par « Vous avez déjà pris part à des raids de portails ? », avec le passage corrigé fourni par l’auteur.
+- **Fait raconté :** Elric répond « Plus d’une fois » et souligne le danger de ces opérations. Hasol demande à l’accompagner ; sa réaction amusée souligne l’impatience de son élève. Aucun raid précis, couleur de portail, exploit ou résultat passé n’est inventé.
+- **Jalon futur du chapitre 2 :** Elric refusera de laisser Hasol participer à des raids de portails ou affronter des boss avant le niveau 20. Il s’agit de sa limite d’encadrement pour Hasol, pas d’une condition universelle d’accès au système ni d’une autorisation automatique dès le niveau 20.
+- **Limites :** reste du chapitre préservé ; aucune fenêtre, statistique ou règle d’équipe modifiée. Le jalon futur n’est pas encore raconté et n’autorise pas la rédaction du chapitre 2. Aucun changement au I, à l’archive ou à la scène d’Iseria ; aucun commit/push.
+
 ## Questions de système toujours ouvertes
 
 - Barème numérique des gains secondaires, au-delà des choix individuels consignés pour les deux cadeaux ; règle d’apparition résolue par DEC-006.

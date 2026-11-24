@@ -65,6 +65,25 @@ class ImportLivreIITests(unittest.TestCase):
         assert_passive(self, self.source)
         self.assertNotRegex(self.source, r"!\[[^\]]*\]\(\s*(?:https?:|//|data:)")
 
+    def test_premiere_conversation_elric_concerne_les_raids_de_portails(self):
+        section = re.search(r"^### V\.[\s\S]*?(?=^### VI\.)", self.source, re.M)
+        self.assertIsNotNone(section)
+        text = compact(section.group())
+        self.assertNotIn("dragons", text.lower())
+        passages = (
+            "Vous avez déjà pris part à des raids de portails ?",
+            "Plus d'une fois.",
+            "Dangereux. Beaucoup plus que tu ne l'imagines.",
+            "Vous pourriez m'y emmener un jour ?",
+            "Nous ne nous connaissons que depuis cinq minutes et tu veux déjà participer à un raid ?",
+        )
+        position = 0
+        for passage in passages:
+            with self.subTest(passage=passage):
+                found = text.find(passage, position)
+                self.assertGreaterEqual(found, position)
+                position = found + len(passage)
+
     def test_derives_svg_locaux_identiques_et_generation_idempotente(self):
         generator = load_generator()
         generated, images = generator.produire(self.source)

@@ -1,5 +1,17 @@
 # Transmission mobile du 24 novembre 2026 — audit et consolidation validée
 
+## Vérification de la nouvelle sélection — 79 731 lignes
+
+Après le signalement de l’auteur d’une possible mauvaise sélection au collage, comparaison intégrale avec la version précédente de 79 583 lignes : **148 lignes ajoutées, aucune supprimée**. Cinq lignes vides sont insérées dans les anciens tableaux, puis un séparateur et un bloc final à partir de la ligne 79587. Le contenu antérieur est intégralement identique après normalisation des espaces ; le bloc final, lu jusqu’à 79731, répète intégralement à espaces près l’échange déjà présent sur les âges et les progrès à l’épée.
+
+- Écart Hasol/Yoon/Samia et cérémonie à 19/16/16 ans : déjà pris en compte par DEC-151.
+- Samia, deuxième cercle vers neuf ans et entrée à seize ans : déjà raccordé au chapitre 1 et à DEC-154.
+- Maîtrise de la lame en quelques semaines, surprise d’Elric au chapitre 2 : déjà consignée par DEC-152 ; dialogue illustratif toujours proposé, non chapitre rédigé.
+- Aucun nouveau chapitre, complément narratif inédit ou nouvelle décision à importer. Pas de nouvelle entrée au registre pour un doublon.
+- Correction locale sur les raids de portails (DEC-155) préservée ; elle n’est pas remplacée par l’ancienne question sur les dragons encore conservée dans l’archive de provenance.
+
+**Action :** seul le présent relevé de réception est ajouté. `docs/new.txt` est conservé intact, doublon et lignes vides compris ; manuscrits, décisions et modifications locales antérieures préservés. La répétition ne permet pas de conclure qu’un passage non transmis existe ailleurs ; demander une nouvelle transmission si un autre contenu était attendu. Aucun commit/push.
+
 **Apport suivant — DEC-153/154 :** archive portée à 79 583 lignes ; texte complet du chapitre 1 du II enfin reçu, validé par l’auteur et intégré avec retouches ciblées. Voir [la note dédiée](integration_livre_2_chapitre_1.md). Les mentions ci-dessous d’absence de chapitre ou de réserves sur Samia décrivent leur réception antérieure.
 
 ## Périmètre et provenance

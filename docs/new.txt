@@ -77221,6 +77221,7 @@ Ainsi, nous aurons trois jeunes filles remarquables :
 
 Personnage
 
+
 Révélation
 
 Regard de la société
@@ -77265,6 +77266,10 @@ Yoon
 Samia
 
 Apparition des premiers portails
+
+
+
+
 
 12 ans
 
@@ -79577,6 +79582,149 @@ Et cette fois, Hasol préféra simplement profiter de cet instant.
 Je conserverais exactement cette subtilité : Hasol remarque que quelque chose ne va pas, mais elle est trop heureuse pour insister. Iseria ne ment pas lorsqu'elle dit être fière de sa fille : sa joie et son inquiétude coexistent.
 
 Cela donne de la profondeur à Iseria dès le chapitre 1, sans dévoiler la raison de son inquiétude ni les secrets familiaux.
+
+
+------------------
+
+Bien garder la chronologie d’écart d’Annee entre Hasol / yoon et Samia
+Bien noté. J'ai vérifié la chronologie du dépôt : Yoon et Samia ont le même âge, et toutes les deux ont trois ans de moins qu'Hasol. 
+
+GitHub
++1
+
+Chronologie à respecter
+Événement
+
+Hasol
+
+Yoon
+
+Samia
+
+Apparition des premiers portails
+
+12 ans
+
+9 ans
+
+9 ans
+
+Révélation d'Hasol — chapitre 1
+
+16 ans
+
+13 ans
+
+13 ans
+
+Révélation de Samia et Yoon — chapitre 2
+
+19 ans
+
+16 ans
+
+16 ans
+
+Retraite d'Elric
+
+24 ans
+
+21 ans
+
+21 ans
+
+Conséquences pour les chapitres
+Chapitre 1 : Hasol rencontre Samia alors que celle-ci n'a que 13 ans. Elle est particulièrement impressionnée qu'une fille de trois ans sa cadette possède déjà deux cercles.
+
+Zéphyr devrait dire : « Elle rejoindra l'Académie lorsqu'elle aura seize ans », plutôt que « bientôt ».
+
+Chapitre 2 : trois années s'écoulent avant la cérémonie commune de Samia et Yoon.
+
+Samia obtient une classe commune après une très faible lumière violette : naissance du surnom « l'Astrale déchue ».
+
+Yoon obtient une classe légendaire et reçoit les acclamations du public.
+
+Hasol, désormais âgée de 19 ans, assiste aux deux Révélations.
+
+Point important : Samia a obtenu son deuxième cercle à 9 ans, lors de l'apparition des portails, et non à sa Révélation de 16 ans.
+
+Cette chronologie est celle que nous conserverons pour la rédaction du chapitre 2.
+
+Dans le chapitre 2 Elric sera impressionné par la vitesse de progression de Hasol en quelque semaine sa maîtrise de la lame ferait rougir même des maître lame .
+Validé pour le chapitre 2 ! Cela renforce l'idée qu'Hasol progresse à une vitesse anormalement élevée, aussi bien au combat que dans l'artisanat.
+
+Chapitre 2 — Séquence 1 : Le prodige de l'épée
+Quelques semaines après le début de son entraînement, Elric constate un phénomène qu'il n'arrive pas à expliquer.
+
+Les gestes qu'Hasol exécutait maladroitement lors de leur première rencontre sont désormais d'une précision remarquable.
+
+Elle apprend les nouvelles techniques presque immédiatement, corrige instinctivement ses erreurs et enchaîne les mouvements avec une fluidité inhabituelle.
+
+Passage proposé
+— Encore une fois, Hasol.
+
+Elle acquiesça et reprit sa position.
+
+Elric l'observa effectuer une succession d'attaques, de parades et de déplacements.
+
+Son épée fendit l'air avec une précision stupéfiante.
+
+Lorsqu'elle termina, il resta silencieux.
+
+— Monsieur Arowell ? J'ai fait quelque chose de travers ?
+
+— Non…
+
+Il contempla son élève.
+
+— C'est bien ce qui m'inquiète.
+
+Hasol pencha la tête.
+
+— Pardon ?
+
+— Cela fait à peine quelques semaines que je t'entraîne. Et pourtant, ta maîtrise de la lame ferait rougir certains maîtres-lames.
+
+— Vraiment ?!
+
+— Hasol, combien d'années t'es-tu entraînée avant notre rencontre ?
+
+— Je m'exerçais régulièrement, mais je n'ai jamais suivi une formation aussi poussée.
+
+Elric fronça les sourcils.
+
+— C'est incompréhensible…
+
+Hasol sourit.
+
+— Alors, on peut passer à des techniques plus difficiles ?
+
+Elric éclata de rire.
+
+— Évidemment que c'est ce qui t'intéresse !
+
+Ce que cela change pour le chapitre
+Elric sera véritablement impressionné, bien au-delà de ce qu'il attendait d'une classe Astrale.
+
+Cependant, je garderais une distinction importante : Hasol possède déjà une technique exceptionnelle, mais elle doit encore acquérir de l'expérience dans les véritables combats, apprendre à coordonner une équipe et développer son endurance.
+
+Cela permet de conserver les huit années de mentorat d'Elric sans rendre son rôle inutile.
+
+Et surtout, nous obtenons un parallèle intéressant :
+
+Elric découvre qu'Hasol maîtrise l'épée comme si elle s'était entraînée pendant des années.
+
+Orven découvre qu'elle travaille les runes comme si elle avait déjà passé une vie dans un atelier.
+
+Hasol ne comprend absolument pas pourquoi tout semble lui venir aussi naturellement.
+
+Le lecteur peut faire le rapprochement avec sa première vie, mais Hasol ne récupère aucun souvenir conscient.
+
+Je propose qu'Elric commence à la considérer comme un prodige exceptionnel dès ces premières semaines, et que sa surprise se transforme progressivement en une immense fierté.
+
+Cette modification est retenue pour la première séquence du chapitre 2.
+
+
 
 
 

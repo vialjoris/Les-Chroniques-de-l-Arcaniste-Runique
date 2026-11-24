@@ -1054,21 +1054,31 @@ Il était également niveau quarante-cinq.
 
 Hasol ouvrit grand les yeux.
 
-— Niveau quarante-cinq !
+— Niveau quarante-cinq ! répéta Hasol avec admiration.
 
 Elric eut un léger sourire.
 
 — Cela fait quelques années que je chasse.
 
-— Vous avez déjà affronté des dragons ?
+— Vous avez déjà pris part à des raids de portails ?
 
-— Nous ne nous connaissons que depuis cinq minutes et tu veux déjà parler de dragons ?
+— Plus d'une fois.
+
+Les yeux d'Hasol s'illuminèrent.
+
+— C'était comment ?
+
+— Dangereux. Beaucoup plus que tu ne l'imagines.
+
+— Vous pourriez m'y emmener un jour ?
+
+Elric éclata de rire.
+
+— Nous ne nous connaissons que depuis cinq minutes et tu veux déjà participer à un raid ?
 
 Hasol rougit.
 
-— Désolée.
-
-Il éclata de rire.
+— Désolée…
 
 — Ce n'est pas un reproche. J'ai simplement l'impression que l'Académie m'a confié une élève impatiente.
 

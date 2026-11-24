@@ -32,6 +32,8 @@
 
 ## Limites
 
+**Correction postérieure — DEC-155 :** section V, échange sur les dragons remplacé par le passage fourni sur les raids de portails ; Elric atteste plusieurs participations et leur danger. Reste de la scène conservé, y compris la transition vers les ambitions d’Hasol. Le refus des raids et des boss avant le niveau 20 est consigné comme futur du chapitre 2 et choix d’encadrement d’Elric, sans règle universelle nouvelle. Cette correction locale ne modifie pas `docs/new.txt`.
+
 Validation littéraire du texte transmis enregistrée ; les retouches locales restent identifiées pour relecture. Aucun chapitre 2 rédigé ou autorisé. L’absence de Ténébria dans ce chapitre n’autorise pas à ajouter une nouvelle scène : ses secrets restent protégés. Les anciens « aucun chapitre II autorisé » décrivent l’état antérieur, sauf pour les chapitres suivants qui restent non autorisés.
 
 Livre I et archive préservés ; empreintes avant intervention :

@@ -2,6 +2,8 @@
 
 ## Livre II — chapitre 1 raconté et validé, DEC-153/154
 
+**Correction DEC-155 :** au cours de leur première conversation, Elric confirme avoir participé plusieurs fois à des raids de portails et en rappelle le danger. La question d’Hasol sur les dragons est remplacée par cette curiosité pour les raids. **Futur du chapitre 2 :** il refuse les raids de portails et les combats contre des boss avant son niveau 20 ; limite de mentorat, pas règle universelle ni permission automatique au niveau 20.
+
 Source : `../livre_2_le_vertige_des_vies_oubliees.md`, neuf sections ; provenance dans `../docs/integration_livre_2_chapitre_1.md`. Cet état prime les anciennes réserves sur les faits racontés, pas les futurs non arbitrés.
 
 - **Hasol :** seize ans, Arcaniste Astral, rang Astral, niveau 1 à la Révélation, 25 points, deux cercles. Cinq compétences initiales, aucun sort offensif direct. Entraînement avec Elric, exploration avec Zéphyr, chasse extérieure de slimes. Niveau final, XP, compteurs et équipement non chiffrés ; aucun nouveau cercle attesté. Peur résiduelle du cauchemar et familiarité inexplicable avec les moqueries, sans souvenir conscient du I.

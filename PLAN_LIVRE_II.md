@@ -89,6 +89,8 @@ Les numéros de chapitre, titres, ordre et répartition des vies ci-dessous sont
 
 **Vie 2 ; plusieurs années, jusqu’à la Révélation de Yoon.**
 
+- **CANON de trajectoire — DEC-155 :** Elric refuse de laisser Hasol participer à des raids de portails ou affronter des boss avant le niveau 20. Cette limite de mentorat prolonge leur première conversation du chapitre 1, où il confirme avoir participé à plusieurs raids et en souligne le danger. Aucun seuil universel d’accès ni accord automatique au niveau 20 déduit ; scène du chapitre 2 non encore rédigée.
+
 - **CANON — DEC-150/151 :** scène de Révélation de Samia, faible lumière violette faisant croire au prêtre qu’elle est astrale, réactions de la foule, mais classe affichée commune. Yoon est parmi les candidats et reçoit une Révélation légendaire dans la même cérémonie. Yoon et Samia ont seize ans, Hasol environ dix-neuf : conserver l’ellipse de trois ans. Le titre de séquence « L’Astrale déchue », son emploi comme surnom humiliant et les dialogues restent des propositions ; ne pas renommer ce chapitre.
 - **CANON — DEC-152 :** après quelques semaines de formation, Elric est stupéfait par la progression à l’épée d’Hasol, dont la maîtrise ferait rougir même des maîtres-lames. Ni souvenir conscient du I ni nouvelle compétence déduits ; les années de mentorat restent utiles et ne sont pas supprimées.
 
