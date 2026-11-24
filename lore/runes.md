@@ -1,5 +1,17 @@
 # Inventaire runique
 
+**Livre II, chapitre 1 validé — DEC-153/154 :** aucune rune individuelle, amélioration ou acquisition n’est décrite dans le texte transmis. Deux cercles sont attestés à la Révélation, sans occupation chiffrée. Ne transférer ni les cadeaux paternels ni les seize runes de fin du I par défaut ; inventaire de vie 2 **À DÉFINIR**. Aucune rune sacrifiée à Aura dans ce chapitre. Voir `../docs/integration_livre_2_chapitre_1.md`.
+
+**Consolidation mobile du 24 novembre 2026 — DEC-143/146 :** la catégorie astrale est confirmée, mais les anciennes conditions d’équipement et de +15 sont abandonnées. Voir `../docs/integration_mobile_2026_11_24.md`. Aucun nouvel exemplaire n’est ajouté à l’inventaire.
+
+## Runes astrales — catégorie CANON, DEC-143 ; découvertes futures au III
+
+- Chaque Rune astrale est unique, en **un seul exemplaire**, et offre soit un passif, soit un actif, soit des statistiques exceptionnelles. Elle doit être activée pour fonctionner ; cette activation est irréversible.
+- Une Rune astrale n’occupe **aucun emplacement runique** et ne peut pas être améliorée. La Rune temporelle appartient à cette catégorie ; ses étoiles éventuelles et autres paramètres restent **À DÉFINIR**, sans identification rétroactive par les personnages du I.
+- Hasol aura au III un sort révélant d’autres Runes astrales ; aucun nom, ID, acquisition ou effet individuel supplémentaire n’est créé ici. Nom et paramètres du sort **À DÉFINIR**.
+- Compteurs d’usages, destruction et autres limites restent à définir au cas par cas pour chaque rune au III ; le modèle temporel n’est pas universalisé.
+- Les ressources rares sont liées au pouvoir de chaque rune et seront définies au cas par cas, y compris leur rôle et leur moment de consommation. Le nombre total de Runes astrales reste **À DÉFINIR**.
+
 ## État courant — équipement attesté aux chapitres 14–16, DEC-110/112
 
 Livre I complet validé. Les notices « fin du 13 / équipement à définir » ci-dessous restent l’historique avant réception de la suite, pas un gel du bilan du 9.

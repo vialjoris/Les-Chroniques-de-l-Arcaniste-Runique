@@ -130,6 +130,55 @@ automatiquement. Aucun autre drapeau de génération n’est supposé ici.
 
 ## Export local facultatif
 
+### Fenêtre du livre II — import DEC-153
+
+Le point d’entrée CLI de `generer_fenetres.py` reste celui du livre I. Pour le
+chapitre 1 du II, la même fonction de génération `produire` est utilisée sans
+modifier ce point d’entrée, avec des dérivés isolés dans
+`assets/fenetres-livre-2/`. Ne pas déposer ces images dans le répertoire du I :
+son contrôle les considérerait comme obsolètes. La source HTML reste dans
+`livre_2_le_vertige_des_vies_oubliees.md` et l’identifiant est `L2-C1-F01`.
+
+Régénération ciblée depuis la racine (dépendances déjà installées) :
+
+```sh
+python3 - <<'PY'
+from pathlib import Path
+from scripts.generer_fenetres import produire, ecrire_atomique
+
+manuscrit = Path('livre_2_le_vertige_des_vies_oubliees.md')
+resultat, images = produire(manuscrit.read_text(encoding='utf-8'))
+resultat = resultat.replace('assets/fenetres/', 'assets/fenetres-livre-2/')
+dossier = Path('assets/fenetres-livre-2')
+dossier.mkdir(exist_ok=True)
+for nom, contenu in images.items():
+    ecrire_atomique(dossier / nom, contenu)
+ecrire_atomique(manuscrit, resultat)
+PY
+```
+
+Contrôle équivalent sans écriture :
+
+```sh
+python3 - <<'PY'
+from pathlib import Path
+from scripts.generer_fenetres import produire
+
+source = Path('livre_2_le_vertige_des_vies_oubliees.md').read_text(encoding='utf-8')
+attendu, images = produire(source)
+assert source == attendu.replace('assets/fenetres/', 'assets/fenetres-livre-2/')
+dossier = Path('assets/fenetres-livre-2')
+assert {p.name for p in dossier.glob('*.svg')} == set(images)
+for nom, contenu in images.items():
+    assert (dossier / nom).read_text(encoding='utf-8') == contenu, nom
+print('Fenêtres du livre II : à jour')
+PY
+```
+
+Ces commandes ne modifient ni ne publient le livre I. Toute publication autorisée
+du II doit inclure ses deux SVG dérivés et son manuscrit ; la transcription HTML
+dépliable reste lisible sans dépendre des couleurs.
+
 `scripts/generer_lecture.py` extrait la source des fenêtres pour produire
 `lecture.html`, sans doubler les fenêtres avec leurs images et leurs `details`.
 Le lecteur retrouve ainsi la présentation HTML/CSS locale. Régénérer cet export

@@ -1,5 +1,9 @@
 # Sources et inspirations
 
+## Livre II — chapitre 1 validé, DEC-153/154
+
+Source interne : `docs/new.txt:77399–79503`, complétée par la demande auteur `79505` et sa validation dans la session locale du 24 novembre 2026. Texte complet reçu et intégré dans `livre_2_le_vertige_des_vies_oubliees.md`, sans duplication du I ; détails et retouches dans `docs/integration_livre_2_chapitre_1.md`. Samia argentée, deuxième cercle aux premiers portails et Zéphyr Ranger niveau 53/père/enseignant sont attestés par ce texte validé, non par les annotations des visuels. Les réserves historiques sur ces faits sont levées ; cause du changement et rareté de Zéphyr restent ouvertes. Aucun chapitre 2 ni publication autorisé.
+
 ## Dernière transmission — livre I complet, DEC-110 à DEC-116
 
 **Source interne, pas inspiration externe :** `docs/new.txt`, 74 252 lignes à la réception ; nouvel apport après la ligne 51618, dossier principal 51619–74026 puis append Ténébria 74029–74252. Archives inchangées. Voir [`docs/integration_chapitres_13_16.md`](docs/integration_chapitres_13_16.md) pour bornes exactes, versions concurrentes et corrections autorisées. Toutes les dates et validations de réceptions antérieures ci-dessous restent historiques ; 1–16, 10–12 et 13 XI sont désormais lus et validés par l’auteur.

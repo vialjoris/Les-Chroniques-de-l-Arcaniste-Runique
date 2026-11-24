@@ -1,8 +1,14 @@
 # Audit de transmission — préparation du livre II
 
+**Chapitre 1 désormais reçu et validé — DEC-153/154 :** voir [la note d’intégration](integration_livre_2_chapitre_1.md). Aucun chapitre suivant autorisé ; les anciennes notices d’absence de texte décrivent la réception antérieure.
+
+**Dernier complément — DEC-150 à DEC-152 :** voir la section 4 de [l’audit du 24 novembre](integration_mobile_2026_11_24.md) : Révélations de Samia/Yoon au chapitre 2, écart d’âge préservé et maîtrise de la lame d’Hasol constatée par Elric. Préparation uniquement, aucun chapitre autorisé.
+
+**Apport suivant, 24 novembre 2026 :** voir [l’audit consolidé](integration_mobile_2026_11_24.md). DEC-143 à DEC-149 consignent la validation du récapitulatif mobile et ses corrections. Les bornes et statuts ci-dessous décrivent l’ancienne réception et ne doivent pas rétablir les règles remplacées.
+
 **Consignation : 23 novembre 2026.** Source nouvelle : `docs/new.txt`, **lignes 74253–76651** incluses, lues jusqu’à la fin disponible. Les lignes sont des repères de cette version de l’archive, pas des identifiants immuables. Aucun passage de conversation n’est intégré à un manuscrit.
 
-**Actualisation postérieure — DEC-131 à DEC-139 :** cet audit conserve l’état de réception de DEC-118–128. Il ne doit pas rétablir les statuts ensuite remplacés : Ray Stratège runique rare et mort indirecte d’Orven sont canoniques en vie 4 ; chapitres 11/12 et vies 8/9 sont inversés ; l’exécution d’Iseria puis son sauvetage dans la vie suivante sont fixés ; deux drames restent ouverts ; l’ancien jalon de 32 cercles fin II est retiré. Le régime précis de mémoire relève de DEC-132 et la filiation impériale de DEC-137–139. Voir `../PLAN_LIVRE_II.md` et `../lore/decisions.md`.
+**Actualisation postérieure — DEC-131 à DEC-149 :** cet audit conserve l’état de réception de DEC-118–128. Il ne doit pas rétablir les statuts ensuite remplacés : Ray rare et mort d’Orven en vie 4 ; ordre 11/12 ; exécution puis sauvetage d’Iseria ; drames 10/14 désormais résolus ; tableau de sauvegardes validé ; 20 000 lectures ; Aimant conservé au II ; vie 13 le jour de la Révélation ; Runes astrales sans emplacement ni amélioration. Voir `../PLAN_LIVRE_II.md` et `../lore/decisions.md`.
 
 ## 1. Portée du travail
 
@@ -142,6 +148,6 @@ Les numéros ci-dessous correspondent aux entrées consignées dans `lore/decisi
 ## 6. Proposition de reprise
 
 1. Relire les entrées DEC-118–128 et leurs limites ; DEC-117 conserve l’organisation. Les tableaux de ChatGPT ne sont pas importés comme validations. La mise à jour complète des références historiques reste distincte des synthèses prioritaires ajoutées ici.
-2. **État actualisé :** titre, structure, Ray rare, Orven et Iseria sont résolus. Présenter encore à l’auteur les deux drames ouverts des chapitres 10 et 14, le Griffon, les détails de classes non fixés et les compositions. La structure de `PLAN_LIVRE_II.md` n’autorise pas automatiquement le chapitre 1.
+2. **État actualisé par DEC-145 :** titre, structure, Ray rare et tous les drames sont résolus. Restent notamment le Griffon, les détails de classes non fixés et les compositions. La structure de `PLAN_LIVRE_II.md` n’autorise pas automatiquement le chapitre 1.
 3. Avant rédaction : fiche de continuité par chapitre, règle d’accès du futur groupe des sœurs, paramètres de partage, chronologie et sources des souvenirs. Inventaires détaillés, XP et affixes inconnus restent à définir.
 4. Aucun effet opérationnel ou performance attendu : documentation locale seulement. Pas de publication, accès réseau, secret ou notification de production engagés. Les risques sont éditoriaux : survalidation de ChatGPT, fuite de savoir entre personnages, incohérence d’âges et plafonds, et confusion plan/manuscrit.

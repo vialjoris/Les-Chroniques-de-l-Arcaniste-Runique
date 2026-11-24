@@ -1,5 +1,38 @@
 # Système LitRPG — Règles runiques
 
+**Livre II, chapitre 1 validé — DEC-153/154 :** cinq compétences dès la Révélation astrale, deux cercles, niveau 1, coût de classe 25. Aura est accessible dès ce niveau, mais le porteur de l’arme imprégnée doit être niveau 10 ; les formulations du chapitre sont raccordées à cette distinction. Aucun lancement d’Aura ou nouveau paramètre chiffré ajouté. La stratégie de chasse aux slimes n’atteste aucun palier ni cercle gagné avant dix : les conditions d’admissibilité encore ouvertes ne sont pas résolues par une interpolation. Voir `../docs/integration_livre_2_chapitre_1.md`.
+
+**Consolidation mobile du 24 novembre 2026 — DEC-145 à DEC-149 :** le récapitulatif `docs/new.txt:76723–77046` est validé avec corrections. Points de sauvegarde variables, drames des chapitres 10/14 et chronologie associée sont canoniques. Les corrections sur les Runes astrales, Aimant, les 20 000 lectures et la vie 13 priment les formulations mobiles et historiques ; voir `../docs/integration_mobile_2026_11_24.md`.
+
+## Runes astrales — CANON, DEC-143/146 ; découverte au livre III
+
+- Chaque Rune astrale existe en **un seul exemplaire**. La Rune temporelle appartient à cette catégorie ; nombre total de Runes astrales, étoiles éventuelles et présentation **À DÉFINIR**, sans couleur ou affixes inventés.
+- Au livre III, Hasol aura un sort révélant d’autres Runes astrales ; nom, niveau, coût et modalités **À DÉFINIR**.
+- Une telle rune offre soit un passif, soit un actif, soit des statistiques exceptionnelles. Elle doit être **activée** pour fonctionner ; cette activation est irréversible.
+- Elle n’occupe **aucun cercle ni emplacement runique**, comme la Rune temporelle, et ne peut pas être améliorée. Les anciennes conditions d’équipement et de +15 sont abandonnées.
+- Compteur d’usages, destruction et autres limites sont définis **au cas par cas par rune au livre III**. Le fonctionnement de la Rune temporelle n’est pas appliqué automatiquement aux autres.
+- Les ressources rares sont elles aussi définies au cas par cas, en lien avec le pouvoir de chaque rune ; nature, rôle et moment de consommation restent ouverts. Rappeler à l’auteur ces deux arbitrages lors de la préparation du III.
+
+## Croissance Astrea astrale — CANON, DEC-126/144
+
+Le passif est présent dès qu’Hasol reconnaît Ténébria comme sa sœur. La correction finale auteur `docs/new.txt:76703` prime `76694` : **pas d’activation inconditionnelle à l’éveil**, pas d’âge de trente ans imposé par les reformulations de ChatGPT.
+
+Un membre Astrea astral dans le groupe bénéficie du passif. Ténébria a ses **propres compteurs**, qui augmentent seulement lorsqu’elle est dans le groupe d’Hasol ; aucun transfert des compteurs d’Hasol ni dérogation aux règles d’accès en donjon. Seuils transmis, crédit des éliminations, état hors groupe et reports entre vies restent **À DÉFINIR**. Le savoir permettant la reconnaissance après retour n’est pas fixé par cette correction : préserver DEC-132, sans souvenir familial automatiquement conservé.
+
+## Points de sauvegarde temporels — CANON, DEC-145/149
+
+- La Rune temporelle choisit seule un point de sauvegarde variable ; Hasol ne contrôle ni sa date ni son moment. Hormis le premier retour à la veille de la Révélation, le point ne précède jamais le jour de la Révélation.
+- Niveau, cercles et compteurs retrouvent leur état sauvegardé ; ils ne s’additionnent pas entre vies. L’équipement et les paramètres non consignés ne sont pas déduits du tableau.
+- Points validés : vie 2, veille de la Révélation/niveau 1 à la Révélation/2 cercles ; vie 3, 23 ans/24/16 ; vie 4, 16 ans/1/2 ; vie 5, 21 ans/22/15 ; vie 6, 23 ans/27/18 ; vie 7, 18 ans/12/8 ; vie 8, 30 ans/34/28 ; vie 9, 24 ans/27/20 ; vie 10, 27 ans/31/23 ; vie 11, 32 ans/39/28 ; vie 12, 38 ans/45/34.
+- La vie 13 commence à seize ans, le jour de la Révélation. La Rune est alors détruite ; aucun nouveau retour.
+- Un changement de classe ne modifie jamais les statistiques naturelles déjà acquises. Aucune courbe intermédiaire n’en est déduite.
+
+## Compétences réservées au livre III — CANON de trajectoire, DEC-145
+
+- Hasol retrouve son sort de zone au premier mannequin lorsqu’elle reproduit précisément la sensation de son utilisation. Les modalités de ce redéblocage ne s’étendent pas automatiquement à toutes ses compétences.
+- Au niveau 40, elle acquiert **Bouclier runique**, protection personnelle enveloppant son corps d’écritures runiques ; coût, durée, résistance, récupération et limites **À DÉFINIR**.
+- Samia évolue en **Exécutrice astrale**, classe légendaire, avec les dagues comme armes principales tout en conservant son arc. Son futur passif réduit de dix points les coûts d’équipe Astral et Légendaire : **25→15** et **20→10**. Il ne s’applique pas rétroactivement au II et n’annule pas le minimum de trois membres en donjon ; niveau d’obtention et autres paramètres **À DÉFINIR**.
+
 ## État courant — livre I validé, DEC-110 à DEC-116
 
 Seize chapitres validés, 13 XI et 10–12 compris. Les notices datées suivantes décrivent des états historiques. Les règles de cette section priment leurs mentions « futurs », « en lecture » et leurs paramètres désormais précisés.
@@ -518,7 +551,8 @@ Ray reste de classe commune. Son répertoire repose sur des techniques directes,
 
 - L'Anneau runique offert par la famille de Ray après son sauvetage est remis personnellement par Ray. Il possède un **inventaire spécialisé réservé aux runes** ; l'inventaire ordinaire mélange les objets et n'offre pas ce tri natif. Ce n'est ni un emplacement de rune supplémentaire ni un bonus statistique établi. Capacité, transferts et conservation à travers les retours **À DÉFINIR**.
 - Dans la première vie, **Aimant runique se débloque au niveau 21 après un combat en portant l'anneau**. L'interface indique seulement que les chances d'obtention de runes sont améliorées, sans taux affiché. Les effets réels favorisent aussi davantage d'étoiles et une meilleure qualité selon les distributions conditionnelles de la section 5 ; seule la fréquence globale reste non chiffrée. Ne pas révéler immédiatement ces effets cachés à Hasol ni garantir un butin.
-- Dans **chaque nouvelle vie**, Aimant doit être redébloqué **après avoir combattu avec l'anneau** ; il n'est pas un ancien passif automatiquement présent au niveau 1 astral. Niveau exact de ce nouveau déblocage **À DÉFINIR** ; ne pas imposer automatiquement 21 à toutes les vies.
+- **Livre II — DEC-148 :** Aimant est obtenu en vie 3 après un combat avec l’Anneau, puis conservé dès la Révélation à partir de la vie 4. Il n’est pas nécessaire de répéter le don ou le combat dans chaque vie.
+- **Livre III :** Hasol ne possède plus Aimant au début de la vie 13, mais sa mémoire parfaite lui rappelle comment l’obtenir. Modalités de cette nouvelle obtention **À DÉFINIR**.
 - L'ouverture des coffres et portes appartient à **Main runique**, pas à Aimant (correction explicite DEC-078). Le niveau du monstre fixe le plafond d'étoiles ; distributions conditionnelles pour le seul niveau 30 et tables de grades validées en section 5. La probabilité globale d'obtention et la dépendance éventuelle entre étoiles et grade restent inconnues.
 
 ## 19. Arcaniste Astral — futur CANON, DEC-078
@@ -533,15 +567,15 @@ Hasol reste Arcaniste runique légendaire au livre I, vingt points. Dans les nou
 | Main runique | **Actif**, ouverture des coffres et portes **sans restriction** |
 | Aura runique | **Actif** disponible dès le niveau 1 ; utilisation d'une arme à aura seulement au niveau 10, sans exception |
 
-Cette liste explicite remplace la simplification « anciens passifs seulement » et l'ancien réapprentissage rapide de Main. Elle n'accorde pas toutes les actives anciennes ni le sort offensif du niveau 40. **Aimant runique reste conditionné au combat avec l'anneau dans chaque vie ; Mémoire runique reste inaccessible avant R11**. L'accès à Croissance avant le niveau 10 ne définit pas les seuils d'admissibilité des monstres dans cette tranche.
+Cette liste explicite remplace la simplification « anciens passifs seulement » et l'ancien réapprentissage rapide de Main. Elle n'accorde pas toutes les actives anciennes ni le sort offensif du niveau 40. **Aimant suit désormais DEC-148 ; Mémoire runique reste inaccessible avant R11**. L'accès à Croissance avant le niveau 10 ne définit pas les seuils d'admissibilité des monstres dans cette tranche.
 
 ## 20. Rune temporelle et Mémoire runique — futur CANON, DEC-079
 
-- **Comptage :** vie 1 au livre I ; R1 à R11 = vies totales 2 à 12 au livre II ; vie 13 au livre III. Le livre I se termine sur l'activation, ses sons et le basculement ; le réveil de R1 ouvre le livre II. Chaque retour mène **une semaine avant la Révélation**.
+- **Comptage :** vie 1 au livre I ; R1 à R11 = vies totales 2 à 12 au livre II ; vie 13 au livre III. Le premier retour mène à la veille de la Révélation. Les suivants utilisent les points de sauvegarde variables validés par DEC-145. Après la dernière activation, la vie 13 commence à seize ans, **le jour de la Révélation** (DEC-149).
 - **Activation n (1 à 12) :** **12 DONG puis n DING**. La première quitte la vie 1 pour R1 ; à la fin de Rk, l'activation k+1 mène à la vie suivante. Les drames peuvent se répéter : ne pas imposer onze tragédies entièrement différentes.
 - **Signature visuelle :** une horloge runique avec sablier accompagne les sons ; le mécanisme progresse à chaque DONG et à chaque DING. Les détails supplémentaires proposés par ChatGPT ne sont pas des lois physiques du système.
 - Les drames provoquent la notification d'instabilité émotionnelle de l'hôte puis l'activation temporelle. **Clarification CANON de l'auteur — DEC-079 :** face à sa propre mort imminente, notamment contre le démon en R5, la détresse d'Hasol déclenche la rune **avant le coup fatal**. Raconter ce dernier instant sans instaurer une mort effective suivie d'un déclenchement post mortem : le déclencheur reste l'instabilité émotionnelle, pas la mort.
-- **Mémoire — DEC-132 :** en vie 2, Hasol ne se rappelle aucun drame de la première vie. À partir de la vie 3, chaque réincarnation apporte des fragments cumulatifs, incomplets et désordonnés des drames terminaux vécus depuis la vie 2 jusqu’à la vie précédente. Ils ne donnent ni chronologie exhaustive ni prédiction. La première vie reste entièrement inaccessible jusqu’en **R11** : dans une bibliothèque, la condition « l'hôte a lu **plus de 100 000 livres** » débloque **Mémoire runique**, qui restitue alors toutes les vies, première incluse. Le caractère cumulatif du seuil entre vies reste **À DÉFINIR**.
+- **Mémoire — DEC-132/147 :** en vie 2, Hasol ne se rappelle aucun drame de la première vie. À partir de la vie 3, chaque réincarnation apporte des fragments cumulatifs, incomplets et désordonnés des drames terminaux vécus depuis la vie 2 jusqu’à la vie précédente. Ils ne donnent ni chronologie exhaustive ni prédiction. La première vie reste entièrement inaccessible jusqu’en **R11** : **20 000 lectures cumulées entre Hasol et Ténébria au fil des vies**, ensemble ou séparément, débloquent Mémoire runique et restituent toutes les vies, première incluse. Ne pas détailler davantage la règle de comptage dans le récit ou les références courantes.
 - Le retour précis du souvenir de Zio et de son sacrifice submerge Hasol : dernière activation **12 DONG + 12 DING**, puis rune fissurée et réduite en poussière. Fin du livre II. Le livre III présente sa dernière vie, mémoire parfaite conservée et **aucun nouveau retour**. Mémoire parfaite ne signifie ni omniscience ni connaissance des conséquences inédites de ses changements.
 - Âges, niveaux, cercles, inventaires, monnaie et autres reports ne se déduisent pas de ce mécanisme. Le total de fin du II reste **À DÉFINIR** ; seul le jalon de 36 cercles en fin du III subsiste, distinct des compteurs remis à zéro.
 

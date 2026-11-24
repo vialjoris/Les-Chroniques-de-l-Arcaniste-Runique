@@ -4,14 +4,14 @@
 
 **Auteur : Joris VIAL.**
 
-Projet de roman de fantasy LitRPG en **trilogie**. Les livres I et II comportent chacun seize chapitres ; le plan détaillé du livre II est validé et actualisé jusqu’à DEC-139, avec deux drames encore ouverts. Le nombre de chapitres du livre III reste à définir.
+Projet de roman de fantasy LitRPG en **trilogie**. Les livres I et II comportent chacun seize chapitres ; le plan détaillé du livre II est validé et actualisé jusqu’à DEC-149, sans drame encore ouvert. Le nombre de chapitres du livre III reste à définir.
 
 ## Documents de référence
 
 - [`livre_1_l_ascension_d_une_legende_oubliee.md`](livre_1_l_ascension_d_une_legende_oubliee.md) : manuscrit unique du livre I, *L’Ascension d’une légende oubliée* ; chaque chapitre conserve son statut de validation propre.
-- [`livre_2_le_vertige_des_vies_oubliees.md`](livre_2_le_vertige_des_vies_oubliees.md) : manuscrit unique du livre II, *Le Vertige des vies oubliées* ; aucun chapitre n’est encore autorisé par la validation du titre.
+- [`livre_2_le_vertige_des_vies_oubliees.md`](livre_2_le_vertige_des_vies_oubliees.md) : manuscrit unique du livre II, *Le Vertige des vies oubliées* ; chapitre 1 validé et intégré avec retouches ciblées (DEC-153/154), aucun chapitre 2 autorisé. Voir [la note d’intégration](docs/integration_livre_2_chapitre_1.md).
 - [`PLAN_DIRECTEUR.md`](PLAN_DIRECTEUR.md) : plan narratif, jalons validés et questions ouvertes.
-- [`PLAN_LIVRE_II.md`](PLAN_LIVRE_II.md) : plan validé en seize chapitres pour les vies 2–12 ; scènes détaillées encore proposées et deux drames à définir avant les chapitres concernés.
+- [`PLAN_LIVRE_II.md`](PLAN_LIVRE_II.md) : plan validé en seize chapitres pour les vies 2–12, avec une courte conclusion en vie 13 ; paramètres de mise en scène encore à préparer.
 - [`docs/integration_livre_2.md`](docs/integration_livre_2.md) : audit de la nouvelle transmission mobile, décisions retenues et limites.
 - [`lore/decisions.md`](lore/decisions.md) : décisions de l’auteur et limites de leur validation.
 - [`lore/personnages.md`](lore/personnages.md) : fiches, compétences et historique des personnages.
@@ -36,6 +36,8 @@ Les fiches au niveau 60 ne remplacent pas les états de fin de livre I. Un nombr
 Ouvrir [`livre_1_l_ascension_d_une_legende_oubliee.md`](livre_1_l_ascension_d_une_legende_oubliee.md) en **aperçu GitHub** : c’est le point d’entrée principal du livre I. Les fenêtres en couleur utilisent des SVG locaux dérivés ; leur **version textuelle complète**, dépliable sous chaque fenêtre, reste dans ce même manuscrit (DEC-103). Aucune illustration narrative n’est ajoutée. GitHub filtre le CSS HTML : lier `style.css` ou ajouter des styles inline ne suffit pas à y reproduire la charte.
 
 Pour modifier une fenêtre du livre I, éditer sa source HTML textuelle dans `livre_1_l_ascension_d_une_legende_oubliee.md`, jamais les SVG à la main, puis régénérer et contrôler les dérivés. Les SVG bureau/mobile de `assets/fenetres/` doivent accompagner le Markdown lors d’une publication autorisée. Voir le [guide GitHub](docs/fenetres_github.md) pour la maintenance et les limites.
+
+Le chapitre 1 du II utilise la même charte, avec sa transcription HTML dans son propre manuscrit et deux SVG dérivés dans `assets/fenetres-livre-2/`. La génération ciblée et son contrôle sans écriture sont documentés dans le même guide ; la commande CLI par défaut continue de cibler uniquement le I.
 
 ### Export local facultatif
 

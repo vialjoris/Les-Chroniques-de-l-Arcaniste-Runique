@@ -1,35 +1,44 @@
 # Chronologie
 
+## Livre II — chapitre 1 raconté, DEC-153/154
+
+- **Quatre ans avant la Révélation d’Hasol en vie 2 :** premiers portails, Hasol douze ans/Samia environ neuf ; Samia éveille son deuxième cercle ce jour-là, puis ses cheveux deviennent argentés pendant la semaine suivante. Récit de Zéphyr ; cause inconnue.
+- **Seizième anniversaire d’Hasol :** petit déjeuner familial, Révélation astrale, niveau 1, deux cercles, 25 points ; sourire forcé d’Iseria perçu sans explication. Cinq compétences examinées à la maison, Croissance tenue secrète.
+- **Premiers jours d’Académie :** Ray meilleur ami ; programme personnalisé ; Elric 42 ans/niveau 45 ; exploration avec Zéphyr niveau 53 et rencontre de Samia treize ans. Sa Révélation et son entrée à l’Académie attendent ses seize ans.
+- **Suite :** Croissance confiée à Elric puis au directeur, adaptation confidentielle du programme, conversation avec Iseria, chasses extérieures de slimes. Aucun nouveau cercle, niveau final ou total d’éliminations attesté ; durée exacte **À DÉFINIR**.
+
+Source : `../livre_2_le_vertige_des_vies_oubliees.md` ; note `../docs/integration_livre_2_chapitre_1.md`. Seul ce chapitre du II est intégré ; les tableaux des chapitres suivants restent de la planification.
+
+**Consolidation du 24 novembre — DEC-145 à DEC-149 :** points de sauvegarde variables, tableau d’âges/niveaux/cercles, drames des chapitres 10/14, seuil de 20 000 lectures et début de la vie 13 sont validés avec corrections. Voir [l’audit consolidé](../docs/integration_mobile_2026_11_24.md). Les anciens repères incompatibles ci-dessous sont historiques.
+
 ## Tableau de référence — événements, âge d’Hasol et vies
 
 **Révision conjointe en attente de validation auteur :** le tableau canonique ci-dessous conserve les inconnues. La grille suivante propose de les organiser pour la reprise du plan II ; aucun âge ou placement proposé ne devient canon avant validation des deux documents ensemble.
 
-### Grille de travail proposée pour le livre II
+### Grille validée du livre II — DEC-145/147/149
 
-**Tous les âges et placements nouveaux de cette grille sont des PROPOSITIONS**, sauf les repères expressément notés CANON. Les âges désignent les événements, pas la durée totale d’un chapitre. Ils ne fixent ni niveaux, ni XP, ni équipement. Les drames encore ouverts ne sont pas résolus par cette grille.
+Les âges du tableau sont canoniques lorsqu’ils sont chiffrés. Les niveaux et cercles de la colonne « sauvegarde » sont les états restaurés au retour, non des cumuls entre vies. L’équipement reste à préparer.
 
-| Vie | Chapitres | Âge d’Hasol proposé ou validé | Événements dans l’ordre | Statut des ajouts |
-|---|---|---|---|---|
-| 2 / R1 | 1 | 16 ans — CANON | Révélation astrale ; Ray meilleur ami ; rencontre d’Elric | Jalons validés |
-| 2 / R1 | 2 | 16–24 ans ; rencontre de Yoon vers 19 ans, retraite d’Elric vers 24 ans — CANON | Académie, artisanat et mentorat ; présentation de Yoon après sa Révélation ; Aura sur l’épée d’Elric avant sa retraite | Placer l’usage d’Aura dans cette période : PROPOSITION ; pas d’âge précis imposé |
-| 2 / R1 | 3 | Vers 25 ans — PROPOSITION | Temps partagé avec Ray malgré des équipes distinctes ; mort de Ray face au loup alpha ; retour | Âge du premier drame proposé après la retraite d’Elric |
-| 3 / R2 | 4 | 16–25 ans — PROPOSITION | Fragments de la mort de Ray ; reprise du lien, chasses et sauvetage ou évitement du loup | Âges et étendue de l’ellipse proposés ; modalités du sauvetage ouvertes |
-| 3 / R2 | 5 | 25–32 ans — PROPOSITION | Vie partagée ; cadeau amoureux de l’anneau vers 32 ans ; Hasol demande à réfléchir ; combat avec l’anneau et Aimant ; drame de Samia avant la réponse ; retour | Vie, chapitre, âges et placement du combat proposés. Mort de Samia déjà canonique ; durée entre cadeau et drame à définir |
-| 4 / R3 | 6 | 16 ans au départ ; mort d’Orven vers 26 ans — PROPOSITION | Ray devient rare ; prévention du drame de Samia envisagée ; artisanat accéléré ; maladie non repérée d’Orven puis décès | Âge d’Orven perdu proposé ; sauvetage détaillé de Samia non validé ; ne pas résoudre son calendrier par cet âge |
-| 5 / R4 | 7 | 16–24 ans ; décès d’Armin vers 24 ans — PROPOSITION | Internat, relation heureuse avec Armin ; voyage commercial fatal ; retour | Âges proposés, distincts du calendrier de première vie |
-| 6 / R5 | 8 | Avant le voyage fatal, vers 24 ans — PROPOSITION | Vacances à trois ; Armin sauvé ; indice maternel sur le Griffon | Âge proposé ; durée et lieu ouverts |
-| 6 / R5 | 9 | Jusqu’à environ 34 ans — CANON pour le drame | Années heureuses et progression ; défaite face au démon ; retour avant le coup fatal | Ne pas déduire le niveau de l’âge |
-| 7 / R6 | 10 | Exploitation du donjon : âge ouvert ; confrontation vers 34 ans — PROPOSITION | Donjon invocateur avant le niveau 30 ; préparation face au démon ; drame terminal encore ouvert | Âge proposé de confrontation ; aucune perte nouvelle validée |
-| 8 / R7 | 11 | Annonce vers 35 ans — PROPOSITION | Vie autonome ; lecture de la mort de Ténébria, mal connue ; retour | Âge proposé, cause et support ouverts |
-| 9 / R8 | 12 | Recherche avant le drame de Samia ; victoire vers 34 ans, exécution ensuite — PROPOSITION pour les âges | Rapprochement avec Ténébria ; village sauvé ; démon vaincu ; enquête de filiation ; Iseria exécutée ; retour | Ne pas fixer la durée entre victoire et exécution |
-| 10 / R9 | 13 | Démarches avant les échéances de la vie 9 — âge À DÉFINIR | Enquête ; sollicitation de Carmela assez tôt ; protection d’Iseria | Pas d’âge inventé pour une procédure encore ouverte |
-| 10 / R9 | 14 | Vers 35 ans — PROPOSITION de repère, pas d’âge canonique de reconnaissance | Reconnaissance de la sœur ; évolution de Croissance ; coopération ; drame terminal ouvert | Repère final proposé ; séparation seulement une possibilité |
-| 11 / R10 | 15 | Jusqu’à 45 ans — CANON pour l’annonce | Vie construite ; annonce de la mort de Zio et Yoon ; retour | Ne pas faire de l’absence de couple la cause du drame |
-| 12 / R11 | 16 | Mémoire retrouvée vers 46 ans — PROPOSITION | Lecture de plus de 100 000 livres ; Mémoire runique ; toutes les vies retrouvées ; destruction de la rune | Âge proposé, rythme et cumul des lectures encore ouverts ; faisabilité à contrôler avant rédaction |
+| Vie | Chapitres | Point sauvegardé : âge / niveau / cercles | Événements dans l’ordre |
+|---|---|---|---|
+| 2 / R1 | 1–3 | Veille de la Révélation ; niveau 1 à la Révélation ; 2 cercles | Révélation astrale ; Elric ; Yoon vers 19 ans ; retraite d’Elric quand Hasol a environ 24 ans ; mort de Ray vers 25 ans |
+| 3 / R2 | 4–5 | 23 ans / niveau 24 / 16 cercles | Ray sauvé ; Anneau offert vers 32 ans, demande de réflexion, combat et Aimant ; mort de Samia avant la réponse |
+| 4 / R3 | 6 | 16 ans / niveau 1 / 2 cercles | Aimant disponible dès la Révélation ; Ray Stratège runique rare ; précautions pour Samia ; mort d’Orven vers 26 ans |
+| 5 / R4 | 7 | 21 ans / niveau 22 / 15 cercles | Vie d’internat ; mort d’Armin en voyage vers 24 ans |
+| 6 / R5 | 8–9 | 23 ans / niveau 27 / 18 cercles | Armin sauvé par les vacances à trois ; défaite contre le démon vers 34 ans |
+| 7 / R6 | 10 | 18 ans / niveau 12 / 8 cercles | Donjon invocateur avant le niveau 30 ; raid réussi ; démon survécu ; ville et demeure Shun dévastées, sort des parents inconnu |
+| 8 / R7 | 11 | 30 ans / niveau 34 / 28 cercles | Ville sauvée ; raid réaffecté à Ténébria, qui y meurt ; retour |
+| 9 / R8 | 12 | 24 ans / niveau 27 / 20 cercles | Village de Samia sauvé avec Ténébria ; démon vaincu ; Iseria exécutée |
+| 10 / R9 | 13–14 | 27 ans / niveau 31 / 23 cercles | Carmela à 28 ans ; carnets et lettres à 29 ans ; sœurs reconnues à 30 ans ; cinq années heureuses ; séparation imposée à 35 ans |
+| 11 / R10 | 15 | 32 ans / niveau 39 / 28 cercles | Vie construite ; annonce à 45 ans de la mort de Zio et Yoon |
+| 12 / R11 | 16 | 38 ans / niveau 45 / 34 cercles | Catastrophe mondiale ; 20 000 lectures cumulées vers 46 ans ; Mémoire runique ; dernier retour et destruction de la rune |
+| 13 | Conclusion du 16 | 16 ans, jour de la Révélation | Mémoire de Ténébria restaurée ; promesses parallèles ; développement réservé au III |
 
 **Choix de mise en scène soumis avec le plan :** ne montrer qu’une fois en détail le cadeau amoureux (vie 3/ch. 5). Les autres vies différencient les liens d’Hasol et Ray sans répéter automatiquement une déclaration. Dans la vie 3, Hasol hésite sincèrement ; elle ne calcule pas encore l’exploitation consciente envisagée au III. La réponse qu’elle aurait donnée reste inconnue.
 
 ### Repères validés et inconnues conservées
+
+**Complément — DEC-150 à DEC-152 :** en vie 2, chapitre 2, les premières semaines d’apprentissage de la lame impressionnent Elric. Environ trois ans après la Révélation d’Hasol, Yoon et Samia ont seize ans et passent leur Révélation dans la même cérémonie ; Hasol a environ dix-neuf ans. Samia : faible lumière violette, mais classe commune ; Yoon : légendaire dès cette vie, pas seulement à partir de la vie 4. Les deux cercles de Samia dès neuf ans et sa rencontre avec Hasol à treize ans ne sont pas validés par les seules reformulations de ChatGPT du nouvel apport.
 
 **Lecture :** la vie est le numéro absolu de l’existence ; R1 correspond à la vie 2 et R11 à la vie 12. L’âge est celui d’Hasol dans cette existence, pas un cumul des années vécues. « Environ » conserve une approximation validée ; **À DÉFINIR** signale une donnée non fixée. Les événements des livres II et III sont planifiés, non déjà rédigés. Un placement ouvert n’autorise pas à rattacher une scène à une vie par déduction.
 
@@ -57,18 +66,18 @@
 | II | Vie 5 / R4 | Ch. 7 | **À DÉFINIR** | **CANON planifié :** internat prestigieux, relation heureuse avec Armin ; voyage commercial fatal ; retour, 12 DONG + 5 DING |
 | II | Vie 6 / R5 | Ch. 8 | **À DÉFINIR** | **CANON planifié :** Hasol évite le voyage fatal d’Armin en obtenant des vacances à trois ; indice maternel sur le Griffon |
 | II | Vie 6 / R5 | Ch. 9 | Environ 34 ans | **CANON planifié :** défaite contre le démon ; retour déclenché par la détresse avant le coup fatal, 12 DONG + 6 DING |
-| II | Vie 7 / R6 | Ch. 10 | **À DÉFINIR** | Préparation face au démon **CANON** ; drame, issue et pertes **À DÉFINIR** ; 12 DONG + 7 DING prévus |
-| II | Vie 8 / R7 | Ch. 11 | **À DÉFINIR** | **CANON planifié :** Hasol lit la mort de Ténébria, qu’elle connaît peu ; retour, 12 DONG + 8 DING |
+| II | Vie 7 / R6 | Ch. 10 | Après le point sauvegardé de 18 ans | **CANON planifié :** démon survécu ; ville et demeure Shun dévastées ; sort des parents inconnu ; 12 DONG + 7 DING |
+| II | Vie 8 / R7 | Ch. 11 | Après le point sauvegardé de 30 ans | **CANON planifié :** ville sauvée ; raid réaffecté à Ténébria et perdu ; lecture de sa mort ; 12 DONG + 8 DING |
 | II | Vie 9 / R8 | Ch. 12, coopération | **À DÉFINIR** | **CANON planifié :** recherche anticipée de Ténébria ; village de Samia sauvé ensemble, puis victoire contre le démon |
 | II | Vie 9 / R8 | Ch. 12, après la victoire | **À DÉFINIR** | **CANON planifié :** enquête sur la filiation d’Hasol ; Iseria exécutée sur ordre de son frère empereur ; retour, 12 DONG + 9 DING |
-| II | Vie 10 / R9 | Ch. 13–14 | **À DÉFINIR** | **CANON planifié :** Hasol obtient l’intervention de Carmela assez tôt pour sauver Iseria ; reconnaissance de Ténébria comme sœur et évolution familiale de Croissance |
-| II | Vie 10 / R9 | Ch. 14, fin | **À DÉFINIR** | Drame terminal **À DÉFINIR**, séparation des sœurs seulement **PROPOSITION** ; 12 DONG + 10 DING prévus |
+| II | Vie 10 / R9 | Ch. 13–14 | 27–35 ans | **CANON planifié :** Carmela protège Iseria ; carnets et lettres ; reconnaissance à 30 ans ; cinq années heureuses |
+| II | Vie 10 / R9 | Ch. 14, fin | 35 ans | **CANON planifié :** Ténébria retourne au palais sous la menace contre Iseria ; 12 DONG + 10 DING |
 | II | Vie 11 / R10 | Ch. 15 | 45 ans | **CANON planifié :** annonce des morts de Yoon et Zio au cours d’un raid ; retour, 12 DONG + 11 DING |
-| II | Vie 12 / R11 | Ch. 16 | **À DÉFINIR** | **CANON planifié :** plus de 100 000 livres, Mémoire runique et restitution de toutes les vies ; dernier retour, 12 DONG + 12 DING ; rune détruite |
+| II | Vie 12 / R11 | Ch. 16 | Environ 46 ans | **CANON planifié :** 20 000 lectures cumulées entre les sœurs ; lecture décisive de Ténébria ; Mémoire runique ; dernier retour, 12 DONG + 12 DING ; rune détruite |
 | II | Vie **À DÉFINIR** parmi 2–12 | Scène obligatoire, chapitre **À DÉFINIR** | **À DÉFINIR** | **CANON — DEC-142 :** Ray amoureux offre de nouveau l’Anneau runique ; Hasol accepte mais demande encore à réfléchir à leur relation |
 | II | Même vie que le cadeau | Après le don, placement **À DÉFINIR** | **À DÉFINIR** | **CANON système :** Aimant se débloque après un combat en portant l’anneau, pas à sa seule réception ; délai non fixé |
 | II | Même vie que le cadeau | Après le don, avant la réponse | **À DÉFINIR** | **CANON — DEC-142 :** un drame survient avant la réponse sentimentale d’Hasol ; nature et lien avec un retour temporel ouverts. Ne pas inventer un drame supplémentaire |
-| III | Vie 13 / dernière vie | Réveil | 15 ans, une semaine avant la Révélation | **CANON planifié :** mémoire complète conservée ; aucune nouvelle chance temporelle |
+| II → III | Vie 13 / dernière vie | Conclusion du II puis développement au III | 16 ans, jour de la Révélation | **CANON planifié :** promesses parallèles en clôture du II ; mémoire complète conservée ; aucune nouvelle chance temporelle |
 | III | Vie 13 / dernière vie | Dilemme de l’anneau, placement **À DÉFINIR** | **À DÉFINIR** | **CANON — DEC-142 :** Hasol se rappelle le cadeau amoureux du II ; se juge horrible de vouloir exploiter les sentiments de Ray pour gagner en puissance, mais estime cela nécessaire. Passage à l’acte non fixé |
 | III | Vie 13 / dernière vie | Catastrophe mondiale | 45 ans | **CANON planifié :** catastrophe distincte du portail orange des 34 ans du I ; modalités de résolution ouvertes |
 | III | Vie 13 / dernière vie | Prologue heureux, situé après les événements principaux | **À DÉFINIR** | **CANON de cadre :** Hasol grand-mère, Zio vivant, famille heureuse ; aucun âge de grand-mère déduit |
@@ -77,7 +86,7 @@
 
 ## *Le Vertige des vies oubliées* — trajectoire future du livre II, priorité DEC-118 à DEC-139
 
-**Structure validée — DEC-130, actualisée par DEC-131 à DEC-139 :** seize titres et vies 2–12 selon `PLAN_LIVRE_II.md`, avec inversion ciblée des chapitres 11/12 et vies 8/9. Les scènes détaillées restent des propositions sauf arbitrage contraire. Les drames d’Orven et d’Iseria sont résolus ; deux drames restent **À DÉFINIR** aux chapitres 10 et 14. Cette validation n’autorise aucun chapitre.
+**Structure validée — DEC-130, actualisée jusqu’à DEC-149 :** seize titres et vies 2–12 selon `PLAN_LIVRE_II.md`, avec conclusion brève en vie 13. Les anciens drames ouverts sont résolus ; les paramètres explicitement non chiffrés restent à préparer. Cette validation n’autorise aucun chapitre.
 
 **Planification, pas événements déjà rédigés.** Audit : `../docs/integration_livre_2.md` ; seize chapitres structurés dans `../PLAN_LIVRE_II.md`. L’ancien cycle du poison et le second échec de Ray ci-dessous sont historiques, remplacés par DEC-119/123. Aucun changement au manuscrit I `../livre_1_l_ascension_d_une_legende_oubliee.md`.
 
@@ -93,15 +102,15 @@
 | Vie 4 / R3 | Chapitre 6 : Ray Stratège runique rare ; Samia sauvée ; formation accélérée, visites d’Iseria moins fréquentes, toux d’Orven non repérée, maladie puis mort. Causalité indirecte, aucune faute morale ni tisane miraculeuse ; 4 DING |
 | Vie 5 / R4 | CANON antérieur : relation heureuse avec Armin, internat prestigieux, voyage commercial fatal ; 5 DING |
 | Vie 6 / R5 | CANON : père convaincu d’annuler le voyage pour des vacances à trois ; indice maternel sur le Griffon, sans toute l’histoire. Puis défaite face au démon vers 34 ans ; retour par détresse avant le coup fatal, 6 DING |
-| Vie 7 / R6 | Chapitre 10 : préparation face au démon ; issue et éventuelles pertes **À DÉFINIR** ; 7 DING |
-| Mort de Ténébria | CANON : Hasol lit sa mort alors qu’elle la connaît peu, retour surprenant et ouverture de la découverte de sa sœur ; placement en vie 8/chapitre 11 et 8 DING VALIDÉS. Support et cause À DÉFINIR ; rapport impérial proposé |
+| Vie 7 / R6 | Chapitre 10 : démon survécu ; ville et demeure Shun dévastées ; sort des parents inconnu ; 7 DING |
+| Mort de Ténébria | Vie 8/chapitre 11 : ville sauvée, raid réaffecté à Ténébria et son équipe, échec et mort ; annonce à Hasol, 8 DING |
 | Vie 9 / R8 | Chapitre 12 : Hasol cherche Ténébria plus tôt ; ensemble elles sauvent le village de Samia et vainquent le démon. L’enquête Astrea révèle qu’Hasol est la seconde fille astrale cachée d’Iseria ; l’empereur, frère d’Iseria, la fait exécuter pour rupture supposée du pacte. Sa mort déclenche 12 DONG + 9 DING |
-| Vie 10 / R9 | Hasol convainc sa grand-mère, matriarche Astrea et garante du pacte, d’intervenir avant l’exécution. Elle menace de révéler l’accession irrégulière de l’empereur et le risque de rébellion autour du frère lésé, qui ignore encore la vérité ; Iseria survit. Reconnaissance de Ténébria et évolution familiale de Croissance canoniques ; séparation terminale proposée |
+| Vie 10 / R9 | Retour à 27 ans ; Carmela à 28 ans, carnets/lettres à 29 ans, reconnaissance à 30 ans ; cinq années heureuses, puis retour forcé de Ténébria au palais à 35 ans et retour temporel |
 | Mort des Notos | CANON : annonce à Hasol de 45 ans après une vie victorieuse ; Zio mort en protégeant Yoon lors du raid. Placement en vie 11/chapitre 15 et 11 DING VALIDÉS ; modalités du raid ouvertes |
-| Vie 12 / R11 | CANON : plus de 100 000 livres, Mémoire runique, restitution de toutes les vies, première incluse, sacrifice de Zio retrouvé ; 12 DONG + 12 DING, rune détruite. Hasol nettement plus puissante que dans le I ; niveau, total de cercles et équipement ouverts, sans jalon de 32 |
-| Livre III | Réveil de vie 13 et rouges réservés à ce livre ; catastrophe mondiale à 45 ans distincte de l’orange du I. Duo des sœurs au donjon non autorisé implicitement : minimum trois membres à arbitrer |
+| Vie 12 / R11 | 20 000 lectures cumulées entre les sœurs ; Mémoire runique, toutes les vies et sacrifice de Zio retrouvés ; 12 DONG + 12 DING, rune détruite |
+| Fin II / Livre III | Vie 13 à seize ans, jour de la Révélation ; promesses en conclusion du II, développement et rouges réservés au III ; catastrophe mondiale à 45 ans distincte de l’orange du I |
 
-**Garde-fous :** seule la veille du premier réveil est modifiée par DEC-115 ; la répétition « veille » dans ChatGPT ne change pas toutes les dates de retour. En vie 2, aucun drame du I n’est mémorisé ; à partir de la vie 3, fragments cumulatifs, incomplets et désordonnés des drames terminaux depuis la vie 2. Première vie inaccessible jusqu’à R11. Bleus synchronisés avec la première vie ; apparition, prévision ~10 h et ouverture après 48 h distinctes. État du sceau aux retours ultérieurs toujours ouvert. **Griffon Ardent/Griffon d’Argent : CONTRADICTION**. Les 50 points de donjon restent distincts des points de portails ; Yoon légendaire et Ray rare en vie 4 imposent des formations distinctes, sans relever les plafonds.
+**Garde-fous :** appliquer les points de sauvegarde variables DEC-145 ; vie 13 le jour de la Révélation. En vie 2, aucun drame du I n’est mémorisé ; à partir de la vie 3, fragments cumulatifs, incomplets et désordonnés des drames terminaux depuis la vie 2. Première vie inaccessible jusqu’à R11. Bleus synchronisés avec la première vie ; apparition, prévision ~10 h et ouverture après 48 h distinctes. **Griffon Ardent/Griffon d’Argent : CONTRADICTION**. Les 50 points de donjon restent distincts des points de portails ; Yoon légendaire et Ray rare imposent des formations distinctes.
 
 **Filiation secrète — DEC-139 :** le monde et Ténébria elle-même la croient fille biologique de l’empereur actuel et de son épouse. La vérité est connue d’Iseria, de l’ancien empereur, de Carmela Astrea, de l’empereur actuel et de son épouse. Armin a oublié toute existence de Ténébria à la suite d’un sort d’Iseria. Cette vérité n’est pas révélée au chapitre 1.
 
@@ -411,7 +420,7 @@ Les déblocages futurs, le sauvetage de Ray et les événements des livres I et 
 
 - Après le sauvetage du chapitre 10 et Œil au niveau 20, famille Corvus reconnaissante : Ray contraint à proposer une période de test, acceptation définitive libre pour Hasol, trio 35/50. Anneau runique familial remis par Ray ; plaisanterie d’Hasol sur une proposition de mariage prise littéralement, sans romance ni pardon automatique.
 - Équipement de l’anneau, combat en le portant, puis **niveau 21 : Aimant runique**. Chapitre précis à fixer ; ni obtention au 20 ni scène avancée dans les chapitres 1 à 9. Description limitée aux chances d’obtention améliorées ; effets cachés et clarification de grades à garder hors du savoir d’Hasol.
-- **Fin du I, « Dernier Retour » :** Hasol 34 ans/environ 45, seize cercles ; sacrifice de Zio 61 et mort du démon inchangés. Rune temporelle grade/étoiles inconnus ; activation en cliffhanger, **12 DONG + 1 DING**, horloge et sablier qui avance aux deux séries de sons. Le **réveil** ouvre le II, une semaine avant la Révélation, pas à la fin du I.
+- **Fin du I, historique actualisé :** Hasol 34 ans/environ niveau 45, seize cercles ; sacrifice de Zio 61 et mort du démon. Rune temporelle grade/étoiles inconnus ; **12 DONG + 1 DING**. DEC-115 place désormais le premier réveil dans l’épilogue du I, la veille de la Révélation.
 
 ### Onze réincarnations du II — notice historique antérieure à DEC-119–136
 
@@ -429,22 +438,25 @@ Les déblocages futurs, le sauvetage de Ray et les événements des livres I et 
 | R8 | 9 | Répartition à définir | 12 DONG + 9 DING |
 | R9 | 10 | Répartition à définir | 12 DONG + 10 DING |
 | R10 | 11 | Répartition à définir | 12 DONG + 11 DING |
-| R11 | 12 | Bibliothèque, plus de 100 000 livres, Mémoire runique ; retour parfait du sacrifice de Zio | 12 DONG + 12 DING ; rune détruite |
+| R11 | 12 | HISTORIQUE remplacé : ancien seuil de plus de 100 000 livres ; appliquer 20 000 lectures cumulées, DEC-147 | 12 DONG + 12 DING ; rune détruite |
 
 **Entre R5 et R11 :** défaites puis préparation croissante et victoire sur le démon, numéro de vie non fixé. Après l’avoir vaincu dans une vie à déterminer, Hasol apprend à **45 ans** la mort de Yoon et Zio en raid, membres d’un groupe parmi les plus célèbres du pays ; Zio a tenté de protéger sa sœur. Dans cette existence, Hasol n’a pas noué de relation avec lui après une défense d’Académie devenue inutile. Ni romance absente comme cause de la mort ni raid précis inventé.
 
 **Formulation historique de DEC-079/080 :** mémoire imparfaite jusqu’à R11, cauchemars et flashs de souvenirs vécus. DEC-132 la remplace par le régime précis : aucun drame du I en vie 2, puis fragments cumulatifs des drames terminaux depuis la vie 2, première vie accessible seulement en R11. Le retour avant le coup fatal reste canonique ; poison, double échec et drame ouvert de R3 sont remplacés.
 
-**Niveau 1 astral, à chaque nouvelle vie :** Bénédiction, Croissance, Œil/pièges, Main active/coffres/portes sans restriction, Aura active ; utilisation personnelle de l’arme à aura **pas avant 10**, même Hasol. Aimant à obtenir à nouveau par condition de combat avec un Anneau dans chaque vie, niveau précis ouvert. Compteurs de Croissance remis à zéro, report des cercles non fixé ; ne pas confondre avec le reliquat historique du I. Équipe astrale principale de quatre à 50/50 (25+10+10+5), pas Samia mais elle reste dans l’histoire ; composition à construire selon les vies, sans effacer Ray hors équipe en R1 ou le parcours indépendant des Notos dans leur vie fatale.
+**Niveau 1 astral :** Bénédiction, Croissance, Œil/pièges, Main active/coffres/portes sans restriction, Aura active ; arme à aura personnelle **pas avant 10**. Aimant est obtenu en vie 3 puis conservé dès la Révélation à partir de la vie 4 ; il est perdu au début du III, mais Hasol sait comment le retrouver. Les états de niveau, cercles et compteurs reviennent au point sauvegardé selon DEC-145. Les anciennes compositions à 50/50 sont à recalculer selon chaque vie.
 
-**Fin du II en R11 :** plus de 100 000 livres lus, portée du cumul entre vies à préciser ; mémoire parfaite de toutes les vies, première incluse, larmes et souvenir entier de Zio, notification d'instabilité émotionnelle puis ultime activation. Horloge, sablier, douze DONG et douze DING ; Rune temporelle fissurée puis poussière. Niveau, total de cercles et équipement **À DÉFINIR** ; l’ancien total de 32 est historique.
+**Fin du II en R11 :** 20 000 lectures cumulées entre Hasol et Ténébria, ensemble ou séparément ; mémoire parfaite de toutes les vies, larmes et souvenir entier de Zio, ultime activation, douze DONG et douze DING, puis Rune temporelle détruite. Le II montre ensuite la vie 13 le jour de la Révélation et les deux promesses ; développement au III.
 
 ### Livre III — vie 13, dernière chance et bonheur durable
 
 **Donjon des invocations — DEC-082 :** au livre II, d'autres groupes gênent l'exploitation et tuent le boss, mettant fin à la production d'invocations entretenue par Hasol ; vies, dates et groupes à préciser. Forte de cette difficulté, elle fait tout au livre III pour **privatiser ce donjon**. Modalités, moyens, coût, calendrier et résultat ouverts ; ne pas placer une privatisation accomplie au début du III ni inventer une réapparition du boss.
 
 - Prologue : Hasol grand-mère célèbre pour sa classe astrale, Zio vivant, couple et famille heureux ; petit-fils réclame son histoire au coucher. Elle raconte sa dernière vie ; détails de descendance ouverts, texte proposé non validé mot pour mot.
-- Récit principal : réveil une semaine avant la Révélation, mémoire parfaite des douze vies ; déduction dès le début d’une **catastrophe mondiale l’année de ses 45 ans**. Préparation sans relâche du monde et des alliés, pas omniscience sur les conséquences nouvelles.
+- Récit principal : suite de la vie 13 commencée le jour de la Révélation, mémoire parfaite des douze vies ; déduction d’une **catastrophe mondiale l’année de ses 45 ans**. Préparation sans relâche du monde et des alliés, pas omniscience sur les conséquences nouvelles.
+- Premier mannequin : Hasol retrouve son sort de zone en reproduisant précisément sa sensation d’utilisation. Au niveau 40, **Bouclier runique** personnel. Paramètres à préparer.
+- Samia évolue en **Exécutrice astrale légendaire**, dagues principales et arc conservé ; futur passif 25→15 pour Astrale et 20→10 pour Légendaire. Niveau et modalités à définir, sans effet rétroactif sur les équipes du II.
+- Runes astrales : sort de révélation d’Hasol ; activation irréversible, aucun emplacement ni amélioration. Nombre, limites d’usage et ressources liées au pouvoir à arbitrer au cas par cas et à rappeler à l’auteur lors de la préparation du III.
 - Aucune nouvelle réinitialisation ; amour réciproque à reconstruire avec Zio sans souvenirs, mariage, enfants, petits-enfants, bonheur durable. Nombre de chapitres, titre, nature et cause de catastrophe, lien éventuel avec démon et résolution précise **À DÉFINIR**. La crise des 34 ans du I n’est ni déplacée ni supprimée.
 - 36 cercles/emplacements de fin du III maintenus, pas de niveau ou d’équipement déduit. Le lecteur connaît déjà au II les solutions de Ray/père et la victoire sur le démon ; méthode pour protéger les Notos et sauver le monde à construire.
 
