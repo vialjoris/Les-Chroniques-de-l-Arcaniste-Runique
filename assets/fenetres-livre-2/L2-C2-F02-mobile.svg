@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="224" viewBox="0 0 320 224" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="312" height="214" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="217" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="104.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nouvelle</text>
+<text x="160.76" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="149.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">compétence</text>
+<text x="205.04" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="210.44" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">passive</text>
+<text x="56.00" y="124.20" font-size="24" font-weight="700" fill="#A17B35" textLength="97.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">acquise.</text>
+<path d="M20 148.79999999999998h280" stroke="#D8BF8F"/>
+<text x="20.00" y="185.80" font-size="18" font-weight="400" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Lame</text>
+<text x="69.68" y="185.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="74.00" y="185.80" font-size="18" font-weight="400" fill="#242424" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique.</text>
+</svg>

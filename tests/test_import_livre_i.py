@@ -5,7 +5,10 @@ from pathlib import Path
 import re
 import unittest
 
-from lecture_support import Document, compact, digest, manifest, historical_prefix
+from lecture_support import (
+    APPROVED_OEIL_CORRECTIONS, Document, before_approved_oeil_corrections,
+    compact, digest, manifest, historical_prefix,
+)
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -90,10 +93,24 @@ class ImportLivreITests(unittest.TestCase):
         cls.archive = (ROOT / "docs/new.txt").read_text(encoding="utf-8")
 
     def test_corps_des_chapitres_1_a_12_identiques_a_l_avant_import(self):
+        original_parts = chapters(before_approved_oeil_corrections(self.source))
         for number, expected in BEFORE_IMPORT.items():
             with self.subTest(chapitre=number):
                 self.assertIn(number, self.parts)
-                self.assertEqual(digest(self.parts[number]), expected)
+                self.assertEqual(digest(original_parts[number]), expected)
+
+    def test_correction_oeil_dec168_exacte_et_limitee_a_095_et_orven(self):
+        windows = {window.attrs.get("data-window-id"): window
+                   for window in Document(self.source).windows}
+        window = windows["095"]
+        self.assertIn(window.start, range(
+            self.source.index("# Chapitre 10 —"), self.source.index("# Chapitre 11 —")))
+        for index, (before, after) in enumerate(APPROVED_OEIL_CORRECTIONS):
+            with self.subTest(correction=index):
+                self.assertEqual(self.source.count(after), 1)
+                self.assertNotIn(before, self.parts[10])
+                target = self.source[window.start:window.end] if index == 0 else Document(self.parts[10]).outside_windows()
+                self.assertIn(after, target)
 
     def test_section_xi_13_conserve_la_source_narrative(self):
         start = self.archive.index("XI. La nuit où tout a changé")
@@ -199,6 +216,35 @@ class ImportLivreITests(unittest.TestCase):
 
 
 class ImportMutationTests(unittest.TestCase):
+    def test_dec168_ne_masque_aucune_autre_alteration_du_chapitre_10(self):
+        source = (ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md").read_bytes().decode("utf-8")
+        expected = BEFORE_IMPORT[10]
+        self.assertEqual(digest(chapters(before_approved_oeil_corrections(source))[10]), expected)
+        after_window, after_dialogue = [after for _, after in APPROVED_OEIL_CORRECTIONS]
+        adjacent = "  <p>Ne garantit pas la réussite des tentatives d'amélioration.</p>"
+        mutations = {
+            "secondaire non prédéterminée": source.replace("Leur nature est prédéterminée", "Leur nature est aléatoire", 1),
+            "palier modifié": source.replace(after_window, after_window.replace("+15", "+12"), 1),
+            "réplique altérée": source.replace(after_dialogue, after_dialogue.replace("tes propres", "mes propres"), 1),
+            "paragraphe voisin supprimé": source.replace(adjacent, "", 1),
+            "correction dupliquée": source.replace(after_dialogue, after_dialogue + "\n\n" + after_dialogue, 1),
+            "narration ajoutée": source.replace(after_dialogue, after_dialogue + "\n\nHasol était invincible.", 1),
+        }
+        for label, changed in mutations.items():
+            with self.subTest(mutation=label):
+                self.assertNotEqual(changed, source)
+                self.assertNotEqual(digest(chapters(before_approved_oeil_corrections(changed))[10]), expected)
+
+    def test_inverse_dec168_ne_touche_pas_les_autres_chapitres_ni_les_doublons(self):
+        for before, after in APPROVED_OEIL_CORRECTIONS:
+            with self.subTest(correction=before[:60]):
+                source = f"# Chapitre 9 — Avant\n{after}\n# Chapitre 10 — Œil\n{after}\n# Chapitre 11 — Après\n{after}\n"
+                expected = f"# Chapitre 9 — Avant\n{after}\n# Chapitre 10 — Œil\n{before}\n# Chapitre 11 — Après\n{after}\n"
+                self.assertEqual(before_approved_oeil_corrections(source), expected)
+                self.assertEqual(before_approved_oeil_corrections(expected), expected)
+                duplicated = f"# Chapitre 10 — Œil\n{after}\n{after}\n"
+                self.assertEqual(before_approved_oeil_corrections(duplicated), duplicated)
+
     def test_suppression_modification_et_inversion_des_paragraphes_detectees(self):
         first = "Hasol contemplait la capitale silencieuse, les maisons encore endormies et le jardin de son enfance. Elle retrouva le courage de regarder le monde sans détourner les yeux."
         second = "Zio lui tendit la main sans prononcer une parole. Elle reconnut ce geste familier et sentit sa peur refluer tandis que leurs compagnons attendaient au bas du grand escalier."

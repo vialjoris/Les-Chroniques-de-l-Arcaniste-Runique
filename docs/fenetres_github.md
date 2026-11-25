@@ -130,14 +130,17 @@ automatiquement. Aucun autre drapeau de génération n’est supposé ici.
 
 ## Export local facultatif
 
-### Fenêtre du livre II — import DEC-153
+### Fenêtres du livre II — imports DEC-153 et DEC-171
 
 Le point d’entrée CLI de `generer_fenetres.py` reste celui du livre I. Pour le
-chapitre 1 du II, la même fonction de génération `produire` est utilisée sans
+manuscrit du II, la même fonction de génération `produire` est utilisée sans
 modifier ce point d’entrée, avec des dérivés isolés dans
 `assets/fenetres-livre-2/`. Ne pas déposer ces images dans le répertoire du I :
 son contrôle les considérerait comme obsolètes. La source HTML reste dans
-`livre_2_le_vertige_des_vies_oubliees.md` et l’identifiant est `L2-C1-F01`.
+`livre_2_le_vertige_des_vies_oubliees.md`. Le chapitre 1 conserve `L2-C1-F01` ;
+les fenêtres du chapitre 2 ont leurs identifiants stables `L2-C2-F…`.
+Les commandes ci-dessous découvrent toutes les fenêtres du manuscrit,
+sans maintenir une liste séparée de leurs identifiants.
 
 Régénération ciblée depuis la racine (dépendances déjà installées) :
 
@@ -176,7 +179,7 @@ PY
 ```
 
 Ces commandes ne modifient ni ne publient le livre I. Toute publication autorisée
-du II doit inclure ses deux SVG dérivés et son manuscrit ; la transcription HTML
+du II doit inclure tous ses SVG dérivés et son manuscrit ; la transcription HTML
 dépliable reste lisible sans dépendre des couleurs.
 
 `scripts/generer_lecture.py` extrait la source des fenêtres pour produire

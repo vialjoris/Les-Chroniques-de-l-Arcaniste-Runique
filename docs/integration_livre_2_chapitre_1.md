@@ -1,5 +1,11 @@
 # Livre II — intégration du chapitre 1 validé
 
+**Réponse à la relecture — DEC-171 :** l’auteur choisit « À relire d’abord » pour les ajouts de Croissance ci-dessous, puis confirme qu’il fera les relectures **après l’ajout du chapitre 2**, désormais validé et autorisé séparément. Ces ajouts restent donc en place et à relire ; aucune réécriture du chapitre 1 n’est faite pendant cet ajout. Voir `integration_livre_2_chapitre_2.md`.
+
+**Retouche ultérieure — DEC-159, 25 novembre 2026 :** à la demande transmise dans `docs/new.txt:85176–85250`, les sections III et VII présentent désormais les trois compteurs de Croissance dès la Révélation puis leur explication à Elric : mille monstres admissibles hors portails, cent boss de donjon personnels, cinq mille démons personnels. Seul le compteur des mille impose des prérequis de niveau d'ennemi. Aura, neuf sections, fenêtre et reste des scènes préservés ; aucun gain nouveau. Ces ajouts sont à relire, distincts de la validation antérieure DEC-156 ci-dessous. Voir `integration_mobile_2026_11_25.md`. Aucun chapitre 2 intégré ni publication.
+
+**Validation finale — DEC-156 :** après les retouches locales et la correction DEC-155 sur les raids de portails, l’auteur confirme « ok je valides le chapitre 1 ». La version locale complète est validée ; les mentions ci-dessous de retouches à relire décrivent l’étape précédente. Aucun manuscrit modifié lors de cet enregistrement, aucun chapitre 2 ni commit/push autorisé.
+
 ## Autorisation et provenance
 
 - **Auteur, session locale du 24 novembre 2026 :** « le chapitres 1 est validé mais tu as des petite modification a faire », puis nouvelle actualisation de `docs/new.txt`.

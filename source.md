@@ -1,5 +1,9 @@
 # Sources et inspirations
 
+## Livre II — chapitre 2 validé, DEC-170/171
+
+**Source interne, pas inspiration externe :** dernière version de « Les prodiges de l’Académie », `docs/new.txt:103069–108183`, douze sections, explicitement sélectionnée par « Je valide le texte » puis GO d’intégration dans la session locale du 25 novembre 2026. L’auteur annonce ses relectures après l’ajout. Les arbitrages du questionnaire confirment Ranger astral de rang Commun, Bénédiction 45 % / 25 % au 20 et Vague sur les PV maximaux de Yoon avec auto-ciblage possible. Voir `docs/integration_livre_2_chapitre_2.md` pour provenance, périmètre de mise en forme et contrôles. Archive conservée intacte ; aucun chapitre 3 ni publication. Les ajouts de Croissance au chapitre 1 restent à relire, distincts de sa validation antérieure ci-dessous.
+
 ## Livre II — chapitre 1 validé, DEC-153/154
 
 Source interne : `docs/new.txt:77399–79503`, complétée par la demande auteur `79505` et sa validation dans la session locale du 24 novembre 2026. Texte complet reçu et intégré dans `livre_2_le_vertige_des_vies_oubliees.md`, sans duplication du I ; détails et retouches dans `docs/integration_livre_2_chapitre_1.md`. Samia argentée, deuxième cercle aux premiers portails et Zéphyr Ranger niveau 53/père/enseignant sont attestés par ce texte validé, non par les annotations des visuels. Les réserves historiques sur ces faits sont levées ; cause du changement et rareté de Zéphyr restent ouvertes. Aucun chapitre 2 ni publication autorisé.

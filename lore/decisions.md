@@ -1509,7 +1509,7 @@
 - **Chapitre 11 / vie 8 :** la ville est sauvée grâce aux nouvelles affectations. Le raid réussi dans la vie précédente par Hasol, Yoon et leur groupe est confié à Ténébria et son équipe ; il échoue et Ténébria meurt. La réaction incompréhensible d’Hasol déclenche le retour sans révéler encore la parenté.
 - **Vie 10, chapitres 13–14 :** retour à 27 ans ; rapprochement avec Carmela à 28 ans ; carnets de grossesse et lettres d’Iseria à 29 ans ; reconnaissance de Ténébria comme sœur à 30 ans ; cinq années heureuses auprès des Shun ; à 35 ans, l’empereur menace Iseria et contraint Ténébria à retourner au palais. Ténébria accepte pour protéger sa famille véritable ; Hasol ne supporte pas la séparation et revient. Le drame du chapitre 14 n’est plus ouvert.
 - **Samia au II :** présence centrale dans les aventures et le quotidien ; dès sa Révélation, carte virtuelle des portails, prévision d’environ dix heures et connaissance de leur couleur. Détection des pièges et déverrouillage préservés. À la connaissance d’Hasol, Samia est seule à connaître la couleur avant apparition. Les portails **s’ouvrent 48 h après leur manifestation** : ce délai n’est pas une durée universelle de résolution.
-- **Éléments réservés au III validés comme trajectoires :** sort de zone d’Hasol retrouvé au premier mannequin par mémoire gestuelle ; Bouclier runique personnel au niveau 40 ; évolution de Samia en **Exécutrice astrale légendaire**, dagues principales et arc conservé ; passif futur réduisant de dix points le coût d’équipe des classes Astrales et légendaires (25→15, 20→10). Noms déjà fixés conservés ; autres paramètres et scènes restent à préparer. Cette réduction future ne modifie aucune équipe du II et ne supprime pas le minimum de trois membres en donjon.
+- **Éléments réservés au III validés comme trajectoires :** sort de zone d’Hasol retrouvé au premier mannequin par mémoire gestuelle ; Bouclier runique personnel au niveau 40 ; évolution de Samia en **Exécutrice astrale légendaire** (rang historique **remplacé par Astral dans DEC-160**), dagues principales et arc conservé ; passif futur réduisant de dix points le coût d’équipe des classes Astrales et légendaires (25→15, 20→10). Noms déjà fixés conservés ; autres paramètres et scènes restent à préparer. Cette réduction future ne modifie aucune équipe du II et ne supprime pas le minimum de trois membres en donjon.
 - **Autres éléments du récapitulatif validés :** présence centrale de Ray, montée de la catastrophe mondiale au chapitre 16 et trajectoires des chapitres selon le plan consolidé. Croissance reste disponible au niveau 1 dans les vies astrales.
 - **Limites :** paramètres de scènes, combats, équipements et compétences non chiffrés restent à préparer. Les corrections postérieures sur Aimant, Mémoire, frontière II/III et Runes astrales priment le texte mobile correspondant.
 
@@ -1583,6 +1583,128 @@
 - **Fait raconté :** Elric répond « Plus d’une fois » et souligne le danger de ces opérations. Hasol demande à l’accompagner ; sa réaction amusée souligne l’impatience de son élève. Aucun raid précis, couleur de portail, exploit ou résultat passé n’est inventé.
 - **Jalon futur du chapitre 2 :** Elric refusera de laisser Hasol participer à des raids de portails ou affronter des boss avant le niveau 20. Il s’agit de sa limite d’encadrement pour Hasol, pas d’une condition universelle d’accès au système ni d’une autorisation automatique dès le niveau 20.
 - **Limites :** reste du chapitre préservé ; aucune fenêtre, statistique ou règle d’équipe modifiée. Le jalon futur n’est pas encore raconté et n’autorise pas la rédaction du chapitre 2. Aucun changement au I, à l’archive ou à la scène d’Iseria ; aucun commit/push.
+
+## DEC-156 — Validation du chapitre 1 du II après les corrections locales
+
+- **Statut : VALIDÉ — CANON.** Après l’intégration, les retouches de continuité et le remplacement de l’échange sur les dragons par les raids de portails (DEC-155), l’auteur confirme dans la session locale : « ok je valides le chapitre 1 ».
+- **Périmètre :** version actuelle de « Une Astrale nommée Hasol », neuf sections I–IX, dans `livre_2_le_vertige_des_vies_oubliees.md`, fenêtre de Révélation comprise. La validation inclut le sourire forcé d’Iseria, les raccords d’âge de Samia, la distinction d’Aura/porteur et le dialogue corrigé avec Elric.
+- **Conséquence :** les retouches locales ne sont plus en attente de relecture. Préserver désormais cette version ; toute nouvelle révision exige une autorisation ciblée. Aucun changement du manuscrit lors de la consignation.
+- **Limites :** aucun chapitre 2 autorisé, aucune validation supplémentaire de ses propositions ni résolution implicite des paramètres de système encore ouverts. Aucun commit/push autorisé.
+
+## DEC-157 — Trois années d’évolution avant les Révélations du chapitre 2
+
+- **Statut : CANON — précision directe de l’auteur dans la session locale.** « il faut prevoir une evolution de 3 ans dans le chapitre 2 avant la revelation de yoon et samoa » ; « samoa » désigne ici Samia dans le contexte de la cérémonie commune déjà fixée.
+- **Décision :** le chapitre 2 développe trois années d’évolution avant les Révélations de Yoon et Samia : Hasol de seize à dix-neuf ans, les deux autres de treize à seize ans. Ne pas juxtaposer uniquement les premières semaines d’entraînement et la cérémonie ; rendre sensible la durée de la formation, du travail et des relations.
+- **Limites :** ne fixe ni scènes intermédiaires, ni niveaux/XP, cercles, inventaire ou dates de déblocage supplémentaires. Le prodige à l’épée après quelques semaines reste au début de cette période. La retraite d’Elric demeure huit ans après la rencontre, vers les vingt-quatre ans d’Hasol : elle n’est pas ramenée à cette évolution de trois ans ; placement narratif ultérieur à organiser.
+- **Portée :** actualisation du plan et de la chronologie uniquement ; chapitre 1 validé inchangé, aucun chapitre 2 rédigé ou autorisé par cette précision, aucun commit/push.
+
+## DEC-158 — Réception des refontes du chapitre 2 et portée des GO mobiles
+
+- **Actualisation DEC-171 :** l’auteur valide ensuite explicitement la dernière version `103069–108183` et donne le GO d’intégration locale. Le statut non validé/non intégré ci-dessous décrit la réception initiale ; aucune autorisation de chapitre 3 ou publication n’en découle.
+
+- **Statut : rédaction mobile AUTORISÉE, texte final NON VALIDÉ.** Auteur `docs/new.txt:79727`, `85937`, `86343`, `92068`, `97489`, `103055–103057`. Ces demandes dépassent les notices historiques DEC-156/157 interdisant encore la rédaction mobile du chapitre 2 ; elles ne valident pas toutes les réponses produites.
+- **Dernier texte :** `103069–108183`, douze sections, « Les prodiges de l'Académie », proposition explicitement désignée à `108189`. Aucun « je valide » final ; les versions antérieures sont remplacées dans la conversation, pas intégrées au manuscrit.
+- **Application :** réception et décisions dans `docs/integration_mobile_2026_11_25.md`. Source du II maintenue avec son chapitre 1 validé seulement, sans brouillon concurrent. Aucun chapitre 3 ni commit/push autorisé.
+
+## DEC-159 — Progression des compétences d'Hasol dans les vies astrales
+
+- **Actualisation DEC-170 :** les valeurs intermédiaires de Bénédiction au niveau 20, **45 % / 25 %**, sont désormais explicitement validées. La réserve numérique ci-dessous est historique. Les ajouts de Croissance au chapitre 1 restent à relire selon DEC-171.
+
+- **Statut : CANON pour les arbitrages auteur ; chiffres intermédiaires À DÉFINIR.** Source : `docs/new.txt:83675–84059`, surtout `83844`, `83920/83947`, `83989/84036`, puis `85110`.
+- **Lame runique :** passif d'escrime obtenu par la maîtrise pendant les entraînements avec Elric, pas par un niveau fixe. Conservé dès les Révélations suivantes à seize ans, III inclus. Effets chiffrés et transfert d'autres compétences non déduits. Ce n'est pas l'ensemble Lame supprimé.
+- **Bénédiction :** évolutions aux niveaux **20 puis 30**, remplaçant la suggestion initiale d'un palier à 10. Au 30, réduction relative du risque d'échec **60 %** et réduction de moitié du risque de résultat non maximal ; pas de garantie de réussite. Les **45 % / 25 % au 20** proviennent de ChatGPT et restent **PROPOSITION**, non arbitrage numérique explicite.
+- **Siphon :** même sort de zone avec vol de Mana au niveau **40** du II que dans le I. Au III, disponible dès le **niveau 1** ; le palier 40 donne un bouclier **personnel uniquement**, nom « Bouclier runique » déjà retenu. Paramètres non fixés inchangés.
+- **Aura :** évolution au niveau **50**, durée d'Infiltration **30→300 secondes**, à regagner dans **chaque vie, III inclus**. Le critique reste celui du **lancement d'Aura**, jamais une frappe ordinaire. Coût 200 Mana, rune détruite, aura normale jusqu'à 24 h conservés. Auteur `85110` permet de ne révéler l'information critique qu'au **niveau 10** au II ; la généralisation détaillée à toutes les vies proposée ensuite par ChatGPT n'est pas validée séparément.
+- **Croissance — auteur `85176`, message de transfert `85180–85248`, précision `85250` :** les prérequis de **niveau d'ennemi** concernent seulement les mille monstres ; cent boss de donjon et cinq mille démons n'en ont pas. Élimination personnelle, compteurs distincts, cumul admissible des boss et limite de sécurité d'Elric inchangés. Retouche ciblée appliquée aux sections III/VII du chapitre 1 : trois compteurs lisibles dès la Révélation, puis expliqués à Elric. Autres scènes, Aura, neuf sections et gains inchangés ; nouveaux ajouts à relire, sans annuler la validation du texte antérieur. Seuils exacts avant dix non inventés.
+
+## DEC-160 — Samia et Yoon : nouveaux pouvoirs et rangs du III
+
+- **Actualisation DEC-170 :** nom de classe de Samia au II confirmé **Ranger astral**, rang **Commun**. La réserve de nom ci-dessous est résolue, sans transformer Samia en Astrale au II.
+
+- **Statut : CANON dans le périmètre des messages auteur.** `docs/new.txt:84208`, `84285`, `84309`, `84392/84406`, `91730` ; rappel `108232`.
+- **Samia au II :** rang **Commun**, Cartographie des portails directement, **Coup astral**, monocible de **Ténèbres**, coût faible et dégâts faibles non chiffrés, capable de blesser une cible invulnérable si l'attaque l'atteint. Ne retire pas l'invulnérabilité et ne traverse pas automatiquement les interceptions. Préférence progressive pour les dagues, arc conservé. Classe « Ranger astral » suggérée par l'auteur, affichage « Ranger » dans les refontes : **nom à confirmer**, rang commun non contesté.
+- **Samia au III : rang Astral**, remplace le rang légendaire de DEC-144 sans supprimer implicitement son futur passif de réduction des points. **Danse astrale** : tourbillon de lames, dégâts de Ténèbres en zone pénétrant la Défense et retirant les bonus bénéfiques, dont l'invulnérabilité. Paramètres et limites à définir ; pas de dissipation rétroactive par Coup astral au II. Cartographie évolue avec les niveaux jusqu'à **tous les portails du monde**, niveaux/portées intermédiaires ouverts.
+- **Yoon au III : rang Astral et cheveux blancs**, en lien avec la perte de Zio. Nouvelles compétences non inventées. Rang légendaire du II conservé.
+- **Révélation au III :** les drames vécus sont liés à la naissance des êtres Astraux : enlèvement de Ténébria, vies d'Hasol, village de Samia, perte du frère de Yoon. Auteur `84309/84443`. Ne pas révéler au chapitre 2 ni inventer une formule universelle de conversion de toute souffrance en rareté.
+
+## DEC-161 — Vague runique légendaire et formations de vie 2
+
+- **Actualisation DEC-170 :** soin sur les **PV maximaux de Yoon**, avec **auto-ciblage possible** lorsqu’elle possède le plus faible pourcentage de PV du groupe. Les réserves correspondantes ci-dessous sont résolues.
+
+- **Statut : CANON pour l'ajout et les compositions demandées ; précisions de calcul À CONFIRMER.** Auteur `docs/new.txt:85835`, `85871`, correction `85905`, puis `85939–85941`.
+- **Vague au II :** ajoute un soin à l'attaque de la Yoon légendaire. Soin égal à **5 % des PV de Yoon**, vers le membre du groupe au plus faible **pourcentage de PV actuels**, pas 5 % des PV du bénéficiaire. La base **PV maximaux** et la possibilité de se cibler elle-même sont proposées par ChatGPT, à confirmer. Paramètres offensifs établis conservés, pas de guérison instantanée de toutes les blessures.
+- **Formation :** Hasol est en avance de niveau sur Yoon dans cette vie, contrairement au I. Trio Hasol/Yoon/Elric à **50 points** ; Samia remplace Elric à sa retraite, trio Hasol/Yoon/Samia à **50 points**, trois membres. Ray et Zio interviennent surtout dans les **raids de portails**, pas ajoutés au trio au-delà du plafond. Ces décisions ne modifient pas les équipes du I ni les sauvegardes.
+
+## DEC-162 — Deux ensembles Vol de vie et équipement du II
+
+- **Statut : CANON pour la trajectoire auteur**, `docs/new.txt:85942`, `86024/86044`, `86085`, `86114`, `86310`.
+- **Livre II entier :** deux ensembles **Vol de vie**, puis deux **Arcanique**, deux **Vitesse**, ensuite Énergie/Gardien et emplacements restants Fatal ; trajectoire progressive, pas équipement intégral dès le chapitre 2 ni inventaire final figé.
+- **Remise :** le jour du **huitième cercle**, après la chasse aux slimes, huit runes **Vol de vie rares (bleues), 4★, +6**, deux ensembles de quatre, dans le bureau du directeur avec Elric, directeur et Iseria. Affixes principalement orientés Attaque, PA et Vitesse ; chiffres individuels **À DÉFINIR**. Pourcentage par ensemble et cumul autonome non fixés ici.
+- **Cadeaux paternels :** stockés avec l'accord d'Armin, pas vendus ni sacrifiés ; rééquipement quand les cercles le permettent. Ne pas attribuer leurs affixes du I à de nouvelles fiches sans confirmation ni inventer les dates intermédiaires. Aucun nouvel ID individuel créé avant sélection du texte.
+
+## DEC-163 — Iseria finance secrètement la formation et les runes
+
+- **Statut : CANON — auteur `docs/new.txt:86085`, `86114`, `86193`, `86235`, `86310`.** À l'inscription, Iseria obtient un engagement de confidentialité sur Croissance en échange d'un soutien financier. Elle fournit réellement les huit runes de DEC-162.
+- **Secret au II :** Hasol ignore l'accord **et** l'origine maternelle des pierres ; surprise de voir Iseria à la remise. Scène avant l'entrée d'Hasol autorisée pour donner au lecteur des indices, sans révélation explicite ni dialogue imposé par les propositions de ChatGPT.
+- **Au III :** Hasol comprend seule grâce à sa connaissance du statut de sa famille maternelle. Pas d'aveu anticipé ou d'omniscience rétrospective. Chapitre 1 validé non réécrit par cette seule décision.
+
+## DEC-164 — Chapitre 15 : Yoon survit, retour à l'enterrement de Zio
+
+- **Statut : CANON — remplace le double décès antérieur.** Auteur `docs/new.txt:84443`, `85006`, `85028`, puis validation `85057`.
+- **Vie 11 / R10, chapitre 15, Hasol 45 ans :** Zio meurt ; **Yoon survit et tient son corps sans vie**. La mort de Zio seule suffit à déstabiliser Hasol. Le retour survient **à l'enterrement**, où Hasol vient soutenir Yoon, pas immédiatement à l'annonce ni devant le corps après le raid. **12 DONG + 11 DING** et chronologie globale conservés.
+- **Conséquence :** perte du frère préparant la future évolution astrale de Yoon. Modalités du combat, dialogues et durée avant les funérailles non validés par les développements de ChatGPT. Aucun changement du sacrifice final du livre I.
+
+## DEC-165 — Savoir runique et la pièce secrète d'Iseria au III
+
+- **Statut : CANON — auteur `docs/new.txt:91395–91396`, `91477`, validation `91544`, ajout `91586`.** Iseria est une **Astrae de rang Rare**, pas Astrale par assimilation de son origine.
+- **Scène future :** Hasol se souvient de la rune orange +9 du I, ouvre la pièce verrouillée avec Main, découvre une collection de runes légendaires de tous rangs d'étoiles. Iseria la surprend, explique ses expériences et présente **Savoir runique**. Un livre sur les Runes astrales s'y trouve ; Iseria en est l'interprète. Date, dialogues et détails non arbitrés ouverts.
+- **Pouvoir :** élever la rareté d'une rune par sacrifice de **deux runes de la rareté visée**, de tout type ; même principe pour les étoiles, par exemple 4→5 avec deux 5★. Conservation des caractéristiques et renforcements déjà acquis des runes d'Hasol validée. Ne pas inventer coût, taux de réussite, recalcul des principales, nouvelles secondaires ou action sur une Rune astrale, non améliorable selon DEC-143.
+- **Limites :** rune orange +9 du I **prêtée puis rendue intacte**, pas cadeau équipé malgré la reformulation de ChatGPT. Aucun inventaire rétrospectif modifié. Bleu→orange : deux transitions ordinaires, pas trois.
+
+## DEC-166 — Clôture de la Brèche et cycle des portails
+
+- **Actualisation DEC-170 :** douze Runes astrales **uniques et distinctes**, même effet de clôture, **prérequis d’obtention différents**, **douze usages chacune**. L’unicité est maintenue ; les prérequis seront définis lors du plan du III, pas dans cet import. La réserve d’articulation ci-dessous est résolue, pas les acquisitions, ressources ou autres paramètres ouverts.
+
+- **Statut : CANON pour les règles explicites, stratégie détaillée À PRÉPARER.** Auteur `docs/new.txt:91643`, `91730`, `91771`, `91838`, `91869`, `91886`, `91919`, `91953`.
+- **Livre III :** Rune astrale de clôture fermant un portail **sans tuer le boss**. Tous les portails fermés en même temps permettent de refermer la **Brèche**. Hasol cherche **douze runes**, **douze utilisations chacune** ; maximum mondial **120 portails simultanés**, lié à la quantité de Mana mondiale. Les 144 usages sont une capacité théorique, pas douze acquisitions ou une victoire déjà réalisées.
+- **Articulation À DÉFINIR :** douze exemplaires de clôture et unicité de chaque Rune astrale (DEC-143), modalités d'obtention, ressources et nombre d'usages restants ; aucun mécanisme de fabrication, clonage ou sceau différé validé par déduction.
+- **Après mort du boss :** portail disparu ; retour **au plus tôt après 72 h**, éventuellement 200 h ou davantage, à une **localisation aléatoire**. Ce délai concerne le portail disparu, pas un moratoire mondial ; autres manifestations possibles. Délai après fermeture magique non défini. La **première apparition ne change jamais**, ne pas confondre avec les réapparitions ; cela ne confère pas à Hasol la connaissance de ce qu'elle n'a pas observé.
+- **Savoir :** Ténébria connaît le délai par ses lectures en bibliothèque (« impartiale » dans l'archive, appellation à confirmer). Iseria interprète le livre de clôture ; Samia acquiert la cartographie mondiale avec ses niveaux. Ces savoirs ne sont pas révélés au chapitre 2.
+- **Invariants :** ouverture 48 h après manifestation, absence de rouges au II et catastrophe mondiale du III à **45 ans** inchangées. Les 46 ans et la catastrophe déjà vécue des réponses ChatGPT ne sont pas adoptés.
+
+## DEC-167 — Enfants légendaires et Hasol grand-mère au III
+
+- **Statut : CANON — auteur `docs/new.txt:91980`, `92022`.** Hasol et Ténébria auront des enfants, chasseurs **légendaires**, pas Astraux car sans drame dans leur vie ; raccord avec la scène d'Hasol grand-mère.
+- **À DÉFINIR :** nombre, identités, autres parents, naissances, classes précises, niveaux et scènes. Ne pas identifier automatiquement ces enfants à celui de la grossesse du I, dont le devenir demeure ouvert. Ni hérédité automatique de rareté ni suppression des enjeux du III déduites.
+
+## DEC-168 — Œil : correction du I et réserve sacrificielle chez Orven au II
+
+- **Statut : CANON pour les demandes ciblées — auteur `docs/new.txt:97243`, `97371`, `97427`, `102888`, `103057`.** Orven doit reconnaître la révolution artisanale de l'Œil. Nature des secondaires à découvrir identique quel que soit l'artisan, valeurs exactes prédites conditionnelles aux améliorations d'Hasol : confirmation de DEC-097, pas pouvoir nouveau.
+- **Livre I :** demande conditionnelle de correction exécutée au **chapitre 10**, fenêtre `095` et une réplique d'Orven. Chapitre 9 cité à tort par ChatGPT non modifié ; pas d'expérience nouvelle ajoutée ni de changement aux résultats de l'essai existant. SVG dérivés régénérés.
+- **Livre II :** dès la rencontre d'Orven, recherche de runes de faible valeur pour Aura, dont Hasol connaît le coût. L'idée d'en préparer à l'avance vient d'Elric dans la dernière refonte demandée. Tri par Œil et réserve sacrificielle distincte des cadeaux paternels, de l'équipement et des commandes ; quantités, étoiles, grades et prix individuels non définis.
+
+## DEC-169 — Synergies du vol de vie et des invulnérabilités
+
+- **Statut : CANON pour les résultats explicitement demandés — auteur `docs/new.txt:108191`, `108232`.** Compétence de Ténébria + deux ensembles Vol de vie d'Hasol = récupération de PV égale à **100 % des dégâts infligés**. Ne pas déduire les contributions numériques individuelles, le coût, la durée, le nom ou le nombre de cibles du sort de Ténébria de la seule réponse de ChatGPT.
+- **Samia au III :** peut retirer l'état invulnérable, très présent dans les portails rouges, ce qui renforce son utilité. Compatible avec Danse astrale de DEC-160, pas un changement rétroactif de Coup astral au II.
+- **Limites :** pas d'invincibilité, de PV au-delà du maximum, de guérison de toutes les blessures ou de vol de vie sans dégâts ; configurations et formations doivent rester légales. Aucun dévoilement de ces synergies au chapitre 2.
+
+## DEC-170 — Arbitrages explicites après réception mobile
+
+- **Statut : CANON — réponses de l’auteur au questionnaire de cette session, puis GO d’exécution.** Ces réponses priment les réserves DEC-159/160/161/166 et les formulations de réception antérieures, sans valider de nouveaux paramètres par déduction.
+- **Samia, livre II :** nom de classe **Ranger astral**, rang **Commun** ; ce nom ne vaut ni rang Astral ni coût de 25 points. Cinq points de classe conservés. Affichages de sa Révélation à raccorder à ce nom ; les emplois génériques de Ranger ne sont pas tous des noms complets de classe.
+- **Bénédiction au niveau 20 :** réduction **relative de 45 % du risque d’échec** et réduction **relative de 25 % du risque de résultat non maximal**. Pas des points de pourcentage, pas de résultat maximal ou de réussite garantis. Niveau 30 **60 % / 50 %** inchangé ; pas de nouvelle valeur de référence universelle imposée aux artisans.
+- **Vague runique légendaire :** soin égal à **5 % des PV maximaux de Yoon**, vers le membre du groupe ayant le plus faible **pourcentage de PV actuels**, Yoon comprise. Si elle est cette personne, elle peut donc être soignée par son sort. Aucun soin de 5 % des PV du bénéficiaire, aucune guérison automatique de toutes les blessures. Égalités de pourcentage, portée propre du soin et autres paramètres non tranchés restent **À DÉFINIR**.
+- **Clôture au III :** **douze Runes astrales uniques**, même effet, **prérequis différents d’obtention**. **Douze utilisations chacune**, soit 144 fermetures théoriques au total, pas une réserve de douze partagée. L’unicité de chaque Rune astrale est maintenue, pas une fabrication de copies. Les douze prérequis sont à définir **lors du plan du livre III** ; ne pas les inventer ici. Les autres coûts, conditions d’activation, acquisitions et effets après épuisement ne sont pas fixés par ce seul arbitrage.
+- **Application :** références éditoriales synchronisées ; principes du III conservés dans le lore, pas révélés au chapitre 2 du II. Aucun chapitre du III ni plan détaillé nouveau demandé.
+
+## DEC-171 — Validation et intégration locale du chapitre 2 du II
+
+- **Statut : texte mobile VALIDÉ — intégration locale AUTORISÉE.** Au questionnaire identifiant expressément `docs/new.txt:103069–108183`, l’auteur répond **« Je valide le texte »**, puis **« go »** après la synthèse des arbitrages. Titre **« Les prodiges de l’Académie »**, douze sections I–XII. La dernière précision **« apres l'ajout du chapitre 2 je ferai les relecture »** confirme l’ordre : ajouter le chapitre maintenant, relectures après ; elle n’annule pas la sélection du texte mobile ni n’étend son statut aux ajouts antérieurs du chapitre 1.
+- **Source unique :** `livre_2_le_vertige_des_vies_oubliees.md`, après le chapitre 1, sans doublon ni copie concurrente. Pas d’instructions de conversation ou de commentaires ChatGPT après la fin du chapitre. Voir `docs/integration_livre_2_chapitre_2.md`.
+- **Adaptations permises :** titres Markdown cohérents, véritables fenêtres du système HTML/picture/details avec SVG locaux dérivés ; affichages du nom de classe de Samia raccordés à **Ranger astral**, rang Commun, selon DEC-170. Pas de réécriture générale, statistique, équipement ou scène nouvelle déduits de l’intégration. La présentation locale sera disponible pour la relecture annoncée.
+- **Chapitre 1 :** réponse **« À relire d’abord »** pour les ajouts de Croissance dans III/VII. Ils restent en place sans modification, distincts de la validation DEC-156 du texte antérieur. Ne pas les déclarer validés par le GO du chapitre 2.
+- **Périmètre :** livre I, archive et source actuelle du chapitre 1 préservés lors de cet ajout. Aucun chapitre 3, commit, push ni publication autorisé. La validation des mécaniques de clôture n’autorise aucune rédaction du III.
 
 ## Questions de système toujours ouvertes
 

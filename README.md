@@ -4,12 +4,12 @@
 
 **Auteur : Joris VIAL.**
 
-Projet de roman de fantasy LitRPG en **trilogie**. Les livres I et II comportent chacun seize chapitres ; le plan détaillé du livre II est validé et actualisé jusqu’à DEC-149, sans drame encore ouvert. Le nombre de chapitres du livre III reste à définir.
+Projet de roman de fantasy LitRPG en **trilogie**. Les livres I et II comportent chacun seize chapitres ; le plan détaillé du livre II est validé, avec les arbitrages récents consignés jusqu’à DEC-171, sans drame encore ouvert. Le nombre de chapitres du livre III reste à définir.
 
 ## Documents de référence
 
 - [`livre_1_l_ascension_d_une_legende_oubliee.md`](livre_1_l_ascension_d_une_legende_oubliee.md) : manuscrit unique du livre I, *L’Ascension d’une légende oubliée* ; chaque chapitre conserve son statut de validation propre.
-- [`livre_2_le_vertige_des_vies_oubliees.md`](livre_2_le_vertige_des_vies_oubliees.md) : manuscrit unique du livre II, *Le Vertige des vies oubliées* ; chapitre 1 validé et intégré avec retouches ciblées (DEC-153/154), aucun chapitre 2 autorisé. Voir [la note d’intégration](docs/integration_livre_2_chapitre_1.md).
+- [`livre_2_le_vertige_des_vies_oubliees.md`](livre_2_le_vertige_des_vies_oubliees.md) : manuscrit unique du livre II, *Le Vertige des vies oubliées* ; chapitres 1 et 2 validés et intégrés. Les ajouts de Croissance aux sections III/VII du chapitre 1 restent à relire ; l’auteur fera ses relectures après l’ajout du chapitre 2. Voir les notes d’intégration du [chapitre 1](docs/integration_livre_2_chapitre_1.md) et du [chapitre 2](docs/integration_livre_2_chapitre_2.md). Aucun chapitre 3 ni publication autorisé (DEC-170/171).
 - [`PLAN_DIRECTEUR.md`](PLAN_DIRECTEUR.md) : plan narratif, jalons validés et questions ouvertes.
 - [`PLAN_LIVRE_II.md`](PLAN_LIVRE_II.md) : plan validé en seize chapitres pour les vies 2–12, avec une courte conclusion en vie 13 ; paramètres de mise en scène encore à préparer.
 - [`docs/integration_livre_2.md`](docs/integration_livre_2.md) : audit de la nouvelle transmission mobile, décisions retenues et limites.
@@ -37,7 +37,7 @@ Ouvrir [`livre_1_l_ascension_d_une_legende_oubliee.md`](livre_1_l_ascension_d_un
 
 Pour modifier une fenêtre du livre I, éditer sa source HTML textuelle dans `livre_1_l_ascension_d_une_legende_oubliee.md`, jamais les SVG à la main, puis régénérer et contrôler les dérivés. Les SVG bureau/mobile de `assets/fenetres/` doivent accompagner le Markdown lors d’une publication autorisée. Voir le [guide GitHub](docs/fenetres_github.md) pour la maintenance et les limites.
 
-Le chapitre 1 du II utilise la même charte, avec sa transcription HTML dans son propre manuscrit et deux SVG dérivés dans `assets/fenetres-livre-2/`. La génération ciblée et son contrôle sans écriture sont documentés dans le même guide ; la commande CLI par défaut continue de cibler uniquement le I.
+Les chapitres du II utilisent la même charte, avec leurs transcriptions HTML dans leur propre manuscrit et leurs SVG dérivés dans `assets/fenetres-livre-2/`. La génération ciblée et son contrôle sans écriture sont documentés dans le même guide ; la commande CLI par défaut continue de cibler uniquement le I.
 
 ### Export local facultatif
 

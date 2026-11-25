@@ -143,7 +143,7 @@ class ConservationManuscritTests(unittest.TestCase):
         self.assertEqual(len(self.historical.windows), len(REFERENCE["window_text_sha256"]))
         for index, expected in enumerate(REFERENCE["window_text_sha256"]):
             with self.subTest(fenetre=index + 1):
-                self.assertEqual(digest(compact(self.document.windows[index].text())), expected)
+                self.assertEqual(digest(compact(self.historical.windows[index].text())), expected)
 
     def test_chapitres_et_repartition_des_fenetres_inchanges(self):
         self.assertEqual(self.actual["chapters"], REFERENCE["chapters"])

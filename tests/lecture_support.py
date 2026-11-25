@@ -166,6 +166,7 @@ def historical_prefix(source, reference):
     """Retrouver la fin exacte de la baseline sans absorber ni rogner sa dernière narration."""
     source = without_added_contents(source, reference)
     source = before_approved_description_corrections(source)
+    source = before_approved_oeil_corrections(source)
     document = Document(source)
     count = len(reference["window_text_sha256"])
     if len(document.windows) < count:
@@ -227,6 +228,31 @@ def before_approved_description_corrections(source):
     for before, after in APPROVED_DESCRIPTIONS:
         prefix = prefix.replace(after, before)
     return prefix + suffix
+
+
+# DEC-168 : uniquement les deux paragraphes de 095 et la réplique d'Orven.
+APPROVED_OEIL_CORRECTIONS = (
+    ("  <p>Révèle le résultat final exact d'une rune à +15, à condition que l'hôte réalise personnellement les améliorations restantes.</p>\n"
+     "  <p>Permet de connaître les caractéristiques secondaires obtenues, les renforcements qui leur seront attribués et leurs valeurs finales.</p>",
+     "  <p>Révèle les caractéristiques secondaires qui seront découvertes lors de l'amélioration d'une rune. Leur nature est prédéterminée et reste identique quel que soit l'artisan.</p>\n"
+     "  <p>Si l'hôte réalise personnellement les améliorations restantes jusqu'à +15 et atteint ce palier, révèle également les renforcements attribués et leurs valeurs finales exactes.</p>"),
+    ("— Ta compétence décrit ce qui se produira lorsque tu réaliseras personnellement les améliorations. Si je le fais à ta place, nous risquons de ne pas tester la bonne chose.",
+     "— La nature de la secondaire annoncée resterait la même si je l'améliorais. Mais les valeurs finales exactes que ton Œil révèle à +15 concernent tes propres améliorations. Commençons donc par vérifier ta prédiction entre tes mains."),
+)
+
+
+def before_approved_oeil_corrections(source):
+    """Inverser les seuls textes exacts de DEC-168, dans le chapitre 10 uniquement."""
+    chapter = re.search(r"^# Chapitre 10\b[^\n]*\n", source, re.M)
+    if chapter is None:
+        return source
+    following = re.search(r"^# (?:Chapitre \d+\b|Épilogue\b)", source[chapter.end():], re.M)
+    end = chapter.end() + following.start() if following else len(source)
+    body = source[chapter.end():end]
+    for before, after in APPROVED_OEIL_CORRECTIONS:
+        if body.count(after) == 1:
+            body = body.replace(after, before, 1)
+    return source[:chapter.end()] + body + source[end:]
 
 
 def without_added_contents(source, reference):

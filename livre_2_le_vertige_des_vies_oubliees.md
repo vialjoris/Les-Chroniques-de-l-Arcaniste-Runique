@@ -676,6 +676,18 @@ Elle consulta les informations complémentaires.
 
 — Pour les monstres admissibles, il y a un palier toutes les mille éliminations…
 
+Hasol remarqua alors deux autres compteurs.
+
+— Oh ! Il y en a aussi un pour les boss de donjon… Cent boss achevés personnellement !
+
+Elle parcourut la dernière ligne.
+
+— Et un autre pour les démons des portails. Cinq mille éliminations personnelles…
+
+Les trois suivis étaient distincts. Les démons des portails n'alimentaient pas le compteur des mille monstres ordinaires hors portails. Seul ce dernier imposait des prérequis de niveau aux créatures éliminées ; les boss de donjon et les démons de portails n'en avaient pas.
+
+Hasol resta quelques instants silencieuse. Les possibilités semblaient incroyables, mais elle connaissait aussi la réputation de ces adversaires. Pour une chasseuse qui venait seulement de recevoir sa classe, cela paraissait encore terriblement dangereux.
+
 Iseria resta silencieuse.
 
 Armin cessa de sourire.
@@ -1694,6 +1706,12 @@ Les éliminations.
 
 Les paliers de mille monstres admissibles.
 
+Le compteur distinct des cent boss de donjon achevés personnellement.
+
+Celui des cinq mille démons de portails éliminés personnellement, sans alimenter le suivi des monstres ordinaires.
+
+Elle précisa que les prérequis de niveau des ennemis ne concernaient que les mille monstres ordinaires hors portails.
+
 Les cercles supplémentaires.
 
 Les emplacements runiques.
@@ -2147,3 +2165,5189 @@ Hasol l'évita et frappa.
 Quelques instants plus tard, un rire s'éleva au milieu de la prairie.
 
 L'Arcaniste Astral venait de trouver un autre slime.
+
+---
+
+## Chapitre 2 — Les prodiges de l'Académie
+
+### I. Une réserve pour l'avenir
+
+— Ton pied gauche, Hasol !
+
+La jeune fille interrompit son mouvement.
+
+Son épée venait de traverser un slime, mais son mentor ne semblait guère impressionné par cette victoire.
+
+Elle baissa les yeux.
+
+— Qu'est-ce qu'il a encore, mon pied gauche ?
+
+— Tu l'as avancé trop tôt.
+
+— Mais j'ai touché le monstre !
+
+Elric Arowell croisa les bras.
+
+— Et si ton adversaire avait été capable de riposter ?
+
+Hasol contempla la petite flaque laissée par la créature.
+
+Puis elle soupira.
+
+— D'accord…
+
+— Recommence.
+
+La jeune Astrale fit la moue.
+
+Depuis le début de son entraînement, elle avait découvert qu'Elric possédait une capacité étonnante à remarquer les moindres imperfections de ses mouvements.
+
+Un pied trop avancé.
+
+Une garde légèrement ouverte.
+
+Une attaque déclenchée une fraction de seconde trop tôt.
+
+Rien ne lui échappait.
+
+Elle aurait parfois préféré recevoir quelques félicitations supplémentaires.
+
+Mais elle devait reconnaître que ses conseils fonctionnaient.
+
+Chaque jour, ses mouvements devenaient plus précis.
+
+Et les slimes tombaient avec une facilité grandissante.
+
+Hasol reprit sa garde.
+
+Un autre monstre bondit vers elle.
+
+Elle attendit.
+
+Déplaça légèrement son pied.
+
+Puis frappa.
+
+Cette fois, son équilibre resta parfaitement stable.
+
+Elric acquiesça.
+
+— Bien.
+
+Le visage d'Hasol s'illumina.
+
+— Vraiment ?
+
+— Oui.
+
+Elle sourit jusqu'aux oreilles.
+
+— Alors je peux passer à des monstres plus puissants ?
+
+Le Porte-bouclier éclata de rire.
+
+— Nous allons d'abord terminer cet exercice.
+
+Hasol gonfla les joues.
+
+— Vous dites toujours ça !
+
+— Parce que tu poses toujours la même question.
+
+Elle finit par rire elle aussi.
+
+À la fin de la matinée, ils s'installèrent à l'ombre d'un arbre.
+
+Hasol consulta son compteur de Croissance runique.
+
+Les éliminations admissibles s'accumulaient progressivement.
+
+Chaque tranche de mille monstres ordinaires remplissant les conditions du passif, personnellement éliminés hors des portails, lui permettrait d'obtenir un cercle de mana supplémentaire.
+
+Elle appréciait énormément cette perspective.
+
+Mais Elric lui avait déjà expliqué qu'il ne suffisait pas de tuer n'importe quelle créature.
+
+Les conditions liées au niveau des ennemis devaient être respectées.
+
+Et les autres compteurs de Croissance runique obéissaient à des règles différentes.
+
+Cent boss de donjon achevés personnellement.
+
+Cinq mille démons de portail éliminés personnellement.
+
+Trois chemins distincts.
+
+Trois occasions de progresser.
+
+Pour l'instant, Elric lui avait interdit de s'intéresser sérieusement aux deux derniers.
+
+Hasol avait accepté.
+
+À contrecœur.
+
+— Monsieur Arowell ?
+
+— Oui ?
+
+— Quand est-ce qu'on commencera à utiliser Aura runique ?
+
+Le Porte-bouclier tourna la tête.
+
+— Tu es impatiente de l'essayer ?
+
+Elle acquiesça vivement.
+
+— Évidemment !
+
+Puis elle réfléchit.
+
+— Mais je ne peux pas encore manier moi-même une arme imprégnée.
+
+— Pas avant le niveau dix, confirma Elric.
+
+Hasol soupira.
+
+— C'est dommage…
+
+Son mentor sourit.
+
+— Cela ne nous empêche pas de préparer son utilisation.
+
+La jeune fille releva les yeux.
+
+— Comment ça ?
+
+— Rappelle-moi son coût.
+
+Elle ouvrit immédiatement la description de sa compétence.
+
+— Deux cents points de mana et une rune sacrifiée définitivement.
+
+— Et sa durée ?
+
+— Jusqu'à vingt-quatre heures.
+
+Elric acquiesça.
+
+— Très bien.
+
+Il observa son épée posée près de lui.
+
+— Le coût en mana demandera une réserve suffisante. Mais il y a autre chose que nous pouvons anticiper dès maintenant.
+
+Hasol pencha la tête.
+
+— Quoi ?
+
+— Les runes.
+
+Elle cligna des yeux.
+
+— Les runes ?
+
+— Chaque utilisation détruit une pierre. Si nous voulons expérimenter régulièrement, il serait absurde de sacrifier des runes de bonne qualité.
+
+Hasol se redressa brusquement.
+
+Son regard descendit vers les deux pierres que son père lui avait offertes.
+
+Une Fatal et une Gardien.
+
+Toutes deux rares, bleues, six étoiles et déjà améliorées à +6.
+
+Elle posa immédiatement les mains sur ses emplacements.
+
+— Je ne vais certainement pas utiliser celles de papa !
+
+Elric éclata de rire.
+
+— Je n'en avais pas l'intention.
+
+Elle parut soulagée.
+
+— Alors comment faire ?
+
+— Tu rencontreras bientôt Maître Orven, n'est-ce pas ?
+
+— Oui !
+
+— Demande-lui s'il possède des runes de très faible valeur.
+
+Hasol réfléchit.
+
+— Des runes que personne ne voudrait équiper ?
+
+— Exactement. Des pierres dont les caractéristiques sont mauvaises, mais qui restent suffisamment intactes pour être utilisées par Aura runique.
+
+Elle se redressa.
+
+— Des runes poubelles !
+
+Elric haussa légèrement les sourcils.
+
+Puis il éclata de rire.
+
+— Si tu veux les appeler ainsi.
+
+Hasol contempla son statut.
+
+L'idée lui plaisait énormément.
+
+Elle pourrait mettre des pierres de côté avant même de disposer du mana nécessaire pour lancer régulièrement Aura runique.
+
+Et lorsqu'elle serait prête, elle n'aurait pas besoin de chercher précipitamment des sacrifices.
+
+— On pourrait en acheter plusieurs à l'avance !
+
+— C'est précisément ce que je te propose.
+
+Elle sourit.
+
+— Et vous pourriez utiliser une arme imprégnée avant mon niveau dix !
+
+— Oui. Je possède déjà le niveau nécessaire.
+
+Hasol serra les poings.
+
+— Formidable !
+
+Elric leva cependant un doigt.
+
+— Nous devrons d'abord vérifier le fonctionnement de ta compétence, choisir les bonnes conditions d'essai et prévoir les ressources nécessaires.
+
+— Évidemment !
+
+Il la contempla avec méfiance.
+
+— Tu as répondu un peu trop vite.
+
+Hasol éclata de rire.
+
+— Mais j'ai compris !
+
+Le Porte-bouclier sourit.
+
+— Alors nous avons un plan.
+
+Elle regarda ses notes.
+
+Puis ajouta immédiatement une nouvelle ligne.
+
+*Demander à Orven des runes poubelles.*
+
+Elric observa son carnet.
+
+— Tu comptes vraiment conserver cette expression ?
+
+Hasol releva les yeux.
+
+— Elle est très claire !
+
+Il secoua la tête avec amusement.
+
+Il commençait à comprendre que son rôle de mentor ne consisterait pas seulement à enseigner à Hasol comment combattre.
+
+Il devrait également l'aider à canaliser un enthousiasme qui semblait ne connaître aucune limite.
+
+### II. L'atelier de Maître Orven
+
+Le lendemain, Hasol se présenta à l'atelier avec Iseria.
+
+Les grandes fenêtres laissaient entrer une lumière généreuse.
+
+Des armoires bordaient les murs.
+
+Plusieurs établis étaient couverts d'instruments soigneusement rangés.
+
+Et des coffrets de runes occupaient une longue étagère derrière le comptoir.
+
+Hasol s'immobilisa sur le seuil.
+
+Ses yeux brillaient.
+
+— C'est magnifique…
+
+Iseria sourit.
+
+— Je pensais que cet endroit te plairait.
+
+Un homme s'approcha depuis le fond de la pièce.
+
+— Iseria ! Quel plaisir de te revoir !
+
+Il salua chaleureusement sa mère.
+
+Puis se tourna vers elle.
+
+— Et voici donc Hasol.
+
+La jeune Astrale s'inclina.
+
+— Bonjour, Maître Orven !
+
+— Bonjour, jeune fille. Ta mère m'a beaucoup parlé de toi.
+
+Il lui adressa un sourire.
+
+— J'avoue être particulièrement curieux de découvrir Bénédiction runique.
+
+Hasol acquiesça avec enthousiasme.
+
+— Moi aussi, j'ai hâte de l'utiliser !
+
+Puis son regard glissa vers les coffrets.
+
+Elle hésita à peine.
+
+— Maître Orven ?
+
+— Oui ?
+
+— Est-ce que vous avez des runes poubelles ?
+
+L'artisan s'immobilisa.
+
+Iseria tourna lentement la tête vers sa fille.
+
+Un silence suivit.
+
+— Des… quoi ? demanda finalement Orven.
+
+Hasol sourit.
+
+— Des runes poubelles !
+
+L'artisan contempla Iseria.
+
+— Ta fille vient vraiment de me demander des déchets runiques ?
+
+Sa mère dissimula un sourire derrière sa main.
+
+— Apparemment.
+
+Hasol se redressa.
+
+— C'est monsieur Arowell qui m'a donné l'idée !
+
+Orven cligna des yeux.
+
+— Elric ?
+
+— Oui !
+
+Elle ouvrit son interface.
+
+— C'est pour Aura runique.
+
+L'artisan examina la description qu'elle lui présenta.
+
+Son expression changea.
+
+— Deux cents points de mana…
+
+Il poursuivit sa lecture.
+
+— Et une rune détruite à chaque activation.
+
+Hasol acquiesça.
+
+— Exactement !
+
+Orven lut la durée maximale de l'imprégnation.
+
+Puis la condition de niveau nécessaire pour manier une arme imprégnée.
+
+— Je vois. Tu ne peux pas encore profiter toi-même de l'arme enchantée, mais Elric le peut.
+
+— Oui !
+
+— Et il t'a conseillé de commencer à réunir les pierres qui serviront de sacrifices.
+
+Hasol sourit.
+
+— C'est ça !
+
+Orven croisa les bras.
+
+Puis il éclata de rire.
+
+— Voilà une excellente idée.
+
+La jeune fille ouvrit grand les yeux.
+
+— Vraiment ?
+
+— Bien entendu. Un artisan doit toujours tenir compte du coût de ses compétences.
+
+Il désigna les armoires.
+
+— Si une rune doit disparaître définitivement, autant choisir une pierre dont la perte n'aura presque aucune conséquence.
+
+Hasol acquiesça vivement.
+
+— C'est exactement ce que monsieur Arowell a dit !
+
+Orven sourit.
+
+— Il a toujours été prudent.
+
+Il s'approcha d'une armoire.
+
+Puis récupéra un petit coffret.
+
+— Nous possédons quelques runes de faible qualité que nous conservons pour les exercices ou que nous revendons à prix réduit.
+
+Hasol le suivit avec enthousiasme.
+
+L'artisan ouvrit le coffret.
+
+Plusieurs pierres blanches et vertes reposaient à l'intérieur.
+
+Certaines n'avaient reçu aucune amélioration.
+
+D'autres avaient déjà été examinées et écartées pour diverses raisons.
+
+— Elles ne sont pas toutes inutiles, précisa Orven. Certaines peuvent encore convenir à des chasseurs débutants.
+
+Hasol acquiesça.
+
+— Alors il faut choisir les moins bonnes !
+
+— Exactement.
+
+Il posa plusieurs pierres sur l'établi.
+
+— Commençons par celles-ci.
+
+Hasol s'approcha.
+
+Puis activa Œil runique.
+
+Les informations apparurent devant elle.
+
+Elle examina la première pierre.
+
+Puis la deuxième.
+
+Et la troisième.
+
+Son expression changea.
+
+— Oh…
+
+Orven leva les yeux.
+
+— Qu'y a-t-il ?
+
+Hasol prit délicatement une rune blanche.
+
+— Celle-ci n'est pas une rune poubelle.
+
+L'artisan haussa un sourcil.
+
+— Vraiment ?
+
+— Oui !
+
+Elle lui tendit la pierre.
+
+— Elle aura de bonnes caractéristiques secondaires après amélioration.
+
+Orven la contempla.
+
+— Elle n'en possède pourtant aucune actuellement.
+
+— Je sais !
+
+Hasol sourit.
+
+— Mais je peux voir celles qui apparaîtront.
+
+L'artisan resta immobile.
+
+— Tu peux voir quoi ?
+
+— Les futures caractéristiques secondaires !
+
+Orven regarda la pierre.
+
+Puis la jeune fille.
+
+— Attends…
+
+Il posa lentement son coffret.
+
+— Tu veux dire que tu peux connaître les caractéristiques qu'une rune découvrira avant de l'améliorer ?
+
+Hasol acquiesça.
+
+— Oui !
+
+L'artisan se pencha vers elle.
+
+— Même celles qui n'existent pas encore ?
+
+— Oui !
+
+— Et jusqu'à quel palier ?
+
+— Jusqu'à +15 !
+
+Orven resta silencieux.
+
+Hasol poursuivit naturellement :
+
+— Je peux même connaître le résultat final exact si j'effectue moi-même les améliorations.
+
+L'artisan ouvrit grand les yeux.
+
+— Le résultat exact ?
+
+— Oui !
+
+Il contempla son élève.
+
+Puis les pierres.
+
+— Les valeurs finales des caractéristiques secondaires également ?
+
+— Oui.
+
+Orven s'assit lentement sur son tabouret.
+
+Il avait consacré plus de vingt-cinq ans à l'artisanat runique.
+
+Et une jeune fille de seize ans venait de lui annoncer, presque innocemment, qu'elle pouvait connaître des informations dont les artisans ignoraient normalement l'existence jusqu'aux améliorations successives.
+
+— Hasol…
+
+Il inspira profondément.
+
+— Tu comprends ce que tu viens de me dire ?
+
+Elle pencha la tête.
+
+— Que cette rune est meilleure qu'elle en a l'air ?
+
+Orven éclata d'un rire incrédule.
+
+— Bien davantage !
+
+L'artisan récupéra une rune blanche de faible valeur.
+
+— Regarde celle-ci.
+
+Hasol activa de nouveau Œil runique.
+
+Elle consulta les informations.
+
+— Sa première caractéristique secondaire sera la Vitesse.
+
+Orven prit une plume.
+
+Il nota soigneusement la prédiction.
+
+Puis demanda :
+
+— Et si c'est moi qui améliore cette pierre ?
+
+Hasol réfléchit un instant.
+
+— La caractéristique découverte sera la même.
+
+L'artisan s'immobilisa.
+
+— Tu en es certaine ?
+
+— Oui !
+
+Elle lui montra la rune.
+
+— Les caractéristiques secondaires qui doivent apparaître ne changent pas selon l'artisan.
+
+— Et les valeurs ?
+
+— Là, c'est différent.
+
+Hasol désigna sa propre fenêtre.
+
+— Je peux voir les valeurs finales exactes à +15 si je réalise les améliorations moi-même et que j'atteins ce palier. Mais si quelqu'un d'autre améliore la pierre, je ne peux pas garantir les mêmes valeurs.
+
+Orven resta silencieux plusieurs secondes.
+
+Puis il se leva brusquement.
+
+— Nous allons vérifier cela.
+
+Hasol ouvrit grand les yeux.
+
+— Maintenant ?
+
+— Maintenant.
+
+Il rassembla les matériaux nécessaires.
+
+Puis prépara la pierre sur son établi.
+
+— Tu m'as annoncé de la Vitesse. Je vais effectuer les améliorations moi-même.
+
+Hasol sourit.
+
+— D'accord !
+
+La première tentative réussit.
+
+Puis la deuxième.
+
+À la troisième amélioration réussie, la rune atteignit +3.
+
+Une nouvelle caractéristique secondaire apparut.
+
+Orven examina immédiatement les informations.
+
+Son souffle se coupa.
+
+<div class="system-window lit-window" data-window-id="L2-C2-F01" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F01-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F01.svg" alt="Fenêtre du système — Vitesse.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">Vitesse.</div>
+  </details>
+</div>
+
+Exactement comme Hasol l'avait annoncé.
+
+Il regarda son registre.
+
+Puis la rune.
+
+Puis son apprentie.
+
+— Incroyable…
+
+Hasol sourit.
+
+— Je vous l'avais dit !
+
+Orven éclata de rire.
+
+— Oui. Tu me l'avais dit.
+
+Il récupéra une seconde pierre.
+
+— Nous allons recommencer.
+
+La deuxième expérience fut réalisée sur une rune verte.
+
+Cette fois, la pierre possédait déjà une caractéristique secondaire.
+
+Hasol annonça celle qui apparaîtrait lors d'un prochain palier de découverte.
+
+Orven nota sa prédiction.
+
+Puis réalisa lui-même les améliorations nécessaires.
+
+Plusieurs tentatives consommèrent du mana et des pierres de mana.
+
+L'une d'elles échoua.
+
+La rune conserva son niveau d'amélioration.
+
+Hasol observa attentivement.
+
+— Même quand on connaît les caractéristiques futures, on peut toujours échouer…
+
+Orven acquiesça.
+
+— Exactement. Ta compétence ne supprime pas le coût ni le risque du travail.
+
+Il reprit les améliorations.
+
+Lorsque le palier attendu fut atteint, une nouvelle caractéristique apparut.
+
+Celle annoncée par Hasol.
+
+Une seconde fois.
+
+Orven contempla les résultats.
+
+Puis il reposa lentement ses outils.
+
+— C'est une révolution.
+
+Hasol cligna des yeux.
+
+— À ce point ?
+
+L'artisan la regarda avec une expression qu'elle ne lui connaissait pas encore.
+
+— Hasol, nous consacrons parfois des fortunes à améliorer des runes dont nous ignorons le potentiel réel.
+
+Il prit deux pierres d'apparence semblable.
+
+— Ces deux runes peuvent sembler équivalentes aujourd'hui. Pourtant, après plusieurs améliorations, l'une pourrait posséder les caractéristiques idéales pour un chasseur et l'autre devenir presque inutilisable pour lui.
+
+Il désigna Œil runique.
+
+— Toi, tu peux identifier cette différence avant de dépenser les ressources nécessaires.
+
+Hasol acquiesça.
+
+— Oui !
+
+Orven poursuivit :
+
+— Et les caractéristiques découvertes restent les mêmes si un autre artisan réalise les améliorations !
+
+Il se leva.
+
+— Cela signifie que tu pourrais examiner des centaines de runes, sélectionner celles qui méritent un investissement et laisser ensuite d'autres artisans travailler sur les pierres choisies.
+
+Il s'interrompit.
+
+Puis sourit.
+
+— Sans même parler de la précision de tes propres résultats à +15.
+
+Hasol contempla les runes.
+
+Elle n'avait pas encore envisagé toutes ces possibilités.
+
+Orven posa une main sur le coffret.
+
+— Tu ne possèdes pas simplement une compétence utile.
+
+Il la regarda.
+
+— Tu détiens une capacité susceptible de transformer profondément notre métier.
+
+La jeune Astrale rougit légèrement.
+
+— Vous exagérez peut-être…
+
+— Pas du tout.
+
+Il lui montra les pierres.
+
+— Nous venons de vérifier que tes prédictions des caractéristiques à découvrir fonctionnent même lorsque je réalise les améliorations.
+
+Puis son expression devint plus sérieuse.
+
+— Mais attention. Cela ne signifie pas que toutes les valeurs que tu prévois pour tes propres améliorations seraient identiques si je travaillais à ta place.
+
+Hasol acquiesça.
+
+— Je sais.
+
+— Et connaître le résultat final d'une rune ne garantit jamais d'atteindre +15.
+
+— Oui !
+
+Orven sourit.
+
+— Bien.
+
+Il contempla les pierres.
+
+Puis un rire lui échappa.
+
+— Dire que nous avons découvert tout cela parce que tu cherchais des runes poubelles…
+
+Hasol regarda le coffret.
+
+Puis releva les yeux.
+
+— Justement…
+
+L'artisan la contempla.
+
+— Quoi encore ?
+
+Elle désigna une rune.
+
+— Maintenant qu'on sait lesquelles ne valent vraiment pas la peine d'être améliorées…
+
+Orven leva les yeux au ciel.
+
+Hasol sourit.
+
+— Est-ce que je peux les acheter ?
+
+L'artisan éclata de rire.
+
+— Tu es décidément incroyable !
+
+Ils passèrent le reste de la matinée à trier les pierres de faible valeur.
+
+Certaines furent immédiatement écartées de la réserve sacrificielle.
+
+Œil runique révélait qu'elles possédaient un potentiel intéressant pour certains équipements.
+
+D'autres étaient simplement médiocres pour le besoin initialement envisagé, mais pouvaient convenir à une autre classe.
+
+Orven expliqua à Hasol pourquoi il ne fallait pas confondre une mauvaise rune pour soi et une rune sans valeur pour tout le monde.
+
+Enfin, ils sélectionnèrent les pierres qui présentaient le moins d'intérêt.
+
+Des runes encore intactes et utilisables, mais dont les caractéristiques et le potentiel ne justifiaient pas d'investissement important.
+
+Orven les rassembla dans un petit coffret.
+
+— Voilà une première réserve.
+
+Hasol contempla son contenu avec satisfaction.
+
+— Pour Aura runique !
+
+— Exactement.
+
+L'artisan nota leur destination dans son registre.
+
+— Je te les céderai à leur valeur de récupération.
+
+Elle sourit.
+
+— Merci, Maître Orven !
+
+Il leva un doigt.
+
+— À une condition.
+
+Hasol s'immobilisa.
+
+— Laquelle ?
+
+— Tu ne sacrifieras aucune pierre sans avoir vérifié qu'elle ne mérite pas d'être conservée.
+
+Elle acquiesça immédiatement.
+
+— Promis !
+
+Orven sourit.
+
+— Et tu suivras les consignes d'Elric pour les premiers essais.
+
+— Bien sûr !
+
+Il contempla la jeune Astrale.
+
+Puis le coffret.
+
+Grâce à son maître d'armes, Hasol était venue chercher de quoi détruire des runes.
+
+Grâce à Œil runique, elle venait de lui montrer comment en sauver certaines qui auraient été injustement écartées.
+
+Orven éclata doucement de rire.
+
+Cette apprentie promettait décidément de bouleverser ses habitudes.
+
+### III. Deux talents, une même énigme
+
+Les semaines suivantes confirmèrent les premières impressions d'Orven.
+
+Hasol possédait une facilité déconcertante pour l'artisanat.
+
+Elle retenait les explications presque immédiatement.
+
+Comprenait rapidement comment guider son mana.
+
+Et parvenait à reproduire des gestes techniques après un nombre étonnamment faible de tentatives.
+
+Mais Orven découvrit aussi les limites de son jeune prodige.
+
+Une amélioration pouvait échouer malgré une préparation parfaite.
+
+Les pierres de mana étaient consommées.
+
+La réserve personnelle d'Hasol diminuait.
+
+Et sa fatigue finissait par compromettre sa concentration.
+
+Un après-midi, elle observa avec déception une rune dont l'amélioration venait d'échouer.
+
+— Pourtant, j'avais tout préparé correctement…
+
+Orven examina la pierre.
+
+— C'est vrai.
+
+— Alors pourquoi ça n'a pas fonctionné ?
+
+— Parce que la réussite n'est jamais garantie.
+
+Il lui montra les ressources consommées.
+
+— Tu disposes d'avantages extraordinaires, Hasol. Mais ils ne suppriment pas toutes les difficultés de l'artisanat.
+
+La jeune fille contempla son registre.
+
+Puis acquiesça.
+
+— Alors je recommencerai après m'être reposée.
+
+Orven sourit.
+
+— Voilà une bonne décision.
+
+Elle rangea soigneusement son matériel.
+
+Puis récupéra le coffret contenant ses premières runes sacrificielles.
+
+— Je peux le montrer à monsieur Arowell ?
+
+— Bien entendu.
+
+Il lui adressa un sourire amusé.
+
+— Tu pourras même lui dire que son idée nous a permis de faire une découverte remarquable.
+
+Hasol éclata de rire.
+
+— Je vais lui raconter !
+
+Elric écouta le récit avec un intérêt grandissant.
+
+La jeune Astrale lui expliqua les expériences réalisées par Orven.
+
+Les caractéristiques secondaires prédites.
+
+Leur apparition identique lorsque l'artisan travaillait lui-même.
+
+Et la différence concernant les valeurs finales à +15.
+
+Le Porte-bouclier contempla le coffret.
+
+— Alors nous avons des runes pour Aura runique.
+
+Hasol acquiesça.
+
+— Oui !
+
+Puis elle sourit.
+
+— Et Orven a dit qu'Œil runique pourrait révolutionner l'artisanat !
+
+Elric croisa les bras.
+
+— Je commence à comprendre pourquoi.
+
+Il prit une pierre entre ses doigts.
+
+— Vous avez aussi pensé à conserver celles qui possèdent un potentiel intéressant ?
+
+Hasol acquiesça vivement.
+
+— Évidemment ! On ne va pas sacrifier une bonne rune !
+
+Son mentor sourit.
+
+— Excellent.
+
+Puis il reposa la pierre.
+
+— Il ne nous reste qu'à poursuivre ta progression jusqu'à ce que nous puissions organiser les essais dans de bonnes conditions.
+
+Hasol contempla le coffret.
+
+— Je pourrais continuer à en acheter d'autres ?
+
+— Oui, si leur prix est raisonnable et si Orven valide leur intérêt limité pour l'artisanat.
+
+Il ajouta :
+
+— Mais n'oublie pas que tu dois aussi financer tes propres améliorations.
+
+La jeune Astrale fit la moue.
+
+— Vous êtes aussi prudent avec l'argent qu'avec les combats !
+
+Elric éclata de rire.
+
+— Je considère cela comme un compliment.
+
+Un autre phénomène attira bientôt l'attention du Porte-bouclier.
+
+Hasol progressait à l'épée presque aussi rapidement qu'à l'atelier.
+
+Elle assimilait les techniques avec une facilité étonnante.
+
+Un mouvement qu'il aurait normalement dû lui faire répéter pendant des semaines pouvait devenir naturel en quelques jours.
+
+Parfois, il avait même l'impression qu'elle comprenait la logique d'un enchaînement avant d'en avoir reçu toutes les explications.
+
+Un matin, il décida de la mettre à l'épreuve.
+
+Il installa plusieurs mannequins sur un terrain irrégulier.
+
+— Aujourd'hui, nous allons travailler les transitions.
+
+Hasol observa les cibles.
+
+— Entre les attaques ?
+
+— Entre l'attaque, la défense et le déplacement.
+
+Il lui montra un enchaînement complexe.
+
+Puis lui demanda de le reproduire.
+
+Hasol commença.
+
+Son premier pivot fut trop large.
+
+Elle corrigea immédiatement le mouvement.
+
+Puis poursuivit.
+
+Au troisième mannequin, elle dut interrompre son attaque pour retrouver son équilibre.
+
+Elric lui indiqua son erreur.
+
+— Encore.
+
+Elle recommença.
+
+Une fois.
+
+Deux fois.
+
+Puis plusieurs autres.
+
+Ses mouvements gagnaient progressivement en fluidité.
+
+Le Porte-bouclier observa ses progrès.
+
+— Tu as déjà appris cette technique ?
+
+Hasol secoua la tête.
+
+— Non !
+
+— Tu en es certaine ?
+
+Elle éclata de rire.
+
+— Maître Orven me pose exactement les mêmes questions !
+
+Elric haussa un sourcil.
+
+— Vraiment ?
+
+— Oui ! Il dit que je manipule les outils comme si j'avais déjà travaillé dans un atelier !
+
+Le mentor resta silencieux.
+
+Hasol poursuivit :
+
+— Mais je ne comprends pas pourquoi. Je n'ai jamais appris tout ça avant !
+
+Elle contempla son épée.
+
+— Certains mouvements me semblent simplement… naturels.
+
+Elric réfléchit.
+
+Puis lui désigna les mannequins.
+
+— Recommence.
+
+La jeune Astrale obéit.
+
+Cette fois, elle cessa de réfléchir séparément à chaque attaque.
+
+Elle observa les distances.
+
+Les angles.
+
+Les possibilités de déplacement.
+
+Puis elle s'élança.
+
+Sa lame fendit l'air.
+
+Elle pivota.
+
+Changea de direction.
+
+Et termina l'enchaînement dans une garde presque parfaite.
+
+Une sensation étrange parcourut son corps.
+
+Pendant un instant, chaque mouvement lui parut évident.
+
+Les gestes se succédaient avec une fluidité qu'elle n'avait jamais ressentie auparavant.
+
+Puis une fenêtre apparut.
+
+<div class="system-window lit-window" data-window-id="L2-C2-F02" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F02-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F02.svg" alt="Fenêtre du système — Nouvelle compétence passive acquise.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">Nouvelle compétence passive acquise.</div>
+  <p>Lame runique.</p>
+  </details>
+</div>
+
+Hasol s'immobilisa.
+
+— Monsieur Arowell !
+
+Elric s'approcha immédiatement.
+
+— Qu'y a-t-il ?
+
+— J'ai obtenu une nouvelle compétence !
+
+Il fronça les sourcils.
+
+— Tu viens de gagner un niveau ?
+
+Elle consulta son statut.
+
+— Non !
+
+— Un nouveau cercle ?
+
+— Non plus !
+
+Hasol lui présenta la description.
+
+Lame runique renforçait sa compréhension des techniques d'escrime.
+
+Elle facilitait leur assimilation et améliorait la précision ainsi que les automatismes associés au maniement de la lame.
+
+Elric resta silencieux.
+
+Puis il sourit.
+
+— Voilà qui est remarquable.
+
+Hasol contempla son épée.
+
+— C'est grâce à tous nos entraînements ?
+
+— Je n'en doute pas.
+
+Elle releva les yeux.
+
+— Alors je peux encore progresser plus vite !
+
+Elric éclata de rire.
+
+— Probablement.
+
+Puis il ajouta :
+
+— Mais cela ne signifie pas que tu es devenue invincible.
+
+Hasol fit la moue.
+
+— Vous dites toujours ça !
+
+— Parce que tu sembles toujours prête à l'oublier.
+
+Elle rit.
+
+Puis reprit sa garde.
+
+— On continue ?
+
+Le Porte-bouclier contempla son élève.
+
+Il avait désormais une certitude.
+
+Cette jeune fille possédait un talent extraordinaire.
+
+Et ses capacités semblaient encore loin d'avoir révélé toutes leurs possibilités.
+
+### IV. Le huitième cercle
+
+Les mois passèrent.
+
+Hasol continua de partager ses journées entre l'Académie, les chasses et l'atelier d'Orven.
+
+Ses progrès étaient considérables.
+
+Mais Croissance runique demeurait au centre de son organisation.
+
+Elle cherchait régulièrement des zones où les monstres ordinaires restaient admissibles à son passif.
+
+Elric l'accompagnait dans ses choix.
+
+Il refusait qu'elle se mette inutilement en danger pour accélérer son compteur.
+
+Mais il reconnaissait volontiers que les cercles supplémentaires représentaient un avantage exceptionnel.
+
+Chaque nouveau cercle augmentait sa capacité à employer le mana.
+
+Et lui ouvrait un nouvel emplacement runique.
+
+Hasol avait commencé sa seconde vie avec deux cercles.
+
+Elle en obtint un troisième.
+
+Puis un quatrième.
+
+Et progressivement, les suivants.
+
+Un jour, au terme d'une nouvelle chasse, son compteur franchit encore un palier.
+
+Une notification apparut.
+
+<div class="system-window lit-window" data-window-id="L2-C2-F03" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F03-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F03.svg" alt="Fenêtre du système — Croissance runique — Seuil atteint.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">Croissance runique — Seuil atteint.</div>
+  <p>Un cercle de mana supplémentaire a été obtenu.</p>
+  </details>
+</div>
+
+Hasol s'immobilisa.
+
+Elle ouvrit son statut.
+
+Puis compta.
+
+Une fois.
+
+Deux fois.
+
+— Huit…
+
+Son sourire s'élargit.
+
+— HUIT !
+
+Elle leva les bras.
+
+— Monsieur Arowell ! J'ai huit cercles !
+
+Elric, qui s'était approché, consulta les informations.
+
+Puis il sourit.
+
+— Félicitations, Hasol.
+
+Elle contempla ses emplacements.
+
+Huit cercles.
+
+Huit runes possibles.
+
+Elle commença immédiatement à imaginer les ensembles qu'elle pourrait porter.
+
+Elric l'observa avec amusement.
+
+— Je crois savoir à quoi tu penses.
+
+Hasol releva les yeux.
+
+— À quoi ?
+
+— Aux runes.
+
+Elle éclata de rire.
+
+— Évidemment !
+
+À son retour à l'Académie, un employé l'attendait près de l'entrée.
+
+— Mademoiselle Shun ?
+
+Hasol se retourna.
+
+— Oui ?
+
+— Le directeur souhaite vous recevoir dans son bureau.
+
+La jeune Astrale cligna des yeux.
+
+— Maintenant ?
+
+— Dès que vous serez disponible.
+
+Elle regarda sa tenue poussiéreuse.
+
+— Je peux au moins me changer ?
+
+L'employé sourit.
+
+— Bien entendu.
+
+Hasol le remercia.
+
+Puis se dirigea vers les vestiaires.
+
+Elle se demandait pourquoi le directeur avait besoin de la voir aussi rapidement.
+
+Dans le bureau de ce dernier, un coffret de bois sombre reposait sur la table.
+
+Elric en examinait le contenu.
+
+Huit runes bleues étaient disposées sur un coussin.
+
+— Deux ensembles complets de Vol de vie, observa-t-il.
+
+Il prit l'une des pierres.
+
+— Toutes rares, quatre étoiles, améliorées à +6.
+
+Le directeur acquiesça.
+
+— Elles correspondent à la configuration souhaitée.
+
+Elric examina les caractéristiques.
+
+— Attaque, Puissance arcanique et Vitesse.
+
+Il sourit.
+
+— Elles conviendront très bien à son style de combat.
+
+Près de la fenêtre, Iseria écoutait silencieusement.
+
+Ses longs cheveux roses retombaient sur ses épaules.
+
+Lorsque les deux hommes eurent terminé, elle posa doucement sa tasse.
+
+— Les dispositions convenues lors de son admission sont toujours respectées ?
+
+Le directeur tourna la tête vers elle.
+
+Un dossier reposait à côté du coffret.
+
+Sur sa couverture figurait le nom d'Hasol Shun.
+
+Un cachet rouge indiquait :
+
+*Accès restreint.*
+
+— Naturellement, madame Shun.
+
+Iseria acquiesça.
+
+— Et les personnes concernées ?
+
+— Elles respectent leurs engagements.
+
+Le directeur referma le dossier.
+
+Puis le rangea dans un tiroir verrouillé.
+
+Elric, qui avait terminé son examen, redressa la tête.
+
+— Je pense que nous pouvons maintenant recevoir Hasol.
+
+On frappa à la porte.
+
+— Entrez !
+
+La jeune Astrale apparut.
+
+— Bonjour, monsieur le directeur ! Vous m'avez fait dem…
+
+Elle s'interrompit.
+
+Son regard venait de se poser sur Iseria.
+
+— Maman ?!
+
+Sa mère lui sourit.
+
+— Bonjour, ma chérie.
+
+Hasol regarda successivement les trois adultes.
+
+— Qu'est-ce qui se passe ?
+
+Elle se raidit.
+
+— Il y a un problème ?
+
+— Aucun, la rassura le directeur.
+
+Hasol poussa un soupir de soulagement.
+
+Puis son visage s'illumina.
+
+— Alors j'ai une grande nouvelle !
+
+Elric croisa les bras.
+
+— Ah bon ?
+
+— J'ai obtenu mon huitième cercle !
+
+Le Porte-bouclier prit un air faussement surpris.
+
+— Vraiment ?
+
+Hasol fit la moue.
+
+— Vous étiez avec moi !
+
+Il éclata de rire.
+
+Le directeur lui désigna une chaise.
+
+— Installez-vous, mademoiselle Shun. Votre progression est justement la raison de cette réunion.
+
+Hasol s'assit.
+
+Puis remarqua le coffret.
+
+Son regard s'y arrêta.
+
+— Qu'est-ce que c'est ?
+
+Le directeur le fit glisser vers elle.
+
+— Ouvrez-le.
+
+Elle souleva délicatement le couvercle.
+
+Son souffle se coupa.
+
+Huit runes bleues reposaient devant elle.
+
+Hasol en prit une.
+
+Activa Œil runique.
+
+Puis ouvrit grand les yeux.
+
+— Rare…
+
+Elle examina une deuxième pierre.
+
+— Quatre étoiles…
+
+Son regard descendit vers le renforcement.
+
+— Elles sont toutes à +6 ?!
+
+Elric sourit.
+
+— Exactement.
+
+Hasol consulta les autres pierres.
+
+Puis elle découvrit leur type.
+
+— Vol de vie…
+
+Elle releva brusquement la tête.
+
+— Deux ensembles complets ?
+
+— Oui, répondit le directeur.
+
+La jeune Astrale resta bouche bée.
+
+Elric s'approcha.
+
+— Chaque ensemble comporte quatre pièces. Avec tes huit cercles, tu peux désormais en porter deux.
+
+Il désigna les runes.
+
+— Leurs caractéristiques ont été choisies principalement pour renforcer ton Attaque, ta Puissance arcanique et ta Vitesse.
+
+Hasol examina les pierres.
+
+Les bonus individuels étaient déjà très intéressants.
+
+Mais l'ensemble complet apporterait également du vol de vie.
+
+Elle pourrait récupérer une partie de ses PV en infligeant des dégâts.
+
+Et avec deux ensembles, cet avantage deviendrait particulièrement précieux pour une combattante utilisant principalement l'épée.
+
+Hasol contempla les huit runes.
+
+Puis elle activa successivement Œil runique sur chacune d'elles.
+
+Leurs caractéristiques futures lui apparurent.
+
+Elle sourit.
+
+La sélection était particulièrement intéressante.
+
+Ce n'étaient pas simplement huit pierres choisies pour former deux ensembles.
+
+Elles avaient été préparées pour accompagner sa progression.
+
+— Elles sont magnifiques…
+
+Le directeur lui adressa un sourire.
+
+— L'Académie souhaite vous donner les moyens de développer vos capacités.
+
+Hasol releva les yeux.
+
+— Elles sont vraiment pour moi ?
+
+— Oui.
+
+Elle resta silencieuse.
+
+Puis elle s'inclina profondément.
+
+— Merci, monsieur le directeur !
+
+Elle se tourna vers Elric.
+
+— Merci à vous aussi !
+
+Le Porte-bouclier sourit.
+
+— Tu pourras me remercier en continuant à travailler sérieusement.
+
+— Promis !
+
+Hasol regarda ensuite sa mère.
+
+Iseria lui adressa simplement un sourire affectueux.
+
+La jeune Astrale ne comprenait toujours pas pourquoi elle avait assisté à cette réunion.
+
+Mais elle était heureuse de la voir.
+
+Puis son regard descendit vers les deux runes qu'elle portait déjà.
+
+Son sourire hésita.
+
+— Il y a juste une chose…
+
+Elric pencha la tête.
+
+— Laquelle ?
+
+Hasol effleura ses emplacements.
+
+— J'aimerais attendre ce soir avant d'équiper les nouvelles runes.
+
+Le directeur sembla surpris.
+
+— Pourquoi ?
+
+Elle baissa légèrement les yeux.
+
+— Je voudrais d'abord en parler à papa.
+
+Iseria acquiesça doucement.
+
+— Bien sûr, ma chérie.
+
+Le directeur referma le coffret.
+
+— Prenez tout le temps nécessaire.
+
+Hasol le récupéra avec précaution.
+
+Elle avait rarement été aussi pressée de rentrer chez elle.
+
+Armin trouva sa fille assise dans le salon.
+
+Deux coffrets étaient ouverts devant elle.
+
+Il s'approcha.
+
+— Voilà une réunion qui semble particulièrement importante.
+
+Hasol se retourna.
+
+— Papa !
+
+Elle lui raconta tout.
+
+Le huitième cercle.
+
+La convocation.
+
+La présence inattendue d'Iseria.
+
+Et les huit runes Vol de vie.
+
+Armin les examina avec fascination.
+
+— Huit runes pareilles…
+
+Il éclata de rire.
+
+— Ma princesse devient une véritable collectionneuse !
+
+Hasol sourit.
+
+Puis son expression s'assombrit.
+
+— Mais j'ai un problème.
+
+Son père s'assit auprès d'elle.
+
+— Lequel ?
+
+Elle désigna les deux pierres qu'il lui avait offertes.
+
+La Fatal.
+
+Et la Gardien.
+
+— Si j'équipe mes huit nouvelles runes, je vais devoir retirer les tiennes.
+
+Armin cligna des yeux.
+
+— Et alors ?
+
+Hasol baissa la tête.
+
+— Tu ne seras pas déçu ?
+
+Son père resta silencieux un instant.
+
+Puis il éclata de rire.
+
+— Déçu ? Mais pourquoi ?
+
+Elle contempla ses cadeaux.
+
+— Elles sont très précieuses…
+
+— C'est vrai.
+
+— Et tu les as choisies pour moi…
+
+Armin prit doucement la rune Fatal entre ses doigts.
+
+— Hasol, pourquoi crois-tu que je te les ai offertes ?
+
+Elle réfléchit.
+
+— Pour m'aider à devenir plus forte.
+
+— Exactement !
+
+Il lui montra les huit nouvelles pierres.
+
+— Et aujourd'hui, tu possèdes un équipement qui te convient encore mieux.
+
+Hasol releva les yeux.
+
+Armin sourit.
+
+— Je serais surtout contrarié d'apprendre que ma fille refuse de progresser parce qu'elle a peur de me décevoir.
+
+La jeune Astrale sentit ses yeux devenir humides.
+
+— Alors… Je peux les ranger ?
+
+— Évidemment !
+
+Il se leva.
+
+— D'ailleurs, nous allons leur trouver un endroit digne d'elles.
+
+Quelques minutes plus tard, il revint avec un petit coffre doublé de tissu.
+
+Hasol installa soigneusement les deux pierres dans des compartiments séparés.
+
+Puis referma le couvercle.
+
+— Je les remettrai lorsque j'aurai suffisamment de cercles !
+
+Armin éclata de rire.
+
+— Voilà une excellente motivation !
+
+Hasol se jeta dans ses bras.
+
+— Merci, papa.
+
+Il lui caressa doucement les cheveux.
+
+— De rien, ma princesse.
+
+Ce soir-là, Hasol équipa ses huit nouvelles runes.
+
+Deux ensembles Vol de vie complets.
+
+Elle consulta son statut.
+
+Son Attaque avait progressé.
+
+Sa Puissance arcanique également.
+
+Et plusieurs caractéristiques amélioraient sa Vitesse.
+
+Les deux bonus d'ensemble étaient désormais actifs.
+
+Hasol contempla les informations avec émerveillement.
+
+Elle avait commencé sa formation avec deux cercles.
+
+Aujourd'hui, elle en possédait huit.
+
+Mais surtout, elle comprenait enfin à quel point des runes soigneusement sélectionnées pouvaient transformer les capacités d'un chasseur.
+
+Elle sourit.
+
+Puis son regard glissa vers le petit coffre où reposaient les cadeaux de son père.
+
+Ces pierres attendaient simplement leur tour.
+
+Et elle comptait bien avoir un jour suffisamment d'emplacements pour les porter de nouveau.
+
+### V. L'épée imprégnée
+
+La réserve de runes préparée avec Orven trouva bientôt sa première utilité.
+
+Hasol avait progressé suffisamment pour réunir le mana nécessaire à un lancement d'Aura runique.
+
+Elric décida donc d'organiser un essai.
+
+Orven accepta d'y assister.
+
+Ils se retrouvèrent sur un terrain réservé aux expérimentations magiques.
+
+Une rune de faible valeur reposait sur une petite table.
+
+Hasol l'avait examinée plusieurs fois.
+
+Œil runique n'avait révélé aucun potentiel justifiant un investissement.
+
+La pierre était parfaitement utilisable.
+
+Mais sa disparition ne représenterait pas une perte importante pour l'atelier.
+
+Elric dégaina son épée.
+
+Puis la tendit à son élève.
+
+— Nous allons commencer par une imprégnation simple.
+
+Hasol acquiesça.
+
+— D'accord !
+
+Orven désigna la rune.
+
+— Tu es certaine de vouloir sacrifier celle-ci ?
+
+Elle sourit.
+
+— Absolument !
+
+Il lui adressa un regard amusé.
+
+— Voilà bien la première fois que je rencontre une apprentie aussi heureuse de détruire une pierre.
+
+Elric éclata de rire.
+
+Hasol fit la moue.
+
+— Mais c'est pour une expérience !
+
+— Je sais, répondit Orven. Je voulais simplement te taquiner.
+
+La jeune Astrale plaça la rune près de l'épée.
+
+Puis activa Aura runique.
+
+Deux cents points de mana furent consommés.
+
+La pierre s'illumina.
+
+De fines inscriptions lumineuses apparurent à sa surface.
+
+Puis elles commencèrent à se désagréger.
+
+Une énergie élémentaire se propagea le long de la lame.
+
+Lorsque le phénomène s'acheva, la rune avait complètement disparu.
+
+Hasol recula.
+
+Ses yeux brillaient.
+
+— Ça a fonctionné !
+
+Elric récupéra son épée.
+
+Il examina la lumière qui enveloppait le métal.
+
+Puis effectua quelques mouvements.
+
+L'aura suivait naturellement la trajectoire de son arme.
+
+Le Porte-bouclier s'approcha d'un mannequin.
+
+Il frappa.
+
+L'énergie élémentaire accompagna son attaque.
+
+Puis il recommença.
+
+Orven nota soigneusement les observations.
+
+Elric abaissa finalement sa lame.
+
+— Impressionnant.
+
+Hasol rayonnait.
+
+— Vous avez vu ?
+
+— Oui.
+
+Il contempla son arme.
+
+— Et l'effet peut durer jusqu'à vingt-quatre heures.
+
+— Exactement !
+
+Orven acquiesça.
+
+— Une capacité qui pourrait être très utile lors d'une expédition préparée à l'avance.
+
+Il montra le registre.
+
+— Mais son coût interdit de l'utiliser sans réfléchir.
+
+Hasol acquiesça.
+
+— C'est pour ça qu'on a préparé nos runes poubelles !
+
+Elric sourit.
+
+— En effet.
+
+Elle contempla l'épée.
+
+Puis demanda :
+
+— Vous pourrez l'utiliser pendant votre prochain entraînement ?
+
+— Certainement.
+
+Hasol ouvrit grand les yeux.
+
+— Formidable !
+
+Elric la regarda.
+
+Puis ajouta :
+
+— Mais toi, tu continueras avec ton arme ordinaire jusqu'au niveau dix.
+
+La jeune Astrale soupira.
+
+— Je sais…
+
+Orven éclata de rire.
+
+Les essais suivants furent organisés avec prudence.
+
+Hasol ne pouvait pas multiplier les imprégnations à volonté.
+
+Chaque lancement exigeait du mana.
+
+Et chaque rune sacrifiée était définitivement perdue.
+
+Cependant, la petite réserve constituée grâce au conseil d'Elric lui permit de réaliser plusieurs expériences sans toucher à son équipement personnel.
+
+Orven commença même à conserver certaines pierres spécialement pour cet usage.
+
+Lorsqu'un lot présentait des runes de très faible valeur, il demandait à Hasol de les examiner.
+
+Elle utilisait Œil runique.
+
+Écartait les pierres qui possédaient un potentiel intéressant.
+
+Puis sélectionnait celles qui ne méritaient pas d'être améliorées.
+
+Progressivement, cette activité devint une habitude.
+
+Orven laissa un compartiment réservé aux pierres destinées à Aura runique.
+
+Il lui donna une étiquette.
+
+*Réserve sacrificielle.*
+
+Hasol la contempla.
+
+Puis sourit.
+
+— C'est beaucoup plus élégant que « runes poubelles ».
+
+L'artisan acquiesça avec satisfaction.
+
+— Merci.
+
+Elle réfléchit.
+
+Puis ajouta :
+
+— Mais je préfère toujours « runes poubelles ».
+
+Orven leva les yeux au ciel.
+
+Elric éclata de rire.
+
+Le niveau dix apporta une nouvelle surprise.
+
+Hasol venait de terminer une chasse lorsqu'une notification apparut devant elle.
+
+<div class="system-window lit-window" data-window-id="L2-C2-F04" data-window-type="niveau">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F04-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F04.svg" alt="Fenêtre du système — Niveau supérieur.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">Niveau supérieur.</div>
+  <p>Niveau 10 atteint.</p>
+  </details>
+</div>
+
+La jeune Astrale ouvrit immédiatement son statut.
+
+Elle pouvait enfin manier personnellement une arme imprégnée par Aura runique.
+
+Mais une autre information attira son attention.
+
+Un effet supplémentaire venait d'apparaître dans la description.
+
+<div class="system-window lit-window" data-window-id="L2-C2-F05" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F05-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F05.svg" alt="Fenêtre du système — Infiltration runique.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">Infiltration runique.</div>
+  </details>
+</div>
+
+Hasol relut le texte.
+
+Puis elle ouvrit grand les yeux.
+
+Lorsqu'un lancement d'Aura runique était critique, les attaques de l'arme imprégnée bénéficiaient pendant trente secondes d'un minimum de dégâts déterminé par sa Puissance arcanique effective.
+
+La Défense de l'adversaire ne pouvait pas réduire les dégâts sous ce seuil.
+
+Hasol resta immobile.
+
+Puis elle se précipita vers l'Académie.
+
+— Monsieur Arowell !
+
+Elric se retourna.
+
+— Hasol ?
+
+— J'ai atteint le niveau dix !
+
+Il sourit.
+
+— Félicitations !
+
+— Et Aura runique vient de révéler quelque chose !
+
+Elle lui présenta la description.
+
+Le Porte-bouclier l'examina attentivement.
+
+— Attends. L'effet dépend d'une activation critique de la compétence ?
+
+Hasol acquiesça.
+
+— Oui !
+
+— Pas d'un coup critique porté ensuite avec l'épée ?
+
+— Non. C'est le lancement d'Aura runique qui doit être critique.
+
+Elric réfléchit.
+
+— Voilà une distinction essentielle.
+
+Il relut le passage.
+
+— Et l'effet ne dure que trente secondes.
+
+— Oui. L'imprégnation élémentaire normale continue ensuite jusqu'à sa disparition.
+
+Le Porte-bouclier acquiesça.
+
+— Cela signifie que nous devrons préparer les activations critiques particulièrement soigneusement.
+
+Hasol sourit.
+
+— Et je peux maintenant utiliser moi-même mon épée imprégnée !
+
+— En effet.
+
+Elle se redressa.
+
+— Alors on essaie ?
+
+Elric éclata de rire.
+
+— Tu ne perds décidément jamais de temps.
+
+Lors d'un nouvel essai, Aura runique produisit enfin une activation critique.
+
+Une notification apparut.
+
+<div class="system-window lit-window" data-window-id="L2-C2-F06" data-window-type="activation">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F06-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F06.svg" alt="Fenêtre du système — Infiltration runique activée.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">Infiltration runique activée.</div>
+  <p>Durée : 30 secondes.</p>
+  </details>
+</div>
+
+Hasol saisit immédiatement son épée.
+
+Elle s'élança vers le dispositif d'entraînement.
+
+Sa lame atteignit le premier mannequin.
+
+Puis un second, protégé par une défense plus élevée.
+
+Les résultats confirmèrent la propriété annoncée.
+
+Pendant Infiltration runique, les dégâts des attaques réussies ne pouvaient pas être abaissés sous le minimum imposé par la Puissance arcanique effective d'Hasol du seul fait de la Défense de la cible.
+
+La jeune Astrale attaqua encore.
+
+Puis les trente secondes s'achevèrent.
+
+L'effet particulier disparut.
+
+L'imprégnation élémentaire normale demeura.
+
+Hasol reprit son souffle.
+
+— C'est incroyable…
+
+Elric examina les observations.
+
+— Oui.
+
+Il leva ensuite les yeux.
+
+— Mais ces trente secondes commencent dès l'activation, pas au premier coup porté.
+
+Hasol acquiesça.
+
+— Donc si je perds du temps à rejoindre mon adversaire…
+
+— Tu perds une partie de la durée.
+
+Orven intervint :
+
+— Et une activation critique n'est pas garantie.
+
+Il désigna le registre.
+
+— Chaque nouveau lancement consomme toujours une rune et deux cents points de mana.
+
+Hasol soupira.
+
+— Vous pensez toujours aux dépenses !
+
+L'artisan sourit.
+
+— Heureusement pour toi.
+
+Elric éclata de rire.
+
+Hasol contempla son épée.
+
+Elle comprenait désormais que ses compétences ne devaient pas être utilisées séparément.
+
+Œil runique lui permettait de sélectionner les pierres intéressantes.
+
+Bénédiction runique l'aidait à les améliorer.
+
+Aura runique transformait les mauvaises runes en imprégnations élémentaires.
+
+Et Infiltration runique pouvait renforcer momentanément ses attaques lorsque l'activation était critique.
+
+Sa classe possédait une logique qui lui plaisait énormément.
+
+Chaque compétence offrait de nouvelles possibilités aux autres.
+
+Et elle était encore loin de les avoir toutes explorées.
+
+### VI. Les trois premières années
+
+À dix-sept ans, Hasol passait déjà une grande partie de son temps entre l'Académie et l'atelier d'Orven.
+
+Ses progrès étaient si rapides que l'artisan avait dû modifier plusieurs fois son programme.
+
+Mais il lui rappelait régulièrement qu'une bonne prédiction ne suffisait pas à faire une bonne artisane.
+
+Un jour, il lui présenta deux runes.
+
+La première possédait un excellent potentiel offensif.
+
+La seconde était moins spectaculaire, mais correspondait parfaitement aux besoins d'un client recherchant de la protection.
+
+— Laquelle choisirais-tu ? demanda-t-il.
+
+Hasol examina les pierres.
+
+— La première donnera de meilleures valeurs à +15.
+
+Orven acquiesça.
+
+— C'est vrai.
+
+Puis il lui montra le dossier du client.
+
+— Mais laquelle lui conseillerais-tu ?
+
+Elle réfléchit.
+
+Puis désigna la seconde.
+
+— Celle-ci.
+
+— Pourquoi ?
+
+— Parce que ses caractéristiques lui seront plus utiles.
+
+L'artisan sourit.
+
+— Exactement.
+
+Hasol acquiesça.
+
+Grâce à Œil runique, elle pouvait reconnaître le potentiel des pierres.
+
+Mais elle devait également apprendre à comprendre les besoins des chasseurs.
+
+Cette distinction devint progressivement l'une des bases de son travail.
+
+Orven lui confia ses premières commandes rémunérées.
+
+Les bénéfices étaient modestes au début.
+
+Puis ils augmentèrent avec son expérience.
+
+Hasol apprit à examiner les lots avant d'acheter les pierres.
+
+À éviter les améliorations inutilement coûteuses.
+
+À sélectionner les runes adaptées aux besoins des clients.
+
+Et à distinguer une pierre réellement médiocre d'une pierre simplement mal comprise.
+
+Son expertise devint de plus en plus précieuse.
+
+Même lorsqu'un autre artisan réalisait les améliorations, les caractéristiques secondaires découvertes correspondaient aux prédictions d'Hasol.
+
+Cela permettait à Orven de mieux organiser certains travaux de l'atelier.
+
+Les commandes confiées personnellement à Hasol bénéficiaient en outre de Bénédiction runique.
+
+Mais ses échecs restaient possibles.
+
+Le mana et les matériaux étaient consommés.
+
+Et la fatigue limitait toujours son rythme.
+
+Orven refusait qu'elle se laisse emporter par son enthousiasme.
+
+— Tu t'arrêtes pour aujourd'hui.
+
+Hasol levait les yeux.
+
+— Mais il me reste du mana !
+
+— Et tu commences à manquer de concentration.
+
+Elle regardait alors la pierre devant elle.
+
+Puis soupirait.
+
+— D'accord…
+
+L'artisan souriait.
+
+— Demain, tu travailleras mieux.
+
+Et le lendemain, elle revenait généralement avant lui.
+
+Ray Corvus avait pris l'habitude de retrouver Hasol à la bibliothèque.
+
+Il arrivait avec plusieurs ouvrages sous le bras.
+
+La jeune Astrale, elle, arrivait souvent directement de l'atelier.
+
+— Tu es en retard, constata Ray un après-midi.
+
+Hasol s'immobilisa.
+
+— Seulement un peu !
+
+— Douze minutes.
+
+— Maître Orven avait besoin de moi !
+
+Ray ajusta ses lunettes.
+
+— C'est ce que tu as dit la semaine dernière.
+
+— Et c'était déjà vrai !
+
+Il sourit légèrement.
+
+Puis lui tendit un livre.
+
+Hasol ouvrit grand les yeux.
+
+— Tu l'as trouvé !
+
+— Il était dans une section rarement consultée.
+
+Elle récupéra immédiatement l'ouvrage.
+
+— Tu es formidable !
+
+Ray sourit.
+
+— Je sais.
+
+Elle lui donna un léger coup de coude.
+
+Puis commença à feuilleter les pages.
+
+L'ouvrage présentait différentes configurations d'ensembles runiques.
+
+Hasol s'attarda sur plusieurs descriptions.
+
+Puis elle releva la tête.
+
+— Ray ?
+
+— Oui ?
+
+— Quand j'aurai davantage de cercles, tu choisirais quel ensemble pour moi ?
+
+Il réfléchit.
+
+— Tu portes toujours tes deux ensembles Vol de vie ?
+
+— Oui !
+
+— Et tu souhaites les conserver ?
+
+Hasol acquiesça.
+
+— Ils me conviennent très bien.
+
+Ray parcourut quelques pages.
+
+— Dans ce cas, je privilégierais probablement Arcanique.
+
+La jeune Astrale pencha la tête.
+
+— Même si je combats principalement à l'épée ?
+
+— Justement.
+
+Il lui montra un passage.
+
+— Ta classe ne dépend pas uniquement de ton Attaque. Plusieurs de tes compétences utilisent aussi ta Puissance arcanique.
+
+Hasol réfléchit.
+
+— Elric me conseille plutôt Vitesse.
+
+— Ce n'est pas un mauvais choix.
+
+Elle fit la moue.
+
+— Vous ne pourriez pas vous mettre d'accord ?
+
+Ray éclata de rire.
+
+— Nous ne réfléchissons simplement pas à la même priorité.
+
+Il désigna les informations.
+
+— Elric veut améliorer ta mobilité. Moi, je pense aux effets de tes compétences.
+
+Hasol contempla la page.
+
+Puis sourit.
+
+— Alors je pourrais faire les deux !
+
+Ray acquiesça.
+
+— Lorsque tu disposeras d'assez d'emplacements et de ressources.
+
+La jeune Astrale sourit jusqu'aux oreilles.
+
+— Ça, je peux essayer de l'obtenir !
+
+Ray éclata de rire.
+
+Il n'avait aucune idée de l'ampleur de ses ambitions.
+
+Quelques jours plus tard, Hasol présenta son projet à Elric.
+
+Le Porte-bouclier parcourut ses notes.
+
+— Arcanique avant Vitesse ?
+
+Elle sourit timidement.
+
+— Oui…
+
+Il leva les yeux.
+
+— Ray ?
+
+Hasol cligna des yeux.
+
+— Comment vous avez deviné ?
+
+Elric éclata de rire.
+
+— Je commence à connaître ton meilleur ami.
+
+Il contempla les documents.
+
+— Son raisonnement se défend.
+
+Hasol se redressa.
+
+— Vraiment ?
+
+— Oui. Mais je maintiens que la Vitesse te sera très utile.
+
+Elle sourit.
+
+— Alors je ferai les deux !
+
+Elric secoua la tête avec amusement.
+
+— Lorsque tes cercles le permettront.
+
+La jeune Astrale acquiesça.
+
+Ses deux ensembles Vol de vie constitueraient sa base.
+
+Elle ajouterait ensuite Arcanique.
+
+Puis Vitesse.
+
+Et plus tard, lorsqu'elle disposerait de davantage d'emplacements, elle envisagerait Énergie, Gardien et des runes Fatal pour compléter sa configuration.
+
+Mais elle savait que ces projets demanderaient du temps.
+
+Elle ne pouvait pas équiper plusieurs ensembles complets simplement parce qu'elle possédait quelques pierres du bon type.
+
+Il lui fallait respecter le nombre de pièces nécessaire à chaque bonus.
+
+Et les nouveaux cercles n'arrivaient pas sans travail.
+
+Cette perspective ne la décourageait pas.
+
+Au contraire.
+
+Elle aimait construire progressivement son équipement.
+
+Hasol continuait également de retrouver Zéphyr Claire pour ses exercices d'exploration.
+
+La fille du Ranger, Samia, participait souvent aux séances.
+
+Elle possédait deux cercles de mana depuis ses neuf ans.
+
+Ses longs cheveux argentés attiraient parfois les regards curieux.
+
+Mais Hasol s'était rapidement habituée à cette particularité.
+
+Elle connaissait surtout Samia comme une jeune fille sérieuse et passionnée par les mécanismes.
+
+Un jour, Zéphyr plaça plusieurs coffres devant elles.
+
+— Hasol, lesquels sont piégés ?
+
+La jeune Astrale activa Œil runique.
+
+Elle identifia immédiatement les mécanismes dangereux.
+
+Zéphyr acquiesça.
+
+Puis se tourna vers Samia.
+
+— Et comment pourrais-tu expliquer leur fonctionnement ?
+
+La jeune fille s'approcha.
+
+Elle observa les serrures.
+
+Les attaches.
+
+Les petites plaques dissimulées sous les couvercles.
+
+Puis elle désigna un mécanisme.
+
+— Celui-ci se déclencherait si on soulevait le couvercle sans bloquer cette pièce.
+
+Zéphyr sourit.
+
+— Excellent.
+
+Samia baissa les yeux.
+
+— Mais Hasol les a trouvés beaucoup plus vite…
+
+La jeune Astrale éclata de rire.
+
+— Parce que j'ai une compétence pour ça !
+
+Samia releva la tête.
+
+Hasol désigna le coffre.
+
+— Moi, je sais qu'il est piégé. Toi, tu comprends comment il fonctionne.
+
+Zéphyr acquiesça.
+
+— Voilà précisément pourquoi nous apprenons aussi à observer.
+
+Samia sourit timidement.
+
+Hasol lui donna un petit coup d'épaule.
+
+— Tu es vraiment douée !
+
+Lorsque Samia approcha de ses seize ans, elle devint plus nerveuse.
+
+Un après-midi, alors qu'elles rangeaient leur matériel, elle posa une question.
+
+— Hasol ?
+
+— Oui ?
+
+— Tu crois que je vais recevoir une bonne classe ?
+
+La jeune Astrale se retourna.
+
+— Bien sûr !
+
+Samia baissa les yeux.
+
+— Tu n'en sais rien…
+
+Hasol resta silencieuse quelques instants.
+
+Puis elle sourit.
+
+— Tu sais, avant ma Révélation, j'avais très peur.
+
+Samia ouvrit grand les yeux.
+
+— Toi ?
+
+— Oui !
+
+Hasol lui raconta son seizième anniversaire.
+
+Sa peur d'obtenir une classe décevante.
+
+Son souhait d'être née un jour plus tôt.
+
+Et les plaisanteries d'Armin lorsqu'elle avait expliqué que sa Révélation pourrait gâcher son anniversaire.
+
+Samia éclata de rire.
+
+— Tu as vraiment dit ça ?
+
+— Oui !
+
+— C'est ridicule !
+
+— Merci beaucoup !
+
+Elles rirent ensemble.
+
+Puis Hasol reprit plus doucement :
+
+— Ma mère m'a dit quelque chose ce jour-là.
+
+Samia l'écouta.
+
+— Quelle que soit la classe que tu recevras, tu resteras la même personne.
+
+Hasol sourit.
+
+— Et moi, je t'apprécie déjà énormément.
+
+Samia baissa légèrement les yeux.
+
+Puis murmura :
+
+— Merci.
+
+Hasol lui adressa un sourire.
+
+Elle ne savait pas encore à quel point cette conversation allait devenir importante.
+
+### VII. Deux lumières, deux destins
+
+Hasol avait dix-neuf ans lorsque Samia atteignit enfin ses seize ans.
+
+Trois années s'étaient écoulées depuis sa propre Révélation.
+
+Elle avait gagné des niveaux, développé ses cercles et acquis une expérience considérable.
+
+Mais ce matin-là, elle n'avait prévu aucun entraînement.
+
+Elle accompagnait Zéphyr au temple.
+
+— Vous êtes nerveux ? demanda-t-elle.
+
+Le Ranger lui adressa un sourire.
+
+— Absolument pas.
+
+Hasol observa la manière dont il ajustait pour la troisième fois une attache de son équipement.
+
+— Vous êtes certain ?
+
+— Parfaitement.
+
+Elle éclata de rire.
+
+— Monsieur Claire, vous êtes encore plus nerveux que Samia !
+
+Zéphyr soupira.
+
+— C'est possible.
+
+Il contempla les portes du temple.
+
+— Elle attend cette journée depuis tellement longtemps…
+
+Hasol sourit.
+
+— Elle sera formidable.
+
+Ils entrèrent ensemble.
+
+Le temple n'avait presque pas changé.
+
+Les hautes colonnes.
+
+Les vitraux.
+
+La stèle dressée au centre du sanctuaire.
+
+Hasol ressentit une légère émotion en retrouvant le lieu de sa propre Révélation.
+
+Elle se souvenait encore de la lumière violette.
+
+Des applaudissements.
+
+Et de la joie immense de ses parents.
+
+Elle aperçut Samia parmi les candidats.
+
+La jeune fille lui adressa un petit signe.
+
+Hasol répondit avec enthousiasme.
+
+Zéphyr l'imita, si énergiquement que plusieurs spectateurs se retournèrent.
+
+— Vous allez lui faire honte, murmura Hasol.
+
+— C'est mon devoir de père.
+
+Elle éclata de rire.
+
+La cérémonie commença.
+
+Plusieurs candidats se succédèrent.
+
+Puis le prêtre appela :
+
+— Samia Claire !
+
+Zéphyr se redressa immédiatement.
+
+Hasol sentit son cœur accélérer.
+
+Samia s'avança vers la stèle.
+
+Ses cheveux argentés reflétaient la lumière du temple.
+
+Elle inspira profondément.
+
+Puis posa la main sur le cristal.
+
+Pendant quelques instants, rien ne se produisit.
+
+Une petite lueur apparut.
+
+Si faible que certains spectateurs ne la remarquèrent même pas.
+
+Puis elle prit une teinte particulière.
+
+Violette.
+
+Hasol se figea.
+
+— Attendez…
+
+La lumière était extrêmement discrète.
+
+Elle ne formait aucune colonne éclatante.
+
+Elle ne remplissait pas le sanctuaire.
+
+Mais sa couleur était indéniable.
+
+Le prêtre recula d'un pas.
+
+— Une… Astrale ?
+
+Un murmure parcourut la foule.
+
+Puis les exclamations commencèrent.
+
+— Une autre Astrale ?!
+
+— Regardez !
+
+— C'est violet !
+
+Zéphyr semblait incapable de parler.
+
+Hasol retint son souffle.
+
+Samia, elle, contemplait la stèle avec des yeux immenses.
+
+La lumière vacilla.
+
+Puis disparut.
+
+Le prêtre se pencha vers les informations affichées.
+
+Il fronça les sourcils.
+
+Relut le résultat.
+
+Puis resta silencieux.
+
+La foule attendait.
+
+— Alors ?
+
+— Quelle classe ?
+
+Le prêtre releva lentement la tête.
+
+— Samia Claire. Classe : Ranger astral.
+
+Plusieurs spectateurs se penchèrent en avant.
+
+— Rang : Commun.
+
+Un silence tomba sur le temple.
+
+Puis les murmures reprirent.
+
+— Commune ?
+
+— Mais la lumière était violette !
+
+— Le prêtre s'est trompé ?
+
+— Tout ça pour une Ranger…
+
+Samia resta immobile.
+
+Elle regardait toujours la stèle.
+
+Sa fenêtre indiquait clairement :
+
+<div class="system-window lit-window" data-window-id="L2-C2-F07" data-window-type="revelation">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F07-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F07.svg" alt="Fenêtre du système — Samia Claire.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">Samia Claire.</div>
+  <p>Classe : Ranger astral.</p>
+  <p>Rang : Commun.</p>
+  <p>Cercles de mana : 2.</p>
+  </details>
+</div>
+
+Le prêtre paraissait aussi déconcerté que les spectateurs.
+
+— Le phénomène lumineux était inhabituel, reconnut-il. Mais le résultat est sans ambiguïté.
+
+Samia acquiesça.
+
+— Je comprends.
+
+Sa voix était presque inaudible.
+
+Elle retira sa main.
+
+Puis descendit lentement les marches.
+
+Zéphyr se précipita vers elle.
+
+— Samia !
+
+La jeune fille releva les yeux.
+
+— Papa…
+
+Il posa les mains sur ses épaules.
+
+— Félicitations !
+
+Samia baissa la tête.
+
+— Mais je n'ai reçu qu'une classe commune…
+
+Zéphyr fronça les sourcils.
+
+— Et alors ?
+
+Elle le contempla.
+
+— Tu pensais que je pourrais devenir…
+
+— Je pensais que ma fille allait découvrir sa classe aujourd'hui.
+
+Il sourit.
+
+— Et c'est exactement ce qui s'est passé.
+
+Samia pinça les lèvres.
+
+— Tout le monde croyait que j'allais être Astrale…
+
+Zéphyr jeta un regard vers les spectateurs.
+
+Puis reporta son attention sur elle.
+
+— La foule ne te connaît pas.
+
+Il lui caressa doucement les cheveux.
+
+— Moi, si.
+
+Hasol les rejoignit.
+
+— Et moi aussi !
+
+Samia releva les yeux.
+
+— Hasol…
+
+La jeune Astrale lui prit les mains.
+
+— Tu te souviens de ce qu'on s'est dit ?
+
+Samia hésita.
+
+Puis acquiesça.
+
+Hasol sourit.
+
+— Tu es toujours Samia.
+
+La jeune Ranger baissa les yeux.
+
+Puis se rapprocha d'elle.
+
+Hasol la serra doucement dans ses bras.
+
+Pendant quelques instants, elles restèrent silencieuses.
+
+Une nouvelle candidate fut appelée.
+
+— Yoon Notos !
+
+Hasol tourna la tête.
+
+Une jeune fille aux cheveux violets tirant vers le rose s'avança vers la stèle.
+
+Elle semblait nerveuse, mais déterminée.
+
+Parmi les spectateurs, un jeune homme lui adressa un sourire encourageant.
+
+Yoon posa la main sur le cristal.
+
+La réaction fut immédiate.
+
+Une immense lumière dorée jaillit de la stèle.
+
+Le sanctuaire s'illumina.
+
+Le prêtre recula brusquement.
+
+— Une classe légendaire !
+
+Les applaudissements éclatèrent.
+
+La foule se leva presque d'un seul mouvement.
+
+— Une Légendaire !
+
+— Incroyable !
+
+— Quelle journée !
+
+Hasol ouvrit grand les yeux.
+
+Elle était impressionnée.
+
+Elle applaudit avec enthousiasme.
+
+Puis tourna légèrement la tête.
+
+Samia regardait la scène.
+
+Quelques minutes auparavant, les spectateurs avaient espéré assister à sa propre Révélation Astrale.
+
+Ils avaient applaudi.
+
+Crié.
+
+Puis exprimé leur déception lorsqu'ils avaient découvert sa classe commune.
+
+À présent, ils célébraient Yoon.
+
+Samia baissa les yeux.
+
+Hasol sentit son sourire s'adoucir.
+
+Elle lui prit doucement la main.
+
+— Viens.
+
+Samia cligna des yeux.
+
+— Où ?
+
+— On va manger quelque chose.
+
+— Maintenant ?
+
+— Oui !
+
+Hasol sourit.
+
+— Mon père voulait organiser un immense banquet pour ma Révélation. Je pense que tu mérites au moins un très bon déjeuner !
+
+Zéphyr éclata de rire.
+
+— Excellente idée !
+
+Samia regarda une dernière fois la stèle.
+
+Puis sourit timidement.
+
+— D'accord.
+
+Ils quittèrent le temple pendant que la foule continuait d'acclamer Yoon.
+
+Hasol était heureuse pour la nouvelle Légendaire.
+
+Mais elle avait compris une chose ce matin-là.
+
+Une lumière éclatante ne rendait pas nécessairement une personne plus précieuse.
+
+Et une lumière presque invisible ne retirait rien à celle qu'elle révélait.
+
+### VIII. Une Ranger pas comme les autres
+
+L'évaluation de Samia fut organisée quelques jours plus tard.
+
+Le directeur de l'Académie souhaitait comprendre les circonstances inhabituelles de sa Révélation.
+
+Mais il s'intéressait également aux compétences qu'elle avait reçues.
+
+Hasol avait obtenu l'autorisation d'assister à une partie des exercices.
+
+Elle attendait son amie devant la salle.
+
+— Prête ?
+
+Samia lui adressa un sourire nerveux.
+
+— Je crois…
+
+— Tu vas voir, tout se passera bien !
+
+La jeune Ranger contempla les enseignants réunis.
+
+— Il y a beaucoup de monde…
+
+Hasol suivit son regard.
+
+Puis sourit.
+
+— C'est parce qu'ils sont curieux !
+
+Samia soupira.
+
+— Ce n'est pas très rassurant…
+
+Elles entrèrent ensemble.
+
+Le directeur invita Samia à présenter sa première aptitude.
+
+**Cartographie des portails.**
+
+La jeune Ranger expliqua qu'elle pouvait percevoir l'emplacement et la couleur de certains portails avant leur manifestation.
+
+— Combien de temps à l'avance ? demanda le directeur.
+
+— Dix heures.
+
+Un silence suivit.
+
+— Dix heures avant qu'ils deviennent visibles ?
+
+Samia acquiesça.
+
+— Oui.
+
+— Et vous connaissez déjà leur couleur ?
+
+— Oui.
+
+Les enseignants échangèrent des regards.
+
+Zéphyr contempla sa fille avec surprise.
+
+Hasol, de son côté, ouvrit grand les yeux.
+
+Le directeur poursuivit :
+
+— Pourriez-vous nous montrer cette carte ?
+
+Samia hésita.
+
+Puis se concentra.
+
+Une représentation magique des environs apparut devant elle.
+
+Sa portée était encore limitée.
+
+Mais une marque y brillait déjà.
+
+Samia désigna l'emplacement.
+
+— Là.
+
+Le directeur observa la carte.
+
+— Et la couleur ?
+
+Elle la lui indiqua.
+
+L'homme réfléchit quelques instants.
+
+Puis se tourna vers un collaborateur.
+
+— Faites préparer une vérification.
+
+Samia baissa les yeux.
+
+— J'ai fait quelque chose de mal ?
+
+Zéphyr posa doucement une main sur son épaule.
+
+— Pas du tout.
+
+Le directeur sourit.
+
+— Mademoiselle Claire, si cette compétence fonctionne comme vous venez de nous le montrer, elle pourrait être extrêmement précieuse.
+
+Samia releva la tête.
+
+— Vraiment ?
+
+— Naturellement.
+
+Il désigna la carte.
+
+— Lorsqu'un portail se manifeste, il reste normalement quarante-huit heures avant son ouverture. Mais votre aptitude pourrait nous permettre de connaître certaines manifestations dix heures plus tôt encore.
+
+Samia réfléchit.
+
+— Donc les guildes pourraient commencer à se préparer avant l'apparition du portail ?
+
+— Exactement.
+
+Hasol sourit.
+
+— C'est formidable !
+
+La jeune Ranger contempla son pouvoir.
+
+Puis un petit sourire apparut sur son visage.
+
+Dix heures plus tard, la manifestation annoncée fut confirmée.
+
+L'emplacement correspondait.
+
+La couleur également.
+
+L'Académie organisa aussitôt plusieurs nouvelles évaluations pour déterminer la portée et les limites du passif.
+
+Samia pouvait annoncer certaines manifestations avant que les autorités aient la moindre raison de soupçonner leur arrivée.
+
+Une Ranger astral commune venait d'obtenir une compétence susceptible de modifier profondément la préparation des raids.
+
+Le directeur lui proposa donc un programme particulier.
+
+Samia ouvrit grand les yeux.
+
+— Un programme comme celui d'Hasol ?
+
+— Adapté à votre propre classe, répondit-il.
+
+Zéphyr sourit.
+
+Hasol adressa un clin d'œil à son amie.
+
+Samia rougit légèrement.
+
+Mais elle semblait heureuse.
+
+La deuxième compétence inhabituelle de Samia suscita un intérêt différent.
+
+**Coup astral.**
+
+Il s'agissait d'une attaque monocible de Ténèbres.
+
+Son coût en mana était relativement faible.
+
+Ses dégâts étaient modestes.
+
+Mais elle possédait une propriété exceptionnelle.
+
+Elle pouvait blesser une cible bénéficiant d'un statut d'invulnérabilité.
+
+À condition que l'attaque atteigne réellement cette cible.
+
+— Cela ne supprime pas l'invulnérabilité ? demanda un enseignant.
+
+Samia secoua la tête.
+
+— Non.
+
+— Et si votre projectile est intercepté avant d'atteindre l'ennemi ?
+
+— Alors il ne peut pas infliger de dégâts à la cible.
+
+Le directeur réfléchit.
+
+— Cela pourrait être intéressant contre certains démons de soutien des portails bleus.
+
+Hasol pencha la tête.
+
+— Pourquoi ?
+
+— Certaines créatures rendent leurs alliés invulnérables. Une attaque capable de blesser la cible malgré cette protection pourrait devenir très utile.
+
+Il regarda Samia.
+
+— Mais il faudra apprendre à atteindre vos adversaires dans les bonnes circonstances.
+
+La jeune Ranger acquiesça.
+
+Ses premiers entraînements commencèrent à l'arc.
+
+Samia connaissait déjà bien cette arme grâce à Zéphyr.
+
+Elle apprit progressivement à associer Coup astral à ses tirs.
+
+Mais une difficulté apparut rapidement.
+
+Lors d'un exercice, une protection intercepta sa flèche avant qu'elle puisse atteindre le mannequin placé derrière.
+
+Samia fronça les sourcils.
+
+— Pourtant, le sort peut infliger des dégâts à une cible invulnérable…
+
+Zéphyr acquiesça.
+
+— Oui. Mais ton attaque n'a jamais atteint le mannequin.
+
+Il lui montra la flèche arrêtée par le dispositif.
+
+— Être capable d'endommager une cible invulnérable ne signifie pas que ton projectile traverse automatiquement tous les obstacles.
+
+Samia resta silencieuse.
+
+Puis son regard se posa sur les dagues utilisées pour les exercices rapprochés.
+
+Elle s'en approcha.
+
+En prit une.
+
+Et réfléchit.
+
+— Papa ?
+
+Zéphyr tourna la tête.
+
+— Oui ?
+
+— Est-ce que je pourrais utiliser Coup astral directement avec une lame ?
+
+Le Ranger contempla la dague.
+
+Puis sa fille.
+
+— Nous pouvons le vérifier.
+
+Ils préparèrent un nouvel exercice.
+
+Samia s'approcha d'une cible.
+
+Elle concentra l'énergie de Ténèbres dans la dague.
+
+Puis frappa.
+
+Cette fois, l'attaque atteignit directement le mannequin.
+
+Samia recula.
+
+Ses yeux brillaient.
+
+— Ça fonctionne !
+
+Zéphyr acquiesça.
+
+— Oui.
+
+Puis il ajouta aussitôt :
+
+— Mais le combat rapproché présente des dangers supplémentaires.
+
+Samia contempla la lame.
+
+— Alors il faudra que j'apprenne à m'en servir correctement.
+
+Hasol, qui observait l'exercice, sourit.
+
+— Je connais quelqu'un qui pourrait t'aider !
+
+Zéphyr leva un sourcil.
+
+— Elric ?
+
+— Et moi !
+
+Samia éclata de rire.
+
+Hasol se redressa fièrement.
+
+— Je me débrouille plutôt bien avec les lames !
+
+Zéphyr sourit.
+
+— Dans ce cas, nous organiserons quelques séances communes.
+
+Samia regarda son arc.
+
+Puis la dague qu'elle tenait.
+
+Elle n'avait aucune intention d'abandonner l'arme que son père lui avait enseignée.
+
+Mais elle comprenait désormais qu'elle pouvait développer un second style de combat.
+
+L'arc pour les affrontements à distance.
+
+Les dagues lorsque ses attaques devaient atteindre directement l'adversaire.
+
+Et Coup astral pour exploiter les situations où une attaque ordinaire ne suffirait pas.
+
+Cette idée lui plaisait énormément.
+
+### IX. L'Astrale et la Légendaire
+
+La rencontre officielle entre Hasol et Yoon fut organisée peu après leur Révélation.
+
+Le directeur souhaitait examiner les possibilités de coopération entre leurs classes.
+
+Hasol arriva légèrement en avance.
+
+Elric l'attendait déjà.
+
+— Tu viens de l'atelier ?
+
+Elle acquiesça.
+
+Il observa ses manches.
+
+Quelques traces de poussière runique y étaient encore visibles.
+
+Hasol suivit son regard.
+
+— Oh…
+
+Elle tenta de les faire disparaître.
+
+Elric sourit.
+
+— Ne t'inquiète pas. Nous ne sommes pas ici pour examiner ta tenue.
+
+La jeune Astrale éclata de rire.
+
+Quelques instants plus tard, la porte s'ouvrit.
+
+Yoon entra, accompagnée d'un jeune homme.
+
+Hasol reconnut immédiatement la nouvelle Légendaire.
+
+Le directeur se leva.
+
+— Mademoiselle Shun, je vous présente Yoon Notos.
+
+Hasol s'inclina légèrement.
+
+— Enchantée !
+
+Yoon lui rendit son salut.
+
+— Moi aussi !
+
+Le directeur poursuivit :
+
+— Et voici son frère aîné, Zio Notos.
+
+Hasol se tourna vers lui.
+
+— Enchantée, monsieur Notos.
+
+— De même.
+
+Zio lui adressa un sourire poli.
+
+Il avait naturellement entendu parler de l'Arcaniste Astral.
+
+Mais son attention se reporta rapidement sur sa sœur.
+
+— Tu es prête ?
+
+Yoon acquiesça.
+
+— Je crois.
+
+Il lui posa une main sur l'épaule.
+
+— Alors tout se passera bien.
+
+Elle sourit.
+
+— Tu dis toujours ça.
+
+— Et j'ai généralement raison.
+
+— Généralement, répéta-t-elle avec malice.
+
+Zio éclata de rire.
+
+Hasol observa leur échange avec amusement.
+
+Il était évident que le frère et la sœur étaient très proches.
+
+Zio annonça qu'il devait rejoindre une réunion concernant les préparatifs d'un raid de portail.
+
+Il salua les personnes présentes, puis se tourna une dernière fois vers Yoon.
+
+— Je viendrai te chercher après ton entretien.
+
+Elle acquiesça.
+
+— D'accord.
+
+Il quitta la pièce.
+
+Le directeur leur expliqua pourquoi il avait souhaité les réunir.
+
+Yoon possédait une classe légendaire.
+
+Ses compétences semblaient particulièrement intéressantes pour le soutien d'une équipe.
+
+Mais elle venait à peine de commencer sa formation.
+
+Hasol, en revanche, avait déjà trois années d'apprentissage derrière elle.
+
+Elle avait une nette avance en niveau.
+
+Et surtout, elle possédait une expérience du combat que Yoon n'avait pas encore eu le temps d'acquérir.
+
+La jeune Légendaire semblait en avoir parfaitement conscience.
+
+— Je risque de te ralentir, admit-elle.
+
+Hasol cligna des yeux.
+
+— Pourquoi ?
+
+— Tu as beaucoup plus de niveaux que moi…
+
+Hasol réfléchit quelques instants.
+
+Puis sourit.
+
+— Alors on commencera doucement !
+
+Yoon releva les yeux.
+
+— Tu n'es pas déçue ?
+
+— Pas du tout !
+
+Elle désigna Elric.
+
+— Quand je l'ai rencontré, il était déjà niveau quarante-cinq.
+
+Le Porte-bouclier acquiesça.
+
+— Et je le suis toujours.
+
+Hasol sourit.
+
+— Pourtant, il a accepté de m'entraîner alors que je venais seulement de recevoir ma classe !
+
+Yoon sembla se détendre.
+
+— C'est vrai…
+
+— Et puis, ajouta Hasol, on n'est pas obligées de faire toutes nos chasses ensemble. Tu peux progresser à ton rythme, et nous nous entraînerons lorsque ce sera utile.
+
+Le directeur sourit.
+
+— Une approche raisonnable.
+
+Elric contempla son élève avec satisfaction.
+
+Lorsque Yoon présenta ses compétences, une aptitude attira immédiatement l'attention d'Hasol.
+
+**Vague runique.**
+
+— C'est une attaque de Lumière, expliqua Yoon. Elle n'inflige pas énormément de dégâts, mais elle possède également un effet de soin.
+
+Hasol ouvrit grand les yeux.
+
+— Elle attaque et soigne en même temps ?
+
+— Oui !
+
+Yoon lui montra sa description.
+
+<div class="system-window lit-window" data-window-id="L2-C2-F08" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F08-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F08.svg" alt="Fenêtre du système — Coût : 5 Mana.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">Coût : 5 Mana.</div>
+  <p>Portée : 10 mètres.</p>
+  <p>Incantation : 5 secondes.</p>
+  <p>Aucun temps de recharge.</p>
+  <p>Dégâts de base : 20 % de la Puissance arcanique de Yoon, avant prise en compte de la Défense et des affinités.</p>
+  <p>Effet légendaire : restaure au membre du groupe possédant le plus faible pourcentage de PV actuels une quantité de PV égale à 5 % des PV maximaux de Yoon.</p>
+  </details>
+</div>
+
+Hasol relut la dernière ligne.
+
+Puis releva brusquement la tête.
+
+— Attends…
+
+Yoon la regarda.
+
+— Oui ?
+
+— Le soin dépend de tes propres PV maximaux ?
+
+— Exactement.
+
+— Pas de ceux de la personne que tu soignes ?
+
+— Non.
+
+Elric s'approcha.
+
+— Voilà une propriété particulièrement intéressante.
+
+Il examina la description.
+
+— Cela signifie que tu peux aider un compagnon blessé tout en participant à l'offensive.
+
+Yoon acquiesça.
+
+— Oui.
+
+Hasol réfléchit.
+
+— Et si tu es celle qui possède le plus faible pourcentage de PV ?
+
+— Le sort me soigne moi.
+
+La jeune Astrale sourit jusqu'aux oreilles.
+
+— C'est formidable !
+
+Yoon rougit légèrement.
+
+— Mais les dégâts restent assez faibles…
+
+— Ce n'est pas grave !
+
+Hasol désigna son épée.
+
+— Moi, je n'ai même pas de véritable sort offensif direct !
+
+Elric sourit.
+
+— Elle compense assez bien.
+
+Yoon éclata de rire.
+
+Ils rejoignirent ensuite un terrain d'entraînement.
+
+Elric souhaitait observer leur capacité à travailler ensemble.
+
+Il disposa plusieurs obstacles et mannequins.
+
+— Hasol, tu avanceras en première ligne. Yoon, tu conserveras une distance suffisante pour utiliser tes compétences.
+
+Les deux jeunes filles acquiescèrent.
+
+— Et surtout, ajouta le Porte-bouclier, communiquez.
+
+L'exercice commença.
+
+Hasol se dirigea rapidement vers le premier mannequin.
+
+Elle attaqua.
+
+Pivota.
+
+Puis changea brusquement de direction.
+
+Derrière elle, Yoon tenta de suivre.
+
+Mais un obstacle l'obligea à contourner une partie du parcours.
+
+Elle perdit momentanément la bonne distance.
+
+— Hasol ! lança Elric.
+
+La jeune Astrale s'immobilisa.
+
+— Oui ?
+
+— Tu viens de changer de direction sans prévenir ta partenaire.
+
+Hasol se retourna.
+
+Yoon lui adressa un sourire embarrassé.
+
+— Je n'ai pas réussi à suivre…
+
+Hasol baissa la tête.
+
+— Désolée.
+
+Elric croisa les bras.
+
+— Ton expérience est un avantage. Mais elle ne te dispense pas de tenir compte de tes compagnons.
+
+Hasol acquiesça.
+
+Ils recommencèrent.
+
+Cette fois, elle annonça ses déplacements.
+
+Yoon adapta progressivement son placement.
+
+Lorsqu'Hasol s'éloigna trop, la Légendaire lui signala qu'elle risquait de sortir de sa portée.
+
+La jeune Astrale revint immédiatement.
+
+Quelques minutes plus tard, elles parvinrent à terminer le parcours sans se gêner.
+
+Elric sourit.
+
+— Voilà.
+
+Hasol reprit son souffle.
+
+— C'était mieux ?
+
+— Beaucoup mieux.
+
+Il regarda Yoon.
+
+— Vous avez encore beaucoup de travail, toutes les deux. Mais vous commencez à comprendre ce qui rend une équipe efficace.
+
+Yoon sourit.
+
+Hasol lui tendit la main.
+
+— On recommence demain ?
+
+La Légendaire l'accepta.
+
+— Avec plaisir !
+
+Leur amitié se développa au fil des semaines.
+
+Yoon découvrit rapidement qu'Hasol pouvait parler de runes pendant des heures.
+
+Hasol, de son côté, appréciait la patience et la gentillesse de la Légendaire.
+
+Un après-midi, elles se retrouvèrent avec Samia.
+
+Yoon semblait légèrement embarrassée.
+
+— Je voulais te dire quelque chose, commença-t-elle.
+
+Samia pencha la tête.
+
+— Oui ?
+
+— Je n'ai pas aimé la manière dont certaines personnes ont réagi pendant ta Révélation.
+
+La jeune Ranger resta surprise.
+
+Yoon poursuivit :
+
+— Tu n'avais rien fait de mal.
+
+Samia contempla son visage.
+
+Puis un sourire apparut sur ses lèvres.
+
+— Merci.
+
+Hasol les regarda.
+
+Elle avait espéré qu'elles s'entendraient bien.
+
+Et cette conversation la rassura immédiatement.
+
+Très vite, les trois jeunes filles prirent l'habitude de se retrouver.
+
+Leurs classes étaient différentes.
+
+Leurs compétences aussi.
+
+Mais leurs échanges étaient toujours passionnants.
+
+Yoon s'intéressait aux découvertes de Samia.
+
+Samia posait de nombreuses questions sur Vague runique.
+
+Et Hasol leur racontait ses dernières expériences chez Orven.
+
+La jeune Astrale aimait énormément ces moments.
+
+Elle avait l'impression que sa vie ne cessait de devenir plus heureuse.
+
+### X. Trois chasseurs, cinquante points
+
+Lorsque Hasol atteignit le niveau vingt, elle se précipita vers Elric.
+
+— Monsieur Arowell !
+
+Le Porte-bouclier releva la tête.
+
+— Oui ?
+
+Elle lui montra son statut.
+
+— Niveau vingt !
+
+Il sourit.
+
+— Félicitations !
+
+Hasol croisa les bras.
+
+Puis attendit.
+
+Elric la contempla.
+
+— Quoi ?
+
+Elle prit un air offensé.
+
+— Vous avez oublié ?
+
+Son mentor réfléchit.
+
+Puis soupira.
+
+— Les boss de donjon.
+
+Elle sourit jusqu'aux oreilles.
+
+— Exactement !
+
+Elric éclata de rire.
+
+— Je me doutais que tu n'allais pas me laisser oublier cette conversation.
+
+Hasol acquiesça avec enthousiasme.
+
+— Vous aviez promis !
+
+— J'avais dit que nous pourrions envisager une expédition à partir du niveau vingt.
+
+Elle le regarda.
+
+— Et maintenant ?
+
+Le Porte-bouclier sourit.
+
+— Maintenant, nous allons vérifier si tu es prête.
+
+Hasol passa également chez Orven pour lui annoncer sa progression.
+
+Bénédiction runique venait de connaître une évolution importante.
+
+Au niveau vingt, la compétence réduisait désormais de quarante-cinq pour cent le risque relatif d'échec d'une amélioration.
+
+Elle diminuait également de vingt-cinq pour cent la probabilité relative de ne pas obtenir le meilleur résultat possible lors d'un renforcement variable.
+
+Orven examina attentivement la description.
+
+Puis récupéra plusieurs registres.
+
+— Nous allons devoir revoir certaines de nos estimations.
+
+Hasol s'assit auprès de lui.
+
+Ils comparèrent différents travaux réalisés au cours des mois précédents.
+
+Les nouvelles propriétés représentaient un avantage considérable.
+
+Mais elles ne garantissaient toujours pas la réussite des tentatives.
+
+Une amélioration pouvait échouer.
+
+Les ressources pouvaient être consommées.
+
+Et même lorsqu'Hasol connaissait le résultat final exact d'une rune à +15, elle devait encore parvenir à ce palier.
+
+Orven sourit.
+
+— Cette évolution devrait rendre certaines commandes beaucoup plus intéressantes.
+
+Hasol acquiesça.
+
+— Et je pourrai économiser davantage de ressources !
+
+— À condition de continuer à choisir soigneusement tes investissements.
+
+— Évidemment !
+
+L'artisan la contempla.
+
+Puis son regard descendit vers les différents registres accumulés depuis leurs premières séances.
+
+Il repensa à cette jeune fille de seize ans qui lui avait demandé des runes poubelles.
+
+Elle était désormais capable de réaliser des travaux que de nombreux artisans expérimentés n'auraient pas osé entreprendre.
+
+Et son talent semblait encore grandir.
+
+— Tu sais, Hasol…
+
+Elle releva les yeux.
+
+— Oui ?
+
+Orven sourit.
+
+— Je crois que tu vas vraiment finir par bouleverser notre métier.
+
+La jeune Astrale rougit légèrement.
+
+— Vous exagérez…
+
+L'artisan secoua la tête.
+
+— Pas autant que tu le crois.
+
+Elric organisa une première expédition en donjon lorsque Yoon eut acquis suffisamment d'expérience pour les accompagner.
+
+Le directeur examina leur composition.
+
+Hasol possédait une classe Astrale.
+
+Vingt-cinq points.
+
+Yoon était Légendaire.
+
+Vingt points.
+
+Elric était un Porte-bouclier commun.
+
+Cinq points.
+
+**Total : cinquante points.**
+
+Trois membres.
+
+Le minimum requis pour entrer dans un donjon.
+
+La formation respectait donc exactement les limites autorisées.
+
+Elric avait choisi une expédition adaptée à leur niveau et à leur expérience.
+
+Il avait étudié les renseignements disponibles sur les monstres.
+
+Préparé les itinéraires.
+
+Et prévu les conditions dans lesquelles ils devraient battre en retraite.
+
+— Nous ne partons pas pour établir un record, annonça-t-il.
+
+Hasol acquiesça.
+
+— Compris.
+
+— Nous respectons notre formation.
+
+Yoon hocha la tête.
+
+— Oui.
+
+— Et si la situation devient dangereuse, nous battons en retraite.
+
+Les deux jeunes femmes répondirent ensemble :
+
+— Oui, monsieur Arowell !
+
+Elric les contempla.
+
+Puis sourit.
+
+— Très bien.
+
+Le donjon était situé dans une région rocheuse à plusieurs heures de la capitale.
+
+L'air y était humide.
+
+Les couloirs étaient étroits.
+
+Et les monstres ne ressemblaient en rien aux mannequins de l'Académie.
+
+Elric avançait en première ligne.
+
+Son bouclier protégeait le passage.
+
+Hasol restait suffisamment proche pour intervenir lorsqu'une ouverture apparaissait.
+
+Yoon conservait une position légèrement en retrait.
+
+La première salle se déroula sans difficulté majeure.
+
+La seconde leur posa davantage de problèmes.
+
+Plusieurs monstres surgirent de passages différents.
+
+Elric attira l'attention des premiers.
+
+Hasol intercepta une créature qui tentait de contourner leur position.
+
+Mais, emportée par son mouvement, elle s'éloigna un peu trop.
+
+Un deuxième monstre apparut derrière le premier.
+
+Hasol recula.
+
+Trop tard.
+
+Une griffe atteignit son bras.
+
+— Ah !
+
+Elric intervint immédiatement.
+
+Il repoussa le monstre avec son bouclier.
+
+— Hasol ! Reste à portée !
+
+— Oui !
+
+La jeune Astrale serra les dents.
+
+Elle venait de commettre une erreur qu'il lui avait signalée des dizaines de fois.
+
+Son équipement Vol de vie lui permettait de récupérer une partie de ses PV lorsqu'elle frappait.
+
+Mais il ne pouvait pas la protéger de toutes les blessures.
+
+Et encore moins compenser un mauvais déplacement.
+
+Yoon observa la situation.
+
+Hasol était désormais la plus blessée proportionnellement parmi les trois membres du groupe.
+
+La Légendaire choisit une cible à portée.
+
+Puis commença son incantation.
+
+Cinq secondes.
+
+Une lumière blanche et dorée apparut devant elle.
+
+— Vague runique !
+
+L'onde atteignit un monstre.
+
+Au même instant, une douce énergie enveloppa Hasol.
+
+Une partie de ses PV fut restaurée.
+
+Elle baissa les yeux.
+
+Puis se tourna vers Yoon.
+
+— Tu m'as soignée !
+
+La jeune Légendaire lui sourit.
+
+— Oui !
+
+Elric observa brièvement leur coordination.
+
+— Très bien, Yoon ! Maintenant, concentrez-vous !
+
+Hasol se remit en garde.
+
+Cette fois, elle attendit qu'Elric crée une ouverture.
+
+Elle frappa.
+
+Puis recula.
+
+Elle ne chercha plus à poursuivre les monstres qui s'éloignaient de leur formation.
+
+Yoon conserva sa position.
+
+À chaque nouvelle utilisation de Vague runique, son effet de soin apportait une aide supplémentaire au compagnon le plus blessé en pourcentage.
+
+Le montant dépendait toujours des PV maximaux de Yoon.
+
+Pas de ceux d'Hasol.
+
+Ni de ceux d'Elric.
+
+À son niveau actuel, ce soin demeurait modeste.
+
+Mais il pouvait devenir particulièrement intéressant à mesure que la Légendaire progresserait.
+
+Lorsque le dernier monstre tomba, Hasol reprit son souffle.
+
+Elric s'approcha.
+
+— Qu'est-ce qui n'a pas fonctionné ?
+
+Elle baissa les yeux.
+
+— Je me suis trop éloignée.
+
+— Oui.
+
+— J'aurais dû attendre que vous attiriez le deuxième monstre.
+
+— Exactement.
+
+Hasol regarda Yoon.
+
+— Heureusement que tu étais là.
+
+La Légendaire sourit.
+
+— C'est pour ça qu'on forme une équipe.
+
+Elric les contempla avec satisfaction.
+
+Il n'attendait pas d'elles un combat parfait.
+
+Il voulait qu'elles apprennent à reconnaître leurs erreurs avant qu'elles deviennent fatales.
+
+Avant la dernière salle, Hasol utilisa Œil runique pour examiner les environs.
+
+Elle repéra plusieurs mécanismes dangereux.
+
+Elric interrompit immédiatement leur progression.
+
+La jeune Astrale signala les pièges.
+
+Puis, sous la supervision de son mentor, elle utilisa Main runique pour ouvrir une porte verrouillée.
+
+Yoon contempla la scène avec admiration.
+
+— C'est vraiment pratique !
+
+Hasol sourit.
+
+— Oui !
+
+Elric acquiesça.
+
+— Tes compétences d'exploration nous font gagner un temps précieux.
+
+La jeune Astrale sourit davantage.
+
+Puis ils étudièrent les renseignements disponibles sur le boss.
+
+Hasol sentit son cœur accélérer.
+
+Elle attendait ce moment depuis des années.
+
+Elric se tourna vers elle.
+
+— Tu te souviens de nos règles ?
+
+Elle soupira.
+
+— Oui.
+
+— Répète.
+
+Hasol prit un air résigné.
+
+— Le niveau vingt ne signifie pas que je peux vaincre n'importe quel boss. Nous devons respecter le plan et battre en retraite si la situation devient dangereuse.
+
+Elric sourit.
+
+— Excellent.
+
+Yoon étouffa un rire.
+
+Hasol lui adressa un regard faussement vexé.
+
+Puis sourit à son tour.
+
+Le combat commença quelques minutes plus tard.
+
+Elric engagea le boss.
+
+Hasol attendit l'ouverture.
+
+Yoon resta attentive aux déplacements de ses compagnons.
+
+Le monstre était puissant.
+
+Ses attaques obligeaient régulièrement Elric à reculer.
+
+Plusieurs fois, Hasol dut interrompre son offensive pour éviter de s'exposer.
+
+Mais progressivement, ils trouvèrent un rythme.
+
+Elric absorbait ou détournait les attaques les plus dangereuses.
+
+Hasol exploitait les ouvertures.
+
+Yoon soutenait le groupe et utilisait ses sorts lorsqu'elle disposait d'une position suffisamment sûre.
+
+Enfin, le boss vacilla.
+
+Elric leva son bouclier.
+
+Puis lança :
+
+— Hasol ! Maintenant !
+
+Elle s'élança.
+
+Son épée frappa l'ouverture qu'il venait de créer.
+
+Le boss s'effondra.
+
+Hasol recula, haletante.
+
+Pendant quelques instants, elle resta immobile.
+
+Puis une fenêtre apparut devant elle.
+
+<div class="system-window lit-window" data-window-id="L2-C2-F09" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F09-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F09.svg" alt="Fenêtre du système — Croissance runique.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">Croissance runique.</div>
+  <p>Boss de donjon personnellement achevé : +1.</p>
+  </details>
+</div>
+
+Son compteur spécifique venait de progresser.
+
+Une seule élimination sur les cent nécessaires au prochain cercle obtenu par cette voie.
+
+Hasol contempla le résultat.
+
+Puis releva les yeux vers Elric et Yoon.
+
+Elle sourit.
+
+— On a réussi !
+
+Yoon leva les bras.
+
+— Oui !
+
+Elric abaissa son bouclier.
+
+— Félicitations.
+
+Hasol referma sa fenêtre.
+
+Un seul boss.
+
+Mais elle avait désormais compris ce que cette élimination représentait.
+
+Elle aurait pu chercher à remplir son compteur le plus rapidement possible.
+
+À la place, elle avait appris quelque chose de plus important.
+
+Un boss n'était pas simplement une unité supplémentaire dans une progression.
+
+C'était un adversaire qu'il fallait comprendre, préparer et vaincre avec ses compagnons.
+
+— Merci, murmura-t-elle.
+
+Yoon pencha la tête.
+
+— Pourquoi ?
+
+Hasol sourit.
+
+— Parce que je n'aurais pas réussi seule.
+
+Elric lui adressa un regard fier.
+
+— Voilà une leçon qui valait le déplacement.
+
+### XI. Les années heureuses
+
+Les années suivantes furent riches en découvertes.
+
+Hasol continua de progresser dans les donjons.
+
+Les boss devinrent une source importante d'expérience.
+
+Mais elle n'abandonna pas les autres formes de chasse.
+
+Croissance runique lui offrait plusieurs chemins distincts.
+
+Les monstres ordinaires admissibles éliminés hors des portails.
+
+Les boss de donjon personnellement achevés.
+
+Et les démons de portails éliminés personnellement.
+
+Chaque catégorie possédait son propre compteur.
+
+Les éliminations ne pouvaient pas être ajoutées arbitrairement à plusieurs compteurs.
+
+Hasol apprit donc à organiser ses activités en tenant compte de leurs différents avantages.
+
+Elle ne pouvait pas augmenter ses cercles simplement en gagnant davantage d'expérience.
+
+Elle devait remplir les conditions précises de son passif.
+
+Cette distinction devint une partie essentielle de sa stratégie.
+
+Lorsqu'elle commença à participer à des raids de portails adaptés à son expérience, elle découvrit un autre aspect du métier de chasseuse.
+
+Ces opérations étaient souvent plus complexes que les donjons.
+
+Il fallait coordonner plusieurs unités.
+
+Répartir les rôles.
+
+Préparer les déplacements.
+
+Et tenir compte des capacités parfois très dangereuses des démons.
+
+Samia apportait désormais une aide précieuse à leur préparation.
+
+Grâce à Cartographie des portails, elle pouvait prévenir les responsables avant certaines manifestations.
+
+Les guildes gagnaient du temps pour organiser leurs interventions.
+
+Ray et Zio participaient également à ces opérations.
+
+Ils n'appartenaient pas pour autant au trio de donjon d'Hasol, Yoon et Elric.
+
+Leurs activités étaient principalement liées aux raids de portails et aux formations constituées pour ces missions.
+
+Hasol retrouvait parfois son meilleur ami pendant les préparatifs.
+
+Ray étudiait toujours soigneusement les renseignements disponibles.
+
+Un jour, elle le trouva devant une carte couverte de notes.
+
+— Ray ?
+
+Il releva la tête.
+
+— Oui ?
+
+— Tu es encore en train de travailler ?
+
+— Évidemment.
+
+Hasol observa ses documents.
+
+Puis sourit.
+
+— Tu sais qu'on part bientôt ?
+
+— Justement.
+
+Elle lui donna un léger coup de coude.
+
+— Tu devrais essayer de dormir de temps en temps.
+
+Ray ajusta ses lunettes.
+
+— C'est un conseil intéressant venant de toi.
+
+Hasol ouvrit la bouche.
+
+Puis éclata de rire.
+
+— D'accord, tu as gagné !
+
+Zio était tout aussi sérieux dans la préparation des raids.
+
+Il se distinguait par ses capacités défensives et son souci de protéger les chasseurs placés sous sa responsabilité.
+
+Hasol appréciait son professionnalisme.
+
+Mais leurs relations demeuraient essentiellement courtoises.
+
+Ils discutaient lorsqu'une mission l'exigeait.
+
+Échangeaient quelques paroles pendant les préparatifs.
+
+Puis rejoignaient leurs groupes respectifs.
+
+Zio ne semblait pas chercher à mieux la connaître.
+
+Et Hasol n'y voyait rien d'étrange.
+
+Elle savait simplement qu'il était très attaché à Yoon.
+
+Il lui arrivait de demander des nouvelles de sa sœur lorsqu'il croisait Hasol.
+
+— Elle progresse bien ?
+
+— Très bien ! répondait-elle avec enthousiasme.
+
+Zio souriait alors.
+
+— Tant mieux.
+
+Mais il ne prolongeait généralement pas la conversation.
+
+Il avait ses propres missions.
+
+Et Hasol se consacrait aux siennes.
+
+À l'atelier, la réputation d'Hasol grandissait.
+
+Ses compétences lui permettaient désormais d'obtenir des résultats que de nombreux artisans expérimentés auraient eu du mal à égaler.
+
+Œil runique jouait un rôle fondamental dans cette réussite.
+
+Elle pouvait examiner une rune avant d'engager des dépenses importantes.
+
+Connaître les caractéristiques secondaires qu'elle découvrirait.
+
+Et, lorsqu'elle réalisait personnellement les améliorations jusqu'à +15, connaître le résultat final exact.
+
+Orven avait parfaitement compris la portée de cet avantage.
+
+Il avait progressivement organisé une partie des activités de l'atelier autour de ses expertises.
+
+Mais il n'avait jamais cessé de lui enseigner la prudence.
+
+Certaines commandes étaient refusées.
+
+D'autres reportées.
+
+Et lorsqu'une amélioration présentait trop de risques au regard du budget disponible, Hasol apprenait à expliquer pourquoi il valait mieux ne pas la tenter.
+
+Cette rigueur contribua à sa réputation.
+
+Elle ne se contentait pas de produire de bonnes runes.
+
+Elle apprenait à investir intelligemment les ressources qu'on lui confiait.
+
+La réserve sacrificielle, elle aussi, continuait de grandir.
+
+Elle ne contenait jamais les pierres qu'Hasol jugeait intéressantes pour un équipement.
+
+Celles-ci étaient conservées pour être améliorées ou proposées à des clients.
+
+Mais les runes dont le potentiel était réellement médiocre pouvaient être récupérées à faible coût.
+
+Elles devenaient alors des ressources utiles pour Aura runique.
+
+Un jour, Orven observa Hasol trier un nouveau lot.
+
+Elle plaça une pierre dans le coffret des runes à améliorer.
+
+Une deuxième dans celui des runes destinées aux clients.
+
+Puis une troisième dans la réserve sacrificielle.
+
+L'artisan sourit.
+
+— Tu te souviens de ton premier jour ici ?
+
+Hasol releva la tête.
+
+— Bien sûr !
+
+— Tu étais venue me demander des runes poubelles.
+
+Elle éclata de rire.
+
+— C'est vrai !
+
+Orven contempla ses trois coffrets.
+
+— Et aujourd'hui, tu sais reconnaître pourquoi une pierre mérite d'être conservée, améliorée ou sacrifiée.
+
+Hasol sourit.
+
+— C'est grâce à vous !
+
+L'artisan secoua la tête.
+
+— Je t'ai appris à travailler. Mais Œil runique nous a ouvert des possibilités que je n'aurais jamais imaginées.
+
+Il contempla la rune qu'elle venait de sélectionner pour l'amélioration.
+
+— Et tu continues à m'en apprendre sur mon propre métier.
+
+La jeune Astrale rougit légèrement.
+
+— Vous exagérez…
+
+Orven éclata de rire.
+
+— Pas autant que tu le crois.
+
+Lorsqu'Hasol atteignit le niveau trente, Bénédiction runique évolua de nouveau.
+
+La réduction relative du risque d'échec passa à **soixante pour cent**.
+
+La réduction relative du risque de résultat non maximal atteignit **cinquante pour cent**.
+
+Orven contempla longtemps la nouvelle description.
+
+Puis il leva les yeux vers son apprentie.
+
+— Tu vas vraiment finir par révolutionner tout ce que nous connaissons de l'artisanat runique.
+
+Hasol sourit.
+
+— Vous aviez déjà dit ça le premier jour !
+
+L'artisan éclata de rire.
+
+— Et je maintiens chaque mot !
+
+Les nouveaux cercles d'Hasol lui ouvraient également des possibilités d'équipement.
+
+Elle conservait ses deux ensembles Vol de vie.
+
+Puis, suivant les conseils de Ray, elle commença à investir dans des runes Arcanique.
+
+Chaque pierre était sélectionnée soigneusement.
+
+Elle cherchait à renforcer sa Puissance arcanique sans négliger totalement son Attaque et sa mobilité.
+
+Lorsque les emplacements et les ressources le lui permirent, elle développa ensuite sa configuration Vitesse.
+
+Elric ne manqua pas de lui rappeler qu'il lui conseillait cet ensemble depuis des années.
+
+Hasol lui répondit en riant qu'elle n'avait jamais oublié.
+
+Ses projets ne s'arrêtaient pas là.
+
+Elle souhaitait encore intégrer Énergie et Gardien.
+
+Puis compléter les emplacements restants avec Fatal.
+
+Mais elle savait que ces objectifs demanderaient des cercles, des runes appropriées et énormément de ressources.
+
+Elle ne pouvait pas tout obtenir immédiatement.
+
+Alors elle avançait progressivement.
+
+Et chaque nouvelle acquisition constituait une petite victoire.
+
+Le temps continuait de passer.
+
+Hasol poursuivait ses entraînements.
+
+Yoon devenait une Légendaire de plus en plus compétente.
+
+Samia perfectionnait son tir à l'arc, ses techniques aux dagues et l'utilisation de Cartographie des portails.
+
+Ray continuait de lui apporter des livres.
+
+Orven lui confiait des travaux de plus en plus exigeants.
+
+Et Elric la poussait toujours à perfectionner ses techniques d'épée.
+
+Hasol rentrait aussi régulièrement chez ses parents.
+
+Armin lui racontait ses affaires commerciales avec un enthousiasme inépuisable.
+
+Iseria s'inquiétait de ses horaires.
+
+Et les repas familiaux donnaient souvent lieu à des discussions interminables sur les runes, les chasses ou les nouvelles découvertes de l'Académie.
+
+Hasol aimait cette vie.
+
+Elle avait des amis.
+
+Une famille.
+
+Des maîtres qu'elle admirait.
+
+Un métier qui la passionnait.
+
+Et l'impression que son avenir ne cessait de s'agrandir.
+
+Pourtant, elle ne remarqua pas immédiatement que les années avaient aussi commencé à peser sur Elric.
+
+Il récupérait moins rapidement après certaines expéditions.
+
+Ses épaules le faisaient parfois souffrir.
+
+Il prenait davantage de pauses après les entraînements les plus exigeants.
+
+Et lorsqu'Hasol lui demandait s'il allait bien, il répondait toujours avec un sourire :
+
+— Je ne suis plus aussi jeune que toi.
+
+Elle riait.
+
+Puis reprenait son épée.
+
+Elle ne s'imaginait pas encore qu'un jour, leurs entraînements quotidiens prendraient fin.
+
+### XII. Le dernier entraînement
+
+Hasol avait vingt-quatre ans lorsque son mentor lui annonça qu'il prenait sa retraite.
+
+Ils venaient de terminer une séance d'entraînement.
+
+Le soleil descendait lentement derrière les bâtiments de l'Académie.
+
+Hasol rangeait son épée lorsqu'Elric s'approcha.
+
+— Hasol, j'aimerais te parler.
+
+Elle se retourna.
+
+— Oui ?
+
+Il observa le terrain pendant quelques instants.
+
+Puis sourit.
+
+— Cela fait huit ans que nous nous entraînons ensemble.
+
+Hasol cligna des yeux.
+
+— Huit ans…
+
+Elle réfléchit.
+
+Puis éclata de rire.
+
+— C'est vrai !
+
+Elric acquiesça.
+
+— J'avais quarante-deux ans lorsque nous nous sommes rencontrés. Aujourd'hui, j'en ai cinquante.
+
+Hasol sourit.
+
+— Et vous êtes toujours aussi sévère !
+
+— Heureusement.
+
+Mais son mentor ne reprit pas immédiatement.
+
+Il contempla son épée.
+
+Puis le grand bouclier posé près de leurs affaires.
+
+— J'ai décidé de prendre ma retraite de chasseur.
+
+Hasol s'immobilisa.
+
+— Quoi ?
+
+Elric tourna la tête vers elle.
+
+— J'en ai parlé au directeur. Je vais cesser de participer aux expéditions.
+
+La jeune Astrale resta silencieuse.
+
+Pendant quelques instants, elle eut l'impression d'avoir mal entendu.
+
+— Mais…
+
+Elle chercha ses mots.
+
+— Vous allez bien ?
+
+Elric acquiesça.
+
+— Oui.
+
+Puis il sourit.
+
+— Aussi bien qu'un homme qui a passé une bonne partie de sa vie à recevoir des coups derrière un bouclier peut aller.
+
+Hasol ne rit pas.
+
+Elle regarda son mentor.
+
+Son armure semblait toujours aussi solide.
+
+Son épée était soigneusement entretenue.
+
+Ses gestes demeuraient précis.
+
+Mais elle connaissait désormais suffisamment Elric pour remarquer les changements qu'il cherchait parfois à dissimuler.
+
+Il récupérait moins rapidement.
+
+Certaines anciennes blessures le faisaient souffrir.
+
+Et il lui arrivait de rester assis plus longtemps après un entraînement particulièrement exigeant.
+
+Hasol avait préféré ne pas trop y réfléchir.
+
+— Vous pourriez encore nous accompagner, murmura-t-elle.
+
+Elric sourit doucement.
+
+— Peut-être quelque temps.
+
+Puis il ajouta :
+
+— Mais je préfère choisir moi-même le moment de m'arrêter plutôt que d'attendre qu'une blessure m'y oblige.
+
+Hasol baissa les yeux.
+
+Elle comprenait.
+
+Mais cela ne rendait pas la nouvelle plus facile à accepter.
+
+— Et Yoon et moi ?
+
+Elric posa une main sur son épaule.
+
+— Vous avez appris à travailler ensemble.
+
+— Oui, mais…
+
+— Et vous continuerez.
+
+Elle releva la tête.
+
+— Avec qui ?
+
+Le Porte-bouclier sourit.
+
+— Justement. Il y a quelqu'un avec qui j'aimerais te voir en discuter.
+
+Samia les attendait dans une salle d'entraînement voisine.
+
+Son arc reposait contre le mur.
+
+Elle portait deux dagues à sa ceinture.
+
+Lorsqu'elle aperçut Hasol et Elric, elle leur adressa un sourire.
+
+— Bonjour !
+
+Hasol s'arrêta.
+
+— Samia ?
+
+La jeune Ranger pencha la tête.
+
+— Oui ?
+
+Elric s'approcha.
+
+— J'ai demandé à Samia si elle accepterait de prendre ma place dans votre équipe de donjon.
+
+Hasol ouvrit grand les yeux.
+
+— Vraiment ?!
+
+Samia acquiesça.
+
+— Si tu es d'accord, bien sûr.
+
+Un immense sourire apparut sur le visage d'Hasol.
+
+— Mais évidemment !
+
+Samia éclata de rire.
+
+— Je pensais que tu serais contente.
+
+Hasol lui prit les mains.
+
+— C'est formidable !
+
+Elric toussota légèrement.
+
+Les deux jeunes femmes se tournèrent vers lui.
+
+— Avant de célébrer votre nouvelle équipe, il reste quelques points à examiner.
+
+Hasol soupira.
+
+— Je m'en doutais…
+
+Le mentor sourit.
+
+Puis il récupéra une feuille.
+
+— Hasol possède une classe Astrale, soit vingt-cinq points. Yoon est Légendaire, pour vingt points. Samia est une Ranger astral commune, qui représente cinq points.
+
+Il écrivit le total.
+
+**50 points.**
+
+La composition respectait exactement le plafond autorisé.
+
+Trois membres.
+
+Le minimum requis pour un groupe de donjon.
+
+Hasol contempla le document.
+
+— Ça fonctionne !
+
+— Oui, confirma Elric.
+
+Samia sourit.
+
+— Nous pourrons donc former une équipe toutes les trois.
+
+Hasol acquiesça avec enthousiasme.
+
+Puis Elric leva un doigt.
+
+— Mais attention.
+
+Elle se figea.
+
+— Quoi encore ?
+
+— Jusqu'à présent, je tenais le rôle de protecteur principal.
+
+Il désigna son bouclier.
+
+— Samia ne pourra pas remplacer directement mes capacités défensives.
+
+La jeune Ranger acquiesça.
+
+— Je ne possède pas votre endurance ni vos compétences de protection.
+
+Elric se tourna vers Hasol.
+
+— Cela signifie que vous devrez revoir votre manière de combattre.
+
+La jeune Astrale réfléchit.
+
+Elle possédait une excellente maîtrise de l'épée.
+
+Ses ensembles Vol de vie lui permettaient de récupérer des PV pendant les affrontements.
+
+Yoon pouvait soigner et soutenir le groupe.
+
+Samia apportait sa maîtrise de l'arc, ses dagues et Coup astral.
+
+Mais elles ne disposaient plus d'un Porte-bouclier expérimenté pour attirer et encaisser les attaques.
+
+— Nous devrons être beaucoup plus mobiles, murmura Hasol.
+
+Elric acquiesça.
+
+— Oui.
+
+Samia ajouta :
+
+— Je pourrai couvrir vos déplacements avec mon arc. Et intervenir au contact lorsque la situation le permettra.
+
+Hasol sourit.
+
+— Avec Œil runique, je pourrai également repérer les pièges. Et Main runique nous permettra d'ouvrir les coffres et les portes.
+
+Elric hocha la tête.
+
+— Voilà.
+
+Il contempla les deux jeunes femmes.
+
+— Vous possédez suffisamment de capacités pour construire une bonne équipe. Mais vous devrez apprendre à exploiter vos propres forces.
+
+Hasol acquiesça.
+
+Samia aussi.
+
+Puis la jeune Astrale demanda :
+
+— Et pour les raids de portails ?
+
+— Ils continueront à nécessiter des formations adaptées, répondit Elric. Votre trio de donjon ne sera pas forcément celui qui participera à chaque opération.
+
+Samia sourit.
+
+— Je continuerai aussi à travailler avec les guildes sur Cartographie des portails.
+
+— Naturellement.
+
+Hasol réfléchit.
+
+— Et nous pourrons toujours retrouver Ray et Zio lors de certains raids ?
+
+— Bien entendu, lorsque vos missions et les compositions autorisées le permettront.
+
+Hasol sourit.
+
+La nouvelle organisation lui plaisait.
+
+Ray et Zio continueraient principalement leurs activités de raids de portails.
+
+Samia rejoindrait Hasol et Yoon pour les donjons.
+
+Et Elric pourrait enfin prendre le repos qu'il avait largement mérité.
+
+La jeune Astrale regarda ses deux compagnons.
+
+Puis elle leva les bras.
+
+— Je crois que nous allons former une excellente équipe !
+
+Elric poussa un soupir.
+
+— J'espère surtout que vous allez rester prudentes.
+
+Samia éclata de rire.
+
+— Promis !
+
+Hasol acquiesça vivement.
+
+— Absolument !
+
+Elric les contempla.
+
+Puis secoua la tête avec amusement.
+
+— Curieusement, cette promesse ne me rassure qu'à moitié.
+
+Le lendemain matin, Hasol arriva sur le terrain d'entraînement avant le lever complet du soleil.
+
+Elle portait sa tenue habituelle.
+
+Son épée reposait à son côté.
+
+Et elle attendait.
+
+Quelques minutes plus tard, Elric apparut.
+
+Il avait choisi une tenue légère plutôt que son imposante armure.
+
+Il avait conservé son épée d'entraînement et un bouclier adapté aux exercices.
+
+Lorsqu'il aperçut Hasol, il sourit.
+
+— Tu es en avance.
+
+Elle acquiesça.
+
+— Je ne voulais pas être en retard.
+
+Il regarda le terrain.
+
+— Tu te souviens de notre première séance ?
+
+Hasol éclata de rire.
+
+— Évidemment !
+
+— Tu avais beaucoup d'enthousiasme.
+
+— J'en ai toujours !
+
+— Et très peu de patience.
+
+Elle fit la moue.
+
+— Vous allez vraiment me le rappeler jusqu'au bout ?
+
+Elric sourit.
+
+— Probablement.
+
+Ils gagnèrent le centre du terrain.
+
+Pendant quelques instants, aucun des deux ne bougea.
+
+Puis Elric leva son épée.
+
+— Une dernière fois ?
+
+Hasol sentit quelque chose se serrer dans sa poitrine.
+
+Elle inspira doucement.
+
+Puis sourit.
+
+— Une dernière fois.
+
+Le combat commença.
+
+Elric attaqua le premier.
+
+Hasol para.
+
+Elle pivota, chercha une ouverture, puis recula lorsque son mentor referma sa garde.
+
+Leurs épées se rencontrèrent.
+
+Encore.
+
+Et encore.
+
+Hasol connaissait désormais les habitudes d'Elric.
+
+La manière dont il déplaçait son pied avant certaines attaques.
+
+La position de son épaule lorsqu'il préparait une parade.
+
+Ses préférences lorsqu'il cherchait à reprendre l'avantage.
+
+Mais Elric connaissait tout aussi bien son élève.
+
+Il savait qu'elle aimait accélérer lorsqu'elle découvrait une ouverture.
+
+Qu'elle privilégiait souvent la précision à la force brute.
+
+Et que, malgré ses progrès extraordinaires, elle pouvait encore se laisser emporter par son enthousiasme.
+
+Il tenta une feinte.
+
+Hasol ne réagit pas.
+
+Elric sourit.
+
+— Bien.
+
+Elle attaqua.
+
+Il para.
+
+Puis déplaça brusquement son bouclier.
+
+Hasol recula juste assez pour éviter le contact.
+
+Son mentor acquiesça.
+
+— Très bien.
+
+Ils poursuivirent.
+
+Le soleil commença à apparaître au-dessus des murs.
+
+Leurs ombres s'étirèrent sur le terrain.
+
+Hasol respirait plus rapidement.
+
+Mais elle souriait.
+
+Elle avait l'impression de revivre une partie de ses huit années d'apprentissage.
+
+Les premières séances.
+
+Les innombrables corrections.
+
+Les exercices qu'elle avait trouvés interminables.
+
+Les journées où elle rentrait épuisée.
+
+Et les moments où Elric la félicitait après une réussite particulièrement difficile.
+
+Puis le combat ralentit.
+
+Ils échangèrent encore quelques coups.
+
+Elric tenta une dernière attaque.
+
+Hasol la para.
+
+Elle pivota.
+
+Puis revint immédiatement en garde, sans perdre son équilibre.
+
+Elric s'immobilisa.
+
+Elle aussi.
+
+Pendant quelques instants, ils restèrent silencieux.
+
+Puis le Porte-bouclier baissa lentement son épée.
+
+Un sourire apparut sur son visage.
+
+— Voilà.
+
+Hasol cligna des yeux.
+
+— Voilà quoi ?
+
+Il désigna ses pieds.
+
+— Tu n'as pas perdu ton équilibre.
+
+La jeune Astrale baissa les yeux.
+
+Puis releva la tête.
+
+Elle éclata de rire.
+
+— Vous avez encore essayé de me piéger !
+
+— Naturellement.
+
+Hasol secoua la tête.
+
+— Vous ne changerez jamais !
+
+Elric sourit.
+
+— Je pourrais te répondre la même chose.
+
+Ils rirent ensemble.
+
+Puis le silence revint.
+
+Hasol contempla son mentor.
+
+Elle avait tellement de choses à lui dire.
+
+Merci pour ses premières leçons.
+
+Pour sa patience.
+
+Pour les fois où il l'avait empêchée de prendre des risques inconsidérés.
+
+Pour avoir accepté de réorganiser sa formation autour de Croissance runique.
+
+Pour avoir cru en elle alors qu'elle découvrait à peine les possibilités de sa classe.
+
+Et pour avoir continué à lui enseigner tant de choses, même lorsqu'elle était devenue une épéiste capable de le surprendre.
+
+Mais tous ces mots lui paraissaient insuffisants.
+
+Elle finit par sourire doucement.
+
+— Merci, monsieur Arowell.
+
+Elric la contempla.
+
+— Pour quoi ?
+
+Hasol baissa légèrement la tête.
+
+— Pour ces huit années.
+
+Le Porte-bouclier resta silencieux.
+
+Puis son expression s'adoucit.
+
+— Tu as travaillé dur, Hasol.
+
+Elle releva les yeux.
+
+— Grâce à vous.
+
+— Non.
+
+Il secoua doucement la tête.
+
+— Je t'ai montré des chemins. Mais c'est toi qui les as parcourus.
+
+Hasol sentit ses yeux devenir humides.
+
+Elle détourna légèrement le regard.
+
+Elric sourit.
+
+— Tu maîtrises aujourd'hui des techniques que je n'aurais jamais imaginé te voir apprendre aussi rapidement.
+
+Puis il posa une main sur son épaule.
+
+— Mais ce dont je suis le plus fier, c'est que tu as appris à reconnaître tes limites.
+
+Hasol eut un petit rire.
+
+— J'essaie…
+
+— Je sais.
+
+Elle releva les yeux.
+
+— Vous viendrez quand même nous voir à l'Académie ?
+
+Elric éclata de rire.
+
+— Bien sûr !
+
+— Et je pourrai encore vous demander des conseils ?
+
+— Évidemment.
+
+— Et vous pourrez regarder nos entraînements de temps en temps ?
+
+Il prit un air faussement accablé.
+
+— Je commence à comprendre que ma retraite ne sera pas aussi tranquille que je l'espérais.
+
+Hasol éclata de rire.
+
+Puis elle s'approcha de lui et le serra dans ses bras.
+
+Elric resta surpris un instant.
+
+Puis il lui rendit doucement son étreinte.
+
+— Prends soin de toi, Hasol.
+
+Elle acquiesça.
+
+— Promis.
+
+Il recula légèrement.
+
+— Et prends soin de Yoon et Samia.
+
+Hasol lui adressa un sourire.
+
+— Elles prendront aussi soin de moi.
+
+Elric la contempla.
+
+Puis acquiesça.
+
+— Voilà exactement ce que je voulais entendre.
+
+Un peu plus tard, Hasol retrouva Yoon et Samia devant l'entrée de l'Académie.
+
+La jeune Légendaire tenait plusieurs documents.
+
+Samia portait son arc dans le dos et ses dagues à la ceinture.
+
+Lorsqu'elles aperçurent Hasol, elles lui adressèrent un sourire.
+
+— Alors ? demanda Yoon.
+
+Hasol s'approcha.
+
+— C'était un très bel entraînement.
+
+Samia l'observa avec douceur.
+
+— Tu vas bien ?
+
+La jeune Astrale acquiesça.
+
+— Oui.
+
+Elle regarda une dernière fois les bâtiments derrière elle.
+
+Huit années s'étaient écoulées depuis son arrivée à l'Académie.
+
+Elle avait découvert une classe extraordinaire.
+
+Appris à manier l'épée.
+
+Développé son artisanat.
+
+Obtenu de nouveaux cercles de mana.
+
+Exploré des donjons.
+
+Participé à des raids de portails.
+
+Et rencontré des personnes qui occupaient désormais une place essentielle dans sa vie.
+
+Aujourd'hui, Elric prenait sa retraite.
+
+Une partie de son apprentissage se terminait.
+
+Mais une autre commençait.
+
+Hasol se tourna vers ses amies.
+
+— Alors, qu'est-ce qu'on fait maintenant ?
+
+Yoon ouvrit son dossier.
+
+— J'ai préparé plusieurs propositions de donjons.
+
+Samia sourit.
+
+— Et j'ai quelques idées pour adapter notre formation.
+
+Hasol éclata de rire.
+
+— Vous avez travaillé sans moi !
+
+— Évidemment, répondit Yoon. Tu étais occupée.
+
+Samia lui tendit une feuille.
+
+— On voulait te faire une surprise.
+
+Hasol la prit.
+
+Elle parcourut rapidement les notes.
+
+Puis un immense sourire apparut sur son visage.
+
+— C'est formidable !
+
+Yoon éclata de rire.
+
+— Tu dis ça avant même d'avoir tout lu !
+
+— Je vais lire !
+
+Hasol se pencha davantage sur les documents.
+
+Samia lui montra un passage.
+
+Yoon lui expliqua une proposition de placement.
+
+Et les trois jeunes femmes commencèrent à discuter de leurs prochaines expéditions en traversant les jardins de l'Académie.
+
+Un peu plus loin, Ray les attendait devant la bibliothèque.
+
+Il tenait un livre sous le bras.
+
+— Hasol !
+
+Elle se retourna.
+
+— Ray !
+
+Il s'approcha.
+
+— J'ai trouvé l'ouvrage dont tu m'avais parlé.
+
+Les yeux de la jeune Astrale s'illuminèrent.
+
+— Vraiment ?!
+
+— Oui.
+
+Elle récupéra immédiatement le livre.
+
+Puis contempla sa couverture avec enthousiasme.
+
+— Tu es formidable !
+
+Ray ajusta ses lunettes.
+
+— Tu me l'as déjà dit.
+
+Hasol éclata de rire.
+
+— Et je continuerai à te le dire !
+
+Yoon sourit.
+
+Samia aussi.
+
+Les quatre amis reprirent leur chemin.
+
+Hasol avait vingt-quatre ans.
+
+Elle possédait une famille aimante.
+
+Des amis précieux.
+
+Des maîtres qu'elle admirait.
+
+Un métier qu'elle adorait.
+
+Et encore tant de choses à découvrir.
+
+L'avenir lui paraissait immense.
+
+Pour l'instant, elle n'aurait échangé cette vie contre aucune autre.
+
+*Fin du chapitre 2 — Les prodiges de l'Académie*

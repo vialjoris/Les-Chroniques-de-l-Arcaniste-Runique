@@ -28,6 +28,24 @@ renouvelle pas les fixtures. La protection supplémentaire avant import empêche
 également de rétablir les anciennes descriptions. Un test de mutation vérifie
 qu'un ancien lien de sommaire altéré reste détecté.
 
+### Correction ciblée de l'Œil — DEC-168
+
+Les empreintes originales restent inchangées, y compris celle du chapitre 10.
+`before_approved_oeil_corrections` inverse uniquement les deux paragraphes HTML
+contigus de la fenêtre `095` et la réplique d'Orven autorisés par DEC-168
+(`docs/new.txt:97371,97427`). Chaque remplacement exige le texte exact et une
+occurrence unique dans le chapitre 10 ; aucun autre chapitre n'est normalisé.
+Cette inversion est appliquée au préfixe historique et au calcul des empreintes
+avant import. Le texte des fenêtres est comparé à la fixture après cette seule
+inversion autorisée, sans exemption de fenêtre ni renouvellement de manifeste.
+
+Un contrôle distinct exige les nouveaux textes exacts, une seule fois, dans la
+fenêtre `095` du chapitre 10 et dans la narration pour la réplique : revenir à
+l'ancienne version ne suffit donc pas à faire réussir la suite. Les mutations
+couvrent nature aléatoire, mauvais palier, réplique altérée, suppression du
+paragraphe voisin, doublon et ajout narratif ; les changements hors chapitre 10
+ne sont pas inversés. Les fichiers JSON historiques ne sont pas modifiés.
+
 La source mobile est recherchée par titres et fins de chapitres, jamais par
 numéro de ligne ou nombre total de lignes. Pour les 14–16, la dernière version
 complète est retenue ; la section XI du 13 est contrôlée séparément. Les
@@ -226,3 +244,25 @@ solution de présentation pour son aperçu Markdown. La conservation distante de
 Le rendu réel desktop/mobile, les ombres, la lisibilité, les polices, les coupures
 et l’absence de troncature nécessitent aussi une revue navigateur distincte :
 présence du texte dans un SVG ne garantit pas à elle seule sa visibilité à l’écran.
+
+## Import du livre II
+
+`test_import_livre_ii.py` contrôle les deux chapitres intégrés dans leur source
+unique : neuf sections au chapitre 1, douze au chapitre 2, aucun chapitre 3.
+L'empreinte du chapitre 1 protège son état local antérieur à cet import, y compris
+les retouches de Croissance encore à relire ; elle ne vaut pas validation de ces
+retouches. Les contrôles historiques de ce chapitre restent limités à son texte.
+
+Pour le chapitre 2, la comparaison à `docs/new.txt:103069–108183` protège tout le
+texte utile, dans son ordre, après retrait du balisage de présentation. Les seules
+adaptations textuelles admises sont les noms explicites « Ranger astral » de
+Samia ; les appellations génériques et le Ranger Zéphyr sont conservés. Les tests
+couvrent séparément Vague runique, Bénédiction, les groupes à cinquante points et
+la retraite d'Elric. Les neuf nouveaux affichages système possèdent des
+identifiants stables `L2-C2-F01` à `L2-C2-F09`.
+
+Les SVG sont contrôlés sans écriture depuis `produire`, avec chemins isolés sous
+`assets/fenetres-livre-2/` : variantes mobile/bureau, XML passif, correspondance
+exacte des dérivés, absence d'images obsolètes et génération idempotente. La CLI
+par défaut du générateur reste réservée au livre I ; utiliser la procédure II de
+`docs/fenetres_github.md` pour régénérer ce livre.
