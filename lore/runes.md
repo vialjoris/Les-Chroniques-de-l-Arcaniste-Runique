@@ -4,11 +4,28 @@
 
 ## Livre II, chapitre 2 validé — DEC-162/163/168/170/171
 
+**Correction prioritaire de relecture — DEC-174 à DEC-177 :** avant le huitième cercle, Hasol a **sept runes équipées**, choisies avec **Orven et Ray** : **4 Fatal / 2 Gardien / 1 Énergie**, deux cadeaux d’Armin compris, et **une seconde Énergie préparée en réserve**. Les six pièces hors cadeaux représentent **3 Fatal, 1 Gardien, 2 Énergie** ; grades, étoiles, améliorations et affixes restent **À DÉFINIR**, sans reprise des runes maternelles du I. À sept cercles : Fatal 4/4 et Gardien 2/2 actifs, Énergie 1/2 inactif. Au huitième, elle équipe immédiatement la réserve : **8/8, 4 Fatal / 2 Gardien / 2 Énergie**, Énergie actif (+15 % PV). Avant les huit Vol de vie, deux cadeaux sont rangés avec l’accord d’Armin et **six autres** runes retirées/rangées à part. Aucun don, sacrifice, vente ou devenir ultérieur ajouté ; le bilan devient ensuite **8/8 Vol de vie**. Règle de préparation : au moins une rune de réserve pour un cercle **attendu**, pas huit réserves rétrospectives pour l’anomalie imprévisible du I (DEC-177), dont les états 2/10 restent inchangés.
+
 **Source validée, intégration locale autorisée :** `docs/new.txt:103069–108183`, douze sections. Suivi **agrégé de vie 2**, distinct des identités du I : aucun transfert matériel entre vies ni réemploi implicite des IDs `HAS-R001` et suivants. Les affixes non détaillés n’autorisent pas des fiches exhaustives inventées.
 
 - **II — départ et huitième cercle, racontés :** les deux cadeaux d’Armin sont une Fatal et une Gardien **rares (bleues), 6★, +6**, portées au début de la formation, sans fiches d’affixes de vie 2 extrapolées du I. Avant le niveau 10, Hasol atteint **huit cercles**, reçoit huit Vol de vie **rares (bleues), 4★, +6**, deux ensembles de quatre, dans le bureau du directeur avec Elric et Iseria. Affixes orientés Attaque/PA/Vitesse, valeurs individuelles À DÉFINIR. Iseria fournit les pierres ; Hasol ignore cette origine et l’accord financier confidentiel (DEC-163). Le soir, avec l’accord d’Armin, les cadeaux paternels sont rangés dans un coffre et les huit Vol de vie équipées : **8/8**, deux bonus actifs, pourcentages non fixés. Hasol promet de remettre les cadeaux quand elle aura assez de cercles ; leur rééquipement ultérieur est une trajectoire validée, pas un nouvel instantané raconté ici. Ni vente ni sacrifice.
 - **II — équipement progressif :** au chapitre 2, les deux Vol de vie sont conservés ; investissements Arcanique puis développement Vitesse quand cercles et ressources le permettent. Énergie/Gardien et complément Fatal restent ses projets. Trajectoire globale validée : deux Vol de vie, deux Arcanique, deux Vitesse, ensuite Énergie/Gardien et reste Fatal ; ce n’est pas une configuration finale exhaustive attestée au chapitre 2. Dates, occupation finale, grades, étoiles, améliorations et affixes des nouvelles pièces À DÉFINIR ; pourcentage et cumul propres au Vol de vie non fixés.
 - **II — réserve sacrificielle racontée :** idée anticipée d’Elric, achat chez Orven à la valeur de récupération après tri par Œil ; les pierres au potentiel intéressant sont conservées pour équipement ou clients. Réserve séparée des cadeaux, équipements et commandes ; quantités, grades, étoiles et prix individuels À DÉFINIR. Premiers lancements d’Aura sur l’épée d’Elric avant le niveau 10 d’Hasol, puis essais personnels au 10 : chaque lancement détruit définitivement une rune et consomme 200 Mana. Ne pas débiter un ID du I ou une des huit Vol de vie par déduction.
+
+### Rune d’exercice identifiée à la relecture — DEC-172
+
+**`L2-ORV-R001` — atelier d’Orven, vie 2.** Choix délégué par l’auteur pour compléter la fiche de `L2-C2-F01` ; pas une rune personnelle d’Hasol ni une identité reprise du I.
+
+| Propriété | Avant la démonstration | Après trois améliorations réussies |
+|---|---|---|
+| Ensemble / rang | Énergie, 1★ | Énergie, 1★ |
+| Grade natif | Commun (blanc) | Commun (blanc), inchangé |
+| Grade affiché | Commun (blanc) | Peu commun (vert) |
+| Amélioration | +0 | +3 |
+| Principale | Résistance +1 % | Résistance +4 % |
+| Secondaires | Aucune | **Vitesse +1**, première secondaire |
+
+La principale suit la table validée 1★ (1 % initial + un point par amélioration) ; la valeur Vitesse +1 est un choix éditorial délégué, pas une formule générale. Orven effectue la démonstration, après prédiction de la nature de la secondaire par Hasol. Rune d’exercice conservée à +3 à la fin de la scène, devenir ultérieur **À DÉFINIR** ; aucune paire Énergie active, vente, remise à Hasol ou destruction inventée. La rune blanche au potentiel intéressant examinée juste avant est un autre exemplaire non identifié.
 
 ## Trajectoires futures du III — DEC-165/166/169/170
 - **III — Savoir runique (DEC-165) :** Iseria, Astrae Rare, conserve une collection de runes légendaires de tous rangs d’étoiles dans une pièce verrouillée. Hasol l’ouvre avec Main ; Iseria explique ses expériences et interprète un livre sur les Runes astrales. Élévation de rareté par sacrifice de deux runes de la rareté visée, tout type ; même principe pour les étoiles (4→5 avec deux 5★). Propriétés/renforcements acquis conservés ; coûts, réussite, recalculs et nouvelles secondaires non définis. Aucune action sur les Runes astrales non améliorables déduite. `ISE-R001` au I reste prêtée et rendue intacte, jamais cadeau rétroactif.

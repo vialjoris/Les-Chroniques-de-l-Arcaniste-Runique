@@ -1,5 +1,7 @@
 # Chronologie
 
+**Relecture du chapitre 2 — DEC-174 à DEC-176 :** choix avec Orven et Ray de sept runes équipées, 4 Fatal / 2 Gardien / 1 Énergie, cadeaux paternels compris, et d’une seconde Énergie en réserve. Palier : 7→8 cercles dans la notification, réserve équipée immédiatement pour **8/8, 4/2/2** ; projet de visite à Orven, annonce d’une surprise par Elric, puis remise des huit Vol de vie. Le soir : deux cadeaux rangés avec Armin, six autres runes retirées/rangées, huit nouvelles pierres à 8/8. Aucun délai, niveau ou affixe supplémentaire déduit.
+
 **Retouche racontée DEC-159 :** au chapitre 1 du II, Hasol lit les trois compteurs devant ses parents (III), puis les explique à Elric (VII) avant la réunion confidentielle avec le directeur. Aucun temps écoulé ou gain supplémentaire ; les nouveaux ajouts locaux sont à relire, texte antérieur validé par DEC-156.
 
 ## Réception prioritaire du 25 novembre — DEC-158 à DEC-171

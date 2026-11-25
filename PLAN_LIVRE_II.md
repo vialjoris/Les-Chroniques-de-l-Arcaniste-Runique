@@ -1,5 +1,7 @@
 # Le Vertige des vies oubliées — Plan du livre II en seize chapitres
 
+**Correction de relecture — DEC-174 à DEC-177 :** sept runes déjà équipées avant le huitième cercle, choisies avec Orven et Ray : 4 Fatal / 2 Gardien / 1 Énergie, cadeaux paternels compris, plus une seconde Énergie en réserve. La notification affiche 7→8 cercles et huit emplacements ; la réserve est équipée immédiatement, soit 8/8 et 4/2/2. Hasol prévoit de revoir Orven le soir ; Elric annonce une surprise sans la révéler. Deux cadeaux et six autres runes rangés lors du passage aux huit Vol de vie. Pas de nouveaux affixes, vente ou sacrifice. Règle : au moins une rune préparée pour un **cercle attendu**, sans acquisition automatique. Les huit cercles rétroactifs imprévisibles du I sont une anomalie ; ses états 2/10 restent justifiés, sans raccord matériel à inventer (DEC-177).
+
 **Intégration locale achevée — DEC-171 :** chapitre 2 présent dans `livre_2_le_vertige_des_vies_oubliees.md`, douze sections, après le chapitre 1 préservé. Relectures annoncées après l’ajout ; passages de Croissance du chapitre 1 toujours à relire. Voir `docs/integration_livre_2_chapitre_2.md`.
 
 **Retouche du chapitre 1 — DEC-159 :** trois compteurs de Croissance désormais expliqués aux parents (III) puis à Elric (VII), sur demande mobile ciblée. Ajouts à relire, neuf sections et reste du texte validé préservés ; aucun gain, seuil avant dix ou changement d’Aura inventé. Voir l’audit du 25 novembre.

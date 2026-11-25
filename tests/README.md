@@ -252,13 +252,28 @@ unique : neuf sections au chapitre 1, douze au chapitre 2, aucun chapitre 3.
 L'empreinte du chapitre 1 protège son état local antérieur à cet import, y compris
 les retouches de Croissance encore à relire ; elle ne vaut pas validation de ces
 retouches. Les contrôles historiques de ce chapitre restent limités à son texte.
+Le sommaire demandé ensuite par l'auteur reprend le modèle du I pour les deux
+seuls chapitres existants. Son retrait exact et celui des deux ancres immédiatement
+devant leurs titres permettent de conserver l'empreinte historique sans la
+renouveler. Les titres déduits du manuscrit doivent correspondre aux liens et aux
+ancres uniques ; les mutations de lien, libellé, ancre, doublon, chapitre futur et
+ajout entre ancre et titre sont refusées. Une mutation narrative reste intacte
+après ce retrait et échoue au contrôle d'empreinte : aucune normalisation générale.
 
 Pour le chapitre 2, la comparaison à `docs/new.txt:103069–108183` protège tout le
-texte utile, dans son ordre, après retrait du balisage de présentation. Les seules
-adaptations textuelles admises sont les noms explicites « Ranger astral » de
-Samia ; les appellations génériques et le Ranger Zéphyr sont conservés. Les tests
-couvrent séparément Vague runique, Bénédiction, les groupes à cinquante points et
-la retraite d'Elric. Les neuf nouveaux affichages système possèdent des
+texte utile, dans son ordre, après retrait du balisage de présentation. Les
+adaptations autorisées sont précisément bornées : noms explicites « Ranger
+astral » de Samia (appellations génériques et Zéphyr inchangés), puis retouches
+de relecture DEC-172 à DEC-176. Celles-ci couvrent la seule identification de la
+rune d'exercice et sa fiche complète F01 (Résistance +4 %, première secondaire
+Vitesse +1 en gras), les deux paragraphes de description de Lame dans F02,
+les raccords des sept runes avec Orven/Ray, la seconde Énergie en réserve équipée
+immédiatement au huitième cercle, le rangement des deux cadeaux et des six
+autres runes, et les comptes 7→8 cercles / huit emplacements de F03. Les
+remplacements exacts sont vérifiés avant comparaison, sans exemption générale
+des fenêtres, descriptions ou de la section IV et sans renouveler la source.
+Les tests couvrent aussi Vague runique, Bénédiction, les groupes à cinquante
+points et la retraite d'Elric. Les neuf affichages du chapitre 2 gardent leurs
 identifiants stables `L2-C2-F01` à `L2-C2-F09`.
 
 Les SVG sont contrôlés sans écriture depuis `produire`, avec chemins isolés sous

@@ -1,5 +1,13 @@
 # Système LitRPG — Règles runiques
 
+## Préparation des emplacements et notifications — CANON, DEC-175 à DEC-177
+
+Les runes étant essentielles, un personnage qui **s’attend à obtenir un cercle** prépare **au moins une rune de réserve** pour l’équiper immédiatement, sans devoir attendre une boutique ou une prochaine chasse. Ne pas faire négliger cette préparation lors d’une progression anticipée. La réserve ne compte pas comme rune portée avant l’ouverture ; les changements d’équipement sont raccordés sans duplication ni perte. Cette règle n’est ni une génération automatique de runes, ni une obligation de prévoir l’imprévisible, ni une interdiction d’accès magique ; fiches individuelles et stocks inconnus ne sont pas inventés.
+
+Les nouvelles notifications de gain de cercle montrent **le nombre avant → après** et le **total d’emplacements**, dès lors que ces valeurs sont établies. Au chapitre 2 du II, `L2-C2-F03` : **7 → 8 cercles, 8 emplacements**, puis équipement immédiat de la seconde Énergie en réserve. Aucun total de cercles inconnu à extrapoler depuis un compteur de boss ou des niveaux. Les chapitres antérieurs ne sont pas réécrits globalement par cette seule règle.
+
+**Anomalie du livre I — explicitement clarifiée par l’auteur, DEC-177 :** les huit gains rétroactifs soudains ne pouvaient pas être préparés comme un cercle attendu. Les trois fenêtres **2/10**, la transition avec huit emplacements vides et les cadeaux maternels du lendemain sont donc conservés. La contradiction initialement signalée est **résolue**, sans ajouter huit réserves, modifier les chiffres ou déplacer le don. Le huitième cercle du II est en revanche anticipé : son équipement immédiat reste cohérent.
+
 ## Arbitrages prioritaires du 25 novembre — DEC-159 à DEC-171
 
 **Chapitre 2 validé — DEC-171 :** `docs/new.txt:103069–108183`, douze sections, GO d’intégration locale avec seuls affichages de classe de Samia et présentation des fenêtres modifiables. Les faits de formation jusqu’aux vingt-quatre ans d’Hasol sont racontés ; les jalons ultérieurs restent des futurs. Aucun chapitre 3 ni publication autorisé. [Audit](../docs/integration_mobile_2026_11_25.md).
@@ -345,7 +353,7 @@ Sans runes, ensembles ni effets temporaires : PV 12 180, Attaque 350, Défense 2
 
 Sans runes ni effets temporaires : PV 10 380, Attaque 417, Défense 703, Vitesse 111, Mana 1 000 et Puissance arcanique 900. Le Mana suit le repère normal de soutien ; la Puissance arcanique correspond au repère de soutien 600 augmenté de 300. Il s'agit d'une fiche individuelle, pas d'une nouvelle norme pour tous les soutiens. Aucune courbe naturelle, formule de soin ou de dégâts n'en découle ; Yoon reste une soutien polyvalente aux soins inférieurs à ceux d'une spécialiste, et niveau 54 à la fin du livre I.
 
-**Cercles runiques — CANON, DEC-055 :** Yoon dispose de **huit cercles runiques au niveau 60**, distincts des cercles de sorts posés au sol. Cette référence ne fixe ni les paliers d'obtention, ni le nombre au niveau 54, ni les runes effectivement équipées. Elle ne constitue pas une règle universelle pour les autres personnages.
+**Cercles runiques — CANON, DEC-055 :** Yoon dispose de **huit cercles runiques au niveau 60**, distincts des cercles de sorts posés au sol. Cette référence ne fixe ni les paliers d'obtention, ni le nombre au niveau 54, ni l'identité ou les caractéristiques des runes équipées ; une réserve est prévue pour les cercles attendus selon DEC-177. Elle ne constitue pas une règle universelle pour les autres personnages.
 
 **Positionnement parmi les classes rares — CANON, DEC-063 et DEC-064 :** Yoon et Zio se situent dans le haut du panier de leur classe rare pour le nombre de cercles runiques, avec huit chacun au niveau 60, contre une norme de six. Répartition et plafond éventuel restent **À DÉFINIR**. Ne pas en déduire une supériorité générale en combat ni une nouvelle rareté de classe.
 
@@ -366,7 +374,7 @@ Pas de résurrection, membre recréé, soin universel, restauration de Mana ou s
 | Légendaire | 8 |
 | Astrale | Inconnue ; les légendes parlent de plus de 10 cercles |
 
-Ces nombres sont des normes, pas des plafonds ni des totaux obligatoires pour chaque personnage. Ils ne fixent ni les paliers d'acquisition avant le niveau 60, ni les écarts possibles, ni l'occupation effective des emplacements. Les nombres individuels déjà validés restent inchangés.
+Ces nombres sont des normes, pas des plafonds ni des totaux obligatoires pour chaque personnage. Ils ne fixent ni les paliers d'acquisition avant le niveau 60, ni les écarts possibles, ni la composition des équipements. Les nombres individuels déjà validés restent inchangés ; la préparation d’une rune pour un cercle attendu suit DEC-177, sans inventer les fiches manquantes ni une réserve pour un gain massif imprévisible.
 
 **Classe astrale — CANON pour l'existence de la légende, DEC-065 :** le nombre réel de cercles est inconnu ; les légendes parlent de **plus de dix cercles**. Ce récit n'est pas une norme vérifiée au niveau 60 et ne fixe aucun total exact ni plafond. Ne pas transformer la légende en certitude du système ou extrapoler une progression linéaire.
 
@@ -508,7 +516,7 @@ Le chapitre 9 validé raconte deux gains supplémentaires, dix à douze cercles 
 - **Dernier Rempart — autodestruction :** obtenu au niveau 50, utilisé au niveau 61 lors de la catastrophe finale du livre I. Il tue Zio et le démon stellaire, permettant à Hasol de survivre (DEC-045 et DEC-058). Mécanisme détaillé, portée, conditions et calcul des dégâts **À DÉFINIR**.
 - Le Paladin d'Eden Eternal inspire ses passifs et sorts ; ses glyphes servent de référence pour adapter les bonus de runes dans les cercles. Aucun nombre de cercles, inventaire, coefficient, soin ou passif externe adopté automatiquement ; classe Gardien, Rare, conservée.
 - La fiche au niveau 61 et les gains intermédiaires restent **À DÉFINIR**. Ce niveau ne fixe aucune règle de butin au-delà de 60.
-- **Cercles de Zio — CANON, DEC-055 :** huit cercles runiques au niveau 60, soit huit emplacements. L'occupation, l'inventaire, les étapes d'acquisition et le nombre au niveau 61 restent **À DÉFINIR**. Ce nombre vient de l'auteur, pas du nombre de glyphes du guide ; aucune règle universelle de progression n'en découle.
+- **Cercles de Zio — CANON, DEC-055 :** huit cercles runiques au niveau 60, soit huit emplacements. La composition, l'inventaire individuel, les étapes d'acquisition et le nombre au niveau 61 restent **À DÉFINIR** ; les réserves des cercles attendus suivent DEC-177, sans stock inventé. Ce nombre vient de l'auteur, pas du nombre de glyphes du guide ; aucune règle universelle de progression n'en découle.
 
 ### Compétences du Gardien — CANON, DEC-058
 

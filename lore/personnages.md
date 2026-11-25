@@ -16,6 +16,8 @@
 
 ## Livre II — chapitre 2 raconté et validé, DEC-170/171
 
+**Correction de relecture — DEC-174 à DEC-176 :** avant le huitième cercle, Hasol porte sept runes (4 Fatal / 2 Gardien / 1 Énergie, cadeaux paternels compris), choisies avec Orven et Ray, et a une seconde Énergie en réserve. Aucun savoir de Croissance ajouté à Ray. Au huitième cercle, notification 7→8 puis équipement immédiat de la réserve : 8/8, composition 4/2/2. Elle envisage de revoir Orven le soir pour poursuivre ses choix d’équipement ; Elric annonce une surprise de l’Académie sans la dévoiler. Six pièces hors cadeaux retirées/rangées lors du passage aux huit Vol de vie ; scène affective des cadeaux préservée. Grades, étoiles et affixes des six pièces non inventés.
+
 Source lue intégralement : `docs/new.txt:103069–108183`. Vie 2, formation de **seize à vingt-quatre ans** ; aucun niveau final ni affixe manquant extrapolé.
 
 - **Hasol :** premiers apprentissages chez Orven et commandes rémunérées ; Œil vérifié sur les secondaires découvertes même par un autre artisan, valeurs finales exactes conditionnelles à son propre travail jusqu’à +15. Acquiert **Lame runique par maîtrise**, sans nouveau niveau ni cercle à cet instant. Atteint **huit cercles avant le niveau 10**, puis reçoit et équipe huit Vol de vie rares (bleues), 4★, +6 ; cadeaux paternels stockés avec l’accord d’Armin. Premiers essais d’Aura sur Elric, usage personnel et Infiltration au 10 ; Bénédiction 45/25 au 20, premier boss de donjon personnel avec Yoon/Elric (**1/100**, aucun cercle immédiat), puis Bénédiction 60/50 au 30. Investissements Arcanique puis Vitesse ; Énergie/Gardien/Fatal restent projets. Total final de cercles, équipement détaillé, XP et niveau final **À DÉFINIR**, sans figer le niveau à 30.

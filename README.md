@@ -27,7 +27,7 @@ Projet de roman de fantasy LitRPG en **trilogie**. Les livres I et II comportent
 
 **CANON** : validé par l’auteur. **PROPOSITION** : non approuvé. **À DÉFINIR** : information manquante ou arbitrage attendu. **CONTRADICTION** : incompatibilité à résoudre.
 
-Les fiches au niveau 60 ne remplacent pas les états de fin de livre I. Un nombre de cercles disponibles ne signifie pas autant de runes équipées. Les courbes proposées ne sont pas des gains automatiques par niveau.
+Les fiches au niveau 60 ne remplacent pas les états de fin de livre I. **Un personnage qui s’attend à gagner un cercle prépare au moins une rune de réserve**, équipée immédiatement au gain (DEC-175, précisée par DEC-177). Les huit cercles rétroactifs imprévisibles du I sont une anomalie : les états 2/10 avant les cadeaux maternels restent justifiés, sans réserve rétroactive inventée. Le nombre de cercles ne détermine ni les ensembles ni les caractéristiques individuelles des runes. Les courbes proposées ne sont pas des gains automatiques par niveau. Les nouvelles notifications de gain de cercle affichent les comptes avant/après et le total d’emplacements lorsqu’ils sont établis (DEC-176).
 
 ## Préparation des chapitres
 

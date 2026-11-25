@@ -2,7 +2,14 @@
 
 *Livre II — Le Vertige des vies oubliées*
 
+## Sommaire
+
+1. [Chapitre 1 — Une Astrale nommée Hasol](#chapitre-1)
+2. [Chapitre 2 — Les prodiges de l'Académie](#chapitre-2)
+
 ---
+
+<span id="chapitre-1"></span>
 
 ## Chapitre 1 — Une Astrale nommée Hasol
 
@@ -2168,6 +2175,8 @@ L'Arcaniste Astral venait de trouver un autre slime.
 
 ---
 
+<span id="chapitre-2"></span>
+
 ## Chapitre 2 — Les prodiges de l'Académie
 
 ### I. Une réserve pour l'avenir
@@ -2734,7 +2743,7 @@ Orven éclata d'un rire incrédule.
 
 — Bien davantage !
 
-L'artisan récupéra une rune blanche de faible valeur.
+L'artisan récupéra une rune Énergie commune (blanche), 1★, +0, de faible valeur.
 
 — Regarde celle-ci.
 
@@ -2808,14 +2817,22 @@ Orven examina immédiatement les informations.
 
 Son souffle se coupa.
 
-<div class="system-window lit-window" data-window-id="L2-C2-F01" data-window-type="amelioration">
+<div class="rune-window green-grade lit-window" data-window-id="L2-C2-F01" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F01-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F01.svg" alt="Fenêtre du système — Vitesse.">
+    <img src="assets/fenetres-livre-2/L2-C2-F01.svg" alt="Fenêtre du système — RUNE AMÉLIORÉE">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
-  <div class="system-header lit-window__header">Vitesse.</div>
+  <div class="system-header lit-window__header">RUNE AMÉLIORÉE</div>
+  <h3>Rune Énergie</h3>
+  <p>Grade actuel : <span class="lit-badge lit-badge--rune-uncommon">Peu commun (Vert)</span></p>
+  <p>Grade natif : <span class="lit-badge lit-badge--rune-common">Commun (Blanc)</span></p>
+  <p>Rang : 1★</p>
+  <p>Amélioration : <span class="upgrade-badge">+3</span></p>
+  <hr>
+  <p>Caractéristique principale : <span class="rune-bonus">Résistance +4 %</span></p>
+  <p>Caractéristique secondaire : <strong><span class="rune-bonus">Vitesse +1</span></strong></p>
   </details>
 </div>
 
@@ -3292,6 +3309,8 @@ Puis une fenêtre apparut.
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header">Nouvelle compétence passive acquise.</div>
   <p>Lame runique.</p>
+  <p>Renforce la compréhension des techniques d'escrime.</p>
+  <p>Facilite leur assimilation et améliore la précision ainsi que les automatismes associés au maniement de la lame.</p>
   </details>
 </div>
 
@@ -3397,6 +3416,10 @@ Puis un quatrième.
 
 Et progressivement, les suivants.
 
+Avec sept cercles, elle portait déjà sept runes, choisies avec Orven et Ray : quatre Fatal, dont celle offerte par son père, deux Gardien, dont son autre cadeau, et une Énergie.
+
+Avec eux, elle avait aussi préparé une seconde Énergie, gardée en réserve pour équiper son prochain emplacement dès l'obtention d'un nouveau cercle.
+
 Un jour, au terme d'une nouvelle chasse, son compteur franchit encore un palier.
 
 Une notification apparut.
@@ -3410,10 +3433,14 @@ Une notification apparut.
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header">Croissance runique — Seuil atteint.</div>
   <p>Un cercle de mana supplémentaire a été obtenu.</p>
+  <p>Cercles de mana : 7 → 8</p>
+  <p>Emplacements runiques : 8</p>
   </details>
 </div>
 
 Hasol s'immobilisa.
+
+Elle sortit aussitôt la seconde Énergie préparée avec Orven et Ray et l'équipa dans le nouvel emplacement.
 
 Elle ouvrit son statut.
 
@@ -3443,9 +3470,9 @@ Elle contempla ses emplacements.
 
 Huit cercles.
 
-Huit runes possibles.
+Huit runes équipées.
 
-Elle commença immédiatement à imaginer les ensembles qu'elle pourrait porter.
+Quatre Fatal, deux Gardien et deux Énergie : ses huit emplacements étaient occupés, et la paire Énergie était désormais active. Ses ensembles s'équilibraient.
 
 Elric l'observa avec amusement.
 
@@ -3460,6 +3487,10 @@ Hasol releva les yeux.
 Elle éclata de rire.
 
 — Évidemment !
+
+— Ce soir, je vais devoir aller voir Orven pour améliorer mes runes et préparer les prochains ensembles.
+
+— Attends, ne sois pas trop pressée. L'Académie te réserve une surprise. Tu verras.
 
 À son retour à l'Académie, un employé l'attendait près de l'entrée.
 
@@ -3723,7 +3754,7 @@ La jeune Astrale ne comprenait toujours pas pourquoi elle avait assisté à cett
 
 Mais elle était heureuse de la voir.
 
-Puis son regard descendit vers les deux runes qu'elle portait déjà.
+Puis son regard descendit vers les deux runes de son père, parmi les huit qu'elle portait.
 
 Son sourire hésita.
 
@@ -3877,7 +3908,7 @@ Il lui caressa doucement les cheveux.
 
 — De rien, ma princesse.
 
-Ce soir-là, Hasol équipa ses huit nouvelles runes.
+Ce soir-là, Hasol retira aussi les six autres runes et les rangea à part, puis équipa ses huit nouvelles runes.
 
 Deux ensembles Vol de vie complets.
 
