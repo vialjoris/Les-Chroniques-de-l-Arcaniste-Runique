@@ -1,5 +1,7 @@
 # Intégration du livre I — chapitre 13 XI, chapitres 14–16 et épilogue
 
+**Rectification postérieure — DEC-178/179/180 :** l’ancien affichage orange des runes +15 par simple amélioration est corrigé dans le manuscrit et ses dérivés. Les seize pièces finales sont rares bleues 6★ +15 selon les données connues et les choix délégués ; fiches et identités dans `../lore/runes.md`, porteurs dans `../lore/personnages.md`. Les inconnues et contrôles datés ci-dessous restent la provenance de cet import, pas l’état des présentations actuelles. Voir `correction_rarete_et_fiches_runiques.md`.
+
 ## Périmètre et statut
 
 Consignation du **23 novembre 2026**. Le GO de l’auteur autorise l’intégration locale du plan ; tous les chapitres **1–16 sont lus et validés**, notamment les 10–12 auparavant en lecture et l’ajout XI du 13. Pas de nouvelle rédaction du livre II, commit ou push autorisé. Les dix sections existantes du 13 et les chapitres précédents sont à préserver hors corrections ciblées demandées.

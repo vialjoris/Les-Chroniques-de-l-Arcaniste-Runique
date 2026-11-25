@@ -1,0 +1,124 @@
+{
+  "schema": "dec179-livre1-corrections-v1",
+  "stage": 2,
+  "path": "livre_1_l_ascension_d_une_legende_oubliee.md",
+  "offset_unit": "Unicode code points, not bytes",
+  "baseline_sha256": "1e4221ee2755748a072534630d816a22c6b84f260e3bb500347b2d8c3d304912",
+  "result_sha256": "a26785c286e66efe96466aa355d08aba4a002a670c32d52491e261d47d257575",
+  "reverse_verified": true,
+  "combined_reverse_verified": true,
+  "stage1_manifest_sha256": "1e20c5b5454385ad414d40297b1b2a60b4db68e78dc4291299d24f1c81ad8796",
+  "stage1_pairs_unchanged": 126,
+  "reverse_instructions": "Inverser ce stage2 en ordre inverse sur le manuscrit brut avec after_start_char:after_end_char, vérifier after, remplacer par before. Vérifier baseline_sha256. Puis inverser le stage1 livre1-corrections.json de même pour retrouver 9d27a766bef9706867ebbf658ba4dd2ecfb46b885cbf6a4e5d850ad3ae0caa2b. Aucun renouvellement de fixture historique.",
+  "windows_modified": [],
+  "windows_added": [
+    "C12-R01",
+    "C12-R02",
+    "C6-R02",
+    "C6-R03",
+    "C7-R01",
+    "C7-R02",
+    "C7-R03"
+  ],
+  "pairs": [
+    {
+      "operation": "replace",
+      "before_start_char": 335776,
+      "before_end_char": 335865,
+      "after_start_char": 335776,
+      "after_end_char": 336940,
+      "before": "Elle prit une petite rune commune (blanche), rang À DÉFINIR et observa ses inscriptions.\n",
+      "after": "Elle prit une petite rune Énergie commune (blanche), 1★, +0, et observa ses inscriptions.\n\n<div class=\"rune-window lit-window\" data-window-id=\"C6-R02\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C6-R02-mobile.svg\">\n    <img src=\"assets/fenetres/C6-R02.svg\" alt=\"Fenêtre du système — RUNE DE RÉCUPÉRATION EXAMINÉE\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>RUNE DE RÉCUPÉRATION EXAMINÉE</div>\n  <h3>REC-R002 — Énergie <span class=\"lit-badge lit-badge--rune-common\">commune (blanche)</span>, 1★ <span class=\"upgrade-badge\">+0</span></h3>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">PV +40</span></p>\n  <p><strong>Secondaires :</strong> Aucune.</p>\n  <p>Pierre de la caisse de récupération d’Orven, distincte des runes personnelles d’Hasol.</p>\n  </details>\n</div>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 358475,
+      "before_end_char": 358561,
+      "after_start_char": 359550,
+      "after_end_char": 360707,
+      "before": "— Tu viens de classer une rune Fatal (grade et rang : À DÉFINIR) dans le lot Gardien.\n",
+      "after": "— Tu viens de classer une rune Fatal commune blanche, une étoile, +0, dans le lot Gardien.\n\n<div class=\"rune-window lit-window\" data-window-id=\"C6-R03\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C6-R03-mobile.svg\">\n    <img src=\"assets/fenetres/C6-R03.svg\" alt=\"Fenêtre du système — RUNE DU TRI — IDENTIFICATION\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>RUNE DU TRI — IDENTIFICATION</div>\n  <h3>REC-R003 — Fatal <span class=\"lit-badge lit-badge--rune-common\">commune (blanche)</span>, 1★ <span class=\"upgrade-badge\">+0</span></h3>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">Attaque +3</span></p>\n  <p><strong>Secondaires :</strong> Aucune.</p>\n  <p>Pierre du tri de l’atelier ; son classement erroné ne change pas son ensemble.</p>\n  </details>\n</div>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 361620,
+      "before_end_char": 361678,
+      "after_start_char": 363766,
+      "after_end_char": 363822,
+      "before": "— Une série de runes Gardien (grade et rang : À DÉFINIR).\n",
+      "after": "— Une série de runes Gardien de divers grades et rangs.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 404279,
+      "before_end_char": 404325,
+      "after_start_char": 406423,
+      "after_end_char": 406467,
+      "before": "Une rune Énergie (grade et rang : À DÉFINIR).\n",
+      "after": "Une rune Énergie commune (blanche), 2★, +3.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 404326,
+      "before_end_char": 404366,
+      "after_start_char": 406468,
+      "after_end_char": 410838,
+      "before": "Deux Fatal (grade et rang : À DÉFINIR).\n",
+      "after": "<div class=\"rune-window lit-window\" data-window-id=\"C7-R01\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C7-R01-mobile.svg\">\n    <img src=\"assets/fenetres/C7-R01.svg\" alt=\"Fenêtre du système — REGISTRE — COMMANDE ÉNERGIE\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>REGISTRE — COMMANDE ÉNERGIE</div>\n  <h3>CLI-R003 — Énergie <span class=\"lit-badge lit-badge--rune-common\">commune (blanche)</span>, 2★</h3>\n  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">État consigné</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">Initial <span class=\"upgrade-badge\">+0</span></th><td class=\"rune-bonus\">PV +70</td><td>Aucune</td></tr>\n      <tr><th scope=\"row\">Commande achevée <span class=\"upgrade-badge\">+3</span></th><td class=\"rune-bonus\">PV +160</td><td class=\"rune-bonus\">Défense +3</td></tr>\n    </tbody>\n  </table>\n  <p>Commande cliente rappelée au registre ; rareté et étoiles inchangées.</p>\n  </details>\n</div>\n\nDeux Fatal 2★, +3, l’une commune blanche, l’autre peu commune verte.\n\n<div class=\"rune-window lit-window\" data-window-id=\"C7-R02\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C7-R02-mobile.svg\">\n    <img src=\"assets/fenetres/C7-R02.svg\" alt=\"Fenêtre du système — REGISTRE — PREMIÈRE COMMANDE FATAL\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>REGISTRE — PREMIÈRE COMMANDE FATAL</div>\n  <h3>CLI-R004 — Fatal <span class=\"lit-badge lit-badge--rune-common\">commune (blanche)</span>, 2★</h3>\n  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">État consigné</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">Initial <span class=\"upgrade-badge\">+0</span></th><td class=\"rune-bonus\">Attaque +5</td><td>Aucune</td></tr>\n      <tr><th scope=\"row\">Commande achevée <span class=\"upgrade-badge\">+3</span></th><td class=\"rune-bonus\">Attaque +14</td><td class=\"rune-bonus\">Défense +3</td></tr>\n    </tbody>\n  </table>\n  <p>Commande cliente distincte des Fatal personnelles d’Hasol ; rareté et étoiles inchangées.</p>\n  </details>\n</div>\n\n<div class=\"rune-window lit-window\" data-window-id=\"C7-R03\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C7-R03-mobile.svg\">\n    <img src=\"assets/fenetres/C7-R03.svg\" alt=\"Fenêtre du système — REGISTRE — SECONDE COMMANDE FATAL\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>REGISTRE — SECONDE COMMANDE FATAL</div>\n  <h3>CLI-R005 — Fatal <span class=\"lit-badge lit-badge--rune-uncommon\">peu commune (verte)</span>, 2★</h3>\n  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">État consigné</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">Initial <span class=\"upgrade-badge\">+0</span></th><td class=\"rune-bonus\">Attaque +5</td><td class=\"rune-bonus\">Vitesse +2</td></tr>\n      <tr><th scope=\"row\">Commande achevée <span class=\"upgrade-badge\">+3</span></th><td class=\"rune-bonus\">Attaque +14</td><td class=\"rune-bonus\">Vitesse +4</td></tr>\n    </tbody>\n  </table>\n  <p>Commande cliente distincte de la précédente ; secondaire renforcée, rareté et étoiles inchangées.</p>\n  </details>\n</div>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 752321,
+      "before_end_char": 752551,
+      "after_start_char": 758793,
+      "after_end_char": 759020,
+      "before": "Certaines étaient communes, blanches, d’autres peu communes, vertes (rangs : À DÉFINIR). Aucune ne possédait de caractéristiques particulièrement recherchées, mais elles représentaient toutes quelque chose de précieux à ses yeux.\n",
+      "after": "Certaines étaient communes, blanches, d’autres peu communes, vertes, de divers rangs. Aucune ne possédait de caractéristiques particulièrement recherchées, mais elles représentaient toutes quelque chose de précieux à ses yeux.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 935745,
+      "before_end_char": 935839,
+      "after_start_char": 942214,
+      "after_end_char": 942314,
+      "before": "Un jour, un marchand fortuné se présenta avec une rune légendaire, orange, de rang À DÉFINIR.\n",
+      "after": "Un jour, un marchand fortuné se présenta avec une rune Fatal légendaire, orange, six étoiles, à +9.\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 936216,
+      "before_end_char": 936216,
+      "after_start_char": 942691,
+      "after_end_char": 944530,
+      "before": "",
+      "after": "\n<div class=\"rune-window lit-window\" data-window-id=\"C12-R01\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C12-R01-mobile.svg\">\n    <img src=\"assets/fenetres/C12-R01.svg\" alt=\"Fenêtre du système — ŒIL RUNIQUE — RUNE DU MARCHAND\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>ŒIL RUNIQUE — RUNE DU MARCHAND</div>\n  <h3>CLI-R006 — Fatal <span class=\"lit-badge lit-badge--rune-legendary\">légendaire (orange)</span>, 6★</h3>\n  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">État</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">Réel <span class=\"upgrade-badge\">+9</span></th><td class=\"rune-bonus\">Précision +39 %</td><td class=\"rune-bonus\">PA +60 ; Vitesse +4 ; Défense +30 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">Projection conditionnelle <span class=\"upgrade-badge\">+15</span> — NON ACQUISE</th><td class=\"rune-bonus\">Précision +64 %</td><td class=\"rune-bonus\">PA +60 ; Vitesse +4 ; Défense +60 ; Mana +40</td></tr>\n    </tbody>\n  </table>\n  <p><strong>Condition :</strong> améliorations restantes effectuées personnellement par Hasol jusqu’à +15 ; réussite des tentatives non garantie, ressources nécessaires.</p>\n  <p><strong>Paliers +12 / +15 :</strong> ordre des renforcements de Défense et de Mana indéterminé. Rareté et étoiles inchangées.</p>\n  <p>État réel conservé à +9 ; aucune tentative engagée lors de cet examen.</p>\n  </details>\n</div>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 946142,
+      "before_end_char": 946222,
+      "after_start_char": 954456,
+      "after_end_char": 954545,
+      "before": "Il sortit une petite rune peu commune, verte, de rang À DÉFINIR, de sa sacoche.\n",
+      "after": "Il sortit une petite rune Énergie peu commune, verte, deux étoiles, à +0, de sa sacoche.\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 947059,
+      "before_end_char": 947059,
+      "after_start_char": 955382,
+      "after_end_char": 957093,
+      "before": "",
+      "after": "\n<div class=\"rune-window lit-window\" data-window-id=\"C12-R02\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C12-R02-mobile.svg\">\n    <img src=\"assets/fenetres/C12-R02.svg\" alt=\"Fenêtre du système — ŒIL RUNIQUE — RUNE DU JEUNE CHASSEUR\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>ŒIL RUNIQUE — RUNE DU JEUNE CHASSEUR</div>\n  <h3>CLI-R007 — Énergie <span class=\"lit-badge lit-badge--rune-uncommon\">peu commune (verte)</span>, 2★</h3>\n  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">État</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">Réel <span class=\"upgrade-badge\">+0</span></th><td class=\"rune-bonus\">Résistance +2 %</td><td class=\"rune-bonus\">PV +20</td></tr>\n      <tr><th scope=\"row\">Projection conditionnelle <span class=\"upgrade-badge\">+15</span> — NON ACQUISE</th><td class=\"rune-bonus\">Résistance +19 %</td><td class=\"rune-bonus\">PV +80 ; Vitesse +2 ; Défense +3 ; Mana +10</td></tr>\n    </tbody>\n  </table>\n  <p><strong>Condition :</strong> améliorations effectuées personnellement par Hasol jusqu’à +15 ; réussite des tentatives non garantie, ressources nécessaires.</p>\n  <p>Rareté et étoiles inchangées. L’analyse ne constitue pas une amélioration ; aucun palier final n’est acquis ici.</p>\n  </details>\n</div>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 949040,
+      "before_end_char": 949091,
+      "after_start_char": 959074,
+      "after_end_char": 959134,
+      "before": "— Une rune peu commune, verte, de rang À DÉFINIR ?\n",
+      "after": "— Une rune Énergie peu commune, verte, deux étoiles, à +0 ?\n"
+    }
+  ]
+}

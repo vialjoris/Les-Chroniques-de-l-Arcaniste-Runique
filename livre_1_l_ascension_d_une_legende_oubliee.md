@@ -1053,6 +1053,7 @@ Un symbole apparut brièvement autour de son premier cercle.
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>RUNE ÉQUIPÉE</div>
   <p><strong>Rune Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
   <p class="lit-window__row"><span>Emplacements utilisés :</span> <strong class="lit-window__value">1 / 2</strong></p>
+  <p><strong>HAS-R001 — Principale :</strong> <span class="rune-bonus">Attaque +70</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; PV +25</span>.</p>
   </details>
 </div>
 
@@ -1095,6 +1096,7 @@ Quelques instants plus tard, la rune Gardien rare à six étoiles rejoignit la F
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>RUNE ÉQUIPÉE</div>
   <p><strong>Rune Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
   <p class="lit-window__row"><span>Emplacements utilisés :</span> <strong class="lit-window__value">2 / 2</strong></p>
+  <p><strong>HAS-R002 — Principale :</strong> <span class="rune-bonus">Défense +70</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +30 ; Mana +20</span>.</p>
   </details>
 </div>
 
@@ -3915,6 +3917,7 @@ L’éclat s’éteignit.
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État après la tentative :</strong> +0 — caractéristiques inchangées</p>
+  <p><strong>HAS-R003 — Principale :</strong> <span class="rune-bonus">Attaque +7</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +2 ; PV +30</span>.</p>
   <p>Les ressources engagées dans cette tentative ont été consommées.</p>
   </details>
 </div>
@@ -4013,6 +4016,21 @@ Lorsque le dernier lien se stabilisa, Hasol sentit un changement dans la circula
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ÉQUIPEMENT RUNIQUE ACTUALISÉ</div>
   <p class="lit-window__row"><strong>Emplacements occupés :</strong> <span class="lit-window__value">10 / 10</span></p>
   <p><strong>Équipement :</strong> 2 runes <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; 8 runes 3★ de grades <span class="lit-badge lit-badge--rune-uncommon">peu commun (vert)</span> et <span class="lit-badge lit-badge--rune-rare">rare (bleu)</span>, dont 1 à +3 et 7 à +0.</p>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +3</th><td class="rune-bonus">Attaque +22</td><td class="rune-bonus">Vitesse +4 ; PV +30</td></tr>
+      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Attaque +7</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Vitesse +3</td><td class="rune-bonus">Attaque +3</td></tr>
+      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3 %</td></tr>
+      <tr><th scope="row">HAS-R007 · Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
+      <tr><th scope="row">HAS-R008 · Gardien peu commune (verte), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr><th scope="row">HAS-R009 · Énergie rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3 %</td></tr>
+      <tr><th scope="row">HAS-R010 · Énergie peu commune (verte), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30</td></tr>
+    </tbody>
+  </table>
   <hr>
   <p><strong>Fatal :</strong> 4 pièces — 1 ensemble de 4 actif — <span class="rune-bonus">Attaque +35 %</span></p>
   <p><strong>Gardien :</strong> 4 pièces — 2 ensembles de 2 actifs — <span class="rune-bonus">Défense +15 % +15 % = +30 %</span></p>
@@ -4629,6 +4647,20 @@ Enfant, Hasol tirait sa mère vers les armuriers. Elle s’arrêtait maintenant 
 
 Une Fatal peu commune, verte, trois étoiles, à +0, retint son regard. Principale d’Attaque, secondaire de Vitesse. Elle rapprocha mentalement ses caractéristiques de celles de son équipement. Ses dix emplacements étaient occupés, ses ensembles complets : quatre Fatal, quatre Gardien, deux Énergie. Cette pièce ne s’ajouterait pas aux autres. Il faudrait en retirer une, comparer ce qu’elle perdrait et ce qu’elle gagnerait.
 
+<div class="rune-window lit-window" data-window-id="C3-R01" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C3-R01-mobile.svg">
+    <img src="assets/fenetres/C3-R01.svg" alt="Fenêtre du système — RUNE EXAMINÉE AU MARCHÉ">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE EXAMINÉE AU MARCHÉ</div>
+  <h3>MAR-R001 — Fatal peu commune (verte), 3★ <span class="upgrade-badge">+0</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">Attaque +7</span></p>
+  <p><strong>Secondaire présente :</strong> <span class="rune-bonus">Vitesse +2</span></p>
+  </details>
+</div>
+
 Elle se pencha néanmoins. Sur le coussin sombre, l’éclat vert soulignait les creux de la gravure.
 
 — Je peux vous la montrer, proposa le marchand en sortant de sa boutique.
@@ -4865,7 +4897,7 @@ Orven prit sur un plateau une Énergie commune, blanche, deux étoiles, à +0, e
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ÉTAT INITIAL DE LA RUNE</div>
   <h3>Rune Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★ <span class="upgrade-badge">+0</span></h3>
-  <p><strong>Principale :</strong> <span class="rune-bonus">PV</span></p>
+  <p><strong>ORV-R001 — Principale :</strong> <span class="rune-bonus">PV +70</span></p>
   <p><strong>Secondaires :</strong> Aucune</p>
   </details>
 </div>
@@ -4906,6 +4938,7 @@ Elle renouvela les ressources et vérifia le niveau de départ. À +1, la rune �
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+1 → +2</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État conservé :</strong> <span class="upgrade-badge">+1</span> — rune intacte</p>
+  <p><strong>ORV-R001 — Principale :</strong> <span class="rune-bonus">PV +100</span> ; <strong>secondaires :</strong> Aucune.</p>
   <p>Les ressources engagées ont été consommées.</p>
   </details>
 </div>
@@ -4932,7 +4965,7 @@ Cette fois, le passage de +1 à +2 réussit. La principale de PV augmenta encore
 
 À +3, la première secondaire devait apparaître. Elle savait la règle ; cela ne l’empêcha pas d’observer avec une impatience presque douloureuse les lignes qui s’illuminaient. Une goutte de sueur glissa près de son oreille. Elle la laissa descendre.
 
-L’éclat se resserra au bord de la pierre, puis prit une teinte verte.
+L’éclat blanc se resserra au bord de la pierre, sans changer de couleur.
 
 Hasol retira lentement les mains.
 
@@ -4944,12 +4977,12 @@ Hasol retira lentement les mains.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <h3>Rune Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★ <span class="upgrade-badge">+3</span></h3>
+  <h3>Rune Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★ <span class="upgrade-badge">+3</span></h3>
   <p class="lit-window__row"><strong>Dernier passage :</strong> <span class="lit-window__value">+2 → +3</span></p>
   <p class="lit-window__row"><strong>Grade d’origine :</strong> <span class="lit-badge lit-badge--rune-common">Commun — Blanc</span></p>
-  <p class="lit-window__row"><strong>Grade actuel :</strong> <span class="lit-badge lit-badge--rune-uncommon">Peu commun — Vert</span></p>
-  <p><strong>Principale :</strong> <span class="rune-bonus">PV renforcés</span></p>
-  <p><strong>Première secondaire apparue :</strong> <span class="rune-bonus">Défense</span></p>
+  <p class="lit-window__row"><strong>Grade actuel :</strong> <span class="lit-badge lit-badge--rune-common">Commun — Blanc, inchangé</span></p>
+  <p><strong>ORV-R001 — Principale :</strong> <span class="rune-bonus">PV +160</span></p>
+  <p><strong>Première secondaire apparue :</strong> <strong class="rune-bonus">Défense +3</strong></p>
   <p><strong>Nombre de secondaires :</strong> 1 / 4 — rang inchangé</p>
   </details>
 </div>
@@ -4982,7 +5015,7 @@ Hasol suivait les lignes du registre. Certaines avaient été corrigées ; les a
 
 — Tu m’appelles. Tu n’en engages pas d’autres sans accord.
 
-Il posa la fiche sur son plateau et referma le registre de l’épreuve. La rune Énergie peu commune, verte, deux étoiles, à +3, resta sur le linge, avec ses notes. Hasol ramassa les consommables épuisés et les mit à l’endroit qu’il lui indiquait. Elle essuya ensuite le support, en prenant garde à son bras.
+Il posa la fiche sur son plateau et referma le registre de l’épreuve. La rune Énergie commune, blanche, deux étoiles, à +3, resta sur le linge, avec ses notes. Hasol ramassa les consommables épuisés et les mit à l’endroit qu’il lui indiquait. Elle essuya ensuite le support, en prenant garde à son bras.
 
 Orven attendit qu’elle ait terminé.
 
@@ -5048,7 +5081,7 @@ Quand la rue s’élargit, elle prit le bras de sa mère du côté où cela ne t
 
 ## VII. Ce qui mérite d’être gagné
 
-Dans sa chambre, Hasol posa l’épée contre le mur et commença par sortir son carnet. À la page suivante, elle recopia brièvement le suivi de l’épreuve : Énergie commune blanche, deux étoiles, de +0 à +3 ; un échec au passage +2 ; grade final peu commun vert, deux étoiles, première secondaire de Défense.
+Dans sa chambre, Hasol posa l’épée contre le mur et commença par sortir son carnet. À la page suivante, elle recopia brièvement le suivi de l’épreuve : Énergie commune blanche, deux étoiles, de +0 à +3 ; un échec au passage +2 ; rareté et étoiles inchangées, première secondaire de Défense +3, principale PV +160.
 
 Elle n’ajouta pas de conclusion. Sous les résultats, elle nota l’heure convenue avec Orven et souligna la consigne sur les ressources autorisées. Puis elle glissa le carnet dans son sac pour ne pas l’oublier le matin.
 
@@ -5150,6 +5183,7 @@ Une Gardien commune, blanche, deux étoiles, à +0, devait être rendue dans la 
   <p class="lit-window__row"><strong>État initial :</strong> <span class="upgrade-badge">+0</span></p>
   <p class="lit-window__row"><strong>Objectif demandé :</strong> <span class="upgrade-badge">+2</span></p>
   <p><strong>Limite autorisée :</strong> 3 tentatives au maximum</p>
+  <p><strong>CLI-R001 — Principale à +0 :</strong> <span class="rune-bonus">Défense +5</span> ; <strong>secondaires :</strong> Aucune.</p>
   </details>
 </div>
 
@@ -5199,6 +5233,7 @@ Hasol retira ses doigts. La chaleur resta un instant dans sa paume.
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État conservé :</strong> <span class="upgrade-badge">+0</span> — rune intacte, caractéristiques inchangées</p>
+  <p><strong>CLI-R001 — Principale :</strong> <span class="rune-bonus">Défense +5</span> ; <strong>secondaires :</strong> Aucune.</p>
   <p><strong>Pierres de mana engagées :</strong> Consommées</p>
   <p><strong>Mana personnel :</strong> Dépensé</p>
   </details>
@@ -5229,7 +5264,7 @@ Cette fois, Hasol garda son attention sur l’ensemble des gravures. Quand la vi
   <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p><strong>Niveau atteint :</strong> <span class="upgrade-badge">+1</span></p>
-  <p><strong>Principale :</strong> Renforcée — aucune secondaire</p>
+  <p><strong>CLI-R001 — Principale :</strong> <span class="rune-bonus">Défense +8</span> ; <strong>secondaires :</strong> Aucune.</p>
   <p><strong>Ressources engagées :</strong> Pierres de mana consommées et Mana personnel dépensé</p>
   </details>
 </div>
@@ -5303,7 +5338,7 @@ La résistance augmenta. Elle ajusta son geste, sentit une tension dans la nuque
   <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
   <p><strong>Dernière tentative :</strong> +1 → +2 — Réussite</p>
   <p><strong>Niveau final :</strong> <span class="upgrade-badge">+2</span></p>
-  <p><strong>Principale :</strong> Renforcée — aucune secondaire</p>
+  <p><strong>CLI-R001 — Principale :</strong> <span class="rune-bonus">Défense +11</span> ; <strong>secondaires :</strong> Aucune.</p>
   <p><strong>Suivi :</strong> Trois tentatives effectuées sur trois autorisées</p>
   </details>
 </div>
@@ -5493,6 +5528,21 @@ Orven regarda son établi, puis la lumière dans la fenêtre.
 — Lis-moi d’abord celle-ci.
 
 Il lui plaça une fiche sous les yeux. Hasol y reconnut la désignation d’une Gardien rare bleue, trois étoiles. Elle passa à la consigne et lut :
+
+<div class="rune-window lit-window" data-window-id="C4-R01" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C4-R01-mobile.svg">
+    <img src="assets/fenetres/C4-R01.svg" alt="Fenêtre du système — FICHE DE LA RUNE CLIENTE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>FICHE DE LA RUNE CLIENTE</div>
+  <h3>CLI-R002 — Gardien rare (bleue), 3★ <span class="upgrade-badge">+0</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">Défense +7</span></p>
+  <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">PV +30 ; Vitesse +2</span></p>
+  <p>État initial ; aucune tentative engagée.</p>
+  </details>
+</div>
 
 — Amélioration jusqu’à +2.
 
@@ -10384,7 +10434,22 @@ Orven eut un petit rire.
 
 Hasol se pencha déjà vers la caisse.
 
-Elle prit une petite rune commune (blanche), rang À DÉFINIR et observa ses inscriptions.
+Elle prit une petite rune Énergie commune (blanche), 1★, +0, et observa ses inscriptions.
+
+<div class="rune-window lit-window" data-window-id="C6-R02" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C6-R02-mobile.svg">
+    <img src="assets/fenetres/C6-R02.svg" alt="Fenêtre du système — RUNE DE RÉCUPÉRATION EXAMINÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE DE RÉCUPÉRATION EXAMINÉE</div>
+  <h3>REC-R002 — Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 1★ <span class="upgrade-badge">+0</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +40</span></p>
+  <p><strong>Secondaires :</strong> Aucune.</p>
+  <p>Pierre de la caisse de récupération d’Orven, distincte des runes personnelles d’Hasol.</p>
+  </details>
+</div>
 
 Pour la plupart des chasseurs, cette pierre n’aurait probablement jamais représenté grand-chose.
 
@@ -10793,6 +10858,20 @@ Mais ce qu’elle pouvait apporter à un utilisateur précis.
 — Et celle-ci ? demanda-t-elle.
 
 Orven examina la petite rune rare (bleue), 1★.
+
+<div class="rune-window lit-window" data-window-id="C6-R01" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C6-R01-mobile.svg">
+    <img src="assets/fenetres/C6-R01.svg" alt="Fenêtre du système — RUNE EXAMINÉE DANS LE LOT">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE EXAMINÉE DANS LE LOT</div>
+  <h3>REC-R001 — Énergie rare (bleue), 1★ <span class="upgrade-badge">+0</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +40</span></p>
+  <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">Attaque +2 ; Défense +2</span></p>
+  </details>
+</div>
 
 Il lut ses caractéristiques.
 
@@ -11346,7 +11425,22 @@ Elle releva les yeux.
 
 — Oui ?
 
-— Tu viens de classer une rune Fatal (grade et rang : À DÉFINIR) dans le lot Gardien.
+— Tu viens de classer une rune Fatal commune blanche, une étoile, +0, dans le lot Gardien.
+
+<div class="rune-window lit-window" data-window-id="C6-R03" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C6-R03-mobile.svg">
+    <img src="assets/fenetres/C6-R03.svg" alt="Fenêtre du système — RUNE DU TRI — IDENTIFICATION">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE DU TRI — IDENTIFICATION</div>
+  <h3>REC-R003 — Fatal <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 1★ <span class="upgrade-badge">+0</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">Attaque +3</span></p>
+  <p><strong>Secondaires :</strong> Aucune.</p>
+  <p>Pierre du tri de l’atelier ; son classement erroné ne change pas son ensemble.</p>
+  </details>
+</div>
 
 Elle baissa brusquement les yeux.
 
@@ -11500,7 +11594,7 @@ Hasol rougit.
 
 — Tu étais en train de travailler sur quoi ?
 
-— Une série de runes Gardien (grade et rang : À DÉFINIR).
+— Une série de runes Gardien de divers grades et rangs.
 
 Yoon sourit.
 
@@ -13222,7 +13316,7 @@ Et il augmentait également ses dégâts critiques.
 
 Le problème était ailleurs.
 
-— Les runes Arcanique (grades et rangs : À DÉFINIR) sont vraiment aussi rares ? demanda-t-elle.
+— Les runes Arcanique sont vraiment aussi rares ? demanda-t-elle.
 
 — Davantage que tu ne l’imagines.
 
@@ -13250,7 +13344,7 @@ Il éclata de rire.
 
 Hasol réfléchit.
 
-— Je voudrais commencer par deux runes Arcanique (grades et rangs : À DÉFINIR) ayant la Puissance arcanique en caractéristique principale.
+— Je voudrais commencer par deux runes Arcanique ayant la Puissance arcanique en caractéristique principale.
 
 — Deux ne suffiront pas à activer l’ensemble.
 
@@ -13258,13 +13352,13 @@ Hasol réfléchit.
 
 Elle lui montra sa composition actuelle.
 
-Quatre Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).
+Quatre Fatal : deux rares bleues, l’une 6★ et l’autre 3★, et deux peu communes vertes, 3★.
 
-Quatre Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).
+Quatre Gardien : celle du père rare bleue, 6★ ; les trois maternelles 3★, deux rares bleues et une peu commune verte.
 
-Deux Énergie (grades actuels : À DÉFINIR ; 3★).
+Deux Énergie, l’une rare bleue, l’autre peu commune verte, 3★.
 
-— Je pourrais remplacer deux Gardien (grades actuels : À DÉFINIR ; 3★) offertes par ma mère, expliqua-t-elle. Je conserverais celle de mon père et une autre, donc un bonus Gardien resterait actif.
+— Je pourrais remplacer deux Gardien offertes par ma mère, une rare bleue et une peu commune verte, trois étoiles, expliqua-t-elle. Je conserverais celle de mon père et une autre, donc un bonus Gardien resterait actif.
 
 Orven observa les emplacements.
 
@@ -13310,7 +13404,7 @@ Hasol éclata de rire.
 
 Il désigna son établi.
 
-— Allez, au travail. Les runes Arcanique (grades et rangs : À DÉFINIR) ne vont pas tomber du ciel.
+— Allez, au travail. Les runes Arcanique ne vont pas tomber du ciel.
 
 Hasol rangea le catalogue.
 
@@ -13386,9 +13480,69 @@ Hasol se pencha sur le registre.
 
 Elle reconnaissait plusieurs commandes réalisées durant les derniers jours.
 
-Une rune Énergie (grade et rang : À DÉFINIR).
+Une rune Énergie commune (blanche), 2★, +3.
 
-Deux Fatal (grade et rang : À DÉFINIR).
+<div class="rune-window lit-window" data-window-id="C7-R01" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C7-R01-mobile.svg">
+    <img src="assets/fenetres/C7-R01.svg" alt="Fenêtre du système — REGISTRE — COMMANDE ÉNERGIE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>REGISTRE — COMMANDE ÉNERGIE</div>
+  <h3>CLI-R003 — Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</h3>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">État consigné</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">Initial <span class="upgrade-badge">+0</span></th><td class="rune-bonus">PV +70</td><td>Aucune</td></tr>
+      <tr><th scope="row">Commande achevée <span class="upgrade-badge">+3</span></th><td class="rune-bonus">PV +160</td><td class="rune-bonus">Défense +3</td></tr>
+    </tbody>
+  </table>
+  <p>Commande cliente rappelée au registre ; rareté et étoiles inchangées.</p>
+  </details>
+</div>
+
+Deux Fatal 2★, +3, l’une commune blanche, l’autre peu commune verte.
+
+<div class="rune-window lit-window" data-window-id="C7-R02" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C7-R02-mobile.svg">
+    <img src="assets/fenetres/C7-R02.svg" alt="Fenêtre du système — REGISTRE — PREMIÈRE COMMANDE FATAL">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>REGISTRE — PREMIÈRE COMMANDE FATAL</div>
+  <h3>CLI-R004 — Fatal <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</h3>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">État consigné</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">Initial <span class="upgrade-badge">+0</span></th><td class="rune-bonus">Attaque +5</td><td>Aucune</td></tr>
+      <tr><th scope="row">Commande achevée <span class="upgrade-badge">+3</span></th><td class="rune-bonus">Attaque +14</td><td class="rune-bonus">Défense +3</td></tr>
+    </tbody>
+  </table>
+  <p>Commande cliente distincte des Fatal personnelles d’Hasol ; rareté et étoiles inchangées.</p>
+  </details>
+</div>
+
+<div class="rune-window lit-window" data-window-id="C7-R03" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C7-R03-mobile.svg">
+    <img src="assets/fenetres/C7-R03.svg" alt="Fenêtre du système — REGISTRE — SECONDE COMMANDE FATAL">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>REGISTRE — SECONDE COMMANDE FATAL</div>
+  <h3>CLI-R005 — Fatal <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★</h3>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">État consigné</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">Initial <span class="upgrade-badge">+0</span></th><td class="rune-bonus">Attaque +5</td><td class="rune-bonus">Vitesse +2</td></tr>
+      <tr><th scope="row">Commande achevée <span class="upgrade-badge">+3</span></th><td class="rune-bonus">Attaque +14</td><td class="rune-bonus">Vitesse +4</td></tr>
+    </tbody>
+  </table>
+  <p>Commande cliente distincte de la précédente ; secondaire renforcée, rareté et étoiles inchangées.</p>
+  </details>
+</div>
 
 Plusieurs pièces ordinaires confiées à l’atelier pour des améliorations simples.
 
@@ -14800,8 +14954,9 @@ Hasol retint son souffle.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <p><strong>Rune d’épreuve :</strong> Ensemble, grade et rang en étoiles : À DÉFINIR.</p>
+  <p><strong>GRI-R001 — Rune d’épreuve :</strong> Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★.</p>
   <p><strong>Niveau atteint :</strong> <span class="upgrade-badge">+6</span></p>
+  <p><strong>Principale :</strong> <span class="rune-bonus">Défense +23</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +40 ; Mana +20</span>.</p>
   <p>Commande du Griffon d’Argent — rune distincte de l’équipement personnel d’Hasol.</p>
   </details>
 </div>
@@ -15074,7 +15229,7 @@ Orven commençait à lui confier des tâches plus exigeantes.
 
 Et chaque nouvelle rémunération rapprochait Hasol de son objectif.
 
-Les runes Arcanique (grades et rangs : À DÉFINIR) n’étaient plus seulement des pierres trop coûteuses dans un catalogue.
+Les runes Arcanique n’étaient plus seulement des pierres trop coûteuses dans un catalogue.
 
 Elles devenaient quelque chose qu’elle pouvait réellement espérer acquérir.
 
@@ -15200,7 +15355,7 @@ Le moment arriva finalement où Hasol put envisager son premier achat.
 
 Orven lui présenta deux offres de fournisseurs.
 
-Elles concernaient des runes Arcanique (grades et rangs : À DÉFINIR) dont la caractéristique principale était la Puissance arcanique.
+Elles concernaient des runes Arcanique rares bleues, 3★, +0, dont la caractéristique principale était la Puissance arcanique.
 
 Les deux pièces avaient été vérifiées.
 
@@ -15294,7 +15449,7 @@ Les deux runes arrivèrent à l’atelier dans de petits coffrets scellés.
 
 Hasol les contempla avec fascination.
 
-Leurs inscriptions étaient différentes de celles de ses Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce) et Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).
+Leurs inscriptions étaient différentes de celles de ses Fatal et Gardien rares bleues ou peu communes vertes, 6★ ou 3★ selon la pièce.
 
 Des lignes fines parcouraient leur surface, formant des motifs qui semblaient se prolonger lorsqu’on les observait sous différents angles.
 
@@ -15310,9 +15465,8 @@ La pierre était légèrement tiède.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE ARCANIQUE</div>
-  <p><strong>Ensemble :</strong> Arcanique — <strong>Grade et rang :</strong> À DÉFINIR.</p>
-  <p><span class="rune-bonus">Caractéristique principale : Puissance arcanique.</span></p>
-  <p>Valeurs et caractéristiques secondaires : À DÉFINIR.</p>
+  <p><strong>HAS-R011 :</strong> Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+0</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +30</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +2 ; Mana +10</span>.</p>
+  <p><strong>HAS-R012 :</strong> Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+0</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +30</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Attaque +4 ; Défense +3</span>.</p>
   </details>
 </div>
 
@@ -15342,11 +15496,11 @@ Le soir, elle disposa ses dix runes devant elle.
 
 Elle prit le temps d’examiner chaque pièce.
 
-Ses quatre Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).
+Ses quatre Fatal : deux rares bleues, l’une 6★ et l’autre 3★, et deux peu communes vertes, 3★.
 
-Ses quatre Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).
+Ses quatre Gardien : celle du père rare bleue, 6★ ; les trois maternelles 3★, deux rares bleues et une peu commune verte.
 
-Ses deux Énergie (grades actuels : À DÉFINIR ; 3★).
+Ses deux Énergie, l’une rare bleue, l’autre peu commune verte, 3★.
 
 Parmi elles se trouvaient toujours les deux runes offertes par son père.
 
@@ -15362,7 +15516,7 @@ Pas maintenant.
 
 Peut-être jamais, si elle pouvait l’éviter.
 
-Puis elle sélectionna deux Gardien (grades actuels : À DÉFINIR ; 3★) que sa mère lui avait offertes.
+Puis elle sélectionna deux Gardien que sa mère lui avait offertes : la rare bleue à principale de Défense et la peu commune verte, toutes deux 3★, +0.
 
 Elle les observa longuement.
 
@@ -15386,7 +15540,7 @@ Elle ne les détruirait pas pour alimenter Aura runique.
 
 Elles resteraient précieusement conservées.
 
-Hasol prit ensuite les deux runes Arcanique (grades et rangs : À DÉFINIR).
+Hasol prit ensuite les deux runes Arcanique rares bleues, 3★, +0.
 
 Elle inspira.
 
@@ -15408,7 +15562,21 @@ Elle consulta son interface.
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>ÉQUIPEMENT RUNIQUE</div>
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">10 / 10</span></p>
   <p><strong>Composition :</strong> 4 Fatal ; 2 Gardien ; 2 Énergie ; 2 Arcanique.</p>
-  <p><strong>Origines :</strong> Deux cadeaux paternels <span class="lit-badge lit-badge--rune-rare">rares (bleus)</span>, 6★, +6 ; six runes maternelles 3★ ; deux Arcanique de grades et rangs À DÉFINIR.</p>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +3</th><td class="rune-bonus">Attaque +22</td><td class="rune-bonus">Vitesse +4 ; PV +30</td></tr>
+      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Attaque +7</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Vitesse +3</td><td class="rune-bonus">Attaque +3</td></tr>
+      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3 %</td></tr>
+      <tr><th scope="row">HAS-R009 · Énergie rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3 %</td></tr>
+      <tr><th scope="row">HAS-R010 · Énergie peu commune (verte), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30</td></tr>
+      <tr><th scope="row">HAS-R011 · Arcanique rare (bleue), 3★, +0</th><td class="rune-bonus">PA +30</td><td class="rune-bonus">Vitesse +2 ; Mana +10</td></tr>
+      <tr><th scope="row">HAS-R012 · Arcanique rare (bleue), 3★, +0</th><td class="rune-bonus">PA +30</td><td class="rune-bonus">Attaque +4 ; Défense +3</td></tr>
+    </tbody>
+  </table>
   <p><strong>Ensembles :</strong> Fatal, Gardien et Énergie actifs ; Arcanique 2 / 4 — inactif.</p>
   </details>
 </div>
@@ -15466,7 +15634,7 @@ Orven lui demanda donc de justifier chaque choix.
 
 — Pourquoi commencer par celle-ci ?
 
-Hasol désigna l’une des nouvelles Arcanique (grades et rangs : À DÉFINIR).
+Hasol désigna l’une des nouvelles Arcanique rares bleues, 3★, encore à +0.
 
 — Parce que sa caractéristique principale augmente ma Puissance arcanique.
 
@@ -15478,7 +15646,7 @@ Orven acquiesça.
 
 — Bien.
 
-Il désigna ensuite une Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).
+Il désigna ensuite les fiches des Fatal, rares bleues ou peu communes vertes, 6★ ou 3★ selon la pièce.
 
 — Et celle-là ?
 
@@ -15490,7 +15658,7 @@ Le maître artisan sourit.
 
 — Exact.
 
-Puis il montra une Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).
+Puis il montra les fiches des Gardien rares bleues, celle du père 6★ et la maternelle 3★.
 
 — Et celle-ci ?
 
@@ -15634,7 +15802,7 @@ Les deux cadeaux paternels, notamment, étaient toujours à +6 et n’avaient pa
 
 D’autres progressèrent grâce aux ressources qu’elle avait économisées.
 
-Elle accorda une attention particulière à ses nouvelles Arcanique (grades et rangs : À DÉFINIR) et aux Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce) qui soutenaient son combat à l’épée.
+Elle accorda une attention particulière à ses nouvelles Arcanique rares bleues, 3★, et aux Fatal rares bleues ou peu communes vertes, 6★ ou 3★ selon la pièce, qui soutenaient son combat à l’épée.
 
 Elle conserva aussi suffisamment de ressources pour renforcer les pièces nécessaires à sa survie.
 
@@ -15671,7 +15839,21 @@ Il lui montra le bilan.
   <p><strong>Composition :</strong> 4 Fatal ; 2 Gardien ; 2 Énergie ; 2 Arcanique.</p>
   <p><strong>Arcanique :</strong> 2 / 4 — bonus inactif.</p>
   <p><strong>Cadeaux paternels :</strong> Fatal et Gardien <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 — inchangées.</p>
-  <p><strong>Autres pièces :</strong> Six maternelles 3★, grades actuels À DÉFINIR ; deux Arcanique, grades et rangs À DÉFINIR.</p>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Vitesse +4 ; PV +50</td></tr>
+      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Défense +6 ; PA +20</td></tr>
+      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3 %</td></tr>
+      <tr><th scope="row">HAS-R009 · Énergie rare (bleue), 3★, +6</th><td class="rune-bonus">PV +388</td><td class="rune-bonus">Défense +6 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R010 · Énergie peu commune (verte), 3★, +3</th><td class="rune-bonus">Défense +22</td><td class="rune-bonus">PV +50</td></tr>
+      <tr><th scope="row">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+    </tbody>
+  </table>
   </details>
 </div>
 
@@ -16029,7 +16211,7 @@ Elle s’assit près d’elle.
 
 Puis sortit un petit coffret.
 
-À l’intérieur reposaient les deux anciennes runes Gardien (grades actuels : À DÉFINIR ; 3★) qu’elle avait retirées de son équipement.
+À l’intérieur reposaient les deux anciennes runes Gardien qu’elle avait retirées de son équipement : une rare bleue et une peu commune verte, 3★, +0.
 
 Sa mère les reconnut immédiatement.
 
@@ -16041,7 +16223,7 @@ Hasol acquiesça.
 
 Elle lui expliqua son changement d’équipement.
 
-Les deux nouvelles Arcanique (grades et rangs : À DÉFINIR).
+Les deux nouvelles Arcanique rares bleues, 3★.
 
 Le bonus qu’elle espérait obtenir lorsqu’elle posséderait quatre pièces.
 
@@ -16049,7 +16231,7 @@ Et les améliorations qu’elle avait réalisées grâce à ses revenus.
 
 Sa mère l’écouta attentivement.
 
-Puis prit doucement l’une des anciennes Gardien (grade actuel : À DÉFINIR ; 3★).
+Puis prit doucement l’une de ces deux anciennes Gardien 3★, +0.
 
 — Tu n’as pas voulu les vendre ?
 
@@ -16393,7 +16575,7 @@ Les résultats obtenus à l’atelier.
 
 Le Griffon d’Argent.
 
-Et enfin, ses nouvelles runes Arcanique (grades et rangs : À DÉFINIR).
+Et enfin, ses nouvelles runes Arcanique rares bleues, 3★.
 
 Yoon écouta avec des yeux de plus en plus grands.
 
@@ -16499,7 +16681,7 @@ Hasol lui parla de ses nouvelles commandes.
 
 De ses projets d’amélioration.
 
-Et des deux runes Arcanique (grades et rangs : À DÉFINIR) qu’elle espérait encore pouvoir acheter un jour.
+Et des deux runes Arcanique qu’elle espérait encore pouvoir acheter un jour.
 
 Puis elles commencèrent à préparer leur prochaine chasse.
 
@@ -16782,7 +16964,21 @@ Elle ne révéla que les informations qu’elle souhaitait partager.
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">10 / 10.</span></p>
   <p><strong>Composition :</strong> 4 Fatal ; 2 Gardien ; 2 Énergie ; 2 Arcanique.</p>
   <p><strong>Améliorations :</strong> 6 runes <span class="upgrade-badge">+6</span> ; 4 runes <span class="upgrade-badge">+3</span>.</p>
-  <p><strong>Origines :</strong> Deux paternelles <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; six maternelles 3★, grades actuels À DÉFINIR ; deux Arcanique, grades et rangs À DÉFINIR.</p>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Vitesse +4 ; PV +50</td></tr>
+      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Défense +6 ; PA +20</td></tr>
+      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3 %</td></tr>
+      <tr><th scope="row">HAS-R009 · Énergie rare (bleue), 3★, +6</th><td class="rune-bonus">PV +388</td><td class="rune-bonus">Défense +6 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R010 · Énergie peu commune (verte), 3★, +3</th><td class="rune-bonus">Défense +22</td><td class="rune-bonus">PV +50</td></tr>
+      <tr><th scope="row">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+    </tbody>
+  </table>
   <p><strong>Arcanique :</strong> 2 / 4 — bonus inactif.</p>
   </details>
 </div>
@@ -17252,7 +17448,7 @@ Ma Défense…
 
 Elle connaissait déjà la réponse.
 
-Les deux runes Gardien (grades actuels : À DÉFINIR ; 3★) retirées lui manquaient.
+Les deux runes Gardien retirées, une rare bleue et une peu commune verte, 3★, +0, lui manquaient.
 
 Son nouvel équipement lui permettait de frapper plus fort et d’obtenir de meilleurs critiques.
 
@@ -18244,9 +18440,9 @@ Hasol sentit immédiatement le changement.
 
 Les caractéristiques principales de ses runes furent amplifiées.
 
-L’Attaque de ses Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce) augmenta.
+L’Attaque de ses Fatal rares bleues ou peu communes vertes, 6★ ou 3★ selon la pièce, augmenta.
 
-La Puissance arcanique des deux Arcanique (grades et rangs : À DÉFINIR) également.
+La Puissance arcanique des deux Arcanique rares bleues, 3★, également.
 
 Ses autres principales équipées bénéficièrent du même effet selon leur nature.
 
@@ -18353,7 +18549,7 @@ Hasol sentit son cœur s’emballer.
 
 Ses investissements.
 
-Ses deux nouvelles runes Arcanique (grades et rangs : À DÉFINIR).
+Ses deux nouvelles runes Arcanique rares bleues, 3★.
 
 Ses améliorations jusqu’à +6.
 
@@ -19494,13 +19690,13 @@ Six améliorées jusqu’à +6.
 
 Quatre jusqu’à +3.
 
-Quatre Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).
+Quatre Fatal : deux rares bleues, l’une 6★ et l’autre 3★, et deux peu communes vertes, 3★.
 
-Deux Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).
+Deux Gardien rares bleues : celle du père 6★ et la maternelle 3★.
 
-Deux Énergie (grades actuels : À DÉFINIR ; 3★).
+Deux Énergie, l’une rare bleue, l’autre peu commune verte, 3★.
 
-Deux Arcanique (grades et rangs : À DÉFINIR).
+Deux Arcanique rares bleues, 3★.
 
 Elle contempla les petites pierres lumineuses.
 
@@ -19532,7 +19728,7 @@ Une Défense insuffisante pouvait transformer une erreur de placement en blessur
 
 Et quelques points de Puissance arcanique supplémentaires pouvaient influencer bien davantage qu’un simple nombre dans sa fiche.
 
-Hasol effleura l’une de ses nouvelles runes Arcanique (grades et rangs : À DÉFINIR).
+Hasol effleura l’une de ses nouvelles runes Arcanique rares bleues, 3★.
 
 Elle sourit.
 
@@ -19706,7 +19902,7 @@ Il avait vu les blessures de son apprentie quelques jours plus tôt. Son épaule
 
 Hasol désigna une page.
 
-— Mes nouvelles runes Arcanique (grades et rangs : À DÉFINIR) ont augmenté ma Puissance arcanique. Et comme elle influence mon taux critique et mes dégâts critiques, même mes attaques ordinaires à l'épée sont devenues beaucoup plus dangereuses.
+— Mes nouvelles runes Arcanique rares bleues, trois étoiles, ont augmenté ma Puissance arcanique. Et comme elle influence mon taux critique et mes dégâts critiques, même mes attaques ordinaires à l'épée sont devenues beaucoup plus dangereuses.
 
 — C'est exact.
 
@@ -19750,7 +19946,7 @@ Elle éclata de rire.
 
 Le vieil artisan leva les yeux au plafond.
 
-— Tu viens à peine d'acheter deux runes Arcanique (grades et rangs : À DÉFINIR) qui coûtent une petite fortune, et voilà que tu t'intéresses au set Vitesse !
+— Tu viens à peine d'acheter deux runes Arcanique rares bleues, trois étoiles, qui coûtent une petite fortune, et voilà que tu t'intéresses au set Vitesse !
 
 — Mais il serait très utile !
 
@@ -20120,7 +20316,7 @@ Le vieil artisan lui adressa un sourire.
 
 ***
 
-Hasol commença par ses deux runes Énergie (grades actuels : À DÉFINIR ; 3★).
+Hasol commença par ses deux runes Énergie, la rare bleue à +6 et la peu commune verte à +3, toutes deux 3★.
 
 Elle les utilisait depuis que sa mère lui avait permis de compléter ses dix premiers emplacements.
 
@@ -20174,7 +20370,8 @@ Une pierre de mana se consuma.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <p><strong>Rune :</strong> Énergie maternelle, 3★ — grade actuel et étape exacte : À DÉFINIR.</p>
+  <p><strong>HAS-R009 :</strong> Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+7</span> ; passage +6 → +7.</p>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +436</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6 %</span>.</p>
   <p>Pierres de mana consommées et Mana personnel dépensé.</p>
   </details>
 </div>
@@ -20193,7 +20390,8 @@ Cette fois, la lumière vacilla.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 8 8 8 M16 8l-8 8"/></svg>AMÉLIORATION ÉCHOUÉE</div>
-  <p><strong>Rune :</strong> Énergie maternelle, 3★ — grade actuel et étape exacte : À DÉFINIR.</p>
+  <p><strong>HAS-R009 :</strong> Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+7</span> conservé ; tentative +7 → +8.</p>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +436</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6 %</span>.</p>
   <p>Aucune progression ; ressources engagées consommées.</p>
   </details>
 </div>
@@ -20224,9 +20422,10 @@ Mais à la fin de la séance, la première rune avait atteint le palier recherch
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>PALIER ATTEINT</div>
-  <p><strong>Rune :</strong> Énergie <span class="lit-badge lit-badge--rune-epic">épique (violette)</span>, 3★.</p>
+  <p><strong>HAS-R009 :</strong> Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★.</p>
   <p><strong>Amélioration :</strong> <span class="upgrade-badge">+9</span></p>
-  <p>Principale renforcée et troisième secondaire présente.</p>
+  <p><strong>Dernier passage :</strong> +8 → +9 ; rareté inchangée.</p>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +532</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6 % ; <strong>Mana +10</strong></span>.</p>
   </details>
 </div>
 
@@ -20244,9 +20443,23 @@ Orven sourit.
 
 Les travaux se poursuivirent plusieurs jours.
 
-Hasol amena sa deuxième rune Énergie épique (violette), 3★ à +9.
+Hasol amena sa deuxième rune Énergie peu commune (verte), 3★, à +9, sans en changer la rareté.
 
-Elle investit également dans certaines de ses Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce), notamment l'une des pièces maternelles les plus intéressantes pour son potentiel offensif.
+<div class="rune-window lit-window" data-window-id="C9-R01" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C9-R01-mobile.svg">
+    <img src="assets/fenetres/C9-R01.svg" alt="Fenêtre du système — SECONDE ÉNERGIE AMÉLIORÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>SECONDE ÉNERGIE AMÉLIORÉE</div>
+  <h3>HAS-R010 — Énergie peu commune (verte), 3★ <span class="upgrade-badge">+9</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">Défense +52</span></p>
+  <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">PV +50 ; Vitesse +2 ; <strong>PA +20</strong></span></p>
+  </details>
+</div>
+
+Elle investit également dans ses deux Fatal maternelles à principale d’Attaque, l’une rare bleue, l’autre peu commune verte, 3★, notamment la rare bleue, l'une des pièces maternelles les plus intéressantes pour son potentiel offensif.
 
 Orven lui conseilla de ne pas chercher à améliorer toutes ses runes simultanément.
 
@@ -20268,7 +20481,7 @@ Ses statistiques avaient encore progressé.
 
 Elle possédait davantage de potentiel offensif.
 
-Ses PV avaient également bénéficié des améliorations apportées aux Énergie épiques (violettes), 3★.
+Ses PV avaient également bénéficié des améliorations apportées aux deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9.
 
 Et surtout, elle se sentait désormais beaucoup mieux préparée pour ses prochaines chasses.
 
@@ -20798,7 +21011,7 @@ Elle ne pouvait pas se permettre d'abandonner son activité d'artisane.
 
 Ses améliorations coûtaient cher.
 
-Les nouvelles runes Arcanique (grades et rangs : À DÉFINIR) qu'elle convoitait représentaient une dépense importante.
+Les nouvelles runes Arcanique qu'elle convoitait représentaient une dépense importante.
 
 Et son projet d'obtenir un ensemble Vitesse demanderait encore davantage d'argent.
 
@@ -21341,7 +21554,7 @@ Hasol se figea.
 
 Orven sourit.
 
-— Les runes Arcanique (grades : À DÉFINIR ; 2★) dont nous avions parlé.
+— Les runes Arcanique dont nous avions parlé, une rare bleue et une peu commune verte, deux étoiles, +6.
 
 ***
 
@@ -21363,10 +21576,8 @@ Mais leurs caractéristiques principales correspondaient exactement à ce que re
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>DEUX NOUVELLES RUNES ARCANIQUE</div>
-  <p><strong>Rang :</strong> 2★ chacune — <strong>Grades :</strong> À DÉFINIR.</p>
-  <p><strong>Amélioration :</strong> <span class="upgrade-badge">+6</span> chacune.</p>
-  <p><span class="rune-bonus">Caractéristique principale : Puissance arcanique.</span></p>
-  <p>Valeurs et secondaires : À DÉFINIR.</p>
+  <p><strong>HAS-R013 :</strong> Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +38</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; Mana +20</span>.</p>
+  <p><strong>HAS-R014 :</strong> Arcanique <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +38</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Mana +10</span>.</p>
   </details>
 </div>
 
@@ -21404,10 +21615,10 @@ Hasol regarda son équipement.
 
 Elle portait toujours :
 
-- quatre Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce) ;
-- deux Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce) ;
-- deux Énergie épiques (violettes), 3★ ;
-- deux Arcanique (grades et rangs : À DÉFINIR).
+- quatre Fatal : deux rares bleues, l’une 6★ et l’autre 3★, et deux peu communes vertes, 3★ ;
+- deux Gardien rares bleues : celle du père 6★ et la maternelle 3★ ;
+- deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9 ;
+- deux Arcanique rares bleues, 3★.
 
 Dix runes.
 
@@ -21417,7 +21628,7 @@ Elle réfléchit.
 
 Puis désigna les nouvelles pierres.
 
-— Je vais retirer mes deux Énergie épiques (violettes), 3★.
+— Je vais retirer mes deux Énergie, la rare bleue et la peu commune verte, trois étoiles, +9.
 
 Orven releva les yeux.
 
@@ -21465,7 +21676,7 @@ Le soir même, elle s'installa dans sa chambre.
 
 Elle disposa son équipement devant elle.
 
-Puis retira ses deux Énergie épiques (violettes), 3★ +9.
+Puis retira ses deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9.
 
 Les pierres brillèrent doucement dans ses mains.
 
@@ -21477,9 +21688,9 @@ Et leurs améliorations récentes les avaient rendues particulièrement précieu
 
 Elle les déposa soigneusement dans un coffret.
 
-Puis prit les deux nouvelles Arcanique (grades : À DÉFINIR ; 2★).
+Puis prit les deux nouvelles Arcanique, une rare bleue et une peu commune verte, 2★, +6.
 
-La première occupa l'emplacement libéré par une Énergie épique (violette), 3★.
+La première occupa l'un des emplacements libérés par les deux Énergie, rare bleue et peu commune verte, 3★, +9.
 
 La seconde prit la place de l'autre.
 
@@ -21508,7 +21719,7 @@ Puis elle ouvrit sa fiche.
 
 La différence était considérable.
 
-Les caractéristiques principales de ses quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★) lui apportaient déjà de la Puissance arcanique.
+Les caractéristiques principales de ses quatre Arcanique — les deux premières rares bleues, 3★, et les deux nouvelles, une rare bleue et une peu commune verte, 2★ — lui apportaient déjà de la Puissance arcanique.
 
 Mais le bonus d'ensemble venait d'ajouter mille deux cents points supplémentaires.
 
@@ -21540,7 +21751,7 @@ Si elle activait un jour Aura runique avec un succès critique, le minimum de d�
 
 Ce n'était pas un effet qui s'activait simplement parce qu'un coup d'épée était critique.
 
-Mais cette possibilité rendait ses quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★) encore plus intéressantes.
+Mais cette possibilité rendait ses quatre Arcanique — les deux premières rares bleues, 3★, et les deux nouvelles, une rare bleue et une peu commune verte, 2★ — encore plus intéressantes.
 
 Hasol contempla les pierres.
 
@@ -21552,15 +21763,15 @@ Puis éclata d'un rire incrédule.
 
 Il restait encore une chose à faire.
 
-Elle avait retiré deux Énergie épiques (violettes), 3★.
+Elle avait retiré deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9.
 
-Puis équipé deux Arcanique (grades : À DÉFINIR ; 2★).
+Puis équipé deux Arcanique, une rare bleue et une peu commune verte, 2★, +6.
 
 Elle utilisait donc toujours dix emplacements sur onze.
 
 Hasol ouvrit son inventaire.
 
-À l'intérieur se trouvaient les deux runes Gardien (grades actuels : À DÉFINIR ; 3★) maternelles qu'elle avait retirées lors de ses précédents changements d'équipement.
+À l'intérieur se trouvaient les deux runes Gardien maternelles qu'elle avait retirées lors de ses précédents changements d'équipement : une rare bleue et une peu commune verte, 3★, +0.
 
 Elle choisit l'une d'elles.
 
@@ -21582,7 +21793,22 @@ Hasol contempla sa nouvelle configuration.
   <p><strong>Fatal :</strong> 4 — ensemble actif.</p>
   <p><strong>Arcanique :</strong> 4 — ensemble actif.</p>
   <p><strong>Gardien :</strong> 3 — une paire active ; <strong>Énergie :</strong> 0.</p>
-  <p><strong>Origines :</strong> Deux paternelles <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; cinq maternelles 3★, grades actuels À DÉFINIR ; deux premières Arcanique, grades et rangs À DÉFINIR ; deux nouvelles Arcanique, 2★, grades À DÉFINIR.</p>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Vitesse +4 ; PV +50 ; PA +60</td></tr>
+      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Défense +6 ; PA +20 ; Vitesse +2</td></tr>
+      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3 %</td></tr>
+      <tr><th scope="row">HAS-R007 · Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
+      <tr><th scope="row">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+      <tr><th scope="row">HAS-R013 · Arcanique rare (bleue), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R014 · Arcanique peu commune (verte), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Défense +6 ; Mana +10</td></tr>
+    </tbody>
+  </table>
   </details>
 </div>
 
@@ -21610,7 +21836,7 @@ Son nouvel équipement était beaucoup plus offensif.
 
 Elle avait perdu le bonus de PV de l'ensemble Énergie, ainsi que les caractéristiques des deux runes retirées.
 
-Mais elle avait récupéré une Gardien (grade actuel : À DÉFINIR ; 3★) supplémentaire, et les trois pièces défensives conservaient leur utilité.
+Mais elle avait récupéré la Gardien maternelle rare bleue à principale de Défense, 3★, +0, et les trois pièces défensives conservaient leur utilité.
 
 Ce n'était pas encore l'équilibre qu'elle recherchait.
 
@@ -21620,7 +21846,7 @@ L'ensemble Vitesse restait son objectif.
 
 Mais elle venait de franchir une étape considérable.
 
-Et les deux runes Énergie épiques (violettes), 3★ qu'elle avait retirées n'allaient pas rester longtemps dans son inventaire.
+Et les deux runes Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, qu'elle avait retirées n'allaient pas rester longtemps dans son inventaire.
 
 ***
 
@@ -21668,7 +21894,7 @@ Hasol ouvrit son interface.
 
 Puis lui montra son nouvel équipement.
 
-La jeune Sage examina les quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★).
+La jeune Sage examina les quatre Arcanique : les deux premières rares bleues, 3★, et les deux nouvelles, une rare bleue et une peu commune verte, 2★.
 
 Ses yeux s'agrandirent.
 
@@ -21712,7 +21938,7 @@ Yoon sourit.
 
 Puis elle remarqua quelque chose.
 
-— Mais… tu n'as plus tes runes Énergie épiques (violettes), 3★.
+— Mais… tu n'as plus tes runes Énergie, la rare bleue et la peu commune verte, trois étoiles, +9.
 
 Hasol sourit.
 
@@ -21732,7 +21958,7 @@ Deux pierres lumineuses reposaient à l'intérieur.
 
 La jeune Sage les reconnut immédiatement.
 
-— Tes anciennes Énergie épiques (violettes), 3★ ?
+— Tes anciennes Énergie, la rare bleue et la peu commune verte, trois étoiles, +9 ?
 
 Hasol acquiesça.
 
@@ -21808,7 +22034,7 @@ Yoon acquiesça lentement.
 
 Hasol désigna les deux runes.
 
-— Avec deux Énergie épiques (violettes), 3★ équipées, tu bénéficieras de quinze pour cent de PV supplémentaires grâce au bonus d'ensemble.
+— Avec ces deux Énergie, la rare bleue et la peu commune verte, trois étoiles, +9, équipées, tu bénéficieras de quinze pour cent de PV supplémentaires grâce au bonus d'ensemble.
 
 Yoon contempla les pierres.
 
@@ -21848,7 +22074,7 @@ Hasol réfléchit.
 
 Puis ajouta :
 
-— Mais maintenant, mes quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★) sont équipées. Je peux infliger davantage de dégâts et terminer plus rapidement les combats.
+— Mais maintenant, mes quatre Arcanique sont équipées : les deux premières rares bleues, trois étoiles, et les deux nouvelles, une rare bleue et une peu commune verte, deux étoiles. Je peux infliger davantage de dégâts et terminer plus rapidement les combats.
 
 Elle sourit.
 
@@ -21924,12 +22150,12 @@ Hasol lui adressa un sourire chaleureux.
 
 — **Tu les porteras quand tu auras quatre cercles.**
 
-Yoon baissa les yeux vers ses deux runes +6, de grades et de rangs en étoiles À DÉFINIR.
+Yoon baissa les yeux vers ses deux runes 2★, +6 : sa Gardien rare bleue et son Énergie peu commune verte.
 
 Elle ne possédait encore que deux emplacements équipables.
 <!-- Réserve documentaire CERCLES-YOON : Deux emplacements au moment du cadeau est un état raconté dans cette version, pas une courbe de progression extrapolée depuis les huit cercles de référence au niveau 60. Voir lore/audit_chapitres_5_9.md. -->
 
-Accepter les Énergie épiques (violettes), 3★ signifiait donc retirer ses anciennes pierres.
+Accepter les Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, signifiait donc retirer ses anciennes pierres.
 
 Mais cela ne voulait pas dire qu'elle devait s'en séparer définitivement.
 
@@ -21987,11 +22213,11 @@ Puis elle ajouta :
 
 ***
 
-Yoon retira ses deux anciennes runes +6, de grades et de rangs en étoiles À DÉFINIR.
+Yoon retira ses deux anciennes runes 2★, +6 : sa Gardien rare bleue et son Énergie peu commune verte.
 
 Elle les rangea avec précaution.
 
-Puis équipa les deux Énergie épiques (violettes), 3★ +9 offertes par Hasol.
+Puis équipa les deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, offertes par Hasol.
 
 Une lumière douce parcourut ses cercles.
 
@@ -22005,10 +22231,14 @@ Une notification apparut.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ENSEMBLE ÉNERGIE ACTIVÉ — YOON</div>
-  <p><strong>Runes :</strong> Deux Énergie <span class="lit-badge lit-badge--rune-epic">épiques (violettes)</span>, 3★, +9, offertes par Hasol.</p>
+  <p><strong>Runes offertes par Hasol et équipées :</strong></p>
+  <p><strong>HAS-R009 :</strong> Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+9</span> ; <strong>principale :</strong> <span class="rune-bonus">PV +532</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6 % ; Mana +10</span>.</p>
+  <p><strong>HAS-R010 :</strong> Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, <span class="upgrade-badge">+9</span> ; <strong>principale :</strong> <span class="rune-bonus">Défense +52</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +50 ; Vitesse +2 ; PA +20</span>.</p>
   <p class="lit-window__row"><strong>Pièces équipées :</strong> <span class="lit-window__value">2 / 2.</span></p>
   <p><span class="rune-bonus">Bonus d’ensemble : PV maximums +15 %.</span></p>
-  <p><strong>Anciennes runes :</strong> Conservées dans l’inventaire à +6 ; grades et rangs À DÉFINIR.</p>
+  <p><strong>Anciennes runes conservées dans l’inventaire, non équipées :</strong></p>
+  <p><strong>YOO-R001 :</strong> Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">Défense +23</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +40 ; Mana +20</span>.</p>
+  <p><strong>YOO-R002 :</strong> Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PV +250</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; Défense +3</span>.</p>
   </details>
 </div>
 
@@ -22060,7 +22290,7 @@ Quelques jours plus tard, Orven remarqua immédiatement le changement dans les r
 
 Il releva les yeux.
 
-— Tu as donc donné tes deux Énergie épiques (violettes), 3★ +9 à Yoon ?
+— Tu as donc donné tes deux Énergie, la rare bleue et la peu commune verte, trois étoiles, +9, à Yoon ?
 
 Hasol acquiesça.
 
@@ -22138,7 +22368,7 @@ Elle sourit.
 
 Puis il désigna son nouvel équipement.
 
-— Tu as remplacé les deux Énergie épiques (violettes), 3★ par des Arcanique (grades : À DÉFINIR ; 2★) et utilisé ton onzième emplacement pour récupérer une Gardien (grade actuel : À DÉFINIR ; 3★).
+— Tu as remplacé les deux Énergie, la rare bleue et la peu commune verte, trois étoiles, +9, par des Arcanique, une rare bleue et une peu commune verte, deux étoiles, +6, et utilisé ton onzième emplacement pour récupérer une Gardien rare bleue, trois étoiles, +0.
 
 Hasol acquiesça.
 
@@ -22230,7 +22460,7 @@ Elle préparait les zones de Chant runique de manière à ne pas exposer ses all
 
 Et elle utilisait Résonance runique lorsqu'un compagnon pouvait réellement profiter du renforcement de ses caractéristiques principales.
 
-Ses deux Énergie épiques (violettes), 3★ +9 s'avéraient particulièrement utiles.
+Ses deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, s'avéraient particulièrement utiles.
 
 Le bonus de PV maximum améliorait la quantité restaurée par chaque impulsion de Chant runique.
 
@@ -22262,7 +22492,7 @@ Puis éclata de rire.
 
 — Pourquoi ?
 
-Samia désigna les deux runes Énergie épiques (violettes), 3★.
+Samia désigna les deux runes Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9.
 
 — Parce qu'elle t'a donné ça !
 
@@ -23208,9 +23438,9 @@ Puis Hasol ouvrit son sac.
 
 Elle en sortit un petit coffret.
 
-À l'intérieur reposait une ancienne rune Gardien (grade actuel : À DÉFINIR ; 3★).
+À l'intérieur reposait l’ancienne rune Gardien peu commune verte, 3★, +0.
 
-La dernière des deux runes maternelles qu'elle avait retirées de son équipement pour faire de la place aux premières Arcanique (grades et rangs : À DÉFINIR).
+La dernière des deux runes maternelles qu'elle avait retirées de son équipement pour faire de la place aux premières Arcanique rares bleues, 3★.
 
 Sa mère la reconnut immédiatement.
 
@@ -23245,17 +23475,33 @@ Son équipement était désormais composé de :
   <p><strong>Fatal :</strong> 4 — <span class="rune-bonus">Attaque +35 %.</span></p>
   <p><strong>Arcanique :</strong> 4 — <span class="rune-bonus">Puissance arcanique +1 200.</span></p>
   <p><strong>Gardien :</strong> 4 — deux paires, <span class="rune-bonus">Défense +15 % +15 % = +30 %.</span></p>
-  <p><strong>Origines :</strong> Deux paternelles <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; six maternelles 3★, grades actuels À DÉFINIR ; deux premières Arcanique, grades et rangs À DÉFINIR ; deux nouvelles Arcanique, 2★, grades À DÉFINIR.</p>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Vitesse +4 ; PV +50 ; PA +60</td></tr>
+      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Défense +6 ; PA +20 ; Vitesse +2</td></tr>
+      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3 %</td></tr>
+      <tr><th scope="row">HAS-R007 · Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
+      <tr><th scope="row">HAS-R008 · Gardien peu commune (verte), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr><th scope="row">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+      <tr><th scope="row">HAS-R013 · Arcanique rare (bleue), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr><th scope="row">HAS-R014 · Arcanique peu commune (verte), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Défense +6 ; Mana +10</td></tr>
+    </tbody>
+  </table>
   </details>
 </div>
 
 La rune Gardien bleue six étoiles +6 offerte par son père restait équipée.
 
-Les trois autres Gardien (grades actuels : À DÉFINIR ; 3★) provenaient de sa mère.
+Les trois autres Gardien, deux rares bleues et une peu commune verte, 3★, provenaient de sa mère.
 
-Les deux Énergie épiques (violettes), 3★ +9 étaient désormais entre les mains de Yoon.
+Les deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, étaient désormais entre les mains de Yoon.
 
-Et ses quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★) lui apportaient toujours leur extraordinaire bonus de Puissance arcanique.
+Et ses quatre Arcanique — les deux premières rares bleues, 3★, et les deux nouvelles, une rare bleue et une peu commune verte, 2★ — lui apportaient toujours leur extraordinaire bonus de Puissance arcanique.
 
 Hasol contempla son équipement.
 
@@ -23583,13 +23829,13 @@ Du onzième cercle.
 
 Puis du douzième.
 
-De ses quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★).
+De ses quatre Arcanique : les deux premières rares bleues, 3★, et les deux nouvelles, une rare bleue et une peu commune verte, 2★.
 
 Et de son projet toujours intact d'obtenir un jour l'ensemble Vitesse.
 
 Yoon l'écouta avec enthousiasme.
 
-Puis elle regarda les deux runes Énergie épiques (violettes), 3★ +9 qu'elle portait désormais.
+Puis elle regarda les deux runes Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, qu'elle portait désormais.
 
 — Tu sais…
 
@@ -23619,7 +23865,7 @@ La jeune Sage resta silencieuse quelques instants.
 
 Puis ajouta :
 
-— Et j'ai toujours mes deux anciennes runes +6, de grades et de rangs en étoiles À DÉFINIR.
+— Et j'ai toujours mes deux anciennes runes deux étoiles, +6 : ma Gardien rare bleue et mon Énergie peu commune verte.
 
 Hasol sourit.
 
@@ -26033,6 +26279,20 @@ Hasol se pencha.
 
 C’était une rune Énergie commune, une étoile, encore à +0.
 
+<div class="rune-window lit-window" data-window-id="C10-R01" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C10-R01-mobile.svg">
+    <img src="assets/fenetres/C10-R01.svg" alt="Fenêtre du système — RUNE D’ESSAI — ÉTAT INITIAL">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE D’ESSAI — ÉTAT INITIAL</div>
+  <h3>ORV-R002 — Énergie commune (blanche), 1★ <span class="upgrade-badge">+0</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +40</span></p>
+  <p><strong>Secondaires :</strong> Aucune.</p>
+  </details>
+</div>
+
 Elle ne possédait aucune secondaire.
 
 — Regarde-la avec ton Œil.
@@ -26117,7 +26377,7 @@ Cette fois, la rune se stabilisa.
 
 Une nouvelle inscription apparut.
 
-Sa couleur pâle se teinta d’un léger vert.
+Sa couleur pâle demeura blanche.
 
 <div class="rune-window success lit-window" data-window-id="098" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
@@ -26127,11 +26387,12 @@ Sa couleur pâle se teinta d’un léger vert.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <h3>Rune Énergie — 1★</h3>
+  <h3>ORV-R002 — Rune Énergie commune (blanche), 1★</h3>
   <p class="lit-window__row"><strong>Amélioration :</strong> <span class="upgrade-badge">+3</span></p>
-  <p class="lit-window__row"><strong>Grade actuel :</strong> <span class="lit-badge lit-badge--rune-uncommon">Peu commun — Vert</span></p>
+  <p class="lit-window__row"><strong>Grade actuel :</strong> <span class="lit-badge lit-badge--rune-common">Commun — Blanc, inchangé</span></p>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +85</span></p>
   <hr>
-  <p class="lit-window__row"><strong>Nouvelle caractéristique secondaire :</strong> <span class="rune-bonus">Mana +10</span></p>
+  <p class="lit-window__row"><strong>Nouvelle caractéristique secondaire :</strong> <strong class="rune-bonus">Mana +10</strong></p>
   </details>
 </div>
 
@@ -26183,7 +26444,7 @@ Hasol sourit.
 
 — Exactement.
 
-Il désigna la petite pierre verte.
+Il désigna la petite pierre blanche.
 
 — Et choisir beaucoup plus facilement celles qui méritent qu’on investisse dans leurs améliorations.
 
@@ -27932,7 +28193,7 @@ Elle sortit son carnet.
 
 Puis lui raconta la séance avec Orven.
 
-L’essai sur une rune Énergie commune, blanche, une étoile, devenue peu commune, verte, à +3.
+L’essai sur une rune Énergie commune, blanche, une étoile, restée blanche à +3, avec PV +85 en principale et Mana +10 comme première secondaire.
 
 La secondaire de Mana apparue exactement comme prévu.
 
@@ -28536,7 +28797,7 @@ Il était temps de découvrir ce qu’ils pourraient accomplir ensemble.
 
 Hasol avait étalé une dizaine de runes sur son bureau.
 
-Certaines étaient communes, blanches, d’autres peu communes, vertes (rangs : À DÉFINIR). Aucune ne possédait de caractéristiques particulièrement recherchées, mais elles représentaient toutes quelque chose de précieux à ses yeux.
+Certaines étaient communes, blanches, d’autres peu communes, vertes, de divers rangs. Aucune ne possédait de caractéristiques particulièrement recherchées, mais elles représentaient toutes quelque chose de précieux à ses yeux.
 
 Du travail.
 
@@ -37152,7 +37413,7 @@ Hasol avait fini par en comprendre toute l’importance.
 
 Car plus les runes confiées à l’atelier étaient précieuses, plus les sommes engagées devenaient considérables.
 
-Un jour, un marchand fortuné se présenta avec une rune légendaire, orange, de rang À DÉFINIR.
+Un jour, un marchand fortuné se présenta avec une rune Fatal légendaire, orange, six étoiles, à +9.
 
 La pierre orange reposait dans un coffret dont le couvercle était couvert de motifs dorés.
 
@@ -37165,6 +37426,28 @@ Il avait prévu une somme importante pour financer l’opération.
 Mais lorsqu’elle activa son Œil, Hasol découvrit un résultat final décevant pour l’usage recherché.
 
 Elle contempla la projection.
+
+<div class="rune-window lit-window" data-window-id="C12-R01" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C12-R01-mobile.svg">
+    <img src="assets/fenetres/C12-R01.svg" alt="Fenêtre du système — ŒIL RUNIQUE — RUNE DU MARCHAND">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ŒIL RUNIQUE — RUNE DU MARCHAND</div>
+  <h3>CLI-R006 — Fatal <span class="lit-badge lit-badge--rune-legendary">légendaire (orange)</span>, 6★</h3>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">État</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">Réel <span class="upgrade-badge">+9</span></th><td class="rune-bonus">Précision +39 %</td><td class="rune-bonus">PA +60 ; Vitesse +4 ; Défense +30 ; Mana +20</td></tr>
+      <tr><th scope="row">Projection conditionnelle <span class="upgrade-badge">+15</span> — NON ACQUISE</th><td class="rune-bonus">Précision +64 %</td><td class="rune-bonus">PA +60 ; Vitesse +4 ; Défense +60 ; Mana +40</td></tr>
+    </tbody>
+  </table>
+  <p><strong>Condition :</strong> améliorations restantes effectuées personnellement par Hasol jusqu’à +15 ; réussite des tentatives non garantie, ressources nécessaires.</p>
+  <p><strong>Paliers +12 / +15 :</strong> ordre des renforcements de Défense et de Mana indéterminé. Rareté et étoiles inchangées.</p>
+  <p>État réel conservé à +9 ; aucune tentative engagée lors de cet examen.</p>
+  </details>
+</div>
 
 Puis referma sa fenêtre.
 
@@ -37560,7 +37843,7 @@ Elle lui adressa un sourire.
 
 — Que puis-je faire pour vous ?
 
-Il sortit une petite rune peu commune, verte, de rang À DÉFINIR, de sa sacoche.
+Il sortit une petite rune Énergie peu commune, verte, deux étoiles, à +0, de sa sacoche.
 
 Puis la posa sur le comptoir.
 
@@ -37607,6 +37890,27 @@ Examina son budget.
 Puis activa son Œil.
 
 La projection apparut devant elle.
+
+<div class="rune-window lit-window" data-window-id="C12-R02" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C12-R02-mobile.svg">
+    <img src="assets/fenetres/C12-R02.svg" alt="Fenêtre du système — ŒIL RUNIQUE — RUNE DU JEUNE CHASSEUR">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ŒIL RUNIQUE — RUNE DU JEUNE CHASSEUR</div>
+  <h3>CLI-R007 — Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★</h3>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">État</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">Réel <span class="upgrade-badge">+0</span></th><td class="rune-bonus">Résistance +2 %</td><td class="rune-bonus">PV +20</td></tr>
+      <tr><th scope="row">Projection conditionnelle <span class="upgrade-badge">+15</span> — NON ACQUISE</th><td class="rune-bonus">Résistance +19 %</td><td class="rune-bonus">PV +80 ; Vitesse +2 ; Défense +3 ; Mana +10</td></tr>
+    </tbody>
+  </table>
+  <p><strong>Condition :</strong> améliorations effectuées personnellement par Hasol jusqu’à +15 ; réussite des tentatives non garantie, ressources nécessaires.</p>
+  <p>Rareté et étoiles inchangées. L’analyse ne constitue pas une amélioration ; aucun palier final n’est acquis ici.</p>
+  </details>
+</div>
 
 Elle prit quelques instants pour comparer les caractéristiques finales avec ce que le chasseur recherchait.
 
@@ -37698,7 +38002,7 @@ Hasol releva les yeux.
 
 — Oui.
 
-— Une rune peu commune, verte, de rang À DÉFINIR ?
+— Une rune Énergie peu commune, verte, deux étoiles, à +0 ?
 
 — Oui.
 
@@ -41354,9 +41658,9 @@ D’autres dans celui qu’Hasol avait progressivement fait aménager pour ses p
 
 Quelques-unes avaient nécessité tant de tentatives qu’il se souvenait encore des discussions qu’elles avaient provoquées.
 
-Toutes étaient des runes six étoiles, de qualité initiale rare — bleue — au minimum.
+Toutes étaient des runes rares, bleues, six étoiles.
 
-À présent, toutes affichaient le grade légendaire (orange).
+À présent, toutes étaient améliorées à +15, sans avoir changé de rareté.
 
 Et toutes avaient atteint le niveau maximal d’amélioration.
 
@@ -41436,7 +41740,25 @@ Hasol acquiesça.
   </table>
   <p>Cercles et emplacements occupés</p>
   <p>13 / 13</p>
-  <p>Toutes les runes équipées : 6★, grade initial rare (bleu) minimum, grade affiché légendaire (orange), <span class="upgrade-badge">+15</span>.</p>
+  <p>Toutes les runes équipées : rares (bleues), 6★, <span class="upgrade-badge">+15</span>. Rareté et étoiles inchangées par l’amélioration.</p>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R016 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R017 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R018 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16 % ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R019 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R020 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R021 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R022 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R023 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R024 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R025 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R026 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6 %</td></tr>
+    </tbody>
+  </table>
   </details>
 </div>
 
@@ -41568,9 +41890,24 @@ Une autre pierre apparut.
 
 Six étoiles.
 
-Qualité initiale rare (bleue), désormais légendaire (orange).
+Rare (bleue), sans changement de rareté.
 
 Amélioration +15.
+
+<div class="rune-window lit-window" data-window-id="C14-R01" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C14-R01-mobile.svg">
+    <img src="assets/fenetres/C14-R01.svg" alt="Fenêtre du système — GARDIEN EN RÉSERVE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>GARDIEN EN RÉSERVE</div>
+  <h3>HAS-R027 — Gardien rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +63 %</span></p>
+  <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6 %</span></p>
+  <p>Préparée en réserve, pas encore équipée.</p>
+  </details>
+</div>
 
 — Je l’ai déjà.
 
@@ -43798,7 +44135,7 @@ Elle ouvrit son Anneau runique.
 
 La deuxième Gardien était toujours là.
 
-Une magnifique rune six étoiles, de qualité initiale rare (bleue), désormais légendaire (orange), améliorée à +15.
+Une magnifique rune Gardien rare (bleue), six étoiles, améliorée à +15 sans changement de rareté.
 
 Elle l’avait préparée depuis longtemps.
 
@@ -43841,7 +44178,26 @@ Deux Gardien.
   <p>Cercles équipés</p>
   <p>14 / 14</p>
   <p>Tous les ensembles activés</p>
-  <p>Toutes les runes équipées sont 6★, de grade initial rare (bleu) minimum, de grade affiché légendaire (orange), et améliorées à <span class="upgrade-badge">+15</span>.</p>
+  <p>Toutes les runes équipées sont rares (bleues), 6★, améliorées à <span class="upgrade-badge">+15</span>, sans changement de rareté.</p>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R016 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R017 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R018 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16 % ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R019 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R020 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R021 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R022 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R023 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R024 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R025 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R026 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R027 · Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6 %</td></tr>
+    </tbody>
+  </table>
   </details>
 </div>
 
@@ -44525,7 +44881,7 @@ Les démons de niveau trente étaient plus résistants, plus rapides et beaucoup
 
 Hasol disposait pourtant d'un équipement exceptionnel.
 
-Ses quatorze runes étaient toutes six étoiles, de qualité initiale rare (bleue) au minimum, désormais légendaires (orange), et améliorées à +15.
+Ses quatorze runes étaient toutes rares (bleues), six étoiles, et améliorées à +15, sans changement de rareté.
 
 Ses ensembles Fatal, Arcanique, Vitesse et Gardien étaient complets.
 
@@ -46216,7 +46572,7 @@ Puis secoua la tête.
 
 Hasol regarda son nouveau cercle.
 
-Elle pensa à la rune Énergie six étoiles, rare (bleue) à l’origine, désormais légendaire (orange) et améliorée à +15, qu'elle avait préparée pour ce moment.
+Elle pensa à la rune Énergie rare (bleue), six étoiles et améliorée à +15, qu'elle avait préparée pour ce moment.
 
 Elle pourrait l'équiper dès son retour.
 
@@ -46236,7 +46592,21 @@ Et leur première pensée était déjà de repartir.
 
 Le quinzième cercle fut équipé le soir même.
 
-Hasol avait préparé une rune Énergie rare (bleue) à l'origine, désormais légendaire (orange), six étoiles et améliorée à +15.
+Hasol avait préparé une rune Énergie rare (bleue), six étoiles et améliorée à +15, sans changement de rareté.
+
+<div class="rune-window lit-window" data-window-id="C15-R01" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-R01-mobile.svg">
+    <img src="assets/fenetres/C15-R01.svg" alt="Fenêtre du système — PREMIÈRE ÉNERGIE FINALE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>PREMIÈRE ÉNERGIE FINALE</div>
+  <h3>HAS-R028 — Énergie rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +63 %</span></p>
+  <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</span></p>
+  </details>
+</div>
 
 Elle l'installa dans son nouvel emplacement, sans modifier ses quatorze runes précédentes.
 
@@ -47932,7 +48302,21 @@ Mais elle n'avait pas pris le temps de s'en réjouir.
 
 De retour à l'atelier, Hasol équipa sa deuxième rune Énergie.
 
-Comme la première, elle était six étoiles, de qualité initiale rare (bleue), désormais légendaire (orange), et améliorée à +15.
+Comme la première, elle était rare (bleue), six étoiles, et améliorée à +15, sans changement de rareté.
+
+<div class="rune-window lit-window" data-window-id="C15-R02" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres/C15-R02-mobile.svg">
+    <img src="assets/fenetres/C15-R02.svg" alt="Fenêtre du système — SECONDE ÉNERGIE FINALE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>SECONDE ÉNERGIE FINALE</div>
+  <h3>HAS-R029 — Énergie rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">Défense +63 %</span></p>
+  <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6 %</span></p>
+  </details>
+</div>
 
 L'ensemble fut immédiatement activé.
 
@@ -47955,7 +48339,28 @@ L'ensemble fut immédiatement activé.
   <tr><th scope="row">Gardien</th><td>2 / 2</td><td>Actif</td></tr>
   <tr><th scope="row">Énergie</th><td>2 / 2</td><td>Actif</td></tr>
   </tbody></table>
-  <p>16 runes équipées · Toutes 6★ · Grade initial rare (bleu) minimum · Grade affiché légendaire (orange) · Toutes <span class="upgrade-badge">+15</span></p>
+  <p>16 runes équipées · Toutes rares (bleues), 6★, <span class="upgrade-badge">+15</span> · Rareté inchangée</p>
+  <table class="lit-window__inventory">
+    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R016 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R017 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R018 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16 % ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R019 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R020 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R021 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R022 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R023 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R024 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R025 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R026 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R027 · Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6 %</td></tr>
+      <tr><th scope="row">HAS-R028 · Énergie rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr><th scope="row">HAS-R029 · Énergie rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63 %</td><td class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6 %</td></tr>
+    </tbody>
+  </table>
   </details>
 </div>
 

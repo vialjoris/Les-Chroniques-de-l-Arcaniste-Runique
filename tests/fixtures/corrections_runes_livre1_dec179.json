@@ -1,0 +1,1184 @@
+{
+  "schema": "dec179-livre1-corrections-v1",
+  "path": "livre_1_l_ascension_d_une_legende_oubliee.md",
+  "offset_unit": "Unicode code points, not bytes",
+  "baseline_sha256": "9d27a766bef9706867ebbf658ba4dd2ecfb46b885cbf6a4e5d850ad3ae0caa2b",
+  "result_sha256": "1e4221ee2755748a072534630d816a22c6b84f260e3bb500347b2d8c3d304912",
+  "reverse_verified": true,
+  "reverse_instructions": "Appliquer pairs en ordre inverse: vérifier la tranche after_start_char:after_end_char égale after, puis remplacer par before. Le résultat doit avoir baseline_sha256. Aucune fixture historique à renouveler.",
+  "windows_modified": [
+    "003",
+    "005",
+    "020",
+    "022",
+    "090",
+    "033",
+    "034",
+    "091",
+    "035",
+    "036",
+    "037",
+    "057",
+    "058",
+    "059",
+    "060",
+    "062",
+    "068",
+    "069",
+    "070",
+    "076",
+    "078",
+    "079",
+    "087",
+    "098",
+    "C14-F01",
+    "C14-F09",
+    "C15-F10"
+  ],
+  "windows_added": [
+    "C10-R01",
+    "C14-R01",
+    "C15-R01",
+    "C15-R02",
+    "C3-R01",
+    "C4-R01",
+    "C6-R01",
+    "C9-R01"
+  ],
+  "pairs": [
+    {
+      "operation": "insert",
+      "before_start_char": 30274,
+      "before_end_char": 30274,
+      "after_start_char": 30274,
+      "after_end_char": 30454,
+      "before": "",
+      "after": "  <p><strong>HAS-R001 — Principale :</strong> <span class=\"rune-bonus\">Attaque +70</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">Vitesse +4 ; PV +25</span>.</p>\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 32789,
+      "before_end_char": 32789,
+      "after_start_char": 32969,
+      "after_end_char": 33147,
+      "before": "",
+      "after": "  <p><strong>HAS-R002 — Principale :</strong> <span class=\"rune-bonus\">Défense +70</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">PV +30 ; Mana +20</span>.</p>\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 118743,
+      "before_end_char": 118743,
+      "after_start_char": 119101,
+      "after_end_char": 119280,
+      "before": "",
+      "after": "  <p><strong>HAS-R003 — Principale :</strong> <span class=\"rune-bonus\">Attaque +7</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">Vitesse +2 ; PV +30</span>.</p>\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 124120,
+      "before_end_char": 124120,
+      "after_start_char": 124657,
+      "after_end_char": 126496,
+      "before": "",
+      "after": "  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">ID, ensemble, rareté, rang, amélioration</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Attaque +70</td><td class=\"rune-bonus\">Vitesse +4 ; PV +25</td></tr>\n      <tr><th scope=\"row\">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Défense +70</td><td class=\"rune-bonus\">PV +30 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R003 · Fatal rare (bleue), 3★, +3</th><td class=\"rune-bonus\">Attaque +22</td><td class=\"rune-bonus\">Vitesse +4 ; PV +30</td></tr>\n      <tr><th scope=\"row\">HAS-R004 · Fatal peu commune (verte), 3★, +0</th><td class=\"rune-bonus\">Attaque +7</td><td class=\"rune-bonus\">Défense +3</td></tr>\n      <tr><th scope=\"row\">HAS-R005 · Fatal peu commune (verte), 3★, +0</th><td class=\"rune-bonus\">Vitesse +3</td><td class=\"rune-bonus\">Attaque +3</td></tr>\n      <tr><th scope=\"row\">HAS-R006 · Gardien rare (bleue), 3★, +0</th><td class=\"rune-bonus\">PV +100</td><td class=\"rune-bonus\">Défense +3 ; Résistance +3 %</td></tr>\n      <tr><th scope=\"row\">HAS-R007 · Gardien rare (bleue), 3★, +0</th><td class=\"rune-bonus\">Défense +7</td><td class=\"rune-bonus\">PV +30 ; Vitesse +2</td></tr>\n      <tr><th scope=\"row\">HAS-R008 · Gardien peu commune (verte), 3★, +0</th><td class=\"rune-bonus\">PV +100</td><td class=\"rune-bonus\">Défense +3</td></tr>\n      <tr><th scope=\"row\">HAS-R009 · Énergie rare (bleue), 3★, +0</th><td class=\"rune-bonus\">PV +100</td><td class=\"rune-bonus\">Défense +3 ; Résistance +3 %</td></tr>\n      <tr><th scope=\"row\">HAS-R010 · Énergie peu commune (verte), 3★, +0</th><td class=\"rune-bonus\">Défense +7</td><td class=\"rune-bonus\">PV +30</td></tr>\n    </tbody>\n  </table>\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 156904,
+      "before_end_char": 156904,
+      "after_start_char": 159280,
+      "after_end_char": 160239,
+      "before": "",
+      "after": "<div class=\"rune-window lit-window\" data-window-id=\"C3-R01\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C3-R01-mobile.svg\">\n    <img src=\"assets/fenetres/C3-R01.svg\" alt=\"Fenêtre du système — RUNE EXAMINÉE AU MARCHÉ\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>RUNE EXAMINÉE AU MARCHÉ</div>\n  <h3>MAR-R001 — Fatal peu commune (verte), 3★ <span class=\"upgrade-badge\">+0</span></h3>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">Attaque +7</span></p>\n  <p><strong>Secondaire présente :</strong> <span class=\"rune-bonus\">Vitesse +2</span></p>\n  </details>\n</div>\n\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 170088,
+      "before_end_char": 170162,
+      "after_start_char": 173423,
+      "after_end_char": 173512,
+      "before": "  <p><strong>Principale :</strong> <span class=\"rune-bonus\">PV</span></p>\n",
+      "after": "  <p><strong>ORV-R001 — Principale :</strong> <span class=\"rune-bonus\">PV +70</span></p>\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 172906,
+      "before_end_char": 172906,
+      "after_start_char": 176256,
+      "after_end_char": 176387,
+      "before": "",
+      "after": "  <p><strong>ORV-R001 — Principale :</strong> <span class=\"rune-bonus\">PV +100</span> ; <strong>secondaires :</strong> Aucune.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 174609,
+      "before_end_char": 174679,
+      "after_start_char": 178090,
+      "after_end_char": 178163,
+      "before": "L’éclat se resserra au bord de la pierre, puis prit une teinte verte.\n",
+      "after": "L’éclat blanc se resserra au bord de la pierre, sans changer de couleur.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 175401,
+      "before_end_char": 175543,
+      "after_start_char": 178885,
+      "after_end_char": 179023,
+      "before": "  <h3>Rune Énergie <span class=\"lit-badge lit-badge--rune-uncommon\">peu commune (verte)</span>, 2★ <span class=\"upgrade-badge\">+3</span></h3>\n",
+      "after": "  <h3>Rune Énergie <span class=\"lit-badge lit-badge--rune-common\">commune (blanche)</span>, 2★ <span class=\"upgrade-badge\">+3</span></h3>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 175795,
+      "before_end_char": 176114,
+      "after_start_char": 179275,
+      "after_end_char": 179612,
+      "before": "  <p class=\"lit-window__row\"><strong>Grade actuel :</strong> <span class=\"lit-badge lit-badge--rune-uncommon\">Peu commun — Vert</span></p>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">PV renforcés</span></p>\n  <p><strong>Première secondaire apparue :</strong> <span class=\"rune-bonus\">Défense</span></p>\n",
+      "after": "  <p class=\"lit-window__row\"><strong>Grade actuel :</strong> <span class=\"lit-badge lit-badge--rune-common\">Commun — Blanc, inchangé</span></p>\n  <p><strong>ORV-R001 — Principale :</strong> <span class=\"rune-bonus\">PV +160</span></p>\n  <p><strong>Première secondaire apparue :</strong> <strong class=\"rune-bonus\">Défense +3</strong></p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 177841,
+      "before_end_char": 178147,
+      "after_start_char": 181339,
+      "after_end_char": 181643,
+      "before": "Il posa la fiche sur son plateau et referma le registre de l’épreuve. La rune Énergie peu commune, verte, deux étoiles, à +3, resta sur le linge, avec ses notes. Hasol ramassa les consommables épuisés et les mit à l’endroit qu’il lui indiquait. Elle essuya ensuite le support, en prenant garde à son bras.\n",
+      "after": "Il posa la fiche sur son plateau et referma le registre de l’épreuve. La rune Énergie commune, blanche, deux étoiles, à +3, resta sur le linge, avec ses notes. Hasol ramassa les consommables épuisés et les mit à l’endroit qu’il lui indiquait. Elle essuya ensuite le support, en prenant garde à son bras.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 180737,
+      "before_end_char": 181041,
+      "after_start_char": 184233,
+      "after_end_char": 184547,
+      "before": "Dans sa chambre, Hasol posa l’épée contre le mur et commença par sortir son carnet. À la page suivante, elle recopia brièvement le suivi de l’épreuve : Énergie commune blanche, deux étoiles, de +0 à +3 ; un échec au passage +2 ; grade final peu commun vert, deux étoiles, première secondaire de Défense.\n",
+      "after": "Dans sa chambre, Hasol posa l’épée contre le mur et commença par sortir son carnet. À la page suivante, elle recopia brièvement le suivi de l’épreuve : Énergie commune blanche, deux étoiles, de +0 à +3 ; un échec au passage +2 ; rareté et étoiles inchangées, première secondaire de Défense +3, principale PV +160.\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 189275,
+      "before_end_char": 189275,
+      "after_start_char": 192781,
+      "after_end_char": 192920,
+      "before": "",
+      "after": "  <p><strong>CLI-R001 — Principale à +0 :</strong> <span class=\"rune-bonus\">Défense +5</span> ; <strong>secondaires :</strong> Aucune.</p>\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 192641,
+      "before_end_char": 192641,
+      "after_start_char": 196286,
+      "after_end_char": 196420,
+      "before": "",
+      "after": "  <p><strong>CLI-R001 — Principale :</strong> <span class=\"rune-bonus\">Défense +5</span> ; <strong>secondaires :</strong> Aucune.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 195013,
+      "before_end_char": 195082,
+      "after_start_char": 198792,
+      "after_end_char": 198926,
+      "before": "  <p><strong>Principale :</strong> Renforcée — aucune secondaire</p>\n",
+      "after": "  <p><strong>CLI-R001 — Principale :</strong> <span class=\"rune-bonus\">Défense +8</span> ; <strong>secondaires :</strong> Aucune.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 199633,
+      "before_end_char": 199702,
+      "after_start_char": 203477,
+      "after_end_char": 203612,
+      "before": "  <p><strong>Principale :</strong> Renforcée — aucune secondaire</p>\n",
+      "after": "  <p><strong>CLI-R001 — Principale :</strong> <span class=\"rune-bonus\">Défense +11</span> ; <strong>secondaires :</strong> Aucune.</p>\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 212003,
+      "before_end_char": 212003,
+      "after_start_char": 215913,
+      "after_end_char": 216930,
+      "before": "",
+      "after": "\n<div class=\"rune-window lit-window\" data-window-id=\"C4-R01\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C4-R01-mobile.svg\">\n    <img src=\"assets/fenetres/C4-R01.svg\" alt=\"Fenêtre du système — FICHE DE LA RUNE CLIENTE\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>FICHE DE LA RUNE CLIENTE</div>\n  <h3>CLI-R002 — Gardien rare (bleue), 3★ <span class=\"upgrade-badge\">+0</span></h3>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">Défense +7</span></p>\n  <p><strong>Secondaires présentes :</strong> <span class=\"rune-bonus\">PV +30 ; Vitesse +2</span></p>\n  <p>État initial ; aucune tentative engagée.</p>\n  </details>\n</div>\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 339384,
+      "before_end_char": 339384,
+      "after_start_char": 344311,
+      "after_end_char": 345280,
+      "before": "",
+      "after": "<div class=\"rune-window lit-window\" data-window-id=\"C6-R01\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C6-R01-mobile.svg\">\n    <img src=\"assets/fenetres/C6-R01.svg\" alt=\"Fenêtre du système — RUNE EXAMINÉE DANS LE LOT\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>RUNE EXAMINÉE DANS LE LOT</div>\n  <h3>REC-R001 — Énergie rare (bleue), 1★ <span class=\"upgrade-badge\">+0</span></h3>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">PV +40</span></p>\n  <p><strong>Secondaires présentes :</strong> <span class=\"rune-bonus\">Attaque +2 ; Défense +2</span></p>\n  </details>\n</div>\n\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 394143,
+      "before_end_char": 394239,
+      "after_start_char": 400039,
+      "after_end_char": 400105,
+      "before": "— Les runes Arcanique (grades et rangs : À DÉFINIR) sont vraiment aussi rares ? demanda-t-elle.\n",
+      "after": "— Les runes Arcanique sont vraiment aussi rares ? demanda-t-elle.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 394779,
+      "before_end_char": 394918,
+      "after_start_char": 400645,
+      "after_end_char": 400754,
+      "before": "— Je voudrais commencer par deux runes Arcanique (grades et rangs : À DÉFINIR) ayant la Puissance arcanique en caractéristique principale.\n",
+      "after": "— Je voudrais commencer par deux runes Arcanique ayant la Puissance arcanique en caractéristique principale.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 395080,
+      "before_end_char": 395149,
+      "after_start_char": 400916,
+      "after_end_char": 401007,
+      "before": "Quatre Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).\n",
+      "after": "Quatre Fatal : deux rares bleues, l’une 6★ et l’autre 3★, et deux peu communes vertes, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 395150,
+      "before_end_char": 395221,
+      "after_start_char": 401008,
+      "after_end_char": 401126,
+      "before": "Quatre Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).\n",
+      "after": "Quatre Gardien : celle du père rare bleue, 6★ ; les trois maternelles 3★, deux rares bleues et une peu commune verte.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 395222,
+      "before_end_char": 395270,
+      "after_start_char": 401127,
+      "after_end_char": 401190,
+      "before": "Deux Énergie (grades actuels : À DÉFINIR ; 3★).\n",
+      "after": "Deux Énergie, l’une rare bleue, l’autre peu commune verte, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 395271,
+      "before_end_char": 395468,
+      "after_start_char": 401191,
+      "after_end_char": 401410,
+      "before": "— Je pourrais remplacer deux Gardien (grades actuels : À DÉFINIR ; 3★) offertes par ma mère, expliqua-t-elle. Je conserverais celle de mon père et une autre, donc un bonus Gardien resterait actif.\n",
+      "after": "— Je pourrais remplacer deux Gardien offertes par ma mère, une rare bleue et une peu commune verte, trois étoiles, expliqua-t-elle. Je conserverais celle de mon père et une autre, donc un bonus Gardien resterait actif.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 396471,
+      "before_end_char": 396570,
+      "after_start_char": 402413,
+      "after_end_char": 402482,
+      "before": "— Allez, au travail. Les runes Arcanique (grades et rangs : À DÉFINIR) ne vont pas tomber du ciel.\n",
+      "after": "— Allez, au travail. Les runes Arcanique ne vont pas tomber du ciel.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 430545,
+      "before_end_char": 430636,
+      "after_start_char": 436457,
+      "after_end_char": 436589,
+      "before": "  <p><strong>Rune d’épreuve :</strong> Ensemble, grade et rang en étoiles : À DÉFINIR.</p>\n",
+      "after": "  <p><strong>GRI-R001 — Rune d’épreuve :</strong> Gardien <span class=\"lit-badge lit-badge--rune-rare\">rare (bleue)</span>, 2★.</p>\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 430717,
+      "before_end_char": 430717,
+      "after_start_char": 436670,
+      "after_end_char": 436837,
+      "before": "",
+      "after": "  <p><strong>Principale :</strong> <span class=\"rune-bonus\">Défense +23</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">PV +40 ; Mana +20</span>.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 435998,
+      "before_end_char": 436119,
+      "after_start_char": 442118,
+      "after_end_char": 442209,
+      "before": "Les runes Arcanique (grades et rangs : À DÉFINIR) n’étaient plus seulement des pierres trop coûteuses dans un catalogue.\n",
+      "after": "Les runes Arcanique n’étaient plus seulement des pierres trop coûteuses dans un catalogue.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 438403,
+      "before_end_char": 438537,
+      "after_start_char": 444493,
+      "after_end_char": 444619,
+      "before": "Elles concernaient des runes Arcanique (grades et rangs : À DÉFINIR) dont la caractéristique principale était la Puissance arcanique.\n",
+      "after": "Elles concernaient des runes Arcanique rares bleues, 3★, +0, dont la caractéristique principale était la Puissance arcanique.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 440310,
+      "before_end_char": 440494,
+      "after_start_char": 446392,
+      "after_end_char": 446527,
+      "before": "Leurs inscriptions étaient différentes de celles de ses Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce) et Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).\n",
+      "after": "Leurs inscriptions étaient différentes de celles de ses Fatal et Gardien rares bleues ou peu communes vertes, 6★ ou 3★ selon la pièce.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 441350,
+      "before_end_char": 441596,
+      "after_start_char": 447383,
+      "after_end_char": 448013,
+      "before": "  <p><strong>Ensemble :</strong> Arcanique — <strong>Grade et rang :</strong> À DÉFINIR.</p>\n  <p><span class=\"rune-bonus\">Caractéristique principale : Puissance arcanique.</span></p>\n  <p>Valeurs et caractéristiques secondaires : À DÉFINIR.</p>\n",
+      "after": "  <p><strong>HAS-R011 :</strong> Arcanique <span class=\"lit-badge lit-badge--rune-rare\">rare (bleue)</span>, 3★, <span class=\"upgrade-badge\">+0</span> ; <strong>principale :</strong> <span class=\"rune-bonus\">PA +30</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">Vitesse +2 ; Mana +10</span>.</p>\n  <p><strong>HAS-R012 :</strong> Arcanique <span class=\"lit-badge lit-badge--rune-rare\">rare (bleue)</span>, 3★, <span class=\"upgrade-badge\">+0</span> ; <strong>principale :</strong> <span class=\"rune-bonus\">PA +30</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">Attaque +4 ; Défense +3</span>.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 442058,
+      "before_end_char": 442131,
+      "after_start_char": 448475,
+      "after_end_char": 448570,
+      "before": "Ses quatre Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).\n",
+      "after": "Ses quatre Fatal : deux rares bleues, l’une 6★ et l’autre 3★, et deux peu communes vertes, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 442132,
+      "before_end_char": 442207,
+      "after_start_char": 448571,
+      "after_end_char": 448693,
+      "before": "Ses quatre Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).\n",
+      "after": "Ses quatre Gardien : celle du père rare bleue, 6★ ; les trois maternelles 3★, deux rares bleues et une peu commune verte.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 442208,
+      "before_end_char": 442260,
+      "after_start_char": 448694,
+      "after_end_char": 448761,
+      "before": "Ses deux Énergie (grades actuels : À DÉFINIR ; 3★).\n",
+      "after": "Ses deux Énergie, l’une rare bleue, l’autre peu commune verte, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 442555,
+      "before_end_char": 442656,
+      "after_start_char": 449056,
+      "after_end_char": 449207,
+      "before": "Puis elle sélectionna deux Gardien (grades actuels : À DÉFINIR ; 3★) que sa mère lui avait offertes.\n",
+      "after": "Puis elle sélectionna deux Gardien que sa mère lui avait offertes : la rare bleue à principale de Défense et la peu commune verte, toutes deux 3★, +0.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 443171,
+      "before_end_char": 443246,
+      "after_start_char": 449722,
+      "after_end_char": 449788,
+      "before": "Hasol prit ensuite les deux runes Arcanique (grades et rangs : À DÉFINIR).\n",
+      "after": "Hasol prit ensuite les deux runes Arcanique rares bleues, 3★, +0.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 444279,
+      "before_end_char": 444487,
+      "after_start_char": 450821,
+      "after_end_char": 452667,
+      "before": "  <p><strong>Origines :</strong> Deux cadeaux paternels <span class=\"lit-badge lit-badge--rune-rare\">rares (bleus)</span>, 6★, +6 ; six runes maternelles 3★ ; deux Arcanique de grades et rangs À DÉFINIR.</p>\n",
+      "after": "  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">ID, ensemble, rareté, rang, amélioration</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Attaque +70</td><td class=\"rune-bonus\">Vitesse +4 ; PV +25</td></tr>\n      <tr><th scope=\"row\">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Défense +70</td><td class=\"rune-bonus\">PV +30 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R003 · Fatal rare (bleue), 3★, +3</th><td class=\"rune-bonus\">Attaque +22</td><td class=\"rune-bonus\">Vitesse +4 ; PV +30</td></tr>\n      <tr><th scope=\"row\">HAS-R004 · Fatal peu commune (verte), 3★, +0</th><td class=\"rune-bonus\">Attaque +7</td><td class=\"rune-bonus\">Défense +3</td></tr>\n      <tr><th scope=\"row\">HAS-R005 · Fatal peu commune (verte), 3★, +0</th><td class=\"rune-bonus\">Vitesse +3</td><td class=\"rune-bonus\">Attaque +3</td></tr>\n      <tr><th scope=\"row\">HAS-R006 · Gardien rare (bleue), 3★, +0</th><td class=\"rune-bonus\">PV +100</td><td class=\"rune-bonus\">Défense +3 ; Résistance +3 %</td></tr>\n      <tr><th scope=\"row\">HAS-R009 · Énergie rare (bleue), 3★, +0</th><td class=\"rune-bonus\">PV +100</td><td class=\"rune-bonus\">Défense +3 ; Résistance +3 %</td></tr>\n      <tr><th scope=\"row\">HAS-R010 · Énergie peu commune (verte), 3★, +0</th><td class=\"rune-bonus\">Défense +7</td><td class=\"rune-bonus\">PV +30</td></tr>\n      <tr><th scope=\"row\">HAS-R011 · Arcanique rare (bleue), 3★, +0</th><td class=\"rune-bonus\">PA +30</td><td class=\"rune-bonus\">Vitesse +2 ; Mana +10</td></tr>\n      <tr><th scope=\"row\">HAS-R012 · Arcanique rare (bleue), 3★, +0</th><td class=\"rune-bonus\">PA +30</td><td class=\"rune-bonus\">Attaque +4 ; Défense +3</td></tr>\n    </tbody>\n  </table>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 445897,
+      "before_end_char": 445972,
+      "after_start_char": 454077,
+      "after_end_char": 454152,
+      "before": "Hasol désigna l’une des nouvelles Arcanique (grades et rangs : À DÉFINIR).\n",
+      "after": "Hasol désigna l’une des nouvelles Arcanique rares bleues, 3★, encore à +0.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 446218,
+      "before_end_char": 446303,
+      "after_start_char": 454398,
+      "after_end_char": 454501,
+      "before": "Il désigna ensuite une Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).\n",
+      "after": "Il désigna ensuite les fiches des Fatal, rares bleues ou peu communes vertes, 6★ ou 3★ selon la pièce.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 446519,
+      "before_end_char": 446602,
+      "after_start_char": 454717,
+      "after_end_char": 454807,
+      "before": "Puis il montra une Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).\n",
+      "after": "Puis il montra les fiches des Gardien rares bleues, celle du père 6★ et la maternelle 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 449603,
+      "before_end_char": 449804,
+      "after_start_char": 457808,
+      "after_end_char": 458004,
+      "before": "Elle accorda une attention particulière à ses nouvelles Arcanique (grades et rangs : À DÉFINIR) et aux Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce) qui soutenaient son combat à l’épée.\n",
+      "after": "Elle accorda une attention particulière à ses nouvelles Arcanique rares bleues, 3★, et aux Fatal rares bleues ou peu communes vertes, 6★ ou 3★ selon la pièce, qui soutenaient son combat à l’épée.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 451387,
+      "before_end_char": 451519,
+      "after_start_char": 459587,
+      "after_end_char": 461444,
+      "before": "  <p><strong>Autres pièces :</strong> Six maternelles 3★, grades actuels À DÉFINIR ; deux Arcanique, grades et rangs À DÉFINIR.</p>\n",
+      "after": "  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">ID, ensemble, rareté, rang, amélioration</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Attaque +70</td><td class=\"rune-bonus\">Vitesse +4 ; PV +25</td></tr>\n      <tr><th scope=\"row\">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Défense +70</td><td class=\"rune-bonus\">PV +30 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R003 · Fatal rare (bleue), 3★, +6</th><td class=\"rune-bonus\">Attaque +37</td><td class=\"rune-bonus\">Vitesse +4 ; PV +50</td></tr>\n      <tr><th scope=\"row\">HAS-R004 · Fatal peu commune (verte), 3★, +6</th><td class=\"rune-bonus\">Attaque +37</td><td class=\"rune-bonus\">Défense +6 ; PA +20</td></tr>\n      <tr><th scope=\"row\">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class=\"rune-bonus\">Vitesse +6</td><td class=\"rune-bonus\">Attaque +6</td></tr>\n      <tr><th scope=\"row\">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class=\"rune-bonus\">PV +244</td><td class=\"rune-bonus\">Défense +6 ; Résistance +3 %</td></tr>\n      <tr><th scope=\"row\">HAS-R009 · Énergie rare (bleue), 3★, +6</th><td class=\"rune-bonus\">PV +388</td><td class=\"rune-bonus\">Défense +6 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R010 · Énergie peu commune (verte), 3★, +3</th><td class=\"rune-bonus\">Défense +22</td><td class=\"rune-bonus\">PV +50</td></tr>\n      <tr><th scope=\"row\">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class=\"rune-bonus\">PA +66</td><td class=\"rune-bonus\">Vitesse +4 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class=\"rune-bonus\">PA +48</td><td class=\"rune-bonus\">Attaque +4 ; Défense +6</td></tr>\n    </tbody>\n  </table>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 459415,
+      "before_end_char": 459549,
+      "after_start_char": 469340,
+      "after_end_char": 469490,
+      "before": "À l’intérieur reposaient les deux anciennes runes Gardien (grades actuels : À DÉFINIR ; 3★) qu’elle avait retirées de son équipement.\n",
+      "after": "À l’intérieur reposaient les deux anciennes runes Gardien qu’elle avait retirées de son équipement : une rare bleue et une peu commune verte, 3★, +0.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 459704,
+      "before_end_char": 459764,
+      "after_start_char": 469645,
+      "after_end_char": 469692,
+      "before": "Les deux nouvelles Arcanique (grades et rangs : À DÉFINIR).\n",
+      "after": "Les deux nouvelles Arcanique rares bleues, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 459939,
+      "before_end_char": 460020,
+      "after_start_char": 469867,
+      "after_end_char": 469931,
+      "before": "Puis prit doucement l’une des anciennes Gardien (grade actuel : À DÉFINIR ; 3★).\n",
+      "after": "Puis prit doucement l’une de ces deux anciennes Gardien 3★, +0.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 465544,
+      "before_end_char": 465615,
+      "after_start_char": 475455,
+      "after_end_char": 475513,
+      "before": "Et enfin, ses nouvelles runes Arcanique (grades et rangs : À DÉFINIR).\n",
+      "after": "Et enfin, ses nouvelles runes Arcanique rares bleues, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 467535,
+      "before_end_char": 467642,
+      "after_start_char": 477433,
+      "after_end_char": 477510,
+      "before": "Et des deux runes Arcanique (grades et rangs : À DÉFINIR) qu’elle espérait encore pouvoir acheter un jour.\n",
+      "after": "Et des deux runes Arcanique qu’elle espérait encore pouvoir acheter un jour.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 474226,
+      "before_end_char": 474447,
+      "after_start_char": 484094,
+      "after_end_char": 485951,
+      "before": "  <p><strong>Origines :</strong> Deux paternelles <span class=\"lit-badge lit-badge--rune-rare\">rares (bleues)</span>, 6★, +6 ; six maternelles 3★, grades actuels À DÉFINIR ; deux Arcanique, grades et rangs À DÉFINIR.</p>\n",
+      "after": "  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">ID, ensemble, rareté, rang, amélioration</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Attaque +70</td><td class=\"rune-bonus\">Vitesse +4 ; PV +25</td></tr>\n      <tr><th scope=\"row\">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Défense +70</td><td class=\"rune-bonus\">PV +30 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R003 · Fatal rare (bleue), 3★, +6</th><td class=\"rune-bonus\">Attaque +37</td><td class=\"rune-bonus\">Vitesse +4 ; PV +50</td></tr>\n      <tr><th scope=\"row\">HAS-R004 · Fatal peu commune (verte), 3★, +6</th><td class=\"rune-bonus\">Attaque +37</td><td class=\"rune-bonus\">Défense +6 ; PA +20</td></tr>\n      <tr><th scope=\"row\">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class=\"rune-bonus\">Vitesse +6</td><td class=\"rune-bonus\">Attaque +6</td></tr>\n      <tr><th scope=\"row\">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class=\"rune-bonus\">PV +244</td><td class=\"rune-bonus\">Défense +6 ; Résistance +3 %</td></tr>\n      <tr><th scope=\"row\">HAS-R009 · Énergie rare (bleue), 3★, +6</th><td class=\"rune-bonus\">PV +388</td><td class=\"rune-bonus\">Défense +6 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R010 · Énergie peu commune (verte), 3★, +3</th><td class=\"rune-bonus\">Défense +22</td><td class=\"rune-bonus\">PV +50</td></tr>\n      <tr><th scope=\"row\">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class=\"rune-bonus\">PA +66</td><td class=\"rune-bonus\">Vitesse +4 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class=\"rune-bonus\">PA +48</td><td class=\"rune-bonus\">Attaque +4 ; Défense +6</td></tr>\n    </tbody>\n  </table>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 484216,
+      "before_end_char": 484298,
+      "after_start_char": 495720,
+      "after_end_char": 495818,
+      "before": "Les deux runes Gardien (grades actuels : À DÉFINIR ; 3★) retirées lui manquaient.\n",
+      "after": "Les deux runes Gardien retirées, une rare bleue et une peu commune verte, 3★, +0, lui manquaient.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 503802,
+      "before_end_char": 503890,
+      "after_start_char": 515322,
+      "after_end_char": 515417,
+      "before": "L’Attaque de ses Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce) augmenta.\n",
+      "after": "L’Attaque de ses Fatal rares bleues ou peu communes vertes, 6★ ou 3★ selon la pièce, augmenta.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 503891,
+      "before_end_char": 503974,
+      "after_start_char": 515418,
+      "after_end_char": 515489,
+      "before": "La Puissance arcanique des deux Arcanique (grades et rangs : À DÉFINIR) également.\n",
+      "after": "La Puissance arcanique des deux Arcanique rares bleues, 3★, également.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 507401,
+      "before_end_char": 507467,
+      "after_start_char": 518916,
+      "after_end_char": 518969,
+      "before": "Ses deux nouvelles runes Arcanique (grades et rangs : À DÉFINIR).\n",
+      "after": "Ses deux nouvelles runes Arcanique rares bleues, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 528003,
+      "before_end_char": 528072,
+      "after_start_char": 539505,
+      "after_end_char": 539596,
+      "before": "Quatre Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).\n",
+      "after": "Quatre Fatal : deux rares bleues, l’une 6★ et l’autre 3★, et deux peu communes vertes, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 528073,
+      "before_end_char": 528142,
+      "after_start_char": 539597,
+      "after_end_char": 539663,
+      "before": "Deux Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce).\n",
+      "after": "Deux Gardien rares bleues : celle du père 6★ et la maternelle 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 528143,
+      "before_end_char": 528191,
+      "after_start_char": 539664,
+      "after_end_char": 539727,
+      "before": "Deux Énergie (grades actuels : À DÉFINIR ; 3★).\n",
+      "after": "Deux Énergie, l’une rare bleue, l’autre peu commune verte, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 528192,
+      "before_end_char": 528238,
+      "after_start_char": 539728,
+      "after_end_char": 539761,
+      "before": "Deux Arcanique (grades et rangs : À DÉFINIR).\n",
+      "after": "Deux Arcanique rares bleues, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 529089,
+      "before_end_char": 529174,
+      "after_start_char": 540612,
+      "after_end_char": 540684,
+      "before": "Hasol effleura l’une de ses nouvelles runes Arcanique (grades et rangs : À DÉFINIR).\n",
+      "after": "Hasol effleura l’une de ses nouvelles runes Arcanique rares bleues, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 533645,
+      "before_end_char": 533890,
+      "after_start_char": 545155,
+      "after_end_char": 545399,
+      "before": "— Mes nouvelles runes Arcanique (grades et rangs : À DÉFINIR) ont augmenté ma Puissance arcanique. Et comme elle influence mon taux critique et mes dégâts critiques, même mes attaques ordinaires à l'épée sont devenues beaucoup plus dangereuses.\n",
+      "after": "— Mes nouvelles runes Arcanique rares bleues, trois étoiles, ont augmenté ma Puissance arcanique. Et comme elle influence mon taux critique et mes dégâts critiques, même mes attaques ordinaires à l'épée sont devenues beaucoup plus dangereuses.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 534421,
+      "before_end_char": 534579,
+      "after_start_char": 545930,
+      "after_end_char": 546087,
+      "before": "— Tu viens à peine d'acheter deux runes Arcanique (grades et rangs : À DÉFINIR) qui coûtent une petite fortune, et voilà que tu t'intéresses au set Vitesse !\n",
+      "after": "— Tu viens à peine d'acheter deux runes Arcanique rares bleues, trois étoiles, qui coûtent une petite fortune, et voilà que tu t'intéresses au set Vitesse !\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 543480,
+      "before_end_char": 543557,
+      "after_start_char": 554988,
+      "after_end_char": 555096,
+      "before": "Hasol commença par ses deux runes Énergie (grades actuels : À DÉFINIR ; 3★).\n",
+      "after": "Hasol commença par ses deux runes Énergie, la rare bleue à +6 et la peu commune verte à +3, toutes deux 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 545116,
+      "before_end_char": 545216,
+      "after_start_char": 556655,
+      "after_end_char": 557001,
+      "before": "  <p><strong>Rune :</strong> Énergie maternelle, 3★ — grade actuel et étape exacte : À DÉFINIR.</p>\n",
+      "after": "  <p><strong>HAS-R009 :</strong> Énergie <span class=\"lit-badge lit-badge--rune-rare\">rare (bleue)</span>, 3★, <span class=\"upgrade-badge\">+7</span> ; passage +6 → +7.</p>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">PV +436</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">Défense +6 ; Résistance +6 %</span>.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 546069,
+      "before_end_char": 546169,
+      "after_start_char": 557854,
+      "after_end_char": 558211,
+      "before": "  <p><strong>Rune :</strong> Énergie maternelle, 3★ — grade actuel et étape exacte : À DÉFINIR.</p>\n",
+      "after": "  <p><strong>HAS-R009 :</strong> Énergie <span class=\"lit-badge lit-badge--rune-rare\">rare (bleue)</span>, 3★, <span class=\"upgrade-badge\">+7</span> conservé ; tentative +7 → +8.</p>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">PV +436</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">Défense +6 ; Résistance +6 %</span>.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 547312,
+      "before_end_char": 547428,
+      "after_start_char": 559354,
+      "after_end_char": 559469,
+      "before": "  <p><strong>Rune :</strong> Énergie <span class=\"lit-badge lit-badge--rune-epic\">épique (violette)</span>, 3★.</p>\n",
+      "after": "  <p><strong>HAS-R009 :</strong> Énergie <span class=\"lit-badge lit-badge--rune-rare\">rare (bleue)</span>, 3★.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 547507,
+      "before_end_char": 547571,
+      "after_start_char": 559548,
+      "after_end_char": 559822,
+      "before": "  <p>Principale renforcée et troisième secondaire présente.</p>\n",
+      "after": "  <p><strong>Dernier passage :</strong> +8 → +9 ; rareté inchangée.</p>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">PV +532</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">Défense +6 ; Résistance +6 % ; <strong>Mana +10</strong></span>.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 547764,
+      "before_end_char": 547829,
+      "after_start_char": 560015,
+      "after_end_char": 560110,
+      "before": "Hasol amena sa deuxième rune Énergie épique (violette), 3★ à +9.\n",
+      "after": "Hasol amena sa deuxième rune Énergie peu commune (verte), 3★, à +9, sans en changer la rareté.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 547830,
+      "before_end_char": 548029,
+      "after_start_char": 560111,
+      "after_end_char": 561349,
+      "before": "Elle investit également dans certaines de ses Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce), notamment l'une des pièces maternelles les plus intéressantes pour son potentiel offensif.\n",
+      "after": "<div class=\"rune-window lit-window\" data-window-id=\"C9-R01\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C9-R01-mobile.svg\">\n    <img src=\"assets/fenetres/C9-R01.svg\" alt=\"Fenêtre du système — SECONDE ÉNERGIE AMÉLIORÉE\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>SECONDE ÉNERGIE AMÉLIORÉE</div>\n  <h3>HAS-R010 — Énergie peu commune (verte), 3★ <span class=\"upgrade-badge\">+9</span></h3>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">Défense +52</span></p>\n  <p><strong>Secondaires présentes :</strong> <span class=\"rune-bonus\">PV +50 ; Vitesse +2 ; <strong>PA +20</strong></span></p>\n  </details>\n</div>\n\nElle investit également dans ses deux Fatal maternelles à principale d’Attaque, l’une rare bleue, l’autre peu commune verte, 3★, notamment la rare bleue, l'une des pièces maternelles les plus intéressantes pour son potentiel offensif.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 548642,
+      "before_end_char": 548742,
+      "after_start_char": 561962,
+      "after_end_char": 562100,
+      "before": "Ses PV avaient également bénéficié des améliorations apportées aux Énergie épiques (violettes), 3★.\n",
+      "after": "Ses PV avaient également bénéficié des améliorations apportées aux deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 560530,
+      "before_end_char": 560648,
+      "after_start_char": 573888,
+      "after_end_char": 573976,
+      "before": "Les nouvelles runes Arcanique (grades et rangs : À DÉFINIR) qu'elle convoitait représentaient une dépense importante.\n",
+      "after": "Les nouvelles runes Arcanique qu'elle convoitait représentaient une dépense importante.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 573619,
+      "before_end_char": 573691,
+      "after_start_char": 586947,
+      "after_end_char": 587052,
+      "before": "— Les runes Arcanique (grades : À DÉFINIR ; 2★) dont nous avions parlé.\n",
+      "after": "— Les runes Arcanique dont nous avions parlé, une rare bleue et une peu commune verte, deux étoiles, +6.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 574736,
+      "before_end_char": 575043,
+      "after_start_char": 588097,
+      "after_end_char": 588736,
+      "before": "  <p><strong>Rang :</strong> 2★ chacune — <strong>Grades :</strong> À DÉFINIR.</p>\n  <p><strong>Amélioration :</strong> <span class=\"upgrade-badge\">+6</span> chacune.</p>\n  <p><span class=\"rune-bonus\">Caractéristique principale : Puissance arcanique.</span></p>\n  <p>Valeurs et secondaires : À DÉFINIR.</p>\n",
+      "after": "  <p><strong>HAS-R013 :</strong> Arcanique <span class=\"lit-badge lit-badge--rune-rare\">rare (bleue)</span>, 2★, <span class=\"upgrade-badge\">+6</span> ; <strong>principale :</strong> <span class=\"rune-bonus\">PA +38</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">Vitesse +4 ; Mana +20</span>.</p>\n  <p><strong>HAS-R014 :</strong> Arcanique <span class=\"lit-badge lit-badge--rune-uncommon\">peu commune (verte)</span>, 2★, <span class=\"upgrade-badge\">+6</span> ; <strong>principale :</strong> <span class=\"rune-bonus\">PA +38</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">Défense +6 ; Mana +10</span>.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 575686,
+      "before_end_char": 575919,
+      "after_start_char": 589379,
+      "after_end_char": 589651,
+      "before": "- quatre Fatal (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce) ;\n- deux Gardien (grades actuels : À DÉFINIR ; 6★ ou 3★ selon la pièce) ;\n- deux Énergie épiques (violettes), 3★ ;\n- deux Arcanique (grades et rangs : À DÉFINIR).\n",
+      "after": "- quatre Fatal : deux rares bleues, l’une 6★ et l’autre 3★, et deux peu communes vertes, 3★ ;\n- deux Gardien rares bleues : celle du père 6★ et la maternelle 3★ ;\n- deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9 ;\n- deux Arcanique rares bleues, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 576041,
+      "before_end_char": 576101,
+      "after_start_char": 589773,
+      "after_end_char": 589867,
+      "before": "— Je vais retirer mes deux Énergie épiques (violettes), 3★.\n",
+      "after": "— Je vais retirer mes deux Énergie, la rare bleue et la peu commune verte, trois étoiles, +9.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 576971,
+      "before_end_char": 577028,
+      "after_start_char": 590737,
+      "after_end_char": 590824,
+      "before": "Puis retira ses deux Énergie épiques (violettes), 3★ +9.\n",
+      "after": "Puis retira ses deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 577323,
+      "before_end_char": 577389,
+      "after_start_char": 591119,
+      "after_end_char": 591208,
+      "before": "Puis prit les deux nouvelles Arcanique (grades : À DÉFINIR ; 2★).\n",
+      "after": "Puis prit les deux nouvelles Arcanique, une rare bleue et une peu commune verte, 2★, +6.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 577390,
+      "before_end_char": 577469,
+      "after_start_char": 591209,
+      "after_end_char": 591321,
+      "before": "La première occupa l'emplacement libéré par une Énergie épique (violette), 3★.\n",
+      "after": "La première occupa l'un des emplacements libérés par les deux Énergie, rare bleue et peu commune verte, 3★, +9.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 578659,
+      "before_end_char": 578819,
+      "after_start_char": 592511,
+      "after_end_char": 592724,
+      "before": "Les caractéristiques principales de ses quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★) lui apportaient déjà de la Puissance arcanique.\n",
+      "after": "Les caractéristiques principales de ses quatre Arcanique — les deux premières rares bleues, 3★, et les deux nouvelles, une rare bleue et une peu commune verte, 2★ — lui apportaient déjà de la Puissance arcanique.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 579945,
+      "before_end_char": 580079,
+      "after_start_char": 593850,
+      "after_end_char": 594037,
+      "before": "Mais cette possibilité rendait ses quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★) encore plus intéressantes.\n",
+      "after": "Mais cette possibilité rendait ses quatre Arcanique — les deux premières rares bleues, 3★, et les deux nouvelles, une rare bleue et une peu commune verte, 2★ — encore plus intéressantes.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 580214,
+      "before_end_char": 580270,
+      "after_start_char": 594172,
+      "after_end_char": 594261,
+      "before": "Elle avait retiré deux Énergie épiques (violettes), 3★.\n",
+      "after": "Elle avait retiré deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 580271,
+      "before_end_char": 580325,
+      "after_start_char": 594262,
+      "after_end_char": 594339,
+      "before": "Puis équipé deux Arcanique (grades : À DÉFINIR ; 2★).\n",
+      "after": "Puis équipé deux Arcanique, une rare bleue et une peu commune verte, 2★, +6.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 580413,
+      "before_end_char": 580582,
+      "after_start_char": 594427,
+      "after_end_char": 594612,
+      "before": "À l'intérieur se trouvaient les deux runes Gardien (grades actuels : À DÉFINIR ; 3★) maternelles qu'elle avait retirées lors de ses précédents changements d'équipement.\n",
+      "after": "À l'intérieur se trouvaient les deux runes Gardien maternelles qu'elle avait retirées lors de ses précédents changements d'équipement : une rare bleue et une peu commune verte, 3★, +0.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 581740,
+      "before_end_char": 582021,
+      "after_start_char": 595770,
+      "after_end_char": 597816,
+      "before": "  <p><strong>Origines :</strong> Deux paternelles <span class=\"lit-badge lit-badge--rune-rare\">rares (bleues)</span>, 6★, +6 ; cinq maternelles 3★, grades actuels À DÉFINIR ; deux premières Arcanique, grades et rangs À DÉFINIR ; deux nouvelles Arcanique, 2★, grades À DÉFINIR.</p>\n",
+      "after": "  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">ID, ensemble, rareté, rang, amélioration</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Attaque +70</td><td class=\"rune-bonus\">Vitesse +4 ; PV +25</td></tr>\n      <tr><th scope=\"row\">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Défense +70</td><td class=\"rune-bonus\">PV +30 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R003 · Fatal rare (bleue), 3★, +9</th><td class=\"rune-bonus\">Attaque +52</td><td class=\"rune-bonus\">Vitesse +4 ; PV +50 ; PA +60</td></tr>\n      <tr><th scope=\"row\">HAS-R004 · Fatal peu commune (verte), 3★, +9</th><td class=\"rune-bonus\">Attaque +52</td><td class=\"rune-bonus\">Défense +6 ; PA +20 ; Vitesse +2</td></tr>\n      <tr><th scope=\"row\">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class=\"rune-bonus\">Vitesse +6</td><td class=\"rune-bonus\">Attaque +6</td></tr>\n      <tr><th scope=\"row\">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class=\"rune-bonus\">PV +244</td><td class=\"rune-bonus\">Défense +6 ; Résistance +3 %</td></tr>\n      <tr><th scope=\"row\">HAS-R007 · Gardien rare (bleue), 3★, +0</th><td class=\"rune-bonus\">Défense +7</td><td class=\"rune-bonus\">PV +30 ; Vitesse +2</td></tr>\n      <tr><th scope=\"row\">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class=\"rune-bonus\">PA +66</td><td class=\"rune-bonus\">Vitesse +4 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class=\"rune-bonus\">PA +48</td><td class=\"rune-bonus\">Attaque +4 ; Défense +6</td></tr>\n      <tr><th scope=\"row\">HAS-R013 · Arcanique rare (bleue), 2★, +6</th><td class=\"rune-bonus\">PA +38</td><td class=\"rune-bonus\">Vitesse +4 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R014 · Arcanique peu commune (verte), 2★, +6</th><td class=\"rune-bonus\">PA +38</td><td class=\"rune-bonus\">Défense +6 ; Mana +10</td></tr>\n    </tbody>\n  </table>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 582720,
+      "before_end_char": 582863,
+      "after_start_char": 598515,
+      "after_end_char": 598664,
+      "before": "Mais elle avait récupéré une Gardien (grade actuel : À DÉFINIR ; 3★) supplémentaire, et les trois pièces défensives conservaient leur utilité.\n",
+      "after": "Mais elle avait récupéré la Gardien maternelle rare bleue à principale de Défense, 3★, +0, et les trois pièces défensives conservaient leur utilité.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 583033,
+      "before_end_char": 583159,
+      "after_start_char": 598834,
+      "after_end_char": 598994,
+      "before": "Et les deux runes Énergie épiques (violettes), 3★ qu'elle avait retirées n'allaient pas rester longtemps dans son inventaire.\n",
+      "after": "Et les deux runes Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, qu'elle avait retirées n'allaient pas rester longtemps dans son inventaire.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 583961,
+      "before_end_char": 584060,
+      "after_start_char": 599796,
+      "after_end_char": 599946,
+      "before": "La jeune Sage examina les quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★).\n",
+      "after": "La jeune Sage examina les quatre Arcanique : les deux premières rares bleues, 3★, et les deux nouvelles, une rare bleue et une peu commune verte, 2★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 584692,
+      "before_end_char": 584756,
+      "after_start_char": 600578,
+      "after_end_char": 600676,
+      "before": "— Mais… tu n'as plus tes runes Énergie épiques (violettes), 3★.\n",
+      "after": "— Mais… tu n'as plus tes runes Énergie, la rare bleue et la peu commune verte, trois étoiles, +9.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 585004,
+      "before_end_char": 585054,
+      "after_start_char": 600924,
+      "after_end_char": 601008,
+      "before": "— Tes anciennes Énergie épiques (violettes), 3★ ?\n",
+      "after": "— Tes anciennes Énergie, la rare bleue et la peu commune verte, trois étoiles, +9 ?\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 586022,
+      "before_end_char": 586161,
+      "after_start_char": 601976,
+      "after_end_char": 602154,
+      "before": "— Avec deux Énergie épiques (violettes), 3★ équipées, tu bénéficieras de quinze pour cent de PV supplémentaires grâce au bonus d'ensemble.\n",
+      "after": "— Avec ces deux Énergie, la rare bleue et la peu commune verte, trois étoiles, +9, équipées, tu bénéficieras de quinze pour cent de PV supplémentaires grâce au bonus d'ensemble.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 586732,
+      "before_end_char": 586920,
+      "after_start_char": 602725,
+      "after_end_char": 602985,
+      "before": "— Mais maintenant, mes quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★) sont équipées. Je peux infliger davantage de dégâts et terminer plus rapidement les combats.\n",
+      "after": "— Mais maintenant, mes quatre Arcanique sont équipées : les deux premières rares bleues, trois étoiles, et les deux nouvelles, une rare bleue et une peu commune verte, deux étoiles. Je peux infliger davantage de dégâts et terminer plus rapidement les combats.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 588061,
+      "before_end_char": 588150,
+      "after_start_char": 604126,
+      "after_end_char": 604232,
+      "before": "Yoon baissa les yeux vers ses deux runes +6, de grades et de rangs en étoiles À DÉFINIR.\n",
+      "after": "Yoon baissa les yeux vers ses deux runes 2★, +6 : sa Gardien rare bleue et son Énergie peu commune verte.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 588460,
+      "before_end_char": 588552,
+      "after_start_char": 604542,
+      "after_end_char": 604668,
+      "before": "Accepter les Énergie épiques (violettes), 3★ signifiait donc retirer ses anciennes pierres.\n",
+      "after": "Accepter les Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, signifiait donc retirer ses anciennes pierres.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 589517,
+      "before_end_char": 589602,
+      "after_start_char": 605633,
+      "after_end_char": 605735,
+      "before": "Yoon retira ses deux anciennes runes +6, de grades et de rangs en étoiles À DÉFINIR.\n",
+      "after": "Yoon retira ses deux anciennes runes 2★, +6 : sa Gardien rare bleue et son Énergie peu commune verte.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 589637,
+      "before_end_char": 589713,
+      "after_start_char": 605770,
+      "after_end_char": 605877,
+      "before": "Puis équipa les deux Énergie épiques (violettes), 3★ +9 offertes par Hasol.\n",
+      "after": "Puis équipa les deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, offertes par Hasol.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 590485,
+      "before_end_char": 590633,
+      "after_start_char": 606649,
+      "after_end_char": 607380,
+      "before": "  <p><strong>Runes :</strong> Deux Énergie <span class=\"lit-badge lit-badge--rune-epic\">épiques (violettes)</span>, 3★, +9, offertes par Hasol.</p>\n",
+      "after": "  <p><strong>Runes offertes par Hasol et équipées :</strong></p>\n  <p><strong>HAS-R009 :</strong> Énergie <span class=\"lit-badge lit-badge--rune-rare\">rare (bleue)</span>, 3★, <span class=\"upgrade-badge\">+9</span> ; <strong>principale :</strong> <span class=\"rune-bonus\">PV +532</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">Défense +6 ; Résistance +6 % ; Mana +10</span>.</p>\n  <p><strong>HAS-R010 :</strong> Énergie <span class=\"lit-badge lit-badge--rune-uncommon\">peu commune (verte)</span>, 3★, <span class=\"upgrade-badge\">+9</span> ; <strong>principale :</strong> <span class=\"rune-bonus\">Défense +52</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">PV +50 ; Vitesse +2 ; PA +20</span>.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 590826,
+      "before_end_char": 590933,
+      "after_start_char": 607573,
+      "after_end_char": 608299,
+      "before": "  <p><strong>Anciennes runes :</strong> Conservées dans l’inventaire à +6 ; grades et rangs À DÉFINIR.</p>\n",
+      "after": "  <p><strong>Anciennes runes conservées dans l’inventaire, non équipées :</strong></p>\n  <p><strong>YOO-R001 :</strong> Gardien <span class=\"lit-badge lit-badge--rune-rare\">rare (bleue)</span>, 2★, <span class=\"upgrade-badge\">+6</span> ; <strong>principale :</strong> <span class=\"rune-bonus\">Défense +23</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">PV +40 ; Mana +20</span>.</p>\n  <p><strong>YOO-R002 :</strong> Énergie <span class=\"lit-badge lit-badge--rune-uncommon\">peu commune (verte)</span>, 2★, <span class=\"upgrade-badge\">+6</span> ; <strong>principale :</strong> <span class=\"rune-bonus\">PV +250</span> ; <strong>secondaires :</strong> <span class=\"rune-bonus\">Vitesse +4 ; Défense +3</span>.</p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 591745,
+      "before_end_char": 591817,
+      "after_start_char": 609111,
+      "after_end_char": 609215,
+      "before": "— Tu as donc donné tes deux Énergie épiques (violettes), 3★ +9 à Yoon ?\n",
+      "after": "— Tu as donc donné tes deux Énergie, la rare bleue et la peu commune verte, trois étoiles, +9, à Yoon ?\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 592882,
+      "before_end_char": 593079,
+      "after_start_char": 610280,
+      "after_end_char": 610544,
+      "before": "— Tu as remplacé les deux Énergie épiques (violettes), 3★ par des Arcanique (grades : À DÉFINIR ; 2★) et utilisé ton onzième emplacement pour récupérer une Gardien (grade actuel : À DÉFINIR ; 3★).\n",
+      "after": "— Tu as remplacé les deux Énergie, la rare bleue et la peu commune verte, trois étoiles, +9, par des Arcanique, une rare bleue et une peu commune verte, deux étoiles, +6, et utilisé ton onzième emplacement pour récupérer une Gardien rare bleue, trois étoiles, +0.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 595273,
+      "before_end_char": 595354,
+      "after_start_char": 612738,
+      "after_end_char": 612850,
+      "before": "Ses deux Énergie épiques (violettes), 3★ +9 s'avéraient particulièrement utiles.\n",
+      "after": "Ses deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, s'avéraient particulièrement utiles.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 596023,
+      "before_end_char": 596085,
+      "after_start_char": 613519,
+      "after_end_char": 613614,
+      "before": "Samia désigna les deux runes Énergie épiques (violettes), 3★.\n",
+      "after": "Samia désigna les deux runes Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 617198,
+      "before_end_char": 617280,
+      "after_start_char": 634727,
+      "after_end_char": 634801,
+      "before": "À l'intérieur reposait une ancienne rune Gardien (grade actuel : À DÉFINIR ; 3★).\n",
+      "after": "À l'intérieur reposait l’ancienne rune Gardien peu commune verte, 3★, +0.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 617281,
+      "before_end_char": 617439,
+      "after_start_char": 634802,
+      "after_end_char": 634947,
+      "before": "La dernière des deux runes maternelles qu'elle avait retirées de son équipement pour faire de la place aux premières Arcanique (grades et rangs : À DÉFINIR).\n",
+      "after": "La dernière des deux runes maternelles qu'elle avait retirées de son équipement pour faire de la place aux premières Arcanique rares bleues, 3★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 618987,
+      "before_end_char": 619267,
+      "after_start_char": 636495,
+      "after_end_char": 638697,
+      "before": "  <p><strong>Origines :</strong> Deux paternelles <span class=\"lit-badge lit-badge--rune-rare\">rares (bleues)</span>, 6★, +6 ; six maternelles 3★, grades actuels À DÉFINIR ; deux premières Arcanique, grades et rangs À DÉFINIR ; deux nouvelles Arcanique, 2★, grades À DÉFINIR.</p>\n",
+      "after": "  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">ID, ensemble, rareté, rang, amélioration</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Attaque +70</td><td class=\"rune-bonus\">Vitesse +4 ; PV +25</td></tr>\n      <tr><th scope=\"row\">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class=\"rune-bonus\">Défense +70</td><td class=\"rune-bonus\">PV +30 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R003 · Fatal rare (bleue), 3★, +9</th><td class=\"rune-bonus\">Attaque +52</td><td class=\"rune-bonus\">Vitesse +4 ; PV +50 ; PA +60</td></tr>\n      <tr><th scope=\"row\">HAS-R004 · Fatal peu commune (verte), 3★, +9</th><td class=\"rune-bonus\">Attaque +52</td><td class=\"rune-bonus\">Défense +6 ; PA +20 ; Vitesse +2</td></tr>\n      <tr><th scope=\"row\">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class=\"rune-bonus\">Vitesse +6</td><td class=\"rune-bonus\">Attaque +6</td></tr>\n      <tr><th scope=\"row\">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class=\"rune-bonus\">PV +244</td><td class=\"rune-bonus\">Défense +6 ; Résistance +3 %</td></tr>\n      <tr><th scope=\"row\">HAS-R007 · Gardien rare (bleue), 3★, +0</th><td class=\"rune-bonus\">Défense +7</td><td class=\"rune-bonus\">PV +30 ; Vitesse +2</td></tr>\n      <tr><th scope=\"row\">HAS-R008 · Gardien peu commune (verte), 3★, +0</th><td class=\"rune-bonus\">PV +100</td><td class=\"rune-bonus\">Défense +3</td></tr>\n      <tr><th scope=\"row\">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class=\"rune-bonus\">PA +66</td><td class=\"rune-bonus\">Vitesse +4 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class=\"rune-bonus\">PA +48</td><td class=\"rune-bonus\">Attaque +4 ; Défense +6</td></tr>\n      <tr><th scope=\"row\">HAS-R013 · Arcanique rare (bleue), 2★, +6</th><td class=\"rune-bonus\">PA +38</td><td class=\"rune-bonus\">Vitesse +4 ; Mana +20</td></tr>\n      <tr><th scope=\"row\">HAS-R014 · Arcanique peu commune (verte), 2★, +6</th><td class=\"rune-bonus\">PA +38</td><td class=\"rune-bonus\">Défense +6 ; Mana +10</td></tr>\n    </tbody>\n  </table>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 619364,
+      "before_end_char": 619447,
+      "after_start_char": 638794,
+      "after_end_char": 638892,
+      "before": "Les trois autres Gardien (grades actuels : À DÉFINIR ; 3★) provenaient de sa mère.\n",
+      "after": "Les trois autres Gardien, deux rares bleues et une peu commune verte, 3★, provenaient de sa mère.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 619448,
+      "before_end_char": 619535,
+      "after_start_char": 638893,
+      "after_end_char": 639011,
+      "before": "Les deux Énergie épiques (violettes), 3★ +9 étaient désormais entre les mains de Yoon.\n",
+      "after": "Les deux Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, étaient désormais entre les mains de Yoon.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 619536,
+      "before_end_char": 619690,
+      "after_start_char": 639012,
+      "after_end_char": 639219,
+      "before": "Et ses quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★) lui apportaient toujours leur extraordinaire bonus de Puissance arcanique.\n",
+      "after": "Et ses quatre Arcanique — les deux premières rares bleues, 3★, et les deux nouvelles, une rare bleue et une peu commune verte, 2★ — lui apportaient toujours leur extraordinaire bonus de Puissance arcanique.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 626317,
+      "before_end_char": 626397,
+      "after_start_char": 645846,
+      "after_end_char": 645977,
+      "before": "De ses quatre Arcanique (grades : À DÉFINIR ; deux rangs À DÉFINIR et deux 2★).\n",
+      "after": "De ses quatre Arcanique : les deux premières rares bleues, 3★, et les deux nouvelles, une rare bleue et une peu commune verte, 2★.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 626504,
+      "before_end_char": 626599,
+      "after_start_char": 646084,
+      "after_end_char": 646210,
+      "before": "Puis elle regarda les deux runes Énergie épiques (violettes), 3★ +9 qu'elle portait désormais.\n",
+      "after": "Puis elle regarda les deux runes Énergie, l’une rare (bleue), l’autre peu commune (verte), 3★, +9, qu'elle portait désormais.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 626950,
+      "before_end_char": 627042,
+      "after_start_char": 646561,
+      "after_end_char": 646680,
+      "before": "— Et j'ai toujours mes deux anciennes runes +6, de grades et de rangs en étoiles À DÉFINIR.\n",
+      "after": "— Et j'ai toujours mes deux anciennes runes deux étoiles, +6 : ma Gardien rare bleue et mon Énergie peu commune verte.\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 679855,
+      "before_end_char": 679855,
+      "after_start_char": 699493,
+      "after_end_char": 700416,
+      "before": "",
+      "after": "<div class=\"rune-window lit-window\" data-window-id=\"C10-R01\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C10-R01-mobile.svg\">\n    <img src=\"assets/fenetres/C10-R01.svg\" alt=\"Fenêtre du système — RUNE D’ESSAI — ÉTAT INITIAL\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>RUNE D’ESSAI — ÉTAT INITIAL</div>\n  <h3>ORV-R002 — Énergie commune (blanche), 1★ <span class=\"upgrade-badge\">+0</span></h3>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">PV +40</span></p>\n  <p><strong>Secondaires :</strong> Aucune.</p>\n  </details>\n</div>\n\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 681318,
+      "before_end_char": 681361,
+      "after_start_char": 701879,
+      "after_end_char": 701912,
+      "before": "Sa couleur pâle se teinta d’un léger vert.\n",
+      "after": "Sa couleur pâle demeura blanche.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 682048,
+      "before_end_char": 682077,
+      "after_start_char": 702599,
+      "after_end_char": 702656,
+      "before": "  <h3>Rune Énergie — 1★</h3>\n",
+      "after": "  <h3>ORV-R002 — Rune Énergie commune (blanche), 1★</h3>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 682180,
+      "before_end_char": 682319,
+      "after_start_char": 702759,
+      "after_end_char": 702981,
+      "before": "  <p class=\"lit-window__row\"><strong>Grade actuel :</strong> <span class=\"lit-badge lit-badge--rune-uncommon\">Peu commun — Vert</span></p>\n",
+      "after": "  <p class=\"lit-window__row\"><strong>Grade actuel :</strong> <span class=\"lit-badge lit-badge--rune-common\">Commun — Blanc, inchangé</span></p>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">PV +85</span></p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 682326,
+      "before_end_char": 682455,
+      "after_start_char": 702988,
+      "after_end_char": 703121,
+      "before": "  <p class=\"lit-window__row\"><strong>Nouvelle caractéristique secondaire :</strong> <span class=\"rune-bonus\">Mana +10</span></p>\n",
+      "after": "  <p class=\"lit-window__row\"><strong>Nouvelle caractéristique secondaire :</strong> <strong class=\"rune-bonus\">Mana +10</strong></p>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 683471,
+      "before_end_char": 683506,
+      "after_start_char": 704137,
+      "after_end_char": 704174,
+      "before": "Il désigna la petite pierre verte.\n",
+      "after": "Il désigna la petite pierre blanche.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 719941,
+      "before_end_char": 720034,
+      "after_start_char": 740609,
+      "after_end_char": 740754,
+      "before": "L’essai sur une rune Énergie commune, blanche, une étoile, devenue peu commune, verte, à +3.\n",
+      "after": "L’essai sur une rune Énergie commune, blanche, une étoile, restée blanche à +3, avec PV +85 en principale et Mana +10 comme première secondaire.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 1038288,
+      "before_end_char": 1038373,
+      "after_start_char": 1059008,
+      "after_end_char": 1059061,
+      "before": "Toutes étaient des runes six étoiles, de qualité initiale rare — bleue — au minimum.\n",
+      "after": "Toutes étaient des runes rares, bleues, six étoiles.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 1038374,
+      "before_end_char": 1038434,
+      "after_start_char": 1059062,
+      "after_end_char": 1059135,
+      "before": "À présent, toutes affichaient le grade légendaire (orange).\n",
+      "after": "À présent, toutes étaient améliorées à +15, sans avoir changé de rareté.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 1041371,
+      "before_end_char": 1041522,
+      "after_start_char": 1062072,
+      "after_end_char": 1064949,
+      "before": "  <p>Toutes les runes équipées : 6★, grade initial rare (bleu) minimum, grade affiché légendaire (orange), <span class=\"upgrade-badge\">+15</span>.</p>\n",
+      "after": "  <p>Toutes les runes équipées : rares (bleues), 6★, <span class=\"upgrade-badge\">+15</span>. Rareté et étoiles inchangées par l’amélioration.</p>\n  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">ID, ensemble, rareté, rang, amélioration</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">HAS-R001 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +160</td><td class=\"rune-bonus\">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R016 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +63 %</td><td class=\"rune-bonus\">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R017 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Attaque +16 % ; PV +150 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R018 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Vitesse +42</td><td class=\"rune-bonus\">Attaque +16 % ; PA +120 ; Défense +30 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R019 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R020 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R021 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +63 %</td><td class=\"rune-bonus\">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R022 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PV +63 %</td><td class=\"rune-bonus\">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R023 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Vitesse +42</td><td class=\"rune-bonus\">PA +120 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R024 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +63 %</td><td class=\"rune-bonus\">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R025 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R026 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Défense +63 %</td><td class=\"rune-bonus\">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R002 · Gardien rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Défense +160</td><td class=\"rune-bonus\">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6 %</td></tr>\n    </tbody>\n  </table>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 1044553,
+      "before_end_char": 1044615,
+      "after_start_char": 1067980,
+      "after_end_char": 1068021,
+      "before": "Qualité initiale rare (bleue), désormais légendaire (orange).\n",
+      "after": "Rare (bleue), sans changement de rareté.\n"
+    },
+    {
+      "operation": "insert",
+      "before_start_char": 1044634,
+      "before_end_char": 1044634,
+      "after_start_char": 1068040,
+      "after_end_char": 1069079,
+      "before": "",
+      "after": "\n<div class=\"rune-window lit-window\" data-window-id=\"C14-R01\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C14-R01-mobile.svg\">\n    <img src=\"assets/fenetres/C14-R01.svg\" alt=\"Fenêtre du système — GARDIEN EN RÉSERVE\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>GARDIEN EN RÉSERVE</div>\n  <h3>HAS-R027 — Gardien rare (bleue), 6★ <span class=\"upgrade-badge\">+15</span></h3>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">PV +63 %</span></p>\n  <p><strong>Secondaires présentes :</strong> <span class=\"rune-bonus\">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6 %</span></p>\n  <p>Préparée en réserve, pas encore équipée.</p>\n  </details>\n</div>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 1096528,
+      "before_end_char": 1096643,
+      "after_start_char": 1120973,
+      "after_end_char": 1121071,
+      "before": "Une magnifique rune six étoiles, de qualité initiale rare (bleue), désormais légendaire (orange), améliorée à +15.\n",
+      "after": "Une magnifique rune Gardien rare (bleue), six étoiles, améliorée à +15 sans changement de rareté.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 1098480,
+      "before_end_char": 1098656,
+      "after_start_char": 1122908,
+      "after_end_char": 1125971,
+      "before": "  <p>Toutes les runes équipées sont 6★, de grade initial rare (bleu) minimum, de grade affiché légendaire (orange), et améliorées à <span class=\"upgrade-badge\">+15</span>.</p>\n",
+      "after": "  <p>Toutes les runes équipées sont rares (bleues), 6★, améliorées à <span class=\"upgrade-badge\">+15</span>, sans changement de rareté.</p>\n  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">ID, ensemble, rareté, rang, amélioration</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">HAS-R001 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +160</td><td class=\"rune-bonus\">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R016 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +63 %</td><td class=\"rune-bonus\">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R017 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Attaque +16 % ; PV +150 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R018 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Vitesse +42</td><td class=\"rune-bonus\">Attaque +16 % ; PA +120 ; Défense +30 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R019 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R020 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R021 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +63 %</td><td class=\"rune-bonus\">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R022 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PV +63 %</td><td class=\"rune-bonus\">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R023 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Vitesse +42</td><td class=\"rune-bonus\">PA +120 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R024 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +63 %</td><td class=\"rune-bonus\">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R025 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R026 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Défense +63 %</td><td class=\"rune-bonus\">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R002 · Gardien rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Défense +160</td><td class=\"rune-bonus\">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R027 · Gardien rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PV +63 %</td><td class=\"rune-bonus\">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6 %</td></tr>\n    </tbody>\n  </table>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 1115111,
+      "before_end_char": 1115256,
+      "after_start_char": 1142426,
+      "after_end_char": 1142537,
+      "before": "Ses quatorze runes étaient toutes six étoiles, de qualité initiale rare (bleue) au minimum, désormais légendaires (orange), et améliorées à +15.\n",
+      "after": "Ses quatorze runes étaient toutes rares (bleues), six étoiles, et améliorées à +15, sans changement de rareté.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 1153599,
+      "before_end_char": 1153756,
+      "after_start_char": 1180880,
+      "after_end_char": 1180994,
+      "before": "Elle pensa à la rune Énergie six étoiles, rare (bleue) à l’origine, désormais légendaire (orange) et améliorée à +15, qu'elle avait préparée pour ce moment.\n",
+      "after": "Elle pensa à la rune Énergie rare (bleue), six étoiles et améliorée à +15, qu'elle avait préparée pour ce moment.\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 1154130,
+      "before_end_char": 1154256,
+      "after_start_char": 1181368,
+      "after_end_char": 1182471,
+      "before": "Hasol avait préparé une rune Énergie rare (bleue) à l'origine, désormais légendaire (orange), six étoiles et améliorée à +15.\n",
+      "after": "Hasol avait préparé une rune Énergie rare (bleue), six étoiles et améliorée à +15, sans changement de rareté.\n\n<div class=\"rune-window lit-window\" data-window-id=\"C15-R01\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C15-R01-mobile.svg\">\n    <img src=\"assets/fenetres/C15-R01.svg\" alt=\"Fenêtre du système — PREMIÈRE ÉNERGIE FINALE\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>PREMIÈRE ÉNERGIE FINALE</div>\n  <h3>HAS-R028 — Énergie rare (bleue), 6★ <span class=\"upgrade-badge\">+15</span></h3>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">PV +63 %</span></p>\n  <p><strong>Secondaires présentes :</strong> <span class=\"rune-bonus\">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</span></p>\n  </details>\n</div>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 1195687,
+      "before_end_char": 1195815,
+      "after_start_char": 1223902,
+      "after_end_char": 1225004,
+      "before": "Comme la première, elle était six étoiles, de qualité initiale rare (bleue), désormais légendaire (orange), et améliorée à +15.\n",
+      "after": "Comme la première, elle était rare (bleue), six étoiles, et améliorée à +15, sans changement de rareté.\n\n<div class=\"rune-window lit-window\" data-window-id=\"C15-R02\" data-window-type=\"rune\">\n  <picture class=\"lit-window__github-picture\">\n    <source media=\"(max-width: 600px)\" srcset=\"assets/fenetres/C15-R02-mobile.svg\">\n    <img src=\"assets/fenetres/C15-R02.svg\" alt=\"Fenêtre du système — SECONDE ÉNERGIE FINALE\">\n  </picture>\n  <details class=\"lit-window__transcript\">\n    <summary class=\"lit-window__transcript-toggle\">Version textuelle de la fenêtre</summary>\n  <div class=\"system-header lit-window__header\"><svg class=\"lit-window__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8\"/></svg>SECONDE ÉNERGIE FINALE</div>\n  <h3>HAS-R029 — Énergie rare (bleue), 6★ <span class=\"upgrade-badge\">+15</span></h3>\n  <p><strong>Principale :</strong> <span class=\"rune-bonus\">Défense +63 %</span></p>\n  <p><strong>Secondaires présentes :</strong> <span class=\"rune-bonus\">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6 %</span></p>\n  </details>\n</div>\n"
+    },
+    {
+      "operation": "replace",
+      "before_start_char": 1197295,
+      "before_end_char": 1197454,
+      "after_start_char": 1226484,
+      "after_end_char": 1229900,
+      "before": "  <p>16 runes équipées · Toutes 6★ · Grade initial rare (bleu) minimum · Grade affiché légendaire (orange) · Toutes <span class=\"upgrade-badge\">+15</span></p>\n",
+      "after": "  <p>16 runes équipées · Toutes rares (bleues), 6★, <span class=\"upgrade-badge\">+15</span> · Rareté inchangée</p>\n  <table class=\"lit-window__inventory\">\n    <thead><tr><th scope=\"col\">ID, ensemble, rareté, rang, amélioration</th><th scope=\"col\">Principale</th><th scope=\"col\">Secondaires présentes</th></tr></thead>\n    <tbody>\n      <tr><th scope=\"row\">HAS-R001 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +160</td><td class=\"rune-bonus\">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R016 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +63 %</td><td class=\"rune-bonus\">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R017 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Attaque +16 % ; PV +150 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R018 · Fatal rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Vitesse +42</td><td class=\"rune-bonus\">Attaque +16 % ; PA +120 ; Défense +30 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R019 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R020 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R021 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +63 %</td><td class=\"rune-bonus\">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R022 · Arcanique rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PV +63 %</td><td class=\"rune-bonus\">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R023 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Vitesse +42</td><td class=\"rune-bonus\">PA +120 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R024 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Attaque +63 %</td><td class=\"rune-bonus\">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R025 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PA +1 200</td><td class=\"rune-bonus\">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R026 · Vitesse rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Défense +63 %</td><td class=\"rune-bonus\">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R002 · Gardien rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Défense +160</td><td class=\"rune-bonus\">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R027 · Gardien rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PV +63 %</td><td class=\"rune-bonus\">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6 %</td></tr>\n      <tr><th scope=\"row\">HAS-R028 · Énergie rare (bleue), 6★, +15</th><td class=\"rune-bonus\">PV +63 %</td><td class=\"rune-bonus\">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>\n      <tr><th scope=\"row\">HAS-R029 · Énergie rare (bleue), 6★, +15</th><td class=\"rune-bonus\">Défense +63 %</td><td class=\"rune-bonus\">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6 %</td></tr>\n    </tbody>\n  </table>\n"
+    }
+  ]
+}

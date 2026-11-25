@@ -1,5 +1,7 @@
 # Livre II — intégration du chapitre 2 validé
 
+**Compléments DEC-179/180 intégrés :** les présentations de runes ont désormais leurs fiches complètes, données manquantes choisies sous délégation et suivies par IDs dans `../lore/runes.md` et `../lore/personnages.md`. Cinq fenêtres ajoutées portent le II à quinze fenêtres/trente SVG, sans toucher au chapitre 1 ni ajouter de chapitre. Les anciens comptes et réserves de présentation ci-dessous décrivent les étapes précédentes ; bilan courant dans `correction_rarete_et_fiches_runiques.md`. Les ajouts Croissance du chapitre 1 restent à relire.
+
 ## Autorisation et source retenue
 
 **DEC-170/171 — 25 novembre 2026, session locale.** Après réception des refontes mobiles, l’auteur répond **« Je valide le texte »** à la question identifiant la dernière version du chapitre 2, puis donne le **GO d’intégration**. Il précise ensuite : **« apres l'ajout du chapitre 2 je ferai les relecture »**. L’ajout précède donc ses relectures ; il ne faut pas attendre celles-ci pour intégrer le texte sélectionné.
@@ -74,7 +76,7 @@ n'a écrit dans le manuscrit ou les dérivés pendant ces contrôles.
 
 ## Retouches de relecture des fenêtres — DEC-172/173
 
-1. **F01, fiche complète :** l’auteur souhaite toute la rune avec Vitesse en gras, puis délègue le choix d’une rune conforme aux règles. Rune d’exercice `L2-ORV-R001` choisie : Énergie 1★, native commune (blanche), +0→+3, Résistance +1 %→+4 %, première secondaire **Vitesse +1**, grade affiché peu commun (vert). Résistance suit la table canonique 1★ ; Vitesse +1 est un choix délégué, pas un barème universel. Fiche HTML complète et SVG ; seule la phrase d’identification de la rune blanche d’Orven est précisée dans la narration. Aucun équipement personnel ou ensemble actif déduit.
+1. **F01, fiche complète :** l’auteur souhaite toute la rune avec Vitesse en gras, puis délègue le choix d’une rune conforme aux règles. Rune d’exercice `L2-ORV-R001` choisie : Énergie 1★, native commune (blanche), +0→+3, Résistance +1 %→+4 %, première secondaire **Vitesse +1**. **Correction DEC-178 : le grade actuel reste commun (blanc)** ; le passage au vert de la première version de la fiche est annulé. Résistance suit la table canonique 1★ ; Vitesse +1 est un choix délégué, pas un barème universel. Fiche HTML complète et SVG ; seule la phrase d’identification de la rune blanche d’Orven est précisée dans la narration. Aucun équipement personnel ou ensemble actif déduit.
 2. **F02, description :** à la demande de l’auteur, ajout dans la notification de Lame runique des deux effets déjà racontés : compréhension des techniques d’escrime ; assimilation, précision et automatismes de la lame. Aucun chiffre, coût, bonus supplémentaire ou nouvelle information sur les vies futures. Paragraphes narratifs environnants inchangés.
 
 Les identifiants, les dix fenêtres du livre et les vingt SVG sont conservés. Seuls les quatre SVG F01/F02 changent ; le chapitre 1, la navigation et les autres fenêtres restent identiques. Les gardes de conservation neutralisent uniquement les modifications précises autorisées, sans exempter un chapitre ou toutes les descriptions. Les empreintes et tailles précédentes du manuscrit complet sont historiques après ces retouches. Les ajouts de Croissance du chapitre 1 restent à relire ; aucune nouvelle publication autorisée.
@@ -115,3 +117,11 @@ Après la proposition de corriger les anciennes fenêtres 2/10, la question pos�
 - Contrôle `produire` sans écriture : **10 fenêtres / 20 SVG à jour**, inventaire exact et idempotence. Les seuls dérivés changés par les retouches sont les six SVG bureau/mobile de F01/F02/F03 ; aucun générateur ou dépendance modifié.
 - F03 mobile également rendu avec Chrome headless puis capture examinée : deux nouveaux champs lisibles, aucune coupure observée. Contrôle local direct des SVG, pas preuve de rendu GitHub ni audit clavier/lecteur d’écran.
 - Archive inchangée : `70ceecfdbe699d54e844c42e64bef0c9f6e3288a313d7f7b1d6deb2462118a59`. Livre I inchangé pendant ces retouches : `9d27a766bef9706867ebbf658ba4dd2ecfb46b885cbf6a4e5d850ad3ae0caa2b`. Ajouts de Croissance du chapitre 1 du II toujours à relire ; aucun chapitre 3, commit/push ou publication.
+
+## Correction de rareté à +3 — DEC-178
+
+L’auteur précise qu’une rune blanche reste blanche de +0 à +15. F01 conserve donc **grade actuel et natif Communs (Blancs)**, racine `white-grade`, badges communs neutres ; plus de marqueur vert de rareté. Énergie 1★, +3, Résistance +4 % et **Vitesse +1 en gras** sont préservés. L’apparition de la secondaire reste racontée : progression des affixes et rareté sont deux mécanismes distincts.
+
+Seuls le HTML de F01, ses deux SVG et son contrat de test changent dans le manuscrit/rendu. Tout le texte hors F01 est protégé octet par octet par l’empreinte `8c25952b4307d21e5f12a9af961cba21ee10727b96e85567d30a037b2e4a57de` ; les 18 autres SVG restent identiques à la baseline de cette correction. Contrôle visuel local mobile avec Chrome headless : deux badges Communs blancs/neutres, pas de badge vert, Vitesse +1 toujours en gras, fiche lisible. Les règles actives sont précisées par DEC-178 ; un audit séparé recherche les autres occurrences de l’ancienne interprétation sans inventer leur grade initial.
+
+**Audit terminé :** voir `audit_rarete_runes_2026_11_25.md`. Aucune autre transformation de rareté dans le II ; sept fenêtres du I et quatorze SVG directement concernés, plus reprises narratives/documentaires et inconnues à distinguer. Livre I non modifié par l’audit. **78 tests réussis**, sans présenter les anciennes fixtures du I comme une validation de ses grades selon la règle corrigée.

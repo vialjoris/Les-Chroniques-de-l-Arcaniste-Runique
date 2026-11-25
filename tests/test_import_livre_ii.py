@@ -1,6 +1,7 @@
 """Contrats des deux chapitres importés du II, sans modifier leurs sources."""
 
 import hashlib
+import json
 from pathlib import Path
 import re
 import unittest
@@ -16,7 +17,7 @@ SOURCE = ROOT / "livre_2_le_vertige_des_vies_oubliees.md"
 ASSETS = "assets/fenetres-livre-2/"
 FICHE_ORVEN = '''  <div class="system-header lit-window__header">RUNE AMÉLIORÉE</div>
   <h3>Rune Énergie</h3>
-  <p>Grade actuel : <span class="lit-badge lit-badge--rune-uncommon">Peu commun (Vert)</span></p>
+  <p>Grade actuel : <span class="lit-badge lit-badge--rune-common">Commun (Blanc)</span></p>
   <p>Grade natif : <span class="lit-badge lit-badge--rune-common">Commun (Blanc)</span></p>
   <p>Rang : 1★</p>
   <p>Amélioration : <span class="upgrade-badge">+3</span></p>
@@ -94,6 +95,23 @@ CHAMPS_HUITIEME_CERCLE = (
     "  <p>Cercles de mana : 7 → 8</p>\n"
     "  <p>Emplacements runiques : 8</p>\n"
 )
+
+
+def avant_corrections_dec179(source):
+    """Inverse les six blocs exacts du journal, à leur position autorisée."""
+    fixture = json.loads((ROOT / "tests/fixtures/corrections_runes_livre2_dec179.json")
+                         .read_text(encoding="utf-8"))
+    lignes = source.splitlines(keepends=True)
+    for changement in reversed(fixture["changes"]):
+        debut = sum(map(len, lignes[:changement["after_start_line"] - 1]))
+        fin = debut + changement["after_length"]
+        bloc = source[debut:fin]
+        if hashlib.sha256(bloc.encode("utf-8")).hexdigest() != changement["after_sha256"]:
+            raise ValueError(f"Bloc DEC-179 altéré ou déplacé : ligne {changement['after_start_line']}")
+        if source.count(bloc) != 1:
+            raise ValueError("Bloc DEC-179 dupliqué")
+        source = source[:debut] + changement["before"] + source[fin:]
+    return source
 
 
 def sans_sommaire_et_ancres(source):
@@ -201,14 +219,17 @@ class ImportLivreIITests(unittest.TestCase):
         original = original.replace("Classe : Ranger.", "Classe : Ranger astral.")
         original = original.replace("Samia est une Ranger commune", "Samia est une Ranger astral commune")
         original = original.replace("Une Ranger commune venait", "Une Ranger astral commune venait")
-        generated = load_generator().extraire_source_fenetres(self.chapitre_2)
-        # DEC-172 : une seule identification narrative et la fiche complète de F01.
+        source_avant179 = sans_sommaire_et_ancres(avant_corrections_dec179(self.source))
+        chapitre_avant179 = re.split(
+            r"\n---\n\n(?=## Chapitre 2\b)", source_avant179, maxsplit=1)[1]
+        generated = load_generator().extraire_source_fenetres(chapitre_avant179)
+        # DEC-172/178 : identification et fiche exacte de F01, grade commun conservé.
         avant = "L'artisan récupéra une rune blanche de faible valeur."
         apres = "L'artisan récupéra une rune Énergie commune (blanche), 1★, +0, de faible valeur."
         self.assertEqual(original.count(avant), 1)
         self.assertEqual(generated.count(apres), 1)
         original = original.replace(avant, apres, 1)
-        ouverture = ('<div class="rune-window green-grade lit-window" '
+        ouverture = ('<div class="rune-window white-grade lit-window" '
                      'data-window-id="L2-C2-F01" data-window-type="amelioration">\n')
         fiche = ouverture + FICHE_ORVEN + "\n</div>"
         self.assertEqual(generated.count(fiche), 1)
@@ -350,7 +371,8 @@ class ImportLivreIITests(unittest.TestCase):
                 self.assertIn(passage, self.chapitre_2)
 
     def test_seuls_les_affichages_systeme_deviennent_fenetres(self):
-        windows = Document(self.chapitre_2).windows
+        windows = [w for w in Document(self.chapitre_2).windows
+                   if "-F" in w.attrs.get("data-window-id", "")]
         self.assertEqual([w.attrs.get("data-window-id") for w in windows],
                          [f"L2-C2-F{i:02}" for i in range(1, 10)])
         text = [compact(list(w.descendants("details"))[0].text()) for w in windows]
@@ -371,14 +393,13 @@ class ImportLivreIITests(unittest.TestCase):
     def test_fiche_orven_complete_une_seule_secondaire_vitesse_en_gras(self):
         window = next(w for w in self.document.windows
                       if w.attrs.get("data-window-id") == "L2-C2-F01")
-        self.assertIn("rune-window", window.classes)
-        self.assertIn("green-grade", window.classes)
+        self.assertEqual(window.classes, {"rune-window", "white-grade", "lit-window"})
         self.assertEqual(window.attrs["data-window-type"], "amelioration")
         transcript = list(window.descendants("details"))
         self.assertEqual(len(transcript), 1)
         text = compact(transcript[0].text())
         for fragment in ("RUNE AMÉLIORÉE", "Rune Énergie",
-                         "Grade actuel : Peu commun (Vert)", "Grade natif : Commun (Blanc)",
+                         "Grade actuel : Commun (Blanc)", "Grade natif : Commun (Blanc)",
                          "Rang : 1★", "Amélioration : +3",
                          "Caractéristique principale : Résistance +4 %",
                          "Caractéristique secondaire : Vitesse +1"):
@@ -387,13 +408,25 @@ class ImportLivreIITests(unittest.TestCase):
         self.assertEqual([compact(n.text()) for n in window.descendants("span")
                           if "rune-bonus" in n.classes], ["Résistance +4 %", "Vitesse +1"])
         self.assertEqual([compact(n.text()) for n in window.descendants("strong")], ["Vitesse +1"])
+        self.assertEqual([compact(n.text()) for n in window.descendants("span")
+                          if "lit-badge--rune-common" in n.classes],
+                         ["Commun (Blanc)", "Commun (Blanc)"])
+        self.assertFalse(any("lit-badge--rune-uncommon" in n.classes
+                             for n in window.descendants()))
+        self.assertNotRegex(text, r"Vert|Peu commun")
         self.assertNotIn("ensemble", text.lower())
         self.assertNotIn("temporaire", text.lower())
         for suffixe in (".svg", "-mobile.svg"):
-            tree = ET.parse(ROOT / ASSETS / ("L2-C2-F01" + suffixe))
+            svg = (ROOT / ASSETS / ("L2-C2-F01" + suffixe)).read_text(encoding="utf-8")
+            self.assertNotRegex(svg, r"Vert|Peu commun|rune-uncommon|#edf7ef|#b3d3bd")
+            tree = ET.ElementTree(ET.fromstring(svg))
+            cadre = next(n for n in tree.iter() if n.get("stroke") == "#D1AB61")
+            self.assertEqual(cadre.get("fill"), "#FFFFFF")
             nodes = [n for n in tree.iter() if n.tag.endswith("}text")]
             svg_text = compact(" ".join("".join(n.itertext()) for n in nodes))
-            for fragment in ("Rune Énergie", "Peu commun (Vert)", "Commun (Blanc)",
+            self.assertNotRegex(svg_text, r"Vert|Peu commun")
+            self.assertEqual(svg_text.count("Commun (Blanc)"), 2)
+            for fragment in ("Rune Énergie", "Commun (Blanc)",
                              "1★", "+3", "Résistance +4 %", "Vitesse +1"):
                 self.assertIn(fragment, svg_text)
             for valeur in ("Vitesse", "+1"):
@@ -401,6 +434,192 @@ class ImportLivreIITests(unittest.TestCase):
                 self.assertEqual(len(emphase), 1)
                 self.assertEqual(emphase[0].get("font-weight"), "700")
                 self.assertEqual(emphase[0].get("fill"), "#175b9b")
+
+    def test_dec178_preserve_tous_les_octets_hors_f01(self):
+        source = avant_corrections_dec179(self.source)
+        fenetre = re.compile(
+            r'<div class="rune-window white-grade lit-window" '
+            r'data-window-id="L2-C2-F01"[\s\S]*?</details>\n</div>')
+        self.assertEqual(len(fenetre.findall(source)), 1)
+        self.assertEqual(
+            hashlib.sha256(fenetre.sub("", source).encode("utf-8")).hexdigest(),
+            "8c25952b4307d21e5f12a9af961cba21ee10727b96e85567d30a037b2e4a57de",
+        )
+
+    def test_dec179_inverse_exacte_retrouve_la_source_anterieure_sans_renouveler_baseline(self):
+        fixture = json.loads((ROOT / "tests/fixtures/corrections_runes_livre2_dec179.json")
+                             .read_text(encoding="utf-8"))
+        self.assertEqual(len(fixture["changes"]), 6)
+        avant = avant_corrections_dec179(self.source)
+        self.assertEqual(hashlib.sha256(avant.encode()).hexdigest(), fixture["before_sha256"])
+        self.assertEqual(hashlib.sha256(self.source.encode()).hexdigest(), fixture["after_sha256"])
+        anciens = Document(avant).windows
+        self.assertEqual(len(anciens), 10)
+        for ancien in anciens:
+            actuel = next(w for w in self.document.windows
+                          if w.attrs["data-window-id"] == ancien.attrs["data-window-id"])
+            self.assertEqual(self.source[actuel.start:actuel.end], avant[ancien.start:ancien.end])
+
+    def test_dec179_inverse_refuse_valeurs_contenus_insertions_deplacements_et_doublons(self):
+        fixture = json.loads((ROOT / "tests/fixtures/corrections_runes_livre2_dec179.json")
+                             .read_text(encoding="utf-8"))
+        for changement in fixture["changes"]:
+            debut = sum(map(len, self.source.splitlines(keepends=True)[
+                :changement["after_start_line"] - 1]))
+            fin = debut + changement["after_length"]
+            bloc = self.source[debut:fin]
+            for nom, mutation in (
+                ("contenu", self.source[:debut] + bloc.replace("rune", "pierre", 1)
+                 + self.source[fin:]),
+                ("valeur", self.source[:debut] + re.sub(r"\+\d+", "+99", bloc, count=1)
+                 + self.source[fin:]),
+                ("insertion", self.source[:debut] + "Ajout non autorisé\n" + self.source[debut:]),
+                ("déplacement", self.source[:debut] + self.source[fin:] + bloc),
+                ("doublon", self.source + bloc),
+            ):
+                with self.subTest(ligne=changement["after_start_line"], mutation=nom):
+                    self.assertNotEqual(mutation, self.source)
+                    with self.assertRaises(ValueError):
+                        avant_corrections_dec179(mutation)
+        # Une mutation hors journal n'est pas effacée par l'inversion.
+        mutation = self.source + "\nNarration non autorisée.\n"
+        self.assertEqual(avant_corrections_dec179(mutation),
+                         avant_corrections_dec179(self.source) + "\nNarration non autorisée.\n")
+
+    def test_quinze_identifiants_uniques_et_enveloppes_accessibles_des_nouvelles_fiches(self):
+        ids = [w.attrs["data-window-id"] for w in self.document.windows]
+        self.assertEqual(len(ids), 15)
+        self.assertEqual(len(set(ids)), 15)
+        self.assertEqual(set(ids), {"L2-C1-F01", *[f"L2-C2-F{i:02}" for i in range(1, 10)],
+                                   *[f"L2-C2-R{i:02}" for i in range(1, 6)]})
+        for window in self.document.windows:
+            identifiant = window.attrs["data-window-id"]
+            with self.subTest(fenetre=identifiant):
+                pictures = list(window.descendants("picture"))
+                transcripts = list(window.descendants("details"))
+                self.assertEqual(len(pictures), 1)
+                self.assertEqual(len(transcripts), 1)
+                self.assertNotIn("open", transcripts[0].attrs)
+                self.assertEqual(len(list(transcripts[0].descendants("summary"))), 1)
+                img, = pictures[0].descendants("img")
+                mobile, = pictures[0].descendants("source")
+                self.assertTrue(img.attrs["alt"].strip())
+                self.assertEqual(img.attrs["src"], ASSETS + identifiant + ".svg")
+                self.assertEqual(mobile.attrs["srcset"], ASSETS + identifiant + "-mobile.svg")
+                self.assertEqual(mobile.attrs["media"], "(max-width: 600px)")
+        for numero, type_attendu in enumerate(
+                ("rune", "rune", "amelioration", "equipement", "equipement"), 1):
+            window = next(w for w in self.document.windows
+                          if w.attrs["data-window-id"] == f"L2-C2-R{numero:02}")
+            self.assertEqual(window.attrs["data-window-type"], type_attendu)
+            for th in window.descendants("th"):
+                self.assertEqual(th.attrs.get("scope"), "col")
+
+    def test_experiences_blanches_et_vertes_fiches_completes_sans_transformation_de_grade(self):
+        attendus = (
+            ("R01", "white-grade", "Énergie commune (blanche), 1★", "+0", ["PV +40"]),
+            ("R02", "green-grade", "Gardien peu commune (verte), 1★", "+0",
+             ["Défense +3", "PV +10"]),
+            ("R03", "green-grade", "Gardien peu commune (verte), 1★", "+6",
+             ["Défense +9", "PV +20", "Vitesse +1"]),
+        )
+        for identifiant, grade, titre, palier, affixes in attendus:
+            window = next(w for w in self.document.windows
+                          if w.attrs["data-window-id"] == "L2-C2-" + identifiant)
+            with self.subTest(fenetre=identifiant):
+                self.assertEqual(window.classes, {"rune-window", grade, "lit-window"})
+                self.assertEqual([compact(n.text()) for n in window.descendants("h3")], [titre])
+                self.assertEqual([compact(n.text()) for n in window.descendants("span")
+                                  if "upgrade-badge" in n.classes], [palier])
+                self.assertEqual([compact(n.text()) for n in window.descendants("span")
+                                  if "rune-bonus" in n.classes], affixes)
+                text = compact(window.text())
+                self.assertIn("Caractéristique principale : " + affixes[0], text)
+                if identifiant == "R01":
+                    self.assertIn("Caractéristiques secondaires présentes : aucune.", text)
+                else:
+                    self.assertNotIn("aucune", text)
+                for suffixe in (".svg", "-mobile.svg"):
+                    tree = ET.parse(ROOT / ASSETS / ("L2-C2-" + identifiant + suffixe))
+                    nodes = [n for n in tree.iter() if n.tag.endswith("}text")]
+                    svg_text = compact(" ".join("".join(n.itertext()) for n in nodes))
+                    for fragment in (titre, palier, *affixes):
+                        self.assertIn(fragment, svg_text)
+                    if identifiant == "R03":
+                        for valeur in ("Vitesse", "+1"):
+                            emphase = [n for n in nodes if n.text == valeur]
+                            self.assertEqual(len(emphase), 1)
+                            self.assertEqual(emphase[0].get("font-weight"), "700")
+        r03 = next(w for w in self.document.windows if w.attrs["data-window-id"] == "L2-C2-R03")
+        self.assertEqual([compact(n.text()) for n in r03.descendants("strong")], ["Vitesse +1"])
+        self.assertIn("principale Résistance +1 %, aucune caractéristique secondaire présente.",
+                      self.chapitre_2)
+        self.assertNotIn("Savoir runique", self.source)
+
+    def test_seize_identites_et_six_champs_des_fiches_d_equipement_conformes_au_ledger(self):
+        # Attendus éditoriaux indépendants du journal de présentation, pas un barème.
+        anciennes = (
+            ("Fatal rare (bleue), 6★", "+6", "Attaque +70", "Vitesse +4 ; PV +25"),
+            ("Gardien rare (bleue), 6★", "+6", "Défense +70", "PV +30 ; Mana +20"),
+            ("Fatal rare (bleue), 3★", "+3", "Attaque +22", "Vitesse +4 ; PV +30"),
+            ("Fatal peu commune (verte), 3★", "+3", "Attaque +22", "Défense +6"),
+            ("Fatal peu commune (verte), 3★", "+3", "Vitesse +6", "Attaque +6"),
+            ("Gardien rare (bleue), 3★", "+3", "PV +244", "Défense +6 ; Résistance +3 %"),
+            ("Énergie rare (bleue), 3★", "+3", "PV +244", "Défense +6 ; Résistance +3 %"),
+            ("Énergie peu commune (verte), 3★", "+3", "Défense +22", "PV +50"),
+        )
+        vol_de_vie = (
+            ("Attaque +50", "Vitesse +4 ; PA +60"),
+            ("Attaque +50", "Vitesse +4 ; PA +60"),
+            ("PA +100", "Attaque +8 % ; Vitesse +4"),
+            ("PA +100", "Attaque +8 % ; Vitesse +4"),
+            ("Vitesse +12", "Attaque +8 % ; PA +60"),
+            ("Vitesse +12", "Attaque +8 % ; PA +60"),
+            ("Attaque +50", "PA +60 ; Vitesse +4"),
+            ("PA +100", "Vitesse +4 ; Attaque +8 %"),
+        )
+        attendus = (*anciennes, *(("Vol de vie rare (bleue), 4★", "+6", main, secondaires)
+                                  for main, secondaires in vol_de_vie))
+        lignes = [n for n in self.document.root.descendants("tr") if "data-rune-id" in n.attrs]
+        self.assertEqual([n.attrs["data-rune-id"] for n in lignes],
+                         [f"L2-HAS-R{i:03}" for i in range(1, 17)])
+        ledger = (ROOT / "lore/runes.md").read_text(encoding="utf-8")
+        for numero, (ligne, (identite, palier, principale, secondaires)) in enumerate(
+                zip(lignes, attendus), 1):
+            with self.subTest(rune=numero):
+                cellules = [compact(n.text()) for n in ligne.descendants("td")]
+                self.assertEqual(len(cellules), 2)
+                self.assertTrue(cellules[0].startswith(identite + ", " + palier + " — "))
+                self.assertEqual([compact(n.text()) for n in ligne.descendants("span")
+                                  if "rune-bonus" in n.classes], [principale, secondaires])
+                self.assertIn("Principale : " + principale, cellules[1])
+                self.assertIn("Secondaire", cellules[1])
+                self.assertIn(secondaires, cellules[1])
+                if numero <= 8:
+                    self.assertIn("en réserve" if numero == 8 else "équipée", cellules[0])
+                    self.assertIn(f"| L2-HAS-R{numero:03} | {identite} | {palier} | "
+                                  f"{principale} | {secondaires} |", ledger)
+                else:
+                    self.assertIn(f"| L2-HAS-R{numero:03} | Vol de vie | "
+                                  f"{principale} | {secondaires} |", ledger)
+        self.assertIn("Les principales PA intermédiaires sont choisies pour ces pièces uniquement.", ledger)
+
+    def test_fiches_de_remise_aux_bons_moments_sans_origine_secrete_devoilee(self):
+        r04 = next(w for w in self.document.windows if w.attrs["data-window-id"] == "L2-C2-R04")
+        r05 = next(w for w in self.document.windows if w.attrs["data-window-id"] == "L2-C2-R05")
+        self.assertIn("Sept runes équipées, une rune en réserve.", compact(r04.text()))
+        self.assertLess(r04.end, self.source.index('data-window-id="L2-C2-F03"'))
+        self.assertIn("Deux ensembles de quatre pièces, pas encore équipés.", compact(r05.text()))
+        self.assertLess(self.source.index("Elle souleva délicatement le couvercle."), r05.start)
+        self.assertLess(r05.end, self.source.index(CORRECTIONS_RESERVE_IMMEDIATE[6][1]))
+        self.assertNotIn("Iseria", r05.text())
+        self.assertNotRegex(r05.text(), r"mère|maternel|financ|pour cent|%.*Vol de vie")
+        personnages = (ROOT / "lore/personnages.md").read_text(encoding="utf-8")
+        for fragment in ("L2-HAS-R001 à 007 portées", "L2-HAS-R008 en réserve",
+                         "Équipe L2-HAS-R008 : 8/8", "L2-HAS-R001/002 au coffre",
+                         "L2-HAS-R003 à 008 rangées à part", "L2-HAS-R009 à 016 équipées, 8/8",
+                         "Hasol ignore leur origine"):
+            self.assertIn(fragment, personnages)
 
     def test_lame_runique_passive_et_description_exacte_en_html_et_svg(self):
         window = next(w for w in self.document.windows
@@ -496,6 +715,7 @@ class ImportLivreIITests(unittest.TestCase):
     def test_derives_svg_locaux_identiques_et_generation_idempotente(self):
         generator = load_generator()
         generated, images = generator.produire(self.source)
+        self.assertEqual(len(images), 30)
         generated = generated.replace("assets/fenetres/", ASSETS)
         self.assertEqual(generated, self.source)
         self.assertTrue(images, "La fenêtre doit produire ses SVG bureau et mobile")
@@ -514,6 +734,15 @@ class ImportLivreIITests(unittest.TestCase):
                 assert_passive(self, svg)
                 tree = ET.fromstring(svg)
                 self.assertEqual(tree.tag, "{http://www.w3.org/2000/svg}svg")
+                identifiant = name.removesuffix(".svg").removesuffix("-mobile")
+                window = next(w for w in self.document.windows
+                              if w.attrs["data-window-id"] == identifiant)
+                textes = [n for n in tree.iter() if n.tag.endswith("}text")]
+                affiche = " ".join("".join(n.itertext()) for n in textes)
+                self.assertEqual(re.sub(r"\s+", "", affiche),
+                                 re.sub(r"\s+", "", window.text()))
+                cadre = next(n for n in tree.iter() if n.get("stroke") == "#D1AB61")
+                self.assertEqual(cadre.get("fill"), "#FFFFFF")
                 for node in tree.iter():
                     self.assertNotIn(node.tag.rsplit("}", 1)[-1].lower(),
                                      {"foreignobject", "image", "script"})

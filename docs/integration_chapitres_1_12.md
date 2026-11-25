@@ -1,5 +1,7 @@
 # Intégration du livre I — chapitres 1 à 12
 
+**Rectification postérieure — DEC-178/179/180 :** ce compte rendu décrit l’import historique. Les anciennes mentions de recoloration par amélioration sont remplacées : la rareté reste fixe, et les présentations ont été complétées sous délégation dans les sources actuelles. Fiches uniques dans `../lore/runes.md`, porteurs dans `../lore/personnages.md`, bilan dans `correction_rarete_et_fiches_runiques.md`. Les preuves et comptages datés ci-dessous ne décrivent pas les nouveaux totaux.
+
 **État courant — DEC-110 à DEC-116, 23 novembre 2026 :** livre I complet, 1–16 lus et validés, y compris 10–12 et 13 XI. Voir [`integration_chapitres_13_16.md`](integration_chapitres_13_16.md). Les mentions « en lecture » et absences d’autorisation ci-dessous décrivent les réceptions historiques, sans annuler cette validation ni modifier leurs preuves datées.
 
 **Localisation actuelle des sources :** l’auteur a déplacé les six fichiers de provenance de la racine vers ce dossier `docs/`, sans changement de contenu : [`new.txt`](new.txt), [`old.txt`](old.txt), [`chap1_revision.md`](chap1_revision.md), [`chap2_revision.md`](chap2_revision.md), [`chap3_revision.md`](chap3_revision.md), [`chap4_revision.md`](chap4_revision.md). Les noms courts dans les tableaux et contrôles ci-dessous désignent ces mêmes fichiers ; les anciens chemins et repères de lignes restent historiques. Aucun nouvel import ni changement de validation.

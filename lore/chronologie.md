@@ -1,5 +1,7 @@
 # Chronologie
 
+**Raccord documentaire prioritaire — DEC-178/179/180 :** les runes présentées ont leurs fiches complètes et états successifs dans `runes.md`, avec porteurs et transitions dans `personnages.md`. Première Énergie maternelle travaillée : HAS-R009 rare bleue ; seconde HAS-R010 peu commune verte, toutes deux 3★ +9 données à Yoon. Les seize finales du I sont rares bleues 6★ +15, cadeaux paternels conservés et autres pièces 6★ distinctes des anciennes 2★/3★ ; dates d’acquisition non racontées non inventées. Toute nouvelle modification doit synchroniser ces références par chapitre. Les états finaux après ellipse restent ouverts lorsqu’ils ne sont pas présentés, notamment dans le II.
+
 **Relecture du chapitre 2 — DEC-174 à DEC-176 :** choix avec Orven et Ray de sept runes équipées, 4 Fatal / 2 Gardien / 1 Énergie, cadeaux paternels compris, et d’une seconde Énergie en réserve. Palier : 7→8 cercles dans la notification, réserve équipée immédiatement pour **8/8, 4/2/2** ; projet de visite à Orven, annonce d’une surprise par Elric, puis remise des huit Vol de vie. Le soir : deux cadeaux rangés avec Armin, six autres runes retirées/rangées, huit nouvelles pierres à 8/8. Aucun délai, niveau ou affixe supplémentaire déduit.
 
 **Retouche racontée DEC-159 :** au chapitre 1 du II, Hasol lit les trois compteurs devant ses parents (III), puis les explique à Elric (VII) avant la réunion confidentielle avec le directeur. Aucun temps écoulé ou gain supplémentaire ; les nouveaux ajouts locaux sont à relire, texte antérieur validé par DEC-156.
@@ -431,7 +433,7 @@ Les déblocages futurs, le sauvetage de Ray et les événements des livres I et 
 
 **Enseignement désormais raconté — DEC-011 et DEC-024 :** chapitre 4, sections IV et VII. Ne plus le planifier comme une première découverte future. Il ne constitue ni une découverte anticipée des 30 % d’échecs en moins ni une annonce d’Œil runique.
 
-**Fin du livre I — CANON, DEC-056 :** seize cercles/emplacements au 16, vers le niveau 45. Ce futur ne modifie ni les dix historiques des chapitres 1 à 8 ni les douze racontés au 9. Dates, répartition monstres/boss, occupation et inventaire finaux **À DÉFINIR**, sans report automatique au II.
+**Fin du livre I — CANON, DEC-056, raccord DEC-178/179 :** seize cercles/emplacements au 16, vers le niveau 45 ; équipement final 16/16, fiches rares bleues 6★ +15 dans `runes.md`. Les dix historiques des chapitres 1 à 8 et les douze racontés au 9 ne sont pas modifiés. Répartition des trois compteurs selon les décisions récentes, aucune acquisition datée ou report matériel automatique au II ajouté ; l’ancienne réserve d’inventaire final est levée pour les exemplaires présentés.
 
 **Hypothèse émise au livre II — CANON pour l'événement futur, DEC-066 :** une hypothèse sera formulée selon laquelle faire équipe avec Hasol permet de collecter davantage de mana et donc de recevoir plus vite des cercles de mana. Personnage qui la formule, observations, scène et chapitre **À DÉFINIR**. Sa véracité n'est pas établie ; aucune explication rétroactive certaine des cercles des compagnons ni annonce au livre I n'est autorisée par ce jalon.
 

@@ -12,7 +12,7 @@ import unittest
 from unittest.mock import patch
 from urllib.parse import unquote, urlsplit
 
-from lecture_support import ROOT_CLASSES, Document, compact, digest, historical_prefix, manifest, semantic_classes, table_cells
+from lecture_support import ROOT_CLASSES, Document, compact, digest, historical_prefix, manifest, semantic_classes, table_cells, before_approved_rune_corrections
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -175,12 +175,14 @@ class ConservationManuscritTests(unittest.TestCase):
         ids = [window.attrs.get("data-window-id", "").strip() for window in self.document.windows]
         self.assertTrue(all(ids))
         self.assertEqual(len(ids), len(set(ids)))
-        historical_ids = ids[:len(REFERENCE["window_text_sha256"])]
+        restored_ids = [window.attrs.get("data-window-id", "").strip() for window in
+                        Document(before_approved_rune_corrections(self.document.source)).windows]
+        historical_ids = restored_ids[:len(REFERENCE["window_text_sha256"])]
         self.assertEqual(set(historical_ids), {f"{number:03d}" for number in range(1, len(historical_ids) + 1)})
         for index, original_id in enumerate(REFERENCE.get("window_ids_before", [])):
             if original_id and re.fullmatch(r"\d{3}", original_id):
                 with self.subTest(identifiant_historique=original_id):
-                    self.assertEqual(ids[index], original_id)
+                    self.assertEqual(restored_ids[index], original_id)
         for window in self.document.windows:
             with self.subTest(fenetre=window.attrs.get("data-window-id")):
                 self.assertTrue(window.attrs.get("data-window-type", "").strip())

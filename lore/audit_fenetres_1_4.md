@@ -2,6 +2,8 @@
 
 # Audit des fenêtres — chapitres 1 à 4
 
+**Rectification DEC-178/179/180 :** les descriptions ci-dessous du passage blanc→vert appartiennent à l’ancien choix, désormais remplacé. ORV-R001 reste commune blanche 2★ à +3, avec principale PV +160 et secondaire Défense +3 ; le manuscrit actuel et les dérivés sont corrigés. Les preuves initiales restent intactes ; l’inventaire unique et les porteurs sont suivis dans `runes.md` et `personnages.md`, bilan dans `../docs/correction_rarete_et_fiches_runiques.md`.
+
 **Localisation actuelle des sources :** `new.txt`, `old.txt` et les quatre copies `chap1_revision.md` à `chap4_revision.md` citées dans cet historique ont été déplacés par l’auteur dans `../docs/`, sans changement de contenu. Accès : [`transmission`](../docs/new.txt), [`archive`](../docs/old.txt), [`révision 1`](../docs/chap1_revision.md), [`révision 2`](../docs/chap2_revision.md), [`révision 3`](../docs/chap3_revision.md), [`révision 4`](../docs/chap4_revision.md). Les constats et noms d’origine ci-dessous sont préservés.
 
 ## Actualisation du 22 novembre 2026 — DEC-091

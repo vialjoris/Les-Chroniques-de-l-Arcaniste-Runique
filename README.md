@@ -25,6 +25,8 @@ Projet de roman de fantasy LitRPG en **trilogie**. Les livres I et II comportent
 
 ## Statuts éditoriaux
 
+**Continuité documentaire obligatoire — DEC-180 :** chaque évolution de personnage ou de rune doit mettre à jour les références concernées et leur cohérence : `lore/runes.md` conserve les fiches complètes et les IDs stables ; `lore/personnages.md` suit les états connus, porteurs, équipements/réserves et transferts par livre/vie/chapitre, sans recopier les affixes ni inventer les chiffres manquants. Avant livraison, narration, fenêtres et dérivés doivent correspondre à ces états. Les présentations ordinaires donnent couleur/rareté, étoiles, amélioration, principale et toutes les secondaires ; la rareté ne change pas pendant l’amélioration (DEC-178/179).
+
 **CANON** : validé par l’auteur. **PROPOSITION** : non approuvé. **À DÉFINIR** : information manquante ou arbitrage attendu. **CONTRADICTION** : incompatibilité à résoudre.
 
 Les fiches au niveau 60 ne remplacent pas les états de fin de livre I. **Un personnage qui s’attend à gagner un cercle prépare au moins une rune de réserve**, équipée immédiatement au gain (DEC-175, précisée par DEC-177). Les huit cercles rétroactifs imprévisibles du I sont une anomalie : les états 2/10 avant les cadeaux maternels restent justifiés, sans réserve rétroactive inventée. Le nombre de cercles ne détermine ni les ensembles ni les caractéristiques individuelles des runes. Les courbes proposées ne sont pas des gains automatiques par niveau. Les nouvelles notifications de gain de cercle affichent les comptes avant/après et le total d’emplacements lorsqu’ils sont établis (DEC-176).

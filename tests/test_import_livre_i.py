@@ -7,6 +7,7 @@ import unittest
 
 from lecture_support import (
     APPROVED_OEIL_CORRECTIONS, Document, before_approved_oeil_corrections,
+    before_approved_rune_corrections,
     compact, digest, manifest, historical_prefix,
 )
 
@@ -93,7 +94,7 @@ class ImportLivreITests(unittest.TestCase):
         cls.archive = (ROOT / "docs/new.txt").read_text(encoding="utf-8")
 
     def test_corps_des_chapitres_1_a_12_identiques_a_l_avant_import(self):
-        original_parts = chapters(before_approved_oeil_corrections(self.source))
+        original_parts = chapters(before_approved_oeil_corrections(before_approved_rune_corrections(self.source)))
         for number, expected in BEFORE_IMPORT.items():
             with self.subTest(chapitre=number):
                 self.assertIn(number, self.parts)
@@ -144,7 +145,8 @@ class ImportLivreITests(unittest.TestCase):
                     self.archive.rindex('# **Chapitre 16 — Celle qui demeure**'):self.archive.index('## **FIN DU LIVRE I**', self.archive.rindex('# **Chapitre 16 — Celle qui demeure**'))]
                 if number == 16:
                     original = original.split('## **Épilogue', 1)[0]
-                assert_narrative_conserved(self, original, self.parts[number])
+                restored_parts = chapters(before_approved_rune_corrections(self.source))
+                assert_narrative_conserved(self, original, restored_parts[number])
 
     def test_compteurs_distincts_et_progression_sans_doublon(self):
         for number in (13, 14, 15, 16):
@@ -218,6 +220,7 @@ class ImportLivreITests(unittest.TestCase):
 class ImportMutationTests(unittest.TestCase):
     def test_dec168_ne_masque_aucune_autre_alteration_du_chapitre_10(self):
         source = (ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md").read_bytes().decode("utf-8")
+        source = before_approved_rune_corrections(source)
         expected = BEFORE_IMPORT[10]
         self.assertEqual(digest(chapters(before_approved_oeil_corrections(source))[10]), expected)
         after_window, after_dialogue = [after for _, after in APPROVED_OEIL_CORRECTIONS]

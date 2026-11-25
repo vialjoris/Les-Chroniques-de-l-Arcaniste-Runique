@@ -5,6 +5,7 @@ import base64
 from hashlib import sha256
 from html.parser import HTMLParser
 import json
+from pathlib import Path
 import re
 
 
@@ -164,6 +165,7 @@ def manifest(source):
 
 def historical_prefix(source, reference):
     """Retrouver la fin exacte de la baseline sans absorber ni rogner sa dernière narration."""
+    source = before_approved_rune_corrections(source)
     source = without_added_contents(source, reference)
     source = before_approved_description_corrections(source)
     source = before_approved_oeil_corrections(source)
@@ -193,6 +195,30 @@ def historical_prefix(source, reference):
         if end < stop:
             checksum.update(source[end].encode("utf-8"))
     raise ValueError("Dernier segment narratif historique altéré ou tronqué")
+
+
+def before_approved_rune_corrections(source):
+    """Inverser les deux journaux DEC-179 du I, sans exemption de contenu."""
+    fixtures = Path(__file__).parent / "fixtures"
+    stages = [json.loads((fixtures / name).read_text(encoding="utf-8")) for name in (
+        "corrections_runes_livre1_dec179.json",
+        "corrections_runes_livre1_dec179_complements.json",
+    )]
+    added = [identifier for stage in stages for identifier in stage["windows_added"]]
+    # Les petits documents synthétiques et les sources déjà restaurées restent intacts.
+    if not any(f'data-window-id="{identifier}"' in source for identifier in added):
+        return source
+    for stage in reversed(stages):
+        if digest(source) != stage["result_sha256"]:
+            raise ValueError("Source DEC-179 altérée avant inversion")
+        for pair in reversed(stage["pairs"]):
+            start, end = pair["after_start_char"], pair["after_end_char"]
+            if source[start:end] != pair["after"]:
+                raise ValueError(f"Bloc DEC-179 altéré ou déplacé : caractère {start}")
+            source = source[:start] + pair["before"] + source[end:]
+        if digest(source) != stage["baseline_sha256"]:
+            raise ValueError("Baseline DEC-179 non restaurée exactement")
+    return source
 
 
 # Corrections éditoriales DEC-104/106/107, déjà présentes avant l'import final.

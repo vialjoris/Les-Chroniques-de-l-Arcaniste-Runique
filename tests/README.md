@@ -1,5 +1,73 @@
 # Tests de la refonte de lecture
 
+## Corrections runiques DEC-178/179/180 — état actuel
+
+Les deux manuscrits stabilisés sont contrôlés séparément : **153 fenêtres et
+306 SVG au I**, **15 fenêtres et 30 SVG au II**. Les mentions 138/276 ou 110
+ci-dessous décrivent des étapes historiques, pas les effectifs actuels.
+
+`test_runes_livre_i.py` ajoute les contrats de rareté fixe et de fiches complètes.
+Les deux nouveaux journaux copiés intégralement sont des preuves fermées de
+conservation, **pas un second inventaire canonique** :
+
+- `fixtures/corrections_runes_livre1_dec179.json` : 126 remplacements,
+  de `9d27a766…` à `1e4221ee…` ;
+- `fixtures/corrections_runes_livre1_dec179_complements.json` : 11 remplacements,
+  de `1e4221ee…` à `a26785c2…`.
+
+Le helper `before_approved_rune_corrections` inverse le deuxième journal puis le
+premier, en ordre décroissant des positions **en caractères Unicode**, après
+vérification de l'empreinte source et du texte exact de chaque tranche. Chaque
+étape doit retrouver son empreinte antérieure ; un aller-retour testé doit aussi
+reconstruire exactement la source actuelle. Les empreintes des journaux eux-mêmes
+sont protégées. Aucun fichier temporaire n'est requis à l'exécution.
+
+Cette inversion intervient **avant** DEC-168, les descriptions historiques et la
+recherche du préfixe historique. Pour le contrat GitHub, elle intervient également
+avant le retrait des enveloppes, afin de respecter les positions documentées.
+Les 138 anciennes fenêtres, les anciens segments narratifs, cellules, textes,
+sommaires et SHA-256 restent vérifiés sans nouvelle baseline ni exemption générale.
+Les tests DEC-168 conservent leurs mutations propres sur l'état restauré.
+Les identifiants historiques sont comparés sur cette restauration ; unicité,
+types, sécurité, enveloppes et texte de **tous** les SVG restent vérifiés sur la
+source actuelle, y compris les quinze nouvelles fenêtres.
+
+Les attendus métier sont lus indépendamment dans `lore/runes.md` : toutes les
+lignes des tableaux d'inventaire sont comparées par ID et palier, en conservant
+l'ordre des affixes. Les cadeaux initiaux et la première Fatal à +0, documentés
+en prose, ont des attendus explicites. Les fiches individuelles, les états réels
+et projections, les paliers de secondaires, les affixes interdits, la composition
+des équipements, le don à Yoon et le stockage de ses anciennes pierres sont
+contrôlés séparément. Les seize finales restent HAS-R001/002 et HAS-R016 à 029,
+rares bleues 6★ +15 ; aucune ancienne 2★/3★ n'est transformée en 6★.
+Le suivi des porteurs renvoie aussi à `lore/personnages.md`, sans calculer de
+caractéristiques naturelles ni figer un inventaire après une ellipse.
+
+Les tables de statistiques naturelles et les badges de classe sont comparés
+avant/après par identifiant, indépendamment des corrections d'inventaire. La
+légendaire d'Iseria reste orange, 4★, +9, avec une projection +15 conditionnelle.
+Les deux fenêtres de Rune temporelle sont des **exceptions narratives explicites
+d'identification partielle** : ni étoiles inventées ni fiche ordinaire exigée.
+
+Les mutations couvrent valeur, ordre, suppression, doublon, déplacement, insertion
+de préfixe et narration hors journal. Des mutations d'étoiles, de rareté et
+d'affixes échouent aussi au contrôle métier sans utiliser le journal d'inversion.
+Le II conserve sa fixture distincte de six blocs et ses 27 tests ; aucune fixture
+historique n'est modifiée. Les anciens libellés de coloration restent des traces
+de provenance, pas des règles actives.
+
+Limites : les comparaisons automatisées ne constituent pas une revue littéraire,
+une validation visuelle GitHub/mobile ni un audit RGAA complet. Une future
+correction éditoriale autorisée nécessite une nouvelle preuve bornée ; ne pas
+renouveler les anciennes empreintes pour contourner un échec.
+
+Validation locale après les deux étapes du I : **95 tests réussis**, dont les
+**27 tests du II** préservés. Le contrôle métier du I parcourt **124 lignes
+d'inventaire** et **78 états canoniques**, en plus des fiches individuelles.
+`generer_fenetres.py --check` confirme **153 fenêtres / 306 SVG à jour** et
+`generer_lecture.py --check` confirme le lecteur à jour. Ces contrôles n'écrivent
+ni manuscrit, ni lore, ni dérivé ; aucun commit ou push n'est effectué.
+
 ## Source actuelle du livre I
 
 Les tests et les deux générateurs ciblent désormais
@@ -275,6 +343,38 @@ des fenêtres, descriptions ou de la section IV et sans renouveler la source.
 Les tests couvrent aussi Vague runique, Bénédiction, les groupes à cinquante
 points et la retraite d'Elric. Les neuf affichages du chapitre 2 gardent leurs
 identifiants stables `L2-C2-F01` à `L2-C2-F09`.
+
+DEC-179 ajoute cinq présentations `L2-C2-R01` à `R05`, soit **quinze fenêtres et
+trente SVG** pour le II. `fixtures/corrections_runes_livre2_dec179.json` décrit
+les six blocs du journal d'intégration : position en lignes, longueur en caractères
+Unicode, SHA-256 des octets UTF-8 du bloc après et remplacement antérieur exact.
+Les blocs sont vérifiés puis inversés de la fin vers le début, jamais retirés par
+une exemption générale des nouvelles fenêtres. Leur contenu, valeur, insertion,
+déplacement et duplication sont éprouvés par mutations. Une mutation hors journal
+reste intacte après inversion et échoue à la comparaison de la source antérieure.
+Les tests ne dépendent pas de la présence future du journal temporaire.
+
+Cette inversion précède celles de DEC-172/174/175/176/178 pour la comparaison
+intégrale à la transmission. Le SHA-256 historique hors F01 de DEC-178 reste
+`8c25952b4307d21e5f12a9af961cba21ee10727b96e85567d30a037b2e4a57de` :
+aucune baseline historique n'est renouvelée. Les dix anciennes fenêtres restent
+comparées octet pour octet avant/après DEC-179 et le chapitre 1 est inchangé.
+
+Des attendus indépendants du journal contrôlent rareté/couleur, étoiles,
+amélioration, principale, secondaires et valeurs des seize IDs d'équipement de la
+vie 2, ainsi que leur correspondance au ledger `lore/runes.md`. Les expériences
+blanche +0 sans secondaire et verte +0/+6 avec une/deux secondaires sont vérifiées
+séparément, avec Vitesse +1 en gras dans R03 en HTML et dans les deux SVG.
+Le double affichage « grade actuel/natif » de F01 demeure légitime : aucun faux
+positif de duplication de grade, et aucune promotion au vert à +3.
+Les tests protègent les sept pièces portées plus une réserve avant le gain,
+la remise des huit Vol de vie après ouverture du coffret mais avant équipement,
+l'absence de révélation de leur origine à Hasol, et les états des porteurs dans
+`lore/personnages.md` (DEC-180). Les PA +100 sont des choix propres à ces pièces,
+pas un barème intermédiaire universel. Savoir runique n'est pas exposé dans le II.
+Les quinze enveloppes ont des identifiants uniques, alternatives non vides,
+transcriptions fermées et en-têtes de tableau à portée colonne. Ces contrôles
+structurels ne remplacent pas une revue RGAA visuelle et avec lecteur d'écran.
 
 Les SVG sont contrôlés sans écriture depuis `produire`, avec chemins isolés sous
 `assets/fenetres-livre-2/` : variantes mobile/bureau, XML passif, correspondance

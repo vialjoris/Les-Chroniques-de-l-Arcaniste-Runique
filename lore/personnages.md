@@ -1,5 +1,67 @@
 # Personnages — Continuité et historique par chapitre
 
+## Suivi runique prioritaire — DEC-178/179
+
+**Application DEC-180 :** les présentations correspondantes des deux manuscrits sont intégrées et contrôlées contre ce suivi et `runes.md`. Toute acquisition, amélioration, changement d’équipement ou transfert ultérieur doit mettre à jour les deux références par livre/vie/chapitre avant livraison ; ni état après ellipse, ni inventaire futur ne se déduisent d’un ancien tableau.
+
+**Inventaire unique : [`runes.md`](runes.md), « Référentiel des présentations complètes ».** Ce fichier suit les porteurs et changements d’état, sans recopier les affixes ni recalculer les caractéristiques naturelles. Rareté et étoiles restent fixes lors des améliorations ordinaires. Les choix d’identités, d’états et de valeurs auparavant manquants sont délégués explicitement par l’auteur sous DEC-179 ; ils ne créent pas d’acquisition, de vente ou de sacrifice supplémentaire.
+
+### Livre I — journal d’équipement par chapitre
+
+| Chapitre / étape | Hasol : portées / réserve / transferts | Autres personnages et garde-fous |
+|---|---|---|
+| 1, Révélation | HAS-R001/002, cadeaux paternels rares bleus 6★ +6, équipés : 2/2 | Aucun ensemble actif ; affixes historiques inchangés |
+| 1, Croissance imprévisible | Mêmes pierres : 2/10, sans préparation rétrospective de huit réserves | L’anomalie ne modifie pas les deux cadeaux |
+| 2 | Ajout des huit maternelles HAS-R003 à 010 : 10/10 ; seule HAS-R003 améliorée jusqu’à +3 | 4 Fatal/4 Gardien/2 Énergie ; Iseria a donné les huit 3★ |
+| 3 | Même équipement personnel | ORV-R001 travaillée puis laissée à Orven, toujours commune blanche 2★ +3 ; MAR-R001 observée, pas achetée |
+| 4 | Même équipement personnel | CLI-R001 rendue au client +2 ; CLI-R002 seulement lue, aucune tentative engagée |
+| 5 | Même équipement personnel | Imprégnation de forgeron distincte d’une rune équipée |
+| 6 | Même équipement personnel ; lot sacrificiel à part | REC-R001 examinée ; pas de devenir individuel déduit, aucune rune client ou cadeau sacrifié |
+| 7 | HAS-R007/008 retirées en coffret à +0 ; HAS-R011/012 ajoutées ; dix portées, six +6 et quatre +3 selon le référentiel | Choix délégué : HAS-R006 est la Gardien maternelle conservée. GRI-R001 reste une commande du Griffon |
+| 8 | Mêmes dix pièces et mêmes états qu’à la sortie du 7 | Ne pas appliquer prématurément les +9 du 9 |
+| 9, améliorations | HAS-R003/004 et HAS-R009/010 atteignent +9 ; cadeaux paternels toujours +6 | Première Énergie traitée : HAS-R009 rare bleue ; seconde : HAS-R010 peu commune verte, toujours 3★ |
+| 9, onzième cercle | Remplace HAS-R009/010 par HAS-R013/014 ; remet HAS-R007 : 11/11 | Yoon reçoit et équipe les mêmes HAS-R009/010 ; ses YOO-R001/002 +6 sont rangées, pas vendues/données |
+| 9, douzième cercle | Remet HAS-R008 : 12/12, 4 Fatal/4 Arcanique/4 Gardien | Yoon reste à deux cercles, les deux Énergie +9 équipées, Énergie +15 % PV actif |
+| 10 | Douze pièces portées ; HAS-R015 obtenue, +0 et non équipée, rangée dans l’Anneau | Iseria prête ISE-R001 puis la récupère intacte +9 ; ORV-R002 reste à l’atelier, commune blanche 1★ +3 |
+| 11, début | Dernier instantané des douze porté ; HAS-R015 toujours rangée | Réserve sacrificielle distincte, un prélèvement raconté, pas de stock final extrapolé |
+| 11, ellipses / 12 / 13 | Équipement individuel ultérieur non montré : ni anciennes douze pièces figées, ni seize finales importées par anticipation | Ne pas dater les remplacements ni le rééquipement des anciennes runes de Yoon ; aucun chiffre naturel déduit |
+| 14, début | HAS-R001/002 et HAS-R016 à 026 : treize rares bleues 6★ +15 ; HAS-R027 de même qualité en réserve | Yoon : six cercles et six runes portées, septième préparée ; composition non exposée, pas inventaire au niveau 60 |
+| 14, centième boss | HAS-R027 équipée : 14/14 ; 4 Fatal/4 Arcanique/4 Vitesse/2 Gardien | Iseria meurt ; sa rune ISE-R001 ne devient pas automatiquement un héritage équipé |
+| 15, 5 000 démons | HAS-R028 équipée : 15/15, Énergie 1/2 encore inactif | Énergie rare bleue 6★ +15 distincte des maternelles données à Yoon |
+| 15, 10 000 démons | HAS-R029 équipée : 16/16, Énergie désormais actif | Aucun retrait des quatorze précédentes |
+| 16, dénouement | Seize mêmes pièces rares bleues 6★ +15 conservées | Rune temporelle confiée pour expertise, identification partielle puis activation ; pas de rune ordinaire équipée ni d’affixes inventés |
+| 16, épilogue | Retour à quinze ans : ne pas reporter matériellement l’équipement adulte | Séparer les états des proches à cette date de ceux du dénouement |
+
+**Complément des sept exemplaires résiduels — DEC-179/180 :** fiches complètes et projections dans `runes.md`, section « sept exemplaires résiduels des chapitres 6, 7 et 12 » ; aucune modification de l’équipement personnel d’Hasol ou de Zio.
+
+| Chapitre / étape | Détenteurs, propriétaires et changements d’état | Limites de continuité |
+|---|---|---|
+| 6 I, tri initial | REC-R002 examinée dans la caisse de récupération d’Orven | Pas d’achat ou de sacrifice individuel identifié ; distincte de REC-R001 bleue et des prélèvements ultérieurs |
+| 6 V, erreur de classement | REC-R003 Fatal placée à tort dans le lot Gardien ; Orven récupère la boîte | Reste une Fatal ; aucune rune reçue ou équipée par Hasol |
+| 6 V, conversation avec Yoon | Série de commandes Gardien évoquée globalement | Lot générique, pas de fiches unitaires ou de distribution exacte inventées |
+| 7 II, consultation du registre | CLI-R003/004/005, trois commandes clientes achevées à +3 selon les choix délégués | Propriétaires non nommés ; pas les maternelles d’Hasol, pas de restitution datée ni d’équipement client déduit |
+| 11 I, préparation d’Aura | Dix pierres sacrificielles blanches/vertes dans une réserve de divers rangs ; prélèvements connus conservés | Pas dix identités artificielles ni assimilation à REC-R002/003 ; blanche 1★ sacrifiée inchangée |
+| 12 IX, premier examen du marchand | CLI-R006 analysée puis reprise par son propriétaire à +9 inchangé ; objectif +15 déconseillé | Projection d’Œil non acquise, aucune tentative engagée |
+| 12 IX, retour trois semaines plus tard | Le marchand déclare avoir confié CLI-R006 à une autre personne mieux équipée pour en profiter | Bénéficiaire non nommé ; ni vente/don précis, ni amélioration ultérieure déduits. Les trois nouvelles pierres sont distinctes |
+| 12 X, jeune chasseur puis échange avec Orven | CLI-R007 apportée par son propriétaire, analysée à +0, commande acceptée à budget limité ; Orven évoque la même pièce l’après-midi | Pas de palier finalement atteint, achèvement ou restitution inventés ; Zio ne possède ni n’apporte cette rune dans ces passages |
+
+**Cadeaux conservés, remplacements distincts :** HAS-R001/002 restent les mêmes pierres de +6 à +15. HAS-R003 à 015 ne deviennent pas 6★ par amélioration ; HAS-R016 à 029 identifient les quatorze autres pièces finales. Leur acquisition détaillée et le devenir des anciennes pierres non racontés restent inconnus. Les données de présentation complètes et le mapping des fenêtres 034/060/062/068/069/070/078/079/087/098/C14-F01/F09/C15-F10 sont dans `runes.md` uniquement.
+
+### Livre II — journal de vie 2, chapitres 1 et 2
+
+| Étape racontée | Hasol / détenteurs | Limites |
+|---|---|---|
+| Chapitre 1 | Deux cercles à la Révélation ; occupation et équipement individuels non exposés | Ne pas rétroprojeter les seize du I ou le bilan de sept cercles du chapitre 2 |
+| Chapitre 2, exercices chez Orven | L2-ORV-R001 blanche 1★ +0→+3 ; L2-ORV-R002 verte 1★ jusqu’au palier de découverte +6 | Pierres d’atelier, pas équipées par Hasol ; échecs et coûts conservés ; fiche F01 Résistance +4 % / Vitesse +1 inchangée |
+| Sept cercles | L2-HAS-R001 à 007 portées : 4 Fatal/2 Gardien/1 Énergie ; L2-HAS-R008 en réserve | Choix avec Orven et Ray déjà raconté ; pas de savoir de Croissance ajouté à Ray |
+| Huitième cercle | Équipe L2-HAS-R008 : 8/8, 4 Fatal/2 Gardien/2 Énergie | Identités et affixes propres à la vie 2, aucun transfert matériel du I |
+| Remise de l’Académie | Reçoit L2-HAS-R009 à 016, huit Vol de vie rares bleues 4★ +6 | Iseria fournit réellement les pierres ; Hasol ignore leur origine et l’accord financier |
+| Soir de la remise | L2-HAS-R001/002 au coffre avec accord d’Armin ; L2-HAS-R003 à 008 rangées à part ; L2-HAS-R009 à 016 équipées, 8/8 | Deux ensembles Vol de vie, pas de valeur de vol de vie universelle inventée ; aucun cadeau vendu ou sacrifié |
+| Essais d’Aura | Réserve sacrificielle distincte, lancements sur Elric puis essais personnels au niveau 10 | Ne débiter aucun des seize IDs d’équipement par défaut ; quantités et prélèvements individuels non exposés |
+| Années de formation jusqu’à vingt-quatre ans | Développement Arcanique puis Vitesse ; deux Vol de vie conservés dans la trajectoire | Pas d’inventaire détaillé final figé, d’état +6 permanent déduit ou de date de rééquipement des cadeaux inventée |
+
+Les inventaires non présentés de Zio, Ray, Samia, Elric et Iseria ne sont pas complétés artificiellement. La projection d’ISE-R001 à +15 au I reste conditionnelle, pas une amélioration effectuée ni une modification de ses statistiques naturelles.
+
 **Chapitre 1 du II, retouche DEC-159 :** Hasol lit les trois compteurs de Croissance devant ses parents en III et les explique à Elric en VII ; le directeur reçoit ensuite la même confidence. Seuls les mille monstres ont un prérequis de niveau d’ennemi. Confidentialité, absence de gain nouveau et autres scènes préservées ; ajouts locaux à relire, texte antérieur validé par DEC-156.
 
 ## Continuité prioritaire du 25 novembre — DEC-158 à DEC-171
@@ -16,9 +78,9 @@
 
 ## Livre II — chapitre 2 raconté et validé, DEC-170/171
 
-**Correction de relecture — DEC-174 à DEC-176 :** avant le huitième cercle, Hasol porte sept runes (4 Fatal / 2 Gardien / 1 Énergie, cadeaux paternels compris), choisies avec Orven et Ray, et a une seconde Énergie en réserve. Aucun savoir de Croissance ajouté à Ray. Au huitième cercle, notification 7→8 puis équipement immédiat de la réserve : 8/8, composition 4/2/2. Elle envisage de revoir Orven le soir pour poursuivre ses choix d’équipement ; Elric annonce une surprise de l’Académie sans la dévoiler. Six pièces hors cadeaux retirées/rangées lors du passage aux huit Vol de vie ; scène affective des cadeaux préservée. Grades, étoiles et affixes des six pièces non inventés.
+**Correction de relecture — DEC-174 à DEC-179 :** avant le huitième cercle, Hasol porte sept runes (4 Fatal / 2 Gardien / 1 Énergie, cadeaux paternels compris), choisies avec Orven et Ray, et a une seconde Énergie en réserve. Aucun savoir de Croissance ajouté à Ray. Au huitième cercle, notification 7→8 puis équipement immédiat de la réserve : 8/8, composition 4/2/2. Elle envisage de revoir Orven le soir pour poursuivre ses choix d’équipement ; Elric annonce une surprise de l’Académie sans la dévoiler. Six pièces hors cadeaux retirées/rangées lors du passage aux huit Vol de vie ; scène affective préservée. Identités et fiches désormais complétées par délégation DEC-179 dans `runes.md` ; aucun événement supplémentaire déduit.
 
-Source lue intégralement : `docs/new.txt:103069–108183`. Vie 2, formation de **seize à vingt-quatre ans** ; aucun niveau final ni affixe manquant extrapolé.
+Source de réception lue intégralement : `docs/new.txt:103069–108183`. Vie 2, formation de **seize à vingt-quatre ans** ; aucun niveau final extrapolé. Affixes des présentations complétés séparément par délégation DEC-179 dans `runes.md`.
 
 - **Hasol :** premiers apprentissages chez Orven et commandes rémunérées ; Œil vérifié sur les secondaires découvertes même par un autre artisan, valeurs finales exactes conditionnelles à son propre travail jusqu’à +15. Acquiert **Lame runique par maîtrise**, sans nouveau niveau ni cercle à cet instant. Atteint **huit cercles avant le niveau 10**, puis reçoit et équipe huit Vol de vie rares (bleues), 4★, +6 ; cadeaux paternels stockés avec l’accord d’Armin. Premiers essais d’Aura sur Elric, usage personnel et Infiltration au 10 ; Bénédiction 45/25 au 20, premier boss de donjon personnel avec Yoon/Elric (**1/100**, aucun cercle immédiat), puis Bénédiction 60/50 au 30. Investissements Arcanique puis Vitesse ; Énergie/Gardien/Fatal restent projets. Total final de cercles, équipement détaillé, XP et niveau final **À DÉFINIR**, sans figer le niveau à 30.
 - **Elric :** toujours niveau 45 lors de la présentation de Yoon ; accompagne huit années d’apprentissage et le trio de donjon. À **50 ans**, quand Hasol en a **24**, choisit sa retraite de chasseur avant qu’une blessure ne l’y oblige ; fatigue, récupération plus lente et anciennes douleurs, sans blessure unique inventée. Organise son remplacement par Samia, puis dernier entraînement émouvant. Accepte de rester disponible pour des visites et conseils occasionnels, pas une formation quotidienne permanente.
@@ -203,7 +265,7 @@ L’auteur envisage aussi des antagonistes **en supplément** des trois à quatr
 
 ### Instantané historique validé — fin du chapitre 9
 
-- **État historique — CANON, fin du chapitre 9 :** niveau **19**, **douze cercles et douze emplacements occupés** ; **4 Fatal + 4 Arcanique + 4 Gardien**. Bonus actifs séparés : Fatal +35 % Attaque, Arcanique +1 200 PA, deux Gardien +30 % Défense. Aucune Vitesse équipée et plus d’Énergie sur Hasol. Les deux cadeaux paternels rares (bleus), 6★, +6 sont inchangés ; les Énergie maternelles devenues épiques (violettes), 3★, +9 appartiennent à Yoon. Inventaire et limites d’identification dans `runes.md`.
+- **État historique — CANON, fin du chapitre 9 :** niveau **19**, **douze cercles et douze emplacements occupés** ; **4 Fatal + 4 Arcanique + 4 Gardien**. Bonus actifs séparés : Fatal +35 % Attaque, Arcanique +1 200 PA, deux Gardien +30 % Défense. Aucune Vitesse équipée et plus d’Énergie sur Hasol. Les cadeaux paternels rares (bleus), 6★, +6 sont inchangés ; les Énergie maternelles HAS-R009 rare bleue et HAS-R010 peu commune verte, 3★, +9 appartiennent à Yoon. Inventaire complet par état dans `runes.md`.
 - **Compétences courantes :** Bénédiction runique (deux propriétés identifiées au 7), Croissance runique ; Aura runique active depuis le niveau 11 au 5, Infiltration conditionnelle découverte au 6. Ni Œil (niveau 20 au futur 10), ni Aimant (niveau 21 après anneau), ni Main, ni sort offensif direct du niveau 40. Aucun effet temporaire restant actif à la dernière scène n’est chiffré.
 - **Caractéristiques courantes, XP et âge exact après les périodes du chapitre 9 : À DÉFINIR.** Ne pas recopier les statistiques naturelles du niveau 10 au niveau 19 ni interpoler celles du 60. Les fenêtres du 9 suivent 1 000 puis 2 000 éliminations après les huit premiers paliers, **reliquat historique inclus sur décision de l'auteur**, sans doubler les gains ni fixer sa valeur isolée.
 - **Relations actuelles :** partenariat choisi avec Yoon, entraide dans la progression et cadeau sans contrepartie de ses Énergie ; reconnaissance artisanale croissante chez Orven et au Griffon d’Argent, pas encore renommée et richesse de ses vingt-cinq ans. Père vivant, réserve au nom de la guilde, conflit encore latent. Zio demeure extérieur au duo, pas encore compagnon officiel ou époux. Ray pas encore sauvé/recruté. Samia est connue dans les scènes d’Académie de Yoon, sans adhésion à l’équipe d’Hasol.
@@ -303,7 +365,7 @@ Le chapitre 2 est désormais présent dans `roman.md` comme version de lecture, 
 - **XP et compteur :** aucun gain d’XP ni monstre tué dans ce chapitre ; conserver les 36 XP et trois éliminations nouvelles connues du chapitre 2 sans supposer le reliquat historique nul.
 - **Entraînement :** tient 78 secondes contre le guerrier ordinaire simulé niveau 10, contre 42 auparavant, avec les mêmes réglages. Deux touches déjà reçues, balayage au mollet constituant la troisième, chute et arrêt (DEC-025 et DEC-026). Progrès dans les appuis et le recul ; aucun total de dégâts ou nombre de touches portées fixé pour cet essai.
 - **Blessure :** bras encore douloureux et bandé après les loups de la veille ; arrêt de l’exercice lorsque la blessure tire, chasse reportée.
-- **Économie :** visite le marché sans achat ; sa mère la présente à Orven. Réussit l’épreuve sur ORV-R001, rune d’atelier Énergie commune (blanche), 2★, devenue peu commune (verte), 2★, +3. Première rémunération, engagement à l’essai, aucun montant inventé.
+- **Économie :** visite le marché sans achat ; sa mère la présente à Orven. Réussit l’épreuve sur ORV-R001, rune d’atelier Énergie commune (blanche), 2★, toujours blanche à +3. Première rémunération, engagement à l’essai, aucun montant inventé.
 - **Connaissances :** apprend l’existence des Collines de Braise et des gobelins rouges niveau 11 ; choisit de se préparer plutôt que de partir. Partage ses dix cercles, Bénédiction runique et Croissance runique avec Orven en privé.
 - **Évolution :** fierté du premier revenu, malgré la peur de décevoir encore. Ses connaissances théoriques restent disponibles sous le doute : comparaison d’équipement, contrôles de la rune, suivi des consignes. Elle demande elle-même le travail et prépare le lendemain ; l’artisanat devient un choix pour financer son rêve de chasseuse, pas son abandon. Le carnet conserve des observations pratiques plutôt qu’un nouveau manifeste ; une pièce laissée sur le chevet marque sa première rémunération. Pas de rencontre de Yoon, de nouvelle compétence ou d’avantage d’échec chiffré.
 
@@ -443,7 +505,7 @@ Profil de soutien spécialisé : faible attaque physique, résistance correcte, 
 ## Yoon Notos — Apparition au chapitre 5, instantané historique au chapitre 9
 
 - **Apparence CANON — DEC-088 :** cheveux **violets tirant vers le rose**, yeux de **la même couleur que ceux de Zio**. Teinte exacte des yeux **À DÉFINIR**, non retrouvée explicitement dans le manuscrit local ; ne pas l’inventer. Longueur et coiffure non fixées.
-- **État historique CANON, fin du 9 :** niveau **24**, **deux cercles équipables**, deux Énergie épiques (violettes), 3★, +9 reçues d’Hasol ; anciennes runes +6 stockées, identités/ensembles/grades/étoiles/affixes non récupérables. Elle refuse d’abord le cadeau coûteux, propose ses anciennes pièces puis accepte de les garder pour ses futurs cercles. Caractéristiques naturelles, âge exact après les périodes du 9 et XP **À DÉFINIR** ; les huit cercles au 60 ne sont pas acquis ici. Ne pas prolonger cet instantané à la fin du 12.
+- **État historique CANON, fin du 9 :** niveau **24**, **deux cercles équipables**, HAS-R009 Énergie rare (bleue) et HAS-R010 Énergie peu commune (verte), 3★, +9 reçues d’Hasol ; anciennes YOO-R001/002 +6 stockées, fiches complétées par délégation DEC-179 dans `runes.md`. Elle refuse d’abord le cadeau coûteux, propose ses anciennes pièces puis accepte de les garder pour ses futurs cercles. Caractéristiques naturelles, âge exact après les périodes du 9 et XP **À DÉFINIR** ; les huit cercles au 60 ne sont pas acquis ici. Ne pas prolonger cet instantané à la fin du 12.
 - **Identité :** sœur cadette de Zio, amie de Samia Claire à l’Académie. Seize ans et niveau 5 lors de la rencontre racontée au chapitre 5 ; classe **Sage runique, Rare**, dix points d’équipe.
 - **Disponibilités au livre I — CANON, DEC-067 :** au début, chasse avec Hasol uniquement les week-ends et vacances, tout en poursuivant l'Académie. La fin de ses études coïncide avec l'adhésion officielle de Zio au chapitre 11 ; date exacte à définir.
 - **Rôle :** soutien polyvalent, pas soigneuse pure. Son soin sur la durée reste très inférieur à celui d'une soigneuse spécialisée ; renforcement et contrôle du terrain sont centraux. Cette faiblesse relative ne fixe pas un pourcentage universel de soins.

@@ -14,7 +14,7 @@ import unittest
 from unittest.mock import patch
 import xml.etree.ElementTree as ET
 
-from lecture_support import Document, compact, digest, historical_prefix, manifest
+from lecture_support import Document, compact, digest, historical_prefix, manifest, before_approved_rune_corrections
 import test_lecture as lecture_tests
 from test_lecture import REFERENCE
 
@@ -84,7 +84,8 @@ class GitHubFenetreTests(unittest.TestCase):
     def test_restauration_source_avant_wrappers_octet_identique_et_idempotente(self):
         generator = load_generator()
         restored = generator.extraire_source_fenetres(self.source)
-        self.assertEqual(digest(historical_prefix(restored, REFERENCE)), BASELINE_SHA256)
+        historical = generator.extraire_source_fenetres(before_approved_rune_corrections(self.source))
+        self.assertEqual(digest(historical_prefix(historical, REFERENCE)), BASELINE_SHA256)
         self.assertEqual(generator.extraire_source_fenetres(restored), restored)
         self.assertEqual(Document(restored).outside_segments(), self.document.outside_segments())
 

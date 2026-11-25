@@ -1,0 +1,44 @@
+{
+  "file": "livre_2_le_vertige_des_vies_oubliees.md",
+  "before_sha256": "91f8447acc0275ba3b979ccd95dd2bf282e835fa842fe2991b11f7850ed6a733",
+  "after_sha256": "9ceadd42efe738a957883e48eb22bd46a09e448133c7304b1ca8a44f7e52f731",
+  "provenance": "Journal /tmp/opencode/arcaniste-dec179/livre2-corrections.json : six blocs après identifiés par position, longueur et SHA-256 exact. Aucun renouvellement des baselines historiques.",
+  "changes": [
+    {
+      "after_start_line": 2652,
+      "after_length": 880,
+      "after_sha256": "5023d5759a0d56fcc3dac83227df43297af98dd0ea6cecdf2331134cdbccccf6",
+      "before": "Hasol prit délicatement une rune blanche.\n"
+    },
+    {
+      "after_start_line": 2761,
+      "after_length": 154,
+      "after_sha256": "4ee6f2e9be66a9858d0980e29d67ff8bfee7b38cb53be4290d9923f4cf1d6701",
+      "before": "L'artisan récupéra une rune Énergie commune (blanche), 1★, +0, de faible valeur.\n"
+    },
+    {
+      "after_start_line": 2876,
+      "after_length": 972,
+      "after_sha256": "2a975bf24824d9855161df4ddc8fb7c5cde813e6ea7c2e2a2cecfe52d8fd3d96",
+      "before": "La deuxième expérience fut réalisée sur une rune verte.\n"
+    },
+    {
+      "after_start_line": 2920,
+      "after_length": 964,
+      "after_sha256": "5e285f29ccce3a3a1f9d933314025ce30bc1b030a765bdcbf335479273094056",
+      "before": ""
+    },
+    {
+      "after_start_line": 3468,
+      "after_length": 2889,
+      "after_sha256": "9101ae3a2fa38882795dee57c837de1b8e914359d9a0ba18166309521c06abd7",
+      "before": ""
+    },
+    {
+      "after_start_line": 3756,
+      "after_length": 2915,
+      "after_sha256": "6b682acbfc399aa7af1b19de92a6e81df970f0fbf32e723899b06c4f1277a678",
+      "before": ""
+    }
+  ]
+}

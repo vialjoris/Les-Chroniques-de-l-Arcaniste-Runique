@@ -1,5 +1,9 @@
 # Système LitRPG — Règles runiques
 
+**Fiches et continuité obligatoires — DEC-179/180 :** toute présentation de rune ordinaire identifiée donne rareté/couleur, étoiles, amélioration, principale et toutes les secondaires présentes, avec leurs valeurs. Seules les communes blanches +0/+1/+2 n’ont aucune secondaire. Les données manquantes des présentations existantes ont été complétées par délégation dans l’unique inventaire `runes.md`, avec états successifs et IDs ; `personnages.md` suit leurs porteurs et l’équipement par chapitre sans recopier les affixes. Toute modification doit synchroniser ces deux références, la narration et les fenêtres. Les identifications partielles explicitement racontées, comme la rune temporelle, ne révèlent pas des secrets futurs pour remplir une fiche ordinaire.
+
+**Correction prioritaire — DEC-178 :** l’amélioration ordinaire +0→+15 ne change **ni la rareté ni les étoiles**. Une rune commune (blanche) peut découvrir des secondaires aux paliers établis tout en restant commune (blanche). Les anciennes mentions d’un grade affiché déduit du nombre de secondaires sont remplacées ; elles font l’objet de l’audit demandé par l’auteur. Savoir runique d’Iseria reste un mécanisme distinct de transformation par sacrifice, non affecté par cette correction.
+
 ## Préparation des emplacements et notifications — CANON, DEC-175 à DEC-177
 
 Les runes étant essentielles, un personnage qui **s’attend à obtenir un cercle** prépare **au moins une rune de réserve** pour l’équiper immédiatement, sans devoir attendre une boutique ou une prochaine chasse. Ne pas faire négliger cette préparation lors d’une progression anticipée. La réserve ne compte pas comme rune portée avant l’ouverture ; les changements d’équipement sont raccordés sans duplication ni perte. Cette règle n’est ni une génération automatique de runes, ni une obligation de prévoir l’imprévisible, ni une interdiction d’accès magique ; fiches individuelles et stocks inconnus ne sont pas inventés.
@@ -222,7 +226,7 @@ La principale augmente **à chaque amélioration réussie**, de +1 à +15. Le pa
 | +12 | Trois secondaires présentes : ajouter la quatrième | Renforcer une secondaire existante |
 | +15 | Aucune cinquième secondaire : les runes ayant suivi les paliers précédents en possèdent déjà quatre | Renforcer une secondaire existante, en plus du gain renforcé de la principale |
 
-Les paliers d’ajout font évoluer le grade affiché : première secondaire, vert ; deuxième, bleu ; troisième, violet ; quatrième, orange. Le rang en étoiles reste distinct. Conserver aussi le grade d’origine dans l’historique pour distinguer une rune blanche améliorée d’une rune native légendaire.
+**Rareté conservée — DEC-178 :** les paliers d’ajout ne changent pas le grade. Une première secondaire à +3 ne transforme pas une rune blanche en verte ; une rune rare reste bleue à +9, +12 et +15. Le grade détermine le nombre de secondaires présentes initialement à +0, pas une couleur recalculée après chaque découverte. Étoiles et niveau d’amélioration restent distincts de la rareté. Une transformation explicite par Savoir runique relève d’une autre règle, pas du renforcement ordinaire.
 
 Une rune bleue native renforce donc une secondaire à +3 puis une à +6 : elle garde deux secondaires à +6. Elle en gagne une troisième à +9 et une quatrième à +12. Une même secondaire peut être renforcée plusieurs fois ; les deux cadeaux ont ici une répartition documentée dans `runes.md`.
 
@@ -389,7 +393,7 @@ Plus le niveau du personnage augmente, plus l'obtention des cercles naturels dev
 ## 9. Coût des améliorations et fatigue — CANON, DEC-024
 
 - Chaque tentative d’amélioration consomme **des pierres de mana et du Mana personnel de l’artisan**, qu’elle réussisse ou échoue.
-- Le coût en Mana augmente avec la difficulté, notamment selon le rang en étoiles, le grade et le palier d’amélioration visé. Les valeurs exactes et l’usage du grade d’origine ou du grade actuel dans une future table restent **À DÉFINIR** ; ne pas inventer de formule.
+- Le coût en Mana augmente avec la difficulté, notamment selon le rang en étoiles, le grade et le palier d’amélioration visé. Les valeurs exactes restent **À DÉFINIR** ; ne pas inventer de formule. L’amélioration ordinaire ne crée aucune différence entre rareté initiale et affichée ; une éventuelle question de coût après transformation par Savoir runique relève de ce pouvoir distinct, sans barème défini ici.
 - La réserve disponible limite le travail possible. Le repos restaure le Mana ; des potions peuvent restaurer la réserve sans supprimer toute fatigue mentale. Les rythmes de récupération, les effets chiffrés des potions et le nombre de tentatives réalisables par jour restent **À DÉFINIR**.
 - La fatigue mentale limite la concentration même lorsqu’il reste du Mana. Posséder une grande réserve ne garantit ni précision, ni expérience, ni réussite. Ne pas déduire d’un soin magique une récupération automatique de l’attention.
 - Au chapitre 4, Orven découvre l’endurance de Hasol : **355 Mana naturels**, bonus runique connu **+20**, réserve disponible partiellement consommée mais non chiffrée. Ce constat ne donne ni un ratio d’endurance par rapport aux apprentis ni le taux d’échec de Bénédiction runique, réservé au chapitre 7.
@@ -611,7 +615,7 @@ Cette liste explicite remplace la simplification « anciens passifs seulement »
 - Obtention de runes sur les monstres de niveau supérieur à 60 et probabilités de butin.
 - Progression naturelle de Hasol : croissance physique après la nouvelle base 4★ et progression magique cohérente avec DEC-015. Les normes magiques au niveau 60 sont connues, mais les courbes et le niveau de franchissement de 1000 Mana par Hasol restent à définir.
 - Tables des principales permettant de vérifier la bascule rapide souhaitée entre fixe et pourcentage ; l’explication et l’assiette naturelle sont désormais établies au chapitre 4, sans ordre de calcul des ensembles ou arrondis supplémentaires.
-- Coûts en Mana et en pierres par tentative, traitement du grade initial ou actuel, régénération, effets des potions et limites de travail ; ne pas transformer les exemples ou la réserve 355 en barème.
+- Coûts en Mana et en pierres par tentative, régénération, effets des potions et limites de travail ; ne pas transformer les exemples ou la réserve 355 en barème. Une éventuelle distinction de rareté avant/après Savoir runique reste propre à cette transformation, pas à l’amélioration ordinaire.
 - Arbitrages matériels restants : fréquence globale des runes, distributions d'étoiles aux niveaux autres que 30 et dépendance éventuelle étoiles/grade ; durée, coût et portée de Chant ; cumul des livres de Mémoire et report des cercles entre vies. Voir DEC-074 à DEC-079. Tables de grades, lecture du potentiel par Œil et déclenchement avant coup fatal sont désormais arbitrés, comme le remplacement de Lame et le seuil d'arme à aura niveau 10 sans exception.
 
 Ne pas appliquer automatiquement les coûts, les restrictions d’emplacements, les règles de retrait ou de destruction, ni l’absence d’échec jusqu’à +3 de Summoners War. Le roman prévoit un échec lors d’une tentative de passage à +2 au chapitre 3.

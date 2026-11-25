@@ -246,7 +246,14 @@ Un badge n’autorise pas à transformer un actif ciblé en aura ou en passif.
 ### Identification de rune — `rune`, racine `rune-window`
 
 Titre : « IDENTIFICATION DE RUNE ». Conserver l’identité stable de la rune,
-distincte de l’identifiant de fenêtre. Répéter les secondaires connues seulement.
+distincte de l’identifiant de fenêtre. **DEC-178/179 :** chaque présentation
+ordinaire identifiée contient rareté/couleur, étoiles, amélioration, principale
+et toutes les secondaires présentes avec leurs valeurs. Le nombre de secondaires
+ne recolore jamais la rune. « Aucune » ne s’emploie que pour une commune blanche
+à +0/+1/+2 ; les autres états reprennent leur liste complète dans `lore/runes.md`.
+Ne pas transformer une identification partielle narrative (rune temporelle) en
+révélation complète de ses secrets. Les réserves de paramètres non transmis ne
+remplacent pas la complétion déléguée des présentations autorisées.
 
 ```html
 <h3>{{ensemble_ou_nom}}</h3>
@@ -257,9 +264,20 @@ distincte de l’identifiant de fenêtre. Répéter les secondaires connues seul
 <p><strong>Propriétaire / état :</strong> {{propriétaire_et_état_connus}}</p>
 ```
 
+Répéter la ligne de secondaire pour chaque affixe présent, sans en omettre ni en
+créer un cinquième. Dans un tableau de plusieurs runes, chaque ligne conserve
+les mêmes champs obligatoires. Séparer les états réels des projections
+conditionnelles à +15 ; une projection ne devient pas une amélioration acquise.
+**DEC-180 :** reporter tout changement dans l’inventaire et le suivi du porteur,
+puis régénérer les SVG depuis le HTML, jamais corriger les images à la main.
+
 ### Amélioration réussie ou échouée — `amelioration`, racine `rune-window`
 
 Titre : « TENTATIVE D’AMÉLIORATION ». Partie commune :
+
+Présenter aussi la fiche complète de l’état obtenu ou conservé après échec.
+Le niveau d’amélioration change en cas de réussite, **pas la rareté** ; garder
+la couleur correspondante dans les badges et la source SVG.
 
 ```html
 <p><strong>Rune :</strong> {{nom}} <span class="lit-badge {{modificateur_grade_rune}}">{{grade_et_couleur}}</span>, {{rang}}★</p>

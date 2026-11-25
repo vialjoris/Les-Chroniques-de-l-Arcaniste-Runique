@@ -2649,7 +2649,22 @@ Orven leva les yeux.
 
 — Qu'y a-t-il ?
 
-Hasol prit délicatement une rune blanche.
+Hasol prit délicatement une rune Énergie commune (blanche), 1★, +0.
+
+<div class="rune-window white-grade lit-window" data-window-id="L2-C2-R01" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-R01-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-R01.svg" alt="Fenêtre du système — RUNE EXAMINÉE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">RUNE EXAMINÉE</div>
+  <h3>Énergie commune (blanche), 1★</h3>
+  <p>Amélioration : <span class="upgrade-badge">+0</span></p>
+  <p>Caractéristique principale : <span class="rune-bonus">PV +40</span></p>
+  <p>Caractéristiques secondaires présentes : aucune.</p>
+  </details>
+</div>
 
 — Celle-ci n'est pas une rune poubelle.
 
@@ -2743,7 +2758,7 @@ Orven éclata d'un rire incrédule.
 
 — Bien davantage !
 
-L'artisan récupéra une rune Énergie commune (blanche), 1★, +0, de faible valeur.
+L'artisan récupéra une rune Énergie commune (blanche), 1★, +0, de faible valeur : principale Résistance +1 %, aucune caractéristique secondaire présente.
 
 — Regarde celle-ci.
 
@@ -2817,7 +2832,7 @@ Orven examina immédiatement les informations.
 
 Son souffle se coupa.
 
-<div class="rune-window green-grade lit-window" data-window-id="L2-C2-F01" data-window-type="amelioration">
+<div class="rune-window white-grade lit-window" data-window-id="L2-C2-F01" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F01-mobile.svg">
     <img src="assets/fenetres-livre-2/L2-C2-F01.svg" alt="Fenêtre du système — RUNE AMÉLIORÉE">
@@ -2826,7 +2841,7 @@ Son souffle se coupa.
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header">RUNE AMÉLIORÉE</div>
   <h3>Rune Énergie</h3>
-  <p>Grade actuel : <span class="lit-badge lit-badge--rune-uncommon">Peu commun (Vert)</span></p>
+  <p>Grade actuel : <span class="lit-badge lit-badge--rune-common">Commun (Blanc)</span></p>
   <p>Grade natif : <span class="lit-badge lit-badge--rune-common">Commun (Blanc)</span></p>
   <p>Rang : 1★</p>
   <p>Amélioration : <span class="upgrade-badge">+3</span></p>
@@ -2858,7 +2873,22 @@ Il récupéra une seconde pierre.
 
 — Nous allons recommencer.
 
-La deuxième expérience fut réalisée sur une rune verte.
+La deuxième expérience fut réalisée sur une rune Gardien peu commune (verte), 1★, +0.
+
+<div class="rune-window green-grade lit-window" data-window-id="L2-C2-R02" data-window-type="rune">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-R02-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-R02.svg" alt="Fenêtre du système — SECONDE EXPÉRIENCE — ÉTAT INITIAL">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">SECONDE EXPÉRIENCE — ÉTAT INITIAL</div>
+  <h3>Gardien peu commune (verte), 1★</h3>
+  <p>Amélioration : <span class="upgrade-badge">+0</span></p>
+  <p>Caractéristique principale : <span class="rune-bonus">Défense +3</span></p>
+  <p>Caractéristique secondaire présente : <span class="rune-bonus">PV +10</span></p>
+  </details>
+</div>
 
 Cette fois, la pierre possédait déjà une caractéristique secondaire.
 
@@ -2887,6 +2917,21 @@ Il reprit les améliorations.
 Lorsque le palier attendu fut atteint, une nouvelle caractéristique apparut.
 
 Celle annoncée par Hasol.
+
+<div class="rune-window green-grade lit-window" data-window-id="L2-C2-R03" data-window-type="amelioration">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-R03-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-R03.svg" alt="Fenêtre du système — SECONDE EXPÉRIENCE — PALIER ATTEINT">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">SECONDE EXPÉRIENCE — PALIER ATTEINT</div>
+  <h3>Gardien peu commune (verte), 1★</h3>
+  <p>Amélioration : <span class="upgrade-badge">+6</span></p>
+  <p>Caractéristique principale : <span class="rune-bonus">Défense +9</span></p>
+  <p>Caractéristiques secondaires présentes : <span class="rune-bonus">PV +20</span> ; <strong><span class="rune-bonus">Vitesse +1</span></strong>.</p>
+  </details>
+</div>
 
 Une seconde fois.
 
@@ -3420,6 +3465,31 @@ Avec sept cercles, elle portait déjà sept runes, choisies avec Orven et Ray : 
 
 Avec eux, elle avait aussi préparé une seconde Énergie, gardée en réserve pour équiper son prochain emplacement dès l'obtention d'un nouveau cercle.
 
+<div class="character-sheet lit-window" data-window-id="L2-C2-R04" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-R04-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-R04.svg" alt="Fenêtre du système — ÉQUIPEMENT — SEPT CERCLES">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">ÉQUIPEMENT — SEPT CERCLES</div>
+  <p>Sept runes équipées, une rune en réserve.</p>
+  <table>
+    <thead><tr><th scope="col">Rune et état</th><th scope="col">Caractéristiques présentes</th></tr></thead>
+    <tbody>
+      <tr data-rune-id="L2-HAS-R001"><td>Fatal rare (bleue), 6★, <span class="upgrade-badge">+6</span> — équipée, cadeau paternel</td><td>Principale : <span class="rune-bonus">Attaque +70</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PV +25</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R002"><td>Gardien rare (bleue), 6★, <span class="upgrade-badge">+6</span> — équipée, cadeau paternel</td><td>Principale : <span class="rune-bonus">Défense +70</span>. Secondaires : <span class="rune-bonus">PV +30 ; Mana +20</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R003"><td>Fatal rare (bleue), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Attaque +22</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PV +30</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R004"><td>Fatal peu commune (verte), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Attaque +22</span>. Secondaire : <span class="rune-bonus">Défense +6</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R005"><td>Fatal peu commune (verte), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Vitesse +6</span>. Secondaire : <span class="rune-bonus">Attaque +6</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R006"><td>Gardien rare (bleue), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">PV +244</span>. Secondaires : <span class="rune-bonus">Défense +6 ; Résistance +3 %</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R007"><td>Énergie rare (bleue), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">PV +244</span>. Secondaires : <span class="rune-bonus">Défense +6 ; Résistance +3 %</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R008"><td>Énergie peu commune (verte), 3★, <span class="upgrade-badge">+3</span> — en réserve</td><td>Principale : <span class="rune-bonus">Défense +22</span>. Secondaire : <span class="rune-bonus">PV +50</span>.</td></tr>
+    </tbody>
+  </table>
+  </details>
+</div>
+
 Un jour, au terme d'une nouvelle chasse, son compteur franchit encore un palier.
 
 Une notification apparut.
@@ -3683,6 +3753,31 @@ Elle releva brusquement la tête.
 — Deux ensembles complets ?
 
 — Oui, répondit le directeur.
+
+<div class="rune-window lit-window" data-window-id="L2-C2-R05" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-R05-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-R05.svg" alt="Fenêtre du système — HUIT RUNES VOL DE VIE — REMISE">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header lit-window__header">HUIT RUNES VOL DE VIE — REMISE</div>
+  <p>Deux ensembles de quatre pièces, pas encore équipés.</p>
+  <table>
+    <thead><tr><th scope="col">Rune reçue</th><th scope="col">Caractéristiques présentes</th></tr></thead>
+    <tbody>
+      <tr data-rune-id="L2-HAS-R009"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 1</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PA +60</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R010"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 2</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PA +60</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R011"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 3</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Attaque +8 % ; Vitesse +4</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R012"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 4</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Attaque +8 % ; Vitesse +4</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R013"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 5</td><td>Principale : <span class="rune-bonus">Vitesse +12</span>. Secondaires : <span class="rune-bonus">Attaque +8 % ; PA +60</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R014"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 6</td><td>Principale : <span class="rune-bonus">Vitesse +12</span>. Secondaires : <span class="rune-bonus">Attaque +8 % ; PA +60</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R015"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 7</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">PA +60 ; Vitesse +4</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R016"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 8</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; Attaque +8 %</span>.</td></tr>
+    </tbody>
+  </table>
+  </details>
+</div>
 
 La jeune Astrale resta bouche bée.
 
