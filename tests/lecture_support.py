@@ -199,6 +199,7 @@ def historical_prefix(source, reference):
 
 def before_approved_rune_corrections(source):
     """Inverser les deux journaux DEC-179 du I, sans exemption de contenu."""
+    source = before_invisible_rune_ids_and_dec181(source)
     fixtures = Path(__file__).parent / "fixtures"
     stages = [json.loads((fixtures / name).read_text(encoding="utf-8")) for name in (
         "corrections_runes_livre1_dec179.json",
@@ -218,6 +219,63 @@ def before_approved_rune_corrections(source):
             source = source[:start] + pair["before"] + source[end:]
         if digest(source) != stage["baseline_sha256"]:
             raise ValueError("Baseline DEC-179 non restaurée exactement")
+    return source
+
+
+def before_invisible_rune_ids_and_dec181(source):
+    """Restaurer les formes pré-DEC-181 avant d'appliquer les journaux historiques.
+
+    Cette inversion est volontairement fermée : elle ne normalise que l'insécabilité,
+    le déplacement des identifiants vers ``data-rune-id`` et les corrections métier
+    explicitement autorisées sur le livre I.
+    """
+    source = source.replace("&nbsp;", " ")
+    source = re.sub(
+        r'<tr data-rune-id="([^"]+)"><th scope="row">',
+        r'<tr><th scope="row">\1 · ', source,
+    )
+    source = re.sub(
+        r'<h3 data-rune-id="([^"]+)">',
+        r'<h3>\1 — ', source,
+    )
+
+    def restore_paragraph(match):
+        identifier, body = match.groups()
+        strong = re.match(r"<strong>([^<]+)</strong>(.*)", body, re.S)
+        if strong:
+            return f"<p><strong>{identifier} — {strong[1]}</strong>{strong[2]}</p>"
+        return f"<p><strong>{identifier} :</strong> {body}</p>"
+
+    source = re.sub(
+        r'<p data-rune-id="([^"]+)">(.*?)</p>', restore_paragraph, source,
+    )
+
+    approved = (
+        ("L’Éclaireuse", "La Ranger"),
+        ("l’Éclaireuse", "la Ranger"),
+        ("Éclaireuse", "Ranger"),
+        ("Tempête runique", "Tempête arcanique"),
+        (
+            "  <p>Dégâts : <strong>120 % de la Puissance arcanique</strong>.</p>\n"
+            "  <p>Mana récupéré : <strong>75 % des dégâts infligés</strong>, dans la limite de <strong>1 200 Mana</strong>.</p>\n"
+            "  <p>Rayon : <strong>8 mètres</strong>.</p>\n"
+            "  <p>Coût : <strong>100 Mana</strong>.</p>\n"
+            "  <p>Temps de recharge : <strong>20 secondes</strong>.</p>",
+            "  <p>Déploie une tempête de Vent imprégnée d&#x27;inscriptions runiques. Les ennemis atteints subissent des dégâts magiques déterminés par la Puissance arcanique effective du lanceur.</p>\n"
+            "  <p>Le sort absorbe une partie du Mana disponible chez les cibles touchées et le transfère au lanceur, dans la limite de sa réserve maximale et de la capacité d&#x27;absorption de la compétence.</p>\n"
+            "  <p>Temps de recharge</p>\n  <p>Oui</p>",
+        ),
+        (
+            "Hasol sentit aussitôt du Mana affluer dans ses cercles, restitué en proportion des dégâts qu'elle venait d'infliger.",
+            "Hasol sentit aussitôt quelque chose revenir vers elle.\n\nUn courant invisible.\n\nUne énergie qui ne provenait pas de ses propres réserves.\n\nLe Mana des démons.\n\nIl afflua dans ses cercles.",
+        ),
+        (
+            "La compétence lui avait rendu du Mana, sans dépasser son plafond propre.",
+            "Une partie de ce qu'elle venait de dépenser lui avait été restituée.",
+        ),
+    )
+    for after, before in approved:
+        source = source.replace(after, before)
     return source
 
 

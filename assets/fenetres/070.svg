@@ -6,17 +6,13 @@
 <text x="148.24" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="153.64" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="104.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ATTEINT</text>
 <path d="M28 77.6h624" stroke="#D8BF8F"/>
-<text x="28.00" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="89.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">HAS-R009</text>
-<text x="117.64" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="121.96" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="126.28" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="130.60" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
-<text x="195.40" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="199.72" y="95.60" width="112.44" height="27" rx="13.5" fill="#edf4fc" stroke="#b6cce5"/>
-<text x="205.72" y="114.60" font-size="18" font-weight="700" fill="#175b9b" textLength="100.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rare (bleue)</text>
-<text x="312.16" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
-<text x="316.48" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="320.80" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="24.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3★.</text>
+<text x="28.00" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
+<text x="92.80" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="97.12" y="95.60" width="112.44" height="27" rx="13.5" fill="#edf4fc" stroke="#b6cce5"/>
+<text x="103.12" y="114.60" font-size="18" font-weight="700" fill="#175b9b" textLength="100.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rare (bleue)</text>
+<text x="209.56" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
+<text x="213.88" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="218.20" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="24.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3★.</text>
 <text x="28.00" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="111.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Amélioration</text>
 <text x="139.24" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="143.56" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
@@ -67,8 +63,8 @@
 <text x="571.24" y="227.70" font-size="18" font-weight="400" fill="#175b9b" textLength="15.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">%</text>
 <text x="586.36" y="227.70" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="590.68" y="227.70" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">;</text>
-<text x="595.00" y="227.70" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="599.32" y="227.70" font-size="18" font-weight="700" fill="#175b9b" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mana</text>
-<text x="28.00" y="257.40" font-size="18" font-weight="700" fill="#175b9b" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+10</text>
-<text x="60.40" y="257.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
+<text x="28.00" y="257.40" font-size="18" font-weight="700" fill="#175b9b" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mana</text>
+<text x="77.68" y="257.40" font-size="18" font-weight="700" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="82.00" y="257.40" font-size="18" font-weight="700" fill="#175b9b" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+10</text>
+<text x="114.40" y="257.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
 </svg>

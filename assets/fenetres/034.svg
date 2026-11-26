@@ -45,17 +45,13 @@
 <text x="150.04" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <rect x="154.36" y="217.00" width="247.44" height="27" rx="13.5" fill="#FFFFFF" stroke="#c8c8c8"/>
 <text x="160.36" y="236.00" font-size="18" font-weight="700" fill="#505050" textLength="235.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Commun — Blanc, inchangé</text>
-<text x="28.00" y="273.70" font-size="18" font-weight="700" fill="#242424" textLength="88.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ORV-R001</text>
-<text x="116.56" y="273.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="120.88" y="273.70" font-size="18" font-weight="700" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="130.60" y="273.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="134.92" y="273.70" font-size="18" font-weight="700" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Principale</text>
-<text x="221.32" y="273.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="225.64" y="273.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="229.96" y="273.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="234.28" y="273.70" font-size="18" font-weight="400" fill="#175b9b" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PV</text>
-<text x="258.04" y="273.70" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="262.36" y="273.70" font-size="18" font-weight="400" fill="#175b9b" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+160</text>
+<text x="28.00" y="273.70" font-size="18" font-weight="700" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Principale</text>
+<text x="114.40" y="273.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="118.72" y="273.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="123.04" y="273.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="127.36" y="273.70" font-size="18" font-weight="400" fill="#175b9b" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PV</text>
+<text x="151.12" y="273.70" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="155.44" y="273.70" font-size="18" font-weight="400" fill="#175b9b" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+160</text>
 <text x="28.00" y="311.40" font-size="18" font-weight="700" fill="#242424" textLength="76.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Première</text>
 <text x="104.68" y="311.40" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="109.00" y="311.40" font-size="18" font-weight="700" fill="#242424" textLength="98.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">secondaire</text>

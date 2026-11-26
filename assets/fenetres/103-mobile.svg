@@ -3,7 +3,6 @@
 <rect x="1" y="1" width="314" height="283" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="131.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">NOUVELLE</text>
-<text x="187.76" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="170.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">COMPÉTENCE</text>
 <path d="M20 109.19999999999999h280" stroke="#D8BF8F"/>
 <text x="20.00" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="42.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nom</text>

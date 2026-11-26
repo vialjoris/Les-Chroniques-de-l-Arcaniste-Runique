@@ -10,23 +10,18 @@
 <text x="355.60" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="361.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="102.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ÉNERGIE</text>
 <path d="M28 77.6h624" stroke="#D8BF8F"/>
-<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="91.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CLI-R003</text>
-<text x="119.80" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="124.12" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="134.92" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="139.24" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
-<text x="210.52" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="214.84" y="100.60" width="205.32" height="29" rx="14.5" fill="#FFFFFF" stroke="#c8c8c8"/>
-<text x="220.84" y="121.60" font-size="20" font-weight="700" fill="#505050" textLength="193.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">commune (blanche)</text>
-<text x="420.16" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
-<text x="424.48" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="428.80" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2★</text>
+<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
+<text x="99.28" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="103.60" y="100.60" width="205.32" height="29" rx="14.5" fill="#FFFFFF" stroke="#c8c8c8"/>
+<text x="109.60" y="121.60" font-size="20" font-weight="700" fill="#505050" textLength="193.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">commune (blanche)</text>
+<text x="308.92" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
+<text x="313.24" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="317.56" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2★</text>
 <text x="28.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="35.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">État</text>
 <text x="63.64" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="67.96" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="79.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">consigné</text>
 <text x="236.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Principale</text>
 <text x="444.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="110.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Secondaires</text>
-<text x="554.16" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="444.00" y="190.30" font-size="18" font-weight="700" fill="#242424" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">présentes</text>
 <path d="M28 208.99999999999997h624" stroke="#D8BF8F"/>
 <text x="28.00" y="240.00" font-size="18" font-weight="700" fill="#242424" textLength="47.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Initial</text>
@@ -39,11 +34,10 @@
 <text x="444.00" y="240.00" font-size="18" font-weight="400" fill="#242424" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Aucune</text>
 <path d="M28 258.69999999999993h624" stroke="#D8BF8F"/>
 <text x="28.00" y="289.70" font-size="18" font-weight="700" fill="#242424" textLength="102.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Commande</text>
-<text x="130.60" y="289.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="134.92" y="289.70" font-size="18" font-weight="700" fill="#242424" textLength="73.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">achevée</text>
-<text x="208.36" y="289.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="28.00" y="300.40" width="33.60" height="27" rx="13.5" fill="#edf4fc" stroke="#b6cce5"/>
-<text x="34.00" y="319.40" font-size="18" font-weight="700" fill="#175b9b" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+3</text>
+<text x="28.00" y="319.40" font-size="18" font-weight="700" fill="#242424" textLength="73.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">achevée</text>
+<text x="101.44" y="319.40" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="105.76" y="300.40" width="33.60" height="27" rx="13.5" fill="#edf4fc" stroke="#b6cce5"/>
+<text x="111.76" y="319.40" font-size="18" font-weight="700" fill="#175b9b" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+3</text>
 <text x="236.00" y="289.70" font-size="18" font-weight="400" fill="#175b9b" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PV</text>
 <text x="259.76" y="289.70" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="264.08" y="289.70" font-size="18" font-weight="400" fill="#175b9b" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+160</text>

@@ -3,7 +3,6 @@
 <rect x="1" y="1" width="314" height="359" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="170.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">COMPÉTENCE</text>
-<text x="226.64" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="136.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">AMÉLIORÉE</text>
 <path d="M20 109.19999999999999h280" stroke="#D8BF8F"/>
 <text x="20.00" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="20.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Œil</text>
@@ -24,7 +23,6 @@
 <text x="143.12" y="229.90" font-size="18" font-weight="400" fill="#242424" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Détection</text>
 <text x="230.60" y="229.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="234.92" y="229.90" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
-<text x="267.32" y="229.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="259.60" font-size="18" font-weight="400" fill="#242424" textLength="62.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">pièges.</text>
 <text x="20.00" y="297.30" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Les</text>
 <text x="52.40" y="297.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
@@ -37,7 +35,6 @@
 <text x="207.92" y="297.30" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
 <text x="240.32" y="297.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="244.64" y="297.30" font-size="18" font-weight="400" fill="#242424" textLength="48.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runes</text>
-<text x="293.24" y="297.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="327.00" font-size="18" font-weight="400" fill="#242424" textLength="39.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">sont</text>
 <text x="59.96" y="327.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="64.28" y="327.00" font-size="18" font-weight="400" fill="#242424" textLength="93.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">conservés.</text>

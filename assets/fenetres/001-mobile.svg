@@ -5,11 +5,9 @@
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="111.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">SYSTÈME</text>
 <text x="167.24" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="172.64" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="12.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="185.60" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="150.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RÉVÉLATION</text>
 <text x="206.12" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="211.52" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="33.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">DE</text>
-<text x="245.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="124.20" font-size="24" font-weight="700" fill="#A17B35" textLength="95.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CLASSE</text>
 <path d="M20 148.79999999999998h280" stroke="#D8BF8F"/>
 <text x="20.00" y="192.80" font-size="20" font-weight="700" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Hasol</text>
@@ -22,7 +20,6 @@
 <text x="151.76" y="231.80" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
 <text x="156.08" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="160.40" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="84.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Arcaniste</text>
-<text x="244.64" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="261.50" font-size="18" font-weight="400" fill="#242424" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
 <text x="20.00" y="299.20" font-size="18" font-weight="700" fill="#242424" textLength="99.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Orientation</text>
 <text x="119.36" y="299.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
@@ -78,7 +75,6 @@
 <text x="145.28" y="609.10" font-size="18" font-weight="400" fill="#242424" textLength="104.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">probabilités</text>
 <text x="250.04" y="609.10" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="254.36" y="609.10" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
-<text x="277.04" y="609.10" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="638.80" font-size="18" font-weight="400" fill="#242424" textLength="69.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">réussite</text>
 <text x="89.12" y="638.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="93.44" y="638.80" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">lors</text>
@@ -86,7 +82,6 @@
 <text x="130.16" y="638.80" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
 <text x="152.84" y="638.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="157.16" y="638.80" font-size="18" font-weight="400" fill="#242424" textLength="117.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">l’amélioration</text>
-<text x="274.88" y="638.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="668.50" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
 <text x="52.40" y="668.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.72" y="668.50" font-size="18" font-weight="400" fill="#242424" textLength="52.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runes.</text>

@@ -3,9 +3,7 @@
 <rect x="1" y="1" width="314" height="420" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></g>
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="149.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">FORMATION</text>
-<text x="205.04" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="111.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">D’ÉQUIPE</text>
-<text x="167.24" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="124.20" font-size="24" font-weight="700" fill="#A17B35" textLength="143.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CONFIRMÉE</text>
 <path d="M20 148.79999999999998h280" stroke="#D8BF8F"/>
 <text x="20.00" y="185.80" font-size="18" font-weight="700" fill="#242424" textLength="83.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Membres</text>
@@ -23,7 +21,6 @@
 <text x="170.12" y="185.80" font-size="18" font-weight="700" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Points</text>
 <text x="226.28" y="185.80" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="230.60" y="185.80" font-size="18" font-weight="700" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
-<text x="253.28" y="185.80" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="215.50" font-size="18" font-weight="700" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">classe</text>
 <text x="76.16" y="215.50" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="80.48" y="215.50" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
@@ -59,7 +56,6 @@
 <text x="144.20" y="320.60" font-size="18" font-weight="400" fill="#242424" textLength="45.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Sage</text>
 <text x="189.56" y="320.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="193.88" y="320.60" font-size="18" font-weight="400" fill="#242424" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique,</text>
-<text x="264.08" y="320.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <rect x="20.00" y="331.30" width="51.96" height="27" rx="13.5" fill="#edf4fc" stroke="#b6cce5"/>
 <text x="26.00" y="350.30" font-size="18" font-weight="700" fill="#175b9b" textLength="39.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rare</text>
 <text x="71.96" y="350.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>

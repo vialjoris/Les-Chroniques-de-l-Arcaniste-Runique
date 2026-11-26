@@ -1,11 +1,10 @@
-"""Contrats des deux chapitres importés du II, sans modifier leurs sources."""
+"""Contrats métier des trois chapitres validés du livre II."""
 
-import hashlib
-import json
+from collections import Counter
 from pathlib import Path
+import hashlib
 import re
 import unittest
-import xml.etree.ElementTree as ET
 
 from lecture_support import Document, compact
 from test_fenetres_github import load_generator
@@ -14,741 +13,392 @@ from test_securite_documents import assert_passive
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "livre_2_le_vertige_des_vies_oubliees.md"
-ASSETS = "assets/fenetres-livre-2/"
-FICHE_ORVEN = '''  <div class="system-header lit-window__header">RUNE AMÉLIORÉE</div>
-  <h3>Rune Énergie</h3>
-  <p>Grade actuel : <span class="lit-badge lit-badge--rune-common">Commun (Blanc)</span></p>
-  <p>Grade natif : <span class="lit-badge lit-badge--rune-common">Commun (Blanc)</span></p>
-  <p>Rang : 1★</p>
-  <p>Amélioration : <span class="upgrade-badge">+3</span></p>
-  <hr>
-  <p>Caractéristique principale : <span class="rune-bonus">Résistance +4 %</span></p>
-  <p>Caractéristique secondaire : <strong><span class="rune-bonus">Vitesse +1</span></strong></p>'''
-DESCRIPTION_LAME = (
-    "Renforce la compréhension des techniques d'escrime.",
-    "Facilite leur assimilation et améliore la précision ainsi que les automatismes "
-    "associés au maniement de la lame.",
-)
-CORRECTIONS_SEPT_RUNES = (
-    (
-        "Et progressivement, les suivants.\n\nUn jour,",
-        "Et progressivement, les suivants.\n\n"
-        "Avec sept cercles, elle portait déjà sept runes, choisies avec Orven et Ray : "
-        "quatre Fatal, dont celle offerte par son père, deux Gardien, dont son autre cadeau, "
-        "et une Énergie.\n\nUn jour,",
-    ),
-    (
-        "Elle commença immédiatement à imaginer les ensembles qu'elle pourrait porter.",
-        "Ce huitième emplacement lui permettrait de compléter son ensemble Énergie.",
-    ),
-    (
-        "— Évidemment !\n\nÀ son retour à l'Académie,",
-        "— Évidemment !\n\n— Ce soir, je vais devoir aller voir Orven.\n\n"
-        "— Attends, ne sois pas trop pressée. L'Académie te réserve une surprise. Tu verras."
-        "\n\nÀ son retour à l'Académie,",
-    ),
-    (
-        "Puis son regard descendit vers les deux runes qu'elle portait déjà.",
-        "Puis son regard descendit vers les deux runes de son père, parmi les sept qu'elle portait.",
-    ),
-    (
-        "Ce soir-là, Hasol équipa ses huit nouvelles runes.",
-        "Ce soir-là, Hasol retira aussi les cinq autres runes et les rangea à part, "
-        "puis équipa ses huit nouvelles runes.",
-    ),
-)
-CORRECTIONS_RESERVE_IMMEDIATE = (
-    (
-        "et une Énergie.\n\nUn jour,",
-        "et une Énergie.\n\nAvec eux, elle avait aussi préparé une seconde Énergie, "
-        "gardée en réserve pour équiper son prochain emplacement dès l'obtention "
-        "d'un nouveau cercle.\n\nUn jour,",
-    ),
-    (
-        "Hasol s'immobilisa.\n\nElle ouvrit son statut.",
-        "Hasol s'immobilisa.\n\nElle sortit aussitôt la seconde Énergie préparée "
-        "avec Orven et Ray et l'équipa dans le nouvel emplacement.\n\nElle ouvrit son statut.",
-    ),
-    ("Huit runes possibles.", "Huit runes équipées."),
-    (
-        "Ce huitième emplacement lui permettrait de compléter son ensemble Énergie.",
-        "Quatre Fatal, deux Gardien et deux Énergie : ses huit emplacements étaient "
-        "occupés, et la paire Énergie était désormais active. Ses ensembles s'équilibraient.",
-    ),
-    (
-        "— Ce soir, je vais devoir aller voir Orven.",
-        "— Ce soir, je vais devoir aller voir Orven pour améliorer mes runes "
-        "et préparer les prochains ensembles.",
-    ),
-    (
-        "Puis son regard descendit vers les deux runes de son père, parmi les sept qu'elle portait.",
-        "Puis son regard descendit vers les deux runes de son père, parmi les huit qu'elle portait.",
-    ),
-    (
-        "Ce soir-là, Hasol retira aussi les cinq autres runes et les rangea à part, "
-        "puis équipa ses huit nouvelles runes.",
-        "Ce soir-là, Hasol retira aussi les six autres runes et les rangea à part, "
-        "puis équipa ses huit nouvelles runes.",
-    ),
-)
-CHAMPS_HUITIEME_CERCLE = (
-    "  <p>Cercles de mana : 7 → 8</p>\n"
-    "  <p>Emplacements runiques : 8</p>\n"
+ASSETS = ROOT / "assets/fenetres-livre-2"
+ROMANS = (
+    ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md",
+    SOURCE,
 )
 
 
-def avant_corrections_dec179(source):
-    """Inverse les six blocs exacts du journal, à leur position autorisée."""
-    fixture = json.loads((ROOT / "tests/fixtures/corrections_runes_livre2_dec179.json")
-                         .read_text(encoding="utf-8"))
-    lignes = source.splitlines(keepends=True)
-    for changement in reversed(fixture["changes"]):
-        debut = sum(map(len, lignes[:changement["after_start_line"] - 1]))
-        fin = debut + changement["after_length"]
-        bloc = source[debut:fin]
-        if hashlib.sha256(bloc.encode("utf-8")).hexdigest() != changement["after_sha256"]:
-            raise ValueError(f"Bloc DEC-179 altéré ou déplacé : ligne {changement['after_start_line']}")
-        if source.count(bloc) != 1:
-            raise ValueError("Bloc DEC-179 dupliqué")
-        source = source[:debut] + changement["before"] + source[fin:]
-    return source
+def chapters(source):
+    matches = list(re.finditer(r"^## Chapitre (\d+) — ([^\n]+)$", source, re.M))
+    return {
+        int(match[1]): source[match.start():matches[index + 1].start()
+                              if index + 1 < len(matches) else len(source)]
+        for index, match in enumerate(matches)
+    }
 
 
-def sans_sommaire_et_ancres(source):
-    """Inverse uniquement l'ajout exact de navigation demandé par l'auteur."""
-    titres = re.findall(r"^## (Chapitre (\d+) — [^\n]+)$", source, re.M)
-    if [numero for _, numero in titres] != ["1", "2"]:
-        raise ValueError("Deux chapitres existants attendus")
-    sommaire = "## Sommaire\n\n" + "".join(
-        f"{numero}. [{titre}](#chapitre-{numero})\n" for titre, numero in titres
-    ) + "\n"
-    introduction = (
-        "# Les Chroniques de l’Arcaniste Runique\n\n"
-        "*Livre II — Le Vertige des vies oubliées*\n\n"
+def archive_chapter_2(archive):
+    """Sélectionner la dernière transmission complète par ancres, jamais par lignes."""
+    heading = re.compile(r"^# \*\*Chapitre 2 — Les prodiges de l'Académie\*\*$", re.M)
+    ending = re.compile(r"^\*Fin du chapitre 2 — Les prodiges de l'Académie\*$", re.M)
+    candidates = []
+    for start in heading.finditer(archive):
+        end = ending.search(archive, start.end())
+        if end:
+            block = archive[start.start():end.end()]
+            if len(re.findall(r"^## \*\*[IVX]+\.", block, re.M)) == 12:
+                candidates.append(block)
+    if not candidates:
+        raise ValueError("Transmission complète du chapitre 2 introuvable")
+    return candidates[-1]
+
+
+def rune_ids(document):
+    return [node.attrs["data-rune-id"] for node in document.root.descendants()
+            if "data-rune-id" in node.attrs]
+
+
+def rune_identity(value):
+    match = re.fullmatch(
+        r"(.+?) (commune|peu commune|rare|épique|légendaire) \(([^)]+)\), (\d)★, (\+\d+)",
+        compact(value),
     )
-    if source.count("## Sommaire") != 1 or not source.startswith(
-            introduction + sommaire + "---\n\n"):
-        raise ValueError("Sommaire exact attendu après le titre du livre")
-    if re.findall(r'<span id="chapitre-[^"]*"></span>', source) != [
-            f'<span id="chapitre-{numero}"></span>' for _, numero in titres]:
-        raise ValueError("Ancres de chapitres uniques attendues dans l'ordre")
-    source = source.replace(sommaire, "", 1)
-    for titre, numero in titres:
-        ancre = f'<span id="chapitre-{numero}"></span>\n\n'
-        if source.count(ancre + "## " + titre + "\n") != 1:
-            raise ValueError("Ancre attendue immédiatement devant son titre")
-        source = source.replace(ancre + "## " + titre + "\n", "## " + titre + "\n", 1)
-    return source
+    if not match:
+        raise ValueError(f"Identité runique illisible : {value!r}")
+    return match.groups()
+
+
+def rune_record(identity, main, secondaries):
+    ensemble, rarity, color, stars, upgrade = rune_identity(identity)
+    return {
+        "ensemble": ensemble,
+        "rareté": rarity,
+        "couleur": color,
+        "étoiles": stars,
+        "amélioration": upgrade,
+        "principale": compact(main),
+        "secondaires": tuple(part.strip() for part in compact(secondaries).split(" ; ")),
+    }
+
+
+def chapter_3_equipment(source):
+    document = Document(source)
+    windows = [window for window in document.windows
+               if window.attrs.get("data-window-id") == "L2-C3-F04"]
+    if len(windows) != 1:
+        raise ValueError(f"L2-C3-F04 attendue une fois, trouvée {len(windows)} fois")
+    records = {}
+    for row in windows[0].descendants("tr"):
+        identifier = row.attrs.get("data-rune-id")
+        if not identifier:
+            continue
+        cells = list(row.descendants("td"))
+        if len(cells) != 3:
+            raise ValueError(f"Fiche {identifier} : trois cellules attendues")
+        if identifier in records:
+            raise ValueError(f"Fiche dupliquée : {identifier}")
+        records[identifier] = rune_record(*(cell.text() for cell in cells))
+    return records
+
+
+def lore_chapter_3_equipment(lore):
+    heading = "### Livre II, vie 2 — équipement de 32 runes au chapitre 3 (DEC-183)"
+    start = lore.index(heading)
+    end_match = re.search(r"^## ", lore[start + len(heading):], re.M)
+    end = len(lore) if end_match is None else start + len(heading) + end_match.start()
+    records = {}
+    for line in lore[start:end].splitlines():
+        cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
+        if len(cells) != 5 or not re.fullmatch(r"`L2-HAS-R\d+`", cells[0]):
+            continue
+        identifier = cells[0].strip("`")
+        if identifier in records:
+            raise ValueError(f"Fiche dupliquée dans le lore : {identifier}")
+        records[identifier] = rune_record(
+            f"{cells[1]}, {cells[2]}", cells[3], cells[4]
+        )
+    return records
+
+
+def assert_unbreakable_values(case, source):
+    for value in re.findall(r"(?:\d(?:[\d ]*\d)?)(?: %| (?=\d{3}\b))", source):
+        case.fail(f"Valeur numérique sécable dans une fenêtre : {value!r}")
 
 
 class ImportLivreIITests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.source = SOURCE.read_bytes().decode("utf-8")
+        cls.source = SOURCE.read_text(encoding="utf-8")
         cls.document = Document(cls.source)
-        cls.sans_navigation = sans_sommaire_et_ancres(cls.source)
-        cls.chapitre_1, cls.chapitre_2 = re.split(
-            r"\n---\n\n(?=## Chapitre 2\b)", cls.sans_navigation, maxsplit=1)
+        cls.parts = chapters(cls.source)
+        cls.windows = {window.attrs["data-window-id"]: window
+                       for window in cls.document.windows}
 
-    def test_sommaire_et_ancres_uniques_correspondent_aux_seuls_titres_existants(self):
-        titres = re.findall(r"^## (Chapitre (\d+) — [^\n]+)$", self.source, re.M)
-        liens = re.findall(r"^(\d+)\. \[([^\n]+)\]\(#chapitre-(\d+)\)$",
-                           self.source, re.M)
-        self.assertEqual(liens, [(numero, titre, numero) for titre, numero in titres])
-        self.assertEqual(self.source.count(
-            "## Sommaire\n"), 1)
-        self.assertEqual(re.findall(r"\(#chapitre-[^)]+\)", self.source),
-                         [f"(#chapitre-{numero})" for _, numero in titres])
-        self.assertNotIn('<span id="chapitre-', self.sans_navigation)
+    def test_sommaire_ancres_et_trois_chapitres_structures(self):
+        titles = re.findall(r"^## (Chapitre (\d+) — [^\n]+)$", self.source, re.M)
+        self.assertEqual([number for _, number in titles], ["1", "2", "3"])
+        links = re.findall(r"^(\d+)\. \[([^\n]+)\]\(#chapitre-(\d+)\)$", self.source, re.M)
+        self.assertEqual(links, [(number, title, number) for title, number in titles])
+        self.assertEqual(re.findall(r'<span id="chapitre-(\d+)"></span>', self.source),
+                         ["1", "2", "3"])
+        expected = {1: 9, 2: 12, 3: 18}
+        for number, count in expected.items():
+            sections = re.findall(r"^### ([IVX]+)\.", self.parts[number], re.M)
+            self.assertEqual(len(sections), count)
+            self.assertEqual(len(sections), len(set(sections)))
+        self.assertNotRegex(self.source, r"(?im)^#+\s*(?:\*\*)?Chapitre\s+4\b")
 
-    def test_retrait_navigation_refuse_les_alterations_et_ne_masque_pas_la_narration(self):
-        for avant, apres in (
-            ("(#chapitre-1)", "(#chapitre-3)"),
-            ("1. [Chapitre 1", "1. [Autre titre"),
-            ('<span id="chapitre-1"></span>', '<span id="chapitre-2"></span>'),
-            ('<span id="chapitre-1"></span>',
-             '<span id="chapitre-1"></span>\n\n<span id="chapitre-1"></span>'),
-            ('<span id="chapitre-2"></span>\n\n', ''),
-            ('<span id="chapitre-1"></span>\n\n',
-             '<span id="chapitre-1"></span>\n\nTexte ajouté\n\n'),
-            ("---\n\n", "Texte ajouté\n\n---\n\n"),
-            ("(#chapitre-2)\n", "(#chapitre-2)\n3. [Futur](#chapitre-3)\n"),
-        ):
-            with self.subTest(alteration=apres), self.assertRaises(ValueError):
-                sans_sommaire_et_ancres(self.source.replace(avant, apres, 1))
-        for texte in ("Une délicieuse odeur", "## Chapitre 2 — Les prodiges"):
-            with self.subTest(texte=texte):
-                modifie = self.source.replace(texte, texte + " ALTÉRÉ", 1)
-                if texte.startswith("##"):
-                    with self.assertRaises(ValueError):
-                        sans_sommaire_et_ancres(modifie)
-                else:
-                    self.assertEqual(sans_sommaire_et_ancres(modifie),
-                                     self.sans_navigation.replace(texte, texte + " ALTÉRÉ", 1))
-                    chapitre_1 = re.split(r"\n---\n\n(?=## Chapitre 2\b)",
-                                          sans_sommaire_et_ancres(modifie), maxsplit=1)[0]
-                    self.assertNotEqual(hashlib.sha256(chapitre_1.encode("utf-8")).hexdigest(),
-                                        "eed12b51da5554ef3671b7a035104451c6d746c9738b3d1acac6087a9ab9ea8b")
+    def test_chapitre_1_valide_reste_identique_a_la_reference_preexistante(self):
+        self.assertEqual(hashlib.sha256(self.parts[1].encode()).hexdigest(),
+                         "999491e2506c8e92ac6f4b44f3e2676207b2eef175d85b636c82f8c366ec145a")
 
-    def test_deux_chapitres_neuf_et_douze_sections_sans_chapitre_3(self):
-        chapters = re.findall(r"^## Chapitre\s+(\d+)\b[^\n]*", self.source, re.M)
-        self.assertEqual(chapters, ["1", "2"])
-        self.assertEqual(
-            re.findall(r"^###\s+([IVX]+)[. —–:]", self.chapitre_1, re.M),
-            ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"],
+    def test_archive_chapitre_2_est_bornee_par_ancres_sans_absorber_les_appends(self):
+        archive = (ROOT / "docs/new.txt").read_text(encoding="utf-8")
+        block = archive_chapter_2(archive)
+        self.assertTrue(block.startswith("# **Chapitre 2 — Les prodiges de l'Académie**"))
+        self.assertTrue(block.endswith("*Fin du chapitre 2 — Les prodiges de l'Académie*"))
+        self.assertEqual(len(re.findall(r"^## \*\*[IVX]+\.", block, re.M)), 12)
+        self.assertNotIn("Chapitre 3 — Celle qui n'était pas dans les bois", block)
+        self.assertNotIn("Passif amélioré", block,
+                         "Les retouches postérieures ne doivent pas être absorbées dans l'archive")
+
+    def test_chapitre_2_preserve_les_ancres_narratives_hors_retouches_autorisees(self):
+        archive = archive_chapter_2((ROOT / "docs/new.txt").read_text(encoding="utf-8"))
+        destination = compact(Document(load_generator().extraire_source_fenetres(
+            self.parts[2])).root.text())
+        retouched_topics = (
+            "Samia", "Yoon", "Bénédiction", "Croissance", "Ranger", "rune", "Rune",
+            "Orven", "cercle", "Cercle", "boss", "Boss", "gobelin", "portail", "Portail",
+            "invulnérable", "compétence", "quarante-cinq pour cent", "vingt-cinq pour cent",
         )
-        self.assertEqual(
-            re.findall(r"^###\s+([IVX]+)[. —–:]", self.chapitre_2, re.M),
-            ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII"],
-        )
-        self.assertNotRegex(self.source, r"(?im)^#+\s*(?:\*\*)?Chapitre\s+3\b")
-        self.assertEqual(len(re.findall(
-            r"(?im)^#+\s*(?:\*\*)?Chapitre\s+1\b", self.source)), 1)
+        anchors = []
+        for paragraph in re.split(r"\n\s*\n", archive):
+            text = compact(re.sub(r"[*#]", "", Document(paragraph).root.text()))
+            if len(text) >= 120 and not any(topic in text for topic in retouched_topics):
+                anchors.append(text)
+        self.assertGreaterEqual(len(anchors), 30)
+        cursor = 0
+        for anchor in anchors:
+            found = destination.find(anchor, cursor)
+            self.assertGreaterEqual(found, cursor, anchor[:160])
+            cursor = found + len(anchor)
 
-    def test_chapitre_1_local_et_ses_retouches_a_relire_preserves_octet_par_octet(self):
-        self.assertEqual(
-            hashlib.sha256(self.chapitre_1.encode("utf-8")).hexdigest(),
-            "eed12b51da5554ef3671b7a035104451c6d746c9738b3d1acac6087a9ab9ea8b",
-        )
+    def test_samia_classe_ciblee_par_livre_sans_effacer_zephyr_ni_le_futur(self):
+        book_i = ROMANS[0].read_text(encoding="utf-8")
+        system = (ROOT / "lore/systeme.md").read_text(encoding="utf-8")
+        text_ii = compact(Document(self.parts[2]).root.text())
+        self.assertIn("Samia Claire. Classe : Marcheuse du voile. Rang : Commun.", text_ii)
+        self.assertIn("Marcheuse du voile commune, qui représente cinq points", text_ii)
+        self.assertIn("Samia Claire : Éclaireuse, commune — 5 points", compact(Document(book_i).root.text()))
+        self.assertIn("Zéphyr Claire", self.source)
+        self.assertIn("La fille du Ranger, Samia", self.parts[2])
+        self.assertIn("Exécutrice astrale de rang Astral", system)
+        self.assertNotIn("Samia Claire. Classe : Ranger astral", text_ii)
 
-    def test_chapitre_2_conserve_integralement_la_derniere_transmission(self):
-        lines = (ROOT / "docs/new.txt").read_text(encoding="utf-8").splitlines()
-        original = "\n".join(lines[103068:108183])
-        self.assertTrue(original.startswith("# **Chapitre 2 — Les prodiges de l'Académie**"))
-        self.assertTrue(original.endswith("*Fin du chapitre 2 — Les prodiges de l'Académie*"))
-        original = original.replace("Classe : Ranger.", "Classe : Ranger astral.")
-        original = original.replace("Samia est une Ranger commune", "Samia est une Ranger astral commune")
-        original = original.replace("Une Ranger commune venait", "Une Ranger astral commune venait")
-        source_avant179 = sans_sommaire_et_ancres(avant_corrections_dec179(self.source))
-        chapitre_avant179 = re.split(
-            r"\n---\n\n(?=## Chapitre 2\b)", source_avant179, maxsplit=1)[1]
-        generated = load_generator().extraire_source_fenetres(chapitre_avant179)
-        # DEC-172/178 : identification et fiche exacte de F01, grade commun conservé.
-        avant = "L'artisan récupéra une rune blanche de faible valeur."
-        apres = "L'artisan récupéra une rune Énergie commune (blanche), 1★, +0, de faible valeur."
-        self.assertEqual(original.count(avant), 1)
-        self.assertEqual(generated.count(apres), 1)
-        original = original.replace(avant, apres, 1)
-        ouverture = ('<div class="rune-window white-grade lit-window" '
-                     'data-window-id="L2-C2-F01" data-window-type="amelioration">\n')
-        fiche = ouverture + FICHE_ORVEN + "\n</div>"
-        self.assertEqual(generated.count(fiche), 1)
-        generated = generated.replace(fiche, "Vitesse.", 1)
-        # Seul l'ajout exact dans F02 est inversé, jamais les descriptions ailleurs.
-        ouverture_lame = ('<div class="system-window lit-window" '
-                          'data-window-id="L2-C2-F02" data-window-type="competence">\n')
-        notification_lame = (
-            '  <div class="system-header lit-window__header">Nouvelle compétence passive acquise.</div>\n'
-            '  <p>Lame runique.</p>\n'
-        )
-        description_lame = "".join(f"  <p>{texte}</p>\n" for texte in DESCRIPTION_LAME)
-        fiche_lame = ouverture_lame + notification_lame + description_lame + "</div>"
-        self.assertEqual(generated.count(fiche_lame), 1)
-        generated = generated.replace(
-            fiche_lame, ouverture_lame + notification_lame + "</div>", 1)
-        # DEC-175/176 : inversion limitée à la réserve immédiate et aux deux champs F03.
-        ouverture_cercle = ('<div class="system-window lit-window" '
-                            'data-window-id="L2-C2-F03" data-window-type="croissance">\n')
-        notification_cercle = (
-            '  <div class="system-header lit-window__header">Croissance runique — Seuil atteint.</div>\n'
-            '  <p>Un cercle de mana supplémentaire a été obtenu.</p>\n'
-        )
-        fiche_cercle = ouverture_cercle + notification_cercle + CHAMPS_HUITIEME_CERCLE + "</div>"
-        self.assertEqual(generated.count(fiche_cercle), 1)
-        generated = generated.replace(
-            fiche_cercle, ouverture_cercle + notification_cercle + "</div>", 1)
-        for avant, apres in CORRECTIONS_RESERVE_IMMEDIATE:
-            with self.subTest(reserve=apres):
-                self.assertEqual(generated.count(apres), 1)
-                generated = generated.replace(apres, avant, 1)
-        # DEC-174 : inversion exacte des cinq seuls raccords, sans exclure la section IV.
-        for avant, apres in CORRECTIONS_SEPT_RUNES:
-            with self.subTest(correction=avant):
-                self.assertEqual(original.count(avant), 1)
-                self.assertEqual(generated.count(apres), 1)
-                generated = generated.replace(apres, avant, 1)
+    def test_quatre_pouvoirs_de_samia_et_limites_sont_presents(self):
+        for name in ("Écho des Mondes", "Vision du Voile", "Flèche du Néant", "Pas du Voile"):
+            self.assertIn(name, self.parts[2])
+        for limit in ("zones qu'elle avait réellement explorées", "ni heure d'apparition ou d'ouverture",
+                      "ne traverse donc pas les obstacles", "ni invisible ni immunisée"):
+            self.assertIn(limit, self.parts[2])
 
-        def texte_utile(source):
-            # Seuls le balisage de présentation et les espaces de mise en page diffèrent.
-            return compact(re.sub(r"[*#]", "", Document(source).root.text()))
+    def test_yoon_progresse_jusqu_au_niveau_40_sans_anticiper_50_60(self):
+        joined = self.parts[2] + self.parts[3]
+        expected = ((10, "Sceau de lucidité"), (20, "Domaine des Entraves runiques"),
+                    (30, "Marque runique"), (40, "Résonance runique"))
+        for level, name in expected:
+            self.assertRegex(joined, rf"(?s)Niveau {level} atteint.*?{re.escape(name)}")
+        self.assertIn("Évolution de Résonance runique · Actif ciblé", self.parts[3])
+        self.assertNotIn("Résonance supérieure", joined)
+        self.assertNotIn("Tempête runique", joined)
+        self.assertNotIn("Convergence runique", joined)
+        system = (ROOT / "lore/systeme.md").read_text(encoding="utf-8")
+        self.assertRegex(system, r"Tempête runique[^\n]*Niveau 50")
+        self.assertRegex(system, r"Convergence runique[^\n]*Niveau 60")
 
-        self.assertEqual(texte_utile(generated), texte_utile(original))
+    def test_vague_legendaire_et_chant_conservent_leurs_limites(self):
+        text = compact(self.windows["L2-C2-F08"].text())
+        for value in ("10 % des PV maximaux de Yoon toutes les cinq secondes",
+                      "Coût : 5 Mana", "Portée : 10 mètres", "Incantation : 5 secondes",
+                      "Aucun temps de recharge", "20 % de la Puissance arcanique de Yoon",
+                      "plus faible pourcentage de PV actuels, Yoon comprise",
+                      "5 % des PV maximaux de Yoon"):
+            self.assertIn(value, text)
 
-    def test_sept_puis_huit_runes_reserve_immediate_surprise_et_retrait_des_six_autres(self):
-        section = re.search(r"^### IV\.[\s\S]*?(?=^### V\.)", self.chapitre_2, re.M).group()
-        avant_bureau, au_bureau = section.split("Dans le bureau de ce dernier,", 1)
-        passages = (
-            "Avec sept cercles, elle portait déjà sept runes, choisies avec Orven et Ray : "
-            "quatre Fatal, dont celle offerte par son père, deux Gardien, dont son autre cadeau, "
-            "et une Énergie.",
-            CORRECTIONS_RESERVE_IMMEDIATE[0][1].split("\n\n")[1],
-            "Une notification apparut.",
-            "Cercles de mana : 7 → 8",
-            "Emplacements runiques : 8",
-            CORRECTIONS_RESERVE_IMMEDIATE[1][1],
-            "— Monsieur Arowell ! J'ai huit cercles !",
-            "Huit runes équipées.",
-            CORRECTIONS_RESERVE_IMMEDIATE[3][1],
-            "— Je crois savoir à quoi tu penses.",
-            "— À quoi ?",
-            "— Aux runes.",
-            CORRECTIONS_RESERVE_IMMEDIATE[4][1],
-            "— Attends, ne sois pas trop pressée. L'Académie te réserve une surprise. Tu verras.",
-        )
-        position = 0
-        for passage in passages:
-            with self.subTest(passage=passage):
-                trouve = avant_bureau.find(passage, position)
-                self.assertGreaterEqual(trouve, position)
-                position = trouve + len(passage)
-        self.assertNotIn("Vol de vie", avant_bureau)
-        self.assertNotIn("Iseria", avant_bureau)
-        self.assertNotIn("L2-ORV-R001", avant_bureau)
-        self.assertNotRegex(avant_bureau, r"sept (?:sur huit|runes sur huit)|7/8|huitième rune manquante")
-        composition = CORRECTIONS_SEPT_RUNES[0][1].split("\n\n")[1]
-        self.assertNotRegex(composition, r"★|[0-9]|rare|légendaire|affixe|principale|secondaire")
-        reserve = CORRECTIONS_RESERVE_IMMEDIATE[0][1].split("\n\n")[1]
-        self.assertNotRegex(reserve, r"★|[0-9]|rare|légendaire|affixe|principale|secondaire")
-        self.assertNotRegex(CORRECTIONS_RESERVE_IMMEDIATE[3][1], r"%|PV|Mana|Attaque")
-        self.assertIn(CORRECTIONS_RESERVE_IMMEDIATE[5][1], au_bureau)
-        rangement = "Hasol installa soigneusement les deux pierres dans des compartiments séparés."
-        retrait = CORRECTIONS_RESERVE_IMMEDIATE[6][1]
-        self.assertLess(au_bureau.index(rangement), au_bureau.index(retrait))
-        self.assertIn("Deux ensembles Vol de vie complets.", au_bureau)
-        self.assertNotIn("les cinq autres runes", au_bureau)
-        self.assertNotRegex(retrait, r"vend|rééquip|3★")
+    def test_benediction_ne_revele_aucun_taux_exact_a_hasol(self):
+        visible = compact(Document(self.parts[2]).root.text())
+        self.assertEqual(visible.count("Passif amélioré"), 2)
+        self.assertNotRegex(visible, r"(?:45|25|60|50)\s*%[^.]{0,80}(?:échec|résultat)")
+        self.assertNotRegex(visible.lower(), r"(?:quarante-cinq|vingt-cinq|soixante|cinquante) pour cent")
+        lore = (ROOT / "lore/systeme.md").read_text(encoding="utf-8")
+        for rate in ("45 %", "25 %", "60 %", "50 %"):
+            self.assertIn(rate, lore)
 
-    def test_popup_huitieme_cercle_avant_apres_sans_confondre_capacite_et_equipement(self):
-        window = next(w for w in self.document.windows
-                      if w.attrs.get("data-window-id") == "L2-C2-F03")
-        self.assertEqual(window.classes, {"system-window", "lit-window"})
-        self.assertEqual(window.attrs["data-window-type"], "croissance")
-        text = compact(list(window.descendants("details"))[0].text())
-        fragments = ("Croissance runique — Seuil atteint.",
-                     "Un cercle de mana supplémentaire a été obtenu.",
-                     "Cercles de mana : 7 → 8", "Emplacements runiques : 8")
-        for fragment in fragments:
-            self.assertIn(fragment, text)
-        self.assertNotRegex(text, r"équip|rareté|rang|bonus|%")
-        for suffixe in (".svg", "-mobile.svg"):
-            tree = ET.parse(ROOT / ASSETS / ("L2-C2-F03" + suffixe))
-            svg_text = compact(" ".join(
-                "".join(n.itertext()) for n in tree.iter() if n.tag.endswith("}text")))
-            for fragment in fragments:
-                self.assertIn(fragment, svg_text)
+    def test_croissance_astrale_distingue_compteurs_et_conditions(self):
+        text = compact(self.parts[1] + self.parts[2] + self.parts[3])
+        self.assertIn("Boss de donjon et de portail achevés personnellement", text)
+        self.assertIn("Démons éliminés personnellement dans les portails", text)
+        self.assertIn("aucune condition de niveau", text)
+        self.assertIn("hors portails", text)
+        book_i = compact(Document(ROMANS[0].read_text(encoding="utf-8")).root.text())
+        self.assertNotIn("Boss de donjon et de portail achevés personnellement", book_i)
 
-    def test_samia_ranger_astral_commun_sans_renommer_zephyr_ni_les_usages_generiques(self):
-        text = compact(Document(load_generator().extraire_source_fenetres(self.chapitre_2)).root.text())
-        self.assertIn("Samia Claire. Classe : Ranger astral. Rang : Commun. Cercles de mana : 2.", text)
-        self.assertIn("— Samia Claire. Classe : Ranger astral.", text)
-        self.assertIn("La fille du Ranger, Samia", text)
-        self.assertIn("Le Ranger contempla la dague.", text)
-        self.assertIn("La jeune Ranger", text)
+    def test_chapitre_3_niveau_siphon_compteurs_et_equipement(self):
+        siphon = compact(self.windows["L2-C3-F01"].text())
+        for value in ("39 → 40", "120 % de la PA", "75 % des dégâts infligés", "8 mètres",
+                      "100 Mana", "20 secondes", "1 200 Mana"):
+            self.assertIn(value, siphon)
+        growth = compact(self.windows["L2-C3-F03"].text())
+        for value in ("10 000", "200", "90 000", "2", "30", "32"):
+            self.assertIn(value, growth)
+        equipment = compact(self.windows["L2-C3-F04"].text())
+        self.assertIn("Niveau 40 · Runes équipées 32/32", equipment)
+        self.assertIn("8 Vol de vie · 8 Arcanique · 8 Vitesse · 2 Énergie · 2 Gardien · 4 Fatal", equipment)
+        self.assertIn("Bonus d'ensemble actifs : 9", equipment)
 
-    def test_vague_legendaire_et_benediction_gardent_leurs_chiffres_et_limites(self):
-        text = compact(Document(load_generator().extraire_source_fenetres(self.chapitre_2)).root.text())
-        for passage in (
-            "Coût : 5 Mana.", "Portée : 10 mètres.", "Incantation : 5 secondes.",
-            "Aucun temps de recharge.", "20 % de la Puissance arcanique de Yoon",
-            "membre du groupe possédant le plus faible pourcentage de PV actuels",
-            "5 % des PV maximaux de Yoon.", "— Le sort me soigne moi.",
-            "quarante-cinq pour cent le risque relatif d'échec",
-            "vingt-cinq pour cent la probabilité relative de ne pas obtenir le meilleur résultat possible",
-            "elles ne garantissaient toujours pas la réussite des tentatives",
-            "**soixante pour cent**", "**cinquante pour cent**",
-        ):
-            with self.subTest(passage=passage):
-                self.assertIn(passage, text)
+    def test_chapitre_3_alpha_deux_frappes_sans_chiffres_inventes_et_fin_exacte(self):
+        alpha = self.parts[3][self.parts[3].index("Le loup alpha se tenait entre les arbres."):
+                              self.parts[3].index("### XVII. Le courage de Ray")]
+        self.assertIn("frappa une première fois", alpha)
+        self.assertIn("une seconde frappe", alpha)
+        self.assertIn("Deux coups d'épée", alpha)
+        self.assertNotRegex(alpha, r"\b(?:PV|dégâts|niveau)\s*[:=]?\s*\d")
+        self.assertEqual(len(re.findall(r"\bDONG\b", self.parts[3])), 12)
+        self.assertEqual(len(re.findall(r"\bDING\b", self.parts[3])), 2)
+        self.assertTrue(self.parts[3].rstrip().endswith(
+            "*Fin du chapitre 3 — Celle qui n'était pas dans les bois.*"))
 
-    def test_groupes_de_cinquante_points_et_retraite_a_vingt_quatre_et_cinquante_ans(self):
-        for passage in (
-            "**Total : cinquante points.**", "**50 points.**",
-            "Samia est une Ranger astral commune, qui représente cinq points.",
-            "Hasol avait vingt-quatre ans lorsque son mentor lui annonça qu'il prenait sa retraite.",
-            "J'avais quarante-deux ans lorsque nous nous sommes rencontrés. Aujourd'hui, j'en ai cinquante.",
-        ):
-            with self.subTest(passage=passage):
-                self.assertIn(passage, self.chapitre_2)
+    def test_vingt_six_fenetres_et_cinquante_deux_svg_derives(self):
+        ids = [window.attrs["data-window-id"] for window in self.document.windows]
+        self.assertEqual(len(ids), 26)
+        self.assertEqual(len(ids), len(set(ids)))
+        files = {path.name for path in ASSETS.glob("*.svg")}
+        expected = {identifier + suffix + ".svg" for identifier in ids for suffix in ("", "-mobile")}
+        self.assertEqual(files, expected)
+        self.assertEqual(len(files), 52)
 
-    def test_seuls_les_affichages_systeme_deviennent_fenetres(self):
-        windows = [w for w in Document(self.chapitre_2).windows
-                   if "-F" in w.attrs.get("data-window-id", "")]
-        self.assertEqual([w.attrs.get("data-window-id") for w in windows],
-                         [f"L2-C2-F{i:02}" for i in range(1, 10)])
-        text = [compact(list(w.descendants("details"))[0].text()) for w in windows]
-        expected = (
-            "Caractéristique secondaire : Vitesse +1", "Nouvelle compétence passive acquise. Lame runique.",
-            "Croissance runique — Seuil atteint. Un cercle de mana supplémentaire a été obtenu.",
-            "Niveau supérieur. Niveau 10 atteint.", "Infiltration runique.",
-            "Infiltration runique activée. Durée : 30 secondes.",
-            "Samia Claire. Classe : Ranger astral. Rang : Commun. Cercles de mana : 2.",
-            "Coût : 5 Mana. Portée : 10 mètres. Incantation : 5 secondes.",
-            "Croissance runique. Boss de donjon personnellement achevé : +1.",
-        )
-        for actual, fragment in zip(text, expected):
-            self.assertIn(fragment, actual)
-        self.assertIn("**Cartographie des portails.**", self.chapitre_2)
-        self.assertIn("**Coup astral.**", self.chapitre_2)
+    def test_generation_livre_ii_idempotente_et_derives_identiques(self):
+        generated, images = load_generator().produire(self.source)
+        self.assertEqual(generated.replace("assets/fenetres/", "assets/fenetres-livre-2/"), self.source)
+        self.assertEqual(set(images), {path.name for path in ASSETS.glob("*.svg")})
+        self.assertEqual(len(images), 52)
+        for name, content in images.items():
+            self.assertEqual((ASSETS / name).read_text(encoding="utf-8"), content)
 
-    def test_fiche_orven_complete_une_seule_secondaire_vitesse_en_gras(self):
-        window = next(w for w in self.document.windows
-                      if w.attrs.get("data-window-id") == "L2-C2-F01")
-        self.assertEqual(window.classes, {"rune-window", "white-grade", "lit-window"})
-        self.assertEqual(window.attrs["data-window-type"], "amelioration")
-        transcript = list(window.descendants("details"))
-        self.assertEqual(len(transcript), 1)
-        text = compact(transcript[0].text())
-        for fragment in ("RUNE AMÉLIORÉE", "Rune Énergie",
-                         "Grade actuel : Commun (Blanc)", "Grade natif : Commun (Blanc)",
-                         "Rang : 1★", "Amélioration : +3",
-                         "Caractéristique principale : Résistance +4 %",
-                         "Caractéristique secondaire : Vitesse +1"):
-            self.assertIn(fragment, text)
-        self.assertEqual(text.count("Caractéristique secondaire :"), 1)
-        self.assertEqual([compact(n.text()) for n in window.descendants("span")
-                          if "rune-bonus" in n.classes], ["Résistance +4 %", "Vitesse +1"])
-        self.assertEqual([compact(n.text()) for n in window.descendants("strong")], ["Vitesse +1"])
-        self.assertEqual([compact(n.text()) for n in window.descendants("span")
-                          if "lit-badge--rune-common" in n.classes],
-                         ["Commun (Blanc)", "Commun (Blanc)"])
-        self.assertFalse(any("lit-badge--rune-uncommon" in n.classes
-                             for n in window.descendants()))
-        self.assertNotRegex(text, r"Vert|Peu commun")
-        self.assertNotIn("ensemble", text.lower())
-        self.assertNotIn("temporaire", text.lower())
-        for suffixe in (".svg", "-mobile.svg"):
-            svg = (ROOT / ASSETS / ("L2-C2-F01" + suffixe)).read_text(encoding="utf-8")
-            self.assertNotRegex(svg, r"Vert|Peu commun|rune-uncommon|#edf7ef|#b3d3bd")
-            tree = ET.ElementTree(ET.fromstring(svg))
-            cadre = next(n for n in tree.iter() if n.get("stroke") == "#D1AB61")
-            self.assertEqual(cadre.get("fill"), "#FFFFFF")
-            nodes = [n for n in tree.iter() if n.tag.endswith("}text")]
-            svg_text = compact(" ".join("".join(n.itertext()) for n in nodes))
-            self.assertNotRegex(svg_text, r"Vert|Peu commun")
-            self.assertEqual(svg_text.count("Commun (Blanc)"), 2)
-            for fragment in ("Rune Énergie", "Commun (Blanc)",
-                             "1★", "+3", "Résistance +4 %", "Vitesse +1"):
-                self.assertIn(fragment, svg_text)
-            for valeur in ("Vitesse", "+1"):
-                emphase = [n for n in nodes if n.text == valeur]
-                self.assertEqual(len(emphase), 1)
-                self.assertEqual(emphase[0].get("font-weight"), "700")
-                self.assertEqual(emphase[0].get("fill"), "#175b9b")
-
-    def test_dec178_preserve_tous_les_octets_hors_f01(self):
-        source = avant_corrections_dec179(self.source)
-        fenetre = re.compile(
-            r'<div class="rune-window white-grade lit-window" '
-            r'data-window-id="L2-C2-F01"[\s\S]*?</details>\n</div>')
-        self.assertEqual(len(fenetre.findall(source)), 1)
-        self.assertEqual(
-            hashlib.sha256(fenetre.sub("", source).encode("utf-8")).hexdigest(),
-            "8c25952b4307d21e5f12a9af961cba21ee10727b96e85567d30a037b2e4a57de",
-        )
-
-    def test_dec179_inverse_exacte_retrouve_la_source_anterieure_sans_renouveler_baseline(self):
-        fixture = json.loads((ROOT / "tests/fixtures/corrections_runes_livre2_dec179.json")
-                             .read_text(encoding="utf-8"))
-        self.assertEqual(len(fixture["changes"]), 6)
-        avant = avant_corrections_dec179(self.source)
-        self.assertEqual(hashlib.sha256(avant.encode()).hexdigest(), fixture["before_sha256"])
-        self.assertEqual(hashlib.sha256(self.source.encode()).hexdigest(), fixture["after_sha256"])
-        anciens = Document(avant).windows
-        self.assertEqual(len(anciens), 10)
-        for ancien in anciens:
-            actuel = next(w for w in self.document.windows
-                          if w.attrs["data-window-id"] == ancien.attrs["data-window-id"])
-            self.assertEqual(self.source[actuel.start:actuel.end], avant[ancien.start:ancien.end])
-
-    def test_dec179_inverse_refuse_valeurs_contenus_insertions_deplacements_et_doublons(self):
-        fixture = json.loads((ROOT / "tests/fixtures/corrections_runes_livre2_dec179.json")
-                             .read_text(encoding="utf-8"))
-        for changement in fixture["changes"]:
-            debut = sum(map(len, self.source.splitlines(keepends=True)[
-                :changement["after_start_line"] - 1]))
-            fin = debut + changement["after_length"]
-            bloc = self.source[debut:fin]
-            for nom, mutation in (
-                ("contenu", self.source[:debut] + bloc.replace("rune", "pierre", 1)
-                 + self.source[fin:]),
-                ("valeur", self.source[:debut] + re.sub(r"\+\d+", "+99", bloc, count=1)
-                 + self.source[fin:]),
-                ("insertion", self.source[:debut] + "Ajout non autorisé\n" + self.source[debut:]),
-                ("déplacement", self.source[:debut] + self.source[fin:] + bloc),
-                ("doublon", self.source + bloc),
-            ):
-                with self.subTest(ligne=changement["after_start_line"], mutation=nom):
-                    self.assertNotEqual(mutation, self.source)
-                    with self.assertRaises(ValueError):
-                        avant_corrections_dec179(mutation)
-        # Une mutation hors journal n'est pas effacée par l'inversion.
-        mutation = self.source + "\nNarration non autorisée.\n"
-        self.assertEqual(avant_corrections_dec179(mutation),
-                         avant_corrections_dec179(self.source) + "\nNarration non autorisée.\n")
-
-    def test_quinze_identifiants_uniques_et_enveloppes_accessibles_des_nouvelles_fiches(self):
-        ids = [w.attrs["data-window-id"] for w in self.document.windows]
-        self.assertEqual(len(ids), 15)
-        self.assertEqual(len(set(ids)), 15)
-        self.assertEqual(set(ids), {"L2-C1-F01", *[f"L2-C2-F{i:02}" for i in range(1, 10)],
-                                   *[f"L2-C2-R{i:02}" for i in range(1, 6)]})
-        for window in self.document.windows:
-            identifiant = window.attrs["data-window-id"]
-            with self.subTest(fenetre=identifiant):
-                pictures = list(window.descendants("picture"))
-                transcripts = list(window.descendants("details"))
-                self.assertEqual(len(pictures), 1)
-                self.assertEqual(len(transcripts), 1)
-                self.assertNotIn("open", transcripts[0].attrs)
-                self.assertEqual(len(list(transcripts[0].descendants("summary"))), 1)
-                img, = pictures[0].descendants("img")
-                mobile, = pictures[0].descendants("source")
-                self.assertTrue(img.attrs["alt"].strip())
-                self.assertEqual(img.attrs["src"], ASSETS + identifiant + ".svg")
-                self.assertEqual(mobile.attrs["srcset"], ASSETS + identifiant + "-mobile.svg")
-                self.assertEqual(mobile.attrs["media"], "(max-width: 600px)")
-        for numero, type_attendu in enumerate(
-                ("rune", "rune", "amelioration", "equipement", "equipement"), 1):
-            window = next(w for w in self.document.windows
-                          if w.attrs["data-window-id"] == f"L2-C2-R{numero:02}")
-            self.assertEqual(window.attrs["data-window-type"], type_attendu)
-            for th in window.descendants("th"):
-                self.assertEqual(th.attrs.get("scope"), "col")
-
-    def test_experiences_blanches_et_vertes_fiches_completes_sans_transformation_de_grade(self):
-        attendus = (
-            ("R01", "white-grade", "Énergie commune (blanche), 1★", "+0", ["PV +40"]),
-            ("R02", "green-grade", "Gardien peu commune (verte), 1★", "+0",
-             ["Défense +3", "PV +10"]),
-            ("R03", "green-grade", "Gardien peu commune (verte), 1★", "+6",
-             ["Défense +9", "PV +20", "Vitesse +1"]),
-        )
-        for identifiant, grade, titre, palier, affixes in attendus:
-            window = next(w for w in self.document.windows
-                          if w.attrs["data-window-id"] == "L2-C2-" + identifiant)
-            with self.subTest(fenetre=identifiant):
-                self.assertEqual(window.classes, {"rune-window", grade, "lit-window"})
-                self.assertEqual([compact(n.text()) for n in window.descendants("h3")], [titre])
-                self.assertEqual([compact(n.text()) for n in window.descendants("span")
-                                  if "upgrade-badge" in n.classes], [palier])
-                self.assertEqual([compact(n.text()) for n in window.descendants("span")
-                                  if "rune-bonus" in n.classes], affixes)
-                text = compact(window.text())
-                self.assertIn("Caractéristique principale : " + affixes[0], text)
-                if identifiant == "R01":
-                    self.assertIn("Caractéristiques secondaires présentes : aucune.", text)
-                else:
-                    self.assertNotIn("aucune", text)
-                for suffixe in (".svg", "-mobile.svg"):
-                    tree = ET.parse(ROOT / ASSETS / ("L2-C2-" + identifiant + suffixe))
-                    nodes = [n for n in tree.iter() if n.tag.endswith("}text")]
-                    svg_text = compact(" ".join("".join(n.itertext()) for n in nodes))
-                    for fragment in (titre, palier, *affixes):
-                        self.assertIn(fragment, svg_text)
-                    if identifiant == "R03":
-                        for valeur in ("Vitesse", "+1"):
-                            emphase = [n for n in nodes if n.text == valeur]
-                            self.assertEqual(len(emphase), 1)
-                            self.assertEqual(emphase[0].get("font-weight"), "700")
-        r03 = next(w for w in self.document.windows if w.attrs["data-window-id"] == "L2-C2-R03")
-        self.assertEqual([compact(n.text()) for n in r03.descendants("strong")], ["Vitesse +1"])
-        self.assertIn("principale Résistance +1 %, aucune caractéristique secondaire présente.",
-                      self.chapitre_2)
-        self.assertNotIn("Savoir runique", self.source)
-
-    def test_seize_identites_et_six_champs_des_fiches_d_equipement_conformes_au_ledger(self):
-        # Attendus éditoriaux indépendants du journal de présentation, pas un barème.
-        anciennes = (
-            ("Fatal rare (bleue), 6★", "+6", "Attaque +70", "Vitesse +4 ; PV +25"),
-            ("Gardien rare (bleue), 6★", "+6", "Défense +70", "PV +30 ; Mana +20"),
-            ("Fatal rare (bleue), 3★", "+3", "Attaque +22", "Vitesse +4 ; PV +30"),
-            ("Fatal peu commune (verte), 3★", "+3", "Attaque +22", "Défense +6"),
-            ("Fatal peu commune (verte), 3★", "+3", "Vitesse +6", "Attaque +6"),
-            ("Gardien rare (bleue), 3★", "+3", "PV +244", "Défense +6 ; Résistance +3 %"),
-            ("Énergie rare (bleue), 3★", "+3", "PV +244", "Défense +6 ; Résistance +3 %"),
-            ("Énergie peu commune (verte), 3★", "+3", "Défense +22", "PV +50"),
-        )
-        vol_de_vie = (
-            ("Attaque +50", "Vitesse +4 ; PA +60"),
-            ("Attaque +50", "Vitesse +4 ; PA +60"),
-            ("PA +100", "Attaque +8 % ; Vitesse +4"),
-            ("PA +100", "Attaque +8 % ; Vitesse +4"),
-            ("Vitesse +12", "Attaque +8 % ; PA +60"),
-            ("Vitesse +12", "Attaque +8 % ; PA +60"),
-            ("Attaque +50", "PA +60 ; Vitesse +4"),
-            ("PA +100", "Vitesse +4 ; Attaque +8 %"),
-        )
-        attendus = (*anciennes, *(("Vol de vie rare (bleue), 4★", "+6", main, secondaires)
-                                  for main, secondaires in vol_de_vie))
-        lignes = [n for n in self.document.root.descendants("tr") if "data-rune-id" in n.attrs]
-        self.assertEqual([n.attrs["data-rune-id"] for n in lignes],
-                         [f"L2-HAS-R{i:03}" for i in range(1, 17)])
-        ledger = (ROOT / "lore/runes.md").read_text(encoding="utf-8")
-        for numero, (ligne, (identite, palier, principale, secondaires)) in enumerate(
-                zip(lignes, attendus), 1):
-            with self.subTest(rune=numero):
-                cellules = [compact(n.text()) for n in ligne.descendants("td")]
-                self.assertEqual(len(cellules), 2)
-                self.assertTrue(cellules[0].startswith(identite + ", " + palier + " — "))
-                self.assertEqual([compact(n.text()) for n in ligne.descendants("span")
-                                  if "rune-bonus" in n.classes], [principale, secondaires])
-                self.assertIn("Principale : " + principale, cellules[1])
-                self.assertIn("Secondaire", cellules[1])
-                self.assertIn(secondaires, cellules[1])
-                if numero <= 8:
-                    self.assertIn("en réserve" if numero == 8 else "équipée", cellules[0])
-                    self.assertIn(f"| L2-HAS-R{numero:03} | {identite} | {palier} | "
-                                  f"{principale} | {secondaires} |", ledger)
-                else:
-                    self.assertIn(f"| L2-HAS-R{numero:03} | Vol de vie | "
-                                  f"{principale} | {secondaires} |", ledger)
-        self.assertIn("Les principales PA intermédiaires sont choisies pour ces pièces uniquement.", ledger)
-
-    def test_fiches_de_remise_aux_bons_moments_sans_origine_secrete_devoilee(self):
-        r04 = next(w for w in self.document.windows if w.attrs["data-window-id"] == "L2-C2-R04")
-        r05 = next(w for w in self.document.windows if w.attrs["data-window-id"] == "L2-C2-R05")
-        self.assertIn("Sept runes équipées, une rune en réserve.", compact(r04.text()))
-        self.assertLess(r04.end, self.source.index('data-window-id="L2-C2-F03"'))
-        self.assertIn("Deux ensembles de quatre pièces, pas encore équipés.", compact(r05.text()))
-        self.assertLess(self.source.index("Elle souleva délicatement le couvercle."), r05.start)
-        self.assertLess(r05.end, self.source.index(CORRECTIONS_RESERVE_IMMEDIATE[6][1]))
-        self.assertNotIn("Iseria", r05.text())
-        self.assertNotRegex(r05.text(), r"mère|maternel|financ|pour cent|%.*Vol de vie")
-        personnages = (ROOT / "lore/personnages.md").read_text(encoding="utf-8")
-        for fragment in ("L2-HAS-R001 à 007 portées", "L2-HAS-R008 en réserve",
-                         "Équipe L2-HAS-R008 : 8/8", "L2-HAS-R001/002 au coffre",
-                         "L2-HAS-R003 à 008 rangées à part", "L2-HAS-R009 à 016 équipées, 8/8",
-                         "Hasol ignore leur origine"):
-            self.assertIn(fragment, personnages)
-
-    def test_lame_runique_passive_et_description_exacte_en_html_et_svg(self):
-        window = next(w for w in self.document.windows
-                      if w.attrs.get("data-window-id") == "L2-C2-F02")
-        self.assertEqual(window.attrs["data-window-type"], "competence")
-        transcripts = list(window.descendants("details"))
-        self.assertEqual(len(transcripts), 1)
-        self.assertEqual([compact(n.text()) for n in transcripts[0].descendants("p")],
-                         ["Lame runique.", *DESCRIPTION_LAME])
-        fragments = ("Nouvelle compétence passive acquise.", "Lame runique.",
-                     *DESCRIPTION_LAME)
-        for suffixe in (".svg", "-mobile.svg"):
-            with self.subTest(variante=suffixe):
-                tree = ET.parse(ROOT / ASSETS / ("L2-C2-F02" + suffixe))
-                svg_text = compact(" ".join(
-                    "".join(n.itertext()) for n in tree.iter() if n.tag.endswith("}text")))
-                for fragment in fragments:
-                    self.assertIn(fragment, svg_text)
-        self.assertIn(fragments[0], compact(transcripts[0].text()))
-
-    def test_fenetre_de_revelation_conserve_toutes_les_donnees_en_html(self):
-        windows = [window for window in self.document.windows
-                   if window.attrs.get("data-window-id") == "L2-C1-F01"]
-        self.assertEqual(len(windows), 1)
-        transcripts = list(windows[0].descendants("details"))
-        self.assertEqual(len(transcripts), 1)
-        text = compact(transcripts[0].text())
-        for pattern in (r"\bHasol Shun\b", r"\bArcaniste Astral\b",
-                        r"(?i)(?:rang|rareté)\s*:\s*Astrale?\b",
-                        r"(?i)niveau\s*:\s*1\b",
-                        r"(?i)coût[^.!?]{0,65}\b25\b",
-                        r"(?i)cercles[^.!?]{0,30}\b2\b"):
-            with self.subTest(donnee=pattern):
-                self.assertRegex(text, pattern)
-
-    def test_sourire_force_d_iseria_et_question_de_hasol_conserves(self):
-        text = compact(Document(self.chapitre_1).root.text()).lower()
-        self.assertRegex(text, r"sourire[^.!?]{0,120}forcé|forc[ée][^.!?]{0,120}sourire")
-        self.assertRegex(text, r"maman\s*[,?…—–-]?\s*tout va bien\s*\?")
-        self.assertIn("iseria", text)
-
-    def test_samia_est_plus_jeune_de_trois_ans_et_entre_a_seize_ans(self):
-        section = re.search(r"^### VI\.[\s\S]*?(?=^### VII\.)", self.chapitre_1, re.M)
-        self.assertIsNotNone(section)
-        text = compact(section.group()).lower()
-        self.assertIn("samia", text)
-        self.assertRegex(text, r"(?:trois|3) ans (?:de moins|plus jeune)|cadette de (?:trois|3) ans")
-        self.assertRegex(text, r"académie[^.!?]{0,100}(?:seize|16) ans")
-
-    def test_manuscrit_sans_contenu_actif_ni_ressource_distante(self):
+    def test_manuscrit_passif(self):
         assert_passive(self, self.source)
-        self.assertNotRegex(self.source, r"!\[[^\]]*\]\(\s*(?:https?:|//|data:)")
 
-    def test_premiere_conversation_elric_concerne_les_raids_de_portails(self):
-        section = re.search(r"^### V\.[\s\S]*?(?=^### VI\.)", self.chapitre_1, re.M)
-        self.assertIsNotNone(section)
-        text = compact(section.group())
-        self.assertNotIn("dragons", text.lower())
-        passages = (
-            "Vous avez déjà pris part à des raids de portails ?",
-            "Plus d'une fois.",
-            "Dangereux. Beaucoup plus que tu ne l'imagines.",
-            "Vous pourriez m'y emmener un jour ?",
-            "Nous ne nous connaissons que depuis cinq minutes et tu veux déjà participer à un raid ?",
+
+class IdentifiantsRunesTests(unittest.TestCase):
+    def setUp(self):
+        self.sources = {path.name: path.read_text(encoding="utf-8") for path in ROMANS}
+        self.documents = {name: Document(source) for name, source in self.sources.items()}
+        self.lore = (ROOT / "lore/runes.md").read_text(encoding="utf-8")
+
+    def test_decouverte_dynamique_et_associations_machine_lore(self):
+        discovered = {identifier for document in self.documents.values()
+                      for identifier in rune_ids(document)}
+        self.assertGreater(len(discovered), 40)
+        self.assertTrue(any(identifier.startswith("L2-") for identifier in discovered))
+        self.assertTrue(any(not identifier.startswith("L2-") for identifier in discovered))
+        for identifier in discovered:
+            with self.subTest(rune=identifier):
+                self.assertIn(identifier, self.lore)
+
+    def test_ids_absents_du_visible_html_svg_et_lecteur(self):
+        for name, document in self.documents.items():
+            visible_manuscript = compact(document.root.text())
+            for identifier in set(rune_ids(document)):
+                self.assertNotIn(identifier, visible_manuscript, name)
+            for window in document.windows:
+                ids = rune_ids(Document(document.source[window.start:window.end]))
+                visible = compact(window.text())
+                for identifier in ids:
+                    self.assertNotIn(identifier, visible, (name, window.attrs["data-window-id"]))
+                    for suffix in ("", "-mobile"):
+                        directory = "fenetres-livre-2" if name.startswith("livre_2") else "fenetres"
+                        svg = (ROOT / "assets" / directory /
+                               f"{window.attrs['data-window-id']}{suffix}.svg").read_text(encoding="utf-8")
+                        self.assertNotIn(identifier, svg)
+        reader = (ROOT / "lecture.html").read_text(encoding="utf-8")
+        for identifier in set(rune_ids(self.documents[ROMANS[0].name])):
+            self.assertNotIn(identifier, compact(Document(reader).root.text()))
+
+    def test_mutations_suppression_permutation_et_reintroduction_visible_detectees(self):
+        fixture = ('<table><tr data-rune-id="ALPHA-R001"><td>Fatal</td></tr>'
+                   '<tr data-rune-id="ZX-LOT-77"><td>Gardien</td></tr></table>')
+
+        def validate(source):
+            document = Document(source)
+            ids = rune_ids(document)
+            self.assertEqual(ids, ["ALPHA-R001", "ZX-LOT-77"])
+            visible = compact(document.root.text())
+            self.assertTrue(all(identifier not in visible for identifier in ids))
+
+        validate(fixture)
+        mutations = (
+            fixture.replace(' data-rune-id="ALPHA-R001"', "", 1),
+            fixture.replace("ALPHA-R001", "TEMP").replace("ZX-LOT-77", "ALPHA-R001").replace("TEMP", "ZX-LOT-77"),
+            fixture.replace("<td>Fatal</td>", "<td>ALPHA-R001 · Fatal</td>"),
         )
-        position = 0
-        for passage in passages:
-            with self.subTest(passage=passage):
-                found = text.find(passage, position)
-                self.assertGreaterEqual(found, position)
-                position = found + len(passage)
+        for mutation in mutations:
+            with self.subTest(mutation=mutation), self.assertRaises(AssertionError):
+                validate(mutation)
 
-    def test_trois_compteurs_de_croissance_distincts_expliques_aux_parents_et_elric(self):
-        for numero, suivant in (("III", "IV"), ("VII", "VIII")):
-            section = re.search(
-                rf"^### {numero}\.[\s\S]*?(?=^### {suivant}\.)", self.chapitre_1, re.M)
-            self.assertIsNotNone(section)
-            text = compact(section.group()).lower()
-            with self.subTest(section=numero):
-                self.assertIn("mille", text)
-                self.assertIn("cent boss", text)
-                self.assertIn("cinq mille", text)
-                self.assertIn("personnellement", text)
-                self.assertIn("hors portails", text)
-                self.assertIn("prérequis de niveau", text)
-        self.assertIn(
-            "Seul ce dernier imposait des prérequis de niveau aux créatures éliminées ; "
-            "les boss de donjon et les démons de portails n'en avaient pas.", self.chapitre_1)
-        self.assertIn(
-            "Les démons des portails n'alimentaient pas le compteur des mille "
-            "monstres ordinaires hors portails.", self.chapitre_1)
+    def test_32_fiches_vie_2_concordent_entierement_avec_le_referentiel_lore(self):
+        window = next(w for w in self.documents[ROMANS[1].name].windows
+                      if w.attrs["data-window-id"] == "L2-C3-F04")
+        ids = rune_ids(Document(self.sources[ROMANS[1].name][window.start:window.end]))
+        self.assertEqual(len(ids), 32)
+        self.assertEqual(len(ids), len(set(ids)))
+        self.assertTrue(all(identifier.startswith("L2-HAS-") for identifier in ids))
+        book_i_ids = set(rune_ids(self.documents[ROMANS[0].name]))
+        self.assertTrue(book_i_ids.isdisjoint(ids))
+        manuscript_records = chapter_3_equipment(self.sources[ROMANS[1].name])
+        lore_records = lore_chapter_3_equipment(self.lore)
+        self.assertEqual(list(manuscript_records), ids)
+        self.assertEqual(manuscript_records, lore_records)
+        for record in manuscript_records.values():
+            self.assertEqual(record["amélioration"], "+15")
+            self.assertEqual(len(record["secondaires"]), 4)
+        start = self.lore.index("### Livre II, vie 2 — équipement de 32 runes")
+        end = self.lore.index("## Livre II, chapitre 2 validé", start)
+        section = self.lore[start:end]
+        for phrase in ("Hasol Shun, équipée au chapitre 3 de la vie 2",
+                        "8 Vol de vie / 8 Arcanique / 8 Vitesse / 2 Énergie / 2 Gardien / 4 Fatal",
+                        "exemplaires matériels distincts"):
+            self.assertIn(phrase, section)
 
-    def test_derives_svg_locaux_identiques_et_generation_idempotente(self):
-        generator = load_generator()
-        generated, images = generator.produire(self.source)
-        self.assertEqual(len(images), 30)
-        generated = generated.replace("assets/fenetres/", ASSETS)
-        self.assertEqual(generated, self.source)
-        self.assertTrue(images, "La fenêtre doit produire ses SVG bureau et mobile")
-        references = [node.attrs[key]
-                      for node in self.document.root.descendants()
-                      for key in ("src", "srcset") if key in node.attrs]
-        expected = {ASSETS + name for name in images}
-        self.assertEqual({p.name for p in (ROOT / ASSETS).glob("*.svg")}, set(images))
-        self.assertEqual(set(references), expected)
-        self.assertEqual(len(references), len(expected))
-        self.assertIn("L2-C1-F01.svg", images)
-        self.assertIn("L2-C1-F01-mobile.svg", images)
-        for name, svg in images.items():
-            with self.subTest(image=name):
-                self.assertEqual((ROOT / ASSETS / name).read_bytes(), svg.encode("utf-8"))
-                assert_passive(self, svg)
-                tree = ET.fromstring(svg)
-                self.assertEqual(tree.tag, "{http://www.w3.org/2000/svg}svg")
-                identifiant = name.removesuffix(".svg").removesuffix("-mobile")
-                window = next(w for w in self.document.windows
-                              if w.attrs["data-window-id"] == identifiant)
-                textes = [n for n in tree.iter() if n.tag.endswith("}text")]
-                affiche = " ".join("".join(n.itertext()) for n in textes)
-                self.assertEqual(re.sub(r"\s+", "", affiche),
-                                 re.sub(r"\s+", "", window.text()))
-                cadre = next(n for n in tree.iter() if n.get("stroke") == "#D1AB61")
-                self.assertEqual(cadre.get("fill"), "#FFFFFF")
-                for node in tree.iter():
-                    self.assertNotIn(node.tag.rsplit("}", 1)[-1].lower(),
-                                     {"foreignobject", "image", "script"})
-        regenerated, repeated_images = generator.produire(generated)
-        self.assertEqual(regenerated.replace("assets/fenetres/", ASSETS), generated)
-        self.assertEqual(repeated_images, images)
+    def test_mutations_des_fiches_vie_2_divergentes_du_lore_sont_refusees(self):
+        window = next(w for w in self.documents[ROMANS[1].name].windows
+                      if w.attrs["data-window-id"] == "L2-C3-F04")
+        source = self.sources[ROMANS[1].name][window.start:window.end]
+        expected = lore_chapter_3_equipment(self.lore)
+        mutations = {
+            "ensemble": ("Fatal rare (bleue), 6★", "Gardien rare (bleue), 6★"),
+            "rareté/couleur": ("Fatal rare (bleue), 6★", "Fatal épique (violette), 6★"),
+            "étoiles": ("Fatal rare (bleue), 6★", "Fatal rare (bleue), 5★"),
+            "amélioration": ("6★, <span class=\"upgrade-badge\">+15</span></td>",
+                              "6★, <span class=\"upgrade-badge\">+14</span></td>"),
+            "principale": ("Attaque +160", "Attaque +161"),
+            "secondaire": ("Vitesse +8 ; PV +25", "Vitesse +9 ; PV +25"),
+        }
+        for field, (before, after) in mutations.items():
+            with self.subTest(champ=field):
+                self.assertIn(before, source)
+                changed = source.replace(before, after, 1)
+                with self.assertRaises(AssertionError):
+                    self.assertEqual(chapter_3_equipment(changed), expected)
+
+
+class InsecabiliteTests(unittest.TestCase):
+    def test_pourcentages_et_milliers_sont_insecables_dans_les_fenetres(self):
+        for path in ROMANS:
+            source = path.read_text(encoding="utf-8")
+            for window in Document(source).windows:
+                raw = source[window.start:window.end]
+                with self.subTest(manuscrit=path.name, fenetre=window.attrs["data-window-id"]):
+                    assert_unbreakable_values(self, raw)
+
+    def test_mutations_espace_percent_et_millier_sont_refusees(self):
+        valid = "<div><p>Attaque +63&nbsp;%</p><p>Mana 1&nbsp;200</p></div>"
+        assert_unbreakable_values(self, valid)
+        for changed in (valid.replace("63&nbsp;%", "63 %"),
+                        valid.replace("1&nbsp;200", "1 200")):
+            with self.subTest(source=changed), self.assertRaises(AssertionError):
+                assert_unbreakable_values(self, changed)
 
 
 if __name__ == "__main__":

@@ -3,7 +3,6 @@
 <rect x="1" y="1" width="314" height="237" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></g>
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="158.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CROISSANCE</text>
-<text x="214.76" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="110.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RUNIQUE</text>
 <path d="M20 109.19999999999999h280" stroke="#D8BF8F"/>
 <text x="20.00" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="105.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Progression</text>
@@ -13,7 +12,6 @@
 <text x="207.92" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="59.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">depuis</text>
 <text x="267.32" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="271.64" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="15.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">le</text>
-<text x="286.76" y="146.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="175.90" font-size="18" font-weight="700" fill="#242424" textLength="74.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">huitième</text>
 <text x="94.52" y="175.90" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="98.84" y="175.90" font-size="18" font-weight="700" fill="#242424" textLength="48.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">palier</text>
@@ -29,7 +27,6 @@
 <text x="221.96" y="175.90" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2</text>
 <text x="232.76" y="175.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="237.08" y="175.90" font-size="18" font-weight="400" fill="#242424" textLength="36.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">000,</text>
-<text x="273.80" y="175.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="205.60" font-size="18" font-weight="400" fill="#242424" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">reliquat</text>
 <text x="86.96" y="205.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="91.28" y="205.60" font-size="18" font-weight="400" fill="#242424" textLength="77.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">antérieur</text>

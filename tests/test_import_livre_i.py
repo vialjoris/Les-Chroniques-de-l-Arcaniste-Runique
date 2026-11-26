@@ -7,7 +7,7 @@ import unittest
 
 from lecture_support import (
     APPROVED_OEIL_CORRECTIONS, Document, before_approved_oeil_corrections,
-    before_approved_rune_corrections,
+    before_approved_rune_corrections, before_invisible_rune_ids_and_dec181,
     compact, digest, manifest, historical_prefix,
 )
 
@@ -135,7 +135,8 @@ class ImportLivreITests(unittest.TestCase):
         before = self.source[start.start():start.start() + xi.start()]
         before = re.sub(r"\s*---\s*$", "", before)
         before = re.sub(r"\n---\n\n\*\*Fin du chapitre 13[^\n]*\*\*\s*$", "", before)
-        self.assertEqual(digest(before.rstrip()), CH13_BEFORE_XI)
+        self.assertEqual(digest(before_invisible_rune_ids_and_dec181(before).rstrip()),
+                         CH13_BEFORE_XI)
 
     def test_dernieres_sources_14_15_16_conservent_les_paragraphes_narratifs_dans_l_ordre(self):
         for number, title in ((14, "Le centième boss"), (15, "Enfin, la magie"), (16, "Celle qui demeure")):
@@ -178,16 +179,16 @@ class ImportLivreITests(unittest.TestCase):
         self.assertIn("quatorze", text)
         self.assertRegex(readable(self.parts[15]), r"16 runes équipées")
 
-    def test_siphon_description_qualitative_sans_formule_chiffree(self):
+    def test_siphon_description_chiffree_conforme_au_contrat_actuel(self):
         self.assertIn(15, self.parts)
         windows = Document(self.parts[15]).windows
         descriptions = [compact(w.text()) for w in windows
                         if "Siphon runique" in w.text() and "Vol de Mana" in w.text()]
         self.assertEqual(len(descriptions), 1)
         description = descriptions[0]
-        for term in ("Vent", "Puissance arcanique", "Mana", "réserve maximale"):
+        for term in ("Vent", "120 % de la Puissance arcanique", "75 % des dégâts infligés",
+                     "1 200 Mana", "8 mètres", "100 Mana", "20 secondes"):
             self.assertIn(term, description)
-        self.assertNotRegex(description, r"\d+\s*(?:%|secondes?|Mana|mètres?)")
 
     def test_raccords_cibles_presents_sans_retablir_les_anciennes_ambiguities(self):
         dialogue = compact(self.parts[15])

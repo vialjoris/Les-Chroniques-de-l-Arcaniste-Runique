@@ -63,6 +63,12 @@ n’est pas un bonus temporaire. Donner un libellé visible à chaque catégorie
 la couleur seule ne transmet pas le sens. Ne pas ajouter de fond sombre,
 de styles inline ou d’emoji multicolore.
 
+Employer une espace insécable entre les groupes numériques et leur symbole ou
+unité lorsque leur séparation serait ambiguë (`1&nbsp;200`, `6&nbsp;%`). Les rangs
+`6★` et les améliorations dans `.upgrade-badge` restent eux aussi insécables.
+Le générateur SVG complète cette protection en groupant, lorsqu’ils tiennent sur
+la ligne, les libellés de caractéristiques avec leurs valeurs signées.
+
 ### Badges : deux catégories distinctes
 
 Ajouter la classe commune `.lit-badge` au modificateur choisi :
@@ -246,7 +252,9 @@ Un badge n’autorise pas à transformer un actif ciblé en aura ou en passif.
 ### Identification de rune — `rune`, racine `rune-window`
 
 Titre : « IDENTIFICATION DE RUNE ». Conserver l’identité stable de la rune,
-distincte de l’identifiant de fenêtre. **DEC-178/179 :** chaque présentation
+distincte de l’identifiant de fenêtre, dans l’attribut invisible `data-rune-id`
+de la fiche ou de sa ligne. L’identifiant documentaire ne fait jamais partie du
+texte présenté au lecteur. **DEC-178/179 :** chaque présentation
 ordinaire identifiée contient rareté/couleur, étoiles, amélioration, principale
 et toutes les secondaires présentes avec leurs valeurs. Le nombre de secondaires
 ne recolore jamais la rune. « Aucune » ne s’emploie que pour une commune blanche
@@ -256,12 +264,13 @@ révélation complète de ses secrets. Les réserves de paramètres non transmis
 remplacent pas la complétion déléguée des présentations autorisées.
 
 ```html
+<div data-rune-id="{{identifiant_rune}}">
 <h3>{{ensemble_ou_nom}}</h3>
-<p><strong>Identifiant :</strong> {{identifiant_rune}}</p>
 <p><strong>Grade :</strong> <span class="lit-badge {{modificateur_grade_rune}}">{{grade_et_couleur}}</span> — <strong>Rang :</strong> {{rang}}★ — <strong>Amélioration :</strong> <span class="upgrade-badge">+{{palier}}</span></p>
 <p><strong>Principale :</strong> <span class="rune-bonus">{{principale_et_valeur}}</span></p>
 <p><strong>Secondaire :</strong> <span class="rune-bonus">{{secondaire_et_valeur}}</span></p>
 <p><strong>Propriétaire / état :</strong> {{propriétaire_et_état_connus}}</p>
+</div>
 ```
 
 Répéter la ligne de secondaire pour chaque affixe présent, sans en omettre ni en
@@ -381,7 +390,7 @@ lignes sans condenser plusieurs runes d’identités différentes en une seule.
   <caption>Runes inventoriées au moment de la scène</caption>
   <thead><tr><th scope="col">Rune, grade, rang et amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires</th></tr></thead>
   <tbody>
-    <tr><td>{{identifiant_rune}} — {{nom}} <span class="lit-badge {{modificateur_grade_rune}}">{{grade_et_couleur}}</span>, {{rang}}★, <span class="upgrade-badge">+{{palier}}</span></td><td><span class="rune-bonus">{{principale}}</span></td><td><span class="rune-bonus">{{secondaires_connues}}</span></td></tr>
+    <tr data-rune-id="{{identifiant_rune}}"><td>{{nom}} <span class="lit-badge {{modificateur_grade_rune}}">{{grade_et_couleur}}</span>, {{rang}}★, <span class="upgrade-badge">+{{palier}}</span></td><td><span class="rune-bonus">{{principale}}</span></td><td><span class="rune-bonus">{{secondaires_connues}}</span></td></tr>
   </tbody>
 </table>
 ```

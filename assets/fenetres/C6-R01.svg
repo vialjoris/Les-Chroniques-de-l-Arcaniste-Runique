@@ -12,20 +12,16 @@
 <text x="367.48" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="372.88" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="50.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">LOT</text>
 <path d="M28 77.6h624" stroke="#D8BF8F"/>
-<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="99.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">REC-R001</text>
-<text x="127.36" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="131.68" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="142.48" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="146.80" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
-<text x="218.08" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="222.40" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="36.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rare</text>
-<text x="259.12" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="263.44" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="72.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">(bleue),</text>
-<text x="335.80" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="340.12" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1★</text>
-<text x="363.88" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="368.20" y="100.60" width="37.92" height="29" rx="14.5" fill="#edf4fc" stroke="#b6cce5"/>
-<text x="374.20" y="121.60" font-size="20" font-weight="700" fill="#175b9b" textLength="25.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+0</text>
+<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
+<text x="99.28" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="103.60" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="36.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rare</text>
+<text x="140.32" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="144.64" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="72.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">(bleue),</text>
+<text x="217.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="221.32" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1★</text>
+<text x="245.08" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="249.40" y="100.60" width="37.92" height="29" rx="14.5" fill="#edf4fc" stroke="#b6cce5"/>
+<text x="255.40" y="121.60" font-size="20" font-weight="700" fill="#175b9b" textLength="25.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+0</text>
 <text x="28.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Principale</text>
 <text x="114.40" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="118.72" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>

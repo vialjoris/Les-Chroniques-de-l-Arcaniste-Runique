@@ -3,13 +3,11 @@
 <rect x="1" y="1" width="314" height="441" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></g>
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="158.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CROISSANCE</text>
-<text x="214.76" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="110.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RUNIQUE</text>
 <text x="166.16" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="171.56" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="12.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
 <text x="184.52" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="189.92" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="84.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PALIER</text>
-<text x="274.16" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="124.20" font-size="24" font-weight="700" fill="#A17B35" textLength="104.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ATTEINT</text>
 <path d="M20 148.79999999999998h280" stroke="#D8BF8F"/>
 <text x="20.00" y="185.80" font-size="18" font-weight="700" fill="#242424" textLength="105.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Progression</text>
@@ -19,7 +17,6 @@
 <text x="207.92" y="185.80" font-size="18" font-weight="700" fill="#242424" textLength="59.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">depuis</text>
 <text x="267.32" y="185.80" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="271.64" y="185.80" font-size="18" font-weight="700" fill="#242424" textLength="15.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">le</text>
-<text x="286.76" y="185.80" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="215.50" font-size="18" font-weight="700" fill="#242424" textLength="74.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">huitième</text>
 <text x="94.52" y="215.50" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="98.84" y="215.50" font-size="18" font-weight="700" fill="#242424" textLength="48.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">palier</text>
@@ -29,11 +26,9 @@
 <text x="160.40" y="215.50" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2</text>
 <text x="171.20" y="215.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="175.52" y="215.50" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">000</text>
-<text x="207.92" y="215.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="245.20" font-size="18" font-weight="400" fill="#242424" textLength="104.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">éliminations</text>
 <text x="124.76" y="245.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="129.08" y="245.20" font-size="18" font-weight="400" fill="#242424" textLength="108.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">admissibles,</text>
-<text x="237.08" y="245.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="274.90" font-size="18" font-weight="400" fill="#242424" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">reliquat</text>
 <text x="86.96" y="274.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="91.28" y="274.90" font-size="18" font-weight="400" fill="#242424" textLength="77.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">antérieur</text>
@@ -48,13 +43,11 @@
 <text x="188.48" y="312.60" font-size="18" font-weight="400" fill="#242424" textLength="48.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">mana</text>
 <text x="237.08" y="312.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="241.40" y="312.60" font-size="18" font-weight="400" fill="#242424" textLength="18.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">et</text>
-<text x="259.76" y="312.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="342.30" font-size="18" font-weight="400" fill="#242424" textLength="58.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">nouvel</text>
 <text x="78.32" y="342.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="82.64" y="342.30" font-size="18" font-weight="400" fill="#242424" textLength="120.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">emplacement</text>
 <text x="203.60" y="342.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="207.92" y="342.30" font-size="18" font-weight="400" fill="#242424" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
-<text x="273.80" y="342.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="372.00" font-size="18" font-weight="400" fill="#242424" textLength="77.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">obtenus.</text>
 <text x="20.00" y="409.70" font-size="18" font-weight="700" fill="#242424" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Cercles</text>
 <text x="86.96" y="409.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>

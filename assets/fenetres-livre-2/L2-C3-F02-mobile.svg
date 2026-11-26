@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="191" viewBox="0 0 320 191" font-family="Arial, sans-serif">
+<rect x="4" y="7" width="312" height="181" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="184" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Coup</text>
+<text x="122.96" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="128.36" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="89.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">critique</text>
+<path d="M20 69.6h280" stroke="#D8BF8F"/>
+<text x="20.00" y="113.60" font-size="20" font-weight="700" fill="#242424" textLength="97.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Infiltration</text>
+<text x="117.20" y="113.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="121.52" y="113.60" font-size="20" font-weight="700" fill="#242424" textLength="74.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
+<text x="20.00" y="152.60" font-size="18" font-weight="400" fill="#242424" textLength="51.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Durée</text>
+<text x="71.84" y="152.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="76.16" y="152.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="80.48" y="152.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="84.80" y="152.60" font-size="18" font-weight="700" fill="#22643b" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">30</text>
+<text x="106.40" y="152.60" font-size="18" font-weight="700" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="110.72" y="152.60" font-size="18" font-weight="700" fill="#22643b" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">secondes</text>
+</svg>

@@ -12,20 +12,16 @@
 <text x="234.64" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="240.04" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="197.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">IDENTIFICATION</text>
 <path d="M28 77.6h624" stroke="#D8BF8F"/>
-<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="99.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">REC-R003</text>
-<text x="127.36" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="131.68" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="142.48" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="146.80" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Fatal</text>
-<text x="196.48" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="200.80" y="100.60" width="205.32" height="29" rx="14.5" fill="#FFFFFF" stroke="#c8c8c8"/>
-<text x="206.80" y="121.60" font-size="20" font-weight="700" fill="#505050" textLength="193.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">commune (blanche)</text>
-<text x="406.12" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
-<text x="410.44" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="414.76" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1★</text>
-<text x="438.52" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="442.84" y="100.60" width="37.92" height="29" rx="14.5" fill="#edf4fc" stroke="#b6cce5"/>
-<text x="448.84" y="121.60" font-size="20" font-weight="700" fill="#175b9b" textLength="25.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+0</text>
+<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Fatal</text>
+<text x="77.68" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="82.00" y="100.60" width="205.32" height="29" rx="14.5" fill="#FFFFFF" stroke="#c8c8c8"/>
+<text x="88.00" y="121.60" font-size="20" font-weight="700" fill="#505050" textLength="193.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">commune (blanche)</text>
+<text x="287.32" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
+<text x="291.64" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="295.96" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1★</text>
+<text x="319.72" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="324.04" y="100.60" width="37.92" height="29" rx="14.5" fill="#edf4fc" stroke="#b6cce5"/>
+<text x="330.04" y="121.60" font-size="20" font-weight="700" fill="#175b9b" textLength="25.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+0</text>
 <text x="28.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Principale</text>
 <text x="114.40" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="118.72" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
@@ -63,6 +59,5 @@
 <text x="535.60" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">pas</text>
 <text x="568.00" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="572.32" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">son</text>
-<text x="604.72" y="236.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="28.00" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="89.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ensemble.</text>
 </svg>

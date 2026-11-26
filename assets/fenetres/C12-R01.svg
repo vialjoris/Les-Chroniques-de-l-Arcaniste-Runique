@@ -14,21 +14,16 @@
 <text x="345.88" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="351.28" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="143.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">MARCHAND</text>
 <path d="M28 77.6h624" stroke="#D8BF8F"/>
-<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="91.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CLI-R006</text>
-<text x="119.80" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="124.12" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="134.92" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="139.24" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Fatal</text>
-<text x="188.92" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="193.24" y="100.60" width="201.00" height="29" rx="14.5" fill="#fff1e4" stroke="#dfbd98"/>
-<text x="199.24" y="121.60" font-size="20" font-weight="700" fill="#884717" textLength="189.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">légendaire (orange)</text>
-<text x="394.24" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
-<text x="398.56" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="402.88" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">6★</text>
+<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Fatal</text>
+<text x="77.68" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<rect x="82.00" y="100.60" width="201.00" height="29" rx="14.5" fill="#fff1e4" stroke="#dfbd98"/>
+<text x="88.00" y="121.60" font-size="20" font-weight="700" fill="#884717" textLength="189.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">légendaire (orange)</text>
+<text x="283.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
+<text x="287.32" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="291.64" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">6★</text>
 <text x="28.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="35.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">État</text>
 <text x="236.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Principale</text>
 <text x="444.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="110.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Secondaires</text>
-<text x="554.16" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="444.00" y="190.30" font-size="18" font-weight="700" fill="#242424" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">présentes</text>
 <path d="M28 208.99999999999997h624" stroke="#D8BF8F"/>
 <text x="28.00" y="240.00" font-size="18" font-weight="700" fill="#242424" textLength="36.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Réel</text>
@@ -51,26 +46,22 @@
 <text x="587.64" y="240.00" font-size="18" font-weight="400" fill="#175b9b" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+4</text>
 <text x="609.24" y="240.00" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="613.56" y="240.00" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">;</text>
-<text x="617.88" y="240.00" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="444.00" y="269.70" font-size="18" font-weight="400" fill="#175b9b" textLength="73.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Défense</text>
 <text x="517.44" y="269.70" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="521.76" y="269.70" font-size="18" font-weight="400" fill="#175b9b" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+30</text>
 <text x="554.16" y="269.70" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="558.48" y="269.70" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">;</text>
-<text x="562.80" y="269.70" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="567.12" y="269.70" font-size="18" font-weight="400" fill="#175b9b" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mana</text>
-<text x="616.80" y="269.70" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="444.00" y="299.40" font-size="18" font-weight="400" fill="#175b9b" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+20</text>
+<text x="444.00" y="299.40" font-size="18" font-weight="400" fill="#175b9b" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mana</text>
+<text x="493.68" y="299.40" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="498.00" y="299.40" font-size="18" font-weight="400" fill="#175b9b" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+20</text>
 <path d="M28 318.09999999999997h624" stroke="#D8BF8F"/>
 <text x="28.00" y="349.10" font-size="18" font-weight="700" fill="#242424" textLength="90.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Projection</text>
-<text x="118.72" y="349.10" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="28.00" y="378.80" font-size="18" font-weight="700" fill="#242424" textLength="125.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">conditionnelle</text>
 <text x="153.28" y="378.80" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <rect x="157.60" y="359.80" width="44.40" height="27" rx="13.5" fill="#edf4fc" stroke="#b6cce5"/>
 <text x="163.60" y="378.80" font-size="18" font-weight="700" fill="#175b9b" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+15</text>
 <text x="202.00" y="378.80" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="206.32" y="378.80" font-size="18" font-weight="700" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="216.04" y="378.80" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="28.00" y="408.50" font-size="18" font-weight="700" fill="#242424" textLength="42.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">NON</text>
 <text x="70.12" y="408.50" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="74.44" y="408.50" font-size="18" font-weight="700" fill="#242424" textLength="84.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ACQUISE</text>
@@ -90,16 +81,14 @@
 <text x="587.64" y="349.10" font-size="18" font-weight="400" fill="#175b9b" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+4</text>
 <text x="609.24" y="349.10" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="613.56" y="349.10" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">;</text>
-<text x="617.88" y="349.10" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="444.00" y="378.80" font-size="18" font-weight="400" fill="#175b9b" textLength="73.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Défense</text>
 <text x="517.44" y="378.80" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="521.76" y="378.80" font-size="18" font-weight="400" fill="#175b9b" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+60</text>
 <text x="554.16" y="378.80" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="558.48" y="378.80" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">;</text>
-<text x="562.80" y="378.80" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="567.12" y="378.80" font-size="18" font-weight="400" fill="#175b9b" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mana</text>
-<text x="616.80" y="378.80" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="444.00" y="408.50" font-size="18" font-weight="400" fill="#175b9b" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+40</text>
+<text x="444.00" y="408.50" font-size="18" font-weight="400" fill="#175b9b" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mana</text>
+<text x="493.68" y="408.50" font-size="18" font-weight="400" fill="#175b9b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="498.00" y="408.50" font-size="18" font-weight="400" fill="#175b9b" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+40</text>
 <path d="M28 427.19999999999993h624" stroke="#D8BF8F"/>
 <text x="28.00" y="458.20" font-size="18" font-weight="700" fill="#242424" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Condition</text>
 <text x="115.48" y="458.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
@@ -114,7 +103,6 @@
 <text x="440.56" y="458.20" font-size="18" font-weight="400" fill="#242424" textLength="147.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">personnellement</text>
 <text x="588.52" y="458.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="592.84" y="458.20" font-size="18" font-weight="400" fill="#242424" textLength="29.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">par</text>
-<text x="622.00" y="458.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="28.00" y="487.90" font-size="18" font-weight="400" fill="#242424" textLength="50.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Hasol</text>
 <text x="78.76" y="487.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="83.08" y="487.90" font-size="18" font-weight="400" fill="#242424" textLength="61.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">jusqu’à</text>
@@ -134,7 +122,6 @@
 <text x="436.24" y="487.90" font-size="18" font-weight="400" fill="#242424" textLength="77.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">garantie,</text>
 <text x="514.00" y="487.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="518.32" y="487.90" font-size="18" font-weight="400" fill="#242424" textLength="97.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ressources</text>
-<text x="615.52" y="487.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="28.00" y="517.60" font-size="18" font-weight="400" fill="#242424" textLength="108.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">nécessaires.</text>
 <text x="28.00" y="555.30" font-size="18" font-weight="700" fill="#242424" textLength="58.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Paliers</text>
 <text x="86.32" y="555.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
@@ -161,7 +148,6 @@
 <text x="533.44" y="555.30" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
 <text x="556.12" y="555.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="560.44" y="555.30" font-size="18" font-weight="400" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mana</text>
-<text x="610.12" y="555.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="28.00" y="585.00" font-size="18" font-weight="400" fill="#242424" textLength="106.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">indéterminé.</text>
 <text x="134.92" y="585.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="139.24" y="585.00" font-size="18" font-weight="400" fill="#242424" textLength="57.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rareté</text>

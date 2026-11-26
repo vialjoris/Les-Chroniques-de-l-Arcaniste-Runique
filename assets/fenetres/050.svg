@@ -11,7 +11,6 @@
 <text x="358.84" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="141.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ÉVOLUTION</text>
 <text x="500.32" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="505.72" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="33.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">DE</text>
-<text x="539.20" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="64.00" y="92.60" font-size="24" font-weight="700" fill="#A17B35" textLength="170.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">COMPÉTENCE</text>
 <path d="M28 117.19999999999999h624" stroke="#D8BF8F"/>
 <text x="28.00" y="154.20" font-size="18" font-weight="700" fill="#242424" textLength="114.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Compétence</text>
@@ -53,7 +52,6 @@
 <text x="411.40" y="229.60" font-size="18" font-weight="400" fill="#22643b" textLength="97.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">l’activation</text>
 <text x="508.60" y="229.60" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="512.92" y="229.60" font-size="18" font-weight="400" fill="#22643b" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">critique,</text>
-<text x="584.20" y="229.60" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="28.00" y="259.30" font-size="18" font-weight="400" fill="#22643b" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">chaque</text>
 <text x="93.88" y="259.30" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="98.20" y="259.30" font-size="18" font-weight="400" fill="#22643b" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">attaque</text>
@@ -73,7 +71,6 @@
 <text x="519.40" y="259.30" font-size="18" font-weight="400" fill="#22643b" textLength="78.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">minimum</text>
 <text x="598.24" y="259.30" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="602.56" y="259.30" font-size="18" font-weight="400" fill="#22643b" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
-<text x="634.96" y="259.30" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="28.00" y="289.00" font-size="18" font-weight="400" fill="#22643b" textLength="60.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">dégâts</text>
 <text x="88.48" y="289.00" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="92.80" y="289.00" font-size="18" font-weight="400" fill="#22643b" textLength="52.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">égaux</text>
@@ -116,7 +113,6 @@
 <text x="494.56" y="326.70" font-size="18" font-weight="400" fill="#242424" textLength="50.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">l’épée</text>
 <text x="545.32" y="326.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="549.64" y="326.70" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ne</text>
-<text x="571.24" y="326.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="28.00" y="356.40" font-size="18" font-weight="400" fill="#242424" textLength="90.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">déclenche</text>
 <text x="118.72" y="356.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="123.04" y="356.40" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">pas</text>

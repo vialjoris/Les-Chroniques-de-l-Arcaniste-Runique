@@ -7,7 +7,6 @@
 <text x="119.72" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="82.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RUNES</text>
 <text x="201.80" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="207.20" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="35.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">DU</text>
-<text x="242.84" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">DON</text>
 <text x="112.16" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="117.56" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="133.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">MATERNEL</text>
@@ -23,7 +22,6 @@
 <text x="148.52" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">chacune</text>
 <text x="224.12" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="228.44" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="238.16" y="146.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="175.90" font-size="18" font-weight="700" fill="#242424" textLength="111.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Amélioration</text>
 <text x="131.24" y="175.90" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="135.56" y="175.90" font-size="18" font-weight="700" fill="#242424" textLength="57.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">initiale</text>
@@ -72,7 +70,6 @@
 <rect x="69.68" y="412.80" width="199.92" height="27" rx="13.5" fill="#edf7ef" stroke="#b3d3bd"/>
 <text x="75.68" y="431.80" font-size="18" font-weight="700" fill="#22643b" textLength="187.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">peu commune (verte)</text>
 <text x="269.60" y="431.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
-<text x="273.92" y="431.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="461.50" font-size="18" font-weight="400" fill="#242424" textLength="24.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3★,</text>
 <text x="44.84" y="461.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="49.16" y="461.50" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+0</text>
@@ -88,7 +85,6 @@
 <rect x="69.68" y="551.60" width="199.92" height="27" rx="13.5" fill="#edf7ef" stroke="#b3d3bd"/>
 <text x="75.68" y="570.60" font-size="18" font-weight="700" fill="#22643b" textLength="187.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">peu commune (verte)</text>
 <text x="269.60" y="570.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
-<text x="273.92" y="570.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="600.30" font-size="18" font-weight="400" fill="#242424" textLength="24.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3★,</text>
 <text x="44.84" y="600.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="49.16" y="600.30" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+0</text>
@@ -189,7 +185,6 @@
 <rect x="89.12" y="1156.50" width="199.92" height="27" rx="13.5" fill="#edf7ef" stroke="#b3d3bd"/>
 <text x="95.12" y="1175.50" font-size="18" font-weight="700" fill="#22643b" textLength="187.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">peu commune (verte)</text>
 <text x="289.04" y="1175.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
-<text x="293.36" y="1175.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="1205.20" font-size="18" font-weight="400" fill="#242424" textLength="24.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3★,</text>
 <text x="44.84" y="1205.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="49.16" y="1205.20" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+0</text>

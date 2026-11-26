@@ -5,7 +5,6 @@
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="111.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ANALYSE</text>
 <text x="167.24" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="172.64" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="33.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">DE</text>
-<text x="206.12" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="171.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">L’HISTORIQUE</text>
 <path d="M20 109.19999999999999h280" stroke="#D8BF8F"/>
 <text x="20.00" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="105.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Croissance</text>
@@ -14,7 +13,6 @@
 <text x="20.00" y="192.20" font-size="18" font-weight="700" fill="#242424" textLength="104.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Éliminations</text>
 <text x="124.76" y="192.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="129.08" y="192.20" font-size="18" font-weight="700" fill="#242424" textLength="103.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">admissibles</text>
-<text x="232.76" y="192.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="221.90" font-size="18" font-weight="700" fill="#242424" textLength="109.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">enregistrées</text>
 <text x="129.08" y="221.90" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="133.40" y="221.90" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
@@ -60,6 +58,5 @@
 <text x="115.04" y="433.40" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
 <text x="147.44" y="433.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="151.76" y="433.40" font-size="18" font-weight="400" fill="#242424" textLength="118.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">récompenses</text>
-<text x="270.56" y="433.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="463.10" font-size="18" font-weight="400" fill="#242424" textLength="118.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rétroactives…</text>
 </svg>

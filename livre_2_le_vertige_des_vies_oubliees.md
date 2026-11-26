@@ -6,6 +6,7 @@
 
 1. [Chapitre 1 — Une Astrale nommée Hasol](#chapitre-1)
 2. [Chapitre 2 — Les prodiges de l'Académie](#chapitre-2)
+3. [Chapitre 3 — Celle qui n'était pas dans les bois](#chapitre-3)
 
 ---
 
@@ -2846,7 +2847,7 @@ Son souffle se coupa.
   <p>Rang : 1★</p>
   <p>Amélioration : <span class="upgrade-badge">+3</span></p>
   <hr>
-  <p>Caractéristique principale : <span class="rune-bonus">Résistance +4 %</span></p>
+  <p>Caractéristique principale : <span class="rune-bonus">Résistance +4&nbsp;%</span></p>
   <p>Caractéristique secondaire : <strong><span class="rune-bonus">Vitesse +1</span></strong></p>
   </details>
 </div>
@@ -3482,8 +3483,8 @@ Avec eux, elle avait aussi préparé une seconde Énergie, gardée en réserve p
       <tr data-rune-id="L2-HAS-R003"><td>Fatal rare (bleue), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Attaque +22</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PV +30</span>.</td></tr>
       <tr data-rune-id="L2-HAS-R004"><td>Fatal peu commune (verte), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Attaque +22</span>. Secondaire : <span class="rune-bonus">Défense +6</span>.</td></tr>
       <tr data-rune-id="L2-HAS-R005"><td>Fatal peu commune (verte), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Vitesse +6</span>. Secondaire : <span class="rune-bonus">Attaque +6</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R006"><td>Gardien rare (bleue), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">PV +244</span>. Secondaires : <span class="rune-bonus">Défense +6 ; Résistance +3 %</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R007"><td>Énergie rare (bleue), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">PV +244</span>. Secondaires : <span class="rune-bonus">Défense +6 ; Résistance +3 %</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R006"><td>Gardien rare (bleue), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">PV +244</span>. Secondaires : <span class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R007"><td>Énergie rare (bleue), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">PV +244</span>. Secondaires : <span class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</span>.</td></tr>
       <tr data-rune-id="L2-HAS-R008"><td>Énergie peu commune (verte), 3★, <span class="upgrade-badge">+3</span> — en réserve</td><td>Principale : <span class="rune-bonus">Défense +22</span>. Secondaire : <span class="rune-bonus">PV +50</span>.</td></tr>
     </tbody>
   </table>
@@ -3768,12 +3769,12 @@ Elle releva brusquement la tête.
     <tbody>
       <tr data-rune-id="L2-HAS-R009"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 1</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PA +60</span>.</td></tr>
       <tr data-rune-id="L2-HAS-R010"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 2</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PA +60</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R011"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 3</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Attaque +8 % ; Vitesse +4</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R012"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 4</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Attaque +8 % ; Vitesse +4</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R013"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 5</td><td>Principale : <span class="rune-bonus">Vitesse +12</span>. Secondaires : <span class="rune-bonus">Attaque +8 % ; PA +60</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R014"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 6</td><td>Principale : <span class="rune-bonus">Vitesse +12</span>. Secondaires : <span class="rune-bonus">Attaque +8 % ; PA +60</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R011"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 3</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; Vitesse +4</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R012"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 4</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; Vitesse +4</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R013"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 5</td><td>Principale : <span class="rune-bonus">Vitesse +12</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; PA +60</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R014"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 6</td><td>Principale : <span class="rune-bonus">Vitesse +12</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; PA +60</span>.</td></tr>
       <tr data-rune-id="L2-HAS-R015"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 7</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">PA +60 ; Vitesse +4</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R016"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 8</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; Attaque +8 %</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R016"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 8</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; Attaque +8&nbsp;%</span>.</td></tr>
     </tbody>
   </table>
   </details>
@@ -4996,7 +4997,7 @@ La foule attendait.
 
 Le prêtre releva lentement la tête.
 
-— Samia Claire. Classe : Ranger astral.
+— Samia Claire. Classe : Marcheuse du voile.
 
 Plusieurs spectateurs se penchèrent en avant.
 
@@ -5028,9 +5029,10 @@ Sa fenêtre indiquait clairement :
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header">Samia Claire.</div>
-  <p>Classe : Ranger astral.</p>
+  <p>Classe : Marcheuse du voile.</p>
   <p>Rang : Commun.</p>
   <p>Cercles de mana : 2.</p>
+  <p>Aptitudes présentes dès la Révélation, à maîtriser progressivement : Écho des Mondes ; Vision du Voile ; Flèche du Néant ; Pas du Voile.</p>
   </details>
 </div>
 
@@ -5216,17 +5218,11 @@ Une lumière éclatante ne rendait pas nécessairement une personne plus précie
 
 Et une lumière presque invisible ne retirait rien à celle qu'elle révélait.
 
-### VIII. Une Ranger pas comme les autres
+### VIII. Une Marcheuse du voile
 
 L'évaluation de Samia fut organisée quelques jours plus tard.
 
-Le directeur de l'Académie souhaitait comprendre les circonstances inhabituelles de sa Révélation.
-
-Mais il s'intéressait également aux compétences qu'elle avait reçues.
-
-Hasol avait obtenu l'autorisation d'assister à une partie des exercices.
-
-Elle attendait son amie devant la salle.
+Le directeur de l'Académie souhaitait comprendre les circonstances inhabituelles de sa Révélation, mais il s'intéressait également aux quatre aptitudes déjà présentes dans sa classe. Hasol avait obtenu l'autorisation d'assister à une partie des exercices.
 
 — Prête ?
 
@@ -5236,295 +5232,53 @@ Samia lui adressa un sourire nerveux.
 
 — Tu vas voir, tout se passera bien !
 
-La jeune Ranger contempla les enseignants réunis.
+La première aptitude examinée fut **Écho des Mondes**.
 
-— Il y a beaucoup de monde…
+Elle prolongeait ce que Samia avait appris avec Cartographie : une carte mentale se construisait à partir des zones qu'elle avait réellement explorées et y signalait les portails qu'elle détectait. Elle ne révélait ni les pièges, ni les ennemis, ni les lieux qu'elle n'avait jamais parcourus.
 
-Hasol suivit son regard.
+Samia se concentra. Une représentation des environs familiers apparut devant elle. Les parties qu'elle n'avait pas explorées restaient absentes.
 
-Puis sourit.
+— Vous ne pouvez pas compléter ces zones ? demanda un enseignant.
 
-— C'est parce qu'ils sont curieux !
+— Non. Je dois d'abord les parcourir.
 
-Samia soupira.
+Le directeur acquiesça.
 
-— Ce n'est pas très rassurant…
+— Cette limite est importante. Continuez.
 
-Elles entrèrent ensemble.
+Samia activa ensuite **Vision du Voile**, le passif associé. Lorsqu'Écho lui signalait un portail, Vision lui en indiquait la couleur, et rien de plus : ni heure d'apparition ou d'ouverture, ni contenu, ni nature des créatures.
 
-Le directeur invita Samia à présenter sa première aptitude.
+— Seulement la couleur ? demanda le directeur.
 
-**Cartographie des portails.**
+— Pour le moment, oui.
 
-La jeune Ranger expliqua qu'elle pouvait percevoir l'emplacement et la couleur de certains portails avant leur manifestation.
+— Cela reste une information précieuse, à condition de ne pas lui faire dire davantage.
 
-— Combien de temps à l'avance ? demanda le directeur.
+Zéphyr sourit. Hasol adressa un clin d'œil à son amie.
 
-— Dix heures.
+Les enseignants étudièrent ensuite **Flèche du Néant**. Samia banda son arc ; une énergie de Ténèbres enveloppa la flèche avant son tir. L'attaque active exigeait bien l'arc. Ses dégâts, son coût et les autres paramètres ne furent pas chiffrés pendant cette présentation.
 
-Un silence suivit.
+Une protection intercepta un second projectile avant qu'il atteigne le mannequin placé derrière.
 
-— Dix heures avant qu'ils deviennent visibles ?
+— La compétence ne traverse donc pas les obstacles, constata Samia.
+
+— Exactement, répondit Zéphyr. Ton pouvoir ne remplace ni le placement ni la précision.
+
+Samia conserva sa dague comme arme de secours à courte distance, mais Flèche du Néant demeurait une technique d'archerie.
+
+Enfin, **Pas du Voile** fut observé pendant un exercice collectif. Le passif réduisait la facilité avec laquelle les adversaires la choisissaient pour cible tant qu'elle ne représentait pas une menace immédiate. Il ne la rendait ni invisible ni immunisée. Dès qu'elle attaquait ou menaçait directement une créature, elle pouvait attirer son attention.
+
+— Il faudra apprendre à choisir le moment où tu te dévoiles, conclut Zéphyr.
 
 Samia acquiesça.
 
-— Oui.
+Ses quatre aptitudes étaient présentes depuis la Révélation. Leur existence ne lui donnait pas encore leur pleine maîtrise.
 
-— Et vous connaissez déjà leur couleur ?
-
-— Oui.
-
-Les enseignants échangèrent des regards.
-
-Zéphyr contempla sa fille avec surprise.
-
-Hasol, de son côté, ouvrit grand les yeux.
-
-Le directeur poursuivit :
-
-— Pourriez-vous nous montrer cette carte ?
-
-Samia hésita.
-
-Puis se concentra.
-
-Une représentation magique des environs apparut devant elle.
-
-Sa portée était encore limitée.
-
-Mais une marque y brillait déjà.
-
-Samia désigna l'emplacement.
-
-— Là.
-
-Le directeur observa la carte.
-
-— Et la couleur ?
-
-Elle la lui indiqua.
-
-L'homme réfléchit quelques instants.
-
-Puis se tourna vers un collaborateur.
-
-— Faites préparer une vérification.
-
-Samia baissa les yeux.
-
-— J'ai fait quelque chose de mal ?
-
-Zéphyr posa doucement une main sur son épaule.
-
-— Pas du tout.
-
-Le directeur sourit.
-
-— Mademoiselle Claire, si cette compétence fonctionne comme vous venez de nous le montrer, elle pourrait être extrêmement précieuse.
-
-Samia releva la tête.
-
-— Vraiment ?
-
-— Naturellement.
-
-Il désigna la carte.
-
-— Lorsqu'un portail se manifeste, il reste normalement quarante-huit heures avant son ouverture. Mais votre aptitude pourrait nous permettre de connaître certaines manifestations dix heures plus tôt encore.
-
-Samia réfléchit.
-
-— Donc les guildes pourraient commencer à se préparer avant l'apparition du portail ?
-
-— Exactement.
-
-Hasol sourit.
-
-— C'est formidable !
-
-La jeune Ranger contempla son pouvoir.
-
-Puis un petit sourire apparut sur son visage.
-
-Dix heures plus tard, la manifestation annoncée fut confirmée.
-
-L'emplacement correspondait.
-
-La couleur également.
-
-L'Académie organisa aussitôt plusieurs nouvelles évaluations pour déterminer la portée et les limites du passif.
-
-Samia pouvait annoncer certaines manifestations avant que les autorités aient la moindre raison de soupçonner leur arrivée.
-
-Une Ranger astral commune venait d'obtenir une compétence susceptible de modifier profondément la préparation des raids.
-
-Le directeur lui proposa donc un programme particulier.
-
-Samia ouvrit grand les yeux.
-
-— Un programme comme celui d'Hasol ?
-
-— Adapté à votre propre classe, répondit-il.
-
-Zéphyr sourit.
-
-Hasol adressa un clin d'œil à son amie.
+Le directeur lui proposa donc un programme particulier, adapté à sa classe commune et à une progression fondée autant sur l'exploration que sur le combat.
 
 Samia rougit légèrement.
 
 Mais elle semblait heureuse.
-
-La deuxième compétence inhabituelle de Samia suscita un intérêt différent.
-
-**Coup astral.**
-
-Il s'agissait d'une attaque monocible de Ténèbres.
-
-Son coût en mana était relativement faible.
-
-Ses dégâts étaient modestes.
-
-Mais elle possédait une propriété exceptionnelle.
-
-Elle pouvait blesser une cible bénéficiant d'un statut d'invulnérabilité.
-
-À condition que l'attaque atteigne réellement cette cible.
-
-— Cela ne supprime pas l'invulnérabilité ? demanda un enseignant.
-
-Samia secoua la tête.
-
-— Non.
-
-— Et si votre projectile est intercepté avant d'atteindre l'ennemi ?
-
-— Alors il ne peut pas infliger de dégâts à la cible.
-
-Le directeur réfléchit.
-
-— Cela pourrait être intéressant contre certains démons de soutien des portails bleus.
-
-Hasol pencha la tête.
-
-— Pourquoi ?
-
-— Certaines créatures rendent leurs alliés invulnérables. Une attaque capable de blesser la cible malgré cette protection pourrait devenir très utile.
-
-Il regarda Samia.
-
-— Mais il faudra apprendre à atteindre vos adversaires dans les bonnes circonstances.
-
-La jeune Ranger acquiesça.
-
-Ses premiers entraînements commencèrent à l'arc.
-
-Samia connaissait déjà bien cette arme grâce à Zéphyr.
-
-Elle apprit progressivement à associer Coup astral à ses tirs.
-
-Mais une difficulté apparut rapidement.
-
-Lors d'un exercice, une protection intercepta sa flèche avant qu'elle puisse atteindre le mannequin placé derrière.
-
-Samia fronça les sourcils.
-
-— Pourtant, le sort peut infliger des dégâts à une cible invulnérable…
-
-Zéphyr acquiesça.
-
-— Oui. Mais ton attaque n'a jamais atteint le mannequin.
-
-Il lui montra la flèche arrêtée par le dispositif.
-
-— Être capable d'endommager une cible invulnérable ne signifie pas que ton projectile traverse automatiquement tous les obstacles.
-
-Samia resta silencieuse.
-
-Puis son regard se posa sur les dagues utilisées pour les exercices rapprochés.
-
-Elle s'en approcha.
-
-En prit une.
-
-Et réfléchit.
-
-— Papa ?
-
-Zéphyr tourna la tête.
-
-— Oui ?
-
-— Est-ce que je pourrais utiliser Coup astral directement avec une lame ?
-
-Le Ranger contempla la dague.
-
-Puis sa fille.
-
-— Nous pouvons le vérifier.
-
-Ils préparèrent un nouvel exercice.
-
-Samia s'approcha d'une cible.
-
-Elle concentra l'énergie de Ténèbres dans la dague.
-
-Puis frappa.
-
-Cette fois, l'attaque atteignit directement le mannequin.
-
-Samia recula.
-
-Ses yeux brillaient.
-
-— Ça fonctionne !
-
-Zéphyr acquiesça.
-
-— Oui.
-
-Puis il ajouta aussitôt :
-
-— Mais le combat rapproché présente des dangers supplémentaires.
-
-Samia contempla la lame.
-
-— Alors il faudra que j'apprenne à m'en servir correctement.
-
-Hasol, qui observait l'exercice, sourit.
-
-— Je connais quelqu'un qui pourrait t'aider !
-
-Zéphyr leva un sourcil.
-
-— Elric ?
-
-— Et moi !
-
-Samia éclata de rire.
-
-Hasol se redressa fièrement.
-
-— Je me débrouille plutôt bien avec les lames !
-
-Zéphyr sourit.
-
-— Dans ce cas, nous organiserons quelques séances communes.
-
-Samia regarda son arc.
-
-Puis la dague qu'elle tenait.
-
-Elle n'avait aucune intention d'abandonner l'arme que son père lui avait enseignée.
-
-Mais elle comprenait désormais qu'elle pouvait développer un second style de combat.
-
-L'arc pour les affrontements à distance.
-
-Les dagues lorsque ses attaques devaient atteindre directement l'adversaire.
-
-Et Coup astral pour exploiter les situations où une attaque ordinaire ne suffirait pas.
-
-Cette idée lui plaisait énormément.
 
 ### IX. L'Astrale et la Légendaire
 
@@ -5703,16 +5457,23 @@ Yoon lui montra sa description.
 <div class="system-window lit-window" data-window-id="L2-C2-F08" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F08-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F08.svg" alt="Fenêtre du système — Coût : 5 Mana.">
+    <img src="assets/fenetres-livre-2/L2-C2-F08.svg" alt="Fenêtre du système — Yoon Notos — Sage runique">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
-  <div class="system-header lit-window__header">Coût : 5 Mana.</div>
+  <div class="system-header lit-window__header">Yoon Notos — Sage runique</div>
+  <p>Rang : Légendaire.</p>
+  <h3>Pouvoirs initiaux</h3>
+  <p><strong>Résonance runique</strong> — actif ciblé amplifiant temporairement les principales des runes de l’allié choisi.</p>
+  <p><strong>Chant runique</strong> — cercle vert posé et autonome ; restaure 10&nbsp;% des PV maximaux de Yoon toutes les cinq secondes.</p>
+  <h3>Vague runique · Vague légendaire</h3>
+  <p>Attaque de Lumière.</p>
+  <p>Coût : 5 Mana.</p>
   <p>Portée : 10 mètres.</p>
   <p>Incantation : 5 secondes.</p>
   <p>Aucun temps de recharge.</p>
-  <p>Dégâts de base : 20 % de la Puissance arcanique de Yoon, avant prise en compte de la Défense et des affinités.</p>
-  <p>Effet légendaire : restaure au membre du groupe possédant le plus faible pourcentage de PV actuels une quantité de PV égale à 5 % des PV maximaux de Yoon.</p>
+  <p>Dégâts de base : 20&nbsp;% de la Puissance arcanique de Yoon, avant prise en compte de la Défense et des affinités.</p>
+  <p>Effet légendaire : restaure au membre du groupe possédant le plus faible pourcentage de PV actuels, Yoon comprise, une quantité de PV égale à 5&nbsp;% des PV maximaux de Yoon.</p>
   </details>
 </div>
 
@@ -5914,6 +5675,31 @@ La jeune Astrale aimait énormément ces moments.
 
 Elle avait l'impression que sa vie ne cessait de devenir plus heureuse.
 
+Yoon atteignit le niveau dix au cours de leurs entraînements communs. Elle voulut essayer sa nouvelle aptitude avec Hasol avant de l’utiliser sur le terrain.
+
+<div class="system-window lit-window" data-window-id="L2-C2-F12" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F12-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F12.svg" alt="Fenêtre du système — Niveau 10 atteint">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Niveau 10 atteint</div>
+  <h3>Sceau de lucidité</h3>
+  <p>Compétence active · Soutien ciblé</p>
+  <p>Marque un allié et réduit la durée du prochain ralentissement, étourdissement ou contrôle qu’il subit.</p>
+  <p>Le sceau ne confère aucune immunité.</p>
+  </details>
+</div>
+
+Sur le terrain de l’Académie, une écriture claire se posa brièvement sur le bras d’Hasol. Elric déclencha ensuite l’un des dispositifs de contrôle réservés aux exercices. La gêne saisit bien la jeune Astrale, mais se dissipa plus tôt que lors de l’essai précédent.
+
+— Je l’ai quand même senti, constata Hasol en remuant les épaules.
+
+— Le sceau réduit le contrôle, répondit Yoon. Il ne l’empêche pas.
+
+Elric approuva. Hasol, elle, sourit à son amie : ce pouvoir ne lui permettrait pas d’ignorer le danger, mais il pourrait lui rendre plus vite la possibilité d’agir.
+
 ### X. Trois chasseurs, cinquante points
 
 Lorsque Hasol atteignit le niveau vingt, elle se précipita vers Elric.
@@ -5976,29 +5762,27 @@ Hasol passa également chez Orven pour lui annoncer sa progression.
 
 Bénédiction runique venait de connaître une évolution importante.
 
-Au niveau vingt, la compétence réduisait désormais de quarante-cinq pour cent le risque relatif d'échec d'une amélioration.
+<div class="system-window lit-window" data-window-id="L2-C2-F10" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F10-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F10.svg" alt="Fenêtre du système — Passif amélioré">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Passif amélioré</div>
+  <h3>Bénédiction runique</h3>
+  </details>
+</div>
 
-Elle diminuait également de vingt-cinq pour cent la probabilité relative de ne pas obtenir le meilleur résultat possible lors d'un renforcement variable.
-
-Orven examina attentivement la description.
-
-Puis récupéra plusieurs registres.
+La notification ne lui indiquait aucun taux exact. Orven récupéra plusieurs registres.
 
 — Nous allons devoir revoir certaines de nos estimations.
 
-Hasol s'assit auprès de lui.
+Hasol s'assit auprès de lui. Ils comparèrent les travaux réalisés au cours des mois précédents et leur expérience des tentatives réussies, échouées ou renforcées sans résultat maximal.
 
-Ils comparèrent différents travaux réalisés au cours des mois précédents.
+Leurs registres suggéraient une réduction sensible des deux risques, sans leur permettre d'en connaître les valeurs réelles avec certitude. L'avantage ne garantissait toujours pas la réussite : une amélioration pouvait échouer et les ressources pouvaient être consommées.
 
-Les nouvelles propriétés représentaient un avantage considérable.
-
-Mais elles ne garantissaient toujours pas la réussite des tentatives.
-
-Une amélioration pouvait échouer.
-
-Les ressources pouvaient être consommées.
-
-Et même lorsqu'Hasol connaissait le résultat final exact d'une rune à +15, elle devait encore parvenir à ce palier.
+Même lorsqu'Hasol connaissait le résultat final exact d'une rune qui atteindrait +15 sous son travail, elle devait encore réussir la tentative de passage à ce palier.
 
 Orven sourit.
 
@@ -6344,11 +6128,11 @@ Puis une fenêtre apparut devant elle.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header">Croissance runique.</div>
-  <p>Boss de donjon personnellement achevé : +1.</p>
+  <p>Boss de donjon ou de portail personnellement achevé : +1.</p>
   </details>
 </div>
 
-Son compteur spécifique venait de progresser.
+Dans cette vie astrale, son compteur commun aux boss de donjon et de portail venait de progresser.
 
 Une seule élimination sur les cent nécessaires au prochain cercle obtenu par cette voie.
 
@@ -6410,9 +6194,9 @@ Croissance runique lui offrait plusieurs chemins distincts.
 
 Les monstres ordinaires admissibles éliminés hors des portails.
 
-Les boss de donjon personnellement achevés.
+Les boss de donjon ou de portail personnellement achevés.
 
-Et les démons de portails éliminés personnellement.
+Et les démons de portails éliminés personnellement, sans condition de niveau.
 
 Chaque catégorie possédait son propre compteur.
 
@@ -6425,6 +6209,27 @@ Elle ne pouvait pas augmenter ses cercles simplement en gagnant davantage d'exp�
 Elle devait remplir les conditions précises de son passif.
 
 Cette distinction devint une partie essentielle de sa stratégie.
+
+Yoon atteignit à son tour le niveau vingt pendant ces années d’expéditions. Sa nouvelle compétence trouva sa première utilité tactique lorsqu’un groupe de créatures tenta de déborder leur formation.
+
+<div class="system-window lit-window" data-window-id="L2-C2-F13" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F13-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F13.svg" alt="Fenêtre du système — Niveau 20 atteint">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Niveau 20 atteint</div>
+  <h3>Domaine des Entraves runiques</h3>
+  <p>Compétence active · Zone de contrôle</p>
+  <p>Cercle violet posé au sol, parcouru d’écritures runiques.</p>
+  <p>Ralentit les ennemis présents dans la zone.</p>
+  </details>
+</div>
+
+Un cercle violet se déploya devant Yoon. Les créatures qui le traversèrent continuèrent d’avancer, mais leurs mouvements se firent plus lourds. Hasol vit aussitôt l’ouverture : elle se replaça avant qu’elles atteignent leur flanc, tandis qu’Elric refermait la ligne avec son bouclier.
+
+Le Domaine ne les avait ni immobilisées ni vaincues. Il avait donné au trio le temps de reprendre sa formation, exactement comme Yoon l’avait voulu.
 
 Lorsqu'elle commença à participer à des raids de portails adaptés à son expérience, elle découvrit un autre aspect du métier de chasseuse.
 
@@ -6440,7 +6245,7 @@ Et tenir compte des capacités parfois très dangereuses des démons.
 
 Samia apportait désormais une aide précieuse à leur préparation.
 
-Grâce à Cartographie des portails, elle pouvait prévenir les responsables avant certaines manifestations.
+Grâce à Écho des Mondes et à Vision du Voile, elle partageait avec les responsables les portails détectés dans les zones qu'elle avait explorées et leur couleur, sans heure ni contenu.
 
 Les guildes gagnaient du temps pour organiser leurs interventions.
 
@@ -6450,7 +6255,7 @@ Ils n'appartenaient pas pour autant au trio de donjon d'Hasol, Yoon et Elric.
 
 Leurs activités étaient principalement liées aux raids de portails et aux formations constituées pour ces missions.
 
-Hasol retrouvait parfois son meilleur ami pendant les préparatifs.
+Hasol retrouvait parfois son meilleur ami pendant les préparatifs. Ray lui recommanda notamment les gobelins rouges de niveau onze, compatibles avec le compteur des mille tant qu'ils restaient admissibles pour son niveau.
 
 Ray étudiait toujours soigneusement les renseignements disponibles.
 
@@ -6612,9 +6417,19 @@ Orven éclata de rire.
 
 Lorsqu'Hasol atteignit le niveau trente, Bénédiction runique évolua de nouveau.
 
-La réduction relative du risque d'échec passa à **soixante pour cent**.
+<div class="system-window lit-window" data-window-id="L2-C2-F11" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F11-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F11.svg" alt="Fenêtre du système — Passif amélioré">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Passif amélioré</div>
+  <h3>Bénédiction runique</h3>
+  </details>
+</div>
 
-La réduction relative du risque de résultat non maximal atteignit **cinquante pour cent**.
+La description ne donnait toujours aucun taux. Leurs registres et leur expérience montrèrent progressivement à Hasol et Orven que les risques avaient encore diminué, sans leur livrer les valeurs exactes.
 
 Orven contempla longtemps la nouvelle description.
 
@@ -6629,6 +6444,31 @@ Hasol sourit.
 L'artisan éclata de rire.
 
 — Et je maintiens chaque mot !
+
+Lorsque Yoon atteignit le niveau trente, elle demanda à Hasol de l’aider à distinguer sa nouvelle aptitude de Chant runique.
+
+<div class="system-window lit-window" data-window-id="L2-C2-F14" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F14-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C2-F14.svg" alt="Fenêtre du système — Niveau 30 atteint">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Niveau 30 atteint</div>
+  <h3>Marque runique</h3>
+  <p>Compétence active · Soutien ciblé</p>
+  <p>Pose une marque sur un allié et lui applique un soin sur la durée.</p>
+  <p>Effet ciblé distinct de la zone de Chant runique.</p>
+  </details>
+</div>
+
+Après un exercice, Yoon posa la marque sur une éraflure du bras d’Hasol. Les écritures restèrent attachées à leur cible et diffusèrent leur soin progressivement, sans cercle vert au sol.
+
+— Chant soutient ceux qui restent dans sa zone, résuma Hasol. La Marque, elle, suit un seul allié.
+
+— Et elle ne referme pas tout d’un coup, confirma Yoon.
+
+Hasol acquiesça. Son amie gagnait une nouvelle manière de soutenir quelqu’un en mouvement, sans devenir pour autant une soigneuse pure.
 
 Les nouveaux cercles d'Hasol lui ouvraient également des possibilités d'équipement.
 
@@ -6666,7 +6506,7 @@ Hasol poursuivait ses entraînements.
 
 Yoon devenait une Légendaire de plus en plus compétente.
 
-Samia perfectionnait son tir à l'arc, ses techniques aux dagues et l'utilisation de Cartographie des portails.
+Samia perfectionnait son tir à l'arc, ses techniques aux dagues et l'utilisation progressive d'Écho des Mondes.
 
 Ray continuait de lui apporter des livres.
 
@@ -6898,7 +6738,7 @@ Le mentor sourit.
 
 Puis il récupéra une feuille.
 
-— Hasol possède une classe Astrale, soit vingt-cinq points. Yoon est Légendaire, pour vingt points. Samia est une Ranger astral commune, qui représente cinq points.
+— Hasol possède une classe Astrale, soit vingt-cinq points. Yoon est Légendaire, pour vingt points. Samia est une Marcheuse du voile commune, qui représente cinq points.
 
 Il écrivit le total.
 
@@ -6952,7 +6792,7 @@ Ses ensembles Vol de vie lui permettaient de récupérer des PV pendant les affr
 
 Yoon pouvait soigner et soutenir le groupe.
 
-Samia apportait sa maîtrise de l'arc, ses dagues et Coup astral.
+Samia apportait sa maîtrise de l'arc, ses dagues et Flèche du Néant.
 
 Mais elles ne disposaient plus d'un Porte-bouclier expérimenté pour attirer et encaisser les attaques.
 
@@ -6990,7 +6830,7 @@ Puis la jeune Astrale demanda :
 
 Samia sourit.
 
-— Je continuerai aussi à travailler avec les guildes sur Cartographie des portails.
+— Je continuerai aussi à travailler avec les guildes sur Écho des Mondes et Vision du Voile.
 
 — Naturellement.
 
@@ -7477,3 +7317,1770 @@ L'avenir lui paraissait immense.
 Pour l'instant, elle n'aurait échangé cette vie contre aucune autre.
 
 *Fin du chapitre 2 — Les prodiges de l'Académie*
+---
+
+<span id="chapitre-3"></span>
+
+## Chapitre 3 — Celle qui n'était pas dans les bois
+
+### I. Une nouvelle voie
+
+Hasol contemplait les pages de son carnet.
+
+Depuis qu'elle avait atteint le niveau trente, elle réfléchissait à la meilleure manière de poursuivre le développement de ses cercles de mana.
+
+Assis en face d'elle, Ray parcourait un ouvrage consacré aux créatures démoniaques.
+
+— Ray ?
+
+— Oui ?
+
+— À ma place, où irais-tu chasser maintenant ?
+
+Il referma son livre.
+
+— Pour gagner de l'expérience ou pour Croissance runique ?
+
+— Croissance runique, principalement.
+
+Ray réfléchit quelques instants.
+
+— Il serait peut-être temps de songer sérieusement aux portails. Avec ton équipement actuel, les démons rouges ne devraient pas te poser de problème.
+
+Hasol releva les yeux.
+
+— Les démons rouges…
+
+— Ils sont nombreux et tu possèdes désormais les capacités nécessaires pour les éliminer rapidement. Les boss de portail feront aussi progresser ton compteur de cent boss.
+
+Hasol tourna quelques pages de son carnet.
+
+Les gobelins rouges de niveau onze que Ray lui avait précédemment recommandés avaient largement contribué à sa progression. Mais il était désormais temps de changer de méthode.
+
+— Deux compteurs au cours d'une même expédition…
+
+— Exactement.
+
+Ray lui présenta son ouvrage.
+
+Ils passèrent une bonne partie de l'après-midi à étudier les différents portails qui s'offraient à elle.
+
+— Je vais proposer à Yoon et Samia de rejoindre régulièrement des raids. Et toi ? Tu pourrais venir avec nous.
+
+— Lorsque mon groupe sera disponible, avec plaisir.
+
+Hasol sourit.
+
+— Merci, Ray.
+
+— Tu me remercieras lorsque tu auras obtenu tes prochains cercles.
+
+— Dans ce cas, tu risques de m'entendre te remercier souvent.
+
+### II. Les pierres dont personne ne voulait
+
+Avant d'intensifier ses expéditions, Hasol souhaitait s'assurer qu'elle disposerait de suffisamment de runes pour utiliser régulièrement Aura runique.
+
+Elle se rendit chez Orven.
+
+— J'aurais besoin de davantage de runes.
+
+L'artisan désigna les différentes pierres exposées dans son atelier.
+
+— Quel ensemble recherches-tu ?
+
+— Aucun en particulier. Je voudrais celles dont personne ne veut.
+
+Orven la regarda quelques instants.
+
+— Encore ?
+
+— Beaucoup plus, cette fois.
+
+Elle lui expliqua ses projets concernant les portails.
+
+— Combien ?
+
+— Pour commencer, j'aimerais constituer une réserve de cinq cents runes.
+
+Orven posa ses outils.
+
+— Cinq cents ?
+
+— Et il faudra pouvoir renouveler cette réserve régulièrement.
+
+L'artisan réfléchit.
+
+Il connaissait suffisamment de marchands et d'artisans pour organiser un approvisionnement régulier. Les runes dépourvues de potentiel commercial encombraient leurs réserves et immobilisaient inutilement une partie de leur argent.
+
+Hasol leur offrait un débouché inattendu.
+
+— Je vais contacter quelques connaissances.
+
+— Même les runes blanches de faible qualité m'intéressent.
+
+— Je crois que tu vas devenir la cliente préférée de certains marchands.
+
+— Tant mieux.
+
+En parallèle, Hasol poursuivait ses propres activités d'artisanat.
+
+Grâce à Œil runique, elle pouvait identifier des pierres dont la véritable valeur échappait aux autres artisans.
+
+Une rune apparemment médiocre pouvait dissimuler d'excellentes statistiques secondaires.
+
+Elle les achetait, les améliorait, puis confiait leur revente à Orven, qui prélevait une commission sur les ventes.
+
+Cette collaboration leur était profitable à tous les deux.
+
+Hasol réinvestissait une partie importante de ses bénéfices dans l'acquisition de nouvelles runes, tout en conservant une réserve financière confortable.
+
+Elle pouvait ainsi financer ses expéditions sans dépendre exclusivement des récompenses obtenues lors de ses chasses.
+
+### III. L'élève et le maître
+
+Les progrès d'Hasol dans le domaine de l'artisanat runique continuaient d'étonner Orven.
+
+Depuis l'évolution de Bénédiction runique au niveau trente, les résultats de ses améliorations étaient devenus encore plus impressionnants.
+
+Elle poursuivait néanmoins ses recherches avec la même rigueur.
+
+Chaque amélioration était consignée.
+
+Chaque valeur maximale était enregistrée.
+
+Chaque résultat décevant était étudié.
+
+Elle comparait régulièrement ses observations aux anciens registres d'Orven afin d'affiner ses estimations concernant l'influence de son passif.
+
+Un jour, alors qu'elle travaillait sur une rune Vol de vie rare (bleue), 6★, Orven s'approcha de son établi.
+
+Il observa ses gestes sans intervenir.
+
+Hasol engagea une tentative vers le dernier palier d'amélioration. Elle pouvait encore échouer et perdre les ressources investies.
+
+Cette fois, la rune atteignit +15 : principale Attaque +160 ; secondaires Vitesse +8, PA +120, PV +150 et Résistance +6 %. La statistique principale bénéficia d'une augmentation considérable, tandis que la dernière amélioration secondaire atteignait sa valeur maximale.
+
+Orven récupéra la pierre.
+
+— Impressionnant.
+
+— J'espérais obtenir ce résultat.
+
+— Ce n'est pas uniquement le résultat qui m'impressionne.
+
+Hasol releva la tête.
+
+— Tes gestes sont devenus remarquablement précis. Certaines techniques que je t'ai enseignées, tu les maîtrises désormais mieux que moi.
+
+— Vous êtes sérieux ?
+
+— Je préférerais plaisanter.
+
+Elle éclata de rire.
+
+Hasol elle-même avait parfois du mal à expliquer la facilité avec laquelle elle assimilait certaines techniques.
+
+Il lui arrivait de comprendre instinctivement comment résoudre une difficulté, alors même qu'elle ne se souvenait pas avoir rencontré un problème similaire auparavant.
+
+Elle attribuait cette facilité à ses nombreuses heures de pratique.
+
+— Je suis encore loin de posséder vos connaissances, répondit-elle.
+
+— En matière de commerce, certainement. Pour le reste, je commence à avoir des doutes.
+
+Il reposa la rune devant elle.
+
+— Œil runique représente une véritable révolution pour notre métier. Rien que la possibilité de connaître à l'avance les statistiques secondaires d'une rune permettrait d'éviter d'innombrables dépenses inutiles.
+
+Hasol acquiesça.
+
+— Même lorsque ce n'est pas moi qui réalise l'amélioration. Mais la prédiction des valeurs exactes à +15 ne garantit jamais que la tentative de passage réussira.
+
+— Exactement. Mais entre tes mains, associé à Bénédiction runique et à ta maîtrise de l'artisanat, son potentiel est encore plus extraordinaire.
+
+Hasol contempla la pierre.
+
+Elle avait encore énormément de choses à apprendre.
+
+Mais pour la première fois, elle réalisa qu'elle pouvait désormais apporter à son maître autant qu'il lui apportait.
+
+### IV. Les démons rouges
+
+Les premières expéditions confirmèrent les recommandations de Ray.
+
+Les démons rouges étaient particulièrement intéressants pour Croissance runique.
+
+Ils étaient nombreux et Hasol disposait des capacités nécessaires pour les éliminer rapidement.
+
+Depuis la retraite d'Elric, elle avait pris l'habitude d'évoluer en première ligne.
+
+Ses deux ensembles Vol de vie lui permettaient de récupérer ses points de vie en combattant, tandis que Yoon assurait son soutien grâce à ses compétences de mage.
+
+Samia, quant à elle, exploitait la mobilité de sa Marcheuse du voile, son arc et sa connaissance du terrain.
+
+Elle utilisait sa dague lorsque les circonstances l'obligeaient à combattre à courte distance.
+
+Le trio fonctionnait remarquablement bien.
+
+Lors des raids, les autres chasseurs ne tardaient pas à remarquer la manière particulière dont Hasol combattait.
+
+Elle ne cherchait pas uniquement à éliminer les démons les plus dangereux.
+
+Elle cherchait à en éliminer le plus grand nombre possible.
+
+Chaque démon qu'elle éliminait personnellement dans un portail représentait une progression supplémentaire, sans condition de niveau pour ce compteur.
+
+Chaque boss de donjon ou de portail qu'elle achevait personnellement alimentait un autre compteur.
+
+Les portails se succédèrent.
+
+Hasol adaptait régulièrement ses choix en fonction de son niveau.
+
+Elle savait désormais qu'une créature trop faible ne lui permettrait plus de faire progresser certains de ses compteurs, comme elle l'avait constaté avec les slimes lorsqu'elle avait atteint le niveau vingt.
+
+Ray participait également à plusieurs de leurs raids.
+
+Il pouvait ainsi observer directement les créatures qu'il avait étudiées à la bibliothèque et confronter ses connaissances à la réalité du terrain.
+
+Leurs conversations après les expéditions devenaient parfois interminables.
+
+Hasol cherchait constamment de nouvelles manières d'améliorer son efficacité.
+
+Mais ce fut Samia qui lui proposa l'une des idées les plus inattendues.
+
+### V. Une question de couleurs
+
+Au cours d'une expédition, Samia avait passé plusieurs minutes à observer un groupe de démons rouges.
+
+Elle attendit que le raid fasse une pause avant de partager ses observations.
+
+— Vous avez remarqué la manière dont les démons réagissent lorsqu'ils se croisent ?
+
+Yoon secoua la tête.
+
+— Qu'est-ce que tu veux dire ?
+
+— Lorsqu'ils nous aperçoivent, ils nous identifient presque immédiatement comme des ennemis. En revanche, ils semblent réagir différemment lorsqu'un autre démon entre dans leur champ de vision.
+
+Hasol s'intéressa immédiatement à ses explications.
+
+— Tu penses que leur perception repose en partie sur les couleurs ?
+
+— C'est possible. Regardez-les. Ils sont presque tous rouges. Au milieu d'eux, nos tenues nous rendent particulièrement faciles à identifier.
+
+— Et qu'est-ce que tu proposes ? demanda Yoon.
+
+— Que nous portions toutes les trois des tenues rouges.
+
+Hasol contempla ses vêtements.
+
+— Tu penses vraiment que cela suffirait ?
+
+— Pas à nous rendre invisibles. Mais cela pourrait légèrement augmenter le temps dont ils ont besoin pour nous identifier comme des ennemis.
+
+— Une fraction de seconde, peut-être, remarqua Yoon.
+
+— Exactement.
+
+Samia se tourna vers Hasol.
+
+— Et pour toi, qui élimines les monstres si rapidement grâce à Aura runique, cela pourrait faire une énorme différence. Certains démons n'auront peut-être même pas le temps de réagir avant que tu les aies tués.
+
+Hasol réfléchit.
+
+Moins d'attaques à esquiver.
+
+Moins d'interruptions.
+
+Davantage de temps consacré à l'élimination des démons.
+
+— Je pourrais en éliminer davantage au cours d'une même expédition.
+
+— C'est l'idée, répondit Samia.
+
+— Et donc obtenir mes prochains cercles plus rapidement.
+
+Yoon éclata de rire.
+
+— Il suffisait de lui parler de ses cercles de mana.
+
+Hasol sourit.
+
+— Je vais en parler à ma mère.
+
+### VI. Les cadeaux d'Iseria
+
+Le lendemain, Hasol rendit visite à sa mère en compagnie de Yoon et de Samia.
+
+— Maman, nous aurions besoin de trois nouvelles tenues de chasse.
+
+— Trois ? Vous souhaitez quelque chose de particulier ?
+
+— Du rouge, répondit Samia.
+
+Iseria observa les trois jeunes femmes.
+
+— Toutes les trois ?
+
+Samia lui expliqua ses observations concernant les démons rouges et l'avantage tactique qu'elles espéraient obtenir.
+
+Iseria l'écouta attentivement.
+
+— Voilà une idée intéressante. Je suppose que vous souhaitez conserver les particularités de vos tenues habituelles ?
+
+— Exactement, confirma Hasol.
+
+Iseria s'intéressa aux besoins de chacune.
+
+Hasol devait conserver une grande liberté de mouvement pour combattre au corps à corps.
+
+Samia devait pouvoir utiliser son arc sans être gênée par ses vêtements, tout en conservant un accès rapide à sa dague.
+
+Yoon avait besoin d'une tenue adaptée à son rôle de mage de soutien.
+
+— Je devrais pouvoir vous trouver quelque chose.
+
+— J'aurais également une demande supplémentaire, ajouta Hasol.
+
+— Je t'écoute.
+
+— Un masque représentant un démon rouge.
+
+Samia se tourna lentement vers elle.
+
+— Tu es sérieuse ?
+
+— Si nous cherchons à retarder leur identification, autant essayer de dissimuler également mon visage.
+
+Iseria sourit.
+
+— Très bien. Laisse-moi quelques jours.
+
+Hasol s'attendait à recevoir trois tenues relativement simples, semblables à celles qu'elles portaient habituellement, mais dont les couleurs auraient été adaptées à leur nouvelle stratégie.
+
+Elle était loin d'imaginer ce que sa mère leur réservait.
+
+Quelques jours plus tard, Iseria invita les trois jeunes femmes à découvrir leurs nouvelles tenues.
+
+Lorsqu'elle les dévoila, un silence s'installa.
+
+Les trois ensembles partageaient les mêmes couleurs : un rouge écarlate profond, du noir et de magnifiques ornements dorés.
+
+Pourtant, chacun possédait sa propre identité.
+
+Samia s'approcha de sa tenue, admirant la finesse des coutures.
+
+Yoon, quant à elle, semblait presque hésiter à toucher la sienne.
+
+— Mais… ces tenues doivent coûter une fortune !
+
+Hasol partageait son étonnement.
+
+— Maman, nous avions simplement besoin de tenues rouges pour nos expéditions…
+
+— Et elles sont rouges, répondit Iseria avec un sourire.
+
+— Ce n'est pas vraiment ce que je voulais dire…
+
+— Elles ne vous plaisent pas ?
+
+— Si ! Elles sont magnifiques ! s'empressa de répondre Yoon. Mais je ne suis pas certaine de pouvoir me permettre une telle dépense.
+
+— Qui a parlé de vous faire payer ?
+
+Les trois jeunes femmes regardèrent Iseria.
+
+— Considérez-les comme des cadeaux.
+
+— Des cadeaux ? répéta Samia.
+
+— Maman, tu es sérieuse ? demanda Hasol.
+
+— Tout à fait. Et je ne vous ai pas encore tout montré.
+
+Iseria ouvrit plusieurs coffrets disposés derrière les tenues.
+
+Samia découvrit un magnifique arc aux finitions écarlates et dorées, accompagné d'une dague dont le fourreau s'intégrait parfaitement à sa nouvelle tenue.
+
+Yoon resta sans voix devant un bâton de mage surmonté d'un cristal rouge.
+
+Hasol, quant à elle, contempla une épée dont les ornements reprenaient les motifs de sa tenue.
+
+Elle la souleva délicatement.
+
+La qualité de sa fabrication était remarquable.
+
+— Maman… Nous ne t'avions pas demandé de nouvelles armes.
+
+— Je sais, mais je trouvais dommage que vos armes ne soient pas assorties à vos vêtements.
+
+Les trois jeunes femmes échangèrent un regard.
+
+— Tu nous as procuré de nouvelles armes simplement pour qu'elles soient assorties à nos tenues ? demanda Hasol, incrédule.
+
+— Vous n'allez tout de même pas vous plaindre ?
+
+— Ce n'est pas la question !
+
+Yoon contempla alternativement son bâton et sa tenue.
+
+— Je crois que je n'ai jamais possédé un équipement aussi luxueux.
+
+— Moi non plus, ajouta Samia.
+
+Hasol examina une nouvelle fois son épée.
+
+— Combien tout cela t'a-t-il coûté ?
+
+— Ce sont des cadeaux, Hasol. Tu n'as pas à t'en préoccuper.
+
+— Mais…
+
+Yoon se tourna vers elle avec un sourire malicieux.
+
+— De toute façon, vu ta maison, j'ai toujours su que tu étais une princesse.
+
+Samia éclata de rire.
+
+— Yoon !
+
+— Quoi ? Regarde ses vêtements, sa maison et maintenant les cadeaux de sa mère ! Il ne lui manque plus qu'une couronne.
+
+— Je ne suis pas une princesse !
+
+— Toutes mes excuses, Votre Altesse.
+
+Samia s'inclina à son tour, incapable de retenir son rire.
+
+Iseria observait les trois jeunes femmes avec amusement.
+
+— Allez, Votre Altesse, il serait peut-être temps d'essayer votre nouvelle tenue.
+
+— Maman ! Pas toi aussi !
+
+Les quatre femmes éclatèrent de rire.
+
+Iseria tendit ensuite une dernière boîte à sa fille.
+
+Hasol l'ouvrit.
+
+À l'intérieur reposait un magnifique masque de démon rouge, pourvu de deux cornes. La précision de ses détails dépassait largement ses attentes.
+
+— Même le masque…
+
+— Il correspond à ce que tu souhaitais ?
+
+— Il est encore mieux que ce que j'imaginais. Mais comment as-tu réussi à obtenir tout ça en si peu de temps ?
+
+— J'ai encore quelques connaissances, ma chérie.
+
+— Des connaissances ?
+
+— Tu n'es pas la seule à connaître du monde.
+
+Iseria n'ajouta rien de plus et invita les trois jeunes femmes à essayer leurs nouvelles tenues.
+
+Tandis que sa mère aidait Yoon à ajuster la sienne, Hasol se perdit dans ses pensées.
+
+La plaisanterie de son amie continuait de résonner dans son esprit.
+
+Elle repensa à leur maison, puis à la garde-robe d'Iseria.
+
+Depuis son enfance, elle avait toujours vu sa mère porter de magnifiques vêtements. Elle n'y avait jamais accordé une attention particulière.
+
+Son père, Armin, bénéficiait certes d'une bonne situation. Sa famille n'avait jamais manqué de rien.
+
+Pourtant, certaines tenues de sa mère étaient bien plus raffinées que celles portées par les nobles qu'elle avait eu l'occasion de rencontrer.
+
+Et il en allait de même pour chacune des tenues qu'Iseria lui avait offertes depuis son enfance.
+
+Hasol se remémora alors plusieurs rencontres au cours desquelles des nobles l'avaient initialement prise pour l'une des leurs.
+
+Elle avait toujours trouvé ces méprises amusantes, sans véritablement chercher à en comprendre la raison.
+
+Depuis qu'elle travaillait avec Orven et fréquentait régulièrement les marchands, elle avait pourtant acquis une bien meilleure compréhension de la valeur des matériaux et du travail artisanal.
+
+Ce qui lui paraissait autrefois ordinaire ne l'était peut-être pas du tout.
+
+Elle-même disposait désormais de revenus considérables grâce à son activité d'artisanat runique.
+
+Pourtant, elle aurait probablement hésité avant de dépenser une telle somme pour trois équipements de chasse.
+
+Sa mère, en revanche, venait de leur offrir des vêtements et des armes d'une qualité exceptionnelle.
+
+Et tout cela simplement parce qu'elles souhaitaient porter du rouge.
+
+*Papa gagne bien sa vie, mais tout de même…*
+
+Hasol observa Iseria.
+
+— Maman ?
+
+— Oui, ma chérie ?
+
+Elle hésita quelques instants.
+
+— Non, rien… Merci pour les cadeaux.
+
+— Tout le plaisir est pour moi.
+
+Iseria lui adressa un sourire chaleureux avant de reprendre ses occupations.
+
+Hasol contempla une nouvelle fois les trois équipements.
+
+Pour la première fois, elle se demanda sérieusement ce qu'elle connaissait réellement du passé de sa mère.
+
+*Maman… Qui étais-tu avant de rencontrer papa ?*
+
+### VII. Les chasseuses écarlates
+
+Quelques jours plus tard, Yoon et Samia attendaient Hasol devant un portail.
+
+Les cheveux argentés de Samia, coupés relativement courts, contrastaient avec sa nouvelle tenue écarlate. Son nouvel arc reposait dans sa main, tandis qu'une unique dague était attachée à sa ceinture.
+
+À ses côtés, Yoon portait sa magnifique tenue de mage. Ses longs cheveux aux nuances violettes et roses encadraient son visage, et elle tenait fièrement son nouveau bâton.
+
+— Je n'ose toujours pas imaginer le prix de tout cet équipement, remarqua Yoon.
+
+— Hasol non plus, apparemment.
+
+— Sa mère est vraiment incroyable.
+
+Une silhouette s'approcha.
+
+Samia resta silencieuse.
+
+Yoon ouvrit de grands yeux.
+
+Hasol portait sa nouvelle tenue rouge et noire, ornée de motifs dorés. Sa longue chevelure noire était attachée et sa nouvelle épée reposait à sa taille.
+
+Mais ce fut son visage qui attira immédiatement leur attention.
+
+Le masque de démon rouge dissimulait entièrement ses traits.
+
+— Hasol ? demanda Yoon.
+
+— Oui ?
+
+Samia la contempla quelques secondes.
+
+— Je parlais simplement de changer la couleur de nos vêtements.
+
+— Je sais.
+
+— Tu as vraiment pris mon idée au sérieux.
+
+— Évidemment.
+
+Yoon éclata de rire.
+
+— Tu risques surtout d'effrayer les autres chasseurs.
+
+Hasol retira momentanément son masque.
+
+— Vous n'aimez pas ?
+
+— Si, répondit Samia. Mais préviens-nous avant de surgir derrière nous avec ça.
+
+— Notre princesse s'est transformée en reine des démons, ajouta Yoon.
+
+— Tu comptes vraiment continuer avec cette histoire de princesse ?
+
+— Absolument.
+
+Les trois jeunes femmes rejoignirent les autres membres du raid.
+
+Plusieurs chasseurs se retournèrent à leur passage.
+
+Leurs tenues et leurs armes semblaient avoir été conçues pour former un ensemble unique.
+
+Mais Hasol, avec son masque démoniaque, suscitait une curiosité particulière.
+
+Quelques instants plus tard, les trois silhouettes écarlates franchirent ensemble le portail.
+
+Les premiers affrontements confirmèrent les observations de Samia.
+
+Les démons continuaient de les identifier comme des ennemis, mais leur réaction semblait légèrement retardée.
+
+La différence était minime.
+
+Pour Hasol, elle était pourtant exploitable.
+
+Elle parvenait parfois à frapper un démon avant même que celui-ci ait commencé à réagir à sa présence.
+
+Elle enchaînait alors immédiatement avec le suivant.
+
+Yoon et Samia constatèrent également qu'elles disposaient parfois d'un bref instant supplémentaire pour préparer leurs attaques ou modifier leur position.
+
+À la fin de l'expédition, Hasol consulta la progression de ses compteurs.
+
+— Samia.
+
+— Oui ?
+
+— Nous allons conserver ces tenues.
+
+Samia sourit.
+
+— Je suppose que les résultats sont satisfaisants ?
+
+— Très satisfaisants.
+
+Hasol venait de recevoir un rappel important.
+
+Toutes les améliorations de ses capacités ne provenaient pas nécessairement du Système.
+
+Une simple observation, une meilleure connaissance de l'adversaire ou un changement de tenue pouvaient également améliorer son efficacité.
+
+Et contrairement à une rune, sa nouvelle tenue n'occupait aucun cercle de mana.
+
+### VIII. L'Astrale sanguinaire
+
+Les semaines passèrent.
+
+Hasol multipliait les expéditions dans les portails.
+
+Orven lui avait constitué un réseau d'approvisionnement particulièrement efficace. Les marchands et les artisans avaient pris l'habitude de lui réserver les runes dont ils ne parvenaient pas à se débarrasser.
+
+Les caisses arrivaient régulièrement à l'atelier.
+
+Et Hasol les vidait avec une rapidité qui continuait de surprendre Orven.
+
+Dans les portails, sa réputation grandissait.
+
+Les chasseurs reconnaissaient désormais sa tenue écarlate et son masque de démon.
+
+Lorsqu'elle se retrouvait au milieu des créatures, il devenait parfois difficile de distinguer sa silhouette de celles de ses adversaires.
+
+Elle traversait les groupes de démons avec une détermination impressionnante.
+
+Yoon veillait à maintenir son soutien, tandis que Samia surveillait les alentours et éliminait les créatures susceptibles de menacer les autres membres du raid.
+
+Lors d'une expédition, deux chasseurs observèrent Hasol s'éloigner vers un nouveau groupe de démons.
+
+— Elle en a déjà éliminé combien ?
+
+— Aucune idée. J'ai arrêté de compter.
+
+— Et elle continue ?
+
+— Tu ne connais pas sa classe ? C'est une Astrale.
+
+Le premier chasseur secoua la tête.
+
+— Une Astrale complètement sanguinaire, oui.
+
+L'expression fit rire plusieurs de leurs compagnons.
+
+Elle fut répétée lors des expéditions suivantes.
+
+Puis elle se répandit parmi les chasseurs qui fréquentaient régulièrement les portails.
+
+**L'Astrale sanguinaire.**
+
+Certains prononçaient ce surnom avec admiration.
+
+D'autres avec une certaine appréhension.
+
+Tous s'accordaient cependant sur un point : participer à un raid en sa présence facilitait considérablement l'élimination des démons.
+
+Hasol finit par apprendre l'existence de ce surnom lorsque Samia le prononça devant elle.
+
+— Notre Astrale sanguinaire est prête ?
+
+— Notre quoi ?
+
+Yoon éclata de rire.
+
+— Tu ne savais pas ?
+
+— Savoir quoi ?
+
+— C'est comme ça que certains chasseurs t'appellent maintenant.
+
+Hasol retira son masque.
+
+— Sanguinaire ?
+
+— Il faut dire que tu ne leur laisses pas beaucoup de démons, répondit Samia.
+
+— J'en ai besoin pour mes cercles de mana !
+
+— Nous le savons.
+
+— Alors pourquoi sanguinaire ?
+
+Yoon désigna son masque.
+
+— Tu veux vraiment que je réponde à cette question ?
+
+Hasol contempla le visage démoniaque qu'elle tenait entre ses mains.
+
+Elle finit par sourire.
+
+— Bon… Je suppose que je peux comprendre.
+
+Le soir même, elle retrouva Ray à la bibliothèque.
+
+Samia avait manifestement été plus rapide qu'elle.
+
+— Bonsoir, Astrale sanguinaire.
+
+Hasol s'immobilisa.
+
+— Pas toi aussi…
+
+Ray éclata de rire.
+
+— Je trouve que ça te va plutôt bien.
+
+— Je ne suis pas sanguinaire.
+
+— Bien sûr que non.
+
+Il désigna les livres disposés sur leur table.
+
+— La terrifiante Astrale sanguinaire, capable de passer trois heures à comparer des statistiques secondaires.
+
+— Ray…
+
+— La terreur des démons rouges et des marchands de mauvaises runes.
+
+Hasol tenta de conserver son sérieux.
+
+Elle finit par éclater de rire à son tour.
+
+### IX. Un compagnon inattendu
+
+Un matin, alors que les chasseurs se rassemblaient devant un portail, Yoon aperçut une silhouette familière.
+
+— Zio ?
+
+Son frère se retourna.
+
+— Bonjour, petite sœur.
+
+Yoon s'approcha immédiatement de lui.
+
+Hasol et Samia la suivirent.
+
+— Cela faisait longtemps, remarqua Hasol.
+
+— Effectivement.
+
+Zio contempla leurs équipements.
+
+— Vous avez décidé de former une troupe de démons ?
+
+— C'est une stratégie de camouflage, répondit Samia.
+
+Son regard se posa ensuite sur le masque d'Hasol.
+
+— Alors, c'est toi, l'Astrale sanguinaire ?
+
+Hasol soupira.
+
+— Même toi, tu as entendu parler de ça ?
+
+— Difficile de ne pas en entendre parler.
+
+Il lui adressa un sourire.
+
+Hasol était heureuse de le retrouver.
+
+Ils n'avaient pas eu beaucoup d'occasions de discuter ces derniers temps, chacun étant occupé par ses propres expéditions.
+
+Le raid pénétra dans le portail.
+
+Zio démontra rapidement les qualités qu'il avait développées au cours de ses années de chasse.
+
+Il protégeait efficacement les membres les plus exposés et permettait aux combattants à distance de conserver leurs positions.
+
+Hasol, de son côté, poursuivait sa propre progression.
+
+Elle n'avait plus besoin qu'un gardien l'accompagne constamment.
+
+Ses ensembles Vol de vie lui permettaient de maintenir ses points de vie tant qu'elle pouvait continuer à infliger des dégâts.
+
+La présence de Zio était néanmoins particulièrement appréciable pour le reste du raid.
+
+Lors d'une pause, Yoon s'assit auprès de son frère.
+
+— D'ailleurs, comment se fait-il que tu sois disponible aujourd'hui ? Tu n'avais rien de prévu avec ton groupe ?
+
+Zio perdit son sourire.
+
+— Ils m'ont donné quelques jours pour réfléchir à mes erreurs.
+
+— Tes erreurs ?
+
+— C'est ce qu'ils prétendent.
+
+Il croisa les bras.
+
+— On ne s'entend pas particulièrement bien en ce moment. Et comme d'habitude, c'est à moi de me remettre en question.
+
+— Qu'est-ce qui s'est passé ?
+
+— Je ne peux pas t'en parler.
+
+Yoon observa son frère.
+
+— Tu as l'air vraiment en colère.
+
+— Évidemment que je suis en colère ! Je n'ai rien fait de mal.
+
+Elle n'insista pas.
+
+Un peu plus loin, Hasol et Ray examinaient les restes d'un démon.
+
+— Je te l'avais dit, déclara Ray.
+
+— Tu avais dit qu'il possédait une résistance élevée.
+
+— Et ?
+
+— Tu n'avais pas dit à quel point.
+
+— C'est un détail.
+
+Hasol éclata de rire.
+
+— Un détail qui a failli te coûter ton arme.
+
+Ray examina son équipement.
+
+— Je vais devoir trouver un bon artisan.
+
+— Je connais quelqu'un.
+
+— Ses tarifs sont raisonnables ?
+
+— Pour toi, ils risquent d'être particulièrement élevés.
+
+— Quelle générosité.
+
+Hasol lui donna un léger coup d'épaule.
+
+Lorsque le raid reprit sa progression, elle rejoignit naturellement Ray.
+
+Zio ne participa à aucune autre expédition avec eux durant cette période.
+
+Quelques jours plus tard, il avait retrouvé son groupe habituel.
+
+### X. Une puissance soigneusement construite
+
+Chaque nouveau cercle de mana obtenu permettait à Hasol d'améliorer son équipement.
+
+Elle ne laissait rien au hasard.
+
+Elle préparait régulièrement plusieurs runes à l'avance afin de pouvoir les équiper dès l'apparition d'un nouveau cercle.
+
+Les pierres de quatre étoiles qu'elle avait autrefois été heureuse d'acquérir cédaient progressivement leur place à des runes de cinq et six étoiles.
+
+Elle accordait cependant davantage d'importance à leur potentiel réel qu'à leur seule rareté.
+
+Une rune bleue possédant des statistiques secondaires parfaitement adaptées à ses besoins pouvait se révéler plus intéressante qu'une rune légendaire mal adaptée à son équipement.
+
+Œil runique lui permettait de réaliser cette sélection avec une précision inaccessible aux autres artisans.
+
+Bénédiction runique lui offrait ensuite de meilleures chances d'obtenir les valeurs maximales recherchées.
+
+Elle ne réussissait pas systématiquement.
+
+Certaines pierres n'atteignaient pas les résultats qu'elle espérait.
+
+D'autres, en revanche, devenaient de véritables chefs-d'œuvre.
+
+Elle continuait d'étudier les améliorations obtenues aux paliers +3, +6, +9, +12 et +15.
+
+La rareté native d'une rune déterminait le nombre de statistiques secondaires qu'elle possédait initialement. Mais ni cette rareté ni son nombre d'étoiles ne changeaient au cours de son amélioration.
+
+C'était précisément pour cette raison que la sélection initiale des pierres était si importante.
+
+Hasol conservait également précieusement la Fatal rare (bleue), 6★, et la Gardien rare (bleue), 6★, que son père lui avait offertes.
+
+Elles avaient naturellement bénéficié de ses progrès en artisanat et avaient atteint le quinzième palier d'amélioration.
+
+Elle ne souhaitait pas s'en séparer.
+
+Parallèlement, elle cherchait à augmenter ses chances de réaliser des coups critiques.
+
+Elle avait parfaitement compris l'intérêt d'Infiltration runique.
+
+Contre les démons ordinaires, elle pouvait généralement se contenter de ses capacités habituelles.
+
+Contre les adversaires les plus résistants, en revanche, obtenir cet effet pouvait considérablement réduire la durée d'un affrontement.
+
+Le problème demeurait le coût en mana des activations successives d'Aura runique.
+
+Même avec ses nombreux cercles, Hasol devait encore gérer attentivement ses ressources.
+
+Elle ignorait alors que sa prochaine montée de niveau allait profondément modifier sa manière de combattre. Les anciennes runes Vol de vie 4★ avaient déjà été remplacées progressivement par des exemplaires 5★ et 6★ ; les deux cadeaux paternels, eux, étaient conservés et améliorés.
+
+### XI. Le quarantième niveau
+
+Les démons affluaient.
+
+Hasol venait d'en achever un nouveau lorsqu'une notification apparut devant elle.
+
+<div class="system-window lit-window" data-window-id="L2-C3-F01" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F01-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C3-F01.svg" alt="Fenêtre du système — Montée de niveau">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Montée de niveau</div>
+  <p><strong>39 → 40</strong></p>
+  <h3>Siphon runique</h3>
+  <p>Compétence active · Élément Vent · Dégâts de zone</p>
+  <p>Dégâts : <strong>120&nbsp;% de la PA</strong></p>
+  <p>Mana récupéré : <strong>75&nbsp;% des dégâts infligés</strong></p>
+  <p>Rayon : <strong>8 mètres</strong></p>
+  <p>Coût : <strong>100 Mana</strong></p>
+  <p>Temps de recharge : <strong>20 secondes</strong></p>
+  <p>Récupération maximale : <strong>1&nbsp;200 Mana</strong></p>
+  </details>
+</div>
+
+Hasol relut attentivement la description.
+
+Une compétence de zone.
+
+Des dégâts de Vent, un élément ne bénéficiant d'aucun avantage élémentaire, mais ne subissant également aucun désavantage.
+
+Et surtout, une récupération de mana proportionnelle aux dégâts infligés.
+
+Elle leva les yeux vers les démons.
+
+— Yoon ! Samia ! Je viens d'obtenir une nouvelle compétence !
+
+— Tu es passée niveau quarante ? demanda Yoon.
+
+— Oui !
+
+Hasol attendit que plusieurs créatures se trouvent à proximité.
+
+— Siphon runique !
+
+Le vent se déchaîna autour d'elle.
+
+Une violente onde parcourut les environs, frappant simultanément les démons présents dans son rayon d'action.
+
+Hasol consulta immédiatement sa réserve de mana.
+
+La récupération maximale avait été atteinte.
+
+Mille deux cents points de mana récupérés pour seulement cent points dépensés.
+
+Un gain net de mille cent points.
+
+Elle resta immobile quelques instants.
+
+Puis un large sourire apparut sous son masque.
+
+— Oh…
+
+Samia reconnut immédiatement cette réaction.
+
+— Qu'est-ce que tu viens encore de découvrir ?
+
+— Je peux récupérer mon mana en infligeant des dégâts.
+
+— Combien ?
+
+— Jusqu'à mille deux cents points toutes les vingt secondes.
+
+Yoon contempla les démons qui continuaient d'approcher.
+
+— Avec autant de cibles, tu ne risques plus de manquer de mana.
+
+Hasol sortit une rune de sa réserve.
+
+— Exactement.
+
+Samia soupira.
+
+— Je crois que je commence à comprendre.
+
+Hasol activa Aura runique.
+
+Puis elle recommença.
+
+### XII. Trente secondes
+
+Siphon runique transforma profondément les habitudes de combat d'Hasol.
+
+Dans les affrontements contre de nombreux adversaires, elle pouvait désormais reconstituer régulièrement sa réserve de mana.
+
+Elle commença à multiplier les activations d'Aura runique.
+
+Les pierres se désagrégeaient les unes après les autres entre ses doigts.
+
+Les démons rouges bénéficiaient déjà de peu de temps pour réagir à son approche grâce à sa tenue et à son masque.
+
+Sa nouvelle compétence réduisait encore les interruptions dans sa progression.
+
+Sa réputation d'Astrale sanguinaire ne fit que grandir.
+
+Ce fut néanmoins contre les boss que Hasol découvrit une autre manière d'exploiter cette nouvelle liberté.
+
+Lors d'une expédition, Samia la vit activer plusieurs fois Aura runique alors que son épée était déjà imprégnée.
+
+— Pourquoi recommences-tu ?
+
+— Je cherche un coup critique.
+
+Hasol sacrifia une nouvelle rune.
+
+Puis une autre.
+
+Enfin, la notification attendue apparut.
+
+<div class="system-window lit-window" data-window-id="L2-C3-F02" data-window-type="activation">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F02-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C3-F02.svg" alt="Fenêtre du système — Coup critique">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Coup critique</div>
+  <h3>Infiltration runique</h3>
+  <p>Durée : <strong class="temporary-bonus">30 secondes</strong></p>
+  </details>
+</div>
+
+
+
+— Voilà !
+
+Hasol s'élança.
+
+Elle exploita immédiatement les trente secondes dont elle disposait.
+
+La défense de son adversaire ne constituait plus le même obstacle.
+
+Ses frappes infligeaient des dégâts considérables.
+
+Lorsque l'effet disparut, elle recommença à sacrifier des runes jusqu'à obtenir un nouveau coup critique.
+
+Dans les affrontements où suffisamment de créatures étaient présentes, Siphon runique lui permettait de compenser une grande partie de ses dépenses.
+
+Elle adopta également cette stratégie contre les monstres ordinaires dont la résistance ralentissait trop sa progression.
+
+Yoon et Samia s'adaptèrent rapidement à cette nouvelle manière de combattre.
+
+Samia finit néanmoins par lui poser une question.
+
+— Combien de runes as-tu détruites aujourd'hui ?
+
+Hasol réfléchit.
+
+— Beaucoup.
+
+— C'est très précis.
+
+— Je les compterai ce soir.
+
+— Orven va devoir acheter toutes les mauvaises runes de la région.
+
+— C'est déjà plus ou moins ce qu'il fait.
+
+Yoon éclata de rire.
+
+Le lendemain, Hasol se rendit effectivement chez l'artisan.
+
+— Il va falloir augmenter les commandes.
+
+Orven leva lentement les yeux de son registre.
+
+— Encore ?
+
+### XIII. Une progression différente
+
+Au fil des expéditions, Yoon continuait de réduire l'écart de niveau qui la séparait d'Hasol.
+
+Un jour, elle poussa un cri de satisfaction.
+
+— Niveau quarante !
+
+Une seconde notification se déploya devant Yoon.
+
+<div class="system-window lit-window" data-window-id="L2-C3-F06" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F06-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C3-F06.svg" alt="Fenêtre du système — Niveau 40 atteint">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Niveau 40 atteint</div>
+  <h3>Résonance runique</h3>
+  <p>Évolution de Résonance runique · Actif ciblé</p>
+  <p>Amplifie les principales et les deux premières secondaires présentes de chaque rune de la cible.</p>
+  <p>Les troisième et quatrième secondaires ainsi que les bonus d’ensemble sont exclus.</p>
+  </details>
+</div>
+
+— Ma Résonance vient d’évoluer, annonça-t-elle. Elle peut maintenant atteindre les deux premières secondaires de chaque rune.
+
+Hasol lui tendit aussitôt la main. Yoon activa son pouvoir sur elle ; la sensation familière de ses principales renforcées s’accompagna cette fois d’échos plus fins, limités aux premières lignes secondaires de chaque pierre.
+
+— Pas les suivantes, constata Hasol en consultant les effets.
+
+— Ni les ensembles, confirma Yoon. Mais c’est déjà beaucoup plus qu’avant.
+
+Hasol partageait son sourire. Cette progression appartenait à Yoon, construite au fil de leurs années d’entraînement et de combat.
+
+Hasol lui adressa un large sourire.
+
+— Félicitations !
+
+— Je t'ai enfin rattrapée !
+
+Samia croisa les bras.
+
+— Vous pourriez faire un petit effort, toutes les deux.
+
+Yoon se tourna vers elle.
+
+— Pardon ?
+
+— Je vous attends depuis un moment, maintenant.
+
+Hasol éclata de rire.
+
+Samia avait déjà dépassé le niveau quarante.
+
+Malgré le nombre considérable de démons qu'Hasol éliminait personnellement, sa classe astrale nécessitait qualitativement davantage d'expérience, à niveau égal, que les classes de rareté inférieure. Aucune table ne lui permettait d'en déduire un écart exact.
+
+Cette différence expliquait pourquoi ses deux anciennes élèves avaient progressivement réduit leur retard.
+
+Hasol n'en éprouvait aucune frustration.
+
+Bien au contraire.
+
+Elle était particulièrement fière de leur progression.
+
+Son propre développement ne reposait d'ailleurs pas uniquement sur ses montées de niveau.
+
+Ses cercles de mana lui permettaient de continuer à augmenter sa puissance indépendamment de son expérience.
+
+— Vous avez fait énormément de progrès depuis votre entrée à l'académie, remarqua-t-elle.
+
+— Grâce à notre formidable princesse ? demanda Yoon.
+
+— Mentor, Yoon. Mentor !
+
+Samia leva les yeux au ciel.
+
+— Vous ne changerez jamais, toutes les deux.
+
+Les trois jeunes femmes éclatèrent de rire.
+
+### XIV. Trente-deux cercles de mana
+
+À vingt-cinq ans, Hasol contempla le résultat de ses efforts.
+
+Les chasses classiques, les donjons et les innombrables expéditions dans les portails lui avaient permis d'atteindre un nouveau stade de développement.
+
+<div class="system-window lit-window" data-window-id="L2-C3-F03" data-window-type="croissance">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F03-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C3-F03.svg" alt="Fenêtre du système — Croissance runique">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Croissance runique</div>
+  <p><strong>Compétence passive</strong></p>
+  <p>Monstres admissibles éliminés hors portails : <strong>10&nbsp;000</strong> · 10 cercles obtenus</p>
+  <p>Boss de donjon et de portail achevés personnellement : <strong>200</strong> · 2 cercles obtenus</p>
+  <p>Démons éliminés personnellement dans les portails : <strong>90&nbsp;000</strong> · 18 cercles obtenus · aucune condition de niveau</p>
+  <p>Cercles initiaux : <strong>2</strong></p>
+  <p>Cercles supplémentaires : <strong>30</strong></p>
+  <p>Nombre total de cercles de mana : <strong>32</strong></p>
+  </details>
+</div>
+
+Trente-deux cercles.
+
+Trente-deux runes.
+
+Hasol avait consacré une attention particulière à chacune des pierres composant son équipement.
+
+Toutes avaient atteint le quinzième palier d'amélioration.
+
+La majorité de leurs améliorations secondaires avaient atteint des valeurs maximales, et certaines runes présentaient même des résultats parfaits.
+
+<div class="rune-window lit-window" data-window-id="L2-C3-F04" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F04-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C3-F04.svg" alt="Fenêtre du système — Équipement runique — Hasol">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Équipement runique — Hasol</div>
+  <p>Arcaniste runique · Niveau <strong>40</strong> · Runes équipées <strong>32/32</strong></p>
+  <p>Composition : 8 Vol de vie · 8 Arcanique · 8 Vitesse · 2 Énergie · 2 Gardien · 4 Fatal</p>
+  <p>Bonus d'ensemble actifs : <strong>9</strong> · Toutes les runes : <span class="upgrade-badge">+15</span></p>
+  <table>
+    <thead><tr><th>Ensemble, rareté, étoiles, amélioration</th><th>Principale</th><th>Secondaires présentes</th></tr></thead>
+    <tbody>
+    <tr data-rune-id="L2-HAS-R001"><td>Fatal rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R002"><td>Gardien rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R017"><td>Vol de vie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R018"><td>Vol de vie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Attaque +16&nbsp;% ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R019"><td>Vol de vie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R020"><td>Vol de vie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R021"><td>Vol de vie rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +600</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R022"><td>Vol de vie rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R023"><td>Vol de vie rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R024"><td>Vol de vie rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PA +120 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R025"><td>Arcanique rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R026"><td>Arcanique rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R027"><td>Arcanique rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R028"><td>Arcanique rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R029"><td>Arcanique rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +600</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R030"><td>Arcanique rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R031"><td>Arcanique rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R032"><td>Arcanique rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R033"><td>Vitesse rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R034"><td>Vitesse rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R035"><td>Vitesse rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R036"><td>Vitesse rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R037"><td>Vitesse rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +600</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R038"><td>Vitesse rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R039"><td>Vitesse rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R040"><td>Vitesse rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Résistance +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PA +120 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R041"><td>Énergie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R042"><td>Énergie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R043"><td>Gardien rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R044"><td>Fatal rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R045"><td>Fatal rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R046"><td>Fatal rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+    </tbody>
+  </table>
+  </details>
+</div>
+
+
+
+Elle avait réussi à construire un équipement équilibré, capable de soutenir aussi bien ses capacités offensives que sa résistance et son autonomie.
+
+Elle ne comptait pourtant pas s'arrêter là.
+
+Lorsqu'elle présenta ses résultats à Ray, celui-ci contempla longuement ses notes.
+
+— Quatre-vingt-dix mille démons…
+
+Il releva les yeux.
+
+— Finalement, ton surnom n'est peut-être pas exagéré.
+
+— Ray !
+
+Il éclata de rire.
+
+— Trente-deux cercles, reprit-il. Tu te rends compte ?
+
+— Oui.
+
+— Et tu réfléchis déjà aux prochains ?
+
+— Évidemment.
+
+Ray secoua la tête avec amusement.
+
+Hasol referma son carnet.
+
+— Tu sais, tu m'as énormément aidée.
+
+— Moi ?
+
+— Les gobelins rouges, les portails, les recherches sur les démons… Sans tes conseils, j'aurais probablement perdu énormément de temps.
+
+— Je n'ai fait que lire quelques livres.
+
+— Encore fallait-il savoir lesquels lire.
+
+Ray sourit.
+
+— Dans ce cas, je vais continuer.
+
+Hasol appréciait particulièrement ces moments.
+
+Avec Orven, elle approfondissait ses connaissances en artisanat.
+
+Avec Elric, elle pouvait discuter de ses techniques de combat.
+
+Avec Yoon et Samia, elle découvrait de nouvelles stratégies.
+
+Et avec Ray, elle pouvait réunir toutes ces connaissances et réfléchir à de nouvelles manières de les exploiter.
+
+Il lui arrivait cependant d'oublier complètement ses recherches lorsqu'elle discutait avec lui.
+
+Les heures passaient sans qu'elle s'en aperçoive.
+
+Elle ne s'en plaignait jamais.
+
+### XV. Une journée ordinaire
+
+— Niveau vingt-cinq !
+
+Hasol releva immédiatement la tête.
+
+Ray se tenait devant elle, visiblement fier de lui.
+
+— Félicitations !
+
+— Merci.
+
+— Depuis quand ?
+
+— Hier.
+
+— Et tu ne me le dis que maintenant ?
+
+— Tu étais occupée à expliquer pourquoi ta dernière rune était meilleure que celle que nous avions étudiée la semaine dernière.
+
+— Elle est meilleure.
+
+— Je n'en doute absolument pas.
+
+Hasol éclata de rire.
+
+Ray progressait à son propre rythme.
+
+Il ne cherchait pas à rivaliser avec elle, et Hasol ne lui en demandait jamais davantage.
+
+Elle s'intéressait sincèrement à ses réussites, à ses difficultés et aux projets qu'il envisageait avec ses compagnons.
+
+— On devrait aller manger quelque chose, proposa-t-elle.
+
+— Tu abandonnes tes recherches ?
+
+— Pour ce soir.
+
+Ils quittèrent ensemble la bibliothèque.
+
+Le soleil commençait à disparaître derrière les bâtiments.
+
+Les rues étaient encore animées et une agréable douceur régnait dans l'air.
+
+Ils trouvèrent un endroit où dîner.
+
+Ray lui raconta une mésaventure survenue lors de sa dernière chasse. Hasol rit tellement qu'elle dut interrompre son repas.
+
+Elle lui parla ensuite de ses dernières expéditions et des difficultés d'Orven à suivre ses commandes de runes.
+
+— Tu vas finir par épuiser les réserves de mauvaises runes de tous les marchands de la région, remarqua Ray.
+
+— Ce serait plutôt une bonne nouvelle pour eux.
+
+— Jusqu'au jour où ils comprendront qu'ils peuvent te les vendre plus cher.
+
+Hasol s'immobilisa.
+
+— Ne leur donne surtout pas cette idée.
+
+Ray éclata de rire.
+
+La soirée passa rapidement.
+
+Lorsqu'ils sortirent, Ray lui annonça qu'il devait retrouver ses compagnons le lendemain matin.
+
+— Une chasse ?
+
+— Oui. Dans les bois.
+
+— Vous partez tôt ?
+
+— Assez tôt. Et toi ?
+
+— Un donjon avec Yoon et Samia.
+
+— Alors, après-demain à la bibliothèque ?
+
+— Comme toujours.
+
+Ils marchèrent encore quelques instants avant d'atteindre le croisement où leurs chemins se séparaient.
+
+— Bonne chasse, Hasol.
+
+— À toi aussi, Ray.
+
+Elle lui adressa un sourire.
+
+Puis elle rentra chez elle.
+
+### XVI. Celle qui n'était pas dans les bois
+
+Le donjon ne leur posa aucune difficulté particulière.
+
+Leur expérience commune permettait aux trois jeunes femmes d'anticiper les réactions les unes des autres avec une facilité remarquable.
+
+Elles terminèrent leur expédition et reprirent le chemin du retour.
+
+Hasol pensait passer à l'atelier avant de rentrer chez elle.
+
+Mais une agitation inhabituelle attira son attention.
+
+Plusieurs chasseurs blessés venaient d'être ramenés.
+
+Elle reconnut l'un d'entre eux.
+
+Un compagnon de Ray.
+
+— Qu'est-ce qui s'est passé ?
+
+L'homme releva la tête.
+
+— Un loup alpha…
+
+Hasol regarda autour d'elle.
+
+— Où est Ray ?
+
+Il ne répondit pas immédiatement.
+
+— Où est-il ?
+
+— Il est resté derrière. Il nous a dit de courir.
+
+Le cœur d'Hasol se mit à battre violemment.
+
+— Où ?
+
+L'homme lui indiqua l'endroit.
+
+Elle partit aussitôt.
+
+Yoon cria son nom, mais Hasol ne ralentit pas.
+
+Elle traversa les rues, dépassa les dernières habitations et pénétra dans les bois.
+
+Elle devait se dépêcher.
+
+Ray avait atteint le niveau vingt-cinq.
+
+Il était expérimenté.
+
+Il connaissait les dangers de la forêt.
+
+Il pouvait tenir.
+
+Il devait tenir.
+
+Elle accéléra encore.
+
+Puis elle aperçut la créature.
+
+Le loup alpha se tenait entre les arbres.
+
+Hasol saisit une rune.
+
+— Aura runique.
+
+La pierre se désagrégea.
+
+<div class="system-window lit-window" data-window-id="L2-C3-F05" data-window-type="activation">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F05-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C3-F05.svg" alt="Fenêtre du système — Coup critique">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Coup critique</div>
+  <h3>Infiltration runique</h3>
+  <p>Durée : <strong class="temporary-bonus">30 secondes</strong></p>
+  </details>
+</div>
+
+
+
+Elle dégaina son épée.
+
+Le loup bondit.
+
+Hasol frappa une première fois, en diagonale.
+
+Sa lame traversa la défense de la créature.
+
+Le monstre était encore vivant.
+
+Elle enchaîna immédiatement avec une seconde frappe, dans le sens opposé.
+
+Deux entailles se croisèrent sur le corps du loup alpha.
+
+La créature s'effondra.
+
+Hasol ne prit même pas le temps de regarder la notification annonçant sa mort.
+
+— Ray !
+
+Elle poursuivit sa course.
+
+— Ray !
+
+Elle scruta les alentours.
+
+Puis elle l'aperçut.
+
+Il était étendu au pied d'un arbre.
+
+Elle se précipita vers lui.
+
+— Ray !
+
+Elle tomba à genoux et posa une main sur son épaule.
+
+— C'est moi. Je suis là.
+
+Il ne bougea pas.
+
+Hasol chercha son pouls.
+
+Elle recommença.
+
+Puis une troisième fois.
+
+— Non…
+
+Elle secoua doucement son épaule.
+
+— Ray, réponds-moi.
+
+Le silence de la forêt lui parut soudain insupportable.
+
+Elle regarda son visage.
+
+La veille encore, il riait avec elle.
+
+Ils avaient dîné ensemble.
+
+Ils devaient se retrouver à la bibliothèque.
+
+— Tu avais promis…
+
+Sa voix se brisa.
+
+Elle posa son front contre son épaule.
+
+Le loup était mort.
+
+Deux coups d'épée.
+
+Il ne lui avait fallu que deux coups d'épée.
+
+### XVII. Le courage de Ray
+
+Les compagnons de Ray racontèrent ce qui s'était passé.
+
+Lorsque le loup alpha les avait attaqués, ils avaient rapidement compris qu'ils ne pourraient pas le vaincre.
+
+Ray avait choisi de rester en arrière.
+
+Il leur avait donné le temps de s'échapper.
+
+Sans lui, plusieurs d'entre eux seraient morts.
+
+Hasol écouta leur récit sans les interrompre.
+
+Elle ne leur en voulait pas.
+
+Elle connaissait suffisamment Ray pour comprendre pourquoi il avait pris cette décision.
+
+C'était précisément ce qui rendait la situation si douloureuse.
+
+Lors des funérailles, elle resta auprès des parents de Ray.
+
+Yoon et Samia étaient présentes.
+
+Elric et Orven avaient également fait le déplacement.
+
+Tous essayèrent de lui apporter du réconfort.
+
+Hasol leur en était reconnaissante.
+
+Mais chaque fois qu'elle fermait les yeux, elle revoyait les deux frappes.
+
+La première.
+
+La seconde.
+
+Le loup s'effondrant devant elle.
+
+Elle aurait pu le faire la veille.
+
+Elle aurait pu le faire au début de l'affrontement.
+
+Elle aurait pu le faire avant même que Ray ait besoin de tirer son arme.
+
+Il aurait simplement fallu qu'elle soit présente.
+
+De retour chez elle, Hasol s'enferma dans sa chambre.
+
+Elle déposa son épée et son masque sur une table.
+
+Elle contempla longuement le visage démoniaque.
+
+Les chasseurs l'appelaient l'Astrale sanguinaire.
+
+Elle avait éliminé des dizaines de milliers de démons.
+
+Elle possédait trente-deux cercles de mana et un équipement dont rêvaient de nombreux chasseurs.
+
+Pourtant, aucun de ses exploits ne pouvait changer ce qui venait de se produire.
+
+Quelques coups furent frappés à sa porte.
+
+— Hasol ?
+
+C'était sa mère.
+
+— Entre…
+
+Iseria pénétra dans la chambre.
+
+Elle observa sa fille, puis s'assit à ses côtés.
+
+— Maman…
+
+Hasol tenta de poursuivre, mais aucun mot ne sortit de sa bouche.
+
+Iseria la prit simplement dans ses bras.
+
+Hasol s'effondra.
+
+— Deux coups… Maman… Il ne m'a fallu que deux coups…
+
+Iseria resserra doucement son étreinte.
+
+— J'aurais pu le sauver…
+
+Elle pleura longuement contre sa mère.
+
+Iseria ne chercha pas à lui expliquer ce qu'elle aurait dû faire ni à lui rappeler ses nombreux exploits.
+
+Elle resta simplement auprès d'elle.
+
+### XVIII. La chaise vide
+
+Quelques jours plus tard, Hasol retourna à la bibliothèque.
+
+Elle emprunta machinalement les allées qu'elle connaissait si bien.
+
+Elle récupéra un ouvrage qu'ils avaient prévu de consulter ensemble, puis rejoignit leur table habituelle.
+
+Elle s'assit.
+
+La chaise en face d'elle était vide.
+
+Hasol ouvrit le livre.
+
+Elle lut les premières lignes.
+
+Puis elle les relut.
+
+Elle ne parvenait pas à se concentrer.
+
+Son regard revenait constamment vers cette chaise.
+
+Elle sortit son carnet.
+
+Au fil des pages se succédaient des informations sur les monstres, les runes et les portails.
+
+Elle retrouva les notes qu'elle avait prises lorsque Ray lui avait recommandé les gobelins rouges.
+
+Plus loin figuraient leurs recherches sur les démons.
+
+Elle se souvint de cette conversation.
+
+*Il serait peut-être temps de songer sérieusement aux portails. Avec ton équipement actuel, les démons rouges ne devraient pas te poser de problème.*
+
+Elle tourna une nouvelle page.
+
+Des annotations.
+
+Des calculs.
+
+Des idées qu'ils n'avaient pas encore eu le temps d'explorer.
+
+Elle referma le carnet.
+
+Trente-deux cercles de mana.
+
+Ray l'avait aidée à en obtenir une partie.
+
+Il avait consacré des heures à chercher les monstres qui lui permettraient de progresser, à étudier les portails qu'elle pourrait traverser et à réfléchir avec elle aux possibilités offertes par son équipement.
+
+Grâce à lui, elle était devenue plus forte.
+
+Et pourtant, elle n'avait pas été capable de le sauver.
+
+Elle se surprit à imaginer Ray arriver en retard, s'excuser et lui demander ce qu'elle avait découvert depuis leur dernière rencontre.
+
+Elle aurait aimé lui parler de ses runes.
+
+Lui montrer ses nouveaux calculs.
+
+L'écouter raconter une histoire sans importance.
+
+L'entendre l'appeler une nouvelle fois l'Astrale sanguinaire pour se moquer gentiment d'elle.
+
+— À quoi ça sert ?
+
+Une larme tomba sur la couverture du carnet.
+
+Elle n'avait pas besoin de davantage de puissance.
+
+Elle n'avait pas besoin d'une meilleure épée.
+
+Elle n'avait pas besoin d'un trente-troisième cercle.
+
+Elle avait simplement besoin d'être là.
+
+— Si seulement j'avais été avec toi…
+
+Elle serra les poings.
+
+— Si seulement j'avais pu te sauver…
+
+Un son grave retentit.
+
+**DONG.**
+
+Hasol releva la tête.
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+Puis le son changea.
+
+**DING.**
+
+**DING.**
+
+La bibliothèque disparut.
+
+*Fin du chapitre 3 — Celle qui n'était pas dans les bois.*

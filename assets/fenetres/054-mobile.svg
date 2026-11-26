@@ -3,11 +3,9 @@
 <rect x="1" y="1" width="314" height="471" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></g>
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="137.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PUISSANCE</text>
-<text x="193.16" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="143.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ARCANIQUE</text>
 <text x="199.64" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="205.04" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="31.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ET</text>
-<text x="236.36" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="124.20" font-size="24" font-weight="700" fill="#A17B35" textLength="130.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CRITIQUES</text>
 <path d="M20 148.79999999999998h280" stroke="#D8BF8F"/>
 <text x="20.00" y="185.80" font-size="18" font-weight="700" fill="#242424" textLength="28.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CC</text>
@@ -21,7 +19,6 @@
 <text x="108.56" y="185.80" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+</text>
 <text x="119.36" y="185.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="123.68" y="185.80" font-size="18" font-weight="400" fill="#242424" textLength="96.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">(Puissance</text>
-<text x="219.80" y="185.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="215.50" font-size="18" font-weight="400" fill="#242424" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">arcanique</text>
 <text x="107.48" y="215.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="111.80" y="215.50" font-size="18" font-weight="400" fill="#242424" textLength="79.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">effective</text>
@@ -31,7 +28,6 @@
 <text x="205.76" y="215.50" font-size="18" font-weight="400" fill="#242424" textLength="28.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">80)</text>
 <text x="233.84" y="215.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="238.16" y="215.50" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+</text>
-<text x="248.96" y="215.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="245.20" font-size="18" font-weight="400" fill="#242424" textLength="55.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Bonus</text>
 <text x="75.08" y="245.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="79.40" y="245.20" font-size="18" font-weight="400" fill="#242424" textLength="28.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CC</text>
@@ -46,7 +42,6 @@
 <text x="144.20" y="282.90" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+</text>
 <text x="155.00" y="282.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="159.32" y="282.90" font-size="18" font-weight="400" fill="#242424" textLength="96.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">(Puissance</text>
-<text x="255.44" y="282.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="312.60" font-size="18" font-weight="400" fill="#242424" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">arcanique</text>
 <text x="107.48" y="312.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="111.80" y="312.60" font-size="18" font-weight="400" fill="#242424" textLength="79.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">effective</text>
@@ -56,7 +51,6 @@
 <text x="205.76" y="312.60" font-size="18" font-weight="400" fill="#242424" textLength="38.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">100)</text>
 <text x="244.64" y="312.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="248.96" y="312.60" font-size="18" font-weight="400" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+</text>
-<text x="259.76" y="312.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="342.30" font-size="18" font-weight="400" fill="#242424" textLength="55.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Bonus</text>
 <text x="75.08" y="342.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="79.40" y="342.30" font-size="18" font-weight="400" fill="#242424" textLength="42.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">DCC</text>
@@ -73,7 +67,6 @@
 <text x="149.60" y="380.00" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ou</text>
 <text x="172.28" y="380.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="176.60" y="380.00" font-size="18" font-weight="400" fill="#242424" textLength="99.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">davantage,</text>
-<text x="275.96" y="380.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="409.70" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">une</text>
 <text x="52.40" y="409.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.72" y="409.70" font-size="18" font-weight="400" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">action</text>
@@ -83,7 +76,6 @@
 <text x="183.08" y="409.70" font-size="18" font-weight="400" fill="#242424" textLength="28.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">est</text>
 <text x="211.16" y="409.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="215.48" y="409.70" font-size="18" font-weight="400" fill="#242424" textLength="73.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">toujours</text>
-<text x="288.92" y="409.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="439.40" font-size="18" font-weight="400" fill="#242424" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">critique,</text>
 <text x="91.28" y="439.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="95.60" y="439.40" font-size="18" font-weight="400" fill="#242424" textLength="41.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">sans</text>

@@ -22,6 +22,14 @@ def generer_html(source: str, css_href: str) -> str:
     # Le lecteur conserve le HTML sélectionnable, sans les enveloppes GitHub.
     source = extraire_source_fenetres(source)
 
+    # Les identifiants documentaires restent dans les métadonnées. Les rares
+    # mentions historiques en code Markdown ne deviennent pas du texte lecteur.
+    identifiants_runiques = set(re.findall(r'data-rune-id="([^"]+)"', source))
+    for identifiant in sorted(identifiants_runiques, key=len, reverse=True):
+        code = re.escape(f"`{identifiant}`")
+        source = re.sub(rf"(?<=,)\s*{code},", "", source)
+        source = re.sub(rf"\s*{code}", "", source)
+
     # Le HTML/SVG du manuscrit est une source locale de confiance, pas une saisie web.
     from markdown import Markdown
     from markdown.extensions import Extension

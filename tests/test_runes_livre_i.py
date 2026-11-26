@@ -6,7 +6,8 @@ from pathlib import Path
 import re
 import unittest
 
-from lecture_support import Document, before_approved_rune_corrections, compact, digest
+from lecture_support import (Document, before_approved_rune_corrections,
+                             before_invisible_rune_ids_and_dec181, compact, digest)
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -80,6 +81,14 @@ def inventory_rows(window):
             for row in table.descendants("tr") if any(cell.tag == "td" for cell in row.children)]
 
 
+def rune_identifier(node):
+    """Lire l'association machine sans exiger l'identifiant dans le texte lecteur."""
+    if node.attrs.get("data-rune-id"):
+        return node.attrs["data-rune-id"]
+    return next((descendant.attrs["data-rune-id"] for descendant in node.descendants()
+                 if descendant.attrs.get("data-rune-id")), None)
+
+
 def assert_inventory(case, window, states):
     seen = set()
     for index, row in enumerate(inventory_rows(window)):
@@ -91,14 +100,13 @@ def assert_inventory(case, window, states):
             case.assertEqual(tuple(cells), (identity + ", +0", main, subs))
             validate_affixes(identity, 0, main, subs)
             continue
-        identifier = ID.search(cells[0])
-        if identifier:
-            identifier = identifier[0]
-            identity = IDENTITY.search(cells[0])
-        else:
+        identifier = rune_identifier(row)
+        identity = IDENTITY.search(cells[0])
+        if identifier is None:
             heading = next(window.descendants("h3"))
-            identifier = ID.search(heading.text())[0]
+            identifier = heading.attrs.get("data-rune-id")
             identity = IDENTITY.search(compact(heading.text()))
+        case.assertIsNotNone(identifier, cells[0])
         case.assertIsNotNone(identity, cells[0])
         level = re.search(r"\+(\d+)\b", cells[0])
         case.assertIsNotNone(level, cells[0])
@@ -150,7 +158,7 @@ class RunesLivreITests(unittest.TestCase):
             ("corrections_runes_livre1_dec179_complements.json", "cbcc5eb418d3fd65af4d59624d653394d03149cff14018226baa34e5a024cb51"),
         ):
             self.assertEqual(digest((FIXTURES / name).read_bytes().decode("utf-8")), checksum)
-        self.assertEqual(rebuilt, self.source)
+        self.assertEqual(rebuilt, before_invisible_rune_ids_and_dec181(self.source))
         self.assertEqual(len(Document(self.before).windows), 138)
         self.assertEqual(len(self.document.windows), 153)
         self.assertEqual(set(self.windows) - {w.attrs["data-window-id"] for w in Document(self.before).windows}, ADDED)
@@ -212,8 +220,11 @@ class RunesLivreITests(unittest.TestCase):
                     text = compact(window.text())
                     self.assertIn(identity, text.replace(" — ", ", "))
                     self.assertIn(f"+{key[1]}", text)
-                    self.assertIn(key[0], text)
-                    candidates = [text] if len(keys) == 1 else [p for p in paragraphs if key[0] in p]
+                    associated = [node for node in window.descendants()
+                                  if node.attrs.get("data-rune-id") == key[0]]
+                    self.assertEqual(len(associated), 1)
+                    self.assertNotIn(key[0], text)
+                    candidates = [text] if len(keys) == 1 else [compact(associated[0].text())]
                     self.assertEqual(len(candidates), 1)
                     self.assertIn(main, candidates[0])
                     for affix in ([] if subs == "Aucune" else subs.split(" ; ")):
@@ -288,8 +299,8 @@ class RunesLivreITests(unittest.TestCase):
         for window_id, numbers in expected.items():
             with self.subTest(fenetre=window_id):
                 rows = inventory_rows(self.windows[window_id])
-                self.assertEqual([ID.search(row.text())[0] for row in rows],
-                                 [f"HAS-R{n:03d}" for n in numbers])
+                self.assertEqual([rune_identifier(row) for row in rows],
+                                  [f"HAS-R{n:03d}" for n in numbers])
                 sets = Counter(IDENTITY.search(row.text())["ensemble"] for row in rows)
                 self.assertEqual(sets["Fatal"], 4)
                 self.assertIn(sets["Gardien"], {1, 2, 3, 4})
@@ -300,9 +311,11 @@ class RunesLivreITests(unittest.TestCase):
                     self.assertEqual(sets["Vitesse"], 4)
         self.assertEqual(Counter(re.search(r", \+(\d+)\b", row.children[0].text())[1]
                                  for row in inventory_rows(self.windows["060"])), {"6": 6, "3": 4})
-        yoon = compact(self.windows["079"].text())
-        self.assertLess(yoon.index("HAS-R009"), yoon.index("Anciennes runes conservées"))
-        self.assertGreater(yoon.index("YOO-R001"), yoon.index("non équipées"))
+        yoon = self.windows["079"]
+        ids = [node.attrs.get("data-rune-id") for node in yoon.descendants()
+               if node.attrs.get("data-rune-id")]
+        self.assertEqual(ids, ["HAS-R009", "HAS-R010", "YOO-R001", "YOO-R002"])
+        self.assertNotRegex(compact(yoon.text()), ID)
         for reference in (self.lore, self.characters):
             for term in ("HAS-R009/010", "YOO-R001/002", "11/11", "12/12", "14/14", "15/15", "16/16"):
                 self.assertIn(term, reference)
@@ -385,7 +398,7 @@ class RunesLivreIMutationsTests(unittest.TestCase):
         for old, new in (("PV +300", "PV +301"), ("6★, +15", "3★, +15"),
                          ("rare (bleue)", "légendaire (orange)"),
                          ("PV +300 ; Vitesse +8", "Vitesse +8 ; PV +300"),
-                         ("PA +60 ; Résistance +6 %", "PA +60"),
+                          ("PA +60 ; Résistance +6&nbsp;%", "PA +60"),
                          ("HAS-R029", "HAS-R009")):
             with self.subTest(mutation=(old, new)):
                 changed = card.replace(old, new)

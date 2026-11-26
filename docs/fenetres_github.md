@@ -75,8 +75,10 @@ conserver la transcription et de poursuivre les essais de zoom/lecteurs d’écr
 ## Source unique et fichiers dérivés
 
 - **Source éditable :** tout le texte utile et toutes les données de chaque
-  fenêtre restent dans le HTML de `livre_1_l_ascension_d_une_legende_oubliee.md`, à l’intérieur du `details`.
-  Les classes racines et `data-window-id` restent stables.
+  fenêtre restent dans le HTML des manuscrits, à l’intérieur du `details`.
+  Les classes racines et `data-window-id` restent stables. Les identifiants de
+  runes sont découverts depuis `data-rune-id`, attachés à leur fiche ou ligne,
+  mais ne sont jamais recopiés dans le texte visible ou les dérivés.
 - **Dérivés :** `assets/fenetres/ID.svg` et `assets/fenetres/ID-mobile.svg`, où
   `ID` est l’identifiant de la fenêtre. Ce ne sont ni une autre version du roman,
   ni une source primaire du canon. Ne pas les corriger à la main.
@@ -95,9 +97,15 @@ sans `foreignObject`, raster incorporé, JavaScript, police distante ou CDN.
 Les variantes mobile et bureau dérivent de la même source textuelle, jamais
 de deux saisies manuelles de statistiques.
 
+Le générateur groupe les couples courts « libellé + valeur signée » et
+« valeur + unité » avant de calculer les retours SVG. Les espaces insécables de
+la source protègent notamment les milliers et le symbole `%` dans le HTML comme
+dans les dérivés. Si un groupe dépasse réellement la largeur disponible, le
+repli reste autorisé afin d’éviter tout débordement ou toute troncature.
+
 ## Maintenance avant publication
 
-1. Modifier la source HTML textuelle de la fenêtre dans `livre_1_l_ascension_d_une_legende_oubliee.md`, en préservant
+1. Modifier la source HTML textuelle de la fenêtre dans le manuscrit concerné, en préservant
    son identifiant et le contenu extérieur aux fenêtres. Une correction de
    présentation n’autorise aucun changement de données ou de narration.
 2. Installer les dépendances du générateur dans l’environnement Python du projet
@@ -130,13 +138,12 @@ automatiquement. Aucun autre drapeau de génération n’est supposé ici.
 
 ## Export local facultatif
 
-### Fenêtres du livre II — imports DEC-153 et DEC-171
+### Fenêtres du livre II — imports DEC-153 à DEC-186
 
-Le point d’entrée CLI de `generer_fenetres.py` reste celui du livre I. Pour le
-manuscrit du II, la même fonction de génération `produire` est utilisée sans
-modifier ce point d’entrée, avec des dérivés isolés dans
-`assets/fenetres-livre-2/`. Ne pas déposer ces images dans le répertoire du I :
-son contrôle les considérerait comme obsolètes. La source HTML reste dans
+Le point d’entrée CLI de `generer_fenetres.py` cible le livre I par défaut. Le
+manuscrit du II utilise le même générateur avec ses options de chemins et des
+dérivés isolés dans `assets/fenetres-livre-2/`. Ne pas déposer ces images dans
+le répertoire du I : son contrôle les considérerait comme obsolètes. La source HTML reste dans
 `livre_2_le_vertige_des_vies_oubliees.md`. Le chapitre 1 conserve `L2-C1-F01` ;
 les fenêtres du chapitre 2 ont leurs identifiants stables `L2-C2-F…`.
 Les commandes ci-dessous découvrent toutes les fenêtres du manuscrit,
@@ -145,37 +152,19 @@ sans maintenir une liste séparée de leurs identifiants.
 Régénération ciblée depuis la racine (dépendances déjà installées) :
 
 ```sh
-python3 - <<'PY'
-from pathlib import Path
-from scripts.generer_fenetres import produire, ecrire_atomique
-
-manuscrit = Path('livre_2_le_vertige_des_vies_oubliees.md')
-resultat, images = produire(manuscrit.read_text(encoding='utf-8'))
-resultat = resultat.replace('assets/fenetres/', 'assets/fenetres-livre-2/')
-dossier = Path('assets/fenetres-livre-2')
-dossier.mkdir(exist_ok=True)
-for nom, contenu in images.items():
-    ecrire_atomique(dossier / nom, contenu)
-ecrire_atomique(manuscrit, resultat)
-PY
+python3 scripts/generer_fenetres.py \
+  --input livre_2_le_vertige_des_vies_oubliees.md \
+  --output-dir assets/fenetres-livre-2 \
+  --asset-prefix assets/fenetres-livre-2
 ```
 
 Contrôle équivalent sans écriture :
 
 ```sh
-python3 - <<'PY'
-from pathlib import Path
-from scripts.generer_fenetres import produire
-
-source = Path('livre_2_le_vertige_des_vies_oubliees.md').read_text(encoding='utf-8')
-attendu, images = produire(source)
-assert source == attendu.replace('assets/fenetres/', 'assets/fenetres-livre-2/')
-dossier = Path('assets/fenetres-livre-2')
-assert {p.name for p in dossier.glob('*.svg')} == set(images)
-for nom, contenu in images.items():
-    assert (dossier / nom).read_text(encoding='utf-8') == contenu, nom
-print('Fenêtres du livre II : à jour')
-PY
+python3 scripts/generer_fenetres.py --check \
+  --input livre_2_le_vertige_des_vies_oubliees.md \
+  --output-dir assets/fenetres-livre-2 \
+  --asset-prefix assets/fenetres-livre-2
 ```
 
 Ces commandes ne modifient ni ne publient le livre I. Toute publication autorisée

@@ -18,7 +18,6 @@
 <text x="132.32" y="152.60" font-size="18" font-weight="400" fill="#242424" textLength="84.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Arcaniste</text>
 <text x="216.56" y="152.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="220.88" y="152.60" font-size="18" font-weight="400" fill="#242424" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
-<text x="286.76" y="152.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="182.30" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
 <text x="29.72" y="182.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <rect x="34.04" y="163.30" width="111.36" height="27" rx="13.5" fill="#fbf3dd" stroke="#D1AB61"/>
@@ -40,7 +39,6 @@
 <text x="188.48" y="220.00" font-size="18" font-weight="400" fill="#242424" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
 <text x="254.36" y="220.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="258.68" y="220.00" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="268.40" y="220.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <rect x="20.00" y="230.70" width="51.96" height="27" rx="13.5" fill="#edf4fc" stroke="#b6cce5"/>
 <text x="26.00" y="249.70" font-size="18" font-weight="700" fill="#175b9b" textLength="39.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rare</text>
 <text x="71.96" y="249.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
@@ -62,7 +60,6 @@
 <text x="214.40" y="287.40" font-size="18" font-weight="400" fill="#242424" textLength="29.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">feu</text>
 <text x="243.56" y="287.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="247.88" y="287.40" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="257.60" y="287.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <rect x="20.00" y="298.10" width="91.92" height="27" rx="13.5" fill="#f2f3f4" stroke="#c4c8cc"/>
 <text x="26.00" y="317.10" font-size="18" font-weight="700" fill="#42474c" textLength="79.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Commun</text>
 <text x="111.92" y="317.10" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
@@ -101,7 +98,6 @@
 <text x="138.80" y="453.20" font-size="18" font-weight="400" fill="#22643b" textLength="68.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">nombre</text>
 <text x="206.84" y="453.20" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="211.16" y="453.20" font-size="18" font-weight="400" fill="#22643b" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
-<text x="233.84" y="453.20" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="482.90" font-size="18" font-weight="400" fill="#22643b" textLength="82.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">membres</text>
 <text x="102.08" y="482.90" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="106.40" y="482.90" font-size="18" font-weight="400" fill="#22643b" textLength="41.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">pour</text>
@@ -109,7 +105,6 @@
 <text x="151.76" y="482.90" font-size="18" font-weight="400" fill="#22643b" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">accéder</text>
 <text x="223.04" y="482.90" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="227.36" y="482.90" font-size="18" font-weight="400" fill="#22643b" textLength="31.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">aux</text>
-<text x="258.68" y="482.90" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="512.60" font-size="18" font-weight="400" fill="#22643b" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">donjons</text>
 <text x="91.28" y="512.60" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="95.60" y="512.60" font-size="18" font-weight="400" fill="#22643b" textLength="69.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">remplie.</text>

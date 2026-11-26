@@ -3,22 +3,16 @@
 <rect x="1" y="1" width="314" height="452" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></g>
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="184.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">AMÉLIORATION</text>
-<text x="240.68" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="98.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RÉUSSIE</text>
 <path d="M20 109.19999999999999h280" stroke="#D8BF8F"/>
-<text x="20.00" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="100.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ORV-R002</text>
-<text x="120.44" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="124.76" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="135.56" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="139.88" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rune</text>
-<text x="189.56" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="193.88" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
-<text x="265.16" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="20.00" y="186.20" font-size="20" font-weight="700" fill="#242424" textLength="98.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">commune</text>
-<text x="118.28" y="186.20" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="122.60" y="186.20" font-size="20" font-weight="700" fill="#242424" textLength="95.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">(blanche),</text>
-<text x="217.64" y="186.20" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="221.96" y="186.20" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1★</text>
+<text x="20.00" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rune</text>
+<text x="69.68" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="74.00" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
+<text x="145.28" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="149.60" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="98.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">commune</text>
+<text x="20.00" y="186.20" font-size="20" font-weight="700" fill="#242424" textLength="95.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">(blanche),</text>
+<text x="115.04" y="186.20" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="119.36" y="186.20" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1★</text>
 <text x="20.00" y="225.20" font-size="18" font-weight="700" fill="#242424" textLength="111.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Amélioration</text>
 <text x="131.24" y="225.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="135.56" y="225.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
@@ -30,7 +24,6 @@
 <text x="78.32" y="262.90" font-size="18" font-weight="700" fill="#242424" textLength="55.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">actuel</text>
 <text x="133.40" y="262.90" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="137.72" y="262.90" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="142.04" y="262.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <rect x="20.00" y="273.60" width="247.44" height="27" rx="13.5" fill="#FFFFFF" stroke="#c8c8c8"/>
 <text x="26.00" y="292.60" font-size="18" font-weight="700" fill="#505050" textLength="235.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Commun — Blanc, inchangé</text>
 <text x="20.00" y="330.30" font-size="18" font-weight="700" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Principale</text>
@@ -44,7 +37,6 @@
 <text x="20.00" y="391.00" font-size="18" font-weight="700" fill="#242424" textLength="76.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nouvelle</text>
 <text x="96.68" y="391.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="101.00" y="391.00" font-size="18" font-weight="700" fill="#242424" textLength="132.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">caractéristique</text>
-<text x="233.84" y="391.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="420.70" font-size="18" font-weight="700" fill="#242424" textLength="98.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">secondaire</text>
 <text x="118.28" y="420.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="122.60" y="420.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>

@@ -189,6 +189,57 @@ Valeurs natives des secondaires : Vitesse +2, PA +20, Attaque +4 % ; renforcemen
 
 `L2-ORV-R003`, blanche examinée juste avant la démonstration : **Énergie commune (blanche), 1★, +0, principale PV +40, aucune secondaire présente**. Choix délégué pour l’exemplaire déjà examiné, pas une acquisition ajoutée. Son potentiel est jugé intéressant par Hasol, mais aucun état amélioré n’est acquis ou chiffré ici ; elle reste une pierre d’atelier distincte de `L2-ORV-R001`. Les runes simplement désignées dans les exercices généraux, sans présentation de leurs propriétés, ne forment pas un registre supplémentaire.
 
+### Livre II, vie 2 — équipement de 32 runes au chapitre 3 (DEC-183)
+
+**CANON raconté, données manquantes choisies sous délégation explicite « Oui, choisis selon les règles ».** Cet instantané appartient à la vie 2, au chapitre 3, à vingt-cinq ans d’Hasol. Il ne rétablit pas l’ancien jalon retiré de fin du livre II et ne se reporte dans aucune autre vie. Toutes les pierres sont +15 ; rareté et étoiles restent fixes pendant leur amélioration ordinaire. Les valeurs choisies sont propres à chaque exemplaire et **ne forment pas un barème universel**.
+
+**Propriétaire et état de chaque ligne :** Hasol Shun, équipée au chapitre 3 de la vie 2. Les transitions et remplacements sont détaillés après le tableau.
+
+| ID | Ensemble, rareté/couleur, étoiles | Amélioration | Principale | Secondaires présentes |
+|---|---|---:|---|---|
+| `L2-HAS-R001` | Fatal rare (bleue), 6★ | +15 | Attaque +160 | Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6 % |
+| `L2-HAS-R002` | Gardien rare (bleue), 6★ | +15 | Défense +160 | PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6 % |
+| `L2-HAS-R017` | Vol de vie rare (bleue), 6★ | +15 | Attaque +160 | Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6 % |
+| `L2-HAS-R018` | Vol de vie rare (bleue), 6★ | +15 | PA +1 200 | Attaque +16 % ; Vitesse +8 ; Défense +30 ; Mana +30 |
+| `L2-HAS-R019` | Vol de vie rare (bleue), 6★ | +15 | Vitesse +42 | Attaque +16 % ; PA +120 ; PV +150 ; Résistance +6 % |
+| `L2-HAS-R020` | Vol de vie rare (bleue), 6★ | +15 | PV +63 % | Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30 |
+| `L2-HAS-R021` | Vol de vie rare (bleue), 5★ | +15 | PA +600 | Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 % |
+| `L2-HAS-R022` | Vol de vie rare (bleue), 5★ | +15 | Attaque +51 % | PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30 |
+| `L2-HAS-R023` | Vol de vie rare (bleue), 5★ | +15 | PV +51 % | Vitesse +8 ; PA +120 ; Défense +30 ; Résistance +6 % |
+| `L2-HAS-R024` | Vol de vie rare (bleue), 5★ | +15 | Défense +51 % | Vitesse +8 ; Attaque +16 % ; PA +120 ; Mana +30 |
+| `L2-HAS-R025` | Arcanique rare (bleue), 6★ | +15 | PA +1 200 | Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 % |
+| `L2-HAS-R026` | Arcanique rare (bleue), 6★ | +15 | PA +1 200 | Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6 % |
+| `L2-HAS-R027` | Arcanique rare (bleue), 6★ | +15 | Attaque +63 % | PA +120 ; Vitesse +8 ; PV +150 ; Mana +30 |
+| `L2-HAS-R028` | Arcanique rare (bleue), 6★ | +15 | PV +63 % | PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30 |
+| `L2-HAS-R029` | Arcanique rare (bleue), 5★ | +15 | PA +600 | Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 % |
+| `L2-HAS-R030` | Arcanique rare (bleue), 5★ | +15 | Attaque +51 % | PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30 |
+| `L2-HAS-R031` | Arcanique rare (bleue), 5★ | +15 | PV +51 % | PA +120 ; Vitesse +8 ; Défense +30 ; Résistance +6 % |
+| `L2-HAS-R032` | Arcanique rare (bleue), 5★ | +15 | Défense +51 % | PA +120 ; Vitesse +8 ; PV +150 ; Mana +30 |
+| `L2-HAS-R033` | Vitesse rare (bleue), 6★ | +15 | Vitesse +42 | PA +120 ; Attaque +16 % ; PV +150 ; Résistance +6 % |
+| `L2-HAS-R034` | Vitesse rare (bleue), 6★ | +15 | Attaque +63 % | Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30 |
+| `L2-HAS-R035` | Vitesse rare (bleue), 6★ | +15 | PA +1 200 | Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 % |
+| `L2-HAS-R036` | Vitesse rare (bleue), 6★ | +15 | Défense +63 % | Vitesse +8 ; PA +120 ; PV +150 ; Mana +30 |
+| `L2-HAS-R037` | Vitesse rare (bleue), 5★ | +15 | PA +600 | Vitesse +8 ; Attaque +16 % ; Défense +30 ; Résistance +6 % |
+| `L2-HAS-R038` | Vitesse rare (bleue), 5★ | +15 | Attaque +51 % | Vitesse +8 ; PA +120 ; PV +150 ; Mana +30 |
+| `L2-HAS-R039` | Vitesse rare (bleue), 5★ | +15 | PV +51 % | Vitesse +8 ; PA +120 ; Défense +30 ; Résistance +6 % |
+| `L2-HAS-R040` | Vitesse rare (bleue), 5★ | +15 | Résistance +51 % | Vitesse +8 ; Attaque +16 % ; PA +120 ; Mana +30 |
+| `L2-HAS-R041` | Énergie rare (bleue), 6★ | +15 | PV +63 % | Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30 |
+| `L2-HAS-R042` | Énergie rare (bleue), 6★ | +15 | Défense +63 % | PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6 % |
+| `L2-HAS-R043` | Gardien rare (bleue), 6★ | +15 | PV +63 % | Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6 % |
+| `L2-HAS-R044` | Fatal rare (bleue), 6★ | +15 | Attaque +63 % | Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6 % |
+| `L2-HAS-R045` | Fatal rare (bleue), 6★ | +15 | PA +1 200 | Vitesse +8 ; Attaque +16 % ; PV +150 ; Mana +30 |
+| `L2-HAS-R046` | Fatal rare (bleue), 6★ | +15 | Vitesse +42 | Attaque +16 % ; PA +120 ; Défense +30 ; Mana +30 |
+
+**Composition et activations :** 8 Vol de vie / 8 Arcanique / 8 Vitesse / 2 Énergie / 2 Gardien / 4 Fatal, soit 32/32 et neuf activations : deux Vol de vie, deux Arcanique, deux Vitesse, une Énergie, une Gardien et une Fatal. Les valeurs propres du Vol de vie restent celles déjà établies par le récit ; ce tableau ne crée pas un pourcentage universel.
+
+**Identités et transitions :**
+
+- `L2-HAS-R001/002` sont les cadeaux paternels de la vie 2, conservés puis améliorés de +6 à +15. Leurs états historiques à +6 restent valides. `R001` découvre PA +60 à +9 et Résistance +6 % à +12, puis renforce Vitesse +4→+8 à +15 ; `R002` découvre Vitesse +4 à +9 et Résistance +6 % à +12, puis renforce PV +30→+60 à +15.
+- `L2-HAS-R017` à `046` sont des exemplaires matériels distincts acquis progressivement pendant l’ellipse racontée, sans date, vendeur, prix ou état intermédiaire inventé. Les deux premières secondaires de chaque rare bleue sont natives ; une troisième apparaît à +9, une quatrième à +12, puis une secondaire est renforcée à +15. Les valeurs finales seules sont présentées.
+- `L2-HAS-R017` est individualisée dans la section III du chapitre 3 lors de sa tentative finale : le passage à +15 peut échouer, mais réussit cette fois et produit exactement la fiche du tableau. Aucun nombre de tentatives antérieures ou coût n’est ajouté.
+- Les Vol de vie 4★ `L2-HAS-R009` à `016`, reçues au chapitre 2, sont progressivement remplacées par `R017` à `024`, 5★/6★. Elles sont retirées et stockées ; aucune vente, destruction, donation ou réutilisation n’est racontée. Les anciennes `R003` à `008` restent elles aussi stockées, sans devenir individuel supplémentaire.
+- La réserve sacrificielle de **cinq cents runes** est un lot consommable de pierres sans potentiel commercial, renouvelé au fil des usages d’Aura. Le récit ne présente ni leur composition exacte ni cinq cents identités stables : ne pas créer de fiches unitaires, d’affixes ou de bilan de stock fictifs.
+
 ### Correspondance des fenêtres et états intégrés
 
 | Fenêtres du I | IDs / états de référence |
@@ -217,6 +268,8 @@ Valeurs natives des secondaires : Vitesse +2, PA +20, Attaque +4 % ; renforcemen
 | C14-R01 / C15-R01 / C15-R02 | HAS-R027 en réserve +15 / HAS-R028 +15 / HAS-R029 +15 |
 
 Au II : `L2-C2-F01` → `L2-ORV-R001 +3` ; présentations 7→8 cercles → `L2-HAS-R001` à `008` ; remise/équipement des huit Vol de vie → `L2-HAS-R009` à `016`. Les présentations réellement individuelles de marché, de commande et d’exercice utilisent les fiches ci-dessus ; les lots sacrificiels non individualisés restent des lots, sans inventaire complet fictif.
+
+Fenêtre du chapitre 3 : `L2-C3-F04` présente `L2-HAS-R001/002` et `L2-HAS-R017` à `046` à +15, 32/32. Les anciennes `R003` à `016` restent suivies comme stockées/remplacées, sans devenir supplémentaire.
 
 Fenêtres II ajoutées sous DEC-179 : `L2-C2-R01` → `L2-ORV-R003 +0` ; `R02/R03` → `L2-ORV-R002 +0/+6` ; `R04` → les sept portées et la réserve `L2-HAS-R001` à `008` ; `R05` → les huit Vol de vie reçues `L2-HAS-R009` à `016`, avant équipement. Le chapitre 1 n’a pas reçu rétroactivement ces inventaires.
 

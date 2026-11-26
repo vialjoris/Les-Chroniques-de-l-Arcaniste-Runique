@@ -1053,7 +1053,7 @@ Un symbole apparut brièvement autour de son premier cercle.
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>RUNE ÉQUIPÉE</div>
   <p><strong>Rune Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
   <p class="lit-window__row"><span>Emplacements utilisés :</span> <strong class="lit-window__value">1 / 2</strong></p>
-  <p><strong>HAS-R001 — Principale :</strong> <span class="rune-bonus">Attaque +70</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; PV +25</span>.</p>
+  <p data-rune-id="HAS-R001"><strong>Principale :</strong> <span class="rune-bonus">Attaque +70</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; PV +25</span>.</p>
   </details>
 </div>
 
@@ -1096,7 +1096,7 @@ Quelques instants plus tard, la rune Gardien rare à six étoiles rejoignit la F
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>RUNE ÉQUIPÉE</div>
   <p><strong>Rune Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
   <p class="lit-window__row"><span>Emplacements utilisés :</span> <strong class="lit-window__value">2 / 2</strong></p>
-  <p><strong>HAS-R002 — Principale :</strong> <span class="rune-bonus">Défense +70</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +30 ; Mana +20</span>.</p>
+  <p data-rune-id="HAS-R002"><strong>Principale :</strong> <span class="rune-bonus">Défense +70</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +30 ; Mana +20</span>.</p>
   </details>
 </div>
 
@@ -3124,7 +3124,7 @@ Hasol fronça les sourcils.
   <hr>
   <div class="lit-window__section">
   <p class="lit-window__section-title"><strong>Effet :</strong></p>
-  <p>Chaque tranche de 1 000 monstres admissibles éliminés permet de développer :</p>
+  <p>Chaque tranche de 1&nbsp;000 monstres admissibles éliminés permet de développer :</p>
   <p><strong>+1 cercle de mana</strong></p>
   <p><strong>+1 emplacement runique</strong></p>
   <p>Les éliminations antérieures sont prises en compte rétroactivement.</p>
@@ -3183,8 +3183,8 @@ Une nouvelle fenêtre apparut.
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>ANALYSE DE L’HISTORIQUE</div>
   <h3>Croissance runique</h3>
-  <p class="lit-window__row"><strong>Éliminations admissibles enregistrées :</strong> <span>plus de 8 000</span></p>
-  <p class="lit-window__row"><strong>Seuils de 1 000 atteints :</strong> <span class="lit-window__value">8</span></p>
+  <p class="lit-window__row"><strong>Éliminations admissibles enregistrées :</strong> <span>plus de 8&nbsp;000</span></p>
+  <p class="lit-window__row"><strong>Seuils de 1&nbsp;000 atteints :</strong> <span class="lit-window__value">8</span></p>
   <hr>
   <p class="lit-window__section-title"><strong>Récompenses :</strong></p>
   <p class="success-text">+8 cercles de mana</p>
@@ -3639,7 +3639,7 @@ Elle ouvrit la fenêtre et la partagea avec sa mère.
   <p><strong>Type :</strong> <span class="passive-badge">Passive</span> — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
   <p class="lit-window__row"><strong>Déblocage :</strong> <span>Niveau 10</span></p>
   <hr>
-  <p>Chaque tranche de 1 000 monstres admissibles éliminés accorde un cercle de mana et un emplacement runique supplémentaires.</p>
+  <p>Chaque tranche de 1&nbsp;000 monstres admissibles éliminés accorde un cercle de mana et un emplacement runique supplémentaires.</p>
   <p>Les éliminations antérieures sont prises en compte rétroactivement.</p>
   <p><strong>Admissibilité aux niveaux 10 à 19 :</strong> monstres de niveau 1 minimum.</p>
   </details>
@@ -3849,10 +3849,10 @@ Elles examinèrent ensuite les huit nouvelles acquisitions. Sa mère lui demanda
       <tr><td>Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">Attaque +7</span></td><td><span class="rune-bonus">Vitesse +2 ; PV +30</span></td></tr>
       <tr><td>Fatal <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">Attaque +7</span></td><td><span class="rune-bonus">Défense +3</span></td></tr>
       <tr><td>Fatal <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">Vitesse +3</span></td><td><span class="rune-bonus">Attaque +3</span></td></tr>
-      <tr><td>Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3 %</span></td></tr>
+      <tr><td>Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</span></td></tr>
       <tr><td>Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">Défense +7</span></td><td><span class="rune-bonus">PV +30 ; Vitesse +2</span></td></tr>
       <tr><td>Gardien <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3</span></td></tr>
-      <tr><td>Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3 %</span></td></tr>
+      <tr><td>Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</span></td></tr>
       <tr><td>Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">Défense +7</span></td><td><span class="rune-bonus">PV +30</span></td></tr>
     </tbody>
   </table>
@@ -3917,7 +3917,7 @@ L’éclat s’éteignit.
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État après la tentative :</strong> +0 — caractéristiques inchangées</p>
-  <p><strong>HAS-R003 — Principale :</strong> <span class="rune-bonus">Attaque +7</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +2 ; PV +30</span>.</p>
+  <p data-rune-id="HAS-R003"><strong>Principale :</strong> <span class="rune-bonus">Attaque +7</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +2 ; PV +30</span>.</p>
   <p>Les ressources engagées dans cette tentative ont été consommées.</p>
   </details>
 </div>
@@ -4019,22 +4019,22 @@ Lorsque le dernier lien se stabilisa, Hasol sentit un changement dans la circula
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +3</th><td class="rune-bonus">Attaque +22</td><td class="rune-bonus">Vitesse +4 ; PV +30</td></tr>
-      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Attaque +7</td><td class="rune-bonus">Défense +3</td></tr>
-      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Vitesse +3</td><td class="rune-bonus">Attaque +3</td></tr>
-      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3 %</td></tr>
-      <tr><th scope="row">HAS-R007 · Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
-      <tr><th scope="row">HAS-R008 · Gardien peu commune (verte), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3</td></tr>
-      <tr><th scope="row">HAS-R009 · Énergie rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3 %</td></tr>
-      <tr><th scope="row">HAS-R010 · Énergie peu commune (verte), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +3</th><td class="rune-bonus">Attaque +22</td><td class="rune-bonus">Vitesse +4 ; PV +30</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Attaque +7</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Vitesse +3</td><td class="rune-bonus">Attaque +3</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R007"><th scope="row">Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
+      <tr data-rune-id="HAS-R008"><th scope="row">Gardien peu commune (verte), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr data-rune-id="HAS-R009"><th scope="row">Énergie rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R010"><th scope="row">Énergie peu commune (verte), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30</td></tr>
     </tbody>
   </table>
   <hr>
-  <p><strong>Fatal :</strong> 4 pièces — 1 ensemble de 4 actif — <span class="rune-bonus">Attaque +35 %</span></p>
-  <p><strong>Gardien :</strong> 4 pièces — 2 ensembles de 2 actifs — <span class="rune-bonus">Défense +15 % +15 % = +30 %</span></p>
-  <p><strong>Énergie :</strong> 2 pièces — ensemble de 2 actif — <span class="rune-bonus">PV +15 %</span></p>
+  <p><strong>Fatal :</strong> 4 pièces — 1 ensemble de 4 actif — <span class="rune-bonus">Attaque +35&nbsp;%</span></p>
+  <p><strong>Gardien :</strong> 4 pièces — 2 ensembles de 2 actifs — <span class="rune-bonus">Défense +15&nbsp;% +15&nbsp;% = +30&nbsp;%</span></p>
+  <p><strong>Énergie :</strong> 2 pièces — ensemble de 2 actif — <span class="rune-bonus">PV +15&nbsp;%</span></p>
   </details>
 </div>
 
@@ -4072,9 +4072,9 @@ Hasol consulta la fiche. Les bonus fixes étaient distingués des caractéristiq
       <tr><td>Puissance arcanique</td><td><strong>211</strong></td></tr>
     </tbody>
   </table>
-  <p><strong>Autre bonus runique :</strong> <span class="rune-bonus">Résistance +6 %</span></p>
+  <p><strong>Autre bonus runique :</strong> <span class="rune-bonus">Résistance +6&nbsp;%</span></p>
   <hr>
-  <p><strong>Bonus d’ensemble, affichés séparément :</strong> <span class="rune-bonus">Attaque +35 % ; Défense +30 % ; PV +15 %</span></p>
+  <p><strong>Bonus d’ensemble, affichés séparément :</strong> <span class="rune-bonus">Attaque +35&nbsp;% ; Défense +30&nbsp;% ; PV +15&nbsp;%</span></p>
   <p><strong>Cercles de mana :</strong> 10 — <strong>Runes équipées :</strong> 10 / 10</p>
   <p><strong>Compétences :</strong> Bénédiction runique ; Croissance runique — Passives</p>
   <p><strong>Compétence offensive :</strong> Aucune</p>
@@ -4655,7 +4655,7 @@ Une Fatal peu commune, verte, trois étoiles, à +0, retint son regard. Principa
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE EXAMINÉE AU MARCHÉ</div>
-  <h3>MAR-R001 — Fatal peu commune (verte), 3★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="MAR-R001">Fatal peu commune (verte), 3★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Attaque +7</span></p>
   <p><strong>Secondaire présente :</strong> <span class="rune-bonus">Vitesse +2</span></p>
   </details>
@@ -4897,7 +4897,7 @@ Orven prit sur un plateau une Énergie commune, blanche, deux étoiles, à +0, e
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ÉTAT INITIAL DE LA RUNE</div>
   <h3>Rune Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★ <span class="upgrade-badge">+0</span></h3>
-  <p><strong>ORV-R001 — Principale :</strong> <span class="rune-bonus">PV +70</span></p>
+  <p data-rune-id="ORV-R001"><strong>Principale :</strong> <span class="rune-bonus">PV +70</span></p>
   <p><strong>Secondaires :</strong> Aucune</p>
   </details>
 </div>
@@ -4938,7 +4938,7 @@ Elle renouvela les ressources et vérifia le niveau de départ. À +1, la rune �
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+1 → +2</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État conservé :</strong> <span class="upgrade-badge">+1</span> — rune intacte</p>
-  <p><strong>ORV-R001 — Principale :</strong> <span class="rune-bonus">PV +100</span> ; <strong>secondaires :</strong> Aucune.</p>
+  <p data-rune-id="ORV-R001"><strong>Principale :</strong> <span class="rune-bonus">PV +100</span> ; <strong>secondaires :</strong> Aucune.</p>
   <p>Les ressources engagées ont été consommées.</p>
   </details>
 </div>
@@ -4981,7 +4981,7 @@ Hasol retira lentement les mains.
   <p class="lit-window__row"><strong>Dernier passage :</strong> <span class="lit-window__value">+2 → +3</span></p>
   <p class="lit-window__row"><strong>Grade d’origine :</strong> <span class="lit-badge lit-badge--rune-common">Commun — Blanc</span></p>
   <p class="lit-window__row"><strong>Grade actuel :</strong> <span class="lit-badge lit-badge--rune-common">Commun — Blanc, inchangé</span></p>
-  <p><strong>ORV-R001 — Principale :</strong> <span class="rune-bonus">PV +160</span></p>
+  <p data-rune-id="ORV-R001"><strong>Principale :</strong> <span class="rune-bonus">PV +160</span></p>
   <p><strong>Première secondaire apparue :</strong> <strong class="rune-bonus">Défense +3</strong></p>
   <p><strong>Nombre de secondaires :</strong> 1 / 4 — rang inchangé</p>
   </details>
@@ -5183,7 +5183,7 @@ Une Gardien commune, blanche, deux étoiles, à +0, devait être rendue dans la 
   <p class="lit-window__row"><strong>État initial :</strong> <span class="upgrade-badge">+0</span></p>
   <p class="lit-window__row"><strong>Objectif demandé :</strong> <span class="upgrade-badge">+2</span></p>
   <p><strong>Limite autorisée :</strong> 3 tentatives au maximum</p>
-  <p><strong>CLI-R001 — Principale à +0 :</strong> <span class="rune-bonus">Défense +5</span> ; <strong>secondaires :</strong> Aucune.</p>
+  <p data-rune-id="CLI-R001"><strong>Principale à +0 :</strong> <span class="rune-bonus">Défense +5</span> ; <strong>secondaires :</strong> Aucune.</p>
   </details>
 </div>
 
@@ -5233,7 +5233,7 @@ Hasol retira ses doigts. La chaleur resta un instant dans sa paume.
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État conservé :</strong> <span class="upgrade-badge">+0</span> — rune intacte, caractéristiques inchangées</p>
-  <p><strong>CLI-R001 — Principale :</strong> <span class="rune-bonus">Défense +5</span> ; <strong>secondaires :</strong> Aucune.</p>
+  <p data-rune-id="CLI-R001"><strong>Principale :</strong> <span class="rune-bonus">Défense +5</span> ; <strong>secondaires :</strong> Aucune.</p>
   <p><strong>Pierres de mana engagées :</strong> Consommées</p>
   <p><strong>Mana personnel :</strong> Dépensé</p>
   </details>
@@ -5264,7 +5264,7 @@ Cette fois, Hasol garda son attention sur l’ensemble des gravures. Quand la vi
   <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p><strong>Niveau atteint :</strong> <span class="upgrade-badge">+1</span></p>
-  <p><strong>CLI-R001 — Principale :</strong> <span class="rune-bonus">Défense +8</span> ; <strong>secondaires :</strong> Aucune.</p>
+  <p data-rune-id="CLI-R001"><strong>Principale :</strong> <span class="rune-bonus">Défense +8</span> ; <strong>secondaires :</strong> Aucune.</p>
   <p><strong>Ressources engagées :</strong> Pierres de mana consommées et Mana personnel dépensé</p>
   </details>
 </div>
@@ -5338,7 +5338,7 @@ La résistance augmenta. Elle ajusta son geste, sentit une tension dans la nuque
   <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
   <p><strong>Dernière tentative :</strong> +1 → +2 — Réussite</p>
   <p><strong>Niveau final :</strong> <span class="upgrade-badge">+2</span></p>
-  <p><strong>CLI-R001 — Principale :</strong> <span class="rune-bonus">Défense +11</span> ; <strong>secondaires :</strong> Aucune.</p>
+  <p data-rune-id="CLI-R001"><strong>Principale :</strong> <span class="rune-bonus">Défense +11</span> ; <strong>secondaires :</strong> Aucune.</p>
   <p><strong>Suivi :</strong> Trois tentatives effectuées sur trois autorisées</p>
   </details>
 </div>
@@ -5537,7 +5537,7 @@ Il lui plaça une fiche sous les yeux. Hasol y reconnut la désignation d’une 
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>FICHE DE LA RUNE CLIENTE</div>
-  <h3>CLI-R002 — Gardien rare (bleue), 3★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="CLI-R002">Gardien rare (bleue), 3★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Défense +7</span></p>
   <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">PV +30 ; Vitesse +2</span></p>
   <p>État initial ; aucune tentative engagée.</p>
@@ -6386,7 +6386,7 @@ Elle ajouta avec une pointe de fierté :
   <p><strong>Obtention :</strong> Niveau 1 — <strong>Élément :</strong> Lumière</p>
   <p><strong>Coût :</strong> 5 Mana — <strong>Portée :</strong> 10 mètres</p>
   <p><strong>Incantation :</strong> 5 secondes — <strong>Récupération :</strong> Aucune</p>
-  <p><strong>Puissance annoncée :</strong> 20 % de la Puissance arcanique de Yoon, avant résolution des défenses et interactions applicables.</p>
+  <p><strong>Puissance annoncée :</strong> 20&nbsp;% de la Puissance arcanique de Yoon, avant résolution des défenses et interactions applicables.</p>
   </details>
 </div>
 
@@ -10444,7 +10444,7 @@ Elle prit une petite rune Énergie commune (blanche), 1★, +0, et observa ses i
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE DE RÉCUPÉRATION EXAMINÉE</div>
-  <h3>REC-R002 — Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 1★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="REC-R002">Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 1★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +40</span></p>
   <p><strong>Secondaires :</strong> Aucune.</p>
   <p>Pierre de la caisse de récupération d’Orven, distincte des runes personnelles d’Hasol.</p>
@@ -10867,7 +10867,7 @@ Orven examina la petite rune rare (bleue), 1★.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE EXAMINÉE DANS LE LOT</div>
-  <h3>REC-R001 — Énergie rare (bleue), 1★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="REC-R001">Énergie rare (bleue), 1★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +40</span></p>
   <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">Attaque +2 ; Défense +2</span></p>
   </details>
@@ -11435,7 +11435,7 @@ Elle releva les yeux.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE DU TRI — IDENTIFICATION</div>
-  <h3>REC-R003 — Fatal <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 1★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="REC-R003">Fatal <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 1★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Attaque +3</span></p>
   <p><strong>Secondaires :</strong> Aucune.</p>
   <p>Pierre du tri de l’atelier ; son classement erroné ne change pas son ensemble.</p>
@@ -13292,7 +13292,7 @@ L’ensemble Arcanique semblait parfaitement adapté.
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ENSEMBLE ARCANIQUE</div>
   <p><strong>Condition :</strong> 4 pièces équipées.</p>
-  <p><span class="rune-bonus">Bonus d’ensemble : +1 200 Puissance arcanique.</span></p>
+  <p><span class="rune-bonus">Bonus d’ensemble : +1&nbsp;200 Puissance arcanique.</span></p>
   <p>Deux ou trois pièces : aucun bonus d’ensemble.</p>
   </details>
 </div>
@@ -13310,7 +13310,7 @@ Et il augmentait également ses dégâts critiques.
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>PUISSANCE ARCANIQUE ET CRITIQUES</div>
   <p><strong>CC (%) :</strong> 5 + (Puissance arcanique effective / 80) + Bonus CC</p>
   <p><strong>DCC (%) :</strong> 150 + (Puissance arcanique effective / 100) + Bonus DCC</p>
-  <p>À 100 % de CC ou davantage, une action éligible est toujours critique, sans surcritique.</p>
+  <p>À 100&nbsp;% de CC ou davantage, une action éligible est toujours critique, sans surcritique.</p>
   </details>
 </div>
 
@@ -13490,7 +13490,7 @@ Une rune Énergie commune (blanche), 2★, +3.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>REGISTRE — COMMANDE ÉNERGIE</div>
-  <h3>CLI-R003 — Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</h3>
+  <h3 data-rune-id="CLI-R003">Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</h3>
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">État consigné</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
@@ -13512,7 +13512,7 @@ Deux Fatal 2★, +3, l’une commune blanche, l’autre peu commune verte.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>REGISTRE — PREMIÈRE COMMANDE FATAL</div>
-  <h3>CLI-R004 — Fatal <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</h3>
+  <h3 data-rune-id="CLI-R004">Fatal <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</h3>
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">État consigné</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
@@ -13532,7 +13532,7 @@ Deux Fatal 2★, +3, l’une commune blanche, l’autre peu commune verte.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>REGISTRE — SECONDE COMMANDE FATAL</div>
-  <h3>CLI-R005 — Fatal <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★</h3>
+  <h3 data-rune-id="CLI-R005">Fatal <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★</h3>
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">État consigné</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
@@ -13811,9 +13811,9 @@ Hasol acquiesça.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>COMPARAISON DES SÉRIES D’AMÉLIORATION</div>
-  <p><strong>Orven :</strong> 20 échecs / 80 tentatives — 25 %.</p>
-  <p><strong>Hasol :</strong> 14 échecs / 80 tentatives — 17,5 %.</p>
-  <p><strong>Écart :</strong> 7,5 points de pourcentage ; réduction relative de 30 % des échecs.</p>
+  <p><strong>Orven :</strong> 20 échecs / 80 tentatives — 25&nbsp;%.</p>
+  <p><strong>Hasol :</strong> 14 échecs / 80 tentatives — 17,5&nbsp;%.</p>
+  <p><strong>Écart :</strong> 7,5 points de pourcentage ; réduction relative de 30&nbsp;% des échecs.</p>
   <p>Résultats de séries comparables, pas une réussite garantie.</p>
   </details>
 </div>
@@ -14346,7 +14346,7 @@ Il croisa les bras.
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>BÉNÉDICTION RUNIQUE — OBSERVATIONS</div>
   <p><span class="passive-badge">Passive</span></p>
-  <p><strong>Réussite :</strong> Environ 30 % d’échecs en moins relativement aux séries comparables d’Orven.</p>
+  <p><strong>Réussite :</strong> Environ 30&nbsp;% d’échecs en moins relativement aux séries comparables d’Orven.</p>
   <p><strong>Qualité :</strong> Maximum très fréquent lors d’un renforcement variable effectivement déclenché après une réussite.</p>
   <p>Maximum non garanti, fréquence exacte non fixée ; ni choix de la caractéristique, ni dépassement des limites de la rune.</p>
   </details>
@@ -14954,7 +14954,7 @@ Hasol retint son souffle.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <p><strong>GRI-R001 — Rune d’épreuve :</strong> Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★.</p>
+  <p data-rune-id="GRI-R001"><strong>Rune d’épreuve :</strong> Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★.</p>
   <p><strong>Niveau atteint :</strong> <span class="upgrade-badge">+6</span></p>
   <p><strong>Principale :</strong> <span class="rune-bonus">Défense +23</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +40 ; Mana +20</span>.</p>
   <p>Commande du Griffon d’Argent — rune distincte de l’équipement personnel d’Hasol.</p>
@@ -15465,8 +15465,8 @@ La pierre était légèrement tiède.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE ARCANIQUE</div>
-  <p><strong>HAS-R011 :</strong> Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+0</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +30</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +2 ; Mana +10</span>.</p>
-  <p><strong>HAS-R012 :</strong> Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+0</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +30</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Attaque +4 ; Défense +3</span>.</p>
+  <p data-rune-id="HAS-R011">Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+0</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +30</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +2 ; Mana +10</span>.</p>
+  <p data-rune-id="HAS-R012">Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+0</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +30</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Attaque +4 ; Défense +3</span>.</p>
   </details>
 </div>
 
@@ -15565,16 +15565,16 @@ Elle consulta son interface.
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +3</th><td class="rune-bonus">Attaque +22</td><td class="rune-bonus">Vitesse +4 ; PV +30</td></tr>
-      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Attaque +7</td><td class="rune-bonus">Défense +3</td></tr>
-      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Vitesse +3</td><td class="rune-bonus">Attaque +3</td></tr>
-      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3 %</td></tr>
-      <tr><th scope="row">HAS-R009 · Énergie rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3 %</td></tr>
-      <tr><th scope="row">HAS-R010 · Énergie peu commune (verte), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30</td></tr>
-      <tr><th scope="row">HAS-R011 · Arcanique rare (bleue), 3★, +0</th><td class="rune-bonus">PA +30</td><td class="rune-bonus">Vitesse +2 ; Mana +10</td></tr>
-      <tr><th scope="row">HAS-R012 · Arcanique rare (bleue), 3★, +0</th><td class="rune-bonus">PA +30</td><td class="rune-bonus">Attaque +4 ; Défense +3</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +3</th><td class="rune-bonus">Attaque +22</td><td class="rune-bonus">Vitesse +4 ; PV +30</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Attaque +7</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Vitesse +3</td><td class="rune-bonus">Attaque +3</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R009"><th scope="row">Énergie rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R010"><th scope="row">Énergie peu commune (verte), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30</td></tr>
+      <tr data-rune-id="HAS-R011"><th scope="row">Arcanique rare (bleue), 3★, +0</th><td class="rune-bonus">PA +30</td><td class="rune-bonus">Vitesse +2 ; Mana +10</td></tr>
+      <tr data-rune-id="HAS-R012"><th scope="row">Arcanique rare (bleue), 3★, +0</th><td class="rune-bonus">PA +30</td><td class="rune-bonus">Attaque +4 ; Défense +3</td></tr>
     </tbody>
   </table>
   <p><strong>Ensembles :</strong> Fatal, Gardien et Énergie actifs ; Arcanique 2 / 4 — inactif.</p>
@@ -15842,16 +15842,16 @@ Il lui montra le bilan.
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Vitesse +4 ; PV +50</td></tr>
-      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Défense +6 ; PA +20</td></tr>
-      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
-      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3 %</td></tr>
-      <tr><th scope="row">HAS-R009 · Énergie rare (bleue), 3★, +6</th><td class="rune-bonus">PV +388</td><td class="rune-bonus">Défense +6 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R010 · Énergie peu commune (verte), 3★, +3</th><td class="rune-bonus">Défense +22</td><td class="rune-bonus">PV +50</td></tr>
-      <tr><th scope="row">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Vitesse +4 ; PV +50</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Défense +6 ; PA +20</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R009"><th scope="row">Énergie rare (bleue), 3★, +6</th><td class="rune-bonus">PV +388</td><td class="rune-bonus">Défense +6 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R010"><th scope="row">Énergie peu commune (verte), 3★, +3</th><td class="rune-bonus">Défense +22</td><td class="rune-bonus">PV +50</td></tr>
+      <tr data-rune-id="HAS-R011"><th scope="row">Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R012"><th scope="row">Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
     </tbody>
   </table>
   </details>
@@ -16967,16 +16967,16 @@ Elle ne révéla que les informations qu’elle souhaitait partager.
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Vitesse +4 ; PV +50</td></tr>
-      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Défense +6 ; PA +20</td></tr>
-      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
-      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3 %</td></tr>
-      <tr><th scope="row">HAS-R009 · Énergie rare (bleue), 3★, +6</th><td class="rune-bonus">PV +388</td><td class="rune-bonus">Défense +6 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R010 · Énergie peu commune (verte), 3★, +3</th><td class="rune-bonus">Défense +22</td><td class="rune-bonus">PV +50</td></tr>
-      <tr><th scope="row">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Vitesse +4 ; PV +50</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Défense +6 ; PA +20</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R009"><th scope="row">Énergie rare (bleue), 3★, +6</th><td class="rune-bonus">PV +388</td><td class="rune-bonus">Défense +6 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R010"><th scope="row">Énergie peu commune (verte), 3★, +3</th><td class="rune-bonus">Défense +22</td><td class="rune-bonus">PV +50</td></tr>
+      <tr data-rune-id="HAS-R011"><th scope="row">Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R012"><th scope="row">Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
     </tbody>
   </table>
   <p><strong>Arcanique :</strong> 2 / 4 — bonus inactif.</p>
@@ -20370,8 +20370,8 @@ Une pierre de mana se consuma.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <p><strong>HAS-R009 :</strong> Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+7</span> ; passage +6 → +7.</p>
-  <p><strong>Principale :</strong> <span class="rune-bonus">PV +436</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6 %</span>.</p>
+  <p data-rune-id="HAS-R009">Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+7</span> ; passage +6 → +7.</p>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +436</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6&nbsp;%</span>.</p>
   <p>Pierres de mana consommées et Mana personnel dépensé.</p>
   </details>
 </div>
@@ -20390,8 +20390,8 @@ Cette fois, la lumière vacilla.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 8 8 8 M16 8l-8 8"/></svg>AMÉLIORATION ÉCHOUÉE</div>
-  <p><strong>HAS-R009 :</strong> Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+7</span> conservé ; tentative +7 → +8.</p>
-  <p><strong>Principale :</strong> <span class="rune-bonus">PV +436</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6 %</span>.</p>
+  <p data-rune-id="HAS-R009">Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+7</span> conservé ; tentative +7 → +8.</p>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +436</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6&nbsp;%</span>.</p>
   <p>Aucune progression ; ressources engagées consommées.</p>
   </details>
 </div>
@@ -20422,10 +20422,10 @@ Mais à la fin de la séance, la première rune avait atteint le palier recherch
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>PALIER ATTEINT</div>
-  <p><strong>HAS-R009 :</strong> Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★.</p>
+  <p data-rune-id="HAS-R009">Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★.</p>
   <p><strong>Amélioration :</strong> <span class="upgrade-badge">+9</span></p>
   <p><strong>Dernier passage :</strong> +8 → +9 ; rareté inchangée.</p>
-  <p><strong>Principale :</strong> <span class="rune-bonus">PV +532</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6 % ; <strong>Mana +10</strong></span>.</p>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +532</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6&nbsp;% ; <strong>Mana +10</strong></span>.</p>
   </details>
 </div>
 
@@ -20453,7 +20453,7 @@ Hasol amena sa deuxième rune Énergie peu commune (verte), 3★, à +9, sans en
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>SECONDE ÉNERGIE AMÉLIORÉE</div>
-  <h3>HAS-R010 — Énergie peu commune (verte), 3★ <span class="upgrade-badge">+9</span></h3>
+  <h3 data-rune-id="HAS-R010">Énergie peu commune (verte), 3★ <span class="upgrade-badge">+9</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Défense +52</span></p>
   <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">PV +50 ; Vitesse +2 ; <strong>PA +20</strong></span></p>
   </details>
@@ -21311,7 +21311,7 @@ Puis ouvrit son interface.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE</div>
-  <p><strong>Progression cumulée depuis le huitième palier :</strong> 999 / 1 000 éliminations admissibles, reliquat antérieur inclus.</p>
+  <p><strong>Progression cumulée depuis le huitième palier :</strong> 999 / 1&nbsp;000 éliminations admissibles, reliquat antérieur inclus.</p>
   </details>
 </div>
 <!-- Raccord validé par l'auteur : le compteur inclut le reliquat des huit premiers paliers, dont la valeur isolée reste inconnue. Aucun ancien millier recompté. -->
@@ -21410,7 +21410,7 @@ Puis une notification apparut.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE — PALIER ATTEINT</div>
-  <p><strong>Progression cumulée depuis le huitième palier :</strong> 1 000 éliminations admissibles, reliquat antérieur inclus.</p>
+  <p><strong>Progression cumulée depuis le huitième palier :</strong> 1&nbsp;000 éliminations admissibles, reliquat antérieur inclus.</p>
   <p>Nouveau cercle de mana et nouvel emplacement runique obtenus.</p>
   <p class="lit-window__row"><strong>Cercles :</strong> <span class="lit-window__value">10 → 11.</span></p>
   </details>
@@ -21576,8 +21576,8 @@ Mais leurs caractéristiques principales correspondaient exactement à ce que re
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>DEUX NOUVELLES RUNES ARCANIQUE</div>
-  <p><strong>HAS-R013 :</strong> Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +38</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; Mana +20</span>.</p>
-  <p><strong>HAS-R014 :</strong> Arcanique <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +38</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Mana +10</span>.</p>
+  <p data-rune-id="HAS-R013">Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +38</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; Mana +20</span>.</p>
+  <p data-rune-id="HAS-R014">Arcanique <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +38</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Mana +10</span>.</p>
   </details>
 </div>
 
@@ -21707,7 +21707,7 @@ Une notification apparut.
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ENSEMBLE ARCANIQUE ACTIVÉ</div>
   <p class="lit-window__row"><strong>Pièces équipées :</strong> <span class="lit-window__value">4 / 4.</span></p>
-  <p><span class="rune-bonus">Bonus d’ensemble : Puissance arcanique +1 200.</span></p>
+  <p><span class="rune-bonus">Bonus d’ensemble : Puissance arcanique +1&nbsp;200.</span></p>
   </details>
 </div>
 
@@ -21796,17 +21796,17 @@ Hasol contempla sa nouvelle configuration.
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Vitesse +4 ; PV +50 ; PA +60</td></tr>
-      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Défense +6 ; PA +20 ; Vitesse +2</td></tr>
-      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
-      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3 %</td></tr>
-      <tr><th scope="row">HAS-R007 · Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
-      <tr><th scope="row">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
-      <tr><th scope="row">HAS-R013 · Arcanique rare (bleue), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R014 · Arcanique peu commune (verte), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Défense +6 ; Mana +10</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Vitesse +4 ; PV +50 ; PA +60</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Défense +6 ; PA +20 ; Vitesse +2</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R007"><th scope="row">Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
+      <tr data-rune-id="HAS-R011"><th scope="row">Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R012"><th scope="row">Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+      <tr data-rune-id="HAS-R013"><th scope="row">Arcanique rare (bleue), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R014"><th scope="row">Arcanique peu commune (verte), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Défense +6 ; Mana +10</td></tr>
     </tbody>
   </table>
   </details>
@@ -22232,13 +22232,13 @@ Une notification apparut.
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ENSEMBLE ÉNERGIE ACTIVÉ — YOON</div>
   <p><strong>Runes offertes par Hasol et équipées :</strong></p>
-  <p><strong>HAS-R009 :</strong> Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+9</span> ; <strong>principale :</strong> <span class="rune-bonus">PV +532</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6 % ; Mana +10</span>.</p>
-  <p><strong>HAS-R010 :</strong> Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, <span class="upgrade-badge">+9</span> ; <strong>principale :</strong> <span class="rune-bonus">Défense +52</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +50 ; Vitesse +2 ; PA +20</span>.</p>
+  <p data-rune-id="HAS-R009">Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+9</span> ; <strong>principale :</strong> <span class="rune-bonus">PV +532</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6&nbsp;% ; Mana +10</span>.</p>
+  <p data-rune-id="HAS-R010">Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, <span class="upgrade-badge">+9</span> ; <strong>principale :</strong> <span class="rune-bonus">Défense +52</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +50 ; Vitesse +2 ; PA +20</span>.</p>
   <p class="lit-window__row"><strong>Pièces équipées :</strong> <span class="lit-window__value">2 / 2.</span></p>
-  <p><span class="rune-bonus">Bonus d’ensemble : PV maximums +15 %.</span></p>
+  <p><span class="rune-bonus">Bonus d’ensemble : PV maximums +15&nbsp;%.</span></p>
   <p><strong>Anciennes runes conservées dans l’inventaire, non équipées :</strong></p>
-  <p><strong>YOO-R001 :</strong> Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">Défense +23</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +40 ; Mana +20</span>.</p>
-  <p><strong>YOO-R002 :</strong> Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PV +250</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; Défense +3</span>.</p>
+  <p data-rune-id="YOO-R001">Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">Défense +23</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +40 ; Mana +20</span>.</p>
+  <p data-rune-id="YOO-R002">Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PV +250</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; Défense +3</span>.</p>
   </details>
 </div>
 
@@ -23113,7 +23113,7 @@ Hasol ouvrit son compteur.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE</div>
-  <p><strong>Progression cumulée depuis le huitième palier :</strong> 1 998 / 2 000 éliminations admissibles, reliquat antérieur inclus.</p>
+  <p><strong>Progression cumulée depuis le huitième palier :</strong> 1&nbsp;998 / 2&nbsp;000 éliminations admissibles, reliquat antérieur inclus.</p>
   </details>
 </div>
 <!-- Raccord validé par l'auteur : suivi cumulatif après le huitième palier, reliquat inclus ; le neuvième millier n'est pas récompensé une deuxième fois. -->
@@ -23158,7 +23158,7 @@ Elle consulta son compteur.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE</div>
-  <p><strong>Progression cumulée depuis le huitième palier :</strong> 1 999 / 2 000, reliquat antérieur inclus.</p>
+  <p><strong>Progression cumulée depuis le huitième palier :</strong> 1&nbsp;999 / 2&nbsp;000, reliquat antérieur inclus.</p>
   </details>
 </div>
 
@@ -23232,7 +23232,7 @@ Une notification apparut immédiatement.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CROISSANCE RUNIQUE — PALIER ATTEINT</div>
-  <p><strong>Progression cumulée depuis le huitième palier :</strong> 2 000 éliminations admissibles, reliquat antérieur inclus.</p>
+  <p><strong>Progression cumulée depuis le huitième palier :</strong> 2&nbsp;000 éliminations admissibles, reliquat antérieur inclus.</p>
   <p>Nouveau cercle de mana et nouvel emplacement runique obtenus.</p>
   <p class="lit-window__row"><strong>Cercles :</strong> <span class="lit-window__value">11 → 12.</span></p>
   </details>
@@ -23472,24 +23472,24 @@ Son équipement était désormais composé de :
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>HASOL SHUN — ÉQUIPEMENT RUNIQUE</div>
   <p><strong>Classe :</strong> Arcaniste runique — <span class="lit-badge lit-badge--legendary">Légendaire</span>.</p>
   <p><strong>Niveau :</strong> 19 — <strong>Cercles :</strong> 12 — <strong>Runes équipées :</strong> 12 / 12.</p>
-  <p><strong>Fatal :</strong> 4 — <span class="rune-bonus">Attaque +35 %.</span></p>
-  <p><strong>Arcanique :</strong> 4 — <span class="rune-bonus">Puissance arcanique +1 200.</span></p>
-  <p><strong>Gardien :</strong> 4 — deux paires, <span class="rune-bonus">Défense +15 % +15 % = +30 %.</span></p>
+  <p><strong>Fatal :</strong> 4 — <span class="rune-bonus">Attaque +35&nbsp;%.</span></p>
+  <p><strong>Arcanique :</strong> 4 — <span class="rune-bonus">Puissance arcanique +1&nbsp;200.</span></p>
+  <p><strong>Gardien :</strong> 4 — deux paires, <span class="rune-bonus">Défense +15&nbsp;% +15&nbsp;% = +30&nbsp;%.</span></p>
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R003 · Fatal rare (bleue), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Vitesse +4 ; PV +50 ; PA +60</td></tr>
-      <tr><th scope="row">HAS-R004 · Fatal peu commune (verte), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Défense +6 ; PA +20 ; Vitesse +2</td></tr>
-      <tr><th scope="row">HAS-R005 · Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
-      <tr><th scope="row">HAS-R006 · Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3 %</td></tr>
-      <tr><th scope="row">HAS-R007 · Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
-      <tr><th scope="row">HAS-R008 · Gardien peu commune (verte), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3</td></tr>
-      <tr><th scope="row">HAS-R011 · Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R012 · Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
-      <tr><th scope="row">HAS-R013 · Arcanique rare (bleue), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr><th scope="row">HAS-R014 · Arcanique peu commune (verte), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Défense +6 ; Mana +10</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Vitesse +4 ; PV +50 ; PA +60</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Défense +6 ; PA +20 ; Vitesse +2</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R007"><th scope="row">Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
+      <tr data-rune-id="HAS-R008"><th scope="row">Gardien peu commune (verte), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr data-rune-id="HAS-R011"><th scope="row">Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R012"><th scope="row">Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+      <tr data-rune-id="HAS-R013"><th scope="row">Arcanique rare (bleue), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R014"><th scope="row">Arcanique peu commune (verte), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Défense +6 ; Mana +10</td></tr>
     </tbody>
   </table>
   </details>
@@ -25385,7 +25385,7 @@ Une fenêtre apparut.
   <p><strong>Caractéristique principale :</strong> <span class="rune-bonus">Vitesse +3</span></p>
   <p class="lit-window__section-title"><strong>Caractéristiques secondaires :</strong></p>
   <ul>
-    <li>Attaque <span class="rune-bonus">+8 %</span></li>
+    <li>Attaque <span class="rune-bonus">+8&nbsp;%</span></li>
     <li>Puissance arcanique <span class="rune-bonus">+60</span></li>
   </ul>
   </details>
@@ -25831,7 +25831,7 @@ Elle concentra immédiatement son regard.
   <p class="lit-window__row"><strong>Amélioration actuelle :</strong> <span class="upgrade-badge">+9</span></p>
   <hr>
   <p class="lit-window__row"><strong>Caractéristiques secondaires présentes :</strong> <span class="lit-window__value">4 / 4</span></p>
-  <p class="lit-window__row"><strong>Principale :</strong> <span class="rune-bonus">PV +25 %</span></p>
+  <p class="lit-window__row"><strong>Principale :</strong> <span class="rune-bonus">PV +25&nbsp;%</span></p>
   <p class="lit-window__row"><strong>Puissance arcanique secondaire :</strong> <span class="rune-bonus lit-window__value">+60</span></p>
   <p class="lit-window__row"><strong>Vitesse secondaire :</strong> <span class="rune-bonus lit-window__value">+4</span></p>
   <p class="lit-window__row"><strong>Défense secondaire :</strong> <span class="rune-bonus lit-window__value">+30</span></p>
@@ -26287,7 +26287,7 @@ C’était une rune Énergie commune, une étoile, encore à +0.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE D’ESSAI — ÉTAT INITIAL</div>
-  <h3>ORV-R002 — Énergie commune (blanche), 1★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="ORV-R002">Énergie commune (blanche), 1★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +40</span></p>
   <p><strong>Secondaires :</strong> Aucune.</p>
   </details>
@@ -26387,7 +26387,7 @@ Sa couleur pâle demeura blanche.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <h3>ORV-R002 — Rune Énergie commune (blanche), 1★</h3>
+  <h3 data-rune-id="ORV-R002">Rune Énergie commune (blanche), 1★</h3>
   <p class="lit-window__row"><strong>Amélioration :</strong> <span class="upgrade-badge">+3</span></p>
   <p class="lit-window__row"><strong>Grade actuel :</strong> <span class="lit-badge lit-badge--rune-common">Commun — Blanc, inchangé</span></p>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +85</span></p>
@@ -26706,7 +26706,7 @@ Dans la seconde, celui de +60.
   <p><strong>Palier +15 :</strong> +140 — résultat final déterminé.</p>
   <p><strong>Réussite des tentatives :</strong> Non garantie.</p>
   </div>
-  <p class="lit-window__row"><strong>Principale :</strong> <span class="rune-bonus">PV +43 %</span></p>
+  <p class="lit-window__row"><strong>Principale :</strong> <span class="rune-bonus">PV +43&nbsp;%</span></p>
   <p class="lit-window__row"><strong>Vitesse secondaire :</strong> <span class="rune-bonus lit-window__value">+4</span></p>
   <p class="lit-window__row"><strong>Défense secondaire :</strong> <span class="rune-bonus lit-window__value">+30</span></p>
   <p class="lit-window__row"><strong>Mana secondaire :</strong> <span class="rune-bonus lit-window__value">+20</span></p>
@@ -35724,7 +35724,7 @@ Puis ajouta le nom de Samia au registre.
   <p><strong>Yoon Notos :</strong> Sage runique, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
   <p><strong>Ray Corvus :</strong> Mage de feu, <span class="lit-badge lit-badge--common">commun</span> — 5 points</p>
   <p><strong>Zio Notos :</strong> Gardien, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
-  <p><strong>Samia Claire :</strong> Ranger, <span class="lit-badge lit-badge--common">commune</span> — 5 points</p>
+  <p><strong>Samia Claire :</strong> Éclaireuse, <span class="lit-badge lit-badge--common">commune</span> — 5 points</p>
   <p class="lit-window__row"><strong>Membres :</strong> <span class="lit-window__value">5 / 5</span></p>
   <p class="lit-window__row"><strong>Points de classe :</strong> <span class="lit-window__value">50 / 50</span></p>
   <p><strong>État :</strong> Composition complète.</p>
@@ -37435,12 +37435,12 @@ Elle contempla la projection.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ŒIL RUNIQUE — RUNE DU MARCHAND</div>
-  <h3>CLI-R006 — Fatal <span class="lit-badge lit-badge--rune-legendary">légendaire (orange)</span>, 6★</h3>
+  <h3 data-rune-id="CLI-R006">Fatal <span class="lit-badge lit-badge--rune-legendary">légendaire (orange)</span>, 6★</h3>
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">État</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr><th scope="row">Réel <span class="upgrade-badge">+9</span></th><td class="rune-bonus">Précision +39 %</td><td class="rune-bonus">PA +60 ; Vitesse +4 ; Défense +30 ; Mana +20</td></tr>
-      <tr><th scope="row">Projection conditionnelle <span class="upgrade-badge">+15</span> — NON ACQUISE</th><td class="rune-bonus">Précision +64 %</td><td class="rune-bonus">PA +60 ; Vitesse +4 ; Défense +60 ; Mana +40</td></tr>
+      <tr><th scope="row">Réel <span class="upgrade-badge">+9</span></th><td class="rune-bonus">Précision +39&nbsp;%</td><td class="rune-bonus">PA +60 ; Vitesse +4 ; Défense +30 ; Mana +20</td></tr>
+      <tr><th scope="row">Projection conditionnelle <span class="upgrade-badge">+15</span> — NON ACQUISE</th><td class="rune-bonus">Précision +64&nbsp;%</td><td class="rune-bonus">PA +60 ; Vitesse +4 ; Défense +60 ; Mana +40</td></tr>
     </tbody>
   </table>
   <p><strong>Condition :</strong> améliorations restantes effectuées personnellement par Hasol jusqu’à +15 ; réussite des tentatives non garantie, ressources nécessaires.</p>
@@ -37899,12 +37899,12 @@ La projection apparut devant elle.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ŒIL RUNIQUE — RUNE DU JEUNE CHASSEUR</div>
-  <h3>CLI-R007 — Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★</h3>
+  <h3 data-rune-id="CLI-R007">Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★</h3>
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">État</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr><th scope="row">Réel <span class="upgrade-badge">+0</span></th><td class="rune-bonus">Résistance +2 %</td><td class="rune-bonus">PV +20</td></tr>
-      <tr><th scope="row">Projection conditionnelle <span class="upgrade-badge">+15</span> — NON ACQUISE</th><td class="rune-bonus">Résistance +19 %</td><td class="rune-bonus">PV +80 ; Vitesse +2 ; Défense +3 ; Mana +10</td></tr>
+      <tr><th scope="row">Réel <span class="upgrade-badge">+0</span></th><td class="rune-bonus">Résistance +2&nbsp;%</td><td class="rune-bonus">PV +20</td></tr>
+      <tr><th scope="row">Projection conditionnelle <span class="upgrade-badge">+15</span> — NON ACQUISE</th><td class="rune-bonus">Résistance +19&nbsp;%</td><td class="rune-bonus">PV +80 ; Vitesse +2 ; Défense +3 ; Mana +10</td></tr>
     </tbody>
   </table>
   <p><strong>Condition :</strong> améliorations effectuées personnellement par Hasol jusqu’à +15 ; réussite des tentatives non garantie, ressources nécessaires.</p>
@@ -39024,7 +39024,7 @@ Hasol récupéra le rouleau de plans.
 
 — Certainement pas.
 
-La semaine suivante, elle trouva Samia et Zio dans la cour du Griffon d’Argent. La Ranger venait manifestement de terminer une phrase ; le Gardien avait l’air beaucoup moins assuré que devant leurs cartes de mission.
+La semaine suivante, elle trouva Samia et Zio dans la cour du Griffon d’Argent. L’Éclaireuse venait manifestement de terminer une phrase ; le Gardien avait l’air beaucoup moins assuré que devant leurs cartes de mission.
 
 Hasol s'arrêta, incertaine.
 
@@ -39394,7 +39394,7 @@ Samia la regarda, puis un sourire lui échappa.
 
 — Mais… Oui. Pas pour les faire rire. Pour leur montrer une erreur qu’ils pourront reconnaître avant de la refaire.
 
-Elles préparèrent la séance ensemble. Hasol écouta Samia reprendre ses explications, lui posa des questions, demanda où elle pouvait se placer pour que les autres voient ses mains. Le jour venu, elle demeura en retrait et regarda la Ranger occuper sa place devant les chasseurs réunis.
+Elles préparèrent la séance ensemble. Hasol écouta Samia reprendre ses explications, lui posa des questions, demanda où elle pouvait se placer pour que les autres voient ses mains. Le jour venu, elle demeura en retrait et regarda l’Éclaireuse occuper sa place devant les chasseurs réunis.
 
 Samia ne parlait pas comme Orven. Elle avait sa façon de montrer un objet, de laisser quelqu’un répondre, puis de retourner le support pour révéler ce qu’il n’avait pas vu. Hasol sentit une fierté tranquille en l’entendant rire avec ceux qui venaient d’échouer à leur premier exercice.
 
@@ -39593,7 +39593,7 @@ Elle se concentra. Cette fois, elle appela volontairement la compétence. Le Man
 
 Le mécanisme émit un déclic.
 
-Hasol ne tira pas aussitôt sur le couvercle. Elle regarda Samia. La Ranger vérifia le résultat avec elle, puis lui fit signe.
+Hasol ne tira pas aussitôt sur le couvercle. Elle regarda Samia. L’Éclaireuse vérifia le résultat avec elle, puis lui fit signe.
 
 Le coffre s’ouvrit.
 
@@ -40035,13 +40035,13 @@ Et lut.
   <p>Croissance runique</p>
   <p>Compétence passive améliorée</p>
   <p>Nouvel effet débloqué</p>
-  <p>Toutes les 5 000 éliminations personnelles de monstres provenant de portails démoniaques accordent :</p>
+  <p>Toutes les 5&nbsp;000 éliminations personnelles de monstres provenant de portails démoniaques accordent :</p>
   <p>+1 cercle de mana</p>
   <p>+1 emplacement runique</p>
   <p>Aucune restriction de niveau.</p>
   <p>Effets précédents conservés.</p>
   <p>Monstres de portails vaincus</p>
-  <p>0 / 5 000</p>
+  <p>0 / 5&nbsp;000</p>
   </details>
 </div>
 
@@ -41744,19 +41744,19 @@ Hasol acquiesça.
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R016 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R017 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R018 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16 % ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R019 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R020 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R021 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R022 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R023 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R024 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R025 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R026 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6 %</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R016"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R017"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R018"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R019"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R020"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R021"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R022"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R023"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R024"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R025"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R026"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
     </tbody>
   </table>
   </details>
@@ -41902,9 +41902,9 @@ Amélioration +15.
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>GARDIEN EN RÉSERVE</div>
-  <h3>HAS-R027 — Gardien rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
-  <p><strong>Principale :</strong> <span class="rune-bonus">PV +63 %</span></p>
-  <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6 %</span></p>
+  <h3 data-rune-id="HAS-R027">Gardien rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +63&nbsp;%</span></p>
+  <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</span></p>
   <p>Préparée en réserve, pas encore équipée.</p>
   </details>
 </div>
@@ -44169,10 +44169,10 @@ Deux Gardien.
   <table>
     <thead><tr><th scope="col">Ensemble</th><th scope="col">Runes</th><th scope="col">Bonus</th></tr></thead>
     <tbody>
-      <tr><th scope="row">Fatal</th><td>4 / 4</td><td><span class="rune-bonus">Attaque +35 %</span></td></tr>
-      <tr><th scope="row">Arcanique</th><td>4 / 4</td><td><span class="rune-bonus">Puissance arcanique +1 200</span></td></tr>
-      <tr><th scope="row">Vitesse</th><td>4 / 4</td><td><span class="rune-bonus">Vitesse +30 %</span></td></tr>
-      <tr><th scope="row">Gardien</th><td>2 / 2</td><td><span class="rune-bonus">Défense +15 %</span></td></tr>
+      <tr><th scope="row">Fatal</th><td>4 / 4</td><td><span class="rune-bonus">Attaque +35&nbsp;%</span></td></tr>
+      <tr><th scope="row">Arcanique</th><td>4 / 4</td><td><span class="rune-bonus">Puissance arcanique +1&nbsp;200</span></td></tr>
+      <tr><th scope="row">Vitesse</th><td>4 / 4</td><td><span class="rune-bonus">Vitesse +30&nbsp;%</span></td></tr>
+      <tr><th scope="row">Gardien</th><td>2 / 2</td><td><span class="rune-bonus">Défense +15&nbsp;%</span></td></tr>
     </tbody>
   </table>
   <p>Cercles équipés</p>
@@ -44182,20 +44182,20 @@ Deux Gardien.
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R016 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R017 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R018 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16 % ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R019 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R020 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R021 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R022 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R023 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R024 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R025 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R026 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R027 · Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6 %</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R016"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R017"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R018"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R019"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R020"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R021"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R022"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R023"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R024"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R025"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R026"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R027"><th scope="row">Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
     </tbody>
   </table>
   </details>
@@ -45621,10 +45621,11 @@ Elle ouvrit la description.
     Siphon runique
   </div>
   <p>Élément Vent · Attaque de zone · Vol de Mana</p>
-  <p>Déploie une tempête de Vent imprégnée d&#x27;inscriptions runiques. Les ennemis atteints subissent des dégâts magiques déterminés par la Puissance arcanique effective du lanceur.</p>
-  <p>Le sort absorbe une partie du Mana disponible chez les cibles touchées et le transfère au lanceur, dans la limite de sa réserve maximale et de la capacité d&#x27;absorption de la compétence.</p>
-  <p>Temps de recharge</p>
-  <p>Oui</p>
+  <p>Dégâts : <strong>120&nbsp;% de la Puissance arcanique</strong>.</p>
+  <p>Mana récupéré : <strong>75&nbsp;% des dégâts infligés</strong>, dans la limite de <strong>1&nbsp;200 Mana</strong>.</p>
+  <p>Rayon : <strong>8 mètres</strong>.</p>
+  <p>Coût : <strong>100 Mana</strong>.</p>
+  <p>Temps de recharge : <strong>20 secondes</strong>.</p>
   </details>
 </div>
 
@@ -45668,15 +45669,7 @@ Deux s'effondrèrent.
 
 D'autres reculèrent, blessés.
 
-Hasol sentit aussitôt quelque chose revenir vers elle.
-
-Un courant invisible.
-
-Une énergie qui ne provenait pas de ses propres réserves.
-
-Le Mana des démons.
-
-Il afflua dans ses cercles.
+Hasol sentit aussitôt du Mana affluer dans ses cercles, restitué en proportion des dégâts qu'elle venait d'infliger.
 
 Elle ouvrit de grands yeux.
 
@@ -45700,7 +45693,7 @@ Hasol regarda sa réserve.
 
 Il avait raison.
 
-Une partie de ce qu'elle venait de dépenser lui avait été restituée.
+La compétence lui avait rendu du Mana, sans dépasser son plafond propre.
 
 Elle sourit malgré elle.
 
@@ -46121,7 +46114,7 @@ Un tintement cristallin résonna.
     SYSTÈME — COMPÉTENCE DÉBLOQUÉE
   </div>
   <h3>Présage des failles</h3>
-  <p>Samia Claire · Ranger · Rareté commune</p>
+  <p>Samia Claire · Éclaireuse · Rareté commune</p>
   <p>Compétence passive</p>
   <p>Permet de ressentir l&#x27;apparition prochaine de portails démoniaques et d&#x27;en localiser approximativement la zone avant leur manifestation.</p>
   <p>Fenêtre de prévision : environ dix heures avant l&#x27;apparition physique.</p>
@@ -46507,7 +46500,7 @@ Un matin, pendant une opération particulièrement longue, une notification appa
   </div>
   <h3>Palier des portails atteint</h3>
   <p>Démons vaincus personnellement</p>
-  <p>5 000</p>
+  <p>5&nbsp;000</p>
   <p>+1 cercle de Mana</p>
   <p>+1 emplacement runique</p>
   <h3>14 → 15 cercles</h3>
@@ -46602,8 +46595,8 @@ Hasol avait préparé une rune Énergie rare (bleue), six étoiles et amélioré
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>PREMIÈRE ÉNERGIE FINALE</div>
-  <h3>HAS-R028 — Énergie rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
-  <p><strong>Principale :</strong> <span class="rune-bonus">PV +63 %</span></p>
+  <h3 data-rune-id="HAS-R028">Énergie rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">PV +63&nbsp;%</span></p>
   <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</span></p>
   </details>
 </div>
@@ -46772,7 +46765,7 @@ Hasol posa sa tasse.
 
 Pour la première fois depuis le début du repas, la Sage sembla retrouver une partie de son enthousiasme habituel.
 
-— Tempête arcanique.
+— Tempête runique.
 
 Elle expliqua qu'elle pouvait désormais poser un cercle runique rouge capable d'infliger des dégâts sur la durée aux ennemis pris dans sa zone.
 
@@ -47375,7 +47368,7 @@ Rouge.
 
 Parcouru d'inscriptions lumineuses.
 
-— Tempête arcanique !
+— Tempête runique !
 
 Les démons qui restèrent dans cette zone commencèrent à subir des dégâts continus.
 
@@ -47471,7 +47464,7 @@ Les chasseurs de la formation principale alternaient attaques et phases de prote
 
 Des soigneurs intervenaient dès qu'un combattant risquait de ne plus pouvoir tenir sa position.
 
-Yoon utilisait son Chant runique pour soutenir les alliés, tout en choisissant soigneusement les moments où sa Tempête arcanique pouvait frapper plusieurs ennemis.
+Yoon utilisait son Chant runique pour soutenir les alliés, tout en choisissant soigneusement les moments où sa Tempête runique pouvait frapper plusieurs ennemis.
 
 Ray contribuait à ralentir les mouvements adverses.
 
@@ -47890,7 +47883,7 @@ Il semblait épuisé.
 
 Mais la ligne tenait.
 
-Yoon posa une nouvelle Tempête arcanique.
+Yoon posa une nouvelle Tempête runique.
 
 Ray lança une attaque de feu au moment où le boss exposait son flanc.
 
@@ -48076,11 +48069,11 @@ Hasol continua de progresser, bien que sa classe légendaire exigeât toujours u
 
 Zio approchait désormais du niveau soixante.
 
-Yoon maîtrisait de mieux en mieux ses zones runiques, notamment sa Tempête arcanique.
+Yoon maîtrisait de mieux en mieux ses zones runiques, notamment sa Tempête runique.
 
 Ray était devenu un Mage de feu dont les capacités étonnaient même des chasseurs de rareté supérieure.
 
-Et Samia, avec ses sept cercles, son équipement soigneusement amélioré et son nouveau passif, était désormais considérée comme l'une des Rangers les plus précieuses dans la lutte contre les portails.
+Et Samia, avec ses sept cercles, son équipement soigneusement amélioré et son nouveau passif, était désormais considérée comme l'une des Éclaireuses les plus précieuses dans la lutte contre les portails.
 
 Mais elle souriait rarement.
 
@@ -48235,7 +48228,7 @@ Une fenêtre du système apparut.
   </div>
   <h3>Deuxième palier des portails atteint</h3>
   <p>Éliminations personnelles de démons</p>
-  <p>10 000</p>
+  <p>10&nbsp;000</p>
   <p>+1 cercle de Mana</p>
   <p>+1 emplacement runique</p>
   <h3>15 → 16 cercles</h3>
@@ -48312,9 +48305,9 @@ Comme la première, elle était rare (bleue), six étoiles, et améliorée à +1
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>SECONDE ÉNERGIE FINALE</div>
-  <h3>HAS-R029 — Énergie rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
-  <p><strong>Principale :</strong> <span class="rune-bonus">Défense +63 %</span></p>
-  <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6 %</span></p>
+  <h3 data-rune-id="HAS-R029">Énergie rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
+  <p><strong>Principale :</strong> <span class="rune-bonus">Défense +63&nbsp;%</span></p>
+  <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</span></p>
   </details>
 </div>
 
@@ -48343,22 +48336,22 @@ L'ensemble fut immédiatement activé.
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr><th scope="row">HAS-R001 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R016 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R017 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R018 · Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16 % ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R019 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R020 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R021 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R022 · Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R023 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R024 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R025 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1 200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16 % ; PV +150 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R026 · Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R002 · Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R027 · Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6 %</td></tr>
-      <tr><th scope="row">HAS-R028 · Énergie rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63 %</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr><th scope="row">HAS-R029 · Énergie rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63 %</td><td class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6 %</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R016"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R017"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R018"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R019"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R020"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R021"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R022"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R023"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R024"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R025"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R026"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R027"><th scope="row">Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R028"><th scope="row">Énergie rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R029"><th scope="row">Énergie rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
     </tbody>
   </table>
   </details>
@@ -52110,7 +52103,7 @@ Lorsqu'une formation reculait, elle déplaçait ses zones de soin afin d'atteind
 
 Son Domaine des Entraves Runiques ralentissait les groupes les plus dangereux.
 
-Et lorsque les démons s'accumulaient suffisamment loin des défenseurs, elle posait une Tempête arcanique.
+Et lorsque les démons s'accumulaient suffisamment loin des défenseurs, elle posait une Tempête runique.
 
 Les cercles rouges, traversés d'inscriptions lumineuses, infligeaient progressivement des dégâts aux créatures prises dans leur zone.
 
@@ -53164,7 +53157,7 @@ Une dernière fois.
   <p>Gardien · Niveau 50</p>
   <p>Libère une explosion dont la puissance dépend des points de vie sacrifiés par le lanceur.</p>
   <p>PV conservés</p>
-  <h3>0 %</h3>
+  <h3>0&nbsp;%</h3>
   <p>Sacrifice total — Puissance maximale</p>
   </details>
 </div>

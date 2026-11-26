@@ -15,7 +15,6 @@
 <text x="132.32" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="84.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Arcaniste</text>
 <text x="216.56" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="220.88" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique,</text>
-<text x="291.08" y="106.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <rect x="20.00" y="117.30" width="103.80" height="27" rx="13.5" fill="#fbf3dd" stroke="#D1AB61"/>
 <text x="26.00" y="136.30" font-size="18" font-weight="700" fill="#795b22" textLength="91.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">légendaire</text>
 <text x="123.80" y="136.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
@@ -33,7 +32,6 @@
 <text x="138.80" y="174.00" font-size="18" font-weight="400" fill="#242424" textLength="45.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Sage</text>
 <text x="184.16" y="174.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="188.48" y="174.00" font-size="18" font-weight="400" fill="#242424" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique,</text>
-<text x="258.68" y="174.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <rect x="20.00" y="184.70" width="46.56" height="27" rx="13.5" fill="#edf4fc" stroke="#b6cce5"/>
 <text x="26.00" y="203.70" font-size="18" font-weight="700" fill="#175b9b" textLength="34.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rare</text>
 <text x="66.56" y="203.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
@@ -53,7 +51,6 @@
 <text x="187.40" y="241.40" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
 <text x="210.08" y="241.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="214.40" y="241.40" font-size="18" font-weight="400" fill="#242424" textLength="33.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">feu,</text>
-<text x="247.88" y="241.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <rect x="20.00" y="252.10" width="88.68" height="27" rx="13.5" fill="#f2f3f4" stroke="#c4c8cc"/>
 <text x="26.00" y="271.10" font-size="18" font-weight="700" fill="#42474c" textLength="76.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">commun</text>
 <text x="108.68" y="271.10" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
@@ -76,7 +73,6 @@
 <text x="249.08" y="308.80" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
 <text x="258.80" y="308.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="263.12" y="308.80" font-size="18" font-weight="400" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">10</text>
-<text x="284.72" y="308.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="338.50" font-size="18" font-weight="400" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">points</text>
 <text x="20.00" y="376.20" font-size="18" font-weight="700" fill="#242424" textLength="54.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Samia</text>
 <text x="74.00" y="376.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
@@ -84,8 +80,7 @@
 <text x="129.08" y="376.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="133.40" y="376.20" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
 <text x="137.72" y="376.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="142.04" y="376.20" font-size="18" font-weight="400" fill="#242424" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Ranger,</text>
-<text x="209.00" y="376.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="142.04" y="376.20" font-size="18" font-weight="400" fill="#242424" textLength="92.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Éclaireuse,</text>
 <rect x="20.00" y="386.90" width="99.48" height="27" rx="13.5" fill="#f2f3f4" stroke="#c4c8cc"/>
 <text x="26.00" y="405.90" font-size="18" font-weight="700" fill="#42474c" textLength="87.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">commune</text>
 <text x="119.48" y="405.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>

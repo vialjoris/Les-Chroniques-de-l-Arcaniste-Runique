@@ -20,6 +20,7 @@ TRANSCRIPT_CLASS = "lit-window__transcript"
 TOGGLE_CLASS = "lit-window__transcript-toggle"
 TOGGLE_TEXT = "Version textuelle de la fenêtre"
 VOID = {"br", "hr", "img", "source", "wbr", "meta", "link", "input"}
+RUNE_ID_RE = re.compile(r"[A-Z0-9]+(?:-[A-Z0-9]+)*-R[0-9]+")
 
 
 @dataclass
@@ -151,6 +152,29 @@ def texte(noeud):
     return "".join(texte(e) for e in noeud.enfants)
 
 
+def verifier_identifiants_runiques(arbre):
+    """Garde les identifiants de suivi dans les métadonnées, jamais dans le texte."""
+    identifiants = set()
+
+    def parcourir(noeud):
+        if isinstance(noeud, str):
+            return
+        identifiant = noeud.attrs.get("data-rune-id")
+        if identifiant:
+            if not RUNE_ID_RE.fullmatch(identifiant):
+                raise ValueError(f"Identifiant de rune non sûr : {identifiant}")
+            identifiants.add(identifiant)
+        for enfant in noeud.enfants:
+            parcourir(enfant)
+
+    parcourir(arbre)
+    contenu_visible = texte(arbre)
+    visibles = sorted(identifiant for identifiant in identifiants
+                      if identifiant in contenu_visible)
+    if visibles:
+        raise ValueError("Identifiants de runes visibles : " + ", ".join(visibles))
+
+
 def normaliser(valeur):
     return " ".join(valeur.split())
 
@@ -223,12 +247,41 @@ class Dessin:
         curseur = x
         hauteur = taille * 1.65
         debut = self.y
+        unites = []
         for valeur, couleur, gras, badge in morceaux:
-            unites = [valeur] if badge else re.findall(r"\s+|\S+", valeur)
-            for unite in unites:
+            for unite in ([valeur] if badge else re.findall(r"\s+|\S+", valeur)):
                 unite = re.sub(r"\s+", " ", unite)
-                if not unite:
-                    continue
+                if unite:
+                    unites.append((unite, couleur, gras, badge))
+
+        # Les groupes n'altèrent pas le texte : ils déplacent seulement le point
+        # de retour à la ligne avant un couple libellé/valeur ou valeur/unité.
+        groupes = []
+        courant = []
+        for index, unite in enumerate(unites):
+            courant.append(unite)
+            if unite[0].isspace():
+                continue
+            suivant = next((u for u in unites[index + 1:] if not u[0].isspace()), None)
+            valeur = unite[0]
+            prochaine = suivant[0] if suivant else ""
+            valeur_numerique = re.fullmatch(r"[+−-]?[0-9]+(?:[.,][0-9]+)?", valeur)
+            valeur_signee = re.fullmatch(r"[+−-][0-9]+(?:[.,][0-9]+)?[.,;:]?", prochaine)
+            unite_courte = re.fullmatch(r"[%★]|[A-Za-zÀ-ÿ]{1,5}", prochaine)
+            if valeur_signee or (valeur_numerique and unite_courte):
+                continue
+            groupes.append(courant)
+            courant = []
+        if courant:
+            groupes.append(courant)
+
+        for groupe in groupes:
+            largeur_groupe = sum(self.mesure(u[0], taille) + (12 if u[3] else 0)
+                                  for u in groupe)
+            if curseur + largeur_groupe > x + largeur + 0.01 and curseur > x:
+                self.y += hauteur
+                curseur = x
+            for unite, couleur, gras, badge in groupe:
                 # Un badge trop long devient plusieurs badges lisibles, sans perte.
                 if self.mesure(unite, taille) + (12 if badge else 0) > largeur:
                     bouts = []
@@ -249,7 +302,8 @@ class Dessin:
                 for bout in bouts:
                     w = self.mesure(bout, taille)
                     total = w + (12 if badge else 0)
-                    if curseur + total > x + largeur + 0.01 and curseur > x:
+                    if (largeur_groupe > largeur
+                            and curseur + total > x + largeur + 0.01 and curseur > x):
                         self.y += hauteur
                         curseur = x
                     if bout.isspace() and curseur == x:
@@ -288,7 +342,7 @@ class Dessin:
             if noeud.strip():
                 self.flux(fragments(noeud))
             return
-        if "lit-window__header" in noeud.classes:
+        if any(classe in noeud.classes for classe in ("lit-window__header", "system-header")):
             for enfant in noeud.enfants:
                 if isinstance(enfant, Noeud) and enfant.tag == "svg":
                     self.icone(enfant)
@@ -337,7 +391,11 @@ class Dessin:
                 + "\n".join(self.elements) + "\n</svg>\n")
 
 
-def produire(source):
+def produire(source, asset_prefix="assets/fenetres"):
+    if (not re.fullmatch(r"[A-Za-z0-9._/-]+", asset_prefix)
+            or asset_prefix.startswith(("/", "../")) or "/../" in asset_prefix):
+        raise ValueError("Préfixe d'assets local non sûr")
+    asset_prefix = asset_prefix.rstrip("/")
     original = extraire_source_fenetres(source)
     fenetres = Reperes(original).fenetres
     if not fenetres:
@@ -347,8 +405,11 @@ def produire(source):
     for f in reversed(fenetres):
         corps = original[f.ouverture:f.fermeture]
         arbre = Arbre(corps).racine
+        verifier_identifiants_runiques(arbre)
         titre = next((normaliser(texte(e)) for e in arbre.enfants
-                      if isinstance(e, Noeud) and "lit-window__header" in e.classes), "Système")
+                      if (isinstance(e, Noeud)
+                          and any(classe in e.classes
+                                  for classe in ("lit-window__header", "system-header")))), "Système")
         for suffixe, largeur in (("", 680), ("-mobile", 320)):
             nom = f"{f.identifiant}{suffixe}.svg"
             if nom in images:
@@ -356,8 +417,8 @@ def produire(source):
             images[nom] = Dessin(largeur).svg(arbre)
         enveloppe = (
             f'\n  <picture class="{PICTURE_CLASS}">\n'
-            f'    <source media="(max-width: 600px)" srcset="assets/fenetres/{f.identifiant}-mobile.svg">\n'
-            f'    <img src="assets/fenetres/{f.identifiant}.svg" alt="{escape("Fenêtre du système — " + titre, quote=True)}">\n'
+            f'    <source media="(max-width: 600px)" srcset="{asset_prefix}/{f.identifiant}-mobile.svg">\n'
+            f'    <img src="{asset_prefix}/{f.identifiant}.svg" alt="{escape("Fenêtre du système — " + titre, quote=True)}">\n'
             f'  </picture>\n  <details class="{TRANSCRIPT_CLASS}">\n'
             f'    <summary class="{TOGGLE_CLASS}">{TOGGLE_TEXT}</summary>'
             + corps + '  </details>\n')
@@ -389,12 +450,19 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--check", action="store_true",
                         help="vérifie les enveloppes et SVG sans écrire ; code 1 si périmés, 2 si erreur")
+    parser.add_argument("--input", type=Path,
+                        default=ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md",
+                        help="manuscrit source (défaut : livre I)")
+    parser.add_argument("--output-dir", type=Path, default=ROOT / "assets/fenetres",
+                        help="répertoire des SVG (défaut : assets/fenetres)")
+    parser.add_argument("--asset-prefix", default="assets/fenetres",
+                        help="chemin local inscrit dans picture (défaut : assets/fenetres)")
     args = parser.parse_args(argv)
     try:
-        manuscrit = ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md"
+        manuscrit = args.input
         source = manuscrit.read_text(encoding="utf-8")
-        resultat, images = produire(source)
-        dossier = ROOT / "assets/fenetres"
+        resultat, images = produire(source, args.asset_prefix)
+        dossier = args.output_dir
         presents = {p.name for p in dossier.glob("*.svg")}
         obsoletes = presents - images.keys()
         if obsoletes:

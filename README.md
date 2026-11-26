@@ -9,7 +9,7 @@ Projet de roman de fantasy LitRPG en **trilogie**. Les livres I et II comportent
 ## Documents de référence
 
 - [`livre_1_l_ascension_d_une_legende_oubliee.md`](livre_1_l_ascension_d_une_legende_oubliee.md) : manuscrit unique du livre I, *L’Ascension d’une légende oubliée* ; chaque chapitre conserve son statut de validation propre.
-- [`livre_2_le_vertige_des_vies_oubliees.md`](livre_2_le_vertige_des_vies_oubliees.md) : manuscrit unique du livre II, *Le Vertige des vies oubliées* ; chapitres 1 et 2 validés et intégrés. Les ajouts de Croissance aux sections III/VII du chapitre 1 restent à relire ; l’auteur fera ses relectures après l’ajout du chapitre 2. Voir les notes d’intégration du [chapitre 1](docs/integration_livre_2_chapitre_1.md) et du [chapitre 2](docs/integration_livre_2_chapitre_2.md). Aucun chapitre 3 ni publication autorisé (DEC-170/171).
+- [`livre_2_le_vertige_des_vies_oubliees.md`](livre_2_le_vertige_des_vies_oubliees.md) : manuscrit unique du livre II, *Le Vertige des vies oubliées* ; chapitres 1 à 3 validés et intégrés. Les ajouts de Croissance aux sections III/VII du chapitre 1 restent à relire. Voir les notes d’intégration des chapitres [1](docs/integration_livre_2_chapitre_1.md), [2](docs/integration_livre_2_chapitre_2.md) et [3](docs/integration_livre_2_chapitre_3.md). Aucun chapitre 4 ni publication autorisé (DEC-184).
 - [`PLAN_DIRECTEUR.md`](PLAN_DIRECTEUR.md) : plan narratif, jalons validés et questions ouvertes.
 - [`PLAN_LIVRE_II.md`](PLAN_LIVRE_II.md) : plan validé en seize chapitres pour les vies 2–12, avec une courte conclusion en vie 13 ; paramètres de mise en scène encore à préparer.
 - [`docs/integration_livre_2.md`](docs/integration_livre_2.md) : audit de la nouvelle transmission mobile, décisions retenues et limites.

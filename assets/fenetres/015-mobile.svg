@@ -3,7 +3,6 @@
 <rect x="1" y="1" width="314" height="390" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></g>
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="158.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CROISSANCE</text>
-<text x="214.76" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="110.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RUNIQUE</text>
 <path d="M20 109.19999999999999h280" stroke="#D8BF8F"/>
 <text x="20.00" y="153.20" font-size="20" font-weight="700" fill="#242424" textLength="117.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ÉVOLUTION</text>
@@ -58,7 +57,6 @@
 <text x="182.00" y="328.30" font-size="18" font-weight="400" fill="#22643b" textLength="48.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">mana</text>
 <text x="230.60" y="328.30" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="234.92" y="328.30" font-size="18" font-weight="400" fill="#22643b" textLength="39.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">sont</text>
-<text x="274.88" y="328.30" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="20.00" y="358.00" font-size="18" font-weight="400" fill="#22643b" textLength="90.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">désormais</text>
 <text x="110.72" y="358.00" font-size="18" font-weight="400" fill="#22643b" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="115.04" y="358.00" font-size="18" font-weight="400" fill="#22643b" textLength="55.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">actifs.</text>

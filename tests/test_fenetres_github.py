@@ -200,10 +200,29 @@ class GenerateurFenetreCliTests(unittest.TestCase):
         before = self.snapshot()
         process = self.cli("--help")
         self.assert_success(process)
-        for option in ("--check", "--help"):
+        for option in ("--check", "--input", "--output-dir", "--asset-prefix", "--help"):
             self.assertIn(option, process.stdout)
         self.assertEqual(self.cli("--option-inconnue").returncode, 2)
         self.assertEqual(self.snapshot(), before)
+
+    def test_ciblage_explicite_d_un_second_manuscrit_et_de_ses_assets(self):
+        second = self.directory / "livre_2.md"
+        second_assets = self.directory / "assets/fenetres-livre-2"
+        second_source = self.original.replace("essai-001", "L2-C1-F01")
+        second.write_text(second_source, encoding="utf-8")
+        arguments = ("--input", str(second), "--output-dir", str(second_assets),
+                     "--asset-prefix", "assets/fenetres-livre-2")
+        self.assertEqual(self.cli(*arguments, "--check").returncode, 1)
+        self.assert_success(self.cli(*arguments))
+        self.assertEqual({path.name for path in second_assets.glob("*.svg")},
+                         {"L2-C1-F01.svg", "L2-C1-F01-mobile.svg"})
+        generated = second.read_text(encoding="utf-8")
+        self.assertIn('src="assets/fenetres-livre-2/L2-C1-F01.svg"', generated)
+        self.assertIn('srcset="assets/fenetres-livre-2/L2-C1-F01-mobile.svg"', generated)
+        snapshot = self.snapshot()
+        self.assert_success(self.cli(*arguments, "--check"))
+        self.assertEqual(self.snapshot(), snapshot)
+        self.assertEqual(self.manuscript.read_text(encoding="utf-8"), self.original)
 
     def test_generation_deterministe_idempotente_et_check_strictement_sans_ecriture(self):
         before = self.snapshot()

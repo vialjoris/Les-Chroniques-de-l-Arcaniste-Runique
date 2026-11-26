@@ -3,7 +3,7 @@
 ## Corrections runiques DEC-178/179/180 — état actuel
 
 Les deux manuscrits stabilisés sont contrôlés séparément : **153 fenêtres et
-306 SVG au I**, **15 fenêtres et 30 SVG au II**. Les mentions 138/276 ou 110
+306 SVG au I**, **26 fenêtres et 52 SVG au II**. Les mentions 138/276 ou 110
 ci-dessous décrivent des étapes historiques, pas les effectifs actuels.
 
 `test_runes_livre_i.py` ajoute les contrats de rareté fixe et de fiches complètes.
@@ -52,19 +52,20 @@ d'identification partielle** : ni étoiles inventées ni fiche ordinaire exigée
 Les mutations couvrent valeur, ordre, suppression, doublon, déplacement, insertion
 de préfixe et narration hors journal. Des mutations d'étoiles, de rareté et
 d'affixes échouent aussi au contrôle métier sans utiliser le journal d'inversion.
-Le II conserve sa fixture distincte de six blocs et ses 27 tests ; aucune fixture
-historique n'est modifiée. Les anciens libellés de coloration restent des traces
-de provenance, pas des règles actives.
+Le II est désormais contrôlé par contrats ciblés sur ses trois chapitres (9/12/18
+sections), sa provenance bornée par ancres, ses progressions, ses 32 runes de vie 2
+et ses 52 SVG. Les fixtures historiques ne sont pas renouvelées. Les anciens
+libellés de coloration restent des traces de provenance, pas des règles actives.
 
 Limites : les comparaisons automatisées ne constituent pas une revue littéraire,
 une validation visuelle GitHub/mobile ni un audit RGAA complet. Une future
 correction éditoriale autorisée nécessite une nouvelle preuve bornée ; ne pas
 renouveler les anciennes empreintes pour contourner un échec.
 
-Validation locale après les deux étapes du I : **95 tests réussis**, dont les
-**27 tests du II** préservés. Le contrôle métier du I parcourt **124 lignes
+Validation locale actuelle : **90 tests réussis**. Le contrôle métier du I parcourt **124 lignes
 d'inventaire** et **78 états canoniques**, en plus des fiches individuelles.
-`generer_fenetres.py --check` confirme **153 fenêtres / 306 SVG à jour** et
+`generer_fenetres.py --check` confirme **153 fenêtres / 306 SVG à jour** ; son
+ciblage explicite confirme **26 fenêtres / 52 SVG à jour** pour le II, et
 `generer_lecture.py --check` confirme le lecteur à jour. Ces contrôles n'écrivent
 ni manuscrit, ni lore, ni dérivé ; aucun commit ou push n'est effectué.
 

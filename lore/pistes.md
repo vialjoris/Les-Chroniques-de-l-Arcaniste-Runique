@@ -199,7 +199,7 @@ Ces pistes complètent le plan validé ; elles ne déplacent pas ses événement
 
 - **PROPOSITION :** développer son envie d’être choisie comme personne, et pas seulement comme soutien rentable en points.
 - **À DÉFINIR :** ambition personnelle, choix de missions ou d’études, limites qu’elle pose à Hasol et à Zio. Elle doit continuer à agir et progresser hors des scènes d’Hasol.
-- **PISTE RETENUE ET PRÉCISÉE — DEC-048 :** le cercle rouge de dégâts sur la durée est désormais **Tempête arcanique, au niveau 50**. Ce nom, cette forme et ce niveau ne sont plus des questions ouvertes. Puissance, nature des dégâts, coût, durée, cadence, récupération et règles de cumul restent à définir dans les références actives.
+- **PISTE RETENUE ET PRÉCISÉE — DEC-048/186 :** le cercle rouge de dégâts sur la durée est désormais **Tempête runique, au niveau 50**. Ce nom, cette forme et ce niveau ne sont plus des questions ouvertes. Puissance, nature des dégâts, coût, durée, cadence, récupération et règles de cumul restent à définir dans les références actives.
 - **ANCIENNE PROPOSITION DE L'ASSISTANT, REMPLACÉE :** un déblocage au niveau 30 avait été suggéré. L'auteur a choisi le niveau 50 ; ne pas réintroduire 30 ou le présenter comme validé. Contrôle de terrain, persistance éventuelle hors zone, cibles affectées et cumul avec le ralentissement restent des points d'équilibrage, pas des effets supplémentaires acquis.
 
 ### Ray

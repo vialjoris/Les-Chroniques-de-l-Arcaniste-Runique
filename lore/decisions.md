@@ -529,16 +529,17 @@
 - **Source :** l'auteur fixe « vert pour le soin, violet pour le ralentissement », puis propose qu'« on peut imaginer un cercle de degat overtime rouge ».
 - **Décision visuelle :** les cercles de soin sont verts et ceux de ralentissement violets, en conservant les écritures runiques au sol de DEC-046. Cette identité narrative ne modifie pas le CSS ou les conventions de couleur des bonus dans les fiches.
 - **Piste conservée :** cercle rouge de dégâts sur la durée. Son adoption comme sort, son nom, sa puissance et ses conditions sont à définir. Le niveau 30 est une suggestion ultérieure de l'assistant, pas un choix de l'auteur ni une règle déduite du Domaine niveau 20.
-- **Précision ultérieure — DEC-048 :** l'auteur retient ce sort sous le nom Tempête arcanique au niveau 50. Nom, forme et niveau sont désormais canoniques ; le niveau 30 suggéré est abandonné. Paramètres numériques et cumul restent ouverts.
+- **Précision historique — DEC-048, nom remplacé par DEC-186 :** l'auteur retient alors ce sort sous le nom « Tempête arcanique » au niveau 50. DEC-186 remplace ensuite ce seul nom par **Tempête runique** ; forme et niveau restent canoniques, et le niveau 30 suggéré demeure abandonné. Paramètres numériques et cumul restent ouverts.
 - **Préservé :** Yoon soutien polyvalente et non soigneuse pure, Résonance active ciblée, soin en zone posée, prochain contrôle au niveau 20 et niveau 54 au chapitre 16. Aucun sort offensif supplémentaire n'est ajouté automatiquement à son répertoire.
 - **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `lore/systeme.md`, `lore/pistes.md`, `lore/decisions.md`. Aucun texte du manuscrit modifié.
 
-## DEC-048 — Tempête arcanique de Yoon au niveau 50
+## DEC-048 — Tempête arcanique de Yoon au niveau 50 (nom historique remplacé par DEC-186)
 
 - **Statut : CANON pour le sort, sa forme et son déblocage ; paramètres À DÉFINIR.**
+- **Actualisation de nom — DEC-186 :** le nom historique « Tempête arcanique » consigné dans cette décision est remplacé par **Tempête runique**. Le niveau 50, la forme, les effets et les paramètres ouverts ne changent pas.
 - **Source :** l'auteur précise « sort niv 50 tempete arcanique --> cercle rouge degat overtime ».
-- **Décision :** Yoon obtient au **niveau 50 Tempête arcanique**, sort actif en cercle rouge de dégâts sur la durée, avec les écritures runiques au sol de sa classe. Cette décision adopte et précise la piste de DEC-047, en remplaçant le niveau 30 suggéré par l'assistant.
-- **Progression :** Domaine de contrôle au niveau 20 conservé ; Tempête arcanique 50 précède le niveau final 54 au chapitre 16. Chapitre exact, première utilisation et autres sorts éventuels restent à définir ; aucun pouvoir intermédiaire nouveau n'est ajouté automatiquement.
+- **Décision actualisée :** Yoon obtient au **niveau 50 Tempête runique**, sort actif en cercle rouge de dégâts sur la durée, avec les écritures runiques au sol de sa classe. Cette décision adopte et précise la piste de DEC-047, en remplaçant le niveau 30 suggéré par l'assistant.
+- **Progression :** Domaine de contrôle au niveau 20 conservé ; Tempête runique 50 précède le niveau final 54 au chapitre 16. Chapitre exact, première utilisation et autres sorts éventuels restent à définir ; aucun pouvoir intermédiaire nouveau n'est ajouté automatiquement.
 - **À DÉFINIR :** puissance, assiette, coût, durée, rayon, cadence, récupération, cibles, persistance éventuelle après sortie et cumul. Le nom ne donne pas des effets supplémentaires de vent, foudre, projection ou dégâts instantanés. L'absence d'effet sur les alliés n'est pas encore fixée pour ce cercle par analogie avec le Domaine.
 - **Préservé :** Yoon soutien polyvalente, soins progressifs inférieurs à une spécialiste, Résonance active ciblée et cercles posés. Aucun chiffre de soin ou de dégâts n'est adopté par cette décision.
 - **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `lore/systeme.md`, `lore/chronologie.md`, `lore/pistes.md`, `lore/decisions.md`, `AGENTS.md`. Aucun texte du manuscrit modifié.
@@ -549,7 +550,7 @@
 - **Source :** l'auteur précise qu'au niveau 30, Yoon obtient un second soin sur la durée, cette fois sous forme d'une marque runique posée sur un allié.
 - **Décision :** second soin, ciblé et progressif, obtenu au niveau 30. La marque est portée par l'allié plutôt qu'une zone posée au sol ; Chant runique en cercle reste distinct. Aucun nom officiel n'est choisi par cette description.
 - **À DÉFINIR :** puissance et assiette, cadence, durée, coût, récupération, portée, nombre de marques, éventuelle mobilité ou interruption et cumul avec la zone ou plusieurs marques. Ne pas supposer un soin instantané, permanent, multi-cible ou automatiquement plus puissant que le soin de zone.
-- **Préservé :** soutien et non soigneuse pure, Domaine des Entraves au niveau 20, Tempête arcanique au niveau 50, niveau final 54 au chapitre 16. Aucune capacité supplémentaire ni caractéristique nouvelle n'est déduite.
+- **Préservé :** soutien et non soigneuse pure, Domaine des Entraves au niveau 20, Tempête runique au niveau 50, niveau final 54 au chapitre 16. Aucune capacité supplémentaire ni caractéristique nouvelle n'est déduite.
 - **Chronologie :** chapitre exact et première utilisation à fixer. Le soin n'est pas utilisable lors du sauvetage de Ray où Yoon est niveau 24, ni dans les premières chasses niveau 5.
 - **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `lore/systeme.md`, `lore/chronologie.md`, `lore/decisions.md`, `AGENTS.md`. Aucun texte du manuscrit modifié.
 
@@ -560,7 +561,7 @@
 - **Décision :** à son niveau 40, Résonance runique conserve le ciblage actif temporaire et amplifie aussi les deux premières secondaires présentes sur chacune des runes équipées de l'allié choisi, en plus des principales. Pas de conversion en passif ni d'aura de proximité.
 - **Limites :** troisième et quatrième secondaires et bonus d'ensemble exclus. Aucun affixe n'est créé sur une rune qui n'en possède pas ; si une seule secondaire est présente, seule celle-ci est concernée par l'extension. L'effet initial avant le niveau 40 reste limité aux principales, notamment lors du sauvetage où Yoon est niveau 24.
 - **À DÉFINIR :** ordre exact déterminant les deux premières secondaires, coefficients, interactions et arrondis, durée, coût, portée, récupération, chapitre et première utilisation. Ne pas déduire une amplification fixe, un effet sur les statistiques naturelles ou le niveau des runes.
-- **Préservé :** Domaine niveau 20, marque de soin niveau 30, Tempête arcanique niveau 50 et fin au niveau 54 ; aucun nouveau sort intermédiaire ajouté. Le niveau 40 de Yoon n'est pas celui d'Hasol ni une date commune imposée.
+- **Préservé :** Domaine niveau 20, marque de soin niveau 30, Tempête runique niveau 50 et fin au niveau 54 ; aucun nouveau sort intermédiaire ajouté. Le niveau 40 de Yoon n'est pas celui d'Hasol ni une date commune imposée.
 - **Fichiers concernés :** `PLAN_DIRECTEUR.md`, `lore/personnages.md`, `lore/systeme.md`, `lore/chronologie.md`, `lore/decisions.md`, `lore/pistes.md`, `AGENTS.md`. Aucun texte du manuscrit modifié.
 
 ## DEC-051 — Statistiques naturelles de Yoon au niveau 60
@@ -802,7 +803,7 @@
 - **Départ :** Résonance runique, Chant runique et Vague runique disponibles dès le niveau 1. Yoon reste un soutien polyvalent, pas une mage offensive spécialisée ni une soigneuse pure.
 - **Résonance :** actif ciblé temporaire, principales seulement avant 40 ; au niveau 40, ajoute les **deux premières secondaires de chaque rune** selon DEC-050. Troisième/quatrième secondaires et ensembles exclus ; aucune annulation de cette évolution par la note globale mobile résumant le fonctionnement initial.
 - **Chant — réponse directe ultérieure de l'auteur, 21 novembre 2026 :** zone verte **posée et autonome**, soin **10 % des PV maximums de Yoon toutes les cinq secondes**. Yoon peut agir ensuite. Cette décision explicite lève l'attente de DEC-046 sur l'assiette, la quantité et la cadence ; elle ne découle pas de la seule note de ChatGPT. **Durée, coût et portée restent À DÉFINIR**, sans adopter cinq mètres/trente secondes ni appliquer ce taux aux autres soins.
-- **Préservé :** Domaine 20, marque de soin 30, évolution de Résonance 40, Tempête arcanique 50, niveau final 54. Aucun élément des autres sorts de Yoon n'est déduit de Vague.
+- **Préservé :** Domaine 20, marque de soin 30, évolution de Résonance runique 40, Tempête runique 50, niveau final 54. Aucun élément des autres sorts de Yoon n'est déduit de Vague.
 - **Fichiers concernés :** `lore/systeme.md`, `lore/personnages.md`, `PLAN_DIRECTEUR.md`, `roman.md` dans le périmètre ciblé autorisé par DEC-072 ; présent registre.
 
 ## DEC-075 — Aura runique : coût, durée et Infiltration au lancement critique
@@ -1785,6 +1786,56 @@
 - **Source unique :** `lore/runes.md` conserve les IDs stables, fiches complètes, valeurs et états successifs ; `lore/personnages.md` référence les IDs, porteurs et changements d’équipement sans dupliquer les affixes. Une amélioration garde l’identité ; un remplacement ou un exemplaire d’une autre vie ne réutilise pas cette identité matériellement par défaut.
 - **Contrôles :** avant/après chaque intervention, vérifier la correspondance des fiches, nombre de secondaires, paliers, ensembles, occupation, propriétaire et stade chronologique. Régénérer/contrôler les dérivés après correction du HTML. Une modification de ces données n’est pas livrée comme achevée tant que les deux références ne sont pas synchronisées.
 - **Limites :** distinguer raconté, futur planifié et choix délégué. Pas d’acquisition, prix, destin ou statistique naturelle inventés pour compléter le suivi ; les états après ellipse ne sont pas figés arbitrairement. La délégation DEC-179 complète les présentations autorisées, pas tous les inventaires non exposés. Aucune publication ni nouveau chapitre autorisé.
+
+## DEC-181 — Identités et progression de Samia ; Croissance astrale
+
+- **Statut : CANON — décisions directes de l’auteur, 26 novembre 2026.** Livre I : Samia **Éclaireuse**, rang Commun. Livre II : **Marcheuse du voile**, rang Commun, cinq points. Livre III : **Exécutrice astrale**, rang Astral, inchangée.
+- **Révélation du II :** quatre aptitudes présentes avec maîtrise progressive : Écho des Mondes, Vision du Voile, Flèche du Néant et Pas du Voile. Effets et limites complets dans `systeme.md`. L’ancienne Ranger astral, Cartographie à dix heures et Coup astral sont remplacés.
+- **Progression :** Lecture des traces au 10 ; Flèche d’entrave au 20 ; Traversée du voile au 30 ; Marque du Néant au 40 ; Réseau des échos au 50 ; Veille des seuils au 60. Une disponibilité au niveau ne vaut pas maîtrise instantanée ; paramètres non fournis ouverts.
+- **Croissance :** dans les vies astrales seulement, les boss de donjon et de portail alimentent le même compteur des cent. Le I reste limité aux boss de donjon. Le compteur des 5 000 démons de portail n’impose aucune condition de niveau.
+- **Application ciblée :** affichages et passages explicites du I/II, plans et références raccordés. Samia a les yeux bleus ; cheveux argentés longs puis raccourcis au chapitre 3. Les trois copies visuelles du trio restent intactes et les textes d’images ne constituent pas une source de canon.
+
+## DEC-182 — Siphon, Œil, Bénédiction, XP et alpha
+
+- **Siphon runique CANON :** 120 % PA, récupération de Mana égale à 75 % des dégâts, rayon 8 m, coût 100 Mana, recharge 20 s, récupération maximale 1 200 Mana. Aucune autre formule, interprétation multicible ou règle d’arrondi déduite.
+- **Œil :** une tentative vers +15 peut échouer. Si la rune atteint +15 sous le travail d’Hasol, les valeurs exactes prédites sont celles du résultat final ; la prédiction ne garantit jamais le passage.
+- **Bénédiction :** effets réels inchangés : 45 % / 25 % de réductions relatives au niveau 20, 60 % / 50 % au 30. Hasol ignore les taux exacts ; les fenêtres racontées indiquent uniquement « Passif amélioré » et ses estimations viennent des registres et de l’expérience.
+- **XP :** à niveau égal, une classe plus rare exige qualitativement davantage d’XP. Aucune table, formule ou ratio adopté.
+- **Loup alpha :** Hasol le tue en exactement deux frappes. Niveau, PV et dégâts ne sont pas fixés et ne doivent pas être inventés.
+
+## DEC-183 — Équipement de 32 runes en vie 2, chapitre 3
+
+- **Statut : CANON raconté et choix délégués.** L’auteur valide 32 runes équipées à +15 et répond « Oui, choisis selon les règles » pour les données manquantes. Composition : 8 Vol de vie / 8 Arcanique / 8 Vitesse / 2 Énergie / 2 Gardien / 4 Fatal ; neuf activations.
+- **Continuité matérielle :** identités propres à la vie 2. Les cadeaux paternels `L2-HAS-R001/002` sont conservés et améliorés à +15. Les anciennes Vol de vie 4★ `R009` à `016` sont remplacées progressivement par des exemplaires 5★/6★ distincts ; aucun transport matériel du I. Fiches complètes et choix individuels dans `runes.md`, porteur/transitions dans `personnages.md`.
+- **Portée du jalon :** 32 cercles/32 runes à vingt-cinq ans en vie 2, au chapitre 3. Ce fait ne rétablit pas l’ancien jalon retiré de fin du livre II, ne se reporte pas entre vies et ne fixe pas le bilan du tome.
+- **Réserve sacrificielle :** lot initial de 500 runes sans potentiel commercial, renouvelé et consommé par Aura. Pas de 500 fiches individuelles, car le récit ne les identifie ni ne les présente.
+
+## DEC-184 — Validation et intégration locale du chapitre 3 du II
+
+- **Statut : texte mobile VALIDÉ, intégration locale AUTORISÉE.** Dernière version seulement : `docs/new.txt:120757–122581`, « Celle qui n’était pas dans les bois », dix-huit sections. Les notes à partir de `122583`, variantes antérieures et commentaires de conversation sont exclus.
+- **Raconté :** vie 2 jusqu’aux vingt-cinq ans d’Hasol ; niveau 40, Siphon, 32 cercles et équipement complet ; réserve de 500 runes ; trio écarlate ; indices sur le passé d’Iseria ; mort de Ray niveau 25 face au loup alpha ; clôture 12 DONG + 2 DING.
+- **Raccord chapitre 2 autorisé :** recommandation par Ray des gobelins rouges niveau 11, correction de Bénédiction, classe/pouvoirs de Samia et compteur commun des boss en vie astrale. Aucune réécriture générale.
+- **Présentation :** cinq nouvelles fenêtres au chapitre 3 et deux notifications au chapitre 2, soit 22 fenêtres éditoriales dans le II. 14 nouveaux SVG sont attendus ; 10 SVG existants sont aussi à régénérer après les cinq fenêtres corrigées. Aucun chapitre 4, illustration narrative, test modifié, commit, push ou publication.
+- **Provenance et limites :** `docs/new.txt` reste intact dans son état utilisateur. Les visuels modifiés/non suivis et les trois copies du trio sont préservés. Les IDs techniques visibles des fenêtres du I relèvent d’un lot séparé.
+
+## DEC-185 — Progression complète de Yoon et présentations des chapitres 2–3 du II
+
+- **Statut : CANON — décision directe de l’auteur, 26 novembre 2026.** Yoon est Sage runique de rang Légendaire en vie 2, soit vingt points. Au niveau 1 : Résonance runique, actif ciblé limité aux principales ; Chant runique, zone verte autonome soignant 10 % des PV maximaux de Yoon toutes les cinq secondes ; Vague runique selon son contrat existant.
+- **Actualisation des noms — DEC-186 :** les noms de paliers consignés initialement dans DEC-185 sont remplacés ainsi : l'évolution du niveau 40 conserve le nom **Résonance runique**, le niveau 50 devient **Tempête runique** et le niveau 60 devient **Convergence runique**. Effets, niveaux, scènes et paramètres restent inchangés.
+- **Révélation légendaire :** Vague légendaire complète Vague runique par un soin égal à 5 % des PV maximaux de Yoon, dirigé vers le membre du groupe au plus faible pourcentage de PV actuels, Yoon comprise.
+- **Paliers actualisés :** niveau 10, **Sceau de lucidité**, marque alliée réduisant la durée du prochain ralentissement, étourdissement ou contrôle subi, sans immunité ; niveau 20, **Domaine des Entraves runiques**, cercle violet ralentissant les ennemis ; niveau 30, **Marque runique**, nom officiel du soin sur la durée ciblé, distinct de Chant ; niveau 40, évolution de **Résonance runique** sous le même nom, actif ciblé incluant les deux premières secondaires présentes de chaque rune, jamais les troisième/quatrième ni les bonus d’ensemble ; niveau 50, **Tempête runique**, cercle rouge posé de dégâts sur la durée ; niveau 60, **Convergence runique**, maintien simultané de deux zones sans dissipation automatique de la plus récente, sans annuler coûts/durées ni rendre les effets permanents.
+- **Récit autorisé :** fiche des pouvoirs initiaux et Vague légendaire à la présentation post-Révélation ; scènes courtes aux niveaux 10, 20 et 30 dans le chapitre 2 ; acquisition et démonstration de l'évolution de Résonance runique lorsque Yoon atteint le niveau 40 au chapitre 3. Les paliers 50/60 restent documentaires : aucune scène anticipée. Les résultats des combats validés ne changent pas.
+- **Paramètres ouverts :** coût, durée, réduction, portée et recharge du Sceau ; paramètres non fixés du Domaine et de Marque runique ; amplification et ordre exact de Résonance runique après son évolution ; paramètres de Tempête runique ; modalités et cumul de Convergence runique. Aucun chiffre, immunité, soin instantané/permanent, élément de foudre/vent ou suppression de coût n’est déduit.
+- **Présentation :** `L2-C2-F08` est enrichie sans dupliquer Vague ; nouvelles fenêtres `L2-C2-F12` à `F14` et `L2-C3-F06`. Le livre II compte 26 IDs uniques. Quatre nouvelles fenêtres attendent leurs huit SVG et `F08` attend régénération ; aucun générateur lancé, aucune illustration, aucun chapitre 4, commit, push ou publication.
+
+## DEC-186 — Noms canoniques des évolutions de Yoon
+
+- **Statut : CANON — décision directe de l’auteur, 26 novembre 2026.** Cette décision actualise uniquement les noms employés par DEC-048 et DEC-185.
+- **Résonance runique :** au niveau 40, l'actif évolue mais conserve le nom **Résonance runique**. Il ne devient pas une nouvelle compétence et aucun nom distinct n'est canonique pour cette évolution.
+- **Renommages :** le sort du niveau 50 porte désormais le nom **Tempête runique** ; le pouvoir du niveau 60 porte désormais le nom **Convergence runique**.
+- **Portée :** effets, niveaux d'obtention, scènes, résultats des combats et paramètres ouverts restent strictement inchangés. La fenêtre `L2-C3-F06` affiche **Résonance runique**.
+- **Audit historique :** « Résonance approfondie », « Tempête arcanique » et « Convergence des cercles » sont les anciens noms remplacés. Ils ne restent valides que comme terminologie historique explicitement qualifiée dans les décisions ou les archives immuables.
+- **Fichiers concernés :** manuscrits des livres I et II, fenêtre `L2-C3-F06`, `AGENTS.md`, plans, `source.md`, références de `lore/` et rapport d'intégration du chapitre 3. `docs/new.txt` et `lore/transmission_mobile_chapitres_10_16.md` restent des archives intactes ; aucun SVG généré.
 
 ## Questions de système toujours ouvertes
 
