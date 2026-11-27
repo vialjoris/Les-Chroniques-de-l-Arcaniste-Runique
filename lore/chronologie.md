@@ -1,5 +1,26 @@
 # Chronologie
 
+## Révélations futures du III et passé d’auteur — DEC-199
+
+Sources, citations et statuts : [`../docs/secrets_clans_runes_2026_11_27.md`](../docs/secrets_clans_runes_2026_11_27.md), relecture ciblée 4700–5664. **Pas nouveaux événements racontés ni découpage du III validé.**
+
+- **Passé secret — CANON d’auteur :** Notos anciens ducs protecteurs des impériaux ; rune offerte pour protéger l’empereur, activée par un ancêtre astral sans le sauver ; accusation de trahison, perte des titres, service de l’aîné perpétué. Époque, identités et donateur/fabrication non fixés (4776/5216).
+- **Enfance d’Iseria — CANON d’auteur :** activation de Vision dans la salle des trésors, avant sa Révélation ; prémonitions servant à falsifier celle-ci. Officielle **Clerc terrestre, rang Rare**, réelle **Prophète, rang Astral** selon DEC-200 ; transmission des prémonitions à Hasol par le sang, date non fixée (4881/5104/5145). La révélation de classe au lecteur est réservée au III, sans révélation à Hasol. Zio connaît Ténébria depuis l’enfance, ignore ses maltraitances ; devoir Notos justifiant son groupe (5421/5442).
+- **Première vie — secrets d’auteur :** Ténébria active Destruction lors de l’ouverture des portails sans comprendre le dialecte, erreur de traduction, pas intention de catastrophe (5046/5075). Bébé véritable déclencheur initial temporel ; pouvoir astral et sang Notos requis, Notos = Temps, fonction protéger la lignée du porteur, mort de Zio motivant le déclenchement (4737/4776). À révéler au III, ni explication ajoutée au I ni savoir rendu automatiquement par Mémoire parfaite.
+- **III — CANON de trajectoire :** Ray apprend la traduction auprès d’Iseria, découvre l’ouvrage des quatre runes, la parenté et l’histoire Shun ; rapprochement avec Ténébria par bibliothèques/recherches et couple futur validés (5251/5301/5319/5606/5626). Calendrier, scènes et partage du savoir ouverts.
+- **III — CANON de trajectoire :** Samia obtiendra la rune ancestrale fermant douze portails, rouges compris ; guildes coordonnées pour le reste, maximum simultané 120 inchangé (4936), sans confondre les quatre ancestrales et les douze uniques de DEC-170. Déplacement interportails de 4999 : PROPOSITION.
+- **Shun — statuts séparés :** ancienneté diffusant le nom, Armin de la lignée la plus pure de son ancêtre astral, Yoon ayant un peu de sang Shun et ancêtre commun (5525/5544/5579) : CANON ciblé, sans généalogie précise. Création des runes proposée en 5480 et développée, pas validation universelle des créateurs des quatre runes ; rencontre des parents par prémonition non validée.
+
+**À DÉFINIR :** définition de la lignée au regard de Yoon, articulation bébé/retours émotionnels, origine du pouvoir astral du bébé, histoire détaillée des Shun. **DEC-197/198 inchangés :** Vision expliquée seulement en conclusion du II, logo Notos piste pour Hasol sans explication complète ; la réserve de non-déduction ne nie pas les secrets d’auteur ci-dessus. Chapitre 4 validé non intégré ; aucun nouvel âge, niveau ou inventaire.
+
+## Futur de conclusion du II — priorité DEC-197
+
+**Précision d’ordre — CANON futur, DEC-198 :** ultime usage → suppression de la Rune temporelle → retour final → **réveil à seize ans et apparition de la notification de destruction, incomprise d’Hasol malgré Mémoire parfaite** → phrases de clôture. Le moment d’affichage ne fixe pas davantage le timing mécanique de la suppression. La rune portait le logo du clan Notos ; Hasol voudra en apprendre davantage sur elle, sans origine, auteur, hérédité, lien causal ou complicité de Zio déduit, ni dessin ou quête détaillée inventé. Mémoire parfaite n’apporte aucune explication jamais connue. L’existence, le nom et le mécanisme de Vision ne sont révélés au lecteur que dans la conclusion du II ; avant, les visions restent mystérieuses et le décompte DEC-196 demeure interne documentaire, sans savoir préalable précis d’Iseria ou d’Hasol déduit.
+
+**CANON planifié, pas événement raconté.** Arbitrage direct de l’auteur après DEC-196 : **20 000 livres par Ténébria à la bibliothèque** → notification de transformation de la **Rune de Vision en Mémoire parfaite** → flashs d’Hasol de sa première vie, de Zio, de leur union et de sa grossesse → elle touche et caresse son ventre, une larme coule sur sa joue → instabilité → dernier usage de la Rune temporelle, puis suppression de celle-ci → retour à **seize ans**, vie 13 selon le cadre existant → phrases d’Hasol et de Ténébria, fin du II. Jour de Révélation, 12 DONG + 12 DING et promesses déjà validées conservés ; voir `../PLAN_LIVRE_II.md`.
+
+L’exception finale à seize ans est explicite ; les autres sauvegardes et la nouvelle répartition globale restent à arbitrer. Le compteur partagé Hasol/Ténébria et l’ancien déclencheur Mémoire runique sont remplacés pour la conclusion. Aucun calendrier ni règle sur livres distincts/relectures déduit ; le repère antérieur « vers 46 ans » ne date pas automatiquement cette chaîne. Grossesse remémorée du I, pas actuelle ni destin d’enfant fixé. Aucune qualification de neuvième usage ni consommation intermédiaire des **six usages restants après les trois du chapitre 4 (DEC-196)**. Chapitre 4 validé mais non intégré (DEC-195) ; aucune acquisition ou statistique ajoutée.
+
 ## Futurs et décisions locales prioritaires du 27 novembre — DEC-187 à DEC-193
 
 Source : [note de session](../docs/decisions_session_2026_11_27.md), discussion
@@ -35,22 +56,30 @@ tableaux antérieurs, conservés comme base historique/incomplète à réviser a
   venus le voir à son sujet ; interlocuteur retenu pour préparation, dialogue et
   modalités non validés.
 - **Orientation auteur — DEC-191 :** éviter les retours à seize ans au II ;
-  âge/état de remplacement, vies concernées et portée au retour final vers la
-  vie 13 ouverts. L’exception finale à seize ans suggérée par l’assistant n’a pas
-  été choisie. Ne pas supprimer automatiquement la fin du II ou le début du III existants.
+  âge/état de remplacement et vies concernées ouverts. **DEC-197 confirme
+  explicitement l’exception du retour final à seize ans vers la vie 13**, sans
+  arbitrer les autres sauvegardes.
 - **Direction envisagée, pas nouvelle grille validée :** vie 4 avec mariage
   interrompu et condamnation. Articulation avec Orven et les drames antérieurs,
   placements historiques vie 9/10, titres et répartition à revoir. Vérifier Ray
   rare en vie 4, Aimant/Révélation et états sauvegardés sans chiffres inventés.
-- **Accord de principe — DEC-192 :** fiche éditoriale d’Iseria pour le lecteur
-  du II seulement, non vue par Hasol ; fond violet face à sa déclaration Rare,
-  emplacement envisagé autour des cadeaux écarlates. Nom, contenu et placement
-  ouverts ; aucune fiche, scène ou retouche du I créée.
+- **Classe d’Iseria au III seulement — CANON futur, DEC-200/201, remplace DEC-192 :** Hasol
+  questionne sa mère sur sa classe ; Iseria déclare **Clerc terrestre, rang Rare**.
+  Immédiatement après cette réponse, Hasol se rappelle la déclaration maternelle
+  **Clerc de la forêt quand Hasol avait huit ans**, sans rang ancien fixé. Elle
+  constate la divergence sans la comprendre ; aucune explication de classes,
+  synonymie, évolution, amnésie ou faux souvenir, confrontation ou réaction
+  d’Iseria déduite. Aucune ancienne scène ajoutée au I.
+  Une fenêtre violette destinée au lecteur montre **Prophète, rang Astral**, sans
+  révélation à Hasol. L’indice de classe au II autour des cadeaux écarlates est
+  historique et remplacé. Répliques, chapitre, emplacement et paramètres ouverts ;
+  aucune scène ou fenêtre créée. Le secret de Vision jusqu’à la conclusion du II
+  (DEC-198) demeure distinct et inchangé.
 
 Ces décisions ne changent ni l’âge de Révélation comme règle du monde, ni le
 nombre de vies/DING, ni un niveau, XP, cercle ou inventaire. Les lignes à seize
 ans des anciennes grilles sont les valeurs historiques en attente d’arbitrage,
-pas des remplacements confirmés ni une exception finale réaffirmée.
+pas des remplacements confirmés ; seule l’exception finale est confirmée par DEC-197.
 
 **Raccord documentaire prioritaire — DEC-178/179/180 :** les runes présentées ont leurs fiches complètes et états successifs dans `runes.md`, avec porteurs et transitions dans `personnages.md`. Première Énergie maternelle travaillée : HAS-R009 rare bleue ; seconde HAS-R010 peu commune verte, toutes deux 3★ +9 données à Yoon. Les seize finales du I sont rares bleues 6★ +15, cadeaux paternels conservés et autres pièces 6★ distinctes des anciennes 2★/3★ ; dates d’acquisition non racontées non inventées. Toute nouvelle modification doit synchroniser ces références par chapitre. Les états après ellipse restent ouverts lorsqu’ils ne sont pas présentés ; le chapitre 3 du II constitue désormais un instantané complet à vingt-cinq ans, sans fixer les vies suivantes ni la fin du tome.
 
@@ -67,7 +96,7 @@ pas des remplacements confirmés ni une exception finale réaffirmée.
 - **Vie 2, inscription puis huitième cercle (DEC-162/163) :** accord financier/confidentialité obtenu par Iseria à l’inscription ; huit Vol de vie rares (bleues), 4★, +6 remis au huitième cercle après les slimes, dans le bureau du directeur avec Elric et Iseria. Hasol ignore accord et origine des pierres. Cadeaux paternels stockés avec accord d’Armin, rééquipés selon les cercles. Trajectoire ultérieure : deux Vol de vie, deux Arcanique, deux Vitesse, Énergie/Gardien puis reste Fatal ; dates/affixes ouverts.
 - **Vie 2, formation racontée (DEC-159/161/168/170/171/181/185/186) :** Lame runique acquise ; Bénédiction évolue au 20 et 30, avec taux réels 45/25 puis 60/50 mais inconnus d’Hasol. Samia devient Marcheuse du voile commune ; quatre aptitudes initiales selon `systeme.md`. Yoon devient Sage runique légendaire : Résonance/Chant/Vague et Vague légendaire à la Révélation, Sceau de lucidité au 10, Domaine des Entraves runiques au 20, Marque runique au 30, puis évolution de Résonance runique sous le même nom au 40 dans le chapitre 3. Trio Hasol/Yoon/Elric puis Samia à la retraite d’Elric. Siphon d’Hasol au 40 raconté au chapitre 3.
 - **Vie 11/R10, chapitre 15, Hasol 45 ans (DEC-164) :** Zio meurt ; **Yoon survit et tient son corps sans vie**. Hasol vient la soutenir à l’enterrement et le retour survient **aux funérailles**, pas à l’annonce ni juste après le raid : 12 DONG + 11 DING. Remplace le double décès historique, sans changer le I ni la grille des sauvegardes.
-- **III, jalons sans découpage nouveau (DEC-160/165–170) :** Samia devient Exécutrice astrale de **rang Astral**, Danse astrale dissipant les bonus dont l’invulnérabilité, cartographie progressivement mondiale ; Yoon astrale aux cheveux blancs en lien avec la perte de Zio. Hasol comprend seule le financement d’Iseria, Astrae Rare, puis pièce secrète/Savoir et livre de clôture interprété par Iseria. **Douze Runes astrales uniques de clôture, même effet, douze usages chacune**, prérequis d’obtention différents à définir lors du plan III ; unicité conservée, maximum mondial 120 portails. Réapparition après mort du boss au plus tôt à 72 h, localisation aléatoire, pas moratoire mondial ; première apparition inchangée. Hasol et Ténébria auront des enfants chasseurs légendaires sans drame dans leur vie, raccord avec Hasol grand-mère ; dates/identités/autres parents ouverts, grossesse du I non résolue par déduction. Synergie de vol de vie 100 % des dégâts, sans invincibilité ; détails dans `systeme.md`. Mécanismes astraux et savoirs du III non révélés au chapitre 2.
+- **III, jalons sans découpage nouveau (DEC-160/165–170, classe actualisée DEC-200) :** Samia devient Exécutrice astrale de **rang Astral**, Danse astrale dissipant les bonus dont l’invulnérabilité, cartographie progressivement mondiale ; Yoon astrale aux cheveux blancs en lien avec la perte de Zio. Hasol comprend seule le financement d’Iseria, officiellement Clerc terrestre Rare et réellement Prophète Astral, puis pièce secrète/Savoir et livre de clôture interprété par Iseria. La classe réelle montrée au lecteur au III n’est pas révélée à Hasol par cette fenêtre ; aucun ordre entre ces jalons déduit. **Douze Runes astrales uniques de clôture, même effet, douze usages chacune**, prérequis d’obtention différents à définir lors du plan III ; unicité conservée, maximum mondial 120 portails. Réapparition après mort du boss au plus tôt à 72 h, localisation aléatoire, pas moratoire mondial ; première apparition inchangée. Hasol et Ténébria auront des enfants chasseurs légendaires sans drame dans leur vie, raccord avec Hasol grand-mère ; dates/identités/autres parents ouverts, grossesse du I non résolue par déduction. Synergie de vol de vie 100 % des dégâts, sans invincibilité ; détails dans `systeme.md`. Mécanismes astraux et savoirs du III non révélés au chapitre 2.
 
 ## Livre II — chapitre 2 raconté et validé, DEC-170/171
 
@@ -115,7 +144,7 @@ Les âges du tableau sont canoniques lorsqu’ils sont chiffrés. Les niveaux et
 | 9 / R8 | 12 | 24 ans / niveau 27 / 20 cercles | Village de Samia sauvé avec Ténébria ; démon vaincu ; Iseria exécutée |
 | 10 / R9 | 13–14 | 27 ans / niveau 31 / 23 cercles | Carmela à 28 ans ; carnets et lettres à 29 ans ; sœurs reconnues à 30 ans ; cinq années heureuses ; séparation imposée à 35 ans |
 | 11 / R10 | 15 | 32 ans / niveau 39 / 28 cercles | Zio mort à 45 ans d’Hasol ; Yoon survit ; retour à l’enterrement (DEC-164) |
-| 12 / R11 | 16 | 38 ans / niveau 45 / 34 cercles | Catastrophe mondiale ; 20 000 lectures cumulées vers 46 ans ; Mémoire runique ; dernier retour et destruction de la rune |
+| 12 / R11 | 16 | 38 ans / niveau 45 / 34 cercles | 20 000 livres par Ténébria à la bibliothèque ; Vision devient Mémoire parfaite ; flashs du I, caresse du ventre et larme ; instabilité, dernier usage temporel puis suppression ; calendrier non fixé par DEC-197 |
 | 13 | Conclusion du 16 | 16 ans, jour de la Révélation | Mémoire de Ténébria restaurée ; promesses parallèles ; développement réservé au III |
 
 **Choix de mise en scène soumis avec le plan :** ne montrer qu’une fois en détail le cadeau amoureux (vie 3/ch. 5). Les autres vies différencient les liens d’Hasol et Ray sans répéter automatiquement une déclaration. Dans la vie 3, Hasol hésite sincèrement ; elle ne calcule pas encore l’exploitation consciente envisagée au III. La réponse qu’elle aurait donnée reste inconnue.
@@ -157,7 +186,7 @@ Les âges du tableau sont canoniques lorsqu’ils sont chiffrés. Les niveaux et
 | II | Vie 10 / R9 | Ch. 13–14 | 27–35 ans | **CANON planifié :** Carmela protège Iseria ; carnets et lettres ; reconnaissance à 30 ans ; cinq années heureuses |
 | II | Vie 10 / R9 | Ch. 14, fin | 35 ans | **CANON planifié :** Ténébria retourne au palais sous la menace contre Iseria ; 12 DONG + 10 DING |
 | II | Vie 11 / R10 | Ch. 15 | 45 ans | **CANON planifié — DEC-164 :** Zio meurt, Yoon survit et tient son corps ; Hasol la soutient aux funérailles, où survient le retour, 12 DONG + 11 DING |
-| II | Vie 12 / R11 | Ch. 16 | Environ 46 ans | **CANON planifié :** 20 000 lectures cumulées entre les sœurs ; lecture décisive de Ténébria ; Mémoire runique ; dernier retour, 12 DONG + 12 DING ; rune détruite |
+| II | Vie 12 / R11 | Ch. 16 | **À DÉFINIR** pour la chaîne DEC-197 | **CANON planifié — DEC-197 :** 20 000 livres par Ténébria à la bibliothèque ; Vision devient Mémoire parfaite ; flashs de première vie, Zio, union, grossesse ; caresse du ventre, larme ; instabilité ; dernier usage temporel, 12 DONG + 12 DING, puis suppression ; retour final à seize ans |
 | II | Vie **À DÉFINIR** parmi 2–12 | Scène obligatoire, chapitre **À DÉFINIR** | **À DÉFINIR** | **CANON — DEC-142 :** Ray amoureux offre de nouveau l’Anneau runique ; Hasol accepte mais demande encore à réfléchir à leur relation |
 | II | Même vie que le cadeau | Après le don, placement **À DÉFINIR** | **À DÉFINIR** | **CANON système :** Aimant se débloque après un combat en portant l’anneau, pas à sa seule réception ; délai non fixé |
 | II | Même vie que le cadeau | Après le don, avant la réponse | **À DÉFINIR** | **CANON — DEC-142 :** un drame survient avant la réponse sentimentale d’Hasol ; nature et lien avec un retour temporel ouverts. Ne pas inventer un drame supplémentaire |
@@ -166,7 +195,7 @@ Les âges du tableau sont canoniques lorsqu’ils sont chiffrés. Les niveaux et
 | III | Vie 13 / dernière vie | Catastrophe mondiale | 45 ans | **CANON planifié :** catastrophe distincte du portail orange des 34 ans du I ; modalités de résolution ouvertes |
 | III | Vie 13 / dernière vie | Prologue heureux, situé après les événements principaux | **À DÉFINIR** | **CANON de cadre :** Hasol grand-mère, Zio vivant, famille heureuse ; aucun âge de grand-mère déduit |
 
-**À arbitrer en priorité :** vie et âge lors du cadeau amoureux, temps avant le drame et identité de ce drame parmi les jalons existants ; âges des drames des vies 2–5 et 7–10 ; âge de Mémoire runique en vie 12. Aucun âge de la première vie n’est automatiquement transféré aux autres.
+**À arbitrer en priorité :** vie et âge lors du cadeau amoureux, temps avant le drame et identité de ce drame parmi les jalons existants ; âges des drames des vies 2–5 et 7–10 ; calendrier de la transformation de Vision en Mémoire parfaite en vie 12 (DEC-197). Aucun âge de la première vie n’est automatiquement transféré aux autres.
 
 ## *Le Vertige des vies oubliées* — trajectoire future du livre II, priorité DEC-118 à DEC-139
 
@@ -191,7 +220,7 @@ Les âges du tableau sont canoniques lorsqu’ils sont chiffrés. Les niveaux et
 | Vie 9 / R8 | Chapitre 12 : Hasol cherche Ténébria plus tôt ; ensemble elles sauvent le village de Samia et vainquent le démon. L’enquête Astrea révèle qu’Hasol est la seconde fille astrale cachée d’Iseria ; l’empereur, frère d’Iseria, la fait exécuter pour rupture supposée du pacte. Sa mort déclenche 12 DONG + 9 DING |
 | Vie 10 / R9 | Retour à 27 ans ; Carmela à 28 ans, carnets/lettres à 29 ans, reconnaissance à 30 ans ; cinq années heureuses, puis retour forcé de Ténébria au palais à 35 ans et retour temporel |
 | Mort de Zio | CANON — DEC-164 : vie 11/chapitre 15, Hasol 45 ans ; Yoon survit et tient le corps de Zio. Retour à l’enterrement, Hasol venue soutenir Yoon ; 11 DING, modalités du raid ouvertes |
-| Vie 12 / R11 | 20 000 lectures cumulées entre les sœurs ; Mémoire runique, toutes les vies et sacrifice de Zio retrouvés ; 12 DONG + 12 DING, rune détruite |
+| Vie 12 / R11 | DEC-197 : 20 000 livres par Ténébria à la bibliothèque ; Vision devient Mémoire parfaite ; flashs du I, Zio, union, grossesse ; caresse du ventre, larme ; instabilité, dernier usage temporel, 12 DONG + 12 DING, puis suppression |
 | Fin II / Livre III | Vie 13 à seize ans, jour de la Révélation ; promesses en conclusion du II, développement et rouges réservés au III ; catastrophe mondiale à 45 ans distincte de l’orange du I |
 
 **Garde-fous :** appliquer les points de sauvegarde variables DEC-145 ; vie 13 le jour de la Révélation. En vie 2, aucun drame du I n’est mémorisé ; à partir de la vie 3, fragments cumulatifs, incomplets et désordonnés des drames terminaux depuis la vie 2. Première vie inaccessible jusqu’à R11. Bleus synchronisés avec la première vie ; apparition, prévision ~10 h et ouverture après 48 h distinctes. **Griffon Ardent/Griffon d’Argent : CONTRADICTION**. Les 50 points de donjon restent distincts des points de portails ; Yoon légendaire et Ray rare imposent des formations distinctes.
@@ -522,7 +551,7 @@ Les déblocages futurs, le sauvetage de Ray et les événements des livres I et 
 | R8 | 9 | Répartition à définir | 12 DONG + 9 DING |
 | R9 | 10 | Répartition à définir | 12 DONG + 10 DING |
 | R10 | 11 | Répartition à définir | 12 DONG + 11 DING |
-| R11 | 12 | HISTORIQUE remplacé : ancien seuil de plus de 100 000 livres ; appliquer 20 000 lectures cumulées, DEC-147 | 12 DONG + 12 DING ; rune détruite |
+| R11 | 12 | HISTORIQUE remplacé : ancien seuil de plus de 100 000 livres, puis compteur partagé DEC-147 ; appliquer DEC-197, 20 000 livres par Ténébria à la bibliothèque et transformation de Vision en Mémoire parfaite | 12 DONG + 12 DING ; Rune temporelle supprimée après dernier usage |
 
 **Historique de préparation entre R5 et R11 :** défaites puis préparation croissante et victoire sur le démon. L’ancien état plaçait à 45 ans l’annonce de la mort de Yoon et Zio en raid. **Remplacé par DEC-164 :** vie 11/chapitre 15, Zio seul meurt, Yoon survit ; retour à l’enterrement où Hasol la soutient. Hasol n’a pas noué la même relation avec Zio ; ni romance absente comme cause du décès ni raid précis inventé.
 
@@ -530,7 +559,7 @@ Les déblocages futurs, le sauvetage de Ray et les événements des livres I et 
 
 **Niveau 1 astral :** Bénédiction, Croissance, Œil/pièges, Main active/coffres/portes sans restriction, Aura active ; arme à aura personnelle **pas avant 10**. Aimant est obtenu en vie 3 puis conservé dès la Révélation à partir de la vie 4 ; il est perdu au début du III, mais Hasol sait comment le retrouver. Les états de niveau, cercles et compteurs reviennent au point sauvegardé selon DEC-145. Les anciennes compositions à 50/50 sont à recalculer selon chaque vie.
 
-**Fin du II en R11 :** 20 000 lectures cumulées entre Hasol et Ténébria, ensemble ou séparément ; mémoire parfaite de toutes les vies, larmes et souvenir entier de Zio, ultime activation, douze DONG et douze DING, puis Rune temporelle détruite. Le II montre ensuite la vie 13 le jour de la Révélation et les deux promesses ; développement au III.
+**Fin du II en R11 — DEC-197 prioritaire :** 20 000 livres par Ténébria à la bibliothèque ; notification de transformation de Vision en Mémoire parfaite ; flashs de la première vie d’Hasol, de Zio, de leur union et de sa grossesse ; elle touche et caresse son ventre, une larme coule sur sa joue ; instabilité ; ultime usage temporel, douze DONG et douze DING selon le cadre conservé, puis suppression de la Rune temporelle. Retour à seize ans, vie 13 le jour de la Révélation ; phrases d’Hasol et Ténébria et fin du II, développement au III. Aucune grossesse actuelle déduite.
 
 ### Livre III — vie 13, dernière chance et bonheur durable
 

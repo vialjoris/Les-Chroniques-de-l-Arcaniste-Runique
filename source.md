@@ -129,14 +129,15 @@ Les fiches consultées ne fournissent pas de Mana et de Puissance arcanique dire
 
 **Adaptation du Paladin pour Zio — CANON, DEC-058 :** l'auteur valide la liste proposée de six actifs et trois passifs, avec noms, niveaux, effets qualitatifs et limites consignés dans `lore/systeme.md`. Dernier Rempart devient le nom officiel de son autodestruction au niveau 50. Cette adaptation propre au roman ne constitue pas une transcription des compétences du jeu ni une adoption de ses chiffres. Paramètres numériques, équipement et inventaire restent à définir ; Zio conserve sa classe Gardien, Rare, et un soin personnel secondaire.
 
-### Apports futurs depuis ChatGPT mobile — `docs/new.txt`
+### Apports depuis ChatGPT mobile — `docs/conversation/`
 
-- **Provenance annoncée par l’auteur :** travail poursuivi dans ChatGPT en mode conversation depuis son téléphone, puis copié dans `docs/new.txt`.
-- **Statut :** support de transmission ; chapitres, variantes et décisions doivent être identifiés avant intégration dans `roman.md`.
+- **Canal actuel, confirmé par l’auteur le 27 novembre 2026 :** les conversations sont déposées dans des fichiers séparés sous `docs/conversation/`. `docs/new.txt` ne sert plus de moyen de transmission ; ne pas le recréer ni regrouper obligatoirement les échanges dans un fichier unique.
+- **Provenance annoncée par l’auteur :** travail poursuivi dans ChatGPT en mode conversation depuis son téléphone, puis transmis dans le fichier de conversation concerné.
+- **Statut :** supports de transmission ; chapitres, variantes et décisions doivent être identifiés avant intégration dans le manuscrit distinct du livre concerné.
 - **Priorité :** une proposition de ChatGPT n’est pas canon par sa simple présence. Les décisions explicites de l’auteur suivent l’ordre de priorité défini dans `AGENTS.md` ; signaler les contradictions qui subsistent.
 - **Traitement :** lecture complète, contrôle de continuité, prévention des doublons, adaptation des fenêtres en HTML/CSS, intégration ciblée puis mise à jour des références.
 - **Préservation :** ne pas vider le fichier de transmission ni remplacer un chapitre validé sans autorisation. La provenance permet de retrouver le texte reçu, même après intégration.
-- **Disponibilité historique au moment de la consigne initiale :** aucun `new.txt` présent à cette date. Le fichier a depuis été fourni puis actualisé ; voir les notices d'intégration ci-dessous, sans confondre disponibilité et validation de son contenu.
+- **Références historiques :** `new.txt` a été fourni puis actualisé dans l’ancien workflow ; il est absent lors de cette clarification. Les citations anciennes restent des repères de provenance, pas une obligation de restaurer ce fichier. Ne pas attribuer leurs numéros de lignes à une archive renommée sans vérification.
 - **Publication :** l’auteur indique que le dépôt GitHub est public. Les fichiers poussés peuvent exposer les révélations futures et les conversations copiées ; aucune publication n’est effectuée par la seule mise en place de ce workflow.
 - **Choix confirmé :** l’auteur accepte cette accessibilité publique, y compris pour l’intrigue et les documents de travail. Ne pas réitérer les avertissements de spoilers à chaque intégration. Une publication effective reste soumise à autorisation ; les secrets et données privées de tiers ne sont pas couverts par cette acceptation.
 

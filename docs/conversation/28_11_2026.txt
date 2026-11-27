@@ -1,0 +1,4296 @@
+J'ai actualisé le repo , on fait le chapitre 4 du livre 2
+# **Livre II — Chapitre 4 : Cette fois, avec moi**
+
+J’ai retrouvé dans le dépôt actualisé les trois premiers chapitres intégrés, le plan du livre II ainsi que les nouvelles décisions du 27 novembre, DEC-187 à DEC-193.
+
+On reprend donc immédiatement après la mort de Ray, la scène de la chaise vide et les douze DONG suivis des deux DING.
+
+Ce chapitre marque le début de la troisième vie d'Hasol et doit représenter **sa première victoire contre le destin**, même si elle ne comprend pas encore la nature de ses réincarnations.
+
+## **1. Le changement chronologique**
+
+La décision d'éviter les retours à seize ans est bien enregistrée dans le dépôt. En revanche, les nouveaux âges de réveil ne sont pas encore arrêtés.
+
+Je propose donc de ne pas recommencer toute l'enfance, la Révélation, la formation chez Orven et les années à l'Académie. Le lecteur connaît désormais cette partie de son parcours.
+
+L'intérêt de cette troisième vie réside dans ce qu'Hasol va faire différemment, et non dans la répétition de ce qu'elle a déjà accompli.
+
+La bonne nouvelle, c'est que `lore/chronologie.md` contient déjà un point de sauvegarde pour cette troisième vie.
+
+| Caractéristique  | Point de sauvegarde |
+| ---------------- | ------------------- |
+| Vie              | 3                   |
+| Âge d'Hasol      | 23 ans              |
+| Niveau           | 24                  |
+| Cercles runiques | 16                  |
+| DONG             | 12                  |
+| DING             | 2                   |
+
+Ce point de reprise constitue une bonne base. Hasol dispose de deux années pour modifier le destin de Ray.
+
+Elle ne conserve cependant pas les 32 cercles obtenus à la fin du chapitre 3, ni la mémoire intégrale de sa précédente existence.
+
+## **2. Proposition de découpage du chapitre**
+
+### **I. Deux coups**
+
+Hasol se réveille à vingt-trois ans.
+
+Des images désordonnées occupent encore son esprit : le loup alpha, Ray, son masque démoniaque, sa propre épée et une chaise vide.
+
+Deux coups.
+
+Elle ignore pourquoi ces mots lui reviennent constamment.
+
+Elle ressent une tristesse profonde dont elle ne comprend pas l'origine.
+
+### **II. Celui qui était encore là**
+
+Hasol retrouve Ray à la bibliothèque.
+
+Elle éprouve un immense soulagement en le voyant vivant, sans parvenir à se l'expliquer.
+
+Ray remarque immédiatement son comportement inhabituel.
+
+Cette scène pourrait faire directement écho à la conclusion du chapitre 3 : cette fois, la chaise en face d'elle n'est pas vide.
+
+### **III. Une inquiétude inexplicable**
+
+Au cours des semaines suivantes, les cauchemars reviennent.
+
+Hasol commence à associer plusieurs éléments :
+
+- La forêt.
+- Le loup alpha.
+- Ray grièvement blessé.
+- Sa propre absence au moment du drame.
+
+Elle ne connaît cependant ni la date ni les circonstances exactes de l'événement.
+
+### **IV. Une invitation inattendue**
+
+Hasol propose à Ray de chasser régulièrement avec elle.
+
+Dans sa précédente existence, Ray l'aidait principalement dans ses recherches. Cette fois, elle souhaite également combattre à ses côtés.
+
+Ray reste un personnage autonome, capable de prendre ses propres décisions. Il ne doit pas devenir une personne qu'Hasol protège constamment sans tenir compte de ses ambitions.
+
+### **V. Le plaisir de combattre ensemble**
+
+Développement de leur complémentarité au combat.
+
+Ray apprend à exploiter les capacités d'Hasol, tandis qu'elle découvre ses qualités de chasseur.
+
+Cette section permet également de préparer sa future évolution en Stratège runique dans la quatrième vie, en montrant ses qualités d'analyse sans lui attribuer prématurément sa nouvelle classe.
+
+### **VI. Deux années de progression**
+
+Ellipse progressive jusqu'aux vingt-cinq ans d'Hasol.
+
+On alterne les chasses, l'artisanat runique, les recherches à la bibliothèque et les moments de complicité.
+
+Il ne faut pas reproduire intégralement la progression du chapitre 3 : les choix différents d'Hasol doivent pouvoir produire des résultats différents.
+
+### **VII. Le loup alpha**
+
+Hasol accompagne Ray lors d'une chasse en forêt.
+
+Lorsqu'elle aperçoit le loup alpha, les images de ses cauchemars lui reviennent brutalement.
+
+Elle reconnaît la créature.
+
+Mais cette fois, elle est présente.
+
+Je privilégierais un véritable affrontement plutôt qu'une simple annulation de la chasse. Cela permettrait au lecteur de mesurer concrètement la différence entre les deux existences.
+
+### **VIII. Cette fois, avec moi**
+
+Hasol élimine le loup avant qu'il puisse tuer Ray.
+
+Le danger écarté, elle laisse éclater une émotion disproportionnée aux yeux de son ami.
+
+Ray ne comprend pas pourquoi elle semble aussi bouleversée.
+
+Pour Hasol, c'est la première fois qu'un de ses cauchemars trouve une issue heureuse.
+
+### **IX. La chaise occupée**
+
+Quelques jours plus tard, Hasol retrouve Ray à la bibliothèque.
+
+Ils reprennent leurs recherches comme à leur habitude.
+
+Ray plaisante, lui parle de monstres ou lui propose une nouvelle chasse.
+
+Hasol sourit.
+
+Le chapitre se termine sur un moment ordinaire, dont le lecteur mesure toute la valeur après avoir lu le chapitre précédent.
+
+Pas de DONG. Pas de DING.
+
+Pour une fois, la vie continue.
+
+## **3. Les éléments à préserver**
+
+- **Ray** reste de classe commune dans cette vie. Son évolution en Stratège runique rare est réservée à la quatrième.
+- **Yoon** conserve sa classe légendaire.
+- **Samia** conserve sa classe commune de Marcheuse du voile.
+- **Hasol** ne possède pas encore Aimant runique ni Mémoire runique.
+- Le plafond de 50 points par équipe reste applicable. Il faudra donc distinguer les chasses avec Ray de celles avec Yoon et Samia.
+- Les raretés des runes restent immuables, indépendamment de leur amélioration.
+- Les nouvelles fenêtres utilisent les bulles colorées conformément à la dernière refonte graphique.
+
+## **4. Préparation de la suite du livre II**
+
+J'ai également pris en compte la nouvelle trajectoire impériale enregistrée dans le dépôt : le mariage de Ray et Hasol, l'enquête sur les tenues écarlates, la condamnation d'Iseria pour avoir enfreint le pacte et le futur cauchemar dans lequel Hasol découvre le prénom de Carmela.
+
+Le chapitre 4 doit commencer à construire l'attachement entre Ray et Hasol, sans précipiter leur relation amoureuse. Le cadeau de l'Anneau runique reste prévu au chapitre 5.
+
+## **5. Les arbitrages avant rédaction**
+
+| Élément           | Ma proposition                           |
+| ----------------- | ---------------------------------------- |
+| Âge du réveil     | 23 ans, conformément à la grille validée |
+| État initial      | Niveau 24, 16 cercles                    |
+| Relation avec Ray | Amitié qui s'approfondit                 |
+| Sauvetage         | Hasol accompagne Ray et ses compagnons   |
+| Évolution runique | À calculer selon les nouvelles chasses   |
+| Fin du chapitre   | Ray vivant, à la bibliothèque            |
+
+L'équipement exact d'Hasol au réveil et sa progression chiffrée restent à déterminer. Je n'ai pas modifié le dépôt ni inventé de nouvelles statistiques.
+
+**Je conserverais surtout le parallèle entre les deux chapitres :**
+
+- Chapitre 3 — *Celle qui n'était pas dans les bois.*
+- Chapitre 4 — *Cette fois, avec moi.*
+
+Le premier montre que toute la puissance du monde ne sert à rien lorsqu'on arrive trop tard. Le second montre qu'Hasol peut changer le destin de ceux auxquels elle tient.
+
+C'est cette première réussite qui donnera progressivement un sens à ses cauchemars et à ses choix dans les vies suivantes.
+attend prend connaissance de la conversation dans 27_11_2026.txt il ya plein de point deja validé pour le chapitre 4
+
+Tu as raison. Je viens de retrouver le plan détaillé dans `docs/conversation/27_11_2026.txt`, ainsi que les corrections et validations qui suivent.
+
+Mon précédent plan était incorrect sur plusieurs points essentiels, notamment le point de sauvegarde, les souvenirs d'Hasol et la manière dont elle sauve Ray. Il faut l'écarter.
+
+# **Livre II — Chapitre 4 : Cette fois, avec moi**
+
+## **Les décisions déjà validées**
+
+- Hasol se réveille au lendemain de la réception des tenues écarlates.
+- Elle conserve l'intégralité de ses souvenirs jusqu'au point de sauvegarde.
+- Elle ignore qu'elle commence sa troisième vie.
+- Ses visions sont des fragments authentiques de sa précédente vie, et non des prémonitions.
+- Ray ne rencontre jamais le loup alpha. Hasol le sauve en modifiant ses habitudes de chasse, sans avoir à affronter la créature.
+- Les événements identiques à ceux du chapitre 3 sont traités par des ellipses.
+
+Le fil conducteur du chapitre est particulièrement important : **les visions permettent à Hasol de sauver l'homme qu'elle aime, mais l'empêchent d'être certaine qu'elle l'aime.**
+
+## **La chronologie déjà établie**
+
+| Section | Événement                                             |
+| ------- | ----------------------------------------------------- |
+| I       | Trois rêves et un cauchemar                           |
+| II      | Ellipse des événements identiques au chapitre 3       |
+| III     | Niveau 40 et acquisition de Siphon runique            |
+| IV      | Yoon taquine Ray sur son charme sans lunettes         |
+| V       | Discussion à la bibliothèque sur les 36 cercles       |
+| VI      | Confidence nocturne à Iseria et passage secret        |
+| VII     | Quatrième tenue écarlate et révélation du prix        |
+| VIII    | Cadeaux à Ray et invitation systématique aux raids    |
+| IX      | Les quatre écarlates et le chasseur anonyme           |
+| X       | Les commérages entre Iseria et Irène Corvus           |
+| XI      | Ellipse, progression et modification du destin de Ray |
+| XII     | Rapprochement amoureux et doutes d'Hasol              |
+
+## **Les subtilités narratives à respecter**
+
+### **Les trois visions**
+
+1. **Siphon runique :** Hasol se voit employer une compétence qu'elle ne possède pas encore contre des démons rouges.
+2. **La bibliothèque :** Ray est assis à côté d'elle, ils discutent des 36 cercles et Hasol le complimente sur son apparence sans lunettes.
+3. **Le loup alpha :** Aura runique critique, deux coups d'épée imprégnés de Terre formant une croix rouge, puis Ray immobile au pied de l'arbre, ses lunettes visibles et son bâton encore enflammé.
+
+La réplique du réveil est déjà validée :
+
+> — C'est vraiment n'importe quoi… Comme si j'étais capable de tuer un loup alpha en deux coups d'épée !
+
+### **La fausse interprétation romantique**
+
+C'est un point que j'avais entièrement oublié dans mon précédent plan.
+
+La deuxième vision semble romantique parce qu'elle manque de contexte. En réalité, Yoon avait taquiné Ray auparavant et Samia occupait sa place habituelle à la bibliothèque avant de quitter les lieux.
+
+Dans la deuxième vie, Hasol plaisantait simplement avec son meilleur ami.
+
+Dans la troisième, elle reconnaît la scène de son rêve, rougit et ne prononce pas son compliment. Ray interprète alors son embarras comme un signe amoureux.
+
+**Une vision faussement romantique contribue ainsi à provoquer une véritable romance.**
+
+Il ne faut surtout pas ajouter rétroactivement ces scènes au chapitre 3. Le lecteur doit tout découvrir au chapitre 4.
+
+### **Le secret d'Iseria**
+
+Hasol confie ses inquiétudes et ses doutes amoureux à sa mère avant de s'endormir sur le canapé.
+
+Iseria ouvre le passage secret derrière le vaisselier. Hasol l'aperçoit brièvement.
+
+— Maman… Tu vas où ?
+
+— Nulle part, ma chérie. Rendors-toi.
+
+Puis vient la pensée d'Iseria, connue uniquement du lecteur :
+
+*Pourquoi fallait-il que ma plus jeune fille possède, elle aussi, un don semblable au mien ?*
+
+Cette scène prépare la future découverte du livre de naissance, des carnets et de l'identité de Carmela Astrae. Rien de tout cela ne doit encore être révélé.
+
+### **Les équipements de Ray**
+
+Hasol demande à sa mère une tenue écarlate et un bâton assorti. Elle souhaite les payer elle-même.
+
+Iseria refuse son argent et finit par lui révéler leur véritable prix. Hasol doit s'asseoir tellement la somme est astronomique.
+
+Cette scène renforce le mystère autour de la fortune familiale.
+
+Ray reçoit ses cadeaux trois jours après la scène de la bibliothèque. Il devient un participant systématique aux raids d'Hasol, sans intégrer son groupe permanent.
+
+### **La composition des raids**
+
+Il faut bien distinguer la limite du groupe permanent de celle des raids dans les portails blancs, verts et bleus.
+
+# **100 / 100 pts**
+
+13 chasseurs
+
+**Hasol**
+
+Astrale
+
+25 pts
+
+**Yoon**
+
+Légendaire
+
+20 pts
+
+**Samia**
+
+Commune
+
+5 pts
+
+**Ray**
+
+Commune
+
+5 pts
+
+**9 chasseurs anonymes**
+
+Commune
+
+45 pts
+
+Le dialogue entre Ray et le chasseur anonyme permettra de rappeler au lecteur que les classes communes constituent la norme et que la présence d'Hasol et de Yoon est exceptionnelle.
+
+### **Les confidences des deux mères**
+
+Iseria raconte à Irène qu'Hasol tenait absolument à payer les équipements de Ray.
+
+Irène lui révèle que son fils a commandé un Anneau runique orné d'un diamant dans leur atelier d'orfèvrerie.
+
+Les deux mères sont persuadées que les sentiments de leurs enfants sont réciproques.
+
+La déclaration et le cadeau de l'anneau restent réservés au chapitre 5.
+
+## **Ce qu'il reste réellement à préparer**
+
+Les décisions narratives sont déjà prises. Il reste essentiellement le travail technique :
+
+- Vérifier les caractéristiques d'Hasol au nouveau point de sauvegarde R2.
+- Calculer la progression des quatre chasseurs et les compteurs runiques.
+- Déterminer les ensembles envisagés pour les 36 cercles.
+- Fixer le prix des équipements écarlates.
+- Déterminer précisément les durées des ellipses.
+- Reprendre les références visuelles validées.
+
+Je n'ai pas encore confronté ces dernières données techniques aux fichiers actualisés du dépôt.
+
+**Je reprends désormais le plan validé dans&#x20;**`27_11_2026.txt`**&#x20;comme référence principale pour le chapitre 4.** Il n'est pas nécessaire de recommencer sa conception ni de rouvrir les décisions narratives déjà prises ensemble.
+
+Vérifier les caractéristiques d'Hasol au nouveau point de sauvegarde R2. en vrai le lecteur n'a pas besoin de connaitre ça chan,ge rien
+
+Validé. Le point de sauvegarde R2 reste une référence technique interne, sans incidence sur la narration.
+
+- Aucune fenêtre de caractéristiques au réveil.
+- Aucun rappel du niveau, des cercles ou de l'équipement d'Hasol.
+- Aucune explication du point de sauvegarde.
+- Aucune modification des caractéristiques existantes.
+
+Pour Hasol comme pour le lecteur, il s'agit simplement du lendemain de la réception des tenues écarlates. Le chapitre commence directement par les rêves et le cauchemar.
+
+Je retire donc cette vérification des tâches nécessaires à la rédaction du chapitre 4.
+
+Calculer la progression des quatre chasseurs et les compteurs runiques.
+J'ai envie de dire pareil , juste montré que ray vu qu'il participe au portail progresse vite
+
+Validé. Inutile de détailler une nouvelle fois toute la progression des quatre chasseurs. Le chapitre 3 a déjà suffisamment développé cet aspect.
+
+Pour le chapitre 4 :
+
+- Pas de tableau comparatif des niveaux.
+- Pas de détail des compteurs runiques.
+- Pas de bilan systématique après les portails.
+- La progression d'Hasol, Yoon et Samia reste en arrière-plan.
+- La progression rapide de Ray est soulignée grâce à sa participation systématique aux raids.
+
+On conserve évidemment le passage du niveau 40 d'Hasol et l'acquisition de **Siphon runique**, puisque cet événement confirme l'une de ses visions.
+
+La progression de Ray peut être évoquée naturellement au cours d'un dialogue ou d'une ellipse, sans nécessairement donner de chiffres.
+
+**Le cœur du chapitre 4 doit rester les visions, la modification du destin de Ray et la naissance de leur relation amoureuse, plutôt que la progression des personnages.**
+
+ray peut presenter ses nous sort
+
+Oui, c'est même une manière plus naturelle de montrer sa progression.
+
+Ray pourrait présenter ses nouveaux sorts à Hasol au fur et à mesure de leur acquisition, puis les utiliser lors des raids.
+
+Cela permet de :
+
+- Montrer sa progression rapide grâce aux portails.
+- Développer ses capacités de combat.
+- Renforcer sa complémentarité avec Hasol.
+- Créer des moments de complicité entre eux, Ray étant fier de lui présenter ses nouvelles compétences.
+
+On conserve donc les fenêtres de description des nouveaux sorts de Ray lorsqu'il les présente, sans détailler systématiquement ses niveaux ni ses caractéristiques.
+
+**La progression reste visible à travers les nouvelles possibilités de combat, plutôt que par une accumulation de chiffres.**
+
+Les sorts devront naturellement rester cohérents avec sa classe commune actuelle.
+
+dispose t -on des sort de ray ?
+c'est un dps mage feu
+
+Oui, **Ray est bien un DPS magique spécialisé dans le feu, de classe commune.** L'intégralité de ses compétences jusqu'au niveau 50 est déjà validée (DEC-069).
+
+Je les ai retrouvées dans `lore/personnages.md` et `lore/systeme.md` du dépôt actualisé.
+
+Mage de feu
+
+DPS magique · 5 points d'équipe
+
+### **Compétences actives**
+
+| Niveau | Sort                   | Effet                                                       |
+| ------ | ---------------------- | ----------------------------------------------------------- |
+| 1      | **Boule de feu**       | Projectile enflammé avec une petite explosion à l'impact.   |
+| 10     | **Souffle ardent**     | Jet de flammes en cône à courte portée.                     |
+| 20     | **Trait incandescent** | Projectile concentré, rapide et précis, monocible.          |
+| 30     | **Mur de flammes**     | Ligne de feu temporaire permettant de contrôler le terrain. |
+| 40     | **Déflagration**       | Explosion de feu autour d'un point visible.                 |
+| 50     | **Fournaise**          | Zone de flammes intenses maintenue par concentration.       |
+
+### **Compétences passives**
+
+| Niveau | Passif                      | Effet                                                             |
+| ------ | --------------------------- | ----------------------------------------------------------------- |
+| 1      | **Affinité du feu**         | Facilite la manipulation et la stabilité du feu magique.          |
+| 20     | **Résistance à la chaleur** | Réduit les effets de la chaleur et des brûlures.                  |
+| 40     | **Combustion maîtrisée**    | Réduit les pertes de Mana lors de l'utilisation des sorts de feu. |
+
+### **Application au chapitre 4**
+
+Dans sa deuxième vie, Ray meurt au niveau 25. Grâce à sa participation systématique aux raids dans sa troisième vie, nous pourrions montrer l'acquisition successive de :
+
+- **Niveau 30 :** Mur de flammes.
+- **Niveau 40 :** Déflagration et Combustion maîtrisée.
+- **Niveau 50 :** Fournaise.
+
+Cela représenterait trois moments de progression, sans avoir besoin de détailler toutes ses chasses.
+
+Il faudra également conserver ses deux faiblesses déjà validées : sa consommation importante de Mana et le fait que ses flammes peuvent blesser ses alliés.
+
+Je trouve particulièrement intéressant de lui faire présenter **Déflagration** avec enthousiasme à Hasol : les portails, avec leurs nombreux ennemis, lui permettent enfin d'exploiter pleinement son potentiel de DPS de zone.
+
+Les sorts sont donc déjà disponibles. Il n'est pas nécessaire d'en inventer de nouveaux. Seuls les paramètres chiffrés restent à définir, mais nous pouvons nous en passer dans ce chapitre.
+
+je vaklide
+
+Validé pour le chapitre 4.
+
+Ray présentera progressivement ses nouvelles compétences à Hasol :
+
+- **Niveau 30 :** Mur de flammes.
+- **Niveau 40 :** Déflagration et Combustion maîtrisée.
+- **Niveau 50 :** Fournaise.
+
+Ces acquisitions permettront de montrer sa progression rapide grâce aux raids, tout en créant des moments de complicité avec Hasol.
+
+On affichera les fenêtres des nouvelles compétences, mais sans bilan complet de ses caractéristiques ni calcul détaillé de sa progression.
+
+Aucune nouvelle compétence à inventer.
+
+**Prochain point à traiter : les ensembles runiques envisagés par Hasol et Ray pour les 36 cercles.**
+
+Déterminer les ensembles envisagés pour les 36 cercles. 
+un recap des runes à 32 ?
+
+Voici la composition runique exacte d'Hasol à **32 cercles de mana**, au chapitre 3 du livre II, vérifiée dans `lore/runes.md` (DEC-183) et dans le manuscrit.
+
+## **Équipement à 32 cercles**
+
+Runes équipées
+
+# **32/32**
+
+Bonus d'ensemble
+
+# **9**
+
+Amélioration
+
+# **+15**
+
+Vol de vie
+
+**8 runes**
+
+2 ensembles
+
+Arcanique
+
+**8 runes**
+
+2 ensembles
+
+Vitesse
+
+**8 runes**
+
+2 ensembles
+
+Énergie
+
+**2 runes**
+
+1 ensemble
+
+Gardien
+
+**2 runes**
+
+1 ensemble
+
+Fatal
+
+**4 runes**
+
+1 ensemble
+
+## **Répartition des runes**
+
+| Ensemble   | 5★     | 6★     | Total  |
+| ---------- | ------ | ------ | ------ |
+| Vol de vie | 4      | 4      | 8      |
+| Arcanique  | 4      | 4      | 8      |
+| Vitesse    | 4      | 4      | 8      |
+| Énergie    | 0      | 2      | 2      |
+| Gardien    | 0      | 2      | 2      |
+| Fatal      | 0      | 4      | 4      |
+| **Total**  | **12** | **20** | **32** |
+
+Toutes les runes sont bleues et améliorées à +15.
+
+## **Objectif des 36 cercles**
+
+Hasol dispose donc déjà d'une configuration équilibrée entre :
+
+- Vol de vie : autonomie au combat.
+- Arcanique : puissance arcanique.
+- Vitesse : rapidité.
+- Énergie : points de vie.
+- Gardien : défense.
+- Fatal : attaque.
+
+Avec quatre cercles supplémentaires, elle pourrait ajouter un ensemble de quatre runes ou deux ensembles de deux runes.
+
+Elle pourrait également profiter de cette évolution pour repenser entièrement sa configuration, notamment en tenant compte de sa nouvelle compétence **Siphon runique**.
+
+Pour l'instant, je ne modifierais pas les 32 runes existantes. Prenons cette configuration comme base de la discussion entre Ray et Hasol à la bibliothèque, sans oublier qu'elle correspond à l'équipement de sa deuxième vie.
+
+ray lui propose un set fatal en plus pour amélioré son vol de vie avec puissance arcanique et atk en principale et seconde visée
+
+C'est cohérent. Ray lui propose donc un **deuxième ensemble Fatal**, afin d'augmenter les dégâts qu'elle inflige et, par conséquent, la quantité de vie qu'elle récupère grâce à ses deux ensembles Vol de vie.
+
+Les quatre nouvelles runes auront pour caractéristiques recherchées :
+
+- **Statistiques principales :** Attaque ou Puissance arcanique.
+- **Statistiques secondaires visées :** Attaque et Puissance arcanique.
+
+## **Configuration à 36 cercles**
+
+| Ensemble   | Runes  | Bonus actifs |
+| ---------- | ------ | ------------ |
+| Vol de vie | 8      | 2            |
+| Arcanique  | 8      | 2            |
+| Vitesse    | 8      | 2            |
+| Énergie    | 2      | 1            |
+| Gardien    | 2      | 1            |
+| Fatal      | 8 (+4) | 2            |
+| **Total**  | **36** | **10**       |
+
+Ray ne cherche donc pas à augmenter directement le pourcentage de vol de vie d'Hasol, mais à améliorer son rendement en augmentant ses dégâts physiques et magiques.
+
+Cela donne également du sens à leur discussion à la bibliothèque : Ray connaît suffisamment bien les capacités d'Hasol pour lui proposer une optimisation adaptée à son style de combat.
+
+On ne détaillera pas individuellement les quatre nouvelles runes. La discussion portera uniquement sur l'ensemble choisi et les statistiques recherchées.
+
+Fixer le prix des équipements écarlates.
+--> pas besoin ne donnée aucun prix , on apas expliqué la monaie de ce monde on est toujours resté vague 
+
+
+Déterminer précisément les durées des ellipses.
+
+### **Prix des équipements écarlates — Validé**
+
+Aucun montant ne sera communiqué au lecteur. Nous n'avons pas encore défini le système monétaire de cet univers, et il n'est pas nécessaire de le faire ici.
+
+Iseria annonce le prix à Hasol sans que le lecteur entende le montant. La réaction d'Hasol, obligée de s'asseoir, suffit à montrer la valeur astronomique de ces équipements et à entretenir le mystère sur la fortune familiale.
+
+### **Durée des ellipses**
+
+Il faut prendre comme référence la chronologie du chapitre 3 pour conserver la cohérence des événements communs aux deux vies, puis s'en détacher lorsque les décisions d'Hasol commencent à modifier le destin de Ray.
+
+Après relecture de `27_11_2026.txt` et de `lore/chronologie.md`, je propose les durées suivantes :
+
+| Événement                                             | Durée écoulée                        |
+| ----------------------------------------------------- | ------------------------------------ |
+| Réveil et trois visions                               | Lendemain de la réception des tenues |
+| Première grande ellipse jusqu'au niveau 40            | Environ deux ans                     |
+| Acquisition et première utilisation de Siphon runique | Même journée                         |
+| Yoon taquine Ray                                      | Une semaine plus tard                |
+| Discussion à la bibliothèque                          | Le soir même                         |
+| Confidence à Iseria et passage secret                 | La même nuit                         |
+| Demande des équipements de Ray                        | Le lendemain                         |
+| Remise des équipements à Ray                          | Trois jours après la bibliothèque    |
+| Discussion entre Iseria et Irène                      | Quelques jours plus tard             |
+| Deuxième grande ellipse                               | Un an                                |
+| Fin du chapitre 4                                     | Hasol a environ 26 ans               |
+
+### **Pendant la dernière ellipse**
+
+On entrecoupe l'année de quelques scènes inédites :
+
+- Ray présente Mur de flammes.
+- Ray présente Déflagration et Combustion maîtrisée.
+- Ray présente Fournaise.
+- Hasol atteint ses 36 cercles et complète son deuxième ensemble Fatal.
+- Leur complicité évolue progressivement vers des sentiments amoureux.
+- Les habitudes de chasse de Ray changent définitivement.
+
+La mort de Ray est ainsi évitée sans qu'Hasol sache précisément à quel moment elle aurait dû se produire.
+
+Ces durées sont des propositions, et non des dates déjà validées dans le dépôt. La progression de Ray jusqu'au niveau 50 en un an reste notamment à apprécier.
+
+**Je privilégierais des ellipses annoncées naturellement dans le récit, sans multiplier les indications chronologiques précises.**
+
+fais moi le chapitre 4 on ajustera apres lecture
+
+# **Livre II — Chapitre 4**
+
+## **Cette fois, avec moi**
+
+### **I. Trois rêves et un cauchemar**
+
+Les démons rouges se rapprochaient.
+
+Hasol se tenait au milieu d'eux, vêtue de sa nouvelle tenue écarlate. Plusieurs créatures levèrent leurs armes dans sa direction.
+
+Elle ne chercha pourtant pas à s'éloigner.
+
+— Siphon runique !
+
+Une violente onde de vent se propagea autour d'elle.
+
+Les démons furent simultanément frappés et Hasol sentit sa réserve de mana se remplir.
+
+Un sourire apparut sous son masque.
+
+Puis les créatures disparurent.
+
+Hasol était désormais assise à la bibliothèque.
+
+Ray se trouvait à côté d'elle. Plusieurs ouvrages étaient ouverts devant eux, ainsi qu'une feuille sur laquelle figuraient différentes combinaisons de runes.
+
+— Avec trente-six cercles, tu pourrais équiper un ensemble supplémentaire, expliqua-t-il.
+
+Hasol examina les différentes possibilités.
+
+Ray retira ses lunettes et les posa sur la table.
+
+Elle tourna la tête vers lui.
+
+— C'est vrai que sans lunettes, tu as beaucoup de charme. Les lentilles, c'est pour quand ?
+
+Une forêt.
+
+Hasol portait de nouveau sa tenue écarlate.
+
+Un immense loup se dressait devant elle.
+
+Elle sortit une rune de sa réserve.
+
+— Aura runique !
+
+L'explosion de mana frappa violemment la créature.
+
+**Coup critique.**
+
+Hasol s'élança.
+
+Son épée imprégnée de Terre fendit l'air une première fois, puis une seconde.
+
+Deux traînées rouges formèrent une croix devant elle.
+
+Le loup alpha s'effondra.
+
+Hasol ne lui accorda pas un regard supplémentaire.
+
+Elle courut.
+
+Au pied d'un arbre dont certaines branches brûlaient encore se trouvait une silhouette immobile.
+
+Des lunettes.
+
+Un bâton dont le sommet était toujours enflammé.
+
+Ray.
+
+Hasol ouvrit brutalement les yeux.
+
+Elle se redressa dans son lit, le souffle court.
+
+Son cœur battait à une vitesse impressionnante.
+
+Elle observa sa chambre, puis passa une main sur son front couvert de sueur.
+
+Tout était normal.
+
+Sa nouvelle tenue écarlate, offerte la veille par sa mère, était soigneusement rangée.
+
+Elle resta assise quelques instants, tentant de remettre de l'ordre dans ses pensées.
+
+Des démons rouges.
+
+Une nouvelle compétence.
+
+Ray sans ses lunettes.
+
+Un loup alpha.
+
+Elle secoua la tête.
+
+— C'est vraiment n'importe quoi… Comme si j'étais capable de tuer un loup alpha en deux coups d'épée !
+
+Elle repoussa sa couverture et se leva.
+
+Ce n'étaient que des rêves.
+
+Elle avait probablement passé trop de temps à réfléchir aux possibilités offertes par sa classe et aux prochaines expéditions qu'elle entreprendrait avec Yoon et Samia.
+
+Quant à Ray…
+
+Hasol préféra ne pas y penser.
+
+Elle avait prévu de le retrouver prochainement à la bibliothèque. Elle pourrait lui raconter son étrange rêve concernant les trente-six cercles de mana.
+
+Peut-être aurait-il déjà quelques idées d'ensembles intéressants.
+
+Elle sourit à cette pensée.
+
+Puis elle quitta sa chambre.
+
+### **II. Les chasseuses écarlates**
+
+L'idée de Samia se révéla particulièrement efficace.
+
+Les démons rouges mettaient effectivement un peu plus de temps à identifier les trois chasseuses comme des ennemies.
+
+Un avantage dont Hasol apprit rapidement à tirer profit.
+
+Les expéditions se succédèrent.
+
+Aura runique devint l'une de ses principales armes contre les créatures des portails. Les runes dont personne ne voulait trouvaient entre ses mains une utilité que leurs anciens propriétaires n'auraient jamais imaginée.
+
+Maître Orven, de son côté, poursuivait ses activités avec une élève dont les besoins en runes semblaient ne jamais diminuer.
+
+Hasol perfectionnait son équipement, développait ses talents d'artisane et consacrait une part toujours plus importante de son temps aux portails.
+
+Sa réputation grandissait également.
+
+Il ne fallut pas longtemps pour que certains chasseurs commencent à parler d'une jeune femme au masque de démon, capable de faire disparaître des groupes entiers de créatures dans de violentes explosions de mana.
+
+L'Astrale sanguinaire.
+
+Un surnom qui amusait énormément Yoon et dont Samia ne manquait jamais de rappeler l'existence lorsque l'occasion se présentait.
+
+Ray participait parfois à leurs expéditions.
+
+Il continuait cependant de chasser avec ses propres compagnons et retrouvait régulièrement Hasol à la bibliothèque.
+
+Leurs recherches ne s'interrompirent jamais vraiment.
+
+Les questions changeaient simplement au fil de leur progression.
+
+Les mois passèrent.
+
+Et les étranges rêves d'Hasol finirent par occuper une place de moins en moins importante dans ses pensées.
+
+Jusqu'au jour où elle atteignit le niveau quarante.
+
+### **III. Une compétence familière**
+
+Hasol venait d'éliminer un démon lorsqu'une notification apparut devant elle.
+
+Montée de niveau
+
+# **39 → 40**
+
+## **Siphon runique**
+
+Compétence active · Vent · Dégâts de zone
+
+Dégâts
+
+# **120 % PA**
+
+Conversion en Mana
+
+# **75 %**
+
+Rayon
+
+**8 mètres**
+
+Temps de recharge
+
+**20 secondes**
+
+Coût
+
+**100 Mana**
+
+Récupération maximale
+
+**1 200 Mana**
+
+Hasol resta immobile.
+
+Elle relut le nom de la compétence.
+
+*Siphon runique.*
+
+Elle connaissait ce nom.
+
+— Hasol ! s'écria Samia.
+
+Une flèche passa à proximité de la jeune femme et atteignit un démon qui s'apprêtait à l'attaquer.
+
+Hasol recula précipitamment.
+
+— Qu'est-ce que tu fais ? demanda Samia.
+
+— Désolée… Je viens de passer niveau quarante.
+
+— Félicitations ! lança Yoon. Tu as obtenu quelque chose d'intéressant ?
+
+Hasol observa les démons qui se rapprochaient.
+
+— Je crois que oui.
+
+Elle attendit que plusieurs créatures pénètrent dans le rayon d'action de sa nouvelle compétence.
+
+— Siphon runique !
+
+Le vent se déchaîna autour d'elle.
+
+Une onde frappa simultanément les démons présents à proximité.
+
+Hasol sentit sa réserve de mana se remplir.
+
+Elle connaissait cette sensation.
+
+Elle connaissait même le spectacle qui venait de se dérouler devant ses yeux.
+
+Elle l'avait déjà vu.
+
+— Alors ? demanda Yoon.
+
+Hasol consulta sa réserve de mana.
+
+— Je récupère du mana en infligeant des dégâts. Jusqu'à mille deux cents points toutes les vingt secondes.
+
+— Oh non… murmura Samia.
+
+Hasol se tourna vers elle.
+
+— Quoi ?
+
+— Tu vas encore nous demander de trouver davantage de monstres.
+
+Yoon éclata de rire.
+
+Hasol esquissa un sourire et sortit une rune de sa réserve.
+
+Le combat reprit.
+
+Mais contrairement à ses deux compagnes, Hasol ne parvenait pas à se réjouir pleinement de cette découverte.
+
+Elle repensait à son rêve.
+
+Au nom de cette compétence qu'elle ne possédait pas encore lorsqu'elle l'avait prononcé dans son sommeil.
+
+À cette onde de vent.
+
+À cette sensation si particulière.
+
+Comment aurait-elle pu imaginer tout cela avec autant de précision ?
+
+Et si ce n'était pas une simple coïncidence ?
+
+Elle pensa soudainement aux deux autres scènes.
+
+Son sourire disparut.
+
+### **IV. Le charme de Ray**
+
+Quelques jours plus tard, à l'issue d'une expédition, les chasseurs prirent un moment pour se reposer.
+
+Ray, qui les avait accompagnées cette fois-ci, retira ses lunettes pour s'essuyer le visage.
+
+Yoon l'observa quelques instants.
+
+— Tu sais, Ray, tu es vraiment beau sans tes lunettes.
+
+Le jeune homme leva les yeux vers elle.
+
+— Pardon ?
+
+— Quoi ? Je dis simplement ce que je pense.
+
+Ray devint écarlate.
+
+Hasol éclata de rire, rapidement imitée par Samia.
+
+— Regarde-le ! s'amusa Yoon. Il est presque de la même couleur que nos tenues !
+
+— Merci, Yoon…
+
+Ray remit précipitamment ses lunettes.
+
+— Oh, dommage ! ajouta-t-elle.
+
+— Tu devrais arrêter de l'embêter, intervint Hasol, incapable de dissimuler son amusement.
+
+— Très bien. Mais tu ne vas pas me dire que j'ai tort ?
+
+Hasol regarda Ray.
+
+Celui-ci semblait désormais regretter de s'être arrêté auprès des trois jeunes femmes.
+
+— Je vais m'abstenir de répondre.
+
+— Voilà qui est intéressant, remarqua Samia.
+
+— Mais vous allez me laisser tranquille, oui ?
+
+Les trois jeunes femmes éclatèrent de rire.
+
+Ray finit par sourire à son tour.
+
+— Hasol, on se retrouve à la bibliothèque ce soir ?
+
+— Comme prévu !
+
+— Parfait. J'ai quelques idées concernant tes futurs cercles de mana.
+
+Yoon adressa un regard amusé à Samia.
+
+Ray fit semblant de ne pas le remarquer.
+
+### **V. Les trente-six cercles**
+
+Lorsque Ray arriva à la bibliothèque, Samia occupait sa place habituelle.
+
+Hasol lui adressa un signe de la main.
+
+— Installe-toi !
+
+Ray posa ses ouvrages sur la table et prit place à côté d'elle.
+
+Samia referma le livre qu'elle consultait.
+
+— Je vais vous laisser à vos passionnantes discussions sur les runes.
+
+— Tu pourrais rester, proposa Hasol.
+
+— Et vous écouter débattre pendant deux heures pour savoir s'il vaut mieux augmenter ton Attaque ou ta Puissance arcanique ?
+
+— Ce sont des questions importantes !
+
+— Je n'en doute pas.
+
+Samia se leva.
+
+— Bonne soirée, vous deux.
+
+— Bonne soirée !
+
+Ray attendit qu'elle se soit éloignée avant de sortir une feuille de son carnet.
+
+— Alors, ces trente-six cercles…
+
+Hasol se pencha immédiatement vers lui.
+
+— Tu as trouvé quelque chose ?
+
+— J'ai surtout réfléchi à ce que tu possèdes déjà.
+
+Il inscrivit les différents ensembles sur la feuille.
+
+### **Équipement runique actuel**
+
+32 cercles de mana
+
+Vol de vie
+
+8 runes
+
+2 ensembles
+
+Arcanique
+
+8 runes
+
+2 ensembles
+
+Vitesse
+
+8 runes
+
+2 ensembles
+
+Énergie
+
+2 runes
+
+1 ensemble
+
+Gardien
+
+2 runes
+
+1 ensemble
+
+Fatal
+
+4 runes
+
+1 ensemble
+
+— Tes deux ensembles Vol de vie te permettent déjà de récupérer une quantité importante de points de vie, poursuivit Ray. Mais cette récupération dépend des dégâts que tu infliges.
+
+— Exactement.
+
+— Alors pourquoi ne pas ajouter un deuxième ensemble Fatal ?
+
+Hasol réfléchit quelques instants.
+
+— Pour améliorer mon vol de vie ?
+
+— Oui. Tu augmentes ton Attaque avec le bonus d'ensemble, mais rien ne t'empêche de rechercher également de la Puissance arcanique sur ces quatre nouvelles runes.
+
+Il désigna les notes qu'il venait d'inscrire.
+
+### **Ensemble supplémentaire envisagé**
+
+Fatal
+
+**4 runes**
+
+Statistiques principales recherchées
+
+**Attaque**
+
+**Puissance arcanique**
+
+Statistiques secondaires visées
+
+**Attaque · Puissance arcanique**
+
+— Tu augmenterais ainsi les dégâts de ton épée et de tes compétences magiques. Et plus tu infligeras de dégâts, plus tu récupéreras de vie.
+
+— Sans avoir à sacrifier mes ensembles actuels…
+
+— Voilà.
+
+Hasol sourit.
+
+— J'aime beaucoup cette idée.
+
+— Je m'en doutais.
+
+Elle récupéra la feuille et commença à y ajouter quelques annotations.
+
+— Tu sais, Ray, avec le nombre de cercles que tu possèdes, tu devrais également commencer à réfléchir davantage à tes propres ensembles.
+
+— Je le fais.
+
+— Pas autant qu'aux miens.
+
+— Il faut dire que tu m'offres beaucoup plus de possibilités.
+
+Hasol rit.
+
+— Tu as tout de même énormément de cercles pour un Mage de feu.
+
+— Et toi, tu en as tellement que je commence à manquer de place sur mes feuilles.
+
+Ils poursuivirent leur discussion.
+
+Ray lui présenta plusieurs combinaisons de statistiques, puis retira ses lunettes pour se frotter les yeux.
+
+Il les posa sur la table.
+
+Hasol tourna la tête vers lui.
+
+Elle repensa à la remarque de Yoon.
+
+Un sourire amusé se dessina sur ses lèvres.
+
+Elle ouvrit la bouche.
+
+*C'est vrai que sans lunettes, tu as beaucoup de charme. Les lentilles, c'est pour quand ?*
+
+Les mots lui revinrent avec une précision terrifiante.
+
+Elle se figea.
+
+Ray était assis à côté d'elle.
+
+Ses lunettes étaient posées sur la table.
+
+Devant eux se trouvait une feuille sur laquelle figuraient différentes combinaisons de runes pour ses futurs trente-six cercles.
+
+Exactement comme dans son rêve.
+
+— Hasol ?
+
+Elle sentit ses joues s'échauffer.
+
+— Oui ?
+
+— Tu voulais me dire quelque chose ?
+
+— Non… Rien.
+
+Ray la regarda quelques instants.
+
+Puis il sourit timidement et remit ses lunettes.
+
+Hasol détourna les yeux.
+
+Elle entendait encore la voix de Yoon.
+
+Elle comprenait maintenant pourquoi elle aurait pu prononcer cette phrase.
+
+Une simple plaisanterie.
+
+Mais comment avait-elle pu rêver de cette conversation plusieurs mois auparavant ?
+
+Ray, quant à lui, avait une tout autre interprétation de son silence.
+
+Il contempla discrètement la jeune femme.
+
+Elle n'avait jamais rougi de cette manière en sa présence.
+
+Il baissa les yeux vers ses notes, incapable de dissimuler complètement son sourire.
+
+Hasol ne le remarqua pas.
+
+Elle ne pensait déjà plus à la bibliothèque.
+
+Elle pensait à une forêt.
+
+À un arbre.
+
+À un bâton enflammé.
+
+Deux de ses trois rêves venaient de se réaliser.
+
+### **VI. Une confidence nocturne**
+
+Lorsqu'Hasol rentra chez elle, Iseria était encore installée dans le salon.
+
+— Tu rentres tard, ma chérie.
+
+— J'étais à la bibliothèque avec Ray.
+
+— Vous avez trouvé quelque chose d'intéressant ?
+
+Hasol ne répondit pas immédiatement.
+
+Elle retira ses chaussures et vint s'asseoir auprès de sa mère.
+
+— Maman… Est-ce que tu crois qu'il est possible de voir l'avenir dans ses rêves ?
+
+Iseria releva les yeux.
+
+— Pourquoi cette question ?
+
+Hasol hésita.
+
+Elle n'avait parlé de ses rêves à personne depuis cette étrange nuit.
+
+— Il y a plusieurs mois, j'ai fait trois rêves. Le lendemain du jour où tu nous as offert nos nouvelles tenues.
+
+Iseria posa ce qu'elle tenait entre les mains.
+
+— Je t'écoute.
+
+Hasol lui raconta son premier rêve.
+
+Elle lui expliqua comment elle avait découvert Siphon runique en atteignant le niveau quarante, alors qu'elle connaissait déjà le nom et les effets de cette compétence.
+
+Elle lui parla ensuite de la bibliothèque.
+
+Des trente-six cercles de mana.
+
+De Ray, assis à côté d'elle.
+
+De ses lunettes posées sur la table.
+
+— Et aujourd'hui, tout s'est passé exactement comme dans mon rêve.
+
+Iseria demeura silencieuse quelques instants.
+
+— Et le troisième ?
+
+Hasol baissa les yeux.
+
+— C'est celui qui me fait peur.
+
+Elle lui décrivit le loup alpha, ses deux coups d'épée et la silhouette de Ray au pied de l'arbre.
+
+Sa voix devint progressivement plus faible.
+
+— Il ne bougeait pas, maman.
+
+Iseria posa délicatement une main sur celle de sa fille.
+
+— Tu es certaine qu'il était blessé ?
+
+— Je ne sais pas… Mais il ne bougeait pas. Même lorsque je courais vers lui.
+
+Hasol serra les doigts de sa mère.
+
+— Si les deux premiers rêves se sont réalisés, qu'est-ce qui me garantit que le dernier ne se réalisera pas lui aussi ?
+
+— Rien ne t'oblige à considérer chacun de tes rêves comme une certitude.
+
+— Mais comment pourrais-je faire comme si je n'avais rien vu ?
+
+Iseria ne répondit pas.
+
+Hasol resta silencieuse un moment avant de reprendre.
+
+— Tu sais ce qui s'est passé à la bibliothèque ?
+
+— Dis-moi.
+
+— Quand Ray a retiré ses lunettes, je n'ai pas réussi à lui parler. J'étais tellement perturbée que je me suis mise à rougir.
+
+Iseria esquissa un sourire.
+
+— Et cela t'inquiète ?
+
+— Ce n'est pas aussi simple.
+
+Hasol ramena ses jambes contre elle.
+
+— Depuis quelque temps, je pense énormément à lui. J'ai envie de le voir, de passer davantage de temps avec lui… Quand il part chasser avec ses compagnons, je ne peux pas m'empêcher de m'inquiéter.
+
+Elle marqua une pause.
+
+— Mais je ne sais pas pourquoi.
+
+— Comment cela ?
+
+— Maman… Je ne sais même plus ce que je ressens réellement pour lui. Depuis que j'ai fait ces cauchemars, je suis davantage obsédée par mes rêves que par les souvenirs que nous partageons.
+
+Elle sentit les larmes lui monter aux yeux.
+
+— Est-ce que j'ai envie d'être avec lui parce que je suis amoureuse ? Ou simplement parce que j'ai peur qu'il lui arrive quelque chose ?
+
+Iseria attira doucement sa fille contre elle.
+
+— Ma chérie, il est tout à fait normal de s'inquiéter pour l'être qui nous est le plus proche.
+
+Hasol posa sa tête contre son épaule.
+
+— Mais si je me trompe sur mes sentiments ?
+
+— Depuis combien de temps connais-tu Ray ?
+
+— Des années.
+
+— Et depuis combien de temps aimes-tu passer tes soirées à discuter avec lui ?
+
+Hasol ne répondit pas.
+
+— Bien avant ces rêves, n'est-ce pas ?
+
+— Oui…
+
+— Alors ne laisse pas quelques mauvais rêves effacer tous les souvenirs heureux que vous avez construits ensemble.
+
+Iseria caressa doucement les cheveux de sa fille.
+
+— La peur de perdre quelqu'un n'efface pas les sentiments que nous éprouvons pour lui. Et tu n'es pas obligée de comprendre immédiatement tout ce que tu ressens.
+
+— Tu crois ?
+
+— J'en suis certaine.
+
+Hasol ferma les yeux.
+
+Elle resta longuement blottie contre sa mère.
+
+Elles discutèrent encore un peu, puis les réponses d'Hasol devinrent de plus en plus espacées.
+
+Elle finit par s'endormir.
+
+Iseria déposa délicatement un coussin sous sa tête et la recouvrit d'une couverture.
+
+Elle observa sa fille pendant plusieurs minutes.
+
+Son sourire avait disparu.
+
+Lorsqu'elle fut convaincue qu'Hasol dormait profondément, elle se leva et se dirigea vers le vaisselier.
+
+Elle actionna un mécanisme dissimulé.
+
+Le meuble se déplaça lentement, dévoilant un passage vers une pièce obscure.
+
+— Maman… Tu vas où ?
+
+Iseria se figea.
+
+Hasol avait entrouvert les yeux.
+
+— Nulle part, ma chérie. Rendors-toi.
+
+— D'accord…
+
+Hasol referma les yeux.
+
+Sa respiration redevint rapidement régulière.
+
+Iseria demeura devant le passage.
+
+Elle contempla une dernière fois sa fille endormie.
+
+*Pourquoi fallait-il que ma plus jeune fille possède, elle aussi, un don semblable au mien ?*
+
+Elle pénétra dans la pièce obscure.
+
+Le vaisselier reprit silencieusement sa place.
+
+### **VII. Une quatrième tenue écarlate**
+
+Le lendemain matin, Hasol retrouva sa mère.
+
+— Maman, j'aurais besoin d'un service.
+
+— Je t'écoute.
+
+— Est-ce que tu pourrais me procurer une quatrième tenue de chasse ? Du même style que les nôtres.
+
+— Une quatrième ?
+
+— Oui. Une tenue pour un mage offensif. Avec un bâton assorti.
+
+Iseria observa attentivement sa fille.
+
+— Pour Ray ?
+
+— Oui.
+
+Un sourire apparut sur le visage de sa mère.
+
+— Je devrais pouvoir arranger cela.
+
+— Mais cette fois, c'est moi qui paie !
+
+— Pourquoi ?
+
+— Parce que c'est un cadeau que je souhaite lui faire.
+
+Iseria ne put s'empêcher de sourire davantage.
+
+Hasol fronça les sourcils.
+
+— Quoi ?
+
+— Rien, ma chérie.
+
+— Maman…
+
+— Je vais m'en occuper.
+
+— Et tu me diras combien je te dois !
+
+— Bien sûr.
+
+Hasol repartit satisfaite.
+
+Iseria attendit qu'elle ait quitté la pièce avant de laisser échapper un petit rire.
+
+Deux jours plus tard, Iseria invita sa fille à découvrir les équipements.
+
+Hasol resta émerveillée devant le résultat.
+
+Comme leurs propres tenues, celle de Ray associait le rouge écarlate, le noir et de magnifiques ornements dorés.
+
+Le bâton avait été conçu dans le même esprit.
+
+L'ensemble s'harmonisait parfaitement avec ceux des trois chasseuses.
+
+[Arte IA: The character stands with an aura of r... | KomikoAI](https://images.openai.com/static-rsc-4/bqZqoyaVkRqkE7cwYfWGY8zdJ37N1ZuttVltN6yOW2K-ACM2rCfHTHGRsVxzgxEmFaHR7Js9AlA9igxy0CjHhHXRc_7DQRAraypp6ytkw8zfafrmSOrVKwY85J2nyb12XgNWVDRIUp6GdkflqHmlr7knDacd_LCB6qC-dYM1Zko?purpose=inline)
+
+[Staff of Fire 5e — Caverns & Creatures](https://images.openai.com/static-rsc-4/yJpWIfTfns1-HQ0yFkqtCBG-eD-TsYX4f4zq01HSK_4pXF9xhpTLtRxAZz3sI1o0Dtl0He6LXQjLj5Y-EyZbkdqbk99Uw9Z8LGVuCjV2h-JGT2SUvRSULc0QXcJJ1Ys3O52d94FyOla2iT1taWq1Im-779-LCwMID81165qwcSc?purpose=inline)
+
+[TCGplayer](https://images.openai.com/static-rsc-4/ApqwBYpe03TOUFr_OSwV_GrnjNB06l8L3ia_yjGdZrNLuttb0tEclviF3YRmnfrfhmRfnNGD998qukhFmlxO9gtrgOJ8coDxwCqSuErU_FtVHGp1iGypWE-P9G7-8EhI0-74E5CPWU522M0tBlVG42kQwTqUvbe5b2QKocYPC8Y?purpose=inline)
+
+12
+
+— C'est exactement ce que je souhaitais !
+
+— Tu penses qu'il lui plaira ?
+
+— J'en suis certaine !
+
+Hasol contempla encore quelques instants la tenue avant de se tourner vers sa mère.
+
+— Alors, combien est-ce que je te dois ?
+
+— Rien du tout.
+
+Hasol fronça immédiatement les sourcils.
+
+— Maman, nous en avions parlé !
+
+— Considère cela comme un cadeau.
+
+— Mais c'est mon cadeau pour Ray !
+
+— Et c'est le mien pour toi.
+
+— Ce n'est pas pareil !
+
+Iseria rit.
+
+— Hasol, tu n'as pas besoin de me rembourser.
+
+— Si ! Je gagne suffisamment d'argent maintenant. Je travaille énormément avec Maître Orven, mes expéditions me rapportent beaucoup et je dépense bien moins que ce que je gagne.
+
+— Je le sais.
+
+— Alors laisse-moi payer !
+
+— Non.
+
+Hasol resta bouche bée.
+
+— Maman !
+
+Iseria soupira, toujours amusée.
+
+— Tu tiens vraiment à connaître le prix ?
+
+— Oui !
+
+— Très bien.
+
+Iseria lui annonça le montant.
+
+Hasol cessa immédiatement de parler.
+
+Elle fixa sa mère.
+
+Puis la tenue.
+
+Puis le bâton.
+
+— Attends…
+
+Elle chercha une chaise et s'assit lentement.
+
+— Tu es sérieuse ?
+
+— Tout à fait.
+
+— C'est impossible…
+
+Iseria croisa les bras.
+
+Hasol tenta mentalement de comparer cette somme à ce qu'elle avait gagné depuis le début de son activité artisanale.
+
+Elle abandonna rapidement.
+
+— Il me faudrait plusieurs vies pour réunir une telle somme !
+
+Iseria éclata de rire.
+
+— Alors, souhaites-tu toujours me rembourser ?
+
+Hasol leva les yeux vers elle.
+
+— Ne me dis pas que nos tenues et nos armes ont également coûté aussi cher ?
+
+— À peu de chose près.
+
+Hasol se laissa aller contre le dossier de sa chaise.
+
+— Maman…
+
+Elle repensa soudainement à la garde-robe d'Iseria.
+
+À ces vêtements dont la qualité avait toujours semblé parfaitement ordinaire à ses yeux, simplement parce qu'elle avait grandi en les voyant.
+
+Elle se souvint également de ces nobles qui prenaient régulièrement sa mère pour l'une des leurs.
+
+Et de Yoon qui s'amusait à la surnommer princesse.
+
+— Mais… Comment peux-tu te permettre de dépenser autant ?
+
+— Ne t'inquiète pas pour moi, ma chérie.
+
+— C'est justement ce que tu dis à chaque fois !
+
+Iseria récupéra soigneusement les équipements.
+
+— Tu devrais plutôt réfléchir à la manière dont tu souhaites offrir tout cela à Ray.
+
+Hasol ouvrit la bouche.
+
+Puis la referma.
+
+Sa mère venait une fois encore de détourner la conversation.
+
+Elle observa la magnifique tenue écarlate.
+
+Désormais, elle craignait presque de la toucher.
+
+— Tu ne lui diras pas combien elle coûte, hein ?
+
+— C'était justement ce que j'allais te conseiller.
+
+### **VIII. Cette fois, avec moi**
+
+Ray examina attentivement les deux paquets qu'Hasol venait de déposer devant lui.
+
+— Qu'est-ce que c'est ?
+
+— Ouvre-les !
+
+Il défit le premier emballage.
+
+Lorsqu'il découvrit la tenue écarlate, il resta silencieux.
+
+Hasol attendit sa réaction avec impatience.
+
+— Alors ?
+
+— Hasol… C'est pour moi ?
+
+— Évidemment !
+
+Il souleva délicatement la tenue.
+
+— Elle ressemble aux vôtres.
+
+— C'était l'idée.
+
+Ray contempla les ornements dorés.
+
+Il connaissait suffisamment bien le travail des artisans pour reconnaître la qualité exceptionnelle de cet équipement.
+
+— Ça a dû te coûter…
+
+— Ne pose pas cette question !
+
+Ray leva les yeux vers elle.
+
+Hasol se souvint de sa conversation avec Iseria.
+
+— Enfin… Je veux dire que ce n'est pas important.
+
+— Mais…
+
+— Ouvre le deuxième !
+
+Ray découvrit le bâton.
+
+Son expression changea de nouveau.
+
+— Hasol !
+
+— Tu aimes ?
+
+— Bien sûr que j'aime ! Mais tu ne peux pas m'offrir tout cela sans raison !
+
+Hasol s'assit face à lui.
+
+— Justement, j'ai quelque chose à te proposer.
+
+Ray posa délicatement le bâton.
+
+— Je t'écoute.
+
+— J'aimerais que tu participes à toutes nos expéditions dans les portails.
+
+— Toutes ?
+
+— Oui. Plus seulement de temps en temps.
+
+Il la regarda avec étonnement.
+
+— Et Yoon et Samia sont d'accord ?
+
+— Je leur en ai déjà parlé.
+
+— Mais votre groupe est complet.
+
+— Notre groupe permanent, oui. Pas nos raids. Il suffit de te réserver une place à chaque expédition.
+
+Ray réfléchit quelques instants.
+
+— Vous passez presque tout votre temps dans les portails.
+
+— Exactement.
+
+— Je risque de ne plus avoir beaucoup de temps pour mes autres chasses.
+
+Hasol sentit son cœur battre plus rapidement.
+
+C'était précisément ce qu'elle espérait.
+
+— Ce serait dommage de refuser une telle occasion de progresser, non ?
+
+Ray sourit.
+
+— Tu as raison.
+
+— Alors ?
+
+— J'accepte avec plaisir !
+
+Le soulagement d'Hasol fut immédiat.
+
+Elle ne s'était pas rendu compte à quel point elle avait redouté sa réponse.
+
+— Vraiment ?
+
+— Évidemment ! Entre les portails et nos soirées à la bibliothèque, nous allons finir par passer toutes nos journées ensemble.
+
+Hasol rougit légèrement.
+
+— Ça te dérange ?
+
+— Absolument pas.
+
+Ray contempla de nouveau les équipements.
+
+— Merci, Hasol. Sincèrement.
+
+Elle lui sourit.
+
+Une image lui traversa brièvement l'esprit.
+
+Un arbre aux branches enflammées.
+
+Elle chassa cette pensée.
+
+— Désormais, tu viendras avec moi.
+
+Ray acquiesça.
+
+Pour la première fois depuis plusieurs jours, Hasol se sentit véritablement rassurée.
+
+Elle ignorait quand, où et dans quelles circonstances Ray pourrait rencontrer le loup alpha.
+
+Mais s'il ne partait plus chasser dans les forêts avec ses autres compagnons, cette rencontre n'aurait peut-être jamais lieu.
+
+Elle n'avait pas besoin d'affronter cette créature.
+
+Elle n'avait même pas besoin de la trouver.
+
+Il lui suffisait de garder Ray auprès d'elle.
+
+### **IX. Les quatre écarlates**
+
+Lors de leur expédition suivante, Ray retrouva les trois jeunes femmes devant le portail.
+
+Yoon fut la première à l'apercevoir.
+
+— Oh !
+
+Samia se tourna vers lui.
+
+— Eh bien, nous voilà quatre maintenant.
+
+Ray sourit.
+
+— Qu'en pensez-vous ?
+
+— Magnifique ! répondit Yoon.
+
+Elle se rapprocha d'Hasol et lui murmura quelques mots.
+
+— Tu as très bon goût.
+
+Hasol lui donna un léger coup de coude.
+
+— Arrête.
+
+Yoon éclata de rire.
+
+Les autres chasseurs arrivèrent progressivement.
+
+L'un d'eux s'approcha de Ray.
+
+— Sympa, ta tenue ! Et ton bâton aussi. Ça a dû te coûter une fortune.
+
+— C'est un cadeau d'une amie.
+
+— Eh bien, tu as de la chance !
+
+Le chasseur observa les personnes présentes avant de froncer les sourcils.
+
+— C'est étrange, nous ne sommes que treize. À quelle heure arrivent les autres ?
+
+— Quels autres ?
+
+— Les autres chasseurs du raid. Nous sommes encore loin des cent points, non ?
+
+Ray le regarda avec étonnement.
+
+— Attends… Tu ne connais pas mes coéquipières ?
+
+— Non, c'est la première fois que je participe à un raid avec vous.
+
+Ray désigna successivement les trois jeunes femmes.
+
+— Samia, classe commune. Yoon, classe légendaire. Et Hasol, classe astrale.
+
+Le chasseur resta silencieux quelques secondes.
+
+— Une légendaire et une astrale ? Dans le même raid ?
+
+— Exactement.
+
+— Mais… Vous représentez cinquante-cinq points à vous quatre !
+
+— Voilà. Avec vous neuf, nous sommes à cent.
+
+Composition du raid
+
+# **100 / 100**
+
+Points de raid
+
+# **13**
+
+Chasseurs
+
+**Hasol**
+
+Arcaniste runique
+
+**25 pts**
+
+**Yoon**
+
+Sage runique
+
+**20 pts**
+
+**Samia**
+
+Marcheuse du voile
+
+**5 pts**
+
+**Ray**
+
+Mage de feu
+
+**5 pts**
+
+**9 autres chasseurs**
+
+5 points par chasseur
+
+**45 pts**
+
+Le chasseur observa de nouveau les trois jeunes femmes.
+
+Son regard s'arrêta sur Hasol, qui venait d'enfiler son masque de démon écarlate.
+
+— Attends une seconde… Ce serait elle, l'Astrale sanguinaire ?
+
+— En personne.
+
+— Et tu participes régulièrement à leurs raids ?
+
+— Désormais, oui.
+
+— Décidément, tu en as de la chance…
+
+Ray sourit en regardant Hasol.
+
+— Je commence à le croire.
+
+Les treize chasseurs franchirent le portail.
+
+Pour Ray, cette première expédition avait une saveur particulière.
+
+Il avait déjà combattu aux côtés d'Hasol, de Yoon et de Samia. Pourtant, cette fois-ci, il avait véritablement le sentiment de faire partie de leur aventure.
+
+Sa tenue écarlate attirait les regards.
+
+Il ne tarda cependant pas à découvrir un avantage auquel il n'avait pas pensé.
+
+Lorsqu'un groupe de démons rouges s'approcha des quatre chasseurs, les créatures hésitèrent brièvement.
+
+— Ray ! Maintenant ! lança Hasol.
+
+— Boule de feu !
+
+Le projectile traversa l'espace qui les séparait des monstres et explosa au milieu d'eux.
+
+Hasol profita immédiatement de cette ouverture pour s'élancer.
+
+Samia décocha plusieurs flèches tandis que Yoon soutenait ses compagnons.
+
+Ray observa attentivement les déplacements d'Hasol, attendant qu'elle se trouve suffisamment éloignée des démons avant de lancer son prochain sort.
+
+— Trait incandescent !
+
+Un projectile enflammé atteignit une créature qui s'apprêtait à rejoindre le combat.
+
+Hasol tourna brièvement la tête vers lui.
+
+— Bien joué !
+
+Ray sourit.
+
+Les quatre chasseurs poursuivirent leur progression.
+
+À plusieurs reprises, Hasol se retourna pour vérifier que Ray se trouvait toujours auprès d'eux.
+
+Elle savait parfaitement qu'il était capable de se défendre.
+
+Elle connaissait ses compétences, son intelligence et sa prudence.
+
+Mais elle éprouvait un besoin presque irrésistible de s'assurer qu'il allait bien.
+
+Lorsque l'expédition prit fin, Ray vint naturellement retrouver ses trois nouvelles partenaires de raid.
+
+— Alors, demanda Hasol, prêt à recommencer ?
+
+— Quand vous voulez !
+
+— Demain ? proposa Samia.
+
+Ray rit.
+
+— Je commence à comprendre pourquoi vous progressez aussi vite.
+
+— Tu vas t'habituer, lui assura Yoon.
+
+Hasol retira son masque.
+
+Elle était heureuse.
+
+Ray était là.
+
+Et demain, il serait encore avec elle.
+
+### **X. Les secrets de deux mères**
+
+Quelques jours plus tard, Iseria retrouva Irène Corvus.
+
+Les deux femmes se connaissaient depuis de nombreuses années et avaient régulièrement l'occasion de discuter de leurs enfants.
+
+Mais cette fois-ci, Iseria avait quelque chose de particulièrement intéressant à lui raconter.
+
+— Tu aurais dû voir Hasol l'autre jour !
+
+— Pourquoi ? demanda Irène.
+
+— Elle est venue me demander une tenue de chasse et un bâton pour Ray.
+
+— Il me les a montrés ! Ils sont magnifiques. Je voulais justement te remercier.
+
+— Ce qui est amusant, c'est qu'elle voulait absolument les payer elle-même.
+
+Irène haussa les sourcils.
+
+— Vraiment ?
+
+— Elle s'est presque disputée avec moi lorsque j'ai refusé son argent.
+
+— Cela ne m'étonne pas d'elle.
+
+— Il a fallu que je lui révèle le prix pour qu'elle abandonne.
+
+Irène éclata de rire.
+
+— La pauvre !
+
+— Elle a dû s'asseoir.
+
+Les deux femmes rirent ensemble.
+
+— Mais ce n'est pas tout, poursuivit Iseria. Elle souhaite désormais que Ray participe à toutes leurs expéditions.
+
+Irène sourit.
+
+— Oui, il m'en a parlé. Je ne l'avais pas vu aussi enthousiaste depuis longtemps.
+
+Iseria se pencha légèrement vers elle.
+
+— Je crois que nos enfants commencent sérieusement à s'apprécier.
+
+— Commencent ?
+
+Irène lui adressa un regard malicieux.
+
+— Tu sais que Ray s'est rendu dans notre atelier d'orfèvrerie pour commander un anneau runique ?
+
+Iseria ouvrit de grands yeux.
+
+— Pour Hasol ?
+
+— Pour qui d'autre ?
+
+— Oh !
+
+— Et il a demandé qu'on l'orne d'un diamant.
+
+Iseria porta une main à sa bouche, incapable de dissimuler son enthousiasme.
+
+— Un diamant ?
+
+— Oui. Il accorde énormément d'importance à cette commande.
+
+— Il ne lui en a pas encore parlé ?
+
+— Pas à ma connaissance. Et j'espère que tu ne lui diras rien !
+
+— Évidemment !
+
+Iseria réfléchit quelques instants.
+
+— Tu imagines ? Hasol, qui se dispute avec moi pour payer les équipements de Ray, pendant que ton fils commande un anneau spécialement pour elle…
+
+Irène sourit tendrement.
+
+— Ils nous en auront fait attendre, ces deux-là.
+
+— Beaucoup trop longtemps !
+
+Les deux mères éclatèrent de rire.
+
+Elles poursuivirent leur conversation, imaginant les différentes manières dont Ray pourrait offrir son cadeau.
+
+Ni l'une ni l'autre ne souhaitait précipiter les choses.
+
+Mais toutes deux attendaient désormais avec impatience le jour où leurs enfants viendraient leur annoncer une heureuse nouvelle.
+
+### **XI. Un avenir différent**
+
+Les mois suivants furent particulièrement riches en expéditions.
+
+Ray découvrit rapidement les avantages d'une fréquentation aussi intensive des portails.
+
+Avec Hasol, Yoon et Samia, il affrontait bien davantage de créatures que lors de ses chasses habituelles.
+
+Les occasions de progresser se multipliaient.
+
+Un soir, alors qu'Hasol l'attendait à la bibliothèque, Ray arriva avec un large sourire.
+
+— J'ai quelque chose à te montrer !
+
+— Une nouvelle rune ?
+
+— Pour une fois, non.
+
+Il s'assit devant elle.
+
+— Niveau trente !
+
+— Déjà ?
+
+Ray acquiesça fièrement avant de lui présenter sa nouvelle compétence.
+
+Nouvelle compétence · Niveau 30
+
+## **Mur de flammes**
+
+Compétence active · Feu
+
+Crée une ligne de flammes temporaire permettant de contrôler une partie du terrain.
+
+Les flammes ne constituent pas un obstacle physique et peuvent également blesser les alliés qui les traversent.
+
+Hasol examina attentivement la description.
+
+— Ça pourrait être particulièrement intéressant contre les groupes de démons.
+
+— C'est ce que je pensais. Je pourrais les obliger à contourner certaines zones.
+
+— Ou les inciter à se regrouper !
+
+Ray la regarda.
+
+— Pour Aura runique ?
+
+Hasol sourit.
+
+— Tu commences à vraiment bien me connaître.
+
+— Il serait difficile de ne pas y penser.
+
+Dès leur expédition suivante, ils expérimentèrent ensemble les possibilités offertes par cette nouvelle compétence.
+
+Ray dressa un mur de flammes à proximité d'un groupe de démons.
+
+Plusieurs créatures modifièrent leur trajectoire pour éviter le feu.
+
+Hasol profita de leur regroupement.
+
+— Aura runique !
+
+Une explosion retentit.
+
+Lorsque les dernières flammes se dissipèrent, Ray observa le résultat.
+
+— Je crois que ça fonctionne plutôt bien.
+
+— Plutôt bien ? répéta Hasol avec enthousiasme. C'est excellent !
+
+Les expéditions se poursuivirent.
+
+Zio les accompagna à quelques reprises lorsque ses disponibilités le lui permettaient, sans pour autant abandonner son propre groupe.
+
+Ray, lui, ne manquait pratiquement aucun de leurs raids.
+
+Il avait progressivement délaissé les chasses classiques.
+
+Ses anciens compagnons comprenaient parfaitement son choix. Peu de chasseurs avaient la possibilité de participer aussi régulièrement aux expéditions d'une Astrale et d'une Légendaire.
+
+Et Ray n'avait aucune intention de renoncer à une telle occasion.
+
+Sa progression s'accéléra.
+
+Lorsqu'il atteignit le niveau quarante, Hasol fut une nouvelle fois la première personne à laquelle il souhaita présenter ses nouvelles compétences.
+
+Nouvelles compétences · Niveau 40
+
+## **Déflagration**
+
+Compétence active · Feu
+
+Provoque une explosion de feu autour d'un point visible.
+
+Son incantation est plus exigeante que celle des sorts à projectile.
+
+## **Combustion maîtrisée**
+
+Compétence passive
+
+Réduit les pertes de Mana lors de l'utilisation des sorts de feu.
+
+— Enfin ! s'exclama Ray.
+
+Hasol releva les yeux.
+
+— Tu attendais une compétence particulière ?
+
+— Un moyen de mieux gérer ma consommation de mana. Même si je vais devoir continuer à surveiller mes réserves, ça devrait me permettre de tenir plus longtemps.
+
+— Et Déflagration ?
+
+Ray sourit.
+
+— J'ai hâte de l'essayer.
+
+Il n'eut pas à attendre longtemps.
+
+Lors de leur expédition suivante, Yoon ralentit un rassemblement de démons grâce à son Domaine des Entraves runiques.
+
+Ray attendit qu'Hasol s'écarte des créatures.
+
+Il pointa son bâton dans leur direction.
+
+— Déflagration !
+
+Une violente explosion de feu illumina les environs.
+
+Samia tourna immédiatement la tête vers lui.
+
+— Eh bien !
+
+— Pas mal, hein ?
+
+— Préviens-moi avant de faire ça à côté de moi !
+
+— C'était justement pour cette raison que j'ai attendu qu'Hasol s'éloigne.
+
+Hasol acheva l'un des démons encore debout.
+
+— On devrait essayer de combiner Déflagration avec Aura runique !
+
+Samia soupira.
+
+— Ils se sont bien trouvés, ces deux-là…
+
+Yoon éclata de rire.
+
+De son côté, Hasol poursuivait sa croissance runique.
+
+Lorsqu'elle disposa enfin de trente-six cercles de mana, elle concrétisa le projet qu'elle avait élaboré avec Ray à la bibliothèque.
+
+Quatre nouvelles runes Fatal vinrent compléter son équipement.
+
+Elle avait consacré de nombreuses heures à rechercher des pièces possédant les statistiques qu'ils avaient sélectionnées ensemble.
+
+Attaque.
+
+Puissance arcanique.
+
+Elle s'était montrée particulièrement exigeante concernant leurs statistiques secondaires.
+
+Équipement runique
+
+# **36 / 36**
+
+Bonus d'ensemble actifs
+
+# **10**
+
+Vol de vie
+
+8 runes · 2 ensembles
+
+Arcanique
+
+8 runes · 2 ensembles
+
+Vitesse
+
+8 runes · 2 ensembles
+
+Énergie
+
+2 runes · 1 ensemble
+
+Gardien
+
+2 runes · 1 ensemble
+
+Fatal
+
+8 runes · 2 ensembles
+
+Les résultats confirmèrent les attentes de Ray.
+
+En augmentant les dégâts qu'elle infligeait, Hasol améliorait également la quantité de points de vie récupérée grâce à ses ensembles Vol de vie.
+
+— Tu avais raison ! lui annonça-t-elle après une expédition.
+
+— Concernant quoi ?
+
+— Le deuxième ensemble Fatal !
+
+— Ah !
+
+— La différence est vraiment intéressante.
+
+— Je suis heureux de l'apprendre.
+
+Hasol lui adressa un large sourire.
+
+— Qu'est-ce que je ferais sans toi ?
+
+Ray la regarda quelques instants.
+
+— Tu trouverais probablement quelqu'un d'autre pour remplir des centaines de feuilles de calcul.
+
+— Certainement pas !
+
+Elle lui donna un léger coup d'épaule.
+
+— Tu es irremplaçable.
+
+Ray devint silencieux.
+
+Hasol, qui examinait déjà ses notes, ne remarqua pas son expression.
+
+Le temps continua de s'écouler.
+
+Ray atteignit finalement le niveau cinquante.
+
+Une nouvelle fois, il vint présenter sa compétence à Hasol.
+
+Nouvelle compétence · Niveau 50
+
+## **Fournaise**
+
+Compétence active · Feu
+
+Crée une zone de flammes intenses maintenue par la concentration du lanceur.
+
+Le maintien de la compétence entraîne une consommation continue de Mana et limite ses autres possibilités d'action.
+
+— Une nouvelle compétence de zone ! s'enthousiasma Hasol.
+
+— Oui, mais elle risque d'être particulièrement gourmande en mana.
+
+— Nous allons trouver le moyen de l'exploiter.
+
+— Je n'en doute pas.
+
+Ray rangea son carnet.
+
+— Tu sais, je n'aurais jamais imaginé atteindre le niveau cinquante aussi rapidement.
+
+— Tu te débrouilles vraiment bien.
+
+— Grâce aux portails.
+
+Il regarda Hasol.
+
+— Et grâce à toi.
+
+Elle lui sourit.
+
+— Tu as travaillé autant que nous.
+
+— Peut-être. Mais sans ton invitation, je serais probablement encore en train de chasser avec mes anciens compagnons.
+
+Hasol sentit son sourire se figer brièvement.
+
+Elle pensa au loup alpha.
+
+Voilà bien longtemps que Ray n'avait pas participé à une chasse en forêt.
+
+Ses journées étaient désormais rythmées par les portails, les moments de repos et leurs recherches à la bibliothèque.
+
+Il ne semblait nullement regretter son ancienne vie de chasseur.
+
+Hasol baissa les yeux.
+
+Elle ignorait si le danger était définitivement écarté.
+
+Elle ignorait même si ce qu'elle avait aperçu dans son rêve aurait réellement pu se produire.
+
+Mais Ray était vivant.
+
+Il progressait.
+
+Il était heureux.
+
+Et cela lui suffisait.
+
+### **XII. Le cœur et la raison**
+
+— On devrait aller manger quelque chose, proposa Ray.
+
+Hasol releva la tête.
+
+— Tu as terminé tes recherches ?
+
+— Non.
+
+— Alors pourquoi veux-tu partir ?
+
+— Parce que tu n'as pas quitté cette chaise depuis des heures.
+
+Hasol regarda autour d'elle.
+
+La bibliothèque s'était progressivement vidée.
+
+— Il est si tard que ça ?
+
+— Oui.
+
+Elle referma son carnet.
+
+— Très bien. Mais c'est toi qui choisis où nous allons.
+
+— Avec plaisir.
+
+Ils quittèrent ensemble la bibliothèque.
+
+Les rues étaient encore animées malgré l'heure.
+
+Hasol marchait tranquillement aux côtés de Ray, profitant de la douceur de la soirée.
+
+Ils discutèrent de leurs prochaines expéditions, puis d'une mésaventure survenue quelques jours auparavant.
+
+Ray avait accidentellement laissé Yoon terminer une histoire particulièrement embarrassante à son sujet devant plusieurs chasseurs.
+
+Hasol riait encore en y repensant.
+
+— Tu aurais pu l'interrompre !
+
+— As-tu déjà essayé d'interrompre Yoon lorsqu'elle a décidé de raconter quelque chose ?
+
+— C'est vrai que c'est compliqué.
+
+— Voilà.
+
+Ils trouvèrent finalement un endroit où dîner.
+
+La conversation se poursuivit naturellement.
+
+Pour une fois, Hasol ne sortit ni son carnet ni ses notes sur les runes.
+
+Elle écouta simplement Ray lui parler.
+
+De sa famille.
+
+De son enfance.
+
+De certaines de ses premières chasses.
+
+Elle connaissait déjà une partie de ces histoires, mais éprouvait toujours autant de plaisir à les entendre.
+
+À plusieurs reprises, elle se surprit à l'observer.
+
+Il avait beaucoup changé depuis leur première rencontre.
+
+Elle le trouvait beau.
+
+Elle aimait sa manière de sourire lorsqu'il lui présentait une nouvelle compétence.
+
+Elle aimait son enthousiasme lorsqu'ils découvraient ensemble une combinaison runique intéressante.
+
+Elle aimait même ces longues discussions durant lesquelles il insistait pour qu'elle envisage d'autres possibilités que celles auxquelles elle avait initialement pensé.
+
+Lorsqu'ils quittèrent l'établissement, Hasol n'avait aucune envie de rentrer.
+
+— On marche encore un peu ? proposa-t-elle.
+
+— Bien sûr.
+
+Ils poursuivirent leur promenade.
+
+Leurs épaules se frôlèrent à plusieurs reprises.
+
+Ray aurait aimé lui prendre la main.
+
+Il hésita.
+
+Puis il décida d'attendre.
+
+Il avait encore quelque chose à préparer.
+
+Hasol, elle, se sentait parfaitement heureuse.
+
+Elle aurait voulu que toutes leurs soirées ressemblent à celle-ci.
+
+Plus tard, alors qu'elle se trouvait seule dans sa chambre, elle repensa à leur promenade.
+
+Elle sourit en se remémorant certaines de leurs conversations.
+
+Puis elle se souvint de la bibliothèque.
+
+De ces lunettes posées sur la table.
+
+De la phrase qu'elle n'avait jamais prononcée.
+
+Elle repensa également aux paroles de sa mère.
+
+*Ne laisse pas quelques mauvais rêves effacer tous les souvenirs heureux que vous avez construits ensemble.*
+
+Hasol s'allongea sur son lit.
+
+Depuis qu'elle avait invité Ray à participer systématiquement à leurs raids, elle n'avait jamais regretté sa décision.
+
+Pas une seule fois.
+
+Pourtant, une question persistait.
+
+Si elle n'avait jamais fait ce cauchemar, aurait-elle demandé à sa mère de lui procurer cette tenue et ce bâton ?
+
+L'aurait-elle invité à passer toutes ses journées auprès d'elle ?
+
+Aurait-elle éprouvé les mêmes sentiments ?
+
+Elle n'en savait rien.
+
+Et cette incertitude la rendait malheureuse.
+
+Ray méritait quelqu'un qui l'aimait sincèrement.
+
+Pas quelqu'un qui cherchait simplement à le protéger d'un avenir qu'elle avait aperçu dans son sommeil.
+
+Hasol ferma les yeux.
+
+Elle revit son sourire lorsqu'elle lui avait offert ses équipements.
+
+Sa joie lorsqu'il avait atteint le niveau cinquante.
+
+Le plaisir qu'elle avait éprouvé à passer cette soirée avec lui, sans penser une seule fois aux portails, à sa progression ou à ses runes.
+
+Elle aurait aimé pouvoir se contenter de ces souvenirs.
+
+Elle aurait aimé ne jamais avoir fait ces rêves.
+
+Alors, peut-être, aurait-elle simplement pu tomber amoureuse.
+
+Le lendemain, Ray l'attendait à la bibliothèque.
+
+Lorsqu'elle l'aperçut, Hasol sourit instinctivement.
+
+Il lui adressa un signe de la main.
+
+— Hasol !
+
+Elle s'approcha de leur table.
+
+— Tu es arrivé tôt aujourd'hui.
+
+— J'avais envie de te voir.
+
+La simplicité de cette réponse la fit rougir.
+
+Ray sourit.
+
+Hasol prit place devant lui.
+
+La chaise n'était pas vide.
+
+Elle sortit son carnet et le posa sur la table.
+
+— Alors, qu'est-ce qu'on étudie aujourd'hui ?
+
+Ray lui présenta un ouvrage qu'il avait découvert le matin même.
+
+Elle se pencha vers lui.
+
+Ils passèrent une nouvelle journée ensemble.
+
+Et lorsqu'elle riait à ses côtés, Hasol oubliait parfois jusqu'à l'existence de ses cauchemars.
+
+Elle était simplement heureuse d'être avec lui.
+
+Peut-être était-ce cela, au fond, la seule réponse dont elle avait besoin.
+
+Mais elle n'en était pas encore certaine.
+
+**Fin du chapitre 4.**
+
+## **Notes de rédaction — Hors manuscrit**
+
+Cette première version reprend les douze sections validées dans `27_11_2026.txt`, ainsi que nos dernières décisions.
+
+J'ai volontairement laissé certains éléments ouverts pour notre relecture :
+
+- Les ellipses restent exprimées en mois, sans imposer d'âges ou de dates précises.
+- Aucun prix ni aucune monnaie n'est révélé.
+- Les caractéristiques au point de sauvegarde et les compteurs runiques ne sont pas présentés.
+- Les nouveaux sorts de Ray sont introduits aux niveaux 30, 40 et 50, sans inventer leurs coefficients.
+- Ray ne rencontre jamais le loup alpha.
+- La déclaration amoureuse et le cadeau de l'Anneau runique sont réservés au chapitre 5.
+
+Les dialogues et les scènes intermédiaires constituent mes propositions rédactionnelles. Les fenêtres sont provisoires, et les visuels définitifs devront reprendre les références du dépôt. Aucun fichier du dépôt n'a été modifié.
+
+Le principal fil conducteur que j'ai voulu conserver est l'ironie de cette troisième vie : les souvenirs de la mort de Ray permettent à Hasol de lui sauver la vie, tout en compliquant la naissance de leur histoire d'amour.
+
+entre chaque vision elle se reveille , ou change de position dans le lit , ou autre idée
+Je préfère qu'Hasol se réveille brièvement entre chaque vision. Cela permet de distinguer clairement les différents rêves et de rendre sa nuit progressivement plus agitée.
+
+Je propose les transitions suivantes :
+
+**Après la vision de Siphon runique :**
+
+Hasol entrouvrit les yeux.
+
+— Siphon runique… murmura-t-elle.
+
+Encore à moitié endormie, elle se retourna dans son lit et remonta sa couverture jusqu'aux épaules.
+
+Quelques instants plus tard, elle dormait de nouveau.
+
+**Après la vision de la bibliothèque :**
+
+Hasol ouvrit lentement les yeux.
+
+Elle fixa le plafond de sa chambre.
+
+— Ray, sans lunettes… N'importe quoi…
+
+Un léger sourire se dessina sur ses lèvres.
+
+Elle enfouit son visage dans son oreiller avant de se rendormir.
+
+**Après la vision du combat contre le loup alpha :**
+
+Hasol se réveilla brusquement.
+
+Son cœur battait rapidement.
+
+— Un loup alpha…
+
+Elle se redressa, attrapa le verre d'eau posé sur sa table de chevet et en but quelques gorgées.
+
+— C'est vraiment n'importe quoi… Comme si j'étais capable de tuer un loup alpha en deux coups d'épée !
+
+Elle reposa son verre et s'allongea de nouveau.
+
+Il lui fallut cette fois plusieurs minutes pour retrouver le sommeil.
+
+**Le cauchemar — Ray au pied de l'arbre :**
+
+Hasol courait.
+
+Au pied d'un arbre dont certaines branches brûlaient encore se trouvait une silhouette immobile.
+
+Des lunettes.
+
+Un bâton dont le sommet était toujours enflammé.
+
+Ray.
+
+— RAY !
+
+Hasol se redressa brutalement dans son lit, le souffle court et le visage couvert de sueur.
+
+Les premières lueurs du jour traversaient les rideaux de sa chambre.
+
+Cette fois, elle ne parvint pas à se rendormir.
+
+Cela justifie également le titre de la première section : **« Trois rêves et un cauchemar »**.
+
+La vision du combat contre le loup alpha et celle de Ray au pied de l'arbre deviennent deux fragments distincts. Hasol ne fait donc pas immédiatement le lien entre les deux, ce qui rend ses visions encore plus mystérieuses.
+
+voila je prefere
+
+Validé. On conserve cette nouvelle structure pour l'ouverture du chapitre 4.
+
+Les quatre visions sont désormais séparées par des réveils nocturnes, avec une intensité émotionnelle croissante :
+
+1. **Siphon runique** — Curiosité, réveil à peine conscient.
+2. **Ray à la bibliothèque** — Amusement, léger sourire.
+3. **Le combat contre le loup alpha** — Incrédulité, elle se redresse et boit un verre d'eau.
+4. **Ray au pied de l'arbre** — Terreur, réveil brutal aux premières lueurs du jour.
+
+Hasol ne fait pas immédiatement le lien entre les deux dernières visions.
+
+Le titre **« Trois rêves et un cauchemar »** prend ainsi tout son sens.
+
+On intègre cette correction à la version de travail du chapitre 4. Le reste demeure inchangé pour l'instant.
+
+— Je récupère du mana en infligeant des dégâts. Jusqu'à mille deux cents points toutes les vingt secondes. la phrase n'est pas naturel ne pas donnée de chiffre juste une explication
+
+Je remplacerais le passage par :
+
+— Alors ? demanda Yoon.
+
+— Je récupère du mana en infligeant des dégâts aux ennemis qui m'entourent. Plus ils sont nombreux, plus j'en récupère !
+
+— Oh non… murmura Samia.
+
+Hasol se tourna vers elle.
+
+— Quoi ?
+
+— Tu vas encore nous demander de trouver davantage de monstres.
+
+Yoon éclata de rire.
+
+**On conserve les valeurs chiffrées dans la fenêtre de compétence, mais pas dans les dialogues.** Hasol explique naturellement l'intérêt de son nouveau sort sans réciter sa description.
+
+j'aimerais que le nombre de vision totale soit inferieur a 9 . iseria en a utilisé 3 - elle transfert le pouvoir de la rune vision a son enfant hasol --> hasol en utilise 9 la rune de vision disparait
+
+Je propose que la **Rune de Vision dispose de douze utilisations non renouvelables**.
+
+### **Fonctionnement de la Rune de Vision**
+
+| Événement                                 | Visions consommées | Visions restantes |
+| ----------------------------------------- | ------------------ | ----------------- |
+| Obtention par Iseria                      | 0                  | 12                |
+| Utilisations par Iseria                   | 3                  | 9                 |
+| Transmission du pouvoir à Hasol           | 0                  | 9                 |
+| Trois rêves et un cauchemar du chapitre 4 | 4                  | 5                 |
+| Futures visions d'Hasol                   | 5                  | 0                 |
+| Disparition définitive de la rune         | —                  | 0                 |
+
+Iseria ne transmet donc pas uniquement le pouvoir de la rune à son enfant, mais également ses utilisations restantes.
+
+### **Conséquences narratives**
+
+- Hasol ne contrôle ni le déclenchement ni le contenu de ses visions.
+- Chaque vision consomme une utilisation, même si elle est très courte.
+- Les réincarnations ne réinitialisent pas le compteur.
+- Les visions ne sont pas nécessairement des événements futurs : elles peuvent être des fragments de ses précédentes existences.
+- Après la neuvième vision d'Hasol, la Rune de Vision disparaît définitivement.
+
+Cela nous laisse **cinq visions disponibles après l'ouverture du chapitre 4**. Il faudra donc les réserver à des événements déterminants de l'histoire.
+
+Je garderais également le nombre d'utilisations totalement inconnu du lecteur jusqu'à la révélation de l'histoire de la Rune de Vision.
+
+Je pars sur douze utilisations au total, dont neuf pour Hasol, conformément à ton exemple. Cela permet de limiter les visions sans qu'elles deviennent une solution systématique aux difficultés rencontrées par Hasol.
+
+Après la neuvième vision d'Hasol, la Rune de Vision disparaît définitivement. suivi de la disparition de la rune temporelle car la derniere vision provoque une instabiloité emotionnel .
+
+Validé. La disparition des deux runes sera donc directement liée, mais pour deux raisons différentes.
+
+### **Enchaînement de la disparition des runes**
+
+1. Hasol reçoit sa neuvième et dernière vision.
+2. La Rune de Vision, ayant épuisé ses douze utilisations (trois pour Iseria et neuf pour Hasol), disparaît définitivement.
+3. Le contenu de cette dernière vision provoque une profonde instabilité émotionnelle chez Hasol.
+4. Cette instabilité entraîne la disparition de la Rune Temporelle.
+5. Hasol perd définitivement toute possibilité de réincarnation.
+
+### **Conséquence narrative**
+
+La dernière vision doit donc être suffisamment bouleversante pour justifier cette rupture émotionnelle.
+
+Les deux runes ont des conditions de disparition distinctes :
+
+| Rune       | Condition de disparition          |
+| ---------- | --------------------------------- |
+| Vision     | Épuisement des douze utilisations |
+| Temporelle | Instabilité émotionnelle d'Hasol  |
+
+Ce n'est pas la disparition de la Rune de Vision qui détruit directement la Rune Temporelle, mais **le choc émotionnel provoqué par son ultime vision**.
+
+Cela marque définitivement la fin du cycle des réincarnations. Hasol devra désormais vivre avec les conséquences de ses choix, sans possibilité de recommencer.
+
+Il nous reste cinq visions à répartir après le chapitre 4, dont cette ultime vision déterminante.
+
+puis livre 3
+
+Exactement. La disparition des deux runes marque la fin du livre II et la transition vers le livre III.
+
+### **Fin du livre II — La dernière réincarnation**
+
+- Hasol reçoit sa neuvième et dernière vision.
+- La Rune de Vision disparaît, ses utilisations étant épuisées.
+- Cette ultime vision provoque une instabilité émotionnelle suffisamment importante pour entraîner la disparition de la Rune Temporelle.
+- Le cycle des réincarnations prend définitivement fin.
+
+### **Livre III — La dernière vie**
+
+Grâce à sa Mémoire runique, Hasol dispose désormais de ses connaissances accumulées au cours de ses précédentes existences.
+
+Elle sait qu'une catastrophe mondiale surviendra l'année de ses 45 ans.
+
+Cependant, elle ne dispose plus :
+
+- De la Rune de Vision pour obtenir de nouvelles informations.
+- De la Rune Temporelle pour recommencer en cas d'échec.
+
+**Le livre I raconte son apprentissage.**\
+**Le livre II raconte ses différentes existences.**\
+**Le livre III raconte son ultime combat pour sauver le monde.**
+
+Il nous reste donc cinq visions à répartir dans le livre II, la dernière devant provoquer la transition vers le livre III.
+
+Elle ignorait quand, où et dans quelles circonstances Ray pourrait rencontrer le loup alpha.
+
+Mais s'il ne partait plus chasser dans les forêts avec ses autres compagnons, cette rencontre n'aurait peut-être jamais lieu.
+
+Elle n'avait pas besoin d'affronter cette créature.
+
+Elle n'avait même pas besoin de la trouver.
+
+Il lui suffisait de garder Ray auprès d'elle. pas besoin de ces lignes . c'est de la repetition
+
+Validé. On supprime intégralement ces cinq phrases. Le lecteur a déjà compris les motivations d'Hasol.
+
+La section VIII se termine simplement ainsi :
+
+— Désormais, tu viendras avec moi.
+
+Ray acquiesça.
+
+Pour la première fois depuis plusieurs jours, Hasol se sentit véritablement rassurée.
+
+Cela suffit. On laisse le lecteur comprendre par lui-même les conséquences de cette décision.
+
+**Règle rédactionnelle pour la suite :** éviter de réexpliquer les intentions d'Hasol lorsque ses actions et ses dialogues permettent déjà de les comprendre.
+
+— Niveau trente !
+
+— Déjà ?  ---> c'est pas trop tot , tu aurait du passer moins de temps à la bibliotheque durant tes année a l'academie
+
+— Niveau trente !
+
+— C'est pas trop tôt ! Tu aurais dû passer moins de temps à la bibliothèque durant tes années à l'Académie.
+
+— Et qui aurait répondu à toutes tes questions sur les runes ?
+
+Hasol éclata de rire.
+
+— Bon, je te l'accorde. Alors, montre-moi ta nouvelle compétence !
+
+On conserve cette version. Elle souligne leur complicité de longue date et rappelle naturellement les années que Ray a consacrées à ses recherches plutôt qu'à sa progression en tant que chasseur.
+
+-------------
+
+# **Livre II — Chapitre 4**
+
+## **Cette fois, avec moi**
+
+### **I. Trois rêves et un cauchemar**
+
+Les démons rouges se rapprochaient.
+
+Hasol se tenait au milieu d'eux, vêtue de sa nouvelle tenue écarlate. Plusieurs créatures levèrent leurs armes dans sa direction.
+
+Elle ne chercha pourtant pas à s'éloigner.
+
+— Siphon runique !
+
+Une violente onde de vent se propagea autour d'elle, frappant simultanément les créatures qui l'entouraient.
+
+Hasol sentit sa réserve de mana se remplir.
+
+Un sourire apparut sous son masque.
+
+Puis les démons disparurent.
+
+Hasol entrouvrit les yeux.
+
+— Siphon runique… murmura-t-elle.
+
+Encore à moitié endormie, elle se retourna dans son lit et remonta sa couverture jusqu'aux épaules.
+
+Quelques instants plus tard, elle dormait de nouveau.
+
+La bibliothèque.
+
+Plusieurs ouvrages étaient ouverts devant elle, ainsi qu'une feuille sur laquelle figuraient différentes combinaisons de runes.
+
+Ray était assis à ses côtés.
+
+— Avec trente-six cercles, tu pourrais équiper un ensemble supplémentaire, expliqua-t-il.
+
+Hasol examina les différentes possibilités.
+
+Ray retira ses lunettes et les posa sur la table.
+
+Elle tourna la tête vers lui.
+
+— C'est vrai que sans lunettes, tu as beaucoup de charme. Les lentilles, c'est pour quand ?
+
+Hasol ouvrit lentement les yeux.
+
+Elle fixa le plafond de sa chambre.
+
+— Ray, sans lunettes… N'importe quoi…
+
+Un léger sourire se dessina sur ses lèvres.
+
+Elle enfouit son visage dans son oreiller avant de se rendormir.
+
+Une forêt.
+
+Un immense loup se dressait devant elle.
+
+Hasol sortit une rune de sa réserve.
+
+— Aura runique !
+
+L'explosion de mana frappa violemment la créature.
+
+# **COUP CRITIQUE**
+
+Hasol s'élança.
+
+Son épée imprégnée de Terre fendit l'air une première fois, puis une seconde.
+
+Deux traînées rouges formèrent une croix devant elle.
+
+Le loup alpha s'effondra.
+
+Hasol se réveilla brusquement.
+
+— Un loup alpha…
+
+Elle se redressa, attrapa le verre d'eau posé sur sa table de chevet et en but quelques gorgées.
+
+— C'est vraiment n'importe quoi… Comme si j'étais capable de tuer un loup alpha en deux coups d'épée !
+
+Elle reposa son verre et s'allongea de nouveau.
+
+Il lui fallut cette fois plusieurs minutes pour retrouver le sommeil.
+
+Hasol courait.
+
+Au pied d'un arbre dont certaines branches brûlaient encore se trouvait une silhouette immobile.
+
+Des lunettes.
+
+Un bâton dont le sommet était toujours enflammé.
+
+Ray.
+
+— RAY !
+
+Hasol se redressa brutalement dans son lit, le souffle court et le visage couvert de sueur.
+
+Son cœur battait à une vitesse impressionnante.
+
+Les premières lueurs du jour traversaient les rideaux de sa chambre.
+
+Elle ramena ses jambes contre elle et posa son front sur ses genoux.
+
+Il lui fallut un long moment pour se calmer.
+
+Cette fois, elle ne parvint pas à se rendormir.
+
+### **II. Les chasseuses écarlates**
+
+L'idée de Samia se révéla particulièrement efficace.
+
+Les démons rouges mettaient effectivement un peu plus de temps à identifier les trois chasseuses comme des ennemies, un avantage dont Hasol apprit rapidement à tirer profit.
+
+Les expéditions se succédèrent.
+
+Aura runique devint l'une de ses principales armes contre les créatures des portails. Les runes dont personne ne voulait trouvaient entre ses mains une utilité que leurs anciens propriétaires n'auraient jamais imaginée.
+
+Maître Orven, de son côté, poursuivait ses activités avec une élève dont les besoins en runes semblaient ne jamais diminuer.
+
+Hasol perfectionnait son équipement, développait ses talents d'artisane et consacrait une part toujours plus importante de son temps aux portails.
+
+Sa réputation grandissait également.
+
+Il ne fallut pas longtemps pour que certains chasseurs commencent à parler d'une jeune femme au masque de démon, capable de faire disparaître des groupes entiers de créatures dans de violentes explosions de mana.
+
+L'Astrale sanguinaire.
+
+Un surnom qui amusait énormément Yoon et dont Samia ne manquait jamais de rappeler l'existence lorsque l'occasion se présentait.
+
+Ray continuait de chasser avec ses propres compagnons et retrouvait régulièrement Hasol à la bibliothèque.
+
+Leurs recherches ne s'interrompirent jamais vraiment. Les questions changeaient simplement au fil de leur progression.
+
+Les mois passèrent.
+
+Les étranges rêves d'Hasol finirent par occuper une place de moins en moins importante dans ses pensées.
+
+Jusqu'au jour où elle atteignit le niveau quarante.
+
+### **III. Une compétence familière**
+
+Hasol venait d'éliminer un démon lorsqu'une notification apparut devant elle.
+
+Montée de niveau
+
+# **Niveau 40**
+
+## **Siphon runique**
+
+Compétence active · Vent
+
+Libère une onde de vent autour du lanceur et convertit une partie des dégâts infligés en Mana.
+
+Dégâts
+
+**120 % PA**
+
+Conversion en Mana
+
+**75 %**
+
+Rayon
+
+**8 mètres**
+
+Temps de recharge
+
+**20 secondes**
+
+Coût
+
+**100 Mana**
+
+Récupération maximale
+
+**1 200 Mana**
+
+Hasol resta immobile.
+
+Elle relut le nom de la compétence.
+
+*Siphon runique.*
+
+— Hasol ! s'écria Samia.
+
+Une flèche passa à proximité de la jeune femme et atteignit un démon qui s'apprêtait à l'attaquer.
+
+Hasol recula précipitamment.
+
+— Qu'est-ce que tu fais ? demanda Samia.
+
+— Désolée… Je viens de passer niveau quarante.
+
+— Félicitations ! lança Yoon. Tu as obtenu quelque chose d'intéressant ?
+
+Hasol observa les démons qui se rapprochaient.
+
+— Je crois que oui.
+
+Elle attendit que plusieurs créatures pénètrent dans le rayon d'action de sa nouvelle compétence.
+
+— Siphon runique !
+
+Le vent se déchaîna autour d'elle.
+
+Une onde frappa simultanément les démons présents à proximité et Hasol sentit sa réserve de mana se remplir.
+
+Elle connaissait cette sensation.
+
+— Alors ? demanda Yoon.
+
+— Je récupère du mana en infligeant des dégâts aux ennemis qui m'entourent. Plus ils sont nombreux, plus j'en récupère !
+
+— Oh non… murmura Samia.
+
+Hasol se tourna vers elle.
+
+— Quoi ?
+
+— Tu vas encore nous demander de trouver davantage de monstres.
+
+Yoon éclata de rire.
+
+Hasol esquissa un sourire et sortit une rune de sa réserve.
+
+Le combat reprit.
+
+Pourtant, elle ne parvenait pas à se réjouir pleinement de sa nouvelle compétence.
+
+Elle se souvenait parfaitement de ce rêve.
+
+Comment avait-elle pu connaître le nom et les effets d'une compétence qu'elle ne possédait pas encore ?
+
+Elle pensa soudainement à Ray.
+
+### **IV. Le charme de Ray**
+
+Quelques jours plus tard, les quatre amis profitèrent d'un moment de repos.
+
+Ray retira ses lunettes pour les nettoyer.
+
+Yoon l'observa quelques instants.
+
+— Tu sais, Ray, tu as vraiment beaucoup de charme sans tes lunettes.
+
+Le jeune homme leva les yeux vers elle.
+
+— Pardon ?
+
+— Quoi ? Je dis simplement ce que je pense.
+
+Ray devint écarlate.
+
+Hasol éclata de rire, rapidement imitée par Samia.
+
+— Regarde-le ! s'amusa Yoon. Il est presque de la même couleur que nos tenues !
+
+— Merci, Yoon…
+
+Ray remit précipitamment ses lunettes.
+
+— Oh, dommage !
+
+— Tu devrais arrêter de l'embêter, intervint Hasol, incapable de dissimuler son amusement.
+
+— Très bien. Mais tu ne vas pas me dire que j'ai tort ?
+
+Hasol regarda Ray.
+
+— Je vais m'abstenir de répondre.
+
+— Voilà qui est intéressant, remarqua Samia.
+
+— Mais vous allez me laisser tranquille, oui ?
+
+Les trois jeunes femmes éclatèrent de rire.
+
+Ray finit par sourire à son tour.
+
+— Hasol, on se retrouve à la bibliothèque ce soir ?
+
+— Comme prévu !
+
+— Parfait. J'ai quelques idées concernant tes futurs cercles de mana.
+
+Yoon adressa un regard amusé à Samia.
+
+Ray fit semblant de ne pas le remarquer.
+
+### **V. Les trente-six cercles**
+
+Lorsque Ray arriva à la bibliothèque, Samia occupait sa place habituelle.
+
+Hasol lui adressa un signe de la main.
+
+— Installe-toi !
+
+Ray posa ses ouvrages sur la table et prit place à côté d'elle.
+
+Samia referma le livre qu'elle consultait.
+
+— Je vais vous laisser à vos passionnantes discussions sur les runes.
+
+— Tu pourrais rester, proposa Hasol.
+
+— Et vous écouter débattre pendant deux heures pour savoir s'il vaut mieux augmenter ton Attaque ou ta Puissance arcanique ?
+
+— Ce sont des questions importantes !
+
+— Je n'en doute pas.
+
+Samia se leva.
+
+— Bonne soirée, vous deux.
+
+Ray attendit qu'elle se soit éloignée avant de sortir une feuille de son carnet.
+
+— Alors, ces trente-six cercles…
+
+Hasol se pencha immédiatement vers lui.
+
+— Tu as trouvé quelque chose ?
+
+— J'ai surtout réfléchi à ce que tu possèdes déjà.
+
+Il inscrivit les différents ensembles sur la feuille.
+
+### **Équipement runique actuel**
+
+32 cercles de mana
+
+Vol de vie
+
+8 runes
+
+2 ensembles
+
+Arcanique
+
+8 runes
+
+2 ensembles
+
+Vitesse
+
+8 runes
+
+2 ensembles
+
+Énergie
+
+2 runes
+
+1 ensemble
+
+Gardien
+
+2 runes
+
+1 ensemble
+
+Fatal
+
+4 runes
+
+1 ensemble
+
+— Tes deux ensembles Vol de vie te permettent déjà de récupérer une quantité importante de points de vie, poursuivit Ray. Mais pourquoi ne pas augmenter les dégâts que tu infliges ?
+
+— Tu penses à un deuxième ensemble Fatal ?
+
+— Exactement. Avec de l'Attaque et de la Puissance arcanique comme statistiques principales. Il faudrait également rechercher ces deux statistiques en secondaire.
+
+### **Ensemble supplémentaire envisagé**
+
+Fatal
+
+**4 runes**
+
+Statistiques principales recherchées
+
+**Attaque · Puissance arcanique**
+
+Statistiques secondaires visées
+
+**Attaque · Puissance arcanique**
+
+— Tu augmenterais ainsi les dégâts de ton épée et de tes compétences magiques. Ton vol de vie n'en serait que plus efficace.
+
+— Sans avoir à sacrifier mes ensembles actuels…
+
+— Voilà.
+
+Hasol sourit.
+
+— J'aime beaucoup cette idée.
+
+— Je m'en doutais.
+
+Elle récupéra la feuille et commença à y ajouter quelques annotations.
+
+— Tu sais, Ray, tu devrais également consacrer davantage de temps à tes propres ensembles.
+
+— Je le fais.
+
+— Pas autant qu'aux miens.
+
+— Il faut dire que tu m'offres beaucoup plus de possibilités.
+
+Hasol rit.
+
+Ils poursuivirent leur discussion.
+
+Ray lui présenta plusieurs combinaisons de statistiques, puis retira ses lunettes pour se frotter les yeux.
+
+Il les posa sur la table.
+
+Hasol tourna la tête vers lui.
+
+Elle repensa à la remarque de Yoon.
+
+Un sourire amusé se dessina sur ses lèvres.
+
+Elle ouvrit la bouche.
+
+*C'est vrai que sans lunettes, tu as beaucoup de charme. Les lentilles, c'est pour quand ?*
+
+Elle se figea.
+
+Ray était assis à côté d'elle.
+
+Ses lunettes étaient posées sur la table.
+
+Devant eux se trouvait une feuille sur laquelle figuraient différentes combinaisons de runes.
+
+— Hasol ?
+
+Elle sentit ses joues s'échauffer.
+
+— Oui ?
+
+— Tu voulais me dire quelque chose ?
+
+— Non… Rien.
+
+Ray la regarda quelques instants, puis sourit timidement et remit ses lunettes.
+
+Hasol détourna les yeux.
+
+Elle comprenait maintenant pourquoi elle aurait pu prononcer cette phrase. Une simple plaisanterie pour poursuivre celle de Yoon.
+
+Mais comment avait-elle pu rêver de cette conversation si longtemps auparavant ?
+
+Ray, quant à lui, avait une tout autre interprétation de son silence.
+
+Elle n'avait jamais rougi de cette manière en sa présence.
+
+Il baissa les yeux vers ses notes, incapable de dissimuler complètement son sourire.
+
+Hasol ne le remarqua pas.
+
+Elle pensait à un arbre.
+
+À un bâton enflammé.
+
+À Ray.
+
+### **VI. Une confidence nocturne**
+
+Lorsqu'Hasol rentra chez elle, Iseria était encore installée dans le salon.
+
+— Tu rentres tard, ma chérie.
+
+— J'étais à la bibliothèque avec Ray.
+
+— Vous avez trouvé quelque chose d'intéressant ?
+
+Hasol ne répondit pas immédiatement.
+
+Elle retira ses chaussures et vint s'asseoir auprès de sa mère.
+
+— Maman… Est-ce que tu crois qu'il est possible de voir l'avenir dans ses rêves ?
+
+Iseria releva les yeux.
+
+— Pourquoi cette question ?
+
+— Tu te souviens du jour où tu nous as offert nos tenues de chasse ?
+
+— Bien sûr.
+
+— J'ai fait des rêves assez étranges cette nuit-là.
+
+Iseria posa ce qu'elle tenait entre les mains.
+
+— Je t'écoute.
+
+Hasol lui raconta son premier rêve. Elle lui expliqua comment elle avait découvert Siphon runique en atteignant le niveau quarante, alors qu'elle connaissait déjà le nom et les effets de cette compétence.
+
+Elle lui parla ensuite de la bibliothèque, des trente-six cercles de mana et de la conversation qu'elle venait d'avoir avec Ray.
+
+— J'allais vraiment lui dire la même chose que dans mon rêve, maman. Mot pour mot.
+
+— Et tu ne l'as pas fait ?
+
+— Non. Je me suis mise à rougir comme une idiote.
+
+Iseria esquissa un sourire.
+
+— Ce n'est pas bien grave, ma chérie.
+
+— Ce n'est pas ça qui m'inquiète.
+
+Hasol ramena ses jambes contre elle.
+
+— J'ai également rêvé que je tuais un loup alpha. Mais c'est surtout le cauchemar que j'ai fait ensuite qui me fait peur.
+
+Elle lui décrivit la forêt, l'arbre aux branches enflammées et la silhouette de Ray.
+
+Sa voix devint progressivement plus faible.
+
+— Il ne bougeait pas, maman.
+
+Iseria posa délicatement une main sur celle de sa fille.
+
+— Tu es certaine qu'il était blessé ?
+
+— Je ne sais pas… Je me suis réveillée avant de pouvoir le rejoindre.
+
+Hasol serra les doigts de sa mère.
+
+— Si mes autres rêves se réalisent, qu'est-ce qui me garantit que celui-ci ne se réalisera pas également ?
+
+— Rien ne t'oblige à considérer chacun de tes rêves comme une certitude.
+
+— Mais comment pourrais-je faire comme si je n'avais rien vu ?
+
+Iseria demeura silencieuse.
+
+Hasol posa sa tête contre son épaule.
+
+— Et puis, il y a autre chose…
+
+— Dis-moi.
+
+— Je pense énormément à Ray depuis quelque temps. J'ai toujours envie de le voir, de passer davantage de temps avec lui… Quand il part chasser avec ses compagnons, je ne peux pas m'empêcher de m'inquiéter.
+
+Elle marqua une pause.
+
+— Mais je ne sais pas pourquoi.
+
+— Comment cela ?
+
+— Maman… Je ne sais même plus ce que je ressens réellement pour lui.
+
+Hasol sentit les larmes lui monter aux yeux.
+
+— Est-ce que j'ai envie d'être avec lui parce que je suis amoureuse ? Ou simplement parce que j'ai peur qu'il lui arrive quelque chose ?
+
+Iseria attira doucement sa fille contre elle.
+
+— Depuis combien de temps connais-tu Ray ?
+
+— Des années.
+
+— Et depuis combien de temps aimes-tu passer tes soirées à discuter avec lui ?
+
+Hasol ne répondit pas.
+
+— Bien avant ces rêves, n'est-ce pas ?
+
+— Oui…
+
+— Alors ne laisse pas quelques mauvais rêves effacer tous les souvenirs heureux que vous avez construits ensemble.
+
+Iseria caressa doucement les cheveux de sa fille.
+
+— Tu n'es pas obligée de comprendre immédiatement tout ce que tu ressens. Laisse-toi un peu de temps.
+
+Hasol ferma les yeux.
+
+— Merci, maman.
+
+Elles discutèrent encore un moment, puis les réponses d'Hasol devinrent de plus en plus espacées.
+
+Elle finit par s'endormir contre sa mère.
+
+Iseria déposa délicatement un coussin sous sa tête et la recouvrit d'une couverture.
+
+Elle observa sa fille pendant plusieurs minutes.
+
+Son sourire avait disparu.
+
+Lorsqu'elle fut convaincue qu'Hasol dormait profondément, elle se leva et se dirigea vers le vaisselier.
+
+Elle actionna un mécanisme dissimulé.
+
+Le meuble se déplaça lentement, dévoilant un passage vers une pièce obscure.
+
+— Maman… Tu vas où ?
+
+Iseria se figea.
+
+Hasol avait entrouvert les yeux.
+
+— Nulle part, ma chérie. Rendors-toi.
+
+— D'accord…
+
+Hasol referma les yeux.
+
+Sa respiration redevint rapidement régulière.
+
+Iseria contempla une dernière fois sa fille endormie.
+
+*Pourquoi fallait-il que ma plus jeune fille possède, elle aussi, un don semblable au mien ?*
+
+Elle pénétra dans la pièce obscure.
+
+Le vaisselier reprit silencieusement sa place.
+
+### **VII. Une quatrième tenue écarlate**
+
+Le lendemain matin, Hasol retrouva sa mère.
+
+— Maman, j'aurais besoin d'un service.
+
+— Je t'écoute.
+
+— Est-ce que tu pourrais me procurer une quatrième tenue de chasse ? Du même style que les nôtres.
+
+— Une quatrième ?
+
+— Oui. Une tenue pour un mage offensif, avec un bâton assorti.
+
+Iseria observa attentivement sa fille.
+
+— Pour Ray ?
+
+— Oui.
+
+Un sourire apparut sur le visage de sa mère.
+
+— Je devrais pouvoir arranger cela.
+
+— Mais cette fois, c'est moi qui paie !
+
+— Pourquoi ?
+
+— Parce que c'est un cadeau que je souhaite lui faire.
+
+Iseria ne put s'empêcher de sourire davantage.
+
+Hasol fronça les sourcils.
+
+— Quoi ?
+
+— Rien, ma chérie.
+
+— Maman…
+
+— Je vais m'en occuper.
+
+— Et tu me diras combien je te dois !
+
+— Bien sûr.
+
+Hasol repartit satisfaite.
+
+Iseria attendit qu'elle ait quitté la pièce avant de laisser échapper un petit rire.
+
+Deux jours plus tard, Iseria invita sa fille à découvrir les équipements.
+
+Hasol resta émerveillée devant le résultat.
+
+Comme leurs propres tenues, celle de Ray associait le rouge écarlate, le noir et de magnifiques ornements dorés. Le bâton avait été conçu dans le même esprit.
+
+— C'est exactement ce que je souhaitais !
+
+— Tu penses qu'il lui plaira ?
+
+— J'en suis certaine !
+
+Hasol contempla encore quelques instants la tenue avant de se tourner vers sa mère.
+
+— Alors, combien est-ce que je te dois ?
+
+— Rien du tout.
+
+Hasol fronça immédiatement les sourcils.
+
+— Maman, nous en avions parlé !
+
+— Considère cela comme un cadeau.
+
+— Mais c'est mon cadeau pour Ray !
+
+— Et c'est le mien pour toi.
+
+— Ce n'est pas pareil !
+
+Iseria rit.
+
+— Hasol, tu n'as pas besoin de me rembourser.
+
+— Si ! Je gagne suffisamment d'argent maintenant. Entre mon travail avec maître Orven et les portails, j'ai largement de quoi te payer.
+
+— Tu en es certaine ?
+
+— Évidemment !
+
+— Très bien.
+
+Iseria lui annonça le prix.
+
+Hasol cessa immédiatement de parler.
+
+Elle fixa sa mère.
+
+Puis la tenue.
+
+Puis le bâton.
+
+— Attends…
+
+Elle chercha une chaise et s'assit lentement.
+
+— Tu es sérieuse ?
+
+— Tout à fait.
+
+— Pour une seule tenue et un bâton ?
+
+— Oui.
+
+Hasol tenta mentalement de comparer cette somme à ce qu'elle avait gagné depuis le début de son activité artisanale.
+
+Iseria croisa les bras, amusée.
+
+— Alors, souhaites-tu toujours me rembourser ?
+
+Hasol leva les yeux vers elle.
+
+— Ne me dis pas que nos tenues et nos armes ont également coûté aussi cher ?
+
+— À peu de chose près.
+
+— Maman !
+
+Elle repensa soudainement à la garde-robe d'Iseria, à ces vêtements dont la qualité avait toujours semblé parfaitement ordinaire à ses yeux, simplement parce qu'elle avait grandi en les voyant.
+
+Et à Yoon qui s'amusait à la surnommer princesse.
+
+— Mais… Comment peux-tu te permettre de dépenser autant ?
+
+— Ne t'inquiète pas pour moi, ma chérie.
+
+— C'est justement ce que tu dis à chaque fois !
+
+Iseria récupéra soigneusement les équipements.
+
+— Tu devrais plutôt réfléchir à la manière dont tu souhaites offrir tout cela à Ray.
+
+Hasol ouvrit la bouche, puis la referma.
+
+Sa mère venait une fois encore de détourner la conversation.
+
+Elle observa la magnifique tenue écarlate.
+
+— Tu ne lui diras pas combien elle coûte, hein ?
+
+— C'était justement ce que j'allais te conseiller.
+
+### **VIII. Cette fois, avec moi**
+
+Ray examina attentivement les deux paquets qu'Hasol venait de déposer devant lui.
+
+— Qu'est-ce que c'est ?
+
+— Ouvre-les !
+
+Il défit le premier emballage.
+
+Lorsqu'il découvrit la tenue écarlate, il resta silencieux.
+
+Hasol attendit sa réaction avec impatience.
+
+— Alors ?
+
+— Hasol… C'est pour moi ?
+
+— Évidemment !
+
+Il souleva délicatement la tenue.
+
+— Elle ressemble aux vôtres.
+
+— C'était l'idée.
+
+Ray contempla les ornements dorés.
+
+Il connaissait suffisamment bien le travail des artisans pour reconnaître la qualité exceptionnelle de cet équipement.
+
+— Ça a dû te coûter…
+
+— Ne pose pas cette question !
+
+Ray leva les yeux vers elle.
+
+— Enfin… Je veux dire que ce n'est pas important.
+
+— Mais…
+
+— Ouvre le deuxième !
+
+Ray découvrit le bâton.
+
+Son expression changea de nouveau.
+
+— Hasol !
+
+— Tu aimes ?
+
+— Bien sûr que j'aime ! Mais tu ne peux pas m'offrir tout cela sans raison !
+
+Hasol s'assit face à lui.
+
+— Justement, j'ai quelque chose à te proposer.
+
+Ray posa délicatement le bâton.
+
+— Je t'écoute.
+
+— J'aimerais que tu participes à toutes nos expéditions dans les portails.
+
+— Toutes ?
+
+— Oui.
+
+Il la regarda avec étonnement.
+
+— Et Yoon et Samia sont d'accord ?
+
+— Je leur en ai déjà parlé.
+
+— Mais votre groupe est complet.
+
+— Notre groupe permanent, oui. Pas nos raids. Il suffit de te réserver une place à chaque expédition.
+
+Ray réfléchit quelques instants.
+
+— Vous passez presque tout votre temps dans les portails.
+
+— Exactement.
+
+— Je risque de ne plus avoir beaucoup de temps pour mes autres chasses.
+
+— Ce serait dommage de refuser une telle occasion de progresser, non ?
+
+Ray sourit.
+
+— Tu as raison.
+
+— Alors ?
+
+— J'accepte avec plaisir !
+
+Le soulagement d'Hasol fut immédiat.
+
+— Vraiment ?
+
+— Évidemment ! Entre les portails et nos soirées à la bibliothèque, nous allons finir par passer toutes nos journées ensemble.
+
+Hasol rougit légèrement.
+
+— Ça te dérange ?
+
+— Absolument pas.
+
+Ray contempla de nouveau les équipements.
+
+— Merci, Hasol. Sincèrement.
+
+Elle lui sourit.
+
+— Désormais, tu viendras avec moi.
+
+Ray acquiesça.
+
+Pour la première fois depuis plusieurs jours, Hasol se sentit véritablement rassurée.
+
+### **IX. Les quatre écarlates**
+
+Lors de leur expédition suivante, Ray retrouva les trois jeunes femmes devant le portail.
+
+Yoon fut la première à l'apercevoir.
+
+— Oh !
+
+Samia se tourna vers lui.
+
+— Eh bien, nous voilà quatre maintenant.
+
+Ray sourit.
+
+— Qu'en pensez-vous ?
+
+— Magnifique ! répondit Yoon.
+
+Elle se rapprocha d'Hasol et lui murmura quelques mots.
+
+— Tu as très bon goût.
+
+Hasol lui donna un léger coup de coude.
+
+— Arrête.
+
+Yoon éclata de rire.
+
+Les autres chasseurs arrivèrent progressivement.
+
+L'un d'eux s'approcha de Ray.
+
+— Sympa, ta tenue ! Et ton bâton aussi. Ça a dû te coûter une fortune.
+
+— C'est un cadeau d'une amie.
+
+— Eh bien, tu as de la chance !
+
+Le chasseur observa les personnes présentes avant de froncer les sourcils.
+
+— C'est étrange, nous ne sommes que treize. À quelle heure arrivent les autres ?
+
+— Quels autres ?
+
+— Les autres chasseurs du raid. Nous sommes encore loin des cent points, non ?
+
+Ray le regarda avec étonnement.
+
+— Tu ne connais pas mes coéquipières ?
+
+— Non, c'est la première fois que je participe à un raid avec vous.
+
+Ray désigna successivement les trois jeunes femmes.
+
+— Samia est de classe commune, comme nous. Yoon est de classe légendaire et Hasol de classe astrale.
+
+Le chasseur resta silencieux quelques secondes.
+
+— Une légendaire et une astrale ? Dans le même raid ?
+
+— Exactement.
+
+— Mais… Vous représentez cinquante-cinq points à vous quatre !
+
+— Voilà. Avec vous neuf, nous sommes à cent.
+
+Composition du raid
+
+# **100 / 100**
+
+Points de raid
+
+# **13**
+
+Chasseurs
+
+**Hasol**
+
+Arcaniste runique
+
+**25 pts**
+
+**Yoon**
+
+Sage runique
+
+**20 pts**
+
+**Samia**
+
+Marcheuse du voile
+
+**5 pts**
+
+**Ray**
+
+Mage de feu
+
+**5 pts**
+
+**9 autres chasseurs**
+
+5 points par chasseur
+
+**45 pts**
+
+— Je n'ai jamais participé à un raid avec une légendaire. Alors une astrale…
+
+Son regard s'arrêta sur Hasol, qui venait d'enfiler son masque de démon écarlate.
+
+— Attends une seconde… Ce serait elle, l'Astrale sanguinaire ?
+
+— En personne.
+
+— Et tu participes régulièrement à leurs raids ?
+
+— Désormais, oui.
+
+— Décidément, tu en as de la chance…
+
+Ray sourit en regardant Hasol.
+
+— Je commence à le croire.
+
+Les treize chasseurs franchirent le portail.
+
+Ray ne tarda pas à découvrir l'avantage que lui procurait sa nouvelle tenue.
+
+Lorsqu'un groupe de démons rouges s'approcha des quatre chasseurs écarlates, les créatures hésitèrent brièvement.
+
+— Ray ! Maintenant ! lança Hasol.
+
+— Boule de feu !
+
+Le projectile traversa l'espace qui les séparait des monstres et explosa au milieu d'eux.
+
+Hasol profita immédiatement de cette ouverture pour s'élancer.
+
+Samia décocha plusieurs flèches tandis que Yoon soutenait ses compagnons.
+
+Ray observa attentivement les déplacements d'Hasol, attendant qu'elle se trouve suffisamment éloignée des démons avant de lancer son prochain sort.
+
+— Trait incandescent !
+
+Un projectile enflammé atteignit une créature qui s'apprêtait à rejoindre le combat.
+
+Hasol tourna brièvement la tête vers lui.
+
+— Bien joué !
+
+Les quatre chasseurs poursuivirent leur progression.
+
+Lorsque l'expédition prit fin, Ray vint naturellement retrouver ses trois partenaires de raid.
+
+— Alors, demanda Hasol, prêt à recommencer ?
+
+— Quand vous voulez !
+
+— Demain ? proposa Samia.
+
+Ray rit.
+
+— Je commence à comprendre pourquoi vous progressez aussi vite.
+
+— Tu vas t'habituer, lui assura Yoon.
+
+Hasol retira son masque et lui adressa un sourire.
+
+### **X. Les secrets de deux mères**
+
+Quelques jours plus tard, Iseria retrouva Irène Corvus.
+
+Les deux femmes se connaissaient depuis de nombreuses années et avaient régulièrement l'occasion de discuter de leurs enfants.
+
+Mais cette fois-ci, Iseria avait quelque chose de particulièrement intéressant à lui raconter.
+
+— Tu aurais dû voir Hasol l'autre jour !
+
+— Pourquoi ? demanda Irène.
+
+— Elle est venue me demander une tenue de chasse et un bâton pour Ray.
+
+— Il me les a montrés ! Ils sont magnifiques. Je voulais justement te remercier.
+
+— Ce qui est amusant, c'est qu'elle voulait absolument les payer elle-même.
+
+Irène haussa les sourcils.
+
+— Vraiment ?
+
+— Elle s'est presque disputée avec moi lorsque j'ai refusé son argent.
+
+— Cela ne m'étonne pas d'elle.
+
+— Il a fallu que je lui révèle le prix pour qu'elle abandonne.
+
+Irène éclata de rire.
+
+— La pauvre !
+
+— Elle a dû s'asseoir.
+
+Les deux femmes rirent ensemble.
+
+— Mais ce n'est pas tout, poursuivit Iseria. Elle souhaite désormais que Ray participe à toutes leurs expéditions.
+
+Irène sourit.
+
+— Oui, il m'en a parlé. Je ne l'avais pas vu aussi enthousiaste depuis longtemps.
+
+Iseria se pencha légèrement vers elle.
+
+— Je crois que nos enfants commencent sérieusement à s'apprécier.
+
+— Commencent ?
+
+Irène lui adressa un regard malicieux.
+
+— Tu sais que Ray s'est rendu dans notre atelier d'orfèvrerie pour commander un Anneau runique ?
+
+Iseria ouvrit de grands yeux.
+
+— Pour Hasol ?
+
+— Pour qui d'autre ?
+
+— Oh !
+
+— Et il a demandé qu'on l'orne d'un diamant.
+
+Iseria porta une main à sa bouche, incapable de dissimuler son enthousiasme.
+
+— Un diamant ?
+
+— Oui. Il accorde énormément d'importance à cette commande.
+
+— Il ne lui en a pas encore parlé ?
+
+— Pas à ma connaissance. Et j'espère que tu ne lui diras rien !
+
+— Évidemment !
+
+Iseria récupéra sa tasse.
+
+— Hasol, qui se dispute avec moi pour payer les équipements de Ray, pendant que ton fils commande un anneau spécialement pour elle…
+
+Irène sourit tendrement.
+
+— Ils nous en auront fait attendre, ces deux-là.
+
+— Beaucoup trop longtemps !
+
+Les deux mères éclatèrent de rire.
+
+Leur conversation se prolongea une bonne partie de l'après-midi.
+
+### **XI. Un avenir différent**
+
+Les mois suivants furent particulièrement riches en expéditions.
+
+Ray découvrit rapidement les avantages d'une fréquentation aussi intensive des portails.
+
+Avec Hasol, Yoon et Samia, il affrontait bien davantage de créatures que lors de ses chasses habituelles.
+
+Sa progression s'accéléra considérablement.
+
+Un soir, alors qu'Hasol l'attendait à la bibliothèque, Ray arriva avec un large sourire.
+
+— J'ai quelque chose à te montrer !
+
+— Une nouvelle rune ?
+
+— Pour une fois, non.
+
+Il s'assit devant elle.
+
+— Niveau trente !
+
+— C'est pas trop tôt ! Tu aurais dû passer moins de temps à la bibliothèque durant tes années à l'Académie.
+
+— Et qui aurait répondu à toutes tes questions sur les runes ?
+
+Hasol éclata de rire.
+
+— Bon, je te l'accorde. Alors, montre-moi ta nouvelle compétence !
+
+Nouvelle compétence · Niveau 30
+
+## **Mur de flammes**
+
+Compétence active · Feu
+
+Crée une ligne de flammes temporaire permettant de contrôler une partie du terrain.
+
+Les flammes peuvent également blesser les alliés.
+
+Hasol examina attentivement la description.
+
+— Ça pourrait être particulièrement intéressant contre les groupes de démons.
+
+— C'est ce que je pensais. Je pourrais les obliger à contourner certaines zones.
+
+— Ou les inciter à se regrouper !
+
+Ray la regarda.
+
+— Pour Aura runique ?
+
+Hasol sourit.
+
+— Tu commences à vraiment bien me connaître.
+
+Dès leur expédition suivante, ils expérimentèrent ensemble les possibilités offertes par cette nouvelle compétence.
+
+Ray dressa un mur de flammes à proximité d'un groupe de démons.
+
+Plusieurs créatures modifièrent leur trajectoire pour éviter le feu.
+
+Hasol profita de leur regroupement.
+
+— Aura runique !
+
+Une explosion retentit.
+
+Lorsque les flammes se dissipèrent, Ray observa le résultat.
+
+— Je crois que ça fonctionne plutôt bien.
+
+— Plutôt bien ? C'est excellent !
+
+Les expéditions se poursuivirent.
+
+Zio les accompagna à quelques reprises lorsque ses disponibilités le lui permettaient, sans pour autant abandonner son propre groupe.
+
+Ray, lui, ne manquait pratiquement aucun de leurs raids.
+
+Il avait progressivement délaissé les chasses classiques. Ses anciens compagnons comprenaient parfaitement son choix. Peu de chasseurs avaient la possibilité de participer aussi régulièrement aux expéditions d'une Astrale et d'une Légendaire.
+
+Lorsqu'il atteignit le niveau quarante, Hasol fut une nouvelle fois la première personne à laquelle il souhaita présenter ses nouvelles compétences.
+
+Nouvelles compétences · Niveau 40
+
+## **Déflagration**
+
+Compétence active · Feu
+
+Provoque une explosion de feu autour d'un point visible.
+
+## **Combustion maîtrisée**
+
+Compétence passive
+
+Réduit les pertes de Mana lors de l'utilisation des sorts de feu.
+
+— Enfin ! s'exclama Ray.
+
+Hasol releva les yeux.
+
+— Tu attendais une compétence particulière ?
+
+— Combustion maîtrisée. Je vais enfin pouvoir utiliser un peu plus souvent mes sorts sans craindre de manquer de mana.
+
+— Et Déflagration ?
+
+Ray sourit.
+
+— J'ai hâte de l'essayer.
+
+Il n'eut pas à attendre longtemps.
+
+Lors de leur expédition suivante, Yoon ralentit un rassemblement de démons grâce à son Domaine des Entraves runiques.
+
+Ray attendit qu'Hasol s'écarte des créatures.
+
+Il pointa son bâton dans leur direction.
+
+— Déflagration !
+
+Une violente explosion de feu illumina les environs.
+
+Samia tourna immédiatement la tête vers lui.
+
+— Eh bien !
+
+— Pas mal, hein ?
+
+— Préviens-moi avant de faire ça à côté de moi !
+
+Hasol acheva l'un des démons encore debout.
+
+— On devrait essayer de combiner Déflagration avec Aura runique !
+
+Samia soupira.
+
+— Il ne manquait plus que ça…
+
+Yoon éclata de rire.
+
+De son côté, Hasol poursuivait sa croissance runique.
+
+Lorsqu'elle disposa enfin de trente-six cercles de mana, elle concrétisa le projet qu'elle avait élaboré avec Ray à la bibliothèque.
+
+Quatre nouvelles runes Fatal vinrent compléter son équipement.
+
+Elle avait consacré de nombreuses heures à rechercher les statistiques qu'ils avaient sélectionnées ensemble, se montrant particulièrement exigeante concernant l'Attaque et la Puissance arcanique.
+
+Équipement runique
+
+# **36 / 36**
+
+Bonus d'ensemble actifs
+
+# **10**
+
+Vol de vie
+
+8 runes · 2 ensembles
+
+Arcanique
+
+8 runes · 2 ensembles
+
+Vitesse
+
+8 runes · 2 ensembles
+
+Énergie
+
+2 runes · 1 ensemble
+
+Gardien
+
+2 runes · 1 ensemble
+
+Fatal
+
+8 runes · 2 ensembles
+
+Les résultats confirmèrent les attentes de Ray.
+
+— Tu avais raison ! lui annonça-t-elle après une expédition.
+
+— Concernant quoi ?
+
+— Le deuxième ensemble Fatal ! Mon vol de vie est encore plus efficace qu'avant.
+
+— Je suis heureux de l'apprendre.
+
+Hasol lui adressa un large sourire.
+
+— Qu'est-ce que je ferais sans toi ?
+
+Ray la regarda quelques instants.
+
+— Tu trouverais probablement quelqu'un d'autre pour passer ses soirées à étudier des combinaisons de runes.
+
+— Certainement pas !
+
+Elle lui donna un léger coup d'épaule.
+
+— Tu es irremplaçable.
+
+Ray devint silencieux.
+
+Hasol, qui examinait déjà ses notes, ne remarqua pas son expression.
+
+Le temps continua de s'écouler.
+
+Ray atteignit finalement le niveau cinquante.
+
+Une nouvelle fois, il vint présenter sa compétence à Hasol.
+
+Nouvelle compétence · Niveau 50
+
+## **Fournaise**
+
+Compétence active · Feu
+
+Crée une zone de flammes intenses maintenue par la concentration du lanceur.
+
+Consomme du Mana tant que la compétence est maintenue.
+
+— Une nouvelle compétence de zone ! s'enthousiasma Hasol.
+
+— Oui, mais elle risque d'être particulièrement gourmande en mana.
+
+— Il faudra réfléchir à de nouveaux ensembles pour ton équipement.
+
+— Je savais que tu allais me dire ça.
+
+Hasol éclata de rire.
+
+Ray rangea son carnet.
+
+— Tu sais, je n'aurais jamais imaginé atteindre le niveau cinquante aussi rapidement.
+
+— Tu te débrouilles vraiment bien.
+
+— Grâce aux portails.
+
+Il regarda Hasol.
+
+— Et grâce à toi.
+
+Elle lui sourit.
+
+— Tu as travaillé autant que nous.
+
+— Peut-être. Mais sans ton invitation, je serais probablement encore en train de chasser avec mes anciens compagnons.
+
+Hasol baissa brièvement les yeux.
+
+Voilà bien longtemps que Ray n'avait pas participé à une chasse en forêt.
+
+— Tu ne regrettes pas ?
+
+— Pas une seule seconde.
+
+Il lui adressa un sourire.
+
+— Pourquoi cette question ?
+
+— Pour rien.
+
+Elle sourit à son tour.
+
+### **XII. Le cœur et la raison**
+
+— On devrait aller manger quelque chose, proposa Ray.
+
+Hasol releva la tête.
+
+— Tu as terminé tes recherches ?
+
+— Non.
+
+— Alors pourquoi veux-tu partir ?
+
+— Parce que tu n'as pas quitté cette chaise depuis des heures.
+
+Hasol regarda autour d'elle.
+
+La bibliothèque s'était progressivement vidée.
+
+— Il est si tard que ça ?
+
+— Oui.
+
+Elle referma son carnet.
+
+— Très bien. Mais c'est toi qui choisis où nous allons.
+
+— Avec plaisir.
+
+Ils quittèrent ensemble la bibliothèque.
+
+Les rues étaient encore animées malgré l'heure.
+
+Hasol marchait tranquillement aux côtés de Ray, profitant de la douceur de la soirée.
+
+Ils discutèrent de leurs prochaines expéditions, puis d'une mésaventure survenue quelques jours auparavant.
+
+Ray avait accidentellement laissé Yoon raconter une histoire particulièrement embarrassante à son sujet devant plusieurs chasseurs.
+
+Hasol riait encore en y repensant.
+
+— Tu aurais pu l'interrompre !
+
+— As-tu déjà essayé d'interrompre Yoon lorsqu'elle a décidé de raconter quelque chose ?
+
+— C'est vrai que c'est compliqué.
+
+— Voilà.
+
+Ils trouvèrent finalement un endroit où dîner.
+
+La conversation se poursuivit naturellement.
+
+Pour une fois, Hasol ne sortit ni son carnet ni ses notes sur les runes.
+
+Elle écouta simplement Ray lui parler de sa famille, de son enfance et de certaines de ses premières chasses.
+
+Elle connaissait déjà une partie de ces histoires, mais éprouvait toujours autant de plaisir à les entendre.
+
+— Tu te souviens de nos premières recherches à l'Académie ? demanda-t-il.
+
+— Comment pourrais-je les oublier ?
+
+— Tu venais me voir presque tous les jours avec de nouvelles questions.
+
+— Et tu avais toujours une réponse.
+
+— Pas toujours.
+
+— Dans ce cas, tu passais les jours suivants à la chercher.
+
+Ray sourit.
+
+— Tu étais particulièrement tenace.
+
+— J'avais trouvé quelqu'un de compétent. J'allais quand même pas le laisser filer !
+
+— Je vois. J'étais donc simplement utile.
+
+— Très utile, même !
+
+Ray prit un air faussement vexé.
+
+Hasol éclata de rire.
+
+À plusieurs reprises durant le repas, elle se surprit à l'observer.
+
+Il avait beaucoup changé depuis leur première rencontre.
+
+Elle le trouvait beau.
+
+Elle aimait sa manière de sourire, son enthousiasme lorsqu'ils découvraient ensemble quelque chose de nouveau, et même ces longues discussions durant lesquelles il insistait pour qu'elle envisage d'autres possibilités que celles auxquelles elle avait initialement pensé.
+
+Lorsqu'ils quittèrent l'établissement, Hasol n'avait aucune envie de rentrer.
+
+— On marche encore un peu ? proposa-t-elle.
+
+— Bien sûr.
+
+Ils poursuivirent leur promenade.
+
+Leurs épaules se frôlèrent à plusieurs reprises.
+
+Ray aurait aimé lui prendre la main.
+
+Il hésita, puis décida d'attendre.
+
+Il avait encore quelque chose à préparer.
+
+Lorsqu'Hasol rentra chez elle, Iseria était installée dans le salon.
+
+— Tu as passé une bonne soirée ?
+
+— Excellente !
+
+— Encore des recherches à la bibliothèque ?
+
+— Pas vraiment. On est allés dîner ensemble.
+
+— Oh ?
+
+Hasol remarqua immédiatement le sourire de sa mère.
+
+— Maman…
+
+— Je n'ai rien dit !
+
+— Mais tu le penses très fort.
+
+Iseria éclata de rire.
+
+— Bonne nuit, ma chérie.
+
+— Bonne nuit, maman.
+
+Hasol rejoignit sa chambre.
+
+Elle s'allongea sur son lit et repensa à sa promenade avec Ray.
+
+Un sourire se dessina sur ses lèvres.
+
+Elle aurait aimé que toutes leurs soirées ressemblent à celle-ci.
+
+Puis elle se souvint de cette nuit durant laquelle elle avait rêvé de lui.
+
+La bibliothèque.
+
+Ses lunettes.
+
+La forêt.
+
+Elle soupira.
+
+Si elle n'avait jamais fait ce cauchemar, aurait-elle demandé à sa mère de lui procurer cette tenue et ce bâton ?
+
+L'aurait-elle invité à passer toutes ses journées auprès d'elle ?
+
+Aurait-elle éprouvé les mêmes sentiments ?
+
+Elle n'en savait rien.
+
+Elle aurait pourtant tellement aimé pouvoir répondre à ces questions.
+
+Hasol ferma les yeux.
+
+Elle revit le sourire de Ray lorsqu'elle lui avait offert ses équipements, sa joie lorsqu'il avait atteint le niveau cinquante et le plaisir qu'elle avait éprouvé à passer cette soirée avec lui.
+
+Elle n'avait pensé ni aux portails, ni aux runes, ni à leurs prochaines expéditions.
+
+Elle avait simplement passé une excellente soirée en sa compagnie.
+
+*Pourquoi faut-il que ce soit aussi compliqué ?*
+
+Elle se retourna dans son lit.
+
+Le lendemain, Ray l'attendait à la bibliothèque.
+
+Lorsqu'elle l'aperçut, Hasol sourit instinctivement.
+
+Il lui adressa un signe de la main.
+
+— Hasol !
+
+Elle s'approcha de leur table.
+
+— Tu es arrivé tôt aujourd'hui.
+
+— J'avais envie de te voir.
+
+Hasol rougit.
+
+— Idiot…
+
+Elle prit place devant lui et sortit son carnet.
+
+— Alors, qu'est-ce qu'on étudie aujourd'hui ?
+
+Ray lui présenta un ouvrage qu'il avait découvert le matin même.
+
+Elle se pencha vers lui.
+
+La chaise n'était pas vide.
+
+**Fin du chapitre 4.**
+
+### **Notes hors manuscrit**
+
+Cette version intègre les dernières corrections validées ensemble, notamment les quatre visions séparées par des réveils, les dialogues plus naturels et la suppression des explications répétitives.
+
+Le compteur de la Rune de Vision est désormais de quatre utilisations sur les neuf disponibles pour Hasol. Cette information reste exclusivement réservée au lore. Les cinq dernières visions seront réparties dans la suite du livre II.
+
+J'ai également légèrement retravaillé la dernière section pour renforcer la complicité entre Ray et Hasol et terminer sur un écho direct à la fin du chapitre 3, sans expliquer davantage ce parallèle au lecteur.
+
+Les valeurs de Siphon runique et les fenêtres graphiques sont reprises de la version précédente, sans nouvelle vérification technique du dépôt. Aucun fichier du manuscrit n'a été modifié.

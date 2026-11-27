@@ -64,6 +64,8 @@ Aucun commit, push ou déploiement n’est autorisé par cette note.
 
 ## Iseria : accord de principe, fiche non réalisée
 
+**Statut historique — remplacé par DEC-200 :** le relevé d’accord ci-dessous est conservé comme trace du lot graphique. Il ne reste pas une consigne active : aucune fiche-indice de classe au II ; au III seulement, déclaration Clerc terrestre Rare à Hasol et fenêtre violette Prophète Astral pour le lecteur, sans révélation à Hasol. Voir `secrets_clans_runes_2026_11_27.md` pour la source locale ultérieure, distincte de l’archive.
+
 **Accord présent de l’auteur :** un indice peut être destiné au lecteur du
 livre II seulement, sous forme d’une **fiche éditoriale**, et non d’une fenêtre du
 Système vue par Hasol. Le fond violet doit contraster avec sa déclaration Rare.
@@ -103,9 +105,24 @@ vaut pas validation de sa réalisation ni des informations qu’il contiendrait.
 7. Rapporter les commandes, résultats, preuves et limites réels. Ne pas renouveler
    les fixtures simplement pour faire disparaître un échec.
 
-**État de cette note :** conventions et plan de contrôle documentés. Aucun
-résultat de régénération, de test, de contraste ou de rendu de cette refonte
-n’est attesté ici ; ces résultats relèvent du compte rendu d’intégration.
+## Livraison et validation — DEC-194
+
+L’auteur confirme **« fenetre validé »** dans la session locale
+`ses_de3ed5617ffe7bP1oBeNSAf90I`, le 27 novembre 2026. La validation concerne
+la présentation livrée des deux livres : 153 fenêtres/306 SVG au I et
+26 fenêtres/52 SVG au II, soit 358 SVG.
+
+Contrôles réalisés : conservation indépendante de la narration hors fenêtres,
+des identifiants et des données ; régénération et `--check` des SVG des deux
+livres ; lecteur `lecture.html` régénéré puis `--check` réussi ; suite
+`python3 -m unittest discover -s tests -v` : **103 tests réussis**.
+Un PDF produit par Chromium a confirmé la rareté explicite sans duplication.
+Ces preuves ne constituent ni une conformité RGAA globale, ni un essai réel
+avec lecteur d’écran ou du filtrage GitHub. Les contrôles locaux du lecteur
+ont porté sur 500 et 1280 px, pas sur une largeur de 390 px.
+
+Cette validation n’autorise ni nouvelle scène/fiche d’Iseria, ni nouveau
+chapitre, ni commit/push. Les limites éditoriales ci-dessus restent applicables.
 
 ## Risques de maintenance
 
