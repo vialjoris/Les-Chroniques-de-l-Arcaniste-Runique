@@ -59,9 +59,10 @@ signifie pas que la projection est déjà réalisée : les libellés « actuelle
 n’est jamais un effet temporaire vert ; un palier `+9` ou `+15` n’est pas un bonus.
 
 Une statistique naturelle reste hors de tout `span` de bonus. Une réussite
-n’est pas un bonus temporaire. Donner un libellé visible à chaque catégorie :
-la couleur seule ne transmet pas le sens. Ne pas ajouter de fond sombre,
-de styles inline ou d’emoji multicolore.
+n’est pas un bonus temporaire. Les catégories de statistiques gardent leurs
+libellés visibles. Pour les raretés de rune/classe, appliquer l’exception compacte
+du 27 novembre ci-dessous, avec alternative explicite sans couleur. Ne pas
+ajouter de fond sombre, de styles inline ou d’emoji multicolore.
 
 Employer une espace insécable entre les groupes numériques et leur symbole ou
 unité lorsque leur séparation serait ambiguë (`1&nbsp;200`, `6&nbsp;%`). Les rangs
@@ -71,7 +72,14 @@ la ligne, les libellés de caractéristiques avec leurs valeurs signées.
 
 ### Badges : deux catégories distinctes
 
-Ajouter la classe commune `.lit-badge` au modificateur choisi :
+**Convention prioritaire du 27 novembre 2026 :** afficher uniquement le nom
+d’ensemble de la rune ou le nom de classe dans une bulle arrondie. Retirer du
+rendu compact les champs « Grade actuel », « Grade natif », « Grade » et
+« Rareté » redondants, ainsi que les mentions de couleur associées aux noms.
+Cela remplace les anciens badges portant le mot de rareté, pas les données.
+
+Ajouter la classe commune `.lit-badge` au modificateur choisi. Les libellés de
+la table décrivent les métadonnées, **pas le texte visible dans la bulle** :
 
 | Catégorie | Libellé | Modificateur |
 |---|---|---|
@@ -85,12 +93,39 @@ Ajouter la classe commune `.lit-badge` au modificateur choisi :
 | Rune | Épique (violette) | `lit-badge--rune-epic` |
 | Rune | Légendaire (orange) | `lit-badge--rune-legendary` |
 
-Les fonds sont pastel ; la classe légendaire est dorée, le grade légendaire
-d’une rune est orange. Ne pas les intervertir. La rareté de classe ne donne pas
-le rang d’une rune. Pour chaque rune identifiable, préciser son grade ou sa
-couleur et son rang `{{rang}}★`, puis son amélioration si connue ; le nom
-d’ensemble ne remplace pas ces données. L’amélioration se présente dans
-`<span class="upgrade-badge">+{{palier}}</span>`.
+| Domaine | Rareté | Fond | Texte |
+|---|---|---|---|
+| Rune et classe | Commune | Blanc, fine bordure grise | Sombre |
+| Rune | Peu commune | Vert | Blanc |
+| Rune et classe | Rare | Bleu | Blanc |
+| Rune | Épique | Violet | Blanc |
+| Rune et classe | Légendaire | Orange | Contrasté |
+| Classe | Astrale | Violet | Blanc |
+
+Réutiliser les teintes du projet et mesurer le contraste ; les exemples de la
+conversation ne fixent pas de nouvelles valeurs hexadécimales. Centraliser la
+présentation HTML/CSS et son équivalent SVG : police, taille, arrondi, marges
+internes, largeur adaptée au nom. Les palettes restent sémantiquement distinctes :
+pas de classe « peu commune » ou « épique ». Une classe légendaire a désormais
+un fond orange, et non l’ancien badge doré.
+
+La rareté reste explicite dans les référentiels et les métadonnées de la source,
+avec une alternative accessible et une transcription compréhensibles sans
+couleur. Dans les gabarits ci-dessous, `aria-label` illustre cette alternative ;
+il ne remplace pas le repli textuel après filtrage GitHub. Les modificateurs
+encodent la catégorie technique ; ne jamais déduire une rareté du nom d’ensemble,
+du nombre de secondaires ou d’une couleur de cheveux.
+
+Conserver à côté des bulles les étoiles `{{rang}}★`, les états et provenances,
+puis l’amélioration dans `<span class="upgrade-badge">+{{palier}}</span>`.
+Affixes, valeurs et associations restent intacts. La rareté native ne change
+pas par amélioration ordinaire ; les explications narratives sont préservées.
+Samia au II reste Marcheuse du voile commune, donc blanche. Ne pas modifier les
+noms de classes du III dans ce lot graphique ; leur synchronisation relève d’un
+travail séparé, y compris pour « Marcheuse Astrale », nom donné directement par
+l’auteur dans `docs/conversation/27_11_2026.txt:43`.
+Voir la [note de périmètre et de contrôle](refonte_bulles_rarete_2026_11_27.md),
+notamment pour l’indice éditorial d’Iseria, non réalisé dans ce lot.
 
 ## 3. Identité et types de fenêtres
 
@@ -181,9 +216,8 @@ Titre : « RÉVÉLATION DE CLASSE ». Choisir le modificateur de badge de **clas
 
 ```html
 <h3>{{nom}}</h3>
-<p class="lit-window__row"><strong>Classe éveillée :</strong> <span>{{classe}}</span></p>
+<p class="lit-window__row"><strong>Classe éveillée :</strong> <span class="lit-badge {{modificateur_classe}}" aria-label="{{classe}}, classe {{rareté_classe}}">{{classe}}</span></p>
 <p class="lit-window__row"><strong>Orientation :</strong> <span>{{orientation}}</span></p>
-<p><strong>Rareté de classe :</strong> <span class="lit-badge {{modificateur_classe}}">{{rareté}}</span></p>
 <p><strong>Niveau :</strong> {{niveau}}</p>
 <p><strong>Cercles de mana :</strong> {{cercles}}</p>
 <p><strong>Emplacements runiques :</strong> {{emplacements}}</p>
@@ -196,7 +230,7 @@ Conserver les données naturelles séparées des bonus, sans total non validé.
 
 ```html
 <h3>{{nom}}</h3>
-<p>{{classe}} — <span class="lit-badge {{modificateur_classe}}">{{rareté_classe}}</span></p>
+<p><span class="lit-badge {{modificateur_classe}}" aria-label="{{classe}}, classe {{rareté_classe}}">{{classe}}</span></p>
 <p><strong>Niveau :</strong> {{niveau}} — <strong>XP connue :</strong> {{xp_ou_À_DÉFINIR}}</p>
 <table class="lit-window__stats">
   <caption>Caractéristiques naturelles, hors bonus</caption>
@@ -254,8 +288,9 @@ Un badge n’autorise pas à transformer un actif ciblé en aura ou en passif.
 Titre : « IDENTIFICATION DE RUNE ». Conserver l’identité stable de la rune,
 distincte de l’identifiant de fenêtre, dans l’attribut invisible `data-rune-id`
 de la fiche ou de sa ligne. L’identifiant documentaire ne fait jamais partie du
-texte présenté au lecteur. **DEC-178/179 :** chaque présentation
-ordinaire identifiée contient rareté/couleur, étoiles, amélioration, principale
+texte présenté au lecteur. **DEC-178/179, affichage actualisé le 27 novembre :** chaque présentation
+ordinaire identifiée conserve rareté/couleur dans les métadonnées et le repli
+accessible, puis étoiles, amélioration, principale
 et toutes les secondaires présentes avec leurs valeurs. Le nombre de secondaires
 ne recolore jamais la rune. « Aucune » ne s’emploie que pour une commune blanche
 à +0/+1/+2 ; les autres états reprennent leur liste complète dans `lore/runes.md`.
@@ -265,8 +300,8 @@ remplacent pas la complétion déléguée des présentations autorisées.
 
 ```html
 <div data-rune-id="{{identifiant_rune}}">
-<h3>{{ensemble_ou_nom}}</h3>
-<p><strong>Grade :</strong> <span class="lit-badge {{modificateur_grade_rune}}">{{grade_et_couleur}}</span> — <strong>Rang :</strong> {{rang}}★ — <strong>Amélioration :</strong> <span class="upgrade-badge">+{{palier}}</span></p>
+<h3><span class="lit-badge {{modificateur_grade_rune}}" aria-label="{{ensemble_ou_nom}}, rune {{grade_et_couleur}}">{{ensemble_ou_nom}}</span></h3>
+<p><strong>Rang :</strong> {{rang}}★ — <strong>Amélioration :</strong> <span class="upgrade-badge">+{{palier}}</span></p>
 <p><strong>Principale :</strong> <span class="rune-bonus">{{principale_et_valeur}}</span></p>
 <p><strong>Secondaire :</strong> <span class="rune-bonus">{{secondaire_et_valeur}}</span></p>
 <p><strong>Propriétaire / état :</strong> {{propriétaire_et_état_connus}}</p>
@@ -289,7 +324,7 @@ Le niveau d’amélioration change en cas de réussite, **pas la rareté** ; gar
 la couleur correspondante dans les badges et la source SVG.
 
 ```html
-<p><strong>Rune :</strong> {{nom}} <span class="lit-badge {{modificateur_grade_rune}}">{{grade_et_couleur}}</span>, {{rang}}★</p>
+<p><strong>Rune :</strong> <span class="lit-badge {{modificateur_grade_rune}}" aria-label="{{nom}}, rune {{grade_et_couleur}}">{{nom}}</span>, {{rang}}★</p>
 <p><strong>Tentative :</strong> <span class="upgrade-badge">+{{avant}}</span> → <span class="upgrade-badge">+{{visé}}</span></p>
 ```
 
@@ -351,8 +386,8 @@ Titre : « COMPOSITION DE L’ÉQUIPE ». Répéter une ligne par membre réelle
 ```html
 <table>
   <caption>Membres et points de classe</caption>
-  <thead><tr><th scope="col">Membre</th><th scope="col">Classe et rareté</th><th scope="col">Points</th></tr></thead>
-  <tbody><tr><th scope="row">{{nom}}</th><td>{{classe}} — <span class="lit-badge {{modificateur_classe}}">{{rareté}}</span></td><td>{{points}}</td></tr></tbody>
+  <thead><tr><th scope="col">Membre</th><th scope="col">Classe</th><th scope="col">Points</th></tr></thead>
+  <tbody><tr><th scope="row">{{nom}}</th><td><span class="lit-badge {{modificateur_classe}}" aria-label="{{classe}}, classe {{rareté_classe}}">{{classe}}</span></td><td>{{points}}</td></tr></tbody>
 </table>
 <p><strong>Effectif :</strong> {{effectif}} / {{limite_validée}}</p>
 <p><strong>Points de classe :</strong> {{total}} / {{plafond_validé}}</p>
@@ -388,9 +423,9 @@ lignes sans condenser plusieurs runes d’identités différentes en une seule.
 ```html
 <table class="lit-window__inventory" role="table">
   <caption>Runes inventoriées au moment de la scène</caption>
-  <thead><tr><th scope="col">Rune, grade, rang et amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires</th></tr></thead>
+  <thead><tr><th scope="col">Rune, rang et amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires</th></tr></thead>
   <tbody>
-    <tr data-rune-id="{{identifiant_rune}}"><td>{{nom}} <span class="lit-badge {{modificateur_grade_rune}}">{{grade_et_couleur}}</span>, {{rang}}★, <span class="upgrade-badge">+{{palier}}</span></td><td><span class="rune-bonus">{{principale}}</span></td><td><span class="rune-bonus">{{secondaires_connues}}</span></td></tr>
+    <tr data-rune-id="{{identifiant_rune}}"><td><span class="lit-badge {{modificateur_grade_rune}}" aria-label="{{nom}}, rune {{grade_et_couleur}}">{{nom}}</span>, {{rang}}★, <span class="upgrade-badge">+{{palier}}</span></td><td><span class="rune-bonus">{{principale}}</span></td><td><span class="rune-bonus">{{secondaires_connues}}</span></td></tr>
   </tbody>
 </table>
 ```

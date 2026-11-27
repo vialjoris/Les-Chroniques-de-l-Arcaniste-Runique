@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="260" viewBox="0 0 320 260" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="260" viewBox="0 0 320 260" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">ENNEMIS IDENTIFIÉS Nom : Serviteurs d’argile Niveau : 11 Nombre observé : 4</desc>
 <rect x="4" y="7" width="312" height="250" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="314" height="253" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 10 3 4l7 3h4l7-3-2 6v7l-7 4-7-4Z M8 12h1 M15 12h1 M10 17h4"/></g>

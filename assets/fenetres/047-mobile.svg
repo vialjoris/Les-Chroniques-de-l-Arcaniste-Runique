@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="310" viewBox="0 0 320 310" font-family="Arial, sans-serif">
-<rect x="4" y="7" width="312" height="300" rx="14" fill="#483615" opacity="0.08"/>
-<rect x="1" y="1" width="314" height="303" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="280" viewBox="0 0 320 280" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">NIVEAU SUPÉRIEUR Hasol Shun — Niveau 11 atteint Classe : Arcaniste runique (légendaire) Augmentation des caractéristiques naturelles appliquée.</desc>
+<rect x="4" y="7" width="312" height="270" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="273" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></g>
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="89.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">NIVEAU</text>
 <text x="145.64" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
@@ -21,18 +22,13 @@
 <text x="79.40" y="144.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="83.72" y="144.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
 <text x="88.04" y="144.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="92.36" y="144.30" font-size="18" font-weight="400" fill="#242424" textLength="84.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Arcaniste</text>
-<text x="176.60" y="144.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="180.92" y="144.30" font-size="18" font-weight="400" fill="#242424" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
-<text x="246.80" y="144.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="251.12" y="144.30" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<rect x="20.00" y="155.00" width="111.36" height="27" rx="13.5" fill="#fbf3dd" stroke="#D1AB61"/>
-<text x="26.00" y="174.00" font-size="18" font-weight="700" fill="#795b22" textLength="99.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Légendaire</text>
-<text x="20.00" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="126.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Augmentation</text>
-<text x="146.36" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="150.68" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
-<text x="20.00" y="241.40" font-size="18" font-weight="400" fill="#242424" textLength="142.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">caractéristiques</text>
-<text x="162.56" y="241.40" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="166.88" y="241.40" font-size="18" font-weight="400" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">naturelles</text>
-<text x="20.00" y="271.10" font-size="18" font-weight="400" fill="#242424" textLength="90.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">appliquée.</text>
+<rect x="92.36" y="125.30" width="166.44" height="27" rx="13.5" fill="#e9a34b" stroke="#884717"/>
+<text x="98.36" y="144.30" font-size="18" font-weight="700" fill="#242424" textLength="154.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Arcaniste runique</text>
+<text x="20.00" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="126.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Augmentation</text>
+<text x="146.36" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="150.68" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
+<text x="20.00" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="142.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">caractéristiques</text>
+<text x="162.56" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="166.88" y="211.70" font-size="18" font-weight="400" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">naturelles</text>
+<text x="20.00" y="241.40" font-size="18" font-weight="400" fill="#242424" textLength="90.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">appliquée.</text>
 </svg>

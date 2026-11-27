@@ -22,11 +22,26 @@ conservés pour appliquer notre charte. Un lien vers `style.css`, des styles inl
 ou un SVG inline ne résolvent donc pas le besoin dans cet aperçu.
 
 Les SVG **référencés comme images** portent leur propre rendu vectoriel : fond
-blanc, texte anthracite, bordures dorées, badges pastel, bonus runiques bleus et
-effets temporaires verts. Les libellés restent explicites ; la couleur ne doit
-jamais être l’unique moyen de distinguer les catégories.
+blanc, texte anthracite, bordures dorées, bulles de nom colorées, bonus runiques
+bleus et effets temporaires verts. Depuis l’accord du 27 novembre 2026, le rendu
+compact des runes/classes ne répète plus les mots de rareté ou de couleur : le
+fond de la bulle porte cette distinction. La rareté doit cependant rester
+explicite dans les métadonnées, l’alternative accessible et la transcription
+dépliable, y compris après filtrage GitHub. Ne pas compter sur le CSS ou un
+attribut ARIA conservé par GitHub pour assurer seul ce repli.
+
+Les palettes distinctes et les invariants sont définis dans le
+[guide LitRPG](fenetres_litrpg.md#badges--deux-catégories-distinctes) et la
+[note de refonte du 27 novembre](refonte_bulles_rarete_2026_11_27.md).
+Cette convention concerne les livres I et II et les futures fenêtres ; elle
+n’autorise ni nouveau chapitre ni fiche éditoriale d’Iseria dans ce lot.
 
 ### Preuves disponibles et limites
+
+Les preuves ci-dessous décrivent l’étape historique du 22 novembre, pas une
+validation de la refonte des bulles du 27 novembre. Celle-ci nécessite une
+nouvelle revue des deux livres ; aucun résultat technique de cette nouvelle
+revue n’est revendiqué ici.
 
 Sondes du 22 novembre 2026 via l’[API Markdown officielle](https://docs.github.com/en/rest/markdown/markdown) :
 
@@ -126,7 +141,13 @@ repli reste autorisé afin d’éviter tout débordement ou toute troncature.
    ```
 
 4. Contrôler les images et la transcription dans le rendu ciblé. Un test vert
-   ne remplace pas la revue visuelle ni l’autorisation éditoriale.
+    ne remplace pas la revue visuelle ni l’autorisation éditoriale.
+   Pour les bulles, contrôler les cinq raretés de rune et les quatre raretés de
+   classe, le contraste, le repli textuel sans couleur après filtrage GitHub,
+   les longs noms et les inventaires denses sur bureau/mobile. Comparer les
+   données avant/après ; les seules suppressions de libellés autorisées sont
+   les répétitions de rareté/grade/couleur dans le rendu compact. Les étoiles,
+   améliorations, affixes, valeurs et identifiants invisibles restent conservés.
 5. **Lorsqu’un commit/push est explicitement autorisé**, inclure le Markdown et
    tous les SVG dérivés nécessaires. Publier uniquement le Markdown casserait
    les liens d’images. Cette procédure n’autorise elle-même aucune publication.

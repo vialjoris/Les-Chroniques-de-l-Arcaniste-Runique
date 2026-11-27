@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="734" viewBox="0 0 320 734" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="734" viewBox="0 0 320 734" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">SYSTÈME — ÉVOLUTION DE COMPÉTENCE Croissance runique Palier atteint Boss de donjon achevés personnellement 100 / 100 Nouvel effet permanent Chaque tranche de 100 boss de donjon personnellement achevés accorde un cercle de mana et un emplacement runique supplémentaires, sans restriction de niveau du boss. Premier palier accordé immédiatement Cercles de mana 13 → 14</desc>
 <rect x="4" y="7" width="312" height="724" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="314" height="727" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>

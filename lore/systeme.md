@@ -1,5 +1,26 @@
 # Système LitRPG — Règles runiques
 
+## Mémoire ciblée et questions de sauvegarde — DEC-189/191/193, 27 novembre 2026
+
+Source : [décisions locales après import](../docs/decisions_session_2026_11_27.md).
+**CANON ciblé — DEC-193 :** Hasol voit et entend la scène de Carmela en cauchemar
+malgré son absence de la scène réelle, sans identifier Carmela à ce moment.
+Ce n’est pas un souvenir personnel. La réserve initiale de DEC-189 liée aux seuls
+fragments personnellement vécus de DEC-132 est **levée pour cette scène**.
+Aucune explication de l’origine technique ou magique n’est requise pour valider
+cette présentation ; ne plus bloquer sur l’accès hors vécu. Chemin d’identification
+ultérieure de la grand-mère et emplacement restent à préparer. Aucune omniscience
+générale, vision universelle, faculté héréditaire supplémentaire ou modification
+générale de Mémoire runique ou des autres fragments n’est adoptée.
+
+L’auteur souhaite éviter les retours à seize ans au II (DEC-191). Âge/état de
+remplacement, vies concernées et portée au retour final vers la vie 13 restent
+ouverts ; aucune exception finale n’a été choisie. La grille ancienne est une
+base historique/incomplète à réviser avec le plan, pas une source de nouveaux
+états déductibles. Vérifier Ray rare en vie 4, Aimant, Révélation, mémoire,
+niveaux et cercles sans inventer mécanisme de conservation, chiffres ou XP.
+Le lot ne change ni âge de Révélation comme règle générale ni règle de cumul.
+
 **Fiches et continuité obligatoires — DEC-179/180 :** toute présentation de rune ordinaire identifiée donne rareté/couleur, étoiles, amélioration, principale et toutes les secondaires présentes, avec leurs valeurs. Seules les communes blanches +0/+1/+2 n’ont aucune secondaire. Les données manquantes des présentations existantes ont été complétées par délégation dans l’unique inventaire `runes.md`, avec états successifs et IDs ; `personnages.md` suit leurs porteurs et l’équipement par chapitre sans recopier les affixes. Toute modification doit synchroniser ces deux références, la narration et les fenêtres. Les identifications partielles explicitement racontées, comme la rune temporelle, ne révèlent pas des secrets futurs pour remplir une fiche ordinaire.
 
 **Correction prioritaire — DEC-178 :** l’amélioration ordinaire +0→+15 ne change **ni la rareté ni les étoiles**. Une rune commune (blanche) peut découvrir des secondaires aux paliers établis tout en restant commune (blanche). Les anciennes mentions d’un grade affiché déduit du nombre de secondaires sont remplacées ; elles font l’objet de l’audit demandé par l’auteur. Savoir runique d’Iseria reste un mécanisme distinct de transformation par sacrifice, non affecté par cette correction.

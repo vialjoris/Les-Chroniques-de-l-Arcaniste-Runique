@@ -393,9 +393,25 @@ class GenerateurTests(unittest.TestCase):
         source = Document(source_text)
         self.assertEqual(len(document.windows), len(source.windows))
         self.assertEqual([compact(node.text()) for node in document.windows], [compact(node.text()) for node in source.windows])
-        self.assertEqual(table_cells(document), table_cells(source))
-        self.assertEqual(len(list(document.root.descendants("svg"))), len(list(source.root.descendants("svg"))))
-        self.assertFalse(any(node.tag in {"img", "picture", "source", "details", "summary"} for node in nodes))
+        window_tables = lambda doc: [table_cells(Document(doc.source[window.start:window.end]))
+                                     for window in doc.windows]
+        self.assertEqual(window_tables(document), window_tables(source))
+        self.assertEqual(sum(len(list(window.descendants("svg"))) for window in document.windows),
+                         sum(len(list(window.descendants("svg"))) for window in source.windows))
+        self.assertFalse(any(node.tag in {"img", "picture", "source"} for node in nodes))
+        accessible = [node for node in nodes if "lit-window__accessible-details" in node.classes]
+        expected = [window for window in source.windows
+                    if any("lit-sr-only" in node.classes for node in window.descendants())]
+        self.assertEqual(len(accessible), len(expected))
+        for details, window in zip(accessible, expected):
+            self.assertNotIn("open", details.attrs)
+            summaries = list(details.descendants("summary"))
+            self.assertEqual(len(summaries), 1)
+            self.assertEqual(compact(summaries[0].text()), "Version textuelle complète, raretés explicites")
+            text = compact(details.text()).removeprefix(compact(summaries[0].text()))
+            self.assertEqual(compact(text), compact(window.text()))
+            self.assertFalse(any("lit-sr-only" in node.classes for node in details.descendants()))
+        self.assertEqual(list(document.root.descendants("details")), accessible)
         self.assertFalse(any("**" in node.text() for node in nodes if node.tag in {"h1", "h2", "h3"}))
 
     def test_derive_du_projet_est_regenere_a_l_identique(self):

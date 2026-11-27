@@ -144,12 +144,12 @@ class Arbre(HTMLParser):
         self.pile[-1].enfants.append(data)
 
 
-def texte(noeud):
+def texte(noeud, visuel=False):
     if isinstance(noeud, str):
         return noeud
-    if noeud.tag == "svg":
+    if noeud.tag == "svg" or (visuel and "lit-sr-only" in noeud.classes):
         return ""
-    return "".join(texte(e) for e in noeud.enfants)
+    return "".join(texte(e, visuel) for e in noeud.enfants)
 
 
 def verifier_identifiants_runiques(arbre):
@@ -181,15 +181,15 @@ def normaliser(valeur):
 
 # Charte explicite, distincte des règles et données du système.
 BADGES = {
-    "lit-badge--legendary": ("#795b22", "#fbf3dd", "#D1AB61"),
-    "lit-badge--rare": ("#175b9b", "#edf4fc", "#b6cce5"),
-    "lit-badge--common": ("#42474c", "#f2f3f4", "#c4c8cc"),
-    "lit-badge--astral": ("#694493", "#f3edfb", "#cdb9e2"),
-    "lit-badge--rune-common": ("#505050", "#FFFFFF", "#c8c8c8"),
-    "lit-badge--rune-uncommon": ("#22643b", "#edf7ef", "#b3d3bd"),
-    "lit-badge--rune-rare": ("#175b9b", "#edf4fc", "#b6cce5"),
-    "lit-badge--rune-epic": ("#694493", "#f3edfb", "#cdb9e2"),
-    "lit-badge--rune-legendary": ("#884717", "#fff1e4", "#dfbd98"),
+    "lit-badge--legendary": ("#242424", "#e9a34b", "#884717"),
+    "lit-badge--rare": ("#FFFFFF", "#175b9b", "#175b9b"),
+    "lit-badge--common": ("#242424", "#FFFFFF", "#767676"),
+    "lit-badge--astral": ("#FFFFFF", "#694493", "#694493"),
+    "lit-badge--rune-common": ("#242424", "#FFFFFF", "#767676"),
+    "lit-badge--rune-uncommon": ("#FFFFFF", "#22643b", "#22643b"),
+    "lit-badge--rune-rare": ("#FFFFFF", "#175b9b", "#175b9b"),
+    "lit-badge--rune-epic": ("#FFFFFF", "#694493", "#694493"),
+    "lit-badge--rune-legendary": ("#242424", "#e9a34b", "#884717"),
     "upgrade-badge": ("#175b9b", "#edf4fc", "#b6cce5"),
     "passive-badge": ("#55504a", "#f5f2ed", "#d9d2c6"),
 }
@@ -198,7 +198,7 @@ BADGES = {
 def fragments(noeud, couleur="#242424", gras=False):
     if isinstance(noeud, str):
         return [(noeud, couleur, gras, None)]
-    if noeud.tag == "svg":
+    if noeud.tag == "svg" or "lit-sr-only" in noeud.classes:
         return []
     classes = noeud.classes
     if any(c in classes for c in ("rune-bonus", "lit-window__runic-value")):
@@ -210,7 +210,7 @@ def fragments(noeud, couleur="#242424", gras=False):
     gras = gras or noeud.tag in {"strong", "h2", "h3", "th"}
     for classe in classes:
         if classe in BADGES:
-            return [(normaliser(texte(noeud)), BADGES[classe][0], True, BADGES[classe])]
+            return [(normaliser(texte(noeud, visuel=True)), BADGES[classe][0], True, BADGES[classe])]
     resultat = []
     for enfant in noeud.enfants:
         resultat.extend(fragments(enfant, couleur, gras))
@@ -276,23 +276,24 @@ class Dessin:
             groupes.append(courant)
 
         for groupe in groupes:
-            largeur_groupe = sum(self.mesure(u[0], taille) + (12 if u[3] else 0)
+            largeur_groupe = sum(self.mesure(u[0], 18 if u[3] else taille) + (12 if u[3] else 0)
                                   for u in groupe)
             if curseur + largeur_groupe > x + largeur + 0.01 and curseur > x:
                 self.y += hauteur
                 curseur = x
             for unite, couleur, gras, badge in groupe:
+                taille_unite = 18 if badge else taille
                 # Un badge trop long devient plusieurs badges lisibles, sans perte.
-                if self.mesure(unite, taille) + (12 if badge else 0) > largeur:
+                if self.mesure(unite, taille_unite) + (12 if badge else 0) > largeur:
                     bouts = []
                     courant = ""
                     # Garder les mots entiers dans les bulles quand c'est possible.
                     parties = re.findall(r"\S+\s*|\s+", unite) if " " in unite.strip() else list(unite)
                     parties = [fragment for partie in parties
-                               for fragment in (list(partie) if self.mesure(partie, taille) > largeur - 12
+                               for fragment in (list(partie) if self.mesure(partie, taille_unite) > largeur - 12
                                                 else [partie])]
                     for partie in parties:
-                        if courant and self.mesure(courant + partie, taille) > largeur - 12:
+                        if courant and self.mesure(courant + partie, taille_unite) > largeur - 12:
                             bouts.append(courant)
                             courant = ""
                         courant += partie
@@ -300,7 +301,7 @@ class Dessin:
                 else:
                     bouts = [unite]
                 for bout in bouts:
-                    w = self.mesure(bout, taille)
+                    w = self.mesure(bout, taille_unite)
                     total = w + (12 if badge else 0)
                     if (largeur_groupe > largeur
                             and curseur + total > x + largeur + 0.01 and curseur > x):
@@ -311,13 +312,13 @@ class Dessin:
                         continue
                     if badge:
                         self.elements.append(
-                            f'<rect x="{curseur:.2f}" y="{self.y:.2f}" width="{total:.2f}" '
-                            f'height="{taille + 9}" rx="{(taille + 9) / 2}" '
+                            f'<rect x="{curseur:.2f}" y="{self.y + taille - taille_unite:.2f}" width="{total:.2f}" '
+                            f'height="{taille_unite + 9}" rx="{(taille_unite + 9) / 2}" '
                             f'fill="{badge[1]}" stroke="{badge[2]}"/>')
                     tx = curseur + (6 if badge else 0)
                     self.elements.append(
                         f'<text x="{tx:.2f}" y="{self.y + taille + 1:.2f}" '
-                        f'font-size="{taille}" font-weight="{700 if gras else 400}" '
+                        f'font-size="{taille_unite}" font-weight="{700 if gras else 400}" '
                         f'fill="{couleur}" textLength="{w:.2f}" lengthAdjust="spacingAndGlyphs" '
                         f'xml:space="preserve">{escape(bout)}</text>')
                     self.contenu.append(bout)
@@ -341,6 +342,8 @@ class Dessin:
         if isinstance(noeud, str):
             if noeud.strip():
                 self.flux(fragments(noeud))
+            return
+        if "lit-sr-only" in noeud.classes:
             return
         if any(classe in noeud.classes for classe in ("lit-window__header", "system-header")):
             for enfant in noeud.enfants:
@@ -380,12 +383,13 @@ class Dessin:
 
     def svg(self, arbre):
         self.bloc(arbre)
-        attendu = normaliser(texte(arbre))
+        attendu = normaliser(texte(arbre, visuel=True))
         if re.sub(r"\s", "", "".join(self.contenu)) != re.sub(r"\s", "", attendu):
             raise ValueError("Le dessin ne restitue pas tout le texte de la fenêtre")
         hauteur = round(self.y + self.marge)
         return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{self.largeur}" height="{hauteur}" '
-                f'viewBox="0 0 {self.largeur} {hauteur}" font-family="Arial, sans-serif">\n'
+                f'viewBox="0 0 {self.largeur} {hauteur}" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">\n'
+                f'<desc id="fenetre-description">{escape(normaliser(texte(arbre)))}</desc>\n'
                 f'<rect x="4" y="7" width="{self.largeur - 8}" height="{hauteur - 10}" rx="14" fill="#483615" opacity="0.08"/>\n'
                 f'<rect x="1" y="1" width="{self.largeur - 6}" height="{hauteur - 7}" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>\n'
                 + "\n".join(self.elements) + "\n</svg>\n")
@@ -418,7 +422,7 @@ def produire(source, asset_prefix="assets/fenetres"):
         enveloppe = (
             f'\n  <picture class="{PICTURE_CLASS}">\n'
             f'    <source media="(max-width: 600px)" srcset="{asset_prefix}/{f.identifiant}-mobile.svg">\n'
-            f'    <img src="{asset_prefix}/{f.identifiant}.svg" alt="{escape("Fenêtre du système — " + titre, quote=True)}">\n'
+            f'    <img src="{asset_prefix}/{f.identifiant}.svg" alt="{escape("Fenêtre du système — " + titre + ". Version textuelle complète dans le volet suivant.", quote=True)}">\n'
             f'  </picture>\n  <details class="{TRANSCRIPT_CLASS}">\n'
             f'    <summary class="{TOGGLE_CLASS}">{TOGGLE_TEXT}</summary>'
             + corps + '  </details>\n')

@@ -1,5 +1,57 @@
 # Chronologie
 
+## Futurs et décisions locales prioritaires du 27 novembre — DEC-187 à DEC-193
+
+Source : [note de session](../docs/decisions_session_2026_11_27.md), discussion
+locale après import, autorisation « enregistre les decisions ». **Aucun événement
+ci-dessous n’est ajouté au raconté.** Cette section prime les champs affectés des
+tableaux antérieurs, conservés comme base historique/incomplète à réviser avec
+`PLAN_LIVRE_II.md`, sans nouvelle grille globale validée.
+
+### Futurs canoniques, placement précis à préparer
+
+- L’Empire s’oppose au mariage Ray/Hasol pour contrôler l’Astrale Astrea, sans
+  interdiction universelle des mariages astraux (DEC-187).
+- Le pacte exige qu’Iseria signale la naissance d’un enfant astral, en plus de
+  rompre les liens avec Ténébria. Hasol cachée constitue la rupture reprochée et
+  motive sa condamnation par son frère empereur (DEC-188, complément DEC-137).
+- Enquêteurs informés du surnom d’Astrale sanguinaire et du futur mariage →
+  ressemblance des tenues avec l’atelier royal → registres des commandes
+  d’Iseria Shun → rapport à Carmela, qui reconnaît sa fille Iseria (DEC-189).
+  Dans cette trajectoire, ce déclencheur remplace celui du rapprochement avec
+  Ténébria. Carmela reste épouse de l’ancien empereur.
+- Scène de Carmela vue et entendue par Hasol en cauchemar malgré son absence
+  réelle, sans identification de Carmela, puis
+  compréhension que la grand-mère est la seule à pouvoir sauver sa fille
+  **Iseria**. **CANON ciblé — DEC-193 lève la réserve de DEC-189/132 :** ce
+  n’est pas un souvenir personnel ; l’accès à la scène ne requiert aucune
+  explication technique/magique préalable. Pas de faculté omnisciente, vision
+  universelle ou mécanisme héréditaire ajouté. Chemin d’identification ultérieure
+  et emplacement à préparer ; aucun âge ou intervalle fixé entre ces étapes.
+
+### Propositions, orientations et arbitrages ouverts
+
+- **PROPOSITION auteur — DEC-190 :** Ray avertirait Hasol que des enquêteurs sont
+  venus le voir à son sujet ; interlocuteur retenu pour préparation, dialogue et
+  modalités non validés.
+- **Orientation auteur — DEC-191 :** éviter les retours à seize ans au II ;
+  âge/état de remplacement, vies concernées et portée au retour final vers la
+  vie 13 ouverts. L’exception finale à seize ans suggérée par l’assistant n’a pas
+  été choisie. Ne pas supprimer automatiquement la fin du II ou le début du III existants.
+- **Direction envisagée, pas nouvelle grille validée :** vie 4 avec mariage
+  interrompu et condamnation. Articulation avec Orven et les drames antérieurs,
+  placements historiques vie 9/10, titres et répartition à revoir. Vérifier Ray
+  rare en vie 4, Aimant/Révélation et états sauvegardés sans chiffres inventés.
+- **Accord de principe — DEC-192 :** fiche éditoriale d’Iseria pour le lecteur
+  du II seulement, non vue par Hasol ; fond violet face à sa déclaration Rare,
+  emplacement envisagé autour des cadeaux écarlates. Nom, contenu et placement
+  ouverts ; aucune fiche, scène ou retouche du I créée.
+
+Ces décisions ne changent ni l’âge de Révélation comme règle du monde, ni le
+nombre de vies/DING, ni un niveau, XP, cercle ou inventaire. Les lignes à seize
+ans des anciennes grilles sont les valeurs historiques en attente d’arbitrage,
+pas des remplacements confirmés ni une exception finale réaffirmée.
+
 **Raccord documentaire prioritaire — DEC-178/179/180 :** les runes présentées ont leurs fiches complètes et états successifs dans `runes.md`, avec porteurs et transitions dans `personnages.md`. Première Énergie maternelle travaillée : HAS-R009 rare bleue ; seconde HAS-R010 peu commune verte, toutes deux 3★ +9 données à Yoon. Les seize finales du I sont rares bleues 6★ +15, cadeaux paternels conservés et autres pièces 6★ distinctes des anciennes 2★/3★ ; dates d’acquisition non racontées non inventées. Toute nouvelle modification doit synchroniser ces références par chapitre. Les états après ellipse restent ouverts lorsqu’ils ne sont pas présentés ; le chapitre 3 du II constitue désormais un instantané complet à vingt-cinq ans, sans fixer les vies suivantes ni la fin du tome.
 
 **Relecture du chapitre 2 — DEC-174 à DEC-176 :** choix avec Orven et Ray de sept runes équipées, 4 Fatal / 2 Gardien / 1 Énergie, cadeaux paternels compris, et d’une seconde Énergie en réserve. Palier : 7→8 cercles dans la notification, réserve équipée immédiatement pour **8/8, 4/2/2** ; projet de visite à Orven, annonce d’une surprise par Elric, puis remise des huit Vol de vie. Le soir : deux cadeaux rangés avec Armin, six autres runes retirées/rangées, huit nouvelles pierres à 8/8. Aucun délai, niveau ou affixe supplémentaire déduit.

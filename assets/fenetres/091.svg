@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="312" viewBox="0 0 680 312" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="312" viewBox="0 0 680 312" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">FICHE DE COMMANDE Rune : Gardien (commune (blanche)), 2★ État initial : +0 Objectif demandé : +2 Limite autorisée : 3 tentatives au maximum Principale à +0 : Défense +5 ; secondaires : Aucune.</desc>
 <rect x="4" y="7" width="672" height="302" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="674" height="305" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></g>
@@ -12,13 +13,11 @@
 <text x="72.28" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="76.60" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
 <text x="80.92" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="85.24" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="69.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Gardien</text>
-<text x="154.36" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="158.68" y="95.60" width="186.96" height="27" rx="13.5" fill="#FFFFFF" stroke="#c8c8c8"/>
-<text x="164.68" y="114.60" font-size="18" font-weight="700" fill="#505050" textLength="174.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">commune (blanche)</text>
-<text x="345.64" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
-<text x="349.96" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="354.28" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="20.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2★</text>
+<rect x="85.24" y="95.60" width="81.12" height="27" rx="13.5" fill="#FFFFFF" stroke="#767676"/>
+<text x="91.24" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="69.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Gardien</text>
+<text x="166.36" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
+<text x="170.68" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="175.00" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="20.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2★</text>
 <text x="28.00" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="35.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">État</text>
 <text x="63.64" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="67.96" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="46.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">initial</text>

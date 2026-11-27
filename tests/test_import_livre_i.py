@@ -8,7 +8,7 @@ import unittest
 from lecture_support import (
     APPROVED_OEIL_CORRECTIONS, Document, before_approved_oeil_corrections,
     before_approved_rune_corrections, before_invisible_rune_ids_and_dec181,
-    compact, digest, manifest, historical_prefix,
+    compact, digest, manifest, historical_prefix, before_bubble_presentation,
 )
 
 
@@ -91,7 +91,7 @@ class ImportLivreITests(unittest.TestCase):
     def setUpClass(cls):
         cls.source = (ROOT / "livre_1_l_ascension_d_une_legende_oubliee.md").read_bytes().decode("utf-8")
         cls.parts = chapters(cls.source)
-        cls.archive = (ROOT / "docs/new.txt").read_text(encoding="utf-8")
+        cls.archive = (ROOT / "docs/conversation/archive_2.txt").read_text(encoding="utf-8")
 
     def test_corps_des_chapitres_1_a_12_identiques_a_l_avant_import(self):
         original_parts = chapters(before_approved_oeil_corrections(before_approved_rune_corrections(self.source)))
@@ -128,11 +128,12 @@ class ImportLivreITests(unittest.TestCase):
         self.assertNotRegex(self.source, r"(?im)^#+\s*(?:\*\*)?Chapitre\s+17\b")
 
     def test_chapitre_13_sections_i_a_x_preservees_octet_pour_octet(self):
-        start = re.search(r"^# Chapitre 13 —[^\n]*", self.source, re.M)
+        source = before_bubble_presentation(self.source)
+        start = re.search(r"^# Chapitre 13 —[^\n]*", source, re.M)
         self.assertIsNotNone(start)
-        xi = re.search(r"^## XI\. La nuit où tout a changé\s*$", self.source[start.start():], re.M)
+        xi = re.search(r"^## XI\. La nuit où tout a changé\s*$", source[start.start():], re.M)
         self.assertIsNotNone(xi, "La nouvelle section XI doit suivre les dix sections validées")
-        before = self.source[start.start():start.start() + xi.start()]
+        before = source[start.start():start.start() + xi.start()]
         before = re.sub(r"\s*---\s*$", "", before)
         before = re.sub(r"\n---\n\n\*\*Fin du chapitre 13[^\n]*\*\*\s*$", "", before)
         self.assertEqual(digest(before_invisible_rune_ids_and_dec181(before).rstrip()),

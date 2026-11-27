@@ -1,5 +1,65 @@
 # Le Vertige des vies oubliées — Plan du livre II en seize chapitres
 
+## Addendum prioritaire du 27 novembre — DEC-187 à DEC-193
+
+**Source :** discussion locale après import, session `ses_de3ed5617ffe7bP1oBeNSAf90I`,
+autorisation « enregistre les decisions ». Citations exactes et limites dans
+[`docs/decisions_session_2026_11_27.md`](docs/decisions_session_2026_11_27.md).
+Les rappels et tableaux antérieurs ci-dessous restent une **base historique de
+travail, incomplète pour cette nouvelle trajectoire**. Cet addendum prime leurs
+champs affectés ; il ne valide pas une refonte générale des vies 2–12 ni des seize
+titres et ne change pas les chapitres déjà racontés.
+
+- **CANON — DEC-187/188 :** l’Empire s’oppose au mariage Ray/Hasol pour contrôler
+  politiquement l’Astrale Astrea. Le pacte impose à Iseria de signaler la naissance
+  d’un enfant astral, en plus de rompre les liens avec Ténébria ; Hasol cachée
+  constitue la rupture reprochée et motive la condamnation. Pas de loi universelle
+  du mariage astral, ni de procédure juridique déduite.
+- **CANON, intention future — DEC-189 :** enquêteurs alertés par l’Astrale
+  sanguinaire et son futur mariage ; tenues rappelant l’atelier royal ; commandes
+  identifiant Iseria Shun ; rapport à Carmela qui reconnaît sa fille Iseria.
+  Dans cette trajectoire, l’enquête des tenues **remplace** le rapprochement avec
+  Ténébria comme déclencheur de découverte de la filiation d’Hasol (DEC-137).
+  Carmela reste épouse de l’ancien empereur, mère d’Iseria et de l’empereur actuel.
+- **CANON ciblé — DEC-189/193 :** Hasol voit et entend en cauchemar la scène
+  de Carmela disant qu’elle ne pourra pas protéger Iseria de son frère cette
+  fois-ci, malgré son absence réelle et sans identifier Carmela. Elle
+  comprendra ensuite que sa grand-mère est la seule pouvant sauver sa fille
+  **Iseria**, pas un enfant d’Hasol. DEC-193 lève la réserve d’accès hors vécu
+  de DEC-189/132 pour cette scène : ce n’est pas un souvenir personnel, et
+  aucune explication technique/magique préalable n’est requise. Pas d’omniscience
+  ni de vision universelle ou d’hérédité supplémentaire. Chemin d’identification
+  ultérieure, durée, dates et placement exact restent à préparer.
+  **Complément direct de DEC-193 :** un proche non nommé apporte une feuille/le
+  rapport d’enquête et s’adresse à elle par « Carmela ». Hasol apprend ce prénom
+  dès le cauchemar, sans connaître encore son identité, son lien de grand-mère
+  ou son statut impérial. Nom, sexe et fonction du proche ouverts ; ne pas
+  l’assimiler automatiquement à un enquêteur ni faire lire à Hasol la feuille
+  ou les pensées. Les citations exactes figurent dans la note de session ; la
+  formulation normalisée n’est pas un dialogue littéraire final validé.
+- **PROPOSITION auteur — DEC-190 :** Ray est l’interlocuteur retenu pour préparer
+  une scène où il avertirait Hasol de la visite des enquêteurs à son sujet.
+  Paroles et réponses ne sont pas validées ; les détails d’interrogatoire
+  suggérés par l’assistant ne sont pas des décisions.
+- **Orientation CANON, modalités ouvertes — DEC-191 :** éviter les retours à
+  seize ans au II. Âge/état de remplacement, vies concernées et portée à l’ultime
+  retour vers la vie 13 **À DÉFINIR** ; aucune exception finale à seize ans validée.
+  Conserver sans réécriture automatique la fin du II/début du III en attendant
+  l’arbitrage. Vérifier Ray rare en vie 4, Aimant et Révélation, niveaux/cercles
+  et mémoire, sans inventer de règle de conservation.
+- **Accord de principe — DEC-192 :** indice Iseria au II, fiche éditoriale lecteur,
+  non fenêtre vue par Hasol ; fond violet contrastant avec sa déclaration Rare,
+  autour des cadeaux écarlates envisagé. Nom/contenu/placement ouverts ; aucune
+  fiche ou scène créée, aucun changement du I.
+
+**À réarbitrer conjointement avec la chronologie :** direction envisagée de vie 4
+avec mariage interrompu et condamnation, articulation avec Orven et les drames
+antérieurs, répartition des vies/chapitres, sauvegardes et informations connues.
+Les placements historiques de condamnation en vie 9 et de recours à Carmela en
+vie 10 ne fixent pas les placements de la nouvelle trajectoire. Aucun âge, niveau,
+total de runes, XP, date, durée d’enquête, nombre de vies ou mécanisme de mémoire
+n’est fixé par cet addendum. Aucune rédaction ou publication autorisée.
+
 **Progression de Yoon — DEC-185/186 :** Sage runique légendaire (20 points) en vie 2. Présentation post-Révélation : Résonance/Chant/Vague au niveau 1 et Vague légendaire. Scènes ciblées au chapitre 2 : Sceau de lucidité 10, Domaine des Entraves runiques 20, Marque runique 30. Au chapitre 3, Yoon atteint le niveau 40 et démontre l'évolution de Résonance runique, qui conserve son nom. Tempête runique 50 et Convergence runique 60 restent canoniques mais non anticipées en scène. Résultats des combats inchangés ; paramètres ouverts dans `lore/systeme.md`.
 
 **Intégration prioritaire du 26 novembre — DEC-181 à DEC-184 :** chapitre 3 « Celle qui n’était pas dans les bois », `docs/new.txt:120757–122581`, dix-huit sections, **TEXTE VALIDÉ ET INTÉGRÉ**. Les notes postérieures sont exclues. Vie 2 jusqu’à vingt-cinq ans : Hasol niveau 40, 32 cercles/32 runes, Siphon chiffré, Ray niveau 25 tué par le loup alpha, 12 DONG + 2 DING. Ce jalon de 32 cercles est propre à la vie 2 au chapitre 3, pas la restauration de l’ancien objectif de fin du II. Aucun chapitre 4, publication, commit ou push.

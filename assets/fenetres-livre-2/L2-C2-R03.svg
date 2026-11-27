@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="283" viewBox="0 0 680 283" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="283" viewBox="0 0 680 283" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">SECONDE EXPÉRIENCE — PALIER ATTEINT Gardien (peu commune (verte)), 1★ Amélioration : +6 Caractéristique principale : Défense +9 Caractéristiques secondaires présentes : PV +20 ; Vitesse +1.</desc>
 <rect x="4" y="7" width="672" height="273" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="674" height="276" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="119.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">SECONDE</text>
@@ -11,15 +12,11 @@
 <text x="446.32" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="451.72" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="104.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ATTEINT</text>
 <path d="M28 77.6h624" stroke="#D8BF8F"/>
-<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Gardien</text>
-<text x="103.60" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="107.92" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="37.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">peu</text>
-<text x="145.72" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="150.04" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="98.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">commune</text>
-<text x="248.32" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="252.64" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">(verte),</text>
-<text x="318.52" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="322.84" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1★</text>
+<rect x="28.00" y="102.60" width="81.12" height="27" rx="13.5" fill="#22643b" stroke="#22643b"/>
+<text x="34.00" y="121.60" font-size="18" font-weight="700" fill="#FFFFFF" textLength="69.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Gardien</text>
+<text x="109.12" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
+<text x="113.44" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="117.76" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1★</text>
 <text x="28.00" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="111.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Amélioration</text>
 <text x="139.24" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="143.56" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>

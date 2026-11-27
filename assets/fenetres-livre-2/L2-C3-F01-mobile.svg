@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="574" viewBox="0 0 320 574" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="574" viewBox="0 0 320 574" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">Montée de niveau 39 → 40 Siphon runique Compétence active · Élément Vent · Dégâts de zone Dégâts : 120 % de la PA Mana récupéré : 75 % des dégâts infligés Rayon : 8 mètres Coût : 100 Mana Temps de recharge : 20 secondes Récupération maximale : 1 200 Mana</desc>
 <rect x="4" y="7" width="312" height="564" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="314" height="567" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="89.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Montée</text>

@@ -104,16 +104,56 @@
 }
 
 .upgrade-badge { color: #175b9b; background: #edf4fc; border-color: #b6cce5; white-space: nowrap; }
+.lit-badge { font-size: 14px; }
 .passive-badge { color: #55504a; background: #f5f2ed; border-color: #d9d2c6; }
-.lit-badge--legendary { color: #795b22; background: #fbf3dd; border-color: #D1AB61; }
+.lit-badge--legendary,
+.lit-badge--rune-legendary { color: #242424; background: #e9a34b; border-color: #884717; }
 .lit-badge--rare,
-.lit-badge--rune-rare { color: #175b9b; background: #edf4fc; border-color: #b6cce5; }
-.lit-badge--common { color: #42474c; background: #f2f3f4; border-color: #c4c8cc; }
-.lit-badge--astral { color: #694493; background: #f3edfb; border-color: #cdb9e2; }
-.lit-badge--rune-common { color: #505050; background: #FFFFFF; border-color: #c8c8c8; }
-.lit-badge--rune-uncommon { color: #22643b; background: #edf7ef; border-color: #b3d3bd; }
-.lit-badge--rune-epic { color: #694493; background: #f3edfb; border-color: #cdb9e2; }
-.lit-badge--rune-legendary { color: #884717; background: #fff1e4; border-color: #dfbd98; }
+.lit-badge--rune-rare { color: #FFFFFF; background: #175b9b; border-color: #175b9b; }
+.lit-badge--common,
+.lit-badge--rune-common { color: #242424; background: #FFFFFF; border-color: #767676; }
+.lit-badge--astral,
+.lit-badge--rune-epic { color: #FFFFFF; background: #694493; border-color: #694493; }
+.lit-badge--rune-uncommon { color: #FFFFFF; background: #22643b; border-color: #22643b; }
+
+/* Le complément reste lisible dans la transcription GitHub sans CSS. */
+.lit-window .lit-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+.lit-window__accessible-details {
+  margin: -1rem 0 1.75rem;
+  padding: 0.65rem 1rem;
+  border: 1px solid #767676;
+  border-radius: 8px;
+  background: #FFFFFF;
+  color: #242424;
+}
+.lit-window__accessible-details summary { cursor: pointer; }
+.lit-window__accessible-details table {
+  width: 100%;
+  border-collapse: collapse;
+  overflow-wrap: anywhere;
+}
+.lit-window__accessible-details th,
+.lit-window__accessible-details td {
+  padding: 0.4rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid #D8BF8F;
+}
+.lit-window__accessible-details summary:focus-visible {
+  outline: 3px solid #175b9b;
+  outline-offset: 4px;
+}
 
 .character-sheet table,
 .lit-window table {
@@ -173,6 +213,18 @@
 @media print {
   .lit-window { box-shadow: none; margin: 1rem 0; padding: 0.85rem; break-inside: auto; }
   .lit-window__icon { display: none; }
+  .lit-window .lit-sr-only {
+    display: inline;
+    position: static;
+    width: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    clip-path: none;
+    white-space: normal;
+    color: #242424;
+  }
+  .lit-window__accessible-details { display: none; }
   .lit-window__header,
   .lit-window h2,
   .lit-window h3 { break-after: avoid; }

@@ -1,5 +1,57 @@
 # Tests de la refonte de lecture
 
+## Bulles runes/classes — 27 novembre 2026
+
+`test_bulles_fenetres.py` contrôle les deux manuscrits actuels sans écrire les
+dérivés : segments hors fenêtres octet-identiques et ordonnés, compte/ordre des
+fenêtres et associations `data-rune-id`, nombres/étoiles/améliorations, affixes
+ordonnés et bonus chiffrés. Les deux étoiles décoratives entourant la rareté de
+classe de la première Révélation ne sont pas un rang de rune ; leur seul libellé
+exact est exclu du relevé numérique. Les anciens bonus de grade sans chiffre ne
+sont pas des valeurs d'équipement et sont remplacés par la bulle de nom.
+
+`fixtures/fenetres_avant_bulles_20261127.json` provient exclusivement des copies
+avant intervention, dont les SHA-256 sont consignés. Les empreintes sont calculées
+par famille de données sur des listes ordonnées, jamais sur des ensembles. La
+suite permanente ne lit pas ces copies temporaires et ne renouvelle aucune preuve.
+
+La nouvelle fixture `bulles_20261127_inverse.json` est un journal fermé de
+présentation, pas un second inventaire : 253 éditions au I, 37 au II. Pour éviter
+de recopier 179 fenêtres, les triplets `[début après, fin après, texte avant]`
+en caractères Unicode sont du JSON compact UTF-8 compressé zlib/base64. Le helper
+`before_bubble_presentation` exige le SHA-256 complet après, inverse les éditions
+dans l'ordre décroissant et exige le SHA-256 avant. Valeur, rareté, préfixe ou
+prose altérés sont refusés. Les anciennes fixtures DEC-179 et les empreintes
+historiques sont inchangées et continuent de s'appliquer à cette restauration.
+Les assertions textuelles historiques du I et les preuves d'import utilisent
+cette seule restauration bornée, pas une normalisation générale des raretés.
+
+Indépendamment du journal, le DOM actuel est contrôlé avec ses métadonnées : noms,
+raretés, étoiles, paliers, principales et secondaires des inventaires sont
+comparés au lore, notamment les 32 pièces de la vie 2. Les mutations de nom,
+rareté machine, étoiles, amélioration, valeur et ordre d'affixes doivent échouer.
+Les IDs sont découverts dans les métadonnées ; seuls les cas synthétiques ont des
+IDs explicites. Les archives mobiles ont été déplacées vers
+`docs/conversation/archive_2.txt` ; les recherches par ancres restent inchangées.
+
+Les neuf variantes fermées (cinq runes, quatre classes) passent par le générateur
+en mémoire, en mobile et bureau. Les contrastes CSS et SVG doivent atteindre
+4,5:1 ; la bordure commune doit aussi contraster avec le blanc. Le violet astral
+est celui de l'épique runique, pas la palette légendaire. Chaque nom possède un
+complément de rareté en texte HTML réel dans la transcription, sans rôle ou
+tabindex interactif. Les alternatives orientent vers le volet complet. Les SVG
+conservent le texte compact dans `text/tspan`, toute la transcription dans `desc`,
+et le vocabulaire fermé de primitives passives ; aucun assouplissement des tests
+de sécurité. Iseria ne reçoit pas de classe astrale dans les fenêtres/alternatives.
+
+Le lecteur conserve chaque fenêtre et ajoute un seul volet textuel explicite
+pour celles ayant des raretés compactées ; les tables et icônes de ces volets
+sont des duplications intentionnelles vérifiées séparément. Une fenêtre simple
+sans ID reste acceptée ; une enveloppe GitHub sans ID reste refusée. Le contrat
+CSS d'impression exige les raretés visibles et masque les volets redondants.
+Ces tests structurels ne remplacent pas une vérification visuelle/lecteur d'écran,
+ni un contrôle du filtre GitHub distant ou d'un PDF rendu.
+
 ## Corrections runiques DEC-178/179/180 — état actuel
 
 Les deux manuscrits stabilisés sont contrôlés séparément : **153 fenêtres et

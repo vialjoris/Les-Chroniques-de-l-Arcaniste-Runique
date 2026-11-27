@@ -1,5 +1,51 @@
 # Personnages — Continuité et historique par chapitre
 
+## Futurs et connaissances distinctes — décisions locales du 27 novembre, DEC-187 à DEC-193
+
+Source : [note de session et citations exactes](../docs/decisions_session_2026_11_27.md),
+après import des archives. **Planification, pas nouvel état raconté.** Cette
+section prime les anciens déclencheurs/placements affectés sans réécrire les
+fiches historiques ni les chapitres validés. Aucun niveau, XP, compétence,
+blessure, relation déjà vécue ou équipement n’est changé par cette consignation.
+
+| Personnage / instance | Futur retenu ou piste | Limite de connaissance |
+|---|---|---|
+| Hasol et Ray | Opposition impériale à leur mariage pour contrôler Hasol, Astrale Astrea (CANON du motif, DEC-187). Direction vie 4/mariage interrompu envisagée, placement et couple à préparer. | Aucun couple établi dans toutes les vies ou réponse sentimentale de vie 3 déduit. Ne pas leur attribuer d’emblée les motifs secrets de l’Empire. |
+| Iseria | Pacte : signaler un enfant astral, en plus de rompre les liens avec Ténébria ; Hasol cachée constitue la rupture reprochée et motive la condamnation (DEC-188). | Savoir de l’auteur pour préparation, non révélation déjà faite à Hasol. Pas de mécanisme juridique inventé. |
+| Enquêteurs impériaux | Entendent parler de l’Astrale sanguinaire et du mariage ; rapprochent les tenues de l’atelier royal et trouvent Iseria Shun dans les commandes ; informent Carmela (DEC-189). | Informations obtenues au fil de cette enquête future ; pas connaissance initiale automatique de la filiation ni durée fixée. |
+| Carmela Astrea | Reconnaît sa fille Iseria dans le rapport ; phrase sur Hasol cachée et l’impossibilité de protéger Iseria de son frère cette fois-ci (DEC-189). | Reste épouse de l’ancien empereur, mère d’Iseria/de l’empereur actuel et grand-mère d’Hasol/Ténébria. La scène ne transfère pas ce savoir à Hasol. |
+| Hasol | Voit et entend la scène de Carmela en cauchemar malgré son absence réelle, sans identifier Carmela ; comprendra ensuite que sa grand-mère est la seule pouvant sauver sa fille Iseria (DEC-189/193). | CANON ciblé, pas souvenir personnel : DEC-193 lève la réserve d’accès de DEC-189/132 sans explication technique/magique préalable. Identification ultérieure et emplacement à préparer. « Sa fille » = Iseria, fille de Carmela, pas un enfant d’Hasol. Aucune omniscience, vision universelle ou faculté héréditaire supplémentaire. |
+| Ray | Interlocuteur retenu pour préparer la piste où il avertit Hasol de la visite des enquêteurs (PROPOSITION auteur, DEC-190). | Aucun dialogue définitif, réponse précise, nom de mère communiqué ou secret Astrea acquis déduit des suggestions de l’assistant. |
+
+**Précision de savoir futur — complément direct de DEC-193 :** dans le cauchemar,
+un proche non nommé apporte une feuille/le rapport et s’adresse à elle par
+« Carmela ». Hasol apprend **le prénom**, mais pas encore l’identité de cette
+femme, son lien de grand-mère ou son statut impérial. Aucun de ces savoirs n’est
+ajouté aux chapitres actuels. Nom, sexe et fonction du proche ouverts ; il n’est
+pas nécessairement enquêteur. Pas de lecture automatique du rapport ni des pensées.
+
+**Priorité de trajectoire — DEC-189 :** l’enquête des tenues remplace le
+rapprochement avec Ténébria comme déclencheur de découverte de la filiation
+d’Hasol dans cette nouvelle trajectoire. Les anciens placements vie 9/10 restent
+historiques ; ne pas les imposer à la direction envisagée de vie 4 sans arbitrage
+conjoint du plan et de la chronologie.
+
+**Sauvegardes — DEC-191 :** l’auteur veut éviter les retours à seize ans au II ;
+vies concernées, âge/état de remplacement et portée au retour final vers la vie 13
+ouverts. Aucune exception finale choisie et aucun nouvel état de personnage
+restauré. Vérifier Ray rare en vie 4, Aimant/Révélation et mémoire lors de la
+révision de grille ; ne pas supposer des souvenirs ou un équipement transférés.
+
+**Indice lecteur — DEC-192 :** accord de principe de fiche éditoriale Iseria au
+II, non fenêtre vue par Hasol, fond violet contrastant avec sa déclaration Rare.
+Nom/contenu/placement ouverts ; aucune fiche créée, aucune identité nouvelle ni
+connaissance de personnage fixée par cet accord. Les arbitrages de fond de
+l’archive sur Iseria restent un travail distinct de ce relevé local.
+
+**Synchronisation DEC-180 :** inventaire et IDs portés/en réserve inchangés ;
+aucune acquisition, amélioration, consommation ou opération de rune racontée.
+Voir la note correspondante dans `runes.md`.
+
 ## Suivi runique prioritaire — DEC-178/179
 
 **Application DEC-180 :** les présentations correspondantes des deux manuscrits sont intégrées et contrôlées contre ce suivi et `runes.md`. Toute acquisition, amélioration, changement d’équipement ou transfert ultérieur doit mettre à jour les deux références par livre/vie/chapitre avant livraison ; ni état après ellipse, ni inventaire futur ne se déduisent d’un ancien tableau.

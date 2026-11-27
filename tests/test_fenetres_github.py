@@ -14,7 +14,7 @@ import unittest
 from unittest.mock import patch
 import xml.etree.ElementTree as ET
 
-from lecture_support import Document, compact, digest, historical_prefix, manifest, before_approved_rune_corrections
+from lecture_support import Document, compact, digest, historical_prefix, manifest, before_approved_rune_corrections, visual_text
 import test_lecture as lecture_tests
 from test_lecture import REFERENCE
 
@@ -152,7 +152,10 @@ class GitHubFenetreTests(unittest.TestCase):
                     self.assertTrue(texts)
                     shown = " ".join("".join(node.itertext()) for node in texts)
                     normalize = lambda text: re.sub(r"\s+", "", text)
-                    self.assertEqual(normalize(shown), normalize(window.text()))
+                    self.assertEqual(normalize(shown), normalize(visual_text(window)))
+                    descriptions = list(svg.iter(SVG_NS + "desc"))
+                    self.assertEqual(len(descriptions), 1)
+                    self.assertEqual(compact("".join(descriptions[0].itertext())), compact(window.text()))
                     for node in texts:
                         self.assertNotIn(node.attrib.get("display", ""), {"none"})
                         self.assertNotIn(node.attrib.get("visibility", ""), {"hidden", "collapse"})

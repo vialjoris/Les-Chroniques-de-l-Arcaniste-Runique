@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="396" viewBox="0 0 680 396" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="396" viewBox="0 0 680 396" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">SYSTÈME — COMPÉTENCE ACTIVE Dernier Rempart Gardien · Niveau 50 Libère une explosion dont la puissance dépend des points de vie sacrifiés par le lanceur. PV conservés 0 % Sacrifice total — Puissance maximale</desc>
 <rect x="4" y="7" width="672" height="386" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="674" height="389" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>

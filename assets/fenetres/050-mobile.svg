@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="771" viewBox="0 0 320 771" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="771" viewBox="0 0 320 771" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">ACTIVATION CRITIQUE — ÉVOLUTION DE COMPÉTENCE Compétence : Aura runique — critique au lancement. Effet supplémentaire : Infiltration runique. Pendant les 30 premières secondes suivant l’activation critique, chaque attaque portée avec l’arme imprégnée inflige au minimum des dégâts égaux à la Puissance arcanique actuelle de Hasol. La Défense de la cible n’est pas réduite. Un critique à l’épée ne déclenche pas cet effet. Aura élémentaire : durée normale de 24 heures conservée.</desc>
 <rect x="4" y="7" width="312" height="761" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="314" height="764" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>

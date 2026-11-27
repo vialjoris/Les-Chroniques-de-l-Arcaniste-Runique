@@ -1,5 +1,15 @@
 # Inventaire runique
 
+**Synchronisation documentaire du 27 novembre — DEC-187 à DEC-192 / DEC-180 :**
+les [décisions locales](../docs/decisions_session_2026_11_27.md) concernent des
+futurs politiques/familiaux, une proposition de scène, les sauvegardes à arbitrer
+et un indice éditorial différé. Aucun événement runique raconté, ID, porteur,
+équipement/réserve, affixe, valeur, acquisition, amélioration ou sacrifice changé.
+`personnages.md` conserve les états et sépare les connaissances futures. Ne pas
+reconstruire un inventaire depuis la nouvelle orientation des retours, les cadeaux
+écarlates ou la direction de mariage envisagée ; les états de remplacement restent
+à définir. Aucune rune créée ou transférée entre vies par cette consignation.
+
 **Rareté fixe — DEC-178 :** l’amélioration +0→+15 ne change ni rareté ni étoiles. Le nombre de secondaires ne recolore jamais une pierre. Savoir runique est un pouvoir distinct, sans application rétroactive à cet inventaire.
 
 ## Référentiel des présentations complètes — choix délégués DEC-179

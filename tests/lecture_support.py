@@ -7,6 +7,7 @@ from html.parser import HTMLParser
 import json
 from pathlib import Path
 import re
+import zlib
 
 
 ROOT_CLASSES = {"system-window", "character-sheet", "rune-window"}
@@ -20,6 +21,15 @@ def digest(text):
 
 def compact(text):
     return " ".join(text.split())
+
+
+def visual_text(node):
+    """Texte dessiné ; le complément de rareté reste contrôlé séparément en transcription."""
+    if node.tag == "svg" or "lit-sr-only" in node.classes:
+        return ""
+    if node.tag == "summary" and "lit-window__transcript-toggle" in node.classes:
+        return ""
+    return "".join(visual_text(part) if isinstance(part, Node) else part for part in node.content)
 
 
 class Node:
@@ -199,6 +209,7 @@ def historical_prefix(source, reference):
 
 def before_approved_rune_corrections(source):
     """Inverser les deux journaux DEC-179 du I, sans exemption de contenu."""
+    source = before_bubble_presentation(source)
     source = before_invisible_rune_ids_and_dec181(source)
     fixtures = Path(__file__).parent / "fixtures"
     stages = [json.loads((fixtures / name).read_text(encoding="utf-8")) for name in (
@@ -222,6 +233,30 @@ def before_approved_rune_corrections(source):
     return source
 
 
+def before_bubble_presentation(source, book=1):
+    """Inversion fermée pour appliquer les anciennes preuves, jamais pour le rendu courant."""
+    if "data-rarity=" not in source:
+        return source
+    stages = json.loads((Path(__file__).parent / "fixtures" /
+                         "bulles_20261127_inverse.json").read_text(encoding="utf-8"))
+    stage = stages[str(book)]
+    if digest(source) != stage["after_sha256"]:
+        raise ValueError("Présentation du 27 novembre altérée avant inversion")
+    edits = json.loads(zlib.decompress(base64.b64decode(
+        stage["reverse_edits_zlib_base64"], validate=True)).decode("utf-8"))
+    if len(edits) != stage["replacement_count"]:
+        raise ValueError("Journal inverse incomplet")
+    last = len(source)
+    for start, end, before in reversed(edits):
+        if not 0 <= start <= end <= last:
+            raise ValueError("Éditions inverses désordonnées")
+        source = source[:start] + before + source[end:]
+        last = start
+    if digest(source) != stage["before_sha256"]:
+        raise ValueError("Baseline avant bulles non restaurée exactement")
+    return source
+
+
 def before_invisible_rune_ids_and_dec181(source):
     """Restaurer les formes pré-DEC-181 avant d'appliquer les journaux historiques.
 
@@ -229,6 +264,7 @@ def before_invisible_rune_ids_and_dec181(source):
     le déplacement des identifiants vers ``data-rune-id`` et les corrections métier
     explicitement autorisées sur le livre I.
     """
+    source = before_bubble_presentation(source)
     source = source.replace("&nbsp;", " ")
     source = re.sub(
         r'<tr data-rune-id="([^"]+)"><th scope="row">',

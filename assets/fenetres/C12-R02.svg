@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="572" viewBox="0 0 680 572" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="572" viewBox="0 0 680 572" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">ŒIL RUNIQUE — RUNE DU JEUNE CHASSEUR Énergie (peu commune (verte)), 2★ ÉtatPrincipaleSecondaires présentes Réel +0Résistance +2 %PV +20 Projection conditionnelle +15 — NON ACQUISERésistance +19 %PV +80 ; Vitesse +2 ; Défense +3 ; Mana +10 Condition : améliorations effectuées personnellement par Hasol jusqu’à +15 ; réussite des tentatives non garantie, ressources nécessaires. Rareté et étoiles inchangées. L’analyse ne constitue pas une amélioration ; aucun palier final n’est acquis ici.</desc>
 <rect x="4" y="7" width="672" height="562" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="674" height="565" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></g>
@@ -16,13 +17,11 @@
 <text x="431.20" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="436.60" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="131.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CHASSEUR</text>
 <path d="M28 77.6h624" stroke="#D8BF8F"/>
-<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
-<text x="99.28" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="103.60" y="100.60" width="218.28" height="29" rx="14.5" fill="#edf7ef" stroke="#b3d3bd"/>
-<text x="109.60" y="121.60" font-size="20" font-weight="700" fill="#22643b" textLength="206.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">peu commune (verte)</text>
-<text x="321.88" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
-<text x="326.20" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="330.52" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2★</text>
+<rect x="28.00" y="102.60" width="76.80" height="27" rx="13.5" fill="#22643b" stroke="#22643b"/>
+<text x="34.00" y="121.60" font-size="18" font-weight="700" fill="#FFFFFF" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
+<text x="104.80" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
+<text x="109.12" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="113.44" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2★</text>
 <text x="28.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="35.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">État</text>
 <text x="236.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="86.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Principale</text>
 <text x="444.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="110.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Secondaires</text>

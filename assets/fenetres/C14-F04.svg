@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="371" viewBox="0 0 680 371" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="371" viewBox="0 0 680 371" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">SYSTÈME — ACTIVATION CRITIQUE Infiltration runique Aura runique a été activée de manière critique. Durée de l’effet supplémentaire 30 secondes Pendant l’effet, chaque coup porté avec l’arme imprégnée bénéficie d’un minimum de dégâts égal à la Puissance arcanique effective d’Hasol, sans réduction de ce minimum par la Défense adverse.</desc>
 <rect x="4" y="7" width="672" height="361" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="674" height="364" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>

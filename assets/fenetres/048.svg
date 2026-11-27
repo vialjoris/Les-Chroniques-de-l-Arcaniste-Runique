@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="401" viewBox="0 0 680 401" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="401" viewBox="0 0 680 401" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">ÉVEIL DE COMPÉTENCE L’hôte a combattu avec succès des monstres en exploitant leurs faiblesses élémentaires. Condition d’éveil remplie. Aura runique — Compétence active d’Arcaniste runique (légendaire) Effet : Imprègne une arme de l’hôte ou d’un allié d’une aura élémentaire au choix. Coût : 200 Mana et destruction définitive d’une rune quelconque, quels que soient son rang et sa rareté. Durée : 24 heures.</desc>
 <rect x="4" y="7" width="672" height="391" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="674" height="394" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>
@@ -46,12 +47,9 @@
 <text x="272.08" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="276.40" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="54.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">active</text>
 <text x="330.40" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="334.72" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="100.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">d’Arcaniste</text>
-<text x="435.16" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="439.48" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique,</text>
-<text x="509.68" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="514.00" y="163.00" width="111.36" height="27" rx="13.5" fill="#fbf3dd" stroke="#D1AB61"/>
-<text x="520.00" y="182.00" font-size="18" font-weight="700" fill="#795b22" textLength="99.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Légendaire</text>
+<text x="334.72" y="182.00" font-size="18" font-weight="400" fill="#242424" textLength="16.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">d’</text>
+<rect x="350.92" y="163.00" width="166.44" height="27" rx="13.5" fill="#e9a34b" stroke="#884717"/>
+<text x="356.92" y="182.00" font-size="18" font-weight="700" fill="#242424" textLength="154.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Arcaniste runique</text>
 <text x="28.00" y="219.70" font-size="18" font-weight="700" fill="#242424" textLength="45.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Effet</text>
 <text x="73.36" y="219.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="77.68" y="219.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>

@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="735" viewBox="0 0 680 735" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="735" viewBox="0 0 680 735" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">ŒIL RUNIQUE — ANALYSE PERSONNELLE Rune Énergie (légendaire (orange)), 4★ État actuel : +9 État final analysé : +15 Condition : Améliorations restantes effectuées personnellement par Hasol Shun. Puissance arcanique secondaire actuelle : +60 Renforcements restants : +20 et +60 Puissance arcanique secondaire finale : +140 Palier +12 : +80 ou +120 — ordre indéterminé. Palier +15 : +140 — résultat final déterminé. Réussite des tentatives : Non garantie. Principale : PV +43 % Vitesse secondaire : +4 Défense secondaire : +30 Mana secondaire : +20</desc>
 <rect x="4" y="7" width="672" height="725" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="674" height="728" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></g>
@@ -14,15 +15,11 @@
 <path d="M28 77.6h624" stroke="#D8BF8F"/>
 <text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rune</text>
 <text x="77.68" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="82.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="71.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
-<text x="153.28" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="157.60" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="10.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="168.40" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="172.72" y="100.60" width="208.56" height="29" rx="14.5" fill="#fff1e4" stroke="#dfbd98"/>
-<text x="178.72" y="121.60" font-size="20" font-weight="700" fill="#884717" textLength="196.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Légendaire (orange)</text>
-<text x="381.28" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
-<text x="385.60" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="389.92" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4★</text>
+<rect x="82.00" y="102.60" width="76.80" height="27" rx="13.5" fill="#e9a34b" stroke="#884717"/>
+<text x="88.00" y="121.60" font-size="18" font-weight="700" fill="#242424" textLength="64.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Énergie</text>
+<text x="158.80" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text>
+<text x="163.12" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="167.44" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="23.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4★</text>
 <text x="28.00" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="35.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">État</text>
 <text x="63.64" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="67.96" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="55.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">actuel</text>

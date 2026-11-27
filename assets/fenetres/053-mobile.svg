@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">ENSEMBLE ARCANIQUE Condition : 4 pièces équipées. Bonus d’ensemble : +1 200 Puissance arcanique. Deux ou trois pièces : aucun bonus d’ensemble.</desc>
 <rect x="4" y="7" width="312" height="310" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="314" height="313" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(20 20)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></g>

@@ -15,12 +15,24 @@ RACINE = Path(__file__).resolve().parent.parent
 
 def generer_html(source: str, css_href: str) -> str:
     if __package__:
-        from .generer_fenetres import extraire_source_fenetres
+        from .generer_fenetres import Reperes, extraire_source_fenetres
     else:
-        from generer_fenetres import extraire_source_fenetres
+        from generer_fenetres import Reperes, extraire_source_fenetres
 
     # Le lecteur conserve le HTML sélectionnable, sans les enveloppes GitHub.
     source = extraire_source_fenetres(source)
+
+    # Repli visible à la demande : les couleurs ne sont pas nécessaires à la lecture.
+    # Les enveloppes ont déjà été validées ; le HTML local simple reste accepté.
+    for fenetre in reversed(Reperes(source, verifier_identifiants=False).fenetres):
+        corps = source[fenetre.ouverture:fenetre.fermeture]
+        if 'class="lit-sr-only"' not in corps:
+            continue
+        transcription = corps.replace('class="lit-sr-only"', 'class="lit-window__rarity-text"')
+        volet = ('\n<details class="lit-window__accessible-details">\n'
+                 '<summary>Version textuelle complète, raretés explicites</summary>\n'
+                 + transcription + '</details>\n')
+        source = source[:fenetre.fin] + volet + source[fenetre.fin:]
 
     # Les identifiants documentaires restent dans les métadonnées. Les rares
     # mentions historiques en code Markdown ne deviennent pas du texte lecteur.

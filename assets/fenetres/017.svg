@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="411" viewBox="0 0 680 411" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="411" viewBox="0 0 680 411" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">COMPÉTENCE DE CLASSE Croissance runique Type : Passive — Légendaire Déblocage : Niveau 10 Chaque tranche de 1 000 monstres admissibles éliminés accorde un cercle de mana et un emplacement runique supplémentaires. Les éliminations antérieures sont prises en compte rétroactivement. Admissibilité aux niveaux 10 à 19 : monstres de niveau 1 minimum.</desc>
 <rect x="4" y="7" width="672" height="401" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="674" height="404" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>
@@ -17,11 +18,6 @@
 <text x="80.92" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <rect x="85.24" y="141.60" width="78.96" height="27" rx="13.5" fill="#f5f2ed" stroke="#d9d2c6"/>
 <text x="91.24" y="160.60" font-size="18" font-weight="700" fill="#55504a" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Passive</text>
-<text x="164.20" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="168.52" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="9.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">—</text>
-<text x="178.24" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<rect x="182.56" y="141.60" width="111.36" height="27" rx="13.5" fill="#fbf3dd" stroke="#D1AB61"/>
-<text x="188.56" y="160.60" font-size="18" font-weight="700" fill="#795b22" textLength="99.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Légendaire</text>
 <text x="28.00" y="198.30" font-size="18" font-weight="700" fill="#242424" textLength="96.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Déblocage</text>
 <text x="124.12" y="198.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="128.44" y="198.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>

@@ -1,0 +1,25 @@
+{
+  "provenance": "Copies avant intervention du 27 novembre 2026 ; empreintes UTF-8 sans normalisation hors fenêtres. Invariants de migration, pas inventaire opérationnel.",
+  "books": {
+    "livre_1_l_ascension_d_une_legende_oubliee.md": {
+      "source_sha256": "5b8996f757d4e3c684036e559860e72124a2e5079700b132d6097906705a1da0",
+      "window_count": 153,
+      "outside_segments": "d99bcf3dca94c3b4d2085b60629eaefbc4196c957036ee767c60192884902279",
+      "window_ids": "ff75412f170f6fada172483081b9b8bd2cc10f24ded2a4ce13ab10a43cf89b23",
+      "rune_ids": "ddb3100da878ed44c53ccf965531b4ccfe27b50c3f1628fbc58351f6400e5262",
+      "numbers": "20a4a7fc95a2e0cf6f1f91d4b85867ca6542763b76115237ef51c5f2e952e92e",
+      "affixes": "a250e7ed6f0dcff6f1057d5fce772df270e1f249fa56d78a4d0efc9caffed3f2",
+      "bonus": "dc23446c699d2fa5e84cd2de077c2e53e65e787e61e2538b93c5ccb8e576df97"
+    },
+    "livre_2_le_vertige_des_vies_oubliees.md": {
+      "source_sha256": "bcaf57450788e3f9ac9398c7080cb7240c93efd9f92f70ddbef8e8e097544a69",
+      "window_count": 26,
+      "outside_segments": "d0849fbe56a367a83eb61040b986fd8b4ecd6412c88d145835d44440d73327b3",
+      "window_ids": "4bd43ef0e75241d8cf23f212d985fae2cc19a254125f9bca19bb63b514b89087",
+      "rune_ids": "0b75c8b6235b9f47df0c8518a981feffabdf7fc3189d21ca2ad7f64392ac1f06",
+      "numbers": "e736052a13157eb40983629cfe2535d6174bd62d7d3e2ebb14b67f6889d6f561",
+      "affixes": "dfea258e265f2fff68a056f2e223b543c2ef898a5582811a101e985a3587fc70",
+      "bonus": "83026520fdb3c73d4cceb1b997a5bcccce997798c96017d02acbd45f6702800d"
+    }
+  }
+}

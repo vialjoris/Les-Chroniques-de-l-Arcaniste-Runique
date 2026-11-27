@@ -7,7 +7,7 @@ import re
 import unittest
 
 from lecture_support import (Document, before_approved_rune_corrections,
-                             before_invisible_rune_ids_and_dec181, compact, digest)
+                             before_invisible_rune_ids_and_dec181, before_bubble_presentation, compact, digest)
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -19,7 +19,7 @@ ADDED = {
     "C12-R01", "C12-R02", "C14-R01", "C15-R01", "C15-R02",
 }
 IDENTITY = re.compile(
-    r"(?P<ensemble>Fatal|Gardien|Énergie|Arcanique|Vitesse) "
+    r"(?P<ensemble>Fatal|Gardien|Énergie|Arcanique|Vitesse|Vol de vie) "
     r"(?P<grade>peu commune \(verte\)|commune \(blanche\)|rare \(bleue\)|"
     r"épique \(violette\)|légendaire \(orange\)), (?P<stars>[1-6])★")
 ID = re.compile(r"\b(?:HAS|ORV|CLI|MAR|REC|GRI|YOO|ISE)-R\d{3}\b")
@@ -122,7 +122,9 @@ def assert_inventory(case, window, states):
 class RunesLivreITests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.source = SOURCE.read_bytes().decode("utf-8")
+        # Les assertions historiques gardent leurs textes ; l'inverse refuse tout octet non audité.
+        # Les métadonnées et affixes du DOM actuel sont comparés au lore dans test_bulles_fenetres.
+        cls.source = before_bubble_presentation(SOURCE.read_bytes().decode("utf-8"))
         cls.document = Document(cls.source)
         cls.windows = {window.attrs["data-window-id"]: window for window in cls.document.windows}
         cls.before = before_approved_rune_corrections(cls.source)
@@ -390,7 +392,7 @@ class RunesLivreIMutationsTests(unittest.TestCase):
                     before_approved_rune_corrections(changed)
 
     def test_contrat_d_inventaire_detecte_les_mutations_sans_utiliser_le_journal(self):
-        source = SOURCE.read_bytes().decode("utf-8")
+        source = before_bubble_presentation(SOURCE.read_bytes().decode("utf-8"))
         states = states_from_lore((ROOT / "lore/runes.md").read_text(encoding="utf-8"))
         window = next(w for w in Document(source).windows if w.attrs["data-window-id"] == "C15-F10")
         card = source[window.start:window.end]

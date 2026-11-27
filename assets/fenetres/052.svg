@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="266" viewBox="0 0 680 266" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="266" viewBox="0 0 680 266" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">BILAN DU PASSAGE ÉTROIT Adversaires vaincus : Trois loups gris, niveaux 7, 8 et 9. Hasol : Niveau 11 — dix cercles, dix runes équipées. Arme : Aura de Terre du forgeron ; aucune activation d’Aura runique pendant ce combat.</desc>
 <rect x="4" y="7" width="672" height="256" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="674" height="259" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></g>

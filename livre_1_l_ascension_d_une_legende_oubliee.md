@@ -782,15 +782,14 @@ Et devant Hasol, une fenêtre translucide apparut.
 <div class="system-window legendary lit-window" data-window-id="001" data-window-type="revelation">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/001-mobile.svg">
-    <img src="assets/fenetres/001.svg" alt="Fenêtre du système — SYSTÈME — RÉVÉLATION DE CLASSE">
+    <img src="assets/fenetres/001.svg" alt="Fenêtre du système — SYSTÈME — RÉVÉLATION DE CLASSE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>SYSTÈME — RÉVÉLATION DE CLASSE</div>
   <h3>Hasol Shun</h3>
-  <p class="lit-window__row"><strong>Classe éveillée :</strong> <span>Arcaniste runique</span></p>
+  <p class="lit-window__row"><strong>Classe éveillée :</strong> <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
   <p class="lit-window__row"><strong>Orientation :</strong> <span>Soutien</span></p>
-  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">★ LÉGENDAIRE ★</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">1</span></p>
   <hr>
   <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">2</span></p>
@@ -1001,13 +1000,12 @@ Une fenêtre apparut.
 <div class="rune-window blue-grade lit-window" data-window-id="002" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/002-mobile.svg">
-    <img src="assets/fenetres/002.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE">
+    <img src="assets/fenetres/002.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
-  <h3>Rune Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★ <span class="upgrade-badge">+6</span></h3>
-  <p class="lit-window__row"><strong>Grade :</strong> <span class="rune-bonus lit-badge lit-badge--rune-rare">Rare — Bleu</span></p>
+  <h3>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span> — 6★ <span class="upgrade-badge">+6</span></h3>
   <p class="lit-window__section-title"><strong>Caractéristique principale :</strong></p>
   <p class="rune-bonus">Attaque +70</p>
   <p class="lit-window__section-title"><strong>Caractéristiques secondaires :</strong></p>
@@ -1046,12 +1044,12 @@ Un symbole apparut brièvement autour de son premier cercle.
 <div class="system-window success lit-window" data-window-id="003" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/003-mobile.svg">
-    <img src="assets/fenetres/003.svg" alt="Fenêtre du système — RUNE ÉQUIPÉE">
+    <img src="assets/fenetres/003.svg" alt="Fenêtre du système — RUNE ÉQUIPÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>RUNE ÉQUIPÉE</div>
-  <p><strong>Rune Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
+  <p><strong>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
   <p class="lit-window__row"><span>Emplacements utilisés :</span> <strong class="lit-window__value">1 / 2</strong></p>
   <p data-rune-id="HAS-R001"><strong>Principale :</strong> <span class="rune-bonus">Attaque +70</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; PV +25</span>.</p>
   </details>
@@ -1068,13 +1066,12 @@ Elle prit aussitôt la seconde rune rare à six étoiles.
 <div class="rune-window blue-grade lit-window" data-window-id="004" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/004-mobile.svg">
-    <img src="assets/fenetres/004.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE">
+    <img src="assets/fenetres/004.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
-  <h3>Rune Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★ <span class="upgrade-badge">+6</span></h3>
-  <p class="lit-window__row"><strong>Grade :</strong> <span class="rune-bonus lit-badge lit-badge--rune-rare">Rare — Bleu</span></p>
+  <h3>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span> — 6★ <span class="upgrade-badge">+6</span></h3>
   <p class="lit-window__section-title"><strong>Caractéristique principale :</strong></p>
   <p class="rune-bonus">Défense +70</p>
   <p class="lit-window__section-title"><strong>Caractéristiques secondaires :</strong></p>
@@ -1089,12 +1086,12 @@ Quelques instants plus tard, la rune Gardien rare à six étoiles rejoignit la F
 <div class="system-window success lit-window" data-window-id="005" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/005-mobile.svg">
-    <img src="assets/fenetres/005.svg" alt="Fenêtre du système — RUNE ÉQUIPÉE">
+    <img src="assets/fenetres/005.svg" alt="Fenêtre du système — RUNE ÉQUIPÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>RUNE ÉQUIPÉE</div>
-  <p><strong>Rune Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
+  <p><strong>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span> — 6★</strong> <span class="upgrade-badge">+6</span></p>
   <p class="lit-window__row"><span>Emplacements utilisés :</span> <strong class="lit-window__value">2 / 2</strong></p>
   <p data-rune-id="HAS-R002"><strong>Principale :</strong> <span class="rune-bonus">Défense +70</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +30 ; Mana +20</span>.</p>
   </details>
@@ -1113,15 +1110,14 @@ Elle ouvrit son statut.
 <div class="character-sheet lit-window" data-window-id="006" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/006-mobile.svg">
-    <img src="assets/fenetres/006.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE">
+    <img src="assets/fenetres/006.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 1</h3>
-  <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
+  <p class="lit-window__row"><strong>Classe :</strong> <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
   <p class="lit-window__row"><strong>Orientation :</strong> <span>Soutien</span></p>
-  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
   <table class="lit-window__stats">
     <thead><tr><th scope="col">Caractéristique</th><th scope="col">Valeur</th></tr></thead>
     <tbody>
@@ -1137,8 +1133,8 @@ Elle ouvrit son statut.
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">2 / 2</span></p>
   <hr>
   <p class="lit-window__section-title"><strong>Équipement runique :</strong></p>
-  <p>Rune Fatal <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
-  <p>Rune Gardien <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
+  <p>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
+  <p>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
   <p><strong>Bonus d'ensembles actifs :</strong> Aucun</p>
   </details>
 </div>
@@ -1320,7 +1316,7 @@ Une fenêtre apparut devant elle.
 <div class="system-window level-up lit-window" data-window-id="007" data-window-type="niveau">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/007-mobile.svg">
-    <img src="assets/fenetres/007.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR">
+    <img src="assets/fenetres/007.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -2431,7 +2427,7 @@ Une notification apparut.
 <div class="system-window level-up lit-window" data-window-id="008" data-window-type="niveau">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/008-mobile.svg">
-    <img src="assets/fenetres/008.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR">
+    <img src="assets/fenetres/008.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -2476,15 +2472,14 @@ Quelques jours avant la fin de l’année, elle consulta son statut.
 <div class="character-sheet lit-window" data-window-id="009" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/009-mobile.svg">
-    <img src="assets/fenetres/009.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE">
+    <img src="assets/fenetres/009.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 9</h3>
-  <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
+  <p class="lit-window__row"><strong>Classe :</strong> <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
   <p class="lit-window__row"><strong>Orientation :</strong> <span>Soutien</span></p>
-  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
   <table class="lit-window__stats">
     <thead><tr><th scope="col">Caractéristique</th><th scope="col">Valeur</th></tr></thead>
     <tbody>
@@ -2500,8 +2495,8 @@ Quelques jours avant la fin de l’année, elle consulta son statut.
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">2 / 2</span></p>
   <hr>
   <p class="lit-window__section-title"><strong>Équipement runique :</strong></p>
-  <p>Rune Fatal <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
-  <p>Rune Gardien <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
+  <p>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
+  <p>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
   <p><strong>Bonus d'ensembles actifs :</strong> Aucun</p>
   <p><strong>Compétences actives :</strong> Aucune</p>
   </details>
@@ -2970,7 +2965,7 @@ Devant elle, un petit slime bleu se déplaçait lentement dans l’herbe.
 <div class="system-window monster lit-window" data-window-id="010" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/010-mobile.svg">
-    <img src="assets/fenetres/010.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+    <img src="assets/fenetres/010.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -3020,7 +3015,7 @@ Une notification apparut.
 <div class="system-window level-up lit-window" data-window-id="011" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/011-mobile.svg">
-    <img src="assets/fenetres/011.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ">
+    <img src="assets/fenetres/011.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -3048,7 +3043,7 @@ Une deuxième fenêtre apparut.
 <div class="system-window level-up lit-window" data-window-id="012" data-window-type="caracteristiques">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/012-mobile.svg">
-    <img src="assets/fenetres/012.svg" alt="Fenêtre du système — AUGMENTATION DES CARACTÉRISTIQUES">
+    <img src="assets/fenetres/012.svg" alt="Fenêtre du système — AUGMENTATION DES CARACTÉRISTIQUES. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -3112,14 +3107,13 @@ Hasol fronça les sourcils.
 <div class="system-window legendary lit-window" data-window-id="013" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/013-mobile.svg">
-    <img src="assets/fenetres/013.svg" alt="Fenêtre du système — ARCANISTE RUNIQUE — NIVEAU 10">
+    <img src="assets/fenetres/013.svg" alt="Fenêtre du système — ARCANISTE RUNIQUE (légendaire) — NIVEAU 10. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
-  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>ARCANISTE RUNIQUE — NIVEAU 10</div>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg><span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">ARCANISTE RUNIQUE</span><span class="lit-sr-only"> (légendaire)</span> — NIVEAU 10</div>
   <h3>NOUVELLE COMPÉTENCE DÉBLOQUÉE</h3>
   <h2>Croissance runique</h2>
-  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
   <p><strong>Type :</strong> <span class="passive-badge">Passive</span></p>
   <hr>
   <div class="lit-window__section">
@@ -3177,7 +3171,7 @@ Une nouvelle fenêtre apparut.
 <div class="system-window success lit-window" data-window-id="014" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/014-mobile.svg">
-    <img src="assets/fenetres/014.svg" alt="Fenêtre du système — ANALYSE DE L’HISTORIQUE">
+    <img src="assets/fenetres/014.svg" alt="Fenêtre du système — ANALYSE DE L’HISTORIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -3264,7 +3258,7 @@ Et une dernière notification apparut.
 <div class="system-window success lit-window" data-window-id="015" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/015-mobile.svg">
-    <img src="assets/fenetres/015.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE">
+    <img src="assets/fenetres/015.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -3399,15 +3393,14 @@ Elle ouvrit une dernière fois son statut.
 <div class="character-sheet lit-window" data-window-id="016" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/016-mobile.svg">
-    <img src="assets/fenetres/016.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE">
+    <img src="assets/fenetres/016.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 10</h3>
-  <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
+  <p class="lit-window__row"><strong>Classe :</strong> <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
   <p class="lit-window__row"><strong>Orientation :</strong> <span>Soutien</span></p>
-  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
   <table class="lit-window__stats">
     <thead><tr><th scope="col">Caractéristique</th><th scope="col">Valeur</th></tr></thead>
     <tbody>
@@ -3424,8 +3417,8 @@ Elle ouvrit une dernière fois son statut.
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">2 / 10</span></p>
   <hr>
   <p class="lit-window__section-title"><strong>Équipement runique :</strong></p>
-  <p>Rune Fatal <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
-  <p>Rune Gardien <span class="lit-badge lit-badge--rune-rare">bleue</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
+  <p>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Attaque +70</span> ; secondaires renforcées : <span class="rune-bonus">Vitesse +4, PV +25</span></p>
+  <p>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span> 6★ <span class="upgrade-badge">+6</span> — Principale : <span class="rune-bonus">Défense +70</span> ; secondaires renforcées : <span class="rune-bonus">PV +30, Mana +20</span></p>
   <p><strong>Bonus d'ensembles actifs :</strong> Aucun</p>
   <hr>
   <p class="lit-window__section-title"><strong>Compétences :</strong></p>
@@ -3630,13 +3623,13 @@ Elle ouvrit la fenêtre et la partagea avec sa mère.
 <div class="system-window legendary lit-window" data-window-id="017" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/017-mobile.svg">
-    <img src="assets/fenetres/017.svg" alt="Fenêtre du système — COMPÉTENCE DE CLASSE">
+    <img src="assets/fenetres/017.svg" alt="Fenêtre du système — COMPÉTENCE DE CLASSE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>COMPÉTENCE DE CLASSE</div>
   <h3>Croissance runique</h3>
-  <p><strong>Type :</strong> <span class="passive-badge">Passive</span> — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p><strong>Type :</strong> <span class="passive-badge">Passive</span><span class="lit-sr-only"> — Légendaire</span></p>
   <p class="lit-window__row"><strong>Déblocage :</strong> <span>Niveau 10</span></p>
   <hr>
   <p>Chaque tranche de 1&nbsp;000 monstres admissibles éliminés accorde un cercle de mana et un emplacement runique supplémentaires.</p>
@@ -3660,7 +3653,7 @@ Elle fit apparaître une seconde fenêtre.
 <div class="system-window lit-window" data-window-id="018" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/018-mobile.svg">
-    <img src="assets/fenetres/018.svg" alt="Fenêtre du système — ÉTAT RUNIQUE — HASOL SHUN">
+    <img src="assets/fenetres/018.svg" alt="Fenêtre du système — ÉTAT RUNIQUE — HASOL SHUN. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -3837,7 +3830,7 @@ Elles examinèrent ensuite les huit nouvelles acquisitions. Sa mère lui demanda
 <div class="character-sheet lit-window" data-window-id="019" data-window-type="inventaire">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/019-mobile.svg">
-    <img src="assets/fenetres/019.svg" alt="Fenêtre du système — HUIT RUNES DU DON MATERNEL">
+    <img src="assets/fenetres/019.svg" alt="Fenêtre du système — HUIT RUNES DU DON MATERNEL. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -3846,14 +3839,14 @@ Elles examinèrent ensuite les huit nouvelles acquisitions. Sa mère lui demanda
   <table class="lit-window__inventory" role="table">
     <thead><tr><th scope="col">Rune, rareté et rang</th><th scope="col">Principale</th><th scope="col">Secondaires à +0</th></tr></thead>
     <tbody>
-      <tr><td>Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">Attaque +7</span></td><td><span class="rune-bonus">Vitesse +2 ; PV +30</span></td></tr>
-      <tr><td>Fatal <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">Attaque +7</span></td><td><span class="rune-bonus">Défense +3</span></td></tr>
-      <tr><td>Fatal <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">Vitesse +3</span></td><td><span class="rune-bonus">Attaque +3</span></td></tr>
-      <tr><td>Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</span></td></tr>
-      <tr><td>Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">Défense +7</span></td><td><span class="rune-bonus">PV +30 ; Vitesse +2</span></td></tr>
-      <tr><td>Gardien <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3</span></td></tr>
-      <tr><td>Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</span></td></tr>
-      <tr><td>Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, +0</td><td><span class="rune-bonus">Défense +7</span></td><td><span class="rune-bonus">PV +30</span></td></tr>
+      <tr><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</td><td><span class="rune-bonus">Attaque +7</span></td><td><span class="rune-bonus">Vitesse +2 ; PV +30</span></td></tr>
+      <tr><td><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</td><td><span class="rune-bonus">Attaque +7</span></td><td><span class="rune-bonus">Défense +3</span></td></tr>
+      <tr><td><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</td><td><span class="rune-bonus">Vitesse +3</span></td><td><span class="rune-bonus">Attaque +3</span></td></tr>
+      <tr><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</span></td></tr>
+      <tr><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</td><td><span class="rune-bonus">Défense +7</span></td><td><span class="rune-bonus">PV +30 ; Vitesse +2</span></td></tr>
+      <tr><td><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Gardien</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3</span></td></tr>
+      <tr><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</td><td><span class="rune-bonus">PV +100</span></td><td><span class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</span></td></tr>
+      <tr><td><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Énergie</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</td><td><span class="rune-bonus">Défense +7</span></td><td><span class="rune-bonus">PV +30</span></td></tr>
     </tbody>
   </table>
   </details>
@@ -3908,12 +3901,12 @@ L’éclat s’éteignit.
 <div class="system-window lit-window" data-window-id="020" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/020-mobile.svg">
-    <img src="assets/fenetres/020.svg" alt="Fenêtre du système — TENTATIVE D’AMÉLIORATION">
+    <img src="assets/fenetres/020.svg" alt="Fenêtre du système — TENTATIVE D’AMÉLIORATION. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>TENTATIVE D’AMÉLIORATION</div>
-  <p><strong>Rune :</strong> Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★</p>
+  <p><strong>Rune :</strong> <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★</p>
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État après la tentative :</strong> +0 — caractéristiques inchangées</p>
@@ -3949,12 +3942,12 @@ Puis un éclat bleu se répandit sur le linge.
 <div class="rune-window blue-grade lit-window" data-window-id="021" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/021-mobile.svg">
-    <img src="assets/fenetres/021.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+    <img src="assets/fenetres/021.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <h3>Rune Fatal <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★ <span class="upgrade-badge">+3</span></h3>
+  <h3>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★ <span class="upgrade-badge">+3</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Attaque +7 → +22</span></p>
   <p><strong>Secondaire renforcée à +3 :</strong> <span class="rune-bonus">Vitesse +2 → +4</span></p>
   <p><strong>Autre secondaire :</strong> <span class="rune-bonus">PV +30</span></p>
@@ -4009,26 +4002,26 @@ Lorsque le dernier lien se stabilisa, Hasol sentit un changement dans la circula
 <div class="system-window success lit-window" data-window-id="022" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/022-mobile.svg">
-    <img src="assets/fenetres/022.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE ACTUALISÉ">
+    <img src="assets/fenetres/022.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE ACTUALISÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ÉQUIPEMENT RUNIQUE ACTUALISÉ</div>
   <p class="lit-window__row"><strong>Emplacements occupés :</strong> <span class="lit-window__value">10 / 10</span></p>
-  <p><strong>Équipement :</strong> 2 runes <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 ; 8 runes 3★ de grades <span class="lit-badge lit-badge--rune-uncommon">peu commun (vert)</span> et <span class="lit-badge lit-badge--rune-rare">rare (bleu)</span>, dont 1 à +3 et 7 à +0.</p>
+  <p><strong>Équipement :</strong> 2 runes 6★, +6 ; 8 runes 3★, dont 1 à +3 et 7 à +0.</p>
   <table class="lit-window__inventory">
-    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <thead><tr><th scope="col">Ensemble, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +3</th><td class="rune-bonus">Attaque +22</td><td class="rune-bonus">Vitesse +4 ; PV +30</td></tr>
-      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Attaque +7</td><td class="rune-bonus">Défense +3</td></tr>
-      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Vitesse +3</td><td class="rune-bonus">Attaque +3</td></tr>
-      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R007"><th scope="row">Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
-      <tr data-rune-id="HAS-R008"><th scope="row">Gardien peu commune (verte), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3</td></tr>
-      <tr data-rune-id="HAS-R009"><th scope="row">Énergie rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R010"><th scope="row">Énergie peu commune (verte), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +3</th><td class="rune-bonus">Attaque +22</td><td class="rune-bonus">Vitesse +4 ; PV +30</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</th><td class="rune-bonus">Attaque +7</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</th><td class="rune-bonus">Vitesse +3</td><td class="rune-bonus">Attaque +3</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R007"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
+      <tr data-rune-id="HAS-R008"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Gardien</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr data-rune-id="HAS-R009"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R010"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Énergie</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30</td></tr>
     </tbody>
   </table>
   <hr>
@@ -4053,14 +4046,13 @@ Hasol consulta la fiche. Les bonus fixes étaient distingués des caractéristiq
 <div class="character-sheet lit-window" data-window-id="023" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/023-mobile.svg">
-    <img src="assets/fenetres/023.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE">
+    <img src="assets/fenetres/023.svg" alt="Fenêtre du système — FICHE DE PERSONNAGE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>FICHE DE PERSONNAGE</div>
   <h3>Hasol Shun — Niveau 10</h3>
-  <p><strong>Classe :</strong> Arcaniste runique — Soutien</p>
-  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p><strong>Classe :</strong> <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span> — Soutien</p>
   <table class="lit-window__stats">
     <thead><tr><th scope="col">Caractéristique</th><th scope="col">Naturelle et bonus fixes runiques</th></tr></thead>
     <tbody>
@@ -4116,7 +4108,7 @@ Puis elle prit position.
 <div class="system-window lit-window" data-window-id="024" data-window-type="entrainement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/024-mobile.svg">
-    <img src="assets/fenetres/024.svg" alt="Fenêtre du système — EXERCICE D’ENTRAÎNEMENT">
+    <img src="assets/fenetres/024.svg" alt="Fenêtre du système — EXERCICE D’ENTRAÎNEMENT. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -4161,7 +4153,7 @@ La troisième touche frappa son flanc. La construction s’immobilisa aussitôt.
 <div class="system-window lit-window" data-window-id="025" data-window-type="entrainement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/025-mobile.svg">
-    <img src="assets/fenetres/025.svg" alt="Fenêtre du système — EXERCICE TERMINÉ">
+    <img src="assets/fenetres/025.svg" alt="Fenêtre du système — EXERCICE TERMINÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -4238,7 +4230,7 @@ Elle s’arrêta, puis aperçut un pelage gris entre deux troncs.
 <div class="system-window monster lit-window" data-window-id="026" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/026-mobile.svg">
-    <img src="assets/fenetres/026.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+    <img src="assets/fenetres/026.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -4285,7 +4277,7 @@ La créature s’effondra.
 <div class="system-window success lit-window" data-window-id="027" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/027-mobile.svg">
-    <img src="assets/fenetres/027.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ">
+    <img src="assets/fenetres/027.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -4348,7 +4340,7 @@ Le loup s’abattit près des racines.
 <div class="system-window success lit-window" data-window-id="028" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/028-mobile.svg">
-    <img src="assets/fenetres/028.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ">
+    <img src="assets/fenetres/028.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -4381,7 +4373,7 @@ Ils ne vinrent pas.
 <div class="system-window success lit-window" data-window-id="029" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/029-mobile.svg">
-    <img src="assets/fenetres/029.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ">
+    <img src="assets/fenetres/029.svg" alt="Fenêtre du système — MONSTRE ÉLIMINÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -4428,7 +4420,7 @@ Elle attendit que sa respiration redevienne régulière avant d’ouvrir les not
 <div class="system-window lit-window" data-window-id="030" data-window-type="bilan">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/030-mobile.svg">
-    <img src="assets/fenetres/030.svg" alt="Fenêtre du système — BILAN DE LA CHASSE">
+    <img src="assets/fenetres/030.svg" alt="Fenêtre du système — BILAN DE LA CHASSE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -4605,7 +4597,7 @@ Le balayage la toucha au mollet — troisième touche — et lui emporta les app
 <div class="system-window lit-window" data-window-id="031" data-window-type="entrainement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/031-mobile.svg">
-    <img src="assets/fenetres/031.svg" alt="Fenêtre du système — EXERCICE TERMINÉ">
+    <img src="assets/fenetres/031.svg" alt="Fenêtre du système — EXERCICE TERMINÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -4650,12 +4642,12 @@ Une Fatal peu commune, verte, trois étoiles, à +0, retint son regard. Principa
 <div class="rune-window lit-window" data-window-id="C3-R01" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C3-R01-mobile.svg">
-    <img src="assets/fenetres/C3-R01.svg" alt="Fenêtre du système — RUNE EXAMINÉE AU MARCHÉ">
+    <img src="assets/fenetres/C3-R01.svg" alt="Fenêtre du système — RUNE EXAMINÉE AU MARCHÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE EXAMINÉE AU MARCHÉ</div>
-  <h3 data-rune-id="MAR-R001">Fatal peu commune (verte), 3★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="MAR-R001"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Attaque +7</span></p>
   <p><strong>Secondaire présente :</strong> <span class="rune-bonus">Vitesse +2</span></p>
   </details>
@@ -4850,12 +4842,12 @@ Elle partagea son état runique. Cette fois, la main sur sa lanière resta immob
 <div class="system-window legendary lit-window" data-window-id="032" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/032-mobile.svg">
-    <img src="assets/fenetres/032.svg" alt="Fenêtre du système — ÉTAT RUNIQUE — HASOL SHUN">
+    <img src="assets/fenetres/032.svg" alt="Fenêtre du système — ÉTAT RUNIQUE — HASOL SHUN. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>ÉTAT RUNIQUE — HASOL SHUN</div>
-  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p><strong>Classe :</strong> <span class="legendary-text lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">10</span></p>
   <p><strong>Cercles de mana :</strong> 10 — <strong>Emplacements occupés :</strong> 10 / 10</p>
   <p><strong>Compétences passives :</strong> Bénédiction runique ; Croissance runique</p>
@@ -4891,12 +4883,12 @@ Orven prit sur un plateau une Énergie commune, blanche, deux étoiles, à +0, e
 <div class="rune-window lit-window" data-window-id="090" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/090-mobile.svg">
-    <img src="assets/fenetres/090.svg" alt="Fenêtre du système — ÉTAT INITIAL DE LA RUNE">
+    <img src="assets/fenetres/090.svg" alt="Fenêtre du système — ÉTAT INITIAL DE LA RUNE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ÉTAT INITIAL DE LA RUNE</div>
-  <h3>Rune Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★ <span class="upgrade-badge">+0</span></h3>
+  <h3>Rune <span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Énergie</span><span class="lit-sr-only"> (commune (blanche))</span>, 2★ <span class="upgrade-badge">+0</span></h3>
   <p data-rune-id="ORV-R001"><strong>Principale :</strong> <span class="rune-bonus">PV +70</span></p>
   <p><strong>Secondaires :</strong> Aucune</p>
   </details>
@@ -4929,12 +4921,12 @@ Elle renouvela les ressources et vérifia le niveau de départ. À +1, la rune �
 <div class="system-window lit-window" data-window-id="033" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/033-mobile.svg">
-    <img src="assets/fenetres/033.svg" alt="Fenêtre du système — TENTATIVE D’AMÉLIORATION">
+    <img src="assets/fenetres/033.svg" alt="Fenêtre du système — TENTATIVE D’AMÉLIORATION. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>TENTATIVE D’AMÉLIORATION</div>
-  <p><strong>Rune :</strong> Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
+  <p><strong>Rune :</strong> <span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Énergie</span><span class="lit-sr-only"> (commune (blanche))</span>, 2★</p>
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+1 → +2</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État conservé :</strong> <span class="upgrade-badge">+1</span> — rune intacte</p>
@@ -4972,15 +4964,13 @@ Hasol retira lentement les mains.
 <div class="rune-window success lit-window" data-window-id="034" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/034-mobile.svg">
-    <img src="assets/fenetres/034.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+    <img src="assets/fenetres/034.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <h3>Rune Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★ <span class="upgrade-badge">+3</span></h3>
+  <h3>Rune <span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Énergie</span><span class="lit-sr-only"> (commune (blanche))</span>, 2★ <span class="upgrade-badge">+3</span></h3>
   <p class="lit-window__row"><strong>Dernier passage :</strong> <span class="lit-window__value">+2 → +3</span></p>
-  <p class="lit-window__row"><strong>Grade d’origine :</strong> <span class="lit-badge lit-badge--rune-common">Commun — Blanc</span></p>
-  <p class="lit-window__row"><strong>Grade actuel :</strong> <span class="lit-badge lit-badge--rune-common">Commun — Blanc, inchangé</span></p>
   <p data-rune-id="ORV-R001"><strong>Principale :</strong> <span class="rune-bonus">PV +160</span></p>
   <p><strong>Première secondaire apparue :</strong> <strong class="rune-bonus">Défense +3</strong></p>
   <p><strong>Nombre de secondaires :</strong> 1 / 4 — rang inchangé</p>
@@ -5174,12 +5164,12 @@ Une Gardien commune, blanche, deux étoiles, à +0, devait être rendue dans la 
 <div class="system-window lit-window" data-window-id="091" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/091-mobile.svg">
-    <img src="assets/fenetres/091.svg" alt="Fenêtre du système — FICHE DE COMMANDE">
+    <img src="assets/fenetres/091.svg" alt="Fenêtre du système — FICHE DE COMMANDE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>FICHE DE COMMANDE</div>
-  <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
+  <p><strong>Rune :</strong> <span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Gardien</span><span class="lit-sr-only"> (commune (blanche))</span>, 2★</p>
   <p class="lit-window__row"><strong>État initial :</strong> <span class="upgrade-badge">+0</span></p>
   <p class="lit-window__row"><strong>Objectif demandé :</strong> <span class="upgrade-badge">+2</span></p>
   <p><strong>Limite autorisée :</strong> 3 tentatives au maximum</p>
@@ -5224,12 +5214,12 @@ Hasol retira ses doigts. La chaleur resta un instant dans sa paume.
 <div class="system-window rune-window lit-window" data-window-id="035" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/035-mobile.svg">
-    <img src="assets/fenetres/035.svg" alt="Fenêtre du système — TENTATIVE D’AMÉLIORATION">
+    <img src="assets/fenetres/035.svg" alt="Fenêtre du système — TENTATIVE D’AMÉLIORATION. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>TENTATIVE D’AMÉLIORATION</div>
-  <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
+  <p><strong>Rune :</strong> <span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Gardien</span><span class="lit-sr-only"> (commune (blanche))</span>, 2★</p>
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p class="lit-window__row"><strong>Résultat :</strong> <span>Échec</span></p>
   <p><strong>État conservé :</strong> <span class="upgrade-badge">+0</span> — rune intacte, caractéristiques inchangées</p>
@@ -5256,12 +5246,12 @@ Cette fois, Hasol garda son attention sur l’ensemble des gravures. Quand la vi
 <div class="rune-window success lit-window" data-window-id="036" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/036-mobile.svg">
-    <img src="assets/fenetres/036.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+    <img src="assets/fenetres/036.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
+  <p><strong>Rune :</strong> <span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Gardien</span><span class="lit-sr-only"> (commune (blanche))</span>, 2★</p>
   <p class="lit-window__row"><strong>Tentative :</strong> <span class="lit-window__value">+0 → +1</span></p>
   <p><strong>Niveau atteint :</strong> <span class="upgrade-badge">+1</span></p>
   <p data-rune-id="CLI-R001"><strong>Principale :</strong> <span class="rune-bonus">Défense +8</span> ; <strong>secondaires :</strong> Aucune.</p>
@@ -5330,12 +5320,12 @@ La résistance augmenta. Elle ajusta son geste, sentit une tension dans la nuque
 <div class="rune-window success lit-window" data-window-id="037" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/037-mobile.svg">
-    <img src="assets/fenetres/037.svg" alt="Fenêtre du système — COMMANDE ACHEVÉE">
+    <img src="assets/fenetres/037.svg" alt="Fenêtre du système — COMMANDE ACHEVÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>COMMANDE ACHEVÉE</div>
-  <p><strong>Rune :</strong> Gardien <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</p>
+  <p><strong>Rune :</strong> <span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Gardien</span><span class="lit-sr-only"> (commune (blanche))</span>, 2★</p>
   <p><strong>Dernière tentative :</strong> +1 → +2 — Réussite</p>
   <p><strong>Niveau final :</strong> <span class="upgrade-badge">+2</span></p>
   <p data-rune-id="CLI-R001"><strong>Principale :</strong> <span class="rune-bonus">Défense +11</span> ; <strong>secondaires :</strong> Aucune.</p>
@@ -5470,12 +5460,12 @@ Orven releva les yeux. Il revint aux commandes terminées, suivit du doigt les t
 <div class="system-window character-sheet lit-window" data-window-id="038" data-window-type="caracteristiques">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/038-mobile.svg">
-    <img src="assets/fenetres/038.svg" alt="Fenêtre du système — CARACTÉRISTIQUES — HASOL SHUN">
+    <img src="assets/fenetres/038.svg" alt="Fenêtre du système — CARACTÉRISTIQUES — HASOL SHUN. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11 M12 20V4 M19 20v-6 M3 20h18"/></svg>CARACTÉRISTIQUES — HASOL SHUN</div>
-  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p><strong>Classe :</strong> <span class="legendary-text lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">10</span></p>
   <p class="lit-window__row"><strong>Mana naturel :</strong> <span class="lit-window__value">355</span></p>
   <p><strong>Bonus runique connu :</strong> <span class="rune-bonus">Mana +20</span></p>
@@ -5532,12 +5522,12 @@ Il lui plaça une fiche sous les yeux. Hasol y reconnut la désignation d’une 
 <div class="rune-window lit-window" data-window-id="C4-R01" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C4-R01-mobile.svg">
-    <img src="assets/fenetres/C4-R01.svg" alt="Fenêtre du système — FICHE DE LA RUNE CLIENTE">
+    <img src="assets/fenetres/C4-R01.svg" alt="Fenêtre du système — FICHE DE LA RUNE CLIENTE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>FICHE DE LA RUNE CLIENTE</div>
-  <h3 data-rune-id="CLI-R002">Gardien rare (bleue), 3★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="CLI-R002"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Défense +7</span></p>
   <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">PV +30 ; Vitesse +2</span></p>
   <p>État initial ; aucune tentative engagée.</p>
@@ -6071,12 +6061,12 @@ Zio poursuivit :
 <div class="character-sheet lit-window" data-window-id="039" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/039-mobile.svg">
-    <img src="assets/fenetres/039.svg" alt="Fenêtre du système — ZIO NOTOS">
+    <img src="assets/fenetres/039.svg" alt="Fenêtre du système — ZIO NOTOS. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>ZIO NOTOS</div>
-  <p><strong>Classe :</strong> Gardien — <span class="lit-badge lit-badge--rare">Rare</span></p>
+  <p><strong>Classe :</strong> <span class="lit-badge lit-badge--rare" data-rarity="rare" title="Classe rare">Gardien</span><span class="lit-sr-only"> (rare)</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">45</span></p>
   </details>
 </div>
@@ -6251,12 +6241,12 @@ Yoon acquiesça.
 <div class="character-sheet lit-window" data-window-id="040" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/040-mobile.svg">
-    <img src="assets/fenetres/040.svg" alt="Fenêtre du système — YOON NOTOS — SAGE RUNIQUE">
+    <img src="assets/fenetres/040.svg" alt="Fenêtre du système — YOON NOTOS — SAGE RUNIQUE (rare). Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
-  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>YOON NOTOS — SAGE RUNIQUE</div>
-  <p><strong>Rareté :</strong> <span class="lit-badge lit-badge--rare">Rare</span> — <strong>Niveau actuel :</strong> 5</p>
+  <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>YOON NOTOS — <span class="lit-badge lit-badge--rare" data-rarity="rare" title="Classe rare">SAGE RUNIQUE</span><span class="lit-sr-only"> (rare)</span></div>
+  <p><strong>Niveau actuel :</strong> 5</p>
   <p class="lit-window__row"><strong>Âge :</strong> <span class="lit-window__value">16 ans</span></p>
   <p><strong>Compétences disponibles depuis la Révélation :</strong> Résonance runique ; Chant runique ; Vague runique.</p>
   </details>
@@ -6378,7 +6368,7 @@ Elle ajouta avec une pointe de fierté :
 <div class="system-window lit-window" data-window-id="041" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/041-mobile.svg">
-    <img src="assets/fenetres/041.svg" alt="Fenêtre du système — VAGUE RUNIQUE">
+    <img src="assets/fenetres/041.svg" alt="Fenêtre du système — VAGUE RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -6915,7 +6905,7 @@ Sa prise sur l’épée se raffermit.
 <div class="system-window lit-window" data-window-id="042" data-window-type="effet-temporaire">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/042-mobile.svg">
-    <img src="assets/fenetres/042.svg" alt="Fenêtre du système — EFFET TEMPORAIRE ACTIF">
+    <img src="assets/fenetres/042.svg" alt="Fenêtre du système — EFFET TEMPORAIRE ACTIF. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -7435,7 +7425,7 @@ Hasol sentit ses joues chauffer.
 <div class="system-window lit-window" data-window-id="043" data-window-type="regle">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/043-mobile.svg">
-    <img src="assets/fenetres/043.svg" alt="Fenêtre du système — RAPPEL DES AFFINITÉS ÉLÉMENTAIRES">
+    <img src="assets/fenetres/043.svg" alt="Fenêtre du système — RAPPEL DES AFFINITÉS ÉLÉMENTAIRES. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -8033,7 +8023,7 @@ Hasol acquiesça.
 <div class="system-window lit-window" data-window-id="044" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/044-mobile.svg">
-    <img src="assets/fenetres/044.svg" alt="Fenêtre du système — ARME IMPRÉGNÉE D’UNE AURA">
+    <img src="assets/fenetres/044.svg" alt="Fenêtre du système — ARME IMPRÉGNÉE D’UNE AURA. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -8433,12 +8423,12 @@ Elle partagea uniquement la partie de son statut concernant ses cercles et ses e
 <div class="system-window character-sheet lit-window" data-window-id="045" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/045-mobile.svg">
-    <img src="assets/fenetres/045.svg" alt="Fenêtre du système — ÉTAT RUNIQUE — HASOL SHUN">
+    <img src="assets/fenetres/045.svg" alt="Fenêtre du système — ÉTAT RUNIQUE — HASOL SHUN. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 6 0 0 1 16 0v2"/></svg>ÉTAT RUNIQUE — HASOL SHUN</div>
-  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p><strong>Classe :</strong> <span class="legendary-text lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">10</span></p>
   <p class="lit-window__row"><strong>Cercles de mana :</strong> <span class="lit-window__value">10</span></p>
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">10 / 10</span></p>
@@ -8694,14 +8684,14 @@ Les deux jeunes filles confirmèrent leur association dans leur interface d’é
 <div class="system-window lit-window" data-window-id="046" data-window-type="equipe">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/046-mobile.svg">
-    <img src="assets/fenetres/046.svg" alt="Fenêtre du système — FORMATION D’ÉQUIPE CONFIRMÉE">
+    <img src="assets/fenetres/046.svg" alt="Fenêtre du système — FORMATION D’ÉQUIPE CONFIRMÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>FORMATION D’ÉQUIPE CONFIRMÉE</div>
   <p><strong>Membres :</strong> 2 / 5 — <strong>Points de classe :</strong> 30 / 50</p>
-  <p>Hasol Shun — Arcaniste runique, <span class="lit-badge lit-badge--legendary">Légendaire</span> — 20 points</p>
-  <p>Yoon Notos — Sage runique, <span class="lit-badge lit-badge--rare">Rare</span> — 10 points</p>
+  <p>Hasol Shun — <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span> — 20 points</p>
+  <p>Yoon Notos — <span class="lit-badge lit-badge--rare" data-rarity="rare" title="Classe rare">Sage runique</span><span class="lit-sr-only"> (rare)</span> — 10 points</p>
   <p class="lit-window__row"><strong>Statut :</strong> <span>Équipe constituée</span></p>
   </details>
 </div>
@@ -9480,13 +9470,13 @@ Elle regardait la fenêtre qui venait de s’ouvrir.
 <div class="system-window level-up lit-window" data-window-id="047" data-window-type="niveau">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/047-mobile.svg">
-    <img src="assets/fenetres/047.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR">
+    <img src="assets/fenetres/047.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
   <p><strong>Hasol Shun — Niveau 11 atteint</strong></p>
-  <p><strong>Classe :</strong> Arcaniste runique — <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p><strong>Classe :</strong> <span class="legendary-text lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
   <p>Augmentation des caractéristiques naturelles appliquée.</p>
   </details>
 </div>
@@ -9584,13 +9574,13 @@ Elle n’avait jamais vu cette notification auparavant.
 <div class="system-window legendary lit-window" data-window-id="048" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/048-mobile.svg">
-    <img src="assets/fenetres/048.svg" alt="Fenêtre du système — ÉVEIL DE COMPÉTENCE">
+    <img src="assets/fenetres/048.svg" alt="Fenêtre du système — ÉVEIL DE COMPÉTENCE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>ÉVEIL DE COMPÉTENCE</div>
   <p>L’hôte a combattu avec succès des monstres en exploitant leurs faiblesses élémentaires. Condition d’éveil remplie.</p>
-  <p><strong>Aura runique</strong> — Compétence active d’Arcaniste runique, <span class="lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p><strong>Aura runique</strong> — Compétence active d’<span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
   <p><strong>Effet :</strong> Imprègne une arme de l’hôte ou d’un allié d’une aura élémentaire au choix.</p>
   <p><strong>Coût :</strong> 200 Mana et destruction définitive d’une rune quelconque, quels que soient son rang et sa rareté.</p>
   <p class="lit-window__row"><strong>Durée :</strong> <span class="lit-window__value">24 heures.</span></p>
@@ -10439,12 +10429,12 @@ Elle prit une petite rune Énergie commune (blanche), 1★, +0, et observa ses i
 <div class="rune-window lit-window" data-window-id="C6-R02" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C6-R02-mobile.svg">
-    <img src="assets/fenetres/C6-R02.svg" alt="Fenêtre du système — RUNE DE RÉCUPÉRATION EXAMINÉE">
+    <img src="assets/fenetres/C6-R02.svg" alt="Fenêtre du système — RUNE DE RÉCUPÉRATION EXAMINÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE DE RÉCUPÉRATION EXAMINÉE</div>
-  <h3 data-rune-id="REC-R002">Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 1★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="REC-R002"><span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Énergie</span><span class="lit-sr-only"> (commune (blanche))</span>, 1★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +40</span></p>
   <p><strong>Secondaires :</strong> Aucune.</p>
   <p>Pierre de la caisse de récupération d’Orven, distincte des runes personnelles d’Hasol.</p>
@@ -10862,12 +10852,12 @@ Orven examina la petite rune rare (bleue), 1★.
 <div class="rune-window lit-window" data-window-id="C6-R01" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C6-R01-mobile.svg">
-    <img src="assets/fenetres/C6-R01.svg" alt="Fenêtre du système — RUNE EXAMINÉE DANS LE LOT">
+    <img src="assets/fenetres/C6-R01.svg" alt="Fenêtre du système — RUNE EXAMINÉE DANS LE LOT. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE EXAMINÉE DANS LE LOT</div>
-  <h3 data-rune-id="REC-R001">Énergie rare (bleue), 1★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="REC-R001"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 1★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +40</span></p>
   <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">Attaque +2 ; Défense +2</span></p>
   </details>
@@ -11183,14 +11173,14 @@ Sans l’aide d’un forgeron.
 <div class="system-window lit-window" data-window-id="049" data-window-type="effet-temporaire">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/049-mobile.svg">
-    <img src="assets/fenetres/049.svg" alt="Fenêtre du système — AURA RUNIQUE — IMPRÉGNATION RÉUSSIE">
+    <img src="assets/fenetres/049.svg" alt="Fenêtre du système — AURA RUNIQUE — IMPRÉGNATION RÉUSSIE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 3"/></svg>AURA RUNIQUE — IMPRÉGNATION RÉUSSIE</div>
   <p><strong>Arme :</strong> Épée d’essai — <strong>Élément choisi :</strong> Feu</p>
   <p class="lit-window__row"><strong>Mana consommé :</strong> <span class="lit-window__value">200</span></p>
-  <p><strong>Rune sacrifiée :</strong> <span class="lit-badge lit-badge--rune-common">Commune (blanche)</span>, 1★ — détruite définitivement.</p>
+  <p><strong>Rune sacrifiée :</strong> <span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Rune</span><span class="lit-sr-only"> (commune (blanche))</span>, 1★ — détruite définitivement.</p>
   <p class="lit-window__row"><strong>Durée de l’aura :</strong> <span class="lit-window__value">24 heures.</span></p>
   </details>
 </div>
@@ -11430,12 +11420,12 @@ Elle releva les yeux.
 <div class="rune-window lit-window" data-window-id="C6-R03" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C6-R03-mobile.svg">
-    <img src="assets/fenetres/C6-R03.svg" alt="Fenêtre du système — RUNE DU TRI — IDENTIFICATION">
+    <img src="assets/fenetres/C6-R03.svg" alt="Fenêtre du système — RUNE DU TRI — IDENTIFICATION. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE DU TRI — IDENTIFICATION</div>
-  <h3 data-rune-id="REC-R003">Fatal <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 1★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="REC-R003"><span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Fatal</span><span class="lit-sr-only"> (commune (blanche))</span>, 1★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Attaque +3</span></p>
   <p><strong>Secondaires :</strong> Aucune.</p>
   <p>Pierre du tri de l’atelier ; son classement erroné ne change pas son ensemble.</p>
@@ -11861,7 +11851,7 @@ Une lumière dorée jaillit devant elle.
 <div class="system-window legendary lit-window" data-window-id="050" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/050-mobile.svg">
-    <img src="assets/fenetres/050.svg" alt="Fenêtre du système — ACTIVATION CRITIQUE — ÉVOLUTION DE COMPÉTENCE">
+    <img src="assets/fenetres/050.svg" alt="Fenêtre du système — ACTIVATION CRITIQUE — ÉVOLUTION DE COMPÉTENCE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -12483,7 +12473,7 @@ Les niveaux apparurent.
 <div class="system-window monster lit-window" data-window-id="051" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/051-mobile.svg">
-    <img src="assets/fenetres/051.svg" alt="Fenêtre du système — ADVERSAIRES IDENTIFIÉS">
+    <img src="assets/fenetres/051.svg" alt="Fenêtre du système — ADVERSAIRES IDENTIFIÉS. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -12940,7 +12930,7 @@ Et elles avaient gagné.
 <div class="system-window lit-window" data-window-id="052" data-window-type="bilan">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/052-mobile.svg">
-    <img src="assets/fenetres/052.svg" alt="Fenêtre du système — BILAN DU PASSAGE ÉTROIT">
+    <img src="assets/fenetres/052.svg" alt="Fenêtre du système — BILAN DU PASSAGE ÉTROIT. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -13286,7 +13276,7 @@ L’ensemble Arcanique semblait parfaitement adapté.
 <div class="rune-window lit-window" data-window-id="053" data-window-type="ensemble">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/053-mobile.svg">
-    <img src="assets/fenetres/053.svg" alt="Fenêtre du système — ENSEMBLE ARCANIQUE">
+    <img src="assets/fenetres/053.svg" alt="Fenêtre du système — ENSEMBLE ARCANIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -13303,7 +13293,7 @@ Et il augmentait également ses dégâts critiques.
 <div class="system-window lit-window" data-window-id="054" data-window-type="regle">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/054-mobile.svg">
-    <img src="assets/fenetres/054.svg" alt="Fenêtre du système — PUISSANCE ARCANIQUE ET CRITIQUES">
+    <img src="assets/fenetres/054.svg" alt="Fenêtre du système — PUISSANCE ARCANIQUE ET CRITIQUES. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -13485,12 +13475,12 @@ Une rune Énergie commune (blanche), 2★, +3.
 <div class="rune-window lit-window" data-window-id="C7-R01" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C7-R01-mobile.svg">
-    <img src="assets/fenetres/C7-R01.svg" alt="Fenêtre du système — REGISTRE — COMMANDE ÉNERGIE">
+    <img src="assets/fenetres/C7-R01.svg" alt="Fenêtre du système — REGISTRE — COMMANDE ÉNERGIE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>REGISTRE — COMMANDE ÉNERGIE</div>
-  <h3 data-rune-id="CLI-R003">Énergie <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</h3>
+  <h3 data-rune-id="CLI-R003"><span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Énergie</span><span class="lit-sr-only"> (commune (blanche))</span>, 2★</h3>
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">État consigné</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
@@ -13507,12 +13497,12 @@ Deux Fatal 2★, +3, l’une commune blanche, l’autre peu commune verte.
 <div class="rune-window lit-window" data-window-id="C7-R02" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C7-R02-mobile.svg">
-    <img src="assets/fenetres/C7-R02.svg" alt="Fenêtre du système — REGISTRE — PREMIÈRE COMMANDE FATAL">
+    <img src="assets/fenetres/C7-R02.svg" alt="Fenêtre du système — REGISTRE — PREMIÈRE COMMANDE FATAL. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>REGISTRE — PREMIÈRE COMMANDE FATAL</div>
-  <h3 data-rune-id="CLI-R004">Fatal <span class="lit-badge lit-badge--rune-common">commune (blanche)</span>, 2★</h3>
+  <h3 data-rune-id="CLI-R004"><span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Fatal</span><span class="lit-sr-only"> (commune (blanche))</span>, 2★</h3>
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">État consigné</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
@@ -13527,12 +13517,12 @@ Deux Fatal 2★, +3, l’une commune blanche, l’autre peu commune verte.
 <div class="rune-window lit-window" data-window-id="C7-R03" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C7-R03-mobile.svg">
-    <img src="assets/fenetres/C7-R03.svg" alt="Fenêtre du système — REGISTRE — SECONDE COMMANDE FATAL">
+    <img src="assets/fenetres/C7-R03.svg" alt="Fenêtre du système — REGISTRE — SECONDE COMMANDE FATAL. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>REGISTRE — SECONDE COMMANDE FATAL</div>
-  <h3 data-rune-id="CLI-R005">Fatal <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★</h3>
+  <h3 data-rune-id="CLI-R005"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 2★</h3>
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">État consigné</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
@@ -13806,7 +13796,7 @@ Hasol acquiesça.
 <div class="system-window lit-window" data-window-id="055" data-window-type="bilan">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/055-mobile.svg">
-    <img src="assets/fenetres/055.svg" alt="Fenêtre du système — COMPARAISON DES SÉRIES D’AMÉLIORATION">
+    <img src="assets/fenetres/055.svg" alt="Fenêtre du système — COMPARAISON DES SÉRIES D’AMÉLIORATION. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -14340,7 +14330,7 @@ Il croisa les bras.
 <div class="system-window lit-window" data-window-id="056" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/056-mobile.svg">
-    <img src="assets/fenetres/056.svg" alt="Fenêtre du système — BÉNÉDICTION RUNIQUE — OBSERVATIONS">
+    <img src="assets/fenetres/056.svg" alt="Fenêtre du système — BÉNÉDICTION RUNIQUE — OBSERVATIONS. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -14949,12 +14939,12 @@ Hasol retint son souffle.
 <div class="rune-window success lit-window" data-window-id="057" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/057-mobile.svg">
-    <img src="assets/fenetres/057.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+    <img src="assets/fenetres/057.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <p data-rune-id="GRI-R001"><strong>Rune d’épreuve :</strong> Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★.</p>
+  <p data-rune-id="GRI-R001"><strong>Rune d’épreuve :</strong> <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 2★.</p>
   <p><strong>Niveau atteint :</strong> <span class="upgrade-badge">+6</span></p>
   <p><strong>Principale :</strong> <span class="rune-bonus">Défense +23</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +40 ; Mana +20</span>.</p>
   <p>Commande du Griffon d’Argent — rune distincte de l’équipement personnel d’Hasol.</p>
@@ -15460,13 +15450,13 @@ La pierre était légèrement tiède.
 <div class="rune-window lit-window" data-window-id="058" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/058-mobile.svg">
-    <img src="assets/fenetres/058.svg" alt="Fenêtre du système — RUNE ARCANIQUE">
+    <img src="assets/fenetres/058.svg" alt="Fenêtre du système — RUNE ARCANIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE ARCANIQUE</div>
-  <p data-rune-id="HAS-R011">Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+0</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +30</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +2 ; Mana +10</span>.</p>
-  <p data-rune-id="HAS-R012">Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+0</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +30</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Attaque +4 ; Défense +3</span>.</p>
+  <p data-rune-id="HAS-R011"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, <span class="upgrade-badge">+0</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +30</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +2 ; Mana +10</span>.</p>
+  <p data-rune-id="HAS-R012"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, <span class="upgrade-badge">+0</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +30</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Attaque +4 ; Défense +3</span>.</p>
   </details>
 </div>
 
@@ -15555,7 +15545,7 @@ Elle consulta son interface.
 <div class="character-sheet lit-window" data-window-id="059" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/059-mobile.svg">
-    <img src="assets/fenetres/059.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE">
+    <img src="assets/fenetres/059.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -15563,18 +15553,18 @@ Elle consulta son interface.
   <p class="lit-window__row"><strong>Runes équipées :</strong> <span class="lit-window__value">10 / 10</span></p>
   <p><strong>Composition :</strong> 4 Fatal ; 2 Gardien ; 2 Énergie ; 2 Arcanique.</p>
   <table class="lit-window__inventory">
-    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <thead><tr><th scope="col">Ensemble, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +3</th><td class="rune-bonus">Attaque +22</td><td class="rune-bonus">Vitesse +4 ; PV +30</td></tr>
-      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Attaque +7</td><td class="rune-bonus">Défense +3</td></tr>
-      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +0</th><td class="rune-bonus">Vitesse +3</td><td class="rune-bonus">Attaque +3</td></tr>
-      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R009"><th scope="row">Énergie rare (bleue), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R010"><th scope="row">Énergie peu commune (verte), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30</td></tr>
-      <tr data-rune-id="HAS-R011"><th scope="row">Arcanique rare (bleue), 3★, +0</th><td class="rune-bonus">PA +30</td><td class="rune-bonus">Vitesse +2 ; Mana +10</td></tr>
-      <tr data-rune-id="HAS-R012"><th scope="row">Arcanique rare (bleue), 3★, +0</th><td class="rune-bonus">PA +30</td><td class="rune-bonus">Attaque +4 ; Défense +3</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +3</th><td class="rune-bonus">Attaque +22</td><td class="rune-bonus">Vitesse +4 ; PV +30</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</th><td class="rune-bonus">Attaque +7</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</th><td class="rune-bonus">Vitesse +3</td><td class="rune-bonus">Attaque +3</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R009"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R010"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Énergie</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30</td></tr>
+      <tr data-rune-id="HAS-R011"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</th><td class="rune-bonus">PA +30</td><td class="rune-bonus">Vitesse +2 ; Mana +10</td></tr>
+      <tr data-rune-id="HAS-R012"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</th><td class="rune-bonus">PA +30</td><td class="rune-bonus">Attaque +4 ; Défense +3</td></tr>
     </tbody>
   </table>
   <p><strong>Ensembles :</strong> Fatal, Gardien et Énergie actifs ; Arcanique 2 / 4 — inactif.</p>
@@ -15829,7 +15819,7 @@ Il lui montra le bilan.
 <div class="character-sheet lit-window" data-window-id="060" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/060-mobile.svg">
-    <img src="assets/fenetres/060.svg" alt="Fenêtre du système — ÉQUIPEMENT D’HASOL — BILAN">
+    <img src="assets/fenetres/060.svg" alt="Fenêtre du système — ÉQUIPEMENT D’HASOL — BILAN. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -15838,20 +15828,20 @@ Il lui montra le bilan.
   <p><strong>Améliorations :</strong> 6 runes <span class="upgrade-badge">+6</span> ; 4 runes <span class="upgrade-badge">+3</span>.</p>
   <p><strong>Composition :</strong> 4 Fatal ; 2 Gardien ; 2 Énergie ; 2 Arcanique.</p>
   <p><strong>Arcanique :</strong> 2 / 4 — bonus inactif.</p>
-  <p><strong>Cadeaux paternels :</strong> Fatal et Gardien <span class="lit-badge lit-badge--rune-rare">rares (bleues)</span>, 6★, +6 — inchangées.</p>
+  <p><strong>Cadeaux paternels :</strong> <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span> et <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6 — inchangées.</p>
   <table class="lit-window__inventory">
-    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <thead><tr><th scope="col">Ensemble, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Vitesse +4 ; PV +50</td></tr>
-      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Défense +6 ; PA +20</td></tr>
-      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
-      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R009"><th scope="row">Énergie rare (bleue), 3★, +6</th><td class="rune-bonus">PV +388</td><td class="rune-bonus">Défense +6 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R010"><th scope="row">Énergie peu commune (verte), 3★, +3</th><td class="rune-bonus">Défense +22</td><td class="rune-bonus">PV +50</td></tr>
-      <tr data-rune-id="HAS-R011"><th scope="row">Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R012"><th scope="row">Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Vitesse +4 ; PV +50</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Défense +6 ; PA +20</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R009"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +6</th><td class="rune-bonus">PV +388</td><td class="rune-bonus">Défense +6 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R010"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Énergie</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +3</th><td class="rune-bonus">Défense +22</td><td class="rune-bonus">PV +50</td></tr>
+      <tr data-rune-id="HAS-R011"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R012"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
     </tbody>
   </table>
   </details>
@@ -16141,7 +16131,7 @@ Elle nota soigneusement le résultat.
 <div class="system-window lit-window" data-window-id="061" data-window-type="entrainement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/061-mobile.svg">
-    <img src="assets/fenetres/061.svg" alt="Fenêtre du système — EXERCICE TERMINÉ">
+    <img src="assets/fenetres/061.svg" alt="Fenêtre du système — EXERCICE TERMINÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -16956,7 +16946,7 @@ Elle ne révéla que les informations qu’elle souhaitait partager.
 <div class="character-sheet lit-window" data-window-id="062" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/062-mobile.svg">
-    <img src="assets/fenetres/062.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE PARTAGÉ">
+    <img src="assets/fenetres/062.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE PARTAGÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -16965,18 +16955,18 @@ Elle ne révéla que les informations qu’elle souhaitait partager.
   <p><strong>Composition :</strong> 4 Fatal ; 2 Gardien ; 2 Énergie ; 2 Arcanique.</p>
   <p><strong>Améliorations :</strong> 6 runes <span class="upgrade-badge">+6</span> ; 4 runes <span class="upgrade-badge">+3</span>.</p>
   <table class="lit-window__inventory">
-    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <thead><tr><th scope="col">Ensemble, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Vitesse +4 ; PV +50</td></tr>
-      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Défense +6 ; PA +20</td></tr>
-      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
-      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R009"><th scope="row">Énergie rare (bleue), 3★, +6</th><td class="rune-bonus">PV +388</td><td class="rune-bonus">Défense +6 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R010"><th scope="row">Énergie peu commune (verte), 3★, +3</th><td class="rune-bonus">Défense +22</td><td class="rune-bonus">PV +50</td></tr>
-      <tr data-rune-id="HAS-R011"><th scope="row">Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R012"><th scope="row">Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Vitesse +4 ; PV +50</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +6</th><td class="rune-bonus">Attaque +37</td><td class="rune-bonus">Défense +6 ; PA +20</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R009"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +6</th><td class="rune-bonus">PV +388</td><td class="rune-bonus">Défense +6 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R010"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Énergie</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +3</th><td class="rune-bonus">Défense +22</td><td class="rune-bonus">PV +50</td></tr>
+      <tr data-rune-id="HAS-R011"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R012"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
     </tbody>
   </table>
   <p><strong>Arcanique :</strong> 2 / 4 — bonus inactif.</p>
@@ -17168,7 +17158,7 @@ Cette fois, au moment où sa lame atteignit l’animal, une notification travers
 <div class="system-window lit-window" data-window-id="063" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/063-mobile.svg">
-    <img src="assets/fenetres/063.svg" alt="Fenêtre du système — COUP CRITIQUE">
+    <img src="assets/fenetres/063.svg" alt="Fenêtre du système — COUP CRITIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -17841,7 +17831,7 @@ Une fenêtre apparut.
 <div class="system-window monster lit-window" data-window-id="064" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/064-mobile.svg">
-    <img src="assets/fenetres/064.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+    <img src="assets/fenetres/064.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -18450,7 +18440,7 @@ Mais les caractéristiques secondaires et les bonus d’ensemble restèrent inch
 <div class="system-window lit-window" data-window-id="065" data-window-type="effet-temporaire">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/065-mobile.svg">
-    <img src="assets/fenetres/065.svg" alt="Fenêtre du système — RÉSONANCE RUNIQUE — EFFET TEMPORAIRE">
+    <img src="assets/fenetres/065.svg" alt="Fenêtre du système — RÉSONANCE RUNIQUE — EFFET TEMPORAIRE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -18512,7 +18502,7 @@ Une notification traversa son champ de vision.
 <div class="system-window lit-window" data-window-id="066" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/066-mobile.svg">
-    <img src="assets/fenetres/066.svg" alt="Fenêtre du système — COUP CRITIQUE">
+    <img src="assets/fenetres/066.svg" alt="Fenêtre du système — COUP CRITIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -18924,7 +18914,7 @@ Une notification apparut.
 <div class="system-window success lit-window" data-window-id="067" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/067-mobile.svg">
-    <img src="assets/fenetres/067.svg" alt="Fenêtre du système — ÉLIMINATION CONFIRMÉE">
+    <img src="assets/fenetres/067.svg" alt="Fenêtre du système — ÉLIMINATION CONFIRMÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -20365,12 +20355,12 @@ Une pierre de mana se consuma.
 <div class="rune-window success lit-window" data-window-id="068" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/068-mobile.svg">
-    <img src="assets/fenetres/068.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+    <img src="assets/fenetres/068.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <p data-rune-id="HAS-R009">Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+7</span> ; passage +6 → +7.</p>
+  <p data-rune-id="HAS-R009"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, <span class="upgrade-badge">+7</span> ; passage +6 → +7.</p>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +436</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6&nbsp;%</span>.</p>
   <p>Pierres de mana consommées et Mana personnel dépensé.</p>
   </details>
@@ -20385,12 +20375,12 @@ Cette fois, la lumière vacilla.
 <div class="rune-window lit-window" data-window-id="069" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/069-mobile.svg">
-    <img src="assets/fenetres/069.svg" alt="Fenêtre du système — AMÉLIORATION ÉCHOUÉE">
+    <img src="assets/fenetres/069.svg" alt="Fenêtre du système — AMÉLIORATION ÉCHOUÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 8 8 8 M16 8l-8 8"/></svg>AMÉLIORATION ÉCHOUÉE</div>
-  <p data-rune-id="HAS-R009">Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+7</span> conservé ; tentative +7 → +8.</p>
+  <p data-rune-id="HAS-R009"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, <span class="upgrade-badge">+7</span> conservé ; tentative +7 → +8.</p>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +436</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6&nbsp;%</span>.</p>
   <p>Aucune progression ; ressources engagées consommées.</p>
   </details>
@@ -20417,12 +20407,12 @@ Mais à la fin de la séance, la première rune avait atteint le palier recherch
 <div class="rune-window success lit-window" data-window-id="070" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/070-mobile.svg">
-    <img src="assets/fenetres/070.svg" alt="Fenêtre du système — PALIER ATTEINT">
+    <img src="assets/fenetres/070.svg" alt="Fenêtre du système — PALIER ATTEINT. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>PALIER ATTEINT</div>
-  <p data-rune-id="HAS-R009">Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★.</p>
+  <p data-rune-id="HAS-R009"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★.</p>
   <p><strong>Amélioration :</strong> <span class="upgrade-badge">+9</span></p>
   <p><strong>Dernier passage :</strong> +8 → +9 ; rareté inchangée.</p>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +532</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6&nbsp;% ; <strong>Mana +10</strong></span>.</p>
@@ -20448,12 +20438,12 @@ Hasol amena sa deuxième rune Énergie peu commune (verte), 3★, à +9, sans en
 <div class="rune-window lit-window" data-window-id="C9-R01" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C9-R01-mobile.svg">
-    <img src="assets/fenetres/C9-R01.svg" alt="Fenêtre du système — SECONDE ÉNERGIE AMÉLIORÉE">
+    <img src="assets/fenetres/C9-R01.svg" alt="Fenêtre du système — SECONDE ÉNERGIE AMÉLIORÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>SECONDE ÉNERGIE AMÉLIORÉE</div>
-  <h3 data-rune-id="HAS-R010">Énergie peu commune (verte), 3★ <span class="upgrade-badge">+9</span></h3>
+  <h3 data-rune-id="HAS-R010"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Énergie</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★ <span class="upgrade-badge">+9</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Défense +52</span></p>
   <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">PV +50 ; Vitesse +2 ; <strong>PA +20</strong></span></p>
   </details>
@@ -21138,7 +21128,7 @@ Hasol ouvrit son interface.
 <div class="character-sheet lit-window" data-window-id="071" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/071-mobile.svg">
-    <img src="assets/fenetres/071.svg" alt="Fenêtre du système — STATUT D’HASOL SHUN">
+    <img src="assets/fenetres/071.svg" alt="Fenêtre du système — STATUT D’HASOL SHUN. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -21306,7 +21296,7 @@ Puis ouvrit son interface.
 <div class="system-window lit-window" data-window-id="072" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/072-mobile.svg">
-    <img src="assets/fenetres/072.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE">
+    <img src="assets/fenetres/072.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -21345,7 +21335,7 @@ Un loup gris apparut.
 <div class="system-window monster lit-window" data-window-id="073" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/073-mobile.svg">
-    <img src="assets/fenetres/073.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+    <img src="assets/fenetres/073.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -21383,7 +21373,7 @@ Son épée frappa.
 <div class="system-window lit-window" data-window-id="074" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/074-mobile.svg">
-    <img src="assets/fenetres/074.svg" alt="Fenêtre du système — COUP CRITIQUE">
+    <img src="assets/fenetres/074.svg" alt="Fenêtre du système — COUP CRITIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -21405,7 +21395,7 @@ Puis une notification apparut.
 <div class="system-window success lit-window" data-window-id="075" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/075-mobile.svg">
-    <img src="assets/fenetres/075.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE — PALIER ATTEINT">
+    <img src="assets/fenetres/075.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE — PALIER ATTEINT. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -21571,13 +21561,13 @@ Mais leurs caractéristiques principales correspondaient exactement à ce que re
 <div class="rune-window lit-window" data-window-id="076" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/076-mobile.svg">
-    <img src="assets/fenetres/076.svg" alt="Fenêtre du système — DEUX NOUVELLES RUNES ARCANIQUE">
+    <img src="assets/fenetres/076.svg" alt="Fenêtre du système — DEUX NOUVELLES RUNES ARCANIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>DEUX NOUVELLES RUNES ARCANIQUE</div>
-  <p data-rune-id="HAS-R013">Arcanique <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +38</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; Mana +20</span>.</p>
-  <p data-rune-id="HAS-R014">Arcanique <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +38</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Mana +10</span>.</p>
+  <p data-rune-id="HAS-R013"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +38</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; Mana +20</span>.</p>
+  <p data-rune-id="HAS-R014"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Arcanique</span><span class="lit-sr-only"> (peu commune (verte))</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PA +38</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Mana +10</span>.</p>
   </details>
 </div>
 
@@ -21701,7 +21691,7 @@ Une notification apparut.
 <div class="rune-window success lit-window" data-window-id="077" data-window-type="ensemble">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/077-mobile.svg">
-    <img src="assets/fenetres/077.svg" alt="Fenêtre du système — ENSEMBLE ARCANIQUE ACTIVÉ">
+    <img src="assets/fenetres/077.svg" alt="Fenêtre du système — ENSEMBLE ARCANIQUE ACTIVÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -21784,7 +21774,7 @@ Hasol contempla sa nouvelle configuration.
 <div class="character-sheet lit-window" data-window-id="078" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/078-mobile.svg">
-    <img src="assets/fenetres/078.svg" alt="Fenêtre du système — HASOL SHUN — ONZE CERCLES">
+    <img src="assets/fenetres/078.svg" alt="Fenêtre du système — HASOL SHUN — ONZE CERCLES. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -21794,19 +21784,19 @@ Hasol contempla sa nouvelle configuration.
   <p><strong>Arcanique :</strong> 4 — ensemble actif.</p>
   <p><strong>Gardien :</strong> 3 — une paire active ; <strong>Énergie :</strong> 0.</p>
   <table class="lit-window__inventory">
-    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <thead><tr><th scope="col">Ensemble, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Vitesse +4 ; PV +50 ; PA +60</td></tr>
-      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Défense +6 ; PA +20 ; Vitesse +2</td></tr>
-      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
-      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R007"><th scope="row">Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
-      <tr data-rune-id="HAS-R011"><th scope="row">Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R012"><th scope="row">Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
-      <tr data-rune-id="HAS-R013"><th scope="row">Arcanique rare (bleue), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R014"><th scope="row">Arcanique peu commune (verte), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Défense +6 ; Mana +10</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Vitesse +4 ; PV +50 ; PA +60</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Défense +6 ; PA +20 ; Vitesse +2</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R007"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
+      <tr data-rune-id="HAS-R011"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R012"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+      <tr data-rune-id="HAS-R013"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R014"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Arcanique</span><span class="lit-sr-only"> (peu commune (verte))</span>, 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Défense +6 ; Mana +10</td></tr>
     </tbody>
   </table>
   </details>
@@ -22226,19 +22216,19 @@ Une notification apparut.
 <div class="rune-window success lit-window" data-window-id="079" data-window-type="ensemble">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/079-mobile.svg">
-    <img src="assets/fenetres/079.svg" alt="Fenêtre du système — ENSEMBLE ÉNERGIE ACTIVÉ — YOON">
+    <img src="assets/fenetres/079.svg" alt="Fenêtre du système — ENSEMBLE ÉNERGIE ACTIVÉ — YOON. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>ENSEMBLE ÉNERGIE ACTIVÉ — YOON</div>
   <p><strong>Runes offertes par Hasol et équipées :</strong></p>
-  <p data-rune-id="HAS-R009">Énergie <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 3★, <span class="upgrade-badge">+9</span> ; <strong>principale :</strong> <span class="rune-bonus">PV +532</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6&nbsp;% ; Mana +10</span>.</p>
-  <p data-rune-id="HAS-R010">Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 3★, <span class="upgrade-badge">+9</span> ; <strong>principale :</strong> <span class="rune-bonus">Défense +52</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +50 ; Vitesse +2 ; PA +20</span>.</p>
+  <p data-rune-id="HAS-R009"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, <span class="upgrade-badge">+9</span> ; <strong>principale :</strong> <span class="rune-bonus">PV +532</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Défense +6 ; Résistance +6&nbsp;% ; Mana +10</span>.</p>
+  <p data-rune-id="HAS-R010"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Énergie</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, <span class="upgrade-badge">+9</span> ; <strong>principale :</strong> <span class="rune-bonus">Défense +52</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +50 ; Vitesse +2 ; PA +20</span>.</p>
   <p class="lit-window__row"><strong>Pièces équipées :</strong> <span class="lit-window__value">2 / 2.</span></p>
   <p><span class="rune-bonus">Bonus d’ensemble : PV maximums +15&nbsp;%.</span></p>
   <p><strong>Anciennes runes conservées dans l’inventaire, non équipées :</strong></p>
-  <p data-rune-id="YOO-R001">Gardien <span class="lit-badge lit-badge--rune-rare">rare (bleue)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">Défense +23</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +40 ; Mana +20</span>.</p>
-  <p data-rune-id="YOO-R002">Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PV +250</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; Défense +3</span>.</p>
+  <p data-rune-id="YOO-R001"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">Défense +23</span> ; <strong>secondaires :</strong> <span class="rune-bonus">PV +40 ; Mana +20</span>.</p>
+  <p data-rune-id="YOO-R002"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Énergie</span><span class="lit-sr-only"> (peu commune (verte))</span>, 2★, <span class="upgrade-badge">+6</span> ; <strong>principale :</strong> <span class="rune-bonus">PV +250</span> ; <strong>secondaires :</strong> <span class="rune-bonus">Vitesse +4 ; Défense +3</span>.</p>
   </details>
 </div>
 
@@ -22605,7 +22595,7 @@ Puis, quelques jours plus tard, lors d'un nouvel exercice difficile, une notific
 <div class="system-window level-up lit-window" data-window-id="080" data-window-type="niveau">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/080-mobile.svg">
-    <img src="assets/fenetres/080.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR — YOON NOTOS">
+    <img src="assets/fenetres/080.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR — YOON NOTOS. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -23016,7 +23006,7 @@ Puis frappa.
 <div class="system-window lit-window" data-window-id="081" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/081-mobile.svg">
-    <img src="assets/fenetres/081.svg" alt="Fenêtre du système — COUP CRITIQUE">
+    <img src="assets/fenetres/081.svg" alt="Fenêtre du système — COUP CRITIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -23086,7 +23076,7 @@ Hasol consulta son interface.
 <div class="character-sheet lit-window" data-window-id="082" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/082-mobile.svg">
-    <img src="assets/fenetres/082.svg" alt="Fenêtre du système — STATUT D’HASOL SHUN">
+    <img src="assets/fenetres/082.svg" alt="Fenêtre du système — STATUT D’HASOL SHUN. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -23108,7 +23098,7 @@ Hasol ouvrit son compteur.
 <div class="system-window lit-window" data-window-id="083" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/083-mobile.svg">
-    <img src="assets/fenetres/083.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE">
+    <img src="assets/fenetres/083.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -23153,7 +23143,7 @@ Elle consulta son compteur.
 <div class="system-window lit-window" data-window-id="084" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/084-mobile.svg">
-    <img src="assets/fenetres/084.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE">
+    <img src="assets/fenetres/084.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -23211,7 +23201,7 @@ Puis frappa.
 <div class="system-window lit-window" data-window-id="085" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/085-mobile.svg">
-    <img src="assets/fenetres/085.svg" alt="Fenêtre du système — COUP CRITIQUE">
+    <img src="assets/fenetres/085.svg" alt="Fenêtre du système — COUP CRITIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -23227,7 +23217,7 @@ Une notification apparut immédiatement.
 <div class="system-window success lit-window" data-window-id="086" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/086-mobile.svg">
-    <img src="assets/fenetres/086.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE — PALIER ATTEINT">
+    <img src="assets/fenetres/086.svg" alt="Fenêtre du système — CROISSANCE RUNIQUE — PALIER ATTEINT. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -23465,31 +23455,31 @@ Son équipement était désormais composé de :
 <div class="character-sheet lit-window" data-window-id="087" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/087-mobile.svg">
-    <img src="assets/fenetres/087.svg" alt="Fenêtre du système — HASOL SHUN — ÉQUIPEMENT RUNIQUE">
+    <img src="assets/fenetres/087.svg" alt="Fenêtre du système — HASOL SHUN — ÉQUIPEMENT RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v15H4Z M8 3v4 M16 3v4 M8 11h8 M8 15h8"/></svg>HASOL SHUN — ÉQUIPEMENT RUNIQUE</div>
-  <p><strong>Classe :</strong> Arcaniste runique — <span class="lit-badge lit-badge--legendary">Légendaire</span>.</p>
+  <p><strong>Classe :</strong> <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span>.</p>
   <p><strong>Niveau :</strong> 19 — <strong>Cercles :</strong> 12 — <strong>Runes équipées :</strong> 12 / 12.</p>
   <p><strong>Fatal :</strong> 4 — <span class="rune-bonus">Attaque +35&nbsp;%.</span></p>
   <p><strong>Arcanique :</strong> 4 — <span class="rune-bonus">Puissance arcanique +1&nbsp;200.</span></p>
   <p><strong>Gardien :</strong> 4 — deux paires, <span class="rune-bonus">Défense +15&nbsp;% +15&nbsp;% = +30&nbsp;%.</span></p>
   <table class="lit-window__inventory">
-    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <thead><tr><th scope="col">Ensemble, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
-      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R003"><th scope="row">Fatal rare (bleue), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Vitesse +4 ; PV +50 ; PA +60</td></tr>
-      <tr data-rune-id="HAS-R004"><th scope="row">Fatal peu commune (verte), 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Défense +6 ; PA +20 ; Vitesse +2</td></tr>
-      <tr data-rune-id="HAS-R005"><th scope="row">Fatal peu commune (verte), 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
-      <tr data-rune-id="HAS-R006"><th scope="row">Gardien rare (bleue), 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R007"><th scope="row">Gardien rare (bleue), 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
-      <tr data-rune-id="HAS-R008"><th scope="row">Gardien peu commune (verte), 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3</td></tr>
-      <tr data-rune-id="HAS-R011"><th scope="row">Arcanique rare (bleue), 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R012"><th scope="row">Arcanique rare (bleue), 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
-      <tr data-rune-id="HAS-R013"><th scope="row">Arcanique rare (bleue), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
-      <tr data-rune-id="HAS-R014"><th scope="row">Arcanique peu commune (verte), 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Défense +6 ; Mana +10</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Attaque +70</td><td class="rune-bonus">Vitesse +4 ; PV +25</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +6</th><td class="rune-bonus">Défense +70</td><td class="rune-bonus">PV +30 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R003"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Vitesse +4 ; PV +50 ; PA +60</td></tr>
+      <tr data-rune-id="HAS-R004"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +9</th><td class="rune-bonus">Attaque +52</td><td class="rune-bonus">Défense +6 ; PA +20 ; Vitesse +2</td></tr>
+      <tr data-rune-id="HAS-R005"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +3</th><td class="rune-bonus">Vitesse +6</td><td class="rune-bonus">Attaque +6</td></tr>
+      <tr data-rune-id="HAS-R006"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +3</th><td class="rune-bonus">PV +244</td><td class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R007"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +0</th><td class="rune-bonus">Défense +7</td><td class="rune-bonus">PV +30 ; Vitesse +2</td></tr>
+      <tr data-rune-id="HAS-R008"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Gardien</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, +0</th><td class="rune-bonus">PV +100</td><td class="rune-bonus">Défense +3</td></tr>
+      <tr data-rune-id="HAS-R011"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +6</th><td class="rune-bonus">PA +66</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R012"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, +3</th><td class="rune-bonus">PA +48</td><td class="rune-bonus">Attaque +4 ; Défense +6</td></tr>
+      <tr data-rune-id="HAS-R013"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Vitesse +4 ; Mana +20</td></tr>
+      <tr data-rune-id="HAS-R014"><th scope="row"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Arcanique</span><span class="lit-sr-only"> (peu commune (verte))</span>, 2★, +6</th><td class="rune-bonus">PA +38</td><td class="rune-bonus">Défense +6 ; Mana +10</td></tr>
     </tbody>
   </table>
   </details>
@@ -23600,7 +23590,7 @@ Yoon ouvrit fièrement son interface.
 <div class="character-sheet lit-window" data-window-id="088" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/088-mobile.svg">
-    <img src="assets/fenetres/088.svg" alt="Fenêtre du système — YOON NOTOS — SAGE RUNIQUE">
+    <img src="assets/fenetres/088.svg" alt="Fenêtre du système — YOON NOTOS — SAGE RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -23744,7 +23734,7 @@ Hasol ouvrit sa fiche.
 <div class="character-sheet lit-window" data-window-id="089" data-window-type="personnage">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/089-mobile.svg">
-    <img src="assets/fenetres/089.svg" alt="Fenêtre du système — HASOL SHUN — ARCANISTE RUNIQUE">
+    <img src="assets/fenetres/089.svg" alt="Fenêtre du système — HASOL SHUN — ARCANISTE RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -24506,7 +24496,7 @@ Hasol concentra son regard.
 <div class="system-window monster lit-window" data-window-id="092" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/092-mobile.svg">
-    <img src="assets/fenetres/092.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+    <img src="assets/fenetres/092.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -25066,7 +25056,7 @@ Le monstre ne bougea plus.
 <div class="system-window success lit-window" data-window-id="093" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/093-mobile.svg">
-    <img src="assets/fenetres/093.svg" alt="Fenêtre du système — ENNEMI VAINCU">
+    <img src="assets/fenetres/093.svg" alt="Fenêtre du système — ENNEMI VAINCU. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -25184,14 +25174,13 @@ Elle leva les yeux.
 <div class="system-window level-up lit-window" data-window-id="094" data-window-type="niveau">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/094-mobile.svg">
-    <img src="assets/fenetres/094.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR">
+    <img src="assets/fenetres/094.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21V4 M5 11l7-7 7 7 M5 20h14"/></svg>NIVEAU SUPÉRIEUR</div>
   <h3>Hasol Shun</h3>
-  <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
-  <p class="lit-window__row"><strong>Rareté :</strong> <span class="legendary-text lit-badge lit-badge--legendary">Légendaire</span></p>
+  <p class="lit-window__row"><strong>Classe :</strong> <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
   <hr>
   <p class="lit-window__row"><strong>Ancien niveau :</strong> <span class="lit-window__value">19</span></p>
   <p class="lit-window__row"><strong>Nouveau niveau :</strong> <span class="success-text lit-window__value">20</span></p>
@@ -25233,13 +25222,13 @@ De fines inscriptions turquoise se déployèrent devant ses yeux.
 <div class="system-window legendary lit-window" data-window-id="095" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/095-mobile.svg">
-    <img src="assets/fenetres/095.svg" alt="Fenêtre du système — NOUVELLE COMPÉTENCE DÉBLOQUÉE">
+    <img src="assets/fenetres/095.svg" alt="Fenêtre du système — NOUVELLE COMPÉTENCE DÉBLOQUÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>NOUVELLE COMPÉTENCE DÉBLOQUÉE</div>
   <h3>Œil runique</h3>
-  <p class="lit-window__row"><strong>Classe :</strong> <span>Arcaniste runique</span></p>
+  <p class="lit-window__row"><strong>Classe :</strong> <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
   <p class="lit-window__row"><strong>Type :</strong> <span class="passive-badge">Passive</span></p>
   <hr>
   <div class="lit-window__section">
@@ -25372,13 +25361,12 @@ Une fenêtre apparut.
 <div class="rune-window blue-grade lit-window" data-window-id="096" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/096-mobile.svg">
-    <img src="assets/fenetres/096.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE">
+    <img src="assets/fenetres/096.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
-  <h3>Rune Vitesse</h3>
-  <p class="lit-window__row"><strong>Grade :</strong> <span class="lit-badge lit-badge--rune-rare">Rare — Bleue</span></p>
+  <h3>Rune <span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span></h3>
   <p class="lit-window__row"><strong>Rang :</strong> <span class="lit-window__value">★★★</span></p>
   <p class="lit-window__row"><strong>Amélioration :</strong> <span class="upgrade-badge">+0</span></p>
   <hr>
@@ -25820,13 +25808,12 @@ Elle concentra immédiatement son regard.
 <div class="rune-window legendary lit-window" data-window-id="097" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/097-mobile.svg">
-    <img src="assets/fenetres/097.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE">
+    <img src="assets/fenetres/097.svg" alt="Fenêtre du système — RUNE IDENTIFIÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE IDENTIFIÉE</div>
-  <h3>Rune Énergie</h3>
-  <p class="lit-window__row"><strong>Grade :</strong> <span class="legendary-text lit-badge lit-badge--rune-legendary">Légendaire — Orange</span></p>
+  <h3>Rune <span class="lit-badge lit-badge--rune-legendary" data-rarity="legendary" title="Rune légendaire (orange)">Énergie</span><span class="lit-sr-only"> (légendaire (orange))</span></h3>
   <p class="lit-window__row"><strong>Rang :</strong> <span class="lit-window__value">★★★★</span></p>
   <p class="lit-window__row"><strong>Amélioration actuelle :</strong> <span class="upgrade-badge">+9</span></p>
   <hr>
@@ -26282,12 +26269,12 @@ C’était une rune Énergie commune, une étoile, encore à +0.
 <div class="rune-window lit-window" data-window-id="C10-R01" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C10-R01-mobile.svg">
-    <img src="assets/fenetres/C10-R01.svg" alt="Fenêtre du système — RUNE D’ESSAI — ÉTAT INITIAL">
+    <img src="assets/fenetres/C10-R01.svg" alt="Fenêtre du système — RUNE D’ESSAI — ÉTAT INITIAL. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>RUNE D’ESSAI — ÉTAT INITIAL</div>
-  <h3 data-rune-id="ORV-R002">Énergie commune (blanche), 1★ <span class="upgrade-badge">+0</span></h3>
+  <h3 data-rune-id="ORV-R002"><span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Énergie</span><span class="lit-sr-only"> (commune (blanche))</span>, 1★ <span class="upgrade-badge">+0</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +40</span></p>
   <p><strong>Secondaires :</strong> Aucune.</p>
   </details>
@@ -26382,14 +26369,13 @@ Sa couleur pâle demeura blanche.
 <div class="rune-window success lit-window" data-window-id="098" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/098-mobile.svg">
-    <img src="assets/fenetres/098.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE">
+    <img src="assets/fenetres/098.svg" alt="Fenêtre du système — AMÉLIORATION RÉUSSIE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg>AMÉLIORATION RÉUSSIE</div>
-  <h3 data-rune-id="ORV-R002">Rune Énergie commune (blanche), 1★</h3>
+  <h3 data-rune-id="ORV-R002">Rune <span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Énergie</span><span class="lit-sr-only"> (commune (blanche))</span>, 1★</h3>
   <p class="lit-window__row"><strong>Amélioration :</strong> <span class="upgrade-badge">+3</span></p>
-  <p class="lit-window__row"><strong>Grade actuel :</strong> <span class="lit-badge lit-badge--rune-common">Commun — Blanc, inchangé</span></p>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +85</span></p>
   <hr>
   <p class="lit-window__row"><strong>Nouvelle caractéristique secondaire :</strong> <strong class="rune-bonus">Mana +10</strong></p>
@@ -26687,12 +26673,12 @@ Dans la seconde, celui de +60.
 <div class="rune-window legendary lit-window" data-window-id="099" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/099-mobile.svg">
-    <img src="assets/fenetres/099.svg" alt="Fenêtre du système — ŒIL RUNIQUE — ANALYSE PERSONNELLE">
+    <img src="assets/fenetres/099.svg" alt="Fenêtre du système — ŒIL RUNIQUE — ANALYSE PERSONNELLE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ŒIL RUNIQUE — ANALYSE PERSONNELLE</div>
-  <h3>Rune Énergie — <span class="lit-badge lit-badge--rune-legendary">Légendaire (orange)</span>, 4★</h3>
+  <h3>Rune <span class="lit-badge lit-badge--rune-legendary" data-rarity="legendary" title="Rune légendaire (orange)">Énergie</span><span class="lit-sr-only"> (légendaire (orange))</span>, 4★</h3>
   <p class="lit-window__row"><strong>État actuel :</strong> <span class="lit-window__value">+9</span></p>
   <p class="lit-window__row"><strong>État final analysé :</strong> <span class="lit-window__value">+15</span></p>
   <p><strong>Condition :</strong> Améliorations restantes effectuées personnellement par Hasol Shun.</p>
@@ -27658,15 +27644,15 @@ La fenêtre de confirmation apparut devant eux.
 <div class="system-window success lit-window" data-window-id="100" data-window-type="equipe">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/100-mobile.svg">
-    <img src="assets/fenetres/100.svg" alt="Fenêtre du système — ÉQUIPE ACTUALISÉE">
+    <img src="assets/fenetres/100.svg" alt="Fenêtre du système — ÉQUIPE ACTUALISÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>ÉQUIPE ACTUALISÉE</div>
   <h3>Composition provisoire</h3>
-  <p><strong>Hasol Shun :</strong> Arcaniste runique — <span class="lit-badge lit-badge--legendary">Légendaire</span> — 20 points</p>
-  <p><strong>Yoon Notos :</strong> Sage runique — <span class="lit-badge lit-badge--rare">Rare</span> — 10 points</p>
-  <p><strong>Ray Corvus :</strong> Mage de feu — <span class="lit-badge lit-badge--common">Commun</span> — 5 points</p>
+  <p><strong>Hasol Shun :</strong> <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span> — 20 points</p>
+  <p><strong>Yoon Notos :</strong> <span class="lit-badge lit-badge--rare" data-rarity="rare" title="Classe rare">Sage runique</span><span class="lit-sr-only"> (rare)</span> — 10 points</p>
+  <p><strong>Ray Corvus :</strong> <span class="lit-badge lit-badge--common" data-rarity="common" title="Classe commune">Mage de feu</span><span class="lit-sr-only"> (commune)</span> — 5 points</p>
   <hr>
   <p class="lit-window__row"><strong>Membres :</strong> <span class="lit-window__value">3 / 5</span></p>
   <p class="lit-window__row"><strong>Points de classe :</strong> <span class="lit-window__value">35 / 50</span></p>
@@ -27773,7 +27759,7 @@ Une fenêtre apparut devant ses yeux.
 <div class="system-window lit-window" data-window-id="101" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/101-mobile.svg">
-    <img src="assets/fenetres/101.svg" alt="Fenêtre du système — OBJET IDENTIFIÉ">
+    <img src="assets/fenetres/101.svg" alt="Fenêtre du système — OBJET IDENTIFIÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -29834,7 +29820,7 @@ Une fenêtre venait d’apparaître.
 <div class="system-window lit-window" data-window-id="102" data-window-type="niveau">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/102-mobile.svg">
-    <img src="assets/fenetres/102.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR">
+    <img src="assets/fenetres/102.svg" alt="Fenêtre du système — NIVEAU SUPÉRIEUR. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -29863,7 +29849,7 @@ Hasol se figea.
 <div class="system-window lit-window" data-window-id="103" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/103-mobile.svg">
-    <img src="assets/fenetres/103.svg" alt="Fenêtre du système — NOUVELLE COMPÉTENCE">
+    <img src="assets/fenetres/103.svg" alt="Fenêtre du système — NOUVELLE COMPÉTENCE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -30845,16 +30831,16 @@ Puis confirma la nouvelle composition.
 <div class="system-window lit-window" data-window-id="104" data-window-type="equipe">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/104-mobile.svg">
-    <img src="assets/fenetres/104.svg" alt="Fenêtre du système — ÉQUIPE ACTUALISÉE">
+    <img src="assets/fenetres/104.svg" alt="Fenêtre du système — ÉQUIPE ACTUALISÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>ÉQUIPE ACTUALISÉE</div>
   <p><strong>Composition :</strong> Officielle</p>
-  <p><strong>Hasol Shun :</strong> Arcaniste runique, <span class="lit-badge lit-badge--legendary">légendaire</span> — 20 points</p>
-  <p><strong>Yoon Notos :</strong> Sage runique, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
-  <p><strong>Ray Corvus :</strong> Mage de feu, <span class="lit-badge lit-badge--common">commun</span> — 5 points</p>
-  <p><strong>Zio Notos :</strong> Gardien, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
+  <p><strong>Hasol Shun :</strong> <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span> — 20 points</p>
+  <p><strong>Yoon Notos :</strong> <span class="lit-badge lit-badge--rare" data-rarity="rare" title="Classe rare">Sage runique</span><span class="lit-sr-only"> (rare)</span> — 10 points</p>
+  <p><strong>Ray Corvus :</strong> <span class="lit-badge lit-badge--common" data-rarity="common" title="Classe commune">Mage de feu</span><span class="lit-sr-only"> (commune)</span> — 5 points</p>
+  <p><strong>Zio Notos :</strong> <span class="lit-badge lit-badge--rare" data-rarity="rare" title="Classe rare">Gardien</span><span class="lit-sr-only"> (rare)</span> — 10 points</p>
   <p class="lit-window__row"><strong>Membres :</strong> <span class="lit-window__value">4 / 5</span></p>
   <p class="lit-window__row"><strong>Points :</strong> <span class="lit-window__value">45 / 50</span></p>
   </details>
@@ -32685,12 +32671,12 @@ Puis son niveau.
 <div class="system-window lit-window" data-window-id="105" data-window-type="entrainement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/105-mobile.svg">
-    <img src="assets/fenetres/105.svg" alt="Fenêtre du système — EXERCICE D’ENTRAÎNEMENT">
+    <img src="assets/fenetres/105.svg" alt="Fenêtre du système — EXERCICE D’ENTRAÎNEMENT. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE D’ENTRAÎNEMENT</div>
-  <p><strong>Adversaire simulé :</strong> Guerrier — Classe <span class="lit-badge lit-badge--rare">rare</span></p>
+  <p><strong>Adversaire simulé :</strong> <span class="lit-badge lit-badge--rare" data-rarity="rare" title="Classe rare">Guerrier</span><span class="lit-sr-only"> (rare)</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">20</span></p>
   <p><strong>Condition de défaite :</strong> 3 touches reçues</p>
   <p><strong>Condition de victoire :</strong> Neutralisation de l’adversaire</p>
@@ -32983,12 +32969,12 @@ Une fenêtre apparut devant elle.
 <div class="system-window lit-window" data-window-id="106" data-window-type="entrainement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/106-mobile.svg">
-    <img src="assets/fenetres/106.svg" alt="Fenêtre du système — EXERCICE TERMINÉ">
+    <img src="assets/fenetres/106.svg" alt="Fenêtre du système — EXERCICE TERMINÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 1v4 M12 19v4 M1 12h4 M19 12h4"/></svg>EXERCICE TERMINÉ</div>
-  <p><strong>Adversaire simulé :</strong> Guerrier <span class="lit-badge lit-badge--rare">rare</span> — Niveau 20</p>
+  <p><strong>Adversaire simulé :</strong> <span class="lit-badge lit-badge--rare" data-rarity="rare" title="Classe rare">Guerrier</span><span class="lit-sr-only"> (rare)</span> — Niveau 20</p>
   <p class="lit-window__row"><strong>Statut :</strong> <span>Victoire</span></p>
   <p class="lit-window__row"><strong>Touches reçues :</strong> <span class="lit-window__value">2 / 3</span></p>
   <p class="lit-window__row"><strong>Adversaire :</strong> <span>Neutralisé</span></p>
@@ -34757,7 +34743,7 @@ Hasol concentra son regard.
 <div class="system-window lit-window" data-window-id="107" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/107-mobile.svg">
-    <img src="assets/fenetres/107.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ">
+    <img src="assets/fenetres/107.svg" alt="Fenêtre du système — MONSTRE IDENTIFIÉ. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -34899,7 +34885,7 @@ Des créatures plus petites venaient d’apparaître autour du boss.
 <div class="system-window lit-window" data-window-id="108" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/108-mobile.svg">
-    <img src="assets/fenetres/108.svg" alt="Fenêtre du système — ENNEMIS IDENTIFIÉS">
+    <img src="assets/fenetres/108.svg" alt="Fenêtre du système — ENNEMIS IDENTIFIÉS. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -35715,16 +35701,16 @@ Puis ajouta le nom de Samia au registre.
 <div class="system-window lit-window" data-window-id="109" data-window-type="equipe">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/109-mobile.svg">
-    <img src="assets/fenetres/109.svg" alt="Fenêtre du système — ÉQUIPE ACTUALISÉE">
+    <img src="assets/fenetres/109.svg" alt="Fenêtre du système — ÉQUIPE ACTUALISÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-3a6 5 0 0 1 12 0v3 M17 5a3 3 0 0 1 0 6 M18 14a5 5 0 0 1 3 5v1"/></svg>ÉQUIPE ACTUALISÉE</div>
-  <p><strong>Hasol Shun :</strong> Arcaniste runique, <span class="lit-badge lit-badge--legendary">légendaire</span> — 20 points</p>
-  <p><strong>Yoon Notos :</strong> Sage runique, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
-  <p><strong>Ray Corvus :</strong> Mage de feu, <span class="lit-badge lit-badge--common">commun</span> — 5 points</p>
-  <p><strong>Zio Notos :</strong> Gardien, <span class="lit-badge lit-badge--rare">rare</span> — 10 points</p>
-  <p><strong>Samia Claire :</strong> Éclaireuse, <span class="lit-badge lit-badge--common">commune</span> — 5 points</p>
+  <p><strong>Hasol Shun :</strong> <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span> — 20 points</p>
+  <p><strong>Yoon Notos :</strong> <span class="lit-badge lit-badge--rare" data-rarity="rare" title="Classe rare">Sage runique</span><span class="lit-sr-only"> (rare)</span> — 10 points</p>
+  <p><strong>Ray Corvus :</strong> <span class="lit-badge lit-badge--common" data-rarity="common" title="Classe commune">Mage de feu</span><span class="lit-sr-only"> (commune)</span> — 5 points</p>
+  <p><strong>Zio Notos :</strong> <span class="lit-badge lit-badge--rare" data-rarity="rare" title="Classe rare">Gardien</span><span class="lit-sr-only"> (rare)</span> — 10 points</p>
+  <p><strong>Samia Claire :</strong> <span class="lit-badge lit-badge--common" data-rarity="common" title="Classe commune">Éclaireuse</span><span class="lit-sr-only"> (commune)</span> — 5 points</p>
   <p class="lit-window__row"><strong>Membres :</strong> <span class="lit-window__value">5 / 5</span></p>
   <p class="lit-window__row"><strong>Points de classe :</strong> <span class="lit-window__value">50 / 50</span></p>
   <p><strong>État :</strong> Composition complète.</p>
@@ -36620,7 +36606,7 @@ La Sentinelle ne bougea plus.
 <div class="system-window lit-window" data-window-id="110" data-window-type="combat">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/110-mobile.svg">
-    <img src="assets/fenetres/110.svg" alt="Fenêtre du système — BOSS VAINCU">
+    <img src="assets/fenetres/110.svg" alt="Fenêtre du système — BOSS VAINCU. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -37430,12 +37416,12 @@ Elle contempla la projection.
 <div class="rune-window lit-window" data-window-id="C12-R01" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C12-R01-mobile.svg">
-    <img src="assets/fenetres/C12-R01.svg" alt="Fenêtre du système — ŒIL RUNIQUE — RUNE DU MARCHAND">
+    <img src="assets/fenetres/C12-R01.svg" alt="Fenêtre du système — ŒIL RUNIQUE — RUNE DU MARCHAND. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ŒIL RUNIQUE — RUNE DU MARCHAND</div>
-  <h3 data-rune-id="CLI-R006">Fatal <span class="lit-badge lit-badge--rune-legendary">légendaire (orange)</span>, 6★</h3>
+  <h3 data-rune-id="CLI-R006"><span class="lit-badge lit-badge--rune-legendary" data-rarity="legendary" title="Rune légendaire (orange)">Fatal</span><span class="lit-sr-only"> (légendaire (orange))</span>, 6★</h3>
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">État</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
@@ -37894,12 +37880,12 @@ La projection apparut devant elle.
 <div class="rune-window lit-window" data-window-id="C12-R02" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C12-R02-mobile.svg">
-    <img src="assets/fenetres/C12-R02.svg" alt="Fenêtre du système — ŒIL RUNIQUE — RUNE DU JEUNE CHASSEUR">
+    <img src="assets/fenetres/C12-R02.svg" alt="Fenêtre du système — ŒIL RUNIQUE — RUNE DU JEUNE CHASSEUR. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>ŒIL RUNIQUE — RUNE DU JEUNE CHASSEUR</div>
-  <h3 data-rune-id="CLI-R007">Énergie <span class="lit-badge lit-badge--rune-uncommon">peu commune (verte)</span>, 2★</h3>
+  <h3 data-rune-id="CLI-R007"><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Énergie</span><span class="lit-sr-only"> (peu commune (verte))</span>, 2★</h3>
   <table class="lit-window__inventory">
     <thead><tr><th scope="col">État</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
@@ -39439,7 +39425,7 @@ Hasol retint son souffle. Elle n’avança pas.
 <div class="system-window lit-window" data-window-id="C13-F01" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C13-F01-mobile.svg">
-    <img src="assets/fenetres/C13-F01.svg" alt="Fenêtre du système — COMPÉTENCE AMÉLIORÉE">
+    <img src="assets/fenetres/C13-F01.svg" alt="Fenêtre du système — COMPÉTENCE AMÉLIORÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -39554,7 +39540,7 @@ Une impulsion de Mana lui fit lever les yeux. Elle regarda sa main, puis la fen�
 <div class="system-window lit-window" data-window-id="C13-F02" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C13-F02-mobile.svg">
-    <img src="assets/fenetres/C13-F02.svg" alt="Fenêtre du système — NOUVELLE COMPÉTENCE DÉBLOQUÉE">
+    <img src="assets/fenetres/C13-F02.svg" alt="Fenêtre du système — NOUVELLE COMPÉTENCE DÉBLOQUÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -40022,7 +40008,7 @@ Et lut.
 <div class="system-window lit-window" data-window-id="C13-F03" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C13-F03-mobile.svg">
-    <img src="assets/fenetres/C13-F03.svg" alt="Fenêtre du système — SYSTÈME — ÉVÉNEMENT MONDIAL">
+    <img src="assets/fenetres/C13-F03.svg" alt="Fenêtre du système — SYSTÈME — ÉVÉNEMENT MONDIAL. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -41719,7 +41705,7 @@ Hasol acquiesça.
 <div class="system-window lit-window" data-window-id="C14-F01" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F01-mobile.svg">
-    <img src="assets/fenetres/C14-F01.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE — HASOL SHUN">
+    <img src="assets/fenetres/C14-F01.svg" alt="Fenêtre du système — ÉQUIPEMENT RUNIQUE — HASOL SHUN. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -41727,8 +41713,8 @@ Hasol acquiesça.
     <svg class="lit-window__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></svg>
     ÉQUIPEMENT RUNIQUE — HASOL SHUN
   </div>
-  <p>Arcaniste runique</p>
-  <p>Niveau 38 · Rareté <span class="lit-badge lit-badge--legendary">légendaire</span></p>
+  <p><span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Arcaniste runique</span><span class="lit-sr-only"> (légendaire)</span></p>
+  <p>Niveau 38</p>
   <table>
     <thead><tr><th scope="col">Ensemble</th><th scope="col">Runes</th><th scope="col">État</th></tr></thead>
     <tbody>
@@ -41740,23 +41726,23 @@ Hasol acquiesça.
   </table>
   <p>Cercles et emplacements occupés</p>
   <p>13 / 13</p>
-  <p>Toutes les runes équipées : rares (bleues), 6★, <span class="upgrade-badge">+15</span>. Rareté et étoiles inchangées par l’amélioration.</p>
+  <p>Toutes les runes équipées : 6★, <span class="upgrade-badge">+15</span>. Rareté et étoiles inchangées par l’amélioration.</p>
   <table class="lit-window__inventory">
-    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <thead><tr><th scope="col">Ensemble, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R016"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R017"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R018"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R019"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R020"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R021"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R022"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R023"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R024"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R025"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R026"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R016"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R017"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R018"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R019"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R020"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R021"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R022"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R023"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R024"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R025"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R026"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
     </tbody>
   </table>
   </details>
@@ -41897,12 +41883,12 @@ Amélioration +15.
 <div class="rune-window lit-window" data-window-id="C14-R01" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C14-R01-mobile.svg">
-    <img src="assets/fenetres/C14-R01.svg" alt="Fenêtre du système — GARDIEN EN RÉSERVE">
+    <img src="assets/fenetres/C14-R01.svg" alt="Fenêtre du système — GARDIEN EN RÉSERVE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>GARDIEN EN RÉSERVE</div>
-  <h3 data-rune-id="HAS-R027">Gardien rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
+  <h3 data-rune-id="HAS-R027"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★ <span class="upgrade-badge">+15</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +63&nbsp;%</span></p>
   <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</span></p>
   <p>Préparée en réserve, pas encore équipée.</p>
@@ -42068,7 +42054,7 @@ Mais ils n’avaient plus grand-chose à voir avec les jeunes aventuriers de leu
 <div class="system-window lit-window" data-window-id="C14-F02" data-window-type="equipe">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F02-mobile.svg">
-    <img src="assets/fenetres/C14-F02.svg" alt="Fenêtre du système — REGISTRE DE L’ÉQUIPE">
+    <img src="assets/fenetres/C14-F02.svg" alt="Fenêtre du système — REGISTRE DE L’ÉQUIPE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -42508,7 +42494,7 @@ Une silhouette massive en émergea, entourée de plusieurs démons.
 <div class="system-window lit-window" data-window-id="C14-F03" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F03-mobile.svg">
-    <img src="assets/fenetres/C14-F03.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL">
+    <img src="assets/fenetres/C14-F03.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -42603,7 +42589,7 @@ Une notification apparut.
 <div class="system-window lit-window" data-window-id="C14-F04" data-window-type="effet-temporaire">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F04-mobile.svg">
-    <img src="assets/fenetres/C14-F04.svg" alt="Fenêtre du système — SYSTÈME — ACTIVATION CRITIQUE">
+    <img src="assets/fenetres/C14-F04.svg" alt="Fenêtre du système — SYSTÈME — ACTIVATION CRITIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -43222,7 +43208,7 @@ D’autres avançaient à quatre pattes, griffant la terre à chaque mouvement.
 <div class="system-window lit-window" data-window-id="C14-F05" data-window-type="regle">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F05-mobile.svg">
-    <img src="assets/fenetres/C14-F05.svg" alt="Fenêtre du système — SYSTÈME — PORTAIL DÉMONIAQUE">
+    <img src="assets/fenetres/C14-F05.svg" alt="Fenêtre du système — SYSTÈME — PORTAIL DÉMONIAQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -43438,7 +43424,7 @@ Lorsqu’elle poussa son premier hurlement, plusieurs démons ordinaires s’éc
 <div class="system-window lit-window" data-window-id="C14-F06" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F06-mobile.svg">
-    <img src="assets/fenetres/C14-F06.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL">
+    <img src="assets/fenetres/C14-F06.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -43884,7 +43870,7 @@ Un long dard frappa le sol derrière elle.
 <div class="system-window lit-window" data-window-id="C14-F07" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F07-mobile.svg">
-    <img src="assets/fenetres/C14-F07.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE DONJON">
+    <img src="assets/fenetres/C14-F07.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE DONJON. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -44055,7 +44041,7 @@ Une fenêtre apparut.
 <div class="system-window lit-window" data-window-id="C14-F08" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F08-mobile.svg">
-    <img src="assets/fenetres/C14-F08.svg" alt="Fenêtre du système — SYSTÈME — ÉVOLUTION DE COMPÉTENCE">
+    <img src="assets/fenetres/C14-F08.svg" alt="Fenêtre du système — SYSTÈME — ÉVOLUTION DE COMPÉTENCE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -44158,7 +44144,7 @@ Deux Gardien.
 <div class="system-window lit-window" data-window-id="C14-F09" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C14-F09-mobile.svg">
-    <img src="assets/fenetres/C14-F09.svg" alt="Fenêtre du système — SYSTÈME — ÉQUIPEMENT RUNIQUE">
+    <img src="assets/fenetres/C14-F09.svg" alt="Fenêtre du système — SYSTÈME — ÉQUIPEMENT RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -44178,24 +44164,24 @@ Deux Gardien.
   <p>Cercles équipés</p>
   <p>14 / 14</p>
   <p>Tous les ensembles activés</p>
-  <p>Toutes les runes équipées sont rares (bleues), 6★, améliorées à <span class="upgrade-badge">+15</span>, sans changement de rareté.</p>
+  <p>Toutes les runes équipées sont 6★, améliorées à <span class="upgrade-badge">+15</span>, sans changement de rareté.</p>
   <table class="lit-window__inventory">
-    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <thead><tr><th scope="col">Ensemble, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R016"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R017"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R018"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R019"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R020"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R021"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R022"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R023"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R024"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R025"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R026"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R027"><th scope="row">Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R016"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R017"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R018"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R019"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R020"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R021"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R022"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R023"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R024"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R025"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R026"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R027"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
     </tbody>
   </table>
   </details>
@@ -44797,7 +44783,7 @@ Les informations du système furent présentées aux responsables des équipes.
 <div class="system-window lit-window" data-window-id="C15-F01" data-window-type="regle">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F01-mobile.svg">
-    <img src="assets/fenetres/C15-F01.svg" alt="Fenêtre du système — SYSTÈME — CLASSIFICATION">
+    <img src="assets/fenetres/C15-F01.svg" alt="Fenêtre du système — SYSTÈME — CLASSIFICATION. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -45574,7 +45560,7 @@ Une montée de niveau.
 <div class="system-window lit-window" data-window-id="C15-F02" data-window-type="niveau">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F02-mobile.svg">
-    <img src="assets/fenetres/C15-F02.svg" alt="Fenêtre du système — SYSTÈME — PROGRESSION">
+    <img src="assets/fenetres/C15-F02.svg" alt="Fenêtre du système — SYSTÈME — PROGRESSION. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -45612,7 +45598,7 @@ Elle ouvrit la description.
 <div class="system-window lit-window" data-window-id="C15-F03" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F03-mobile.svg">
-    <img src="assets/fenetres/C15-F03.svg" alt="Fenêtre du système — Siphon runique">
+    <img src="assets/fenetres/C15-F03.svg" alt="Fenêtre du système — Siphon runique. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -45712,7 +45698,7 @@ Une indication du système apparut.
 <div class="system-window lit-window" data-window-id="C15-F04" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F04-mobile.svg">
-    <img src="assets/fenetres/C15-F04.svg" alt="Fenêtre du système — Siphon runique">
+    <img src="assets/fenetres/C15-F04.svg" alt="Fenêtre du système — Siphon runique. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -46105,7 +46091,7 @@ Un tintement cristallin résonna.
 <div class="system-window lit-window" data-window-id="C15-F05" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F05-mobile.svg">
-    <img src="assets/fenetres/C15-F05.svg" alt="Fenêtre du système — SYSTÈME — COMPÉTENCE DÉBLOQUÉE">
+    <img src="assets/fenetres/C15-F05.svg" alt="Fenêtre du système — SYSTÈME — COMPÉTENCE DÉBLOQUÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -46114,7 +46100,7 @@ Un tintement cristallin résonna.
     SYSTÈME — COMPÉTENCE DÉBLOQUÉE
   </div>
   <h3>Présage des failles</h3>
-  <p>Samia Claire · Éclaireuse · Rareté commune</p>
+  <p>Samia Claire · <span class="lit-badge lit-badge--common" data-rarity="common" title="Classe commune">Éclaireuse</span><span class="lit-sr-only"> (commune)</span></p>
   <p>Compétence passive</p>
   <p>Permet de ressentir l&#x27;apparition prochaine de portails démoniaques et d&#x27;en localiser approximativement la zone avant leur manifestation.</p>
   <p>Fenêtre de prévision : environ dix heures avant l&#x27;apparition physique.</p>
@@ -46490,7 +46476,7 @@ Un matin, pendant une opération particulièrement longue, une notification appa
 <div class="system-window lit-window" data-window-id="C15-F06" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F06-mobile.svg">
-    <img src="assets/fenetres/C15-F06.svg" alt="Fenêtre du système — SYSTÈME — CROISSANCE RUNIQUE">
+    <img src="assets/fenetres/C15-F06.svg" alt="Fenêtre du système — SYSTÈME — CROISSANCE RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -46590,12 +46576,12 @@ Hasol avait préparé une rune Énergie rare (bleue), six étoiles et amélioré
 <div class="rune-window lit-window" data-window-id="C15-R01" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-R01-mobile.svg">
-    <img src="assets/fenetres/C15-R01.svg" alt="Fenêtre du système — PREMIÈRE ÉNERGIE FINALE">
+    <img src="assets/fenetres/C15-R01.svg" alt="Fenêtre du système — PREMIÈRE ÉNERGIE FINALE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>PREMIÈRE ÉNERGIE FINALE</div>
-  <h3 data-rune-id="HAS-R028">Énergie rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
+  <h3 data-rune-id="HAS-R028"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★ <span class="upgrade-badge">+15</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">PV +63&nbsp;%</span></p>
   <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</span></p>
   </details>
@@ -46974,7 +46960,7 @@ Puis ouvrit précipitamment son interface.
 <div class="system-window lit-window" data-window-id="C15-F07" data-window-type="regle">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F07-mobile.svg">
-    <img src="assets/fenetres/C15-F07.svg" alt="Fenêtre du système — SYSTÈME — CLASSIFICATION">
+    <img src="assets/fenetres/C15-F07.svg" alt="Fenêtre du système — SYSTÈME — CLASSIFICATION. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -47573,7 +47559,7 @@ Lorsqu'il poussa un hurlement, plusieurs monstres ordinaires semblèrent répond
 <div class="system-window lit-window" data-window-id="C15-F08" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F08-mobile.svg">
-    <img src="assets/fenetres/C15-F08.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL">
+    <img src="assets/fenetres/C15-F08.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -48218,7 +48204,7 @@ Une fenêtre du système apparut.
 <div class="system-window lit-window" data-window-id="C15-F09" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F09-mobile.svg">
-    <img src="assets/fenetres/C15-F09.svg" alt="Fenêtre du système — SYSTÈME — CROISSANCE RUNIQUE">
+    <img src="assets/fenetres/C15-F09.svg" alt="Fenêtre du système — SYSTÈME — CROISSANCE RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -48300,12 +48286,12 @@ Comme la première, elle était rare (bleue), six étoiles, et améliorée à +1
 <div class="rune-window lit-window" data-window-id="C15-R02" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-R02-mobile.svg">
-    <img src="assets/fenetres/C15-R02.svg" alt="Fenêtre du système — SECONDE ÉNERGIE FINALE">
+    <img src="assets/fenetres/C15-R02.svg" alt="Fenêtre du système — SECONDE ÉNERGIE FINALE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header"><svg class="lit-window__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 3 8 9-8 9-8-9Z M8 12h8 M12 8v8"/></svg>SECONDE ÉNERGIE FINALE</div>
-  <h3 data-rune-id="HAS-R029">Énergie rare (bleue), 6★ <span class="upgrade-badge">+15</span></h3>
+  <h3 data-rune-id="HAS-R029"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★ <span class="upgrade-badge">+15</span></h3>
   <p><strong>Principale :</strong> <span class="rune-bonus">Défense +63&nbsp;%</span></p>
   <p><strong>Secondaires présentes :</strong> <span class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</span></p>
   </details>
@@ -48316,7 +48302,7 @@ L'ensemble fut immédiatement activé.
 <div class="system-window lit-window" data-window-id="C15-F10" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C15-F10-mobile.svg">
-    <img src="assets/fenetres/C15-F10.svg" alt="Fenêtre du système — SYSTÈME — ÉQUIPEMENT RUNIQUE">
+    <img src="assets/fenetres/C15-F10.svg" alt="Fenêtre du système — SYSTÈME — ÉQUIPEMENT RUNIQUE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -48332,26 +48318,26 @@ L'ensemble fut immédiatement activé.
   <tr><th scope="row">Gardien</th><td>2 / 2</td><td>Actif</td></tr>
   <tr><th scope="row">Énergie</th><td>2 / 2</td><td>Actif</td></tr>
   </tbody></table>
-  <p>16 runes équipées · Toutes rares (bleues), 6★, <span class="upgrade-badge">+15</span> · Rareté inchangée</p>
+  <p>16 runes équipées · Toutes 6★, <span class="upgrade-badge">+15</span> · Rareté inchangée</p>
   <table class="lit-window__inventory">
-    <thead><tr><th scope="col">ID, ensemble, rareté, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
+    <thead><tr><th scope="col">Ensemble, rang, amélioration</th><th scope="col">Principale</th><th scope="col">Secondaires présentes</th></tr></thead>
     <tbody>
-      <tr data-rune-id="HAS-R001"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R016"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R017"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R018"><th scope="row">Fatal rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R019"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R020"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R021"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R022"><th scope="row">Arcanique rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R023"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R024"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R025"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R026"><th scope="row">Vitesse rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R002"><th scope="row">Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R027"><th scope="row">Gardien rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
-      <tr data-rune-id="HAS-R028"><th scope="row">Énergie rare (bleue), 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-      <tr data-rune-id="HAS-R029"><th scope="row">Énergie rare (bleue), 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R001"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R016"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R017"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R018"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R019"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R020"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R021"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R022"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R023"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R024"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R025"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R026"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R002"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R027"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+      <tr data-rune-id="HAS-R028"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+      <tr data-rune-id="HAS-R029"><th scope="row"><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, +15</th><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
     </tbody>
   </table>
   </details>
@@ -50731,7 +50717,7 @@ Une fenêtre du système apparut.
 <div class="system-window lit-window" data-window-id="C16-F01" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F01-mobile.svg">
-    <img src="assets/fenetres/C16-F01.svg" alt="Fenêtre du système — SYSTÈME — ÉVOLUTION DE COMPÉTENCE">
+    <img src="assets/fenetres/C16-F01.svg" alt="Fenêtre du système — SYSTÈME — ÉVOLUTION DE COMPÉTENCE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -51298,7 +51284,7 @@ Puis les informations du système furent confirmées.
 <div class="system-window lit-window" data-window-id="C16-F02" data-window-type="regle">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F02-mobile.svg">
-    <img src="assets/fenetres/C16-F02.svg" alt="Fenêtre du système — SYSTÈME — NOUVELLE CLASSIFICATION">
+    <img src="assets/fenetres/C16-F02.svg" alt="Fenêtre du système — SYSTÈME — NOUVELLE CLASSIFICATION. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -52292,7 +52278,7 @@ Une fenêtre du système apparut.
 <div class="system-window lit-window" data-window-id="C16-F03" data-window-type="monstre">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F03-mobile.svg">
-    <img src="assets/fenetres/C16-F03.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL">
+    <img src="assets/fenetres/C16-F03.svg" alt="Fenêtre du système — SYSTÈME — BOSS DE PORTAIL. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -53145,7 +53131,7 @@ Une dernière fois.
 <div class="system-window lit-window" data-window-id="C16-F04" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F04-mobile.svg">
-    <img src="assets/fenetres/C16-F04.svg" alt="Fenêtre du système — SYSTÈME — COMPÉTENCE ACTIVE">
+    <img src="assets/fenetres/C16-F04.svg" alt="Fenêtre du système — SYSTÈME — COMPÉTENCE ACTIVE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -54239,7 +54225,7 @@ Une nouvelle fenêtre se forma.
 <div class="system-window lit-window" data-window-id="C16-F05" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F05-mobile.svg">
-    <img src="assets/fenetres/C16-F05.svg" alt="Fenêtre du système — SYSTÈME — IDENTIFICATION PARTIELLE">
+    <img src="assets/fenetres/C16-F05.svg" alt="Fenêtre du système — SYSTÈME — IDENTIFICATION PARTIELLE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -54387,7 +54373,7 @@ Une fenêtre du système traversa sa vision.
 <div class="system-window lit-window" data-window-id="C16-F06" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres/C16-F06-mobile.svg">
-    <img src="assets/fenetres/C16-F06.svg" alt="Fenêtre du système — SYSTÈME — RUNE TEMPORELLE">
+    <img src="assets/fenetres/C16-F06.svg" alt="Fenêtre du système — SYSTÈME — RUNE TEMPORELLE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>

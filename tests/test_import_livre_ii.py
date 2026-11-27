@@ -6,7 +6,7 @@ import hashlib
 import re
 import unittest
 
-from lecture_support import Document, compact
+from lecture_support import Document, compact, before_bubble_presentation
 from test_fenetres_github import load_generator
 from test_securite_documents import assert_passive
 
@@ -51,6 +51,7 @@ def rune_ids(document):
 
 
 def rune_identity(value):
+    value = re.sub(r" \(((?:(?:peu )?commune|rare|épique|légendaire) \([^)]+\))\)", r" \1", value)
     match = re.fullmatch(
         r"(.+?) (commune|peu commune|rare|épique|légendaire) \(([^)]+)\), (\d)★, (\+\d+)",
         compact(value),
@@ -122,7 +123,7 @@ class ImportLivreIITests(unittest.TestCase):
     def setUpClass(cls):
         cls.source = SOURCE.read_text(encoding="utf-8")
         cls.document = Document(cls.source)
-        cls.parts = chapters(cls.source)
+        cls.parts = chapters(before_bubble_presentation(cls.source, book=2))
         cls.windows = {window.attrs["data-window-id"]: window
                        for window in cls.document.windows}
 
@@ -145,7 +146,7 @@ class ImportLivreIITests(unittest.TestCase):
                          "999491e2506c8e92ac6f4b44f3e2676207b2eef175d85b636c82f8c366ec145a")
 
     def test_archive_chapitre_2_est_bornee_par_ancres_sans_absorber_les_appends(self):
-        archive = (ROOT / "docs/new.txt").read_text(encoding="utf-8")
+        archive = (ROOT / "docs/conversation/archive_2.txt").read_text(encoding="utf-8")
         block = archive_chapter_2(archive)
         self.assertTrue(block.startswith("# **Chapitre 2 — Les prodiges de l'Académie**"))
         self.assertTrue(block.endswith("*Fin du chapitre 2 — Les prodiges de l'Académie*"))
@@ -155,7 +156,7 @@ class ImportLivreIITests(unittest.TestCase):
                          "Les retouches postérieures ne doivent pas être absorbées dans l'archive")
 
     def test_chapitre_2_preserve_les_ancres_narratives_hors_retouches_autorisees(self):
-        archive = archive_chapter_2((ROOT / "docs/new.txt").read_text(encoding="utf-8"))
+        archive = archive_chapter_2((ROOT / "docs/conversation/archive_2.txt").read_text(encoding="utf-8"))
         destination = compact(Document(load_generator().extraire_source_fenetres(
             self.parts[2])).root.text())
         retouched_topics = (
@@ -176,7 +177,7 @@ class ImportLivreIITests(unittest.TestCase):
             cursor = found + len(anchor)
 
     def test_samia_classe_ciblee_par_livre_sans_effacer_zephyr_ni_le_futur(self):
-        book_i = ROMANS[0].read_text(encoding="utf-8")
+        book_i = before_bubble_presentation(ROMANS[0].read_text(encoding="utf-8"))
         system = (ROOT / "lore/systeme.md").read_text(encoding="utf-8")
         text_ii = compact(Document(self.parts[2]).root.text())
         self.assertIn("Samia Claire. Classe : Marcheuse du voile. Rang : Commun.", text_ii)
@@ -362,9 +363,10 @@ class IdentifiantsRunesTests(unittest.TestCase):
             self.assertIn(phrase, section)
 
     def test_mutations_des_fiches_vie_2_divergentes_du_lore_sont_refusees(self):
-        window = next(w for w in self.documents[ROMANS[1].name].windows
+        historical = before_bubble_presentation(self.sources[ROMANS[1].name], book=2)
+        window = next(w for w in Document(historical).windows
                       if w.attrs["data-window-id"] == "L2-C3-F04")
-        source = self.sources[ROMANS[1].name][window.start:window.end]
+        source = historical[window.start:window.end]
         expected = lore_chapter_3_equipment(self.lore)
         mutations = {
             "ensemble": ("Fatal rare (bleue), 6★", "Gardien rare (bleue), 6★"),

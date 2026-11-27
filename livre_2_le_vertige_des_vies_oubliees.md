@@ -363,7 +363,7 @@ Une fenêtre apparut devant elle.
 <div class="system-window lit-window" data-window-id="L2-C1-F01" data-window-type="revelation">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C1-F01-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C1-F01.svg" alt="Fenêtre du système — SYSTÈME — RÉVÉLATION">
+    <img src="assets/fenetres-livre-2/L2-C1-F01.svg" alt="Fenêtre du système — SYSTÈME — RÉVÉLATION. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -372,8 +372,7 @@ Une fenêtre apparut devant elle.
     SYSTÈME — RÉVÉLATION
   </div>
   <h3>Hasol Shun</h3>
-  <p>Arcaniste Astral</p>
-  <p><strong>Rang :</strong> <span class="lit-badge lit-badge--astral">Astral</span></p>
+  <p><span class="lit-badge lit-badge--astral" data-rarity="astral" title="Classe astrale">Arcaniste Astral</span><span class="lit-sr-only"> (astrale)</span></p>
   <p class="lit-window__row"><strong>Niveau :</strong> <span class="lit-window__value">1</span></p>
   <p class="lit-window__row"><strong>Coût de classe :</strong> <span class="lit-window__value">25</span></p>
   <p><strong>Cercles de mana :</strong> 2</p>
@@ -2655,12 +2654,12 @@ Hasol prit délicatement une rune Énergie commune (blanche), 1★, +0.
 <div class="rune-window white-grade lit-window" data-window-id="L2-C2-R01" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-R01-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-R01.svg" alt="Fenêtre du système — RUNE EXAMINÉE">
+    <img src="assets/fenetres-livre-2/L2-C2-R01.svg" alt="Fenêtre du système — RUNE EXAMINÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header">RUNE EXAMINÉE</div>
-  <h3>Énergie commune (blanche), 1★</h3>
+  <h3><span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Énergie</span><span class="lit-sr-only"> (commune (blanche))</span>, 1★</h3>
   <p>Amélioration : <span class="upgrade-badge">+0</span></p>
   <p>Caractéristique principale : <span class="rune-bonus">PV +40</span></p>
   <p>Caractéristiques secondaires présentes : aucune.</p>
@@ -2836,14 +2835,12 @@ Son souffle se coupa.
 <div class="rune-window white-grade lit-window" data-window-id="L2-C2-F01" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F01-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F01.svg" alt="Fenêtre du système — RUNE AMÉLIORÉE">
+    <img src="assets/fenetres-livre-2/L2-C2-F01.svg" alt="Fenêtre du système — RUNE AMÉLIORÉE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header">RUNE AMÉLIORÉE</div>
-  <h3>Rune Énergie</h3>
-  <p>Grade actuel : <span class="lit-badge lit-badge--rune-common">Commun (Blanc)</span></p>
-  <p>Grade natif : <span class="lit-badge lit-badge--rune-common">Commun (Blanc)</span></p>
+  <h3>Rune <span class="lit-badge lit-badge--rune-common" data-rarity="common" title="Rune commune (blanche)">Énergie</span><span class="lit-sr-only"> (commune (blanche))</span></h3>
   <p>Rang : 1★</p>
   <p>Amélioration : <span class="upgrade-badge">+3</span></p>
   <hr>
@@ -2879,12 +2876,12 @@ La deuxième expérience fut réalisée sur une rune Gardien peu commune (verte)
 <div class="rune-window green-grade lit-window" data-window-id="L2-C2-R02" data-window-type="rune">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-R02-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-R02.svg" alt="Fenêtre du système — SECONDE EXPÉRIENCE — ÉTAT INITIAL">
+    <img src="assets/fenetres-livre-2/L2-C2-R02.svg" alt="Fenêtre du système — SECONDE EXPÉRIENCE — ÉTAT INITIAL. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header">SECONDE EXPÉRIENCE — ÉTAT INITIAL</div>
-  <h3>Gardien peu commune (verte), 1★</h3>
+  <h3><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Gardien</span><span class="lit-sr-only"> (peu commune (verte))</span>, 1★</h3>
   <p>Amélioration : <span class="upgrade-badge">+0</span></p>
   <p>Caractéristique principale : <span class="rune-bonus">Défense +3</span></p>
   <p>Caractéristique secondaire présente : <span class="rune-bonus">PV +10</span></p>
@@ -2922,12 +2919,12 @@ Celle annoncée par Hasol.
 <div class="rune-window green-grade lit-window" data-window-id="L2-C2-R03" data-window-type="amelioration">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-R03-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-R03.svg" alt="Fenêtre du système — SECONDE EXPÉRIENCE — PALIER ATTEINT">
+    <img src="assets/fenetres-livre-2/L2-C2-R03.svg" alt="Fenêtre du système — SECONDE EXPÉRIENCE — PALIER ATTEINT. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header">SECONDE EXPÉRIENCE — PALIER ATTEINT</div>
-  <h3>Gardien peu commune (verte), 1★</h3>
+  <h3><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Gardien</span><span class="lit-sr-only"> (peu commune (verte))</span>, 1★</h3>
   <p>Amélioration : <span class="upgrade-badge">+6</span></p>
   <p>Caractéristique principale : <span class="rune-bonus">Défense +9</span></p>
   <p>Caractéristiques secondaires présentes : <span class="rune-bonus">PV +20</span> ; <strong><span class="rune-bonus">Vitesse +1</span></strong>.</p>
@@ -3349,7 +3346,7 @@ Puis une fenêtre apparut.
 <div class="system-window lit-window" data-window-id="L2-C2-F02" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F02-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F02.svg" alt="Fenêtre du système — Nouvelle compétence passive acquise.">
+    <img src="assets/fenetres-livre-2/L2-C2-F02.svg" alt="Fenêtre du système — Nouvelle compétence passive acquise.. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -3469,7 +3466,7 @@ Avec eux, elle avait aussi préparé une seconde Énergie, gardée en réserve p
 <div class="character-sheet lit-window" data-window-id="L2-C2-R04" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-R04-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-R04.svg" alt="Fenêtre du système — ÉQUIPEMENT — SEPT CERCLES">
+    <img src="assets/fenetres-livre-2/L2-C2-R04.svg" alt="Fenêtre du système — ÉQUIPEMENT — SEPT CERCLES. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -3478,14 +3475,14 @@ Avec eux, elle avait aussi préparé une seconde Énergie, gardée en réserve p
   <table>
     <thead><tr><th scope="col">Rune et état</th><th scope="col">Caractéristiques présentes</th></tr></thead>
     <tbody>
-      <tr data-rune-id="L2-HAS-R001"><td>Fatal rare (bleue), 6★, <span class="upgrade-badge">+6</span> — équipée, cadeau paternel</td><td>Principale : <span class="rune-bonus">Attaque +70</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PV +25</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R002"><td>Gardien rare (bleue), 6★, <span class="upgrade-badge">+6</span> — équipée, cadeau paternel</td><td>Principale : <span class="rune-bonus">Défense +70</span>. Secondaires : <span class="rune-bonus">PV +30 ; Mana +20</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R003"><td>Fatal rare (bleue), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Attaque +22</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PV +30</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R004"><td>Fatal peu commune (verte), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Attaque +22</span>. Secondaire : <span class="rune-bonus">Défense +6</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R005"><td>Fatal peu commune (verte), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Vitesse +6</span>. Secondaire : <span class="rune-bonus">Attaque +6</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R006"><td>Gardien rare (bleue), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">PV +244</span>. Secondaires : <span class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R007"><td>Énergie rare (bleue), 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">PV +244</span>. Secondaires : <span class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R008"><td>Énergie peu commune (verte), 3★, <span class="upgrade-badge">+3</span> — en réserve</td><td>Principale : <span class="rune-bonus">Défense +22</span>. Secondaire : <span class="rune-bonus">PV +50</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R001"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+6</span> — équipée, cadeau paternel</td><td>Principale : <span class="rune-bonus">Attaque +70</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PV +25</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R002"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+6</span> — équipée, cadeau paternel</td><td>Principale : <span class="rune-bonus">Défense +70</span>. Secondaires : <span class="rune-bonus">PV +30 ; Mana +20</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R003"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Attaque +22</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PV +30</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R004"><td><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Attaque +22</span>. Secondaire : <span class="rune-bonus">Défense +6</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R005"><td><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Fatal</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">Vitesse +6</span>. Secondaire : <span class="rune-bonus">Attaque +6</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R006"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">PV +244</span>. Secondaires : <span class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R007"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 3★, <span class="upgrade-badge">+3</span> — équipée</td><td>Principale : <span class="rune-bonus">PV +244</span>. Secondaires : <span class="rune-bonus">Défense +6 ; Résistance +3&nbsp;%</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R008"><td><span class="lit-badge lit-badge--rune-uncommon" data-rarity="uncommon" title="Rune peu commune (verte)">Énergie</span><span class="lit-sr-only"> (peu commune (verte))</span>, 3★, <span class="upgrade-badge">+3</span> — en réserve</td><td>Principale : <span class="rune-bonus">Défense +22</span>. Secondaire : <span class="rune-bonus">PV +50</span>.</td></tr>
     </tbody>
   </table>
   </details>
@@ -3498,7 +3495,7 @@ Une notification apparut.
 <div class="system-window lit-window" data-window-id="L2-C2-F03" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F03-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F03.svg" alt="Fenêtre du système — Croissance runique — Seuil atteint.">
+    <img src="assets/fenetres-livre-2/L2-C2-F03.svg" alt="Fenêtre du système — Croissance runique — Seuil atteint.. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -3758,7 +3755,7 @@ Elle releva brusquement la tête.
 <div class="rune-window lit-window" data-window-id="L2-C2-R05" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-R05-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-R05.svg" alt="Fenêtre du système — HUIT RUNES VOL DE VIE — REMISE">
+    <img src="assets/fenetres-livre-2/L2-C2-R05.svg" alt="Fenêtre du système — HUIT RUNES VOL DE VIE — REMISE. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -3767,14 +3764,14 @@ Elle releva brusquement la tête.
   <table>
     <thead><tr><th scope="col">Rune reçue</th><th scope="col">Caractéristiques présentes</th></tr></thead>
     <tbody>
-      <tr data-rune-id="L2-HAS-R009"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 1</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PA +60</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R010"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 2</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PA +60</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R011"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 3</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; Vitesse +4</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R012"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 4</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; Vitesse +4</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R013"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 5</td><td>Principale : <span class="rune-bonus">Vitesse +12</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; PA +60</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R014"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 6</td><td>Principale : <span class="rune-bonus">Vitesse +12</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; PA +60</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R015"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 7</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">PA +60 ; Vitesse +4</span>.</td></tr>
-      <tr data-rune-id="L2-HAS-R016"><td>Vol de vie rare (bleue), 4★, <span class="upgrade-badge">+6</span> — pièce 8</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; Attaque +8&nbsp;%</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R009"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 4★, <span class="upgrade-badge">+6</span> — pièce 1</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PA +60</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R010"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 4★, <span class="upgrade-badge">+6</span> — pièce 2</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; PA +60</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R011"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 4★, <span class="upgrade-badge">+6</span> — pièce 3</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; Vitesse +4</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R012"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 4★, <span class="upgrade-badge">+6</span> — pièce 4</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; Vitesse +4</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R013"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 4★, <span class="upgrade-badge">+6</span> — pièce 5</td><td>Principale : <span class="rune-bonus">Vitesse +12</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; PA +60</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R014"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 4★, <span class="upgrade-badge">+6</span> — pièce 6</td><td>Principale : <span class="rune-bonus">Vitesse +12</span>. Secondaires : <span class="rune-bonus">Attaque +8&nbsp;% ; PA +60</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R015"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 4★, <span class="upgrade-badge">+6</span> — pièce 7</td><td>Principale : <span class="rune-bonus">Attaque +50</span>. Secondaires : <span class="rune-bonus">PA +60 ; Vitesse +4</span>.</td></tr>
+      <tr data-rune-id="L2-HAS-R016"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 4★, <span class="upgrade-badge">+6</span> — pièce 8</td><td>Principale : <span class="rune-bonus">PA +100</span>. Secondaires : <span class="rune-bonus">Vitesse +4 ; Attaque +8&nbsp;%</span>.</td></tr>
     </tbody>
   </table>
   </details>
@@ -4237,7 +4234,7 @@ Hasol venait de terminer une chasse lorsqu'une notification apparut devant elle.
 <div class="system-window lit-window" data-window-id="L2-C2-F04" data-window-type="niveau">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F04-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F04.svg" alt="Fenêtre du système — Niveau supérieur.">
+    <img src="assets/fenetres-livre-2/L2-C2-F04.svg" alt="Fenêtre du système — Niveau supérieur.. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -4257,7 +4254,7 @@ Un effet supplémentaire venait d'apparaître dans la description.
 <div class="system-window lit-window" data-window-id="L2-C2-F05" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F05-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F05.svg" alt="Fenêtre du système — Infiltration runique.">
+    <img src="assets/fenetres-livre-2/L2-C2-F05.svg" alt="Fenêtre du système — Infiltration runique.. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -4340,7 +4337,7 @@ Une notification apparut.
 <div class="system-window lit-window" data-window-id="L2-C2-F06" data-window-type="activation">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F06-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F06.svg" alt="Fenêtre du système — Infiltration runique activée.">
+    <img src="assets/fenetres-livre-2/L2-C2-F06.svg" alt="Fenêtre du système — Infiltration runique activée.. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -5024,13 +5021,12 @@ Sa fenêtre indiquait clairement :
 <div class="system-window lit-window" data-window-id="L2-C2-F07" data-window-type="revelation">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F07-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F07.svg" alt="Fenêtre du système — Samia Claire.">
+    <img src="assets/fenetres-livre-2/L2-C2-F07.svg" alt="Fenêtre du système — Samia Claire.. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
   <div class="system-header lit-window__header">Samia Claire.</div>
-  <p>Classe : Marcheuse du voile.</p>
-  <p>Rang : Commun.</p>
+  <p>Classe : <span class="lit-badge lit-badge--common" data-rarity="common" title="Classe commune">Marcheuse du voile</span><span class="lit-sr-only"> (commune)</span>.</p>
   <p>Cercles de mana : 2.</p>
   <p>Aptitudes présentes dès la Révélation, à maîtriser progressivement : Écho des Mondes ; Vision du Voile ; Flèche du Néant ; Pas du Voile.</p>
   </details>
@@ -5457,12 +5453,11 @@ Yoon lui montra sa description.
 <div class="system-window lit-window" data-window-id="L2-C2-F08" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F08-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F08.svg" alt="Fenêtre du système — Yoon Notos — Sage runique">
+    <img src="assets/fenetres-livre-2/L2-C2-F08.svg" alt="Fenêtre du système — Yoon Notos — Sage runique (légendaire). Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
-  <div class="system-header lit-window__header">Yoon Notos — Sage runique</div>
-  <p>Rang : Légendaire.</p>
+  <div class="system-header lit-window__header">Yoon Notos — <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Sage runique</span><span class="lit-sr-only"> (légendaire)</span></div>
   <h3>Pouvoirs initiaux</h3>
   <p><strong>Résonance runique</strong> — actif ciblé amplifiant temporairement les principales des runes de l’allié choisi.</p>
   <p><strong>Chant runique</strong> — cercle vert posé et autonome ; restaure 10&nbsp;% des PV maximaux de Yoon toutes les cinq secondes.</p>
@@ -5680,7 +5675,7 @@ Yoon atteignit le niveau dix au cours de leurs entraînements communs. Elle voul
 <div class="system-window lit-window" data-window-id="L2-C2-F12" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F12-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F12.svg" alt="Fenêtre du système — Niveau 10 atteint">
+    <img src="assets/fenetres-livre-2/L2-C2-F12.svg" alt="Fenêtre du système — Niveau 10 atteint. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -5765,7 +5760,7 @@ Bénédiction runique venait de connaître une évolution importante.
 <div class="system-window lit-window" data-window-id="L2-C2-F10" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F10-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F10.svg" alt="Fenêtre du système — Passif amélioré">
+    <img src="assets/fenetres-livre-2/L2-C2-F10.svg" alt="Fenêtre du système — Passif amélioré. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -6123,7 +6118,7 @@ Puis une fenêtre apparut devant elle.
 <div class="system-window lit-window" data-window-id="L2-C2-F09" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F09-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F09.svg" alt="Fenêtre du système — Croissance runique.">
+    <img src="assets/fenetres-livre-2/L2-C2-F09.svg" alt="Fenêtre du système — Croissance runique.. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -6215,7 +6210,7 @@ Yoon atteignit à son tour le niveau vingt pendant ces années d’expéditions.
 <div class="system-window lit-window" data-window-id="L2-C2-F13" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F13-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F13.svg" alt="Fenêtre du système — Niveau 20 atteint">
+    <img src="assets/fenetres-livre-2/L2-C2-F13.svg" alt="Fenêtre du système — Niveau 20 atteint. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -6420,7 +6415,7 @@ Lorsqu'Hasol atteignit le niveau trente, Bénédiction runique évolua de nouvea
 <div class="system-window lit-window" data-window-id="L2-C2-F11" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F11-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F11.svg" alt="Fenêtre du système — Passif amélioré">
+    <img src="assets/fenetres-livre-2/L2-C2-F11.svg" alt="Fenêtre du système — Passif amélioré. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -6450,7 +6445,7 @@ Lorsque Yoon atteignit le niveau trente, elle demanda à Hasol de l’aider à d
 <div class="system-window lit-window" data-window-id="L2-C2-F14" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C2-F14-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C2-F14.svg" alt="Fenêtre du système — Niveau 30 atteint">
+    <img src="assets/fenetres-livre-2/L2-C2-F14.svg" alt="Fenêtre du système — Niveau 30 atteint. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -8228,7 +8223,7 @@ Hasol venait d'en achever un nouveau lorsqu'une notification apparut devant elle
 <div class="system-window lit-window" data-window-id="L2-C3-F01" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F01-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C3-F01.svg" alt="Fenêtre du système — Montée de niveau">
+    <img src="assets/fenetres-livre-2/L2-C3-F01.svg" alt="Fenêtre du système — Montée de niveau. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -8342,7 +8337,7 @@ Enfin, la notification attendue apparut.
 <div class="system-window lit-window" data-window-id="L2-C3-F02" data-window-type="activation">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F02-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C3-F02.svg" alt="Fenêtre du système — Coup critique">
+    <img src="assets/fenetres-livre-2/L2-C3-F02.svg" alt="Fenêtre du système — Coup critique. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -8411,7 +8406,7 @@ Une seconde notification se déploya devant Yoon.
 <div class="system-window lit-window" data-window-id="L2-C3-F06" data-window-type="competence">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F06-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C3-F06.svg" alt="Fenêtre du système — Niveau 40 atteint">
+    <img src="assets/fenetres-livre-2/L2-C3-F06.svg" alt="Fenêtre du système — Niveau 40 atteint. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -8488,7 +8483,7 @@ Les chasses classiques, les donjons et les innombrables expéditions dans les po
 <div class="system-window lit-window" data-window-id="L2-C3-F03" data-window-type="croissance">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F03-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C3-F03.svg" alt="Fenêtre du système — Croissance runique">
+    <img src="assets/fenetres-livre-2/L2-C3-F03.svg" alt="Fenêtre du système — Croissance runique. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -8516,7 +8511,7 @@ La majorité de leurs améliorations secondaires avaient atteint des valeurs max
 <div class="rune-window lit-window" data-window-id="L2-C3-F04" data-window-type="equipement">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F04-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C3-F04.svg" alt="Fenêtre du système — Équipement runique — Hasol">
+    <img src="assets/fenetres-livre-2/L2-C3-F04.svg" alt="Fenêtre du système — Équipement runique — Hasol. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
@@ -8525,40 +8520,40 @@ La majorité de leurs améliorations secondaires avaient atteint des valeurs max
   <p>Composition : 8 Vol de vie · 8 Arcanique · 8 Vitesse · 2 Énergie · 2 Gardien · 4 Fatal</p>
   <p>Bonus d'ensemble actifs : <strong>9</strong> · Toutes les runes : <span class="upgrade-badge">+15</span></p>
   <table>
-    <thead><tr><th>Ensemble, rareté, étoiles, amélioration</th><th>Principale</th><th>Secondaires présentes</th></tr></thead>
+    <thead><tr><th>Ensemble, étoiles, amélioration</th><th>Principale</th><th>Secondaires présentes</th></tr></thead>
     <tbody>
-    <tr data-rune-id="L2-HAS-R001"><td>Fatal rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R002"><td>Gardien rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R017"><td>Vol de vie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R018"><td>Vol de vie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Attaque +16&nbsp;% ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R019"><td>Vol de vie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R020"><td>Vol de vie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R021"><td>Vol de vie rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +600</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R022"><td>Vol de vie rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R023"><td>Vol de vie rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R024"><td>Vol de vie rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PA +120 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R025"><td>Arcanique rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R026"><td>Arcanique rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R027"><td>Arcanique rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R028"><td>Arcanique rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R029"><td>Arcanique rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +600</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R030"><td>Arcanique rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R031"><td>Arcanique rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R032"><td>Arcanique rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R033"><td>Vitesse rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R034"><td>Vitesse rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R035"><td>Vitesse rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R036"><td>Vitesse rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R037"><td>Vitesse rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +600</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R038"><td>Vitesse rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R039"><td>Vitesse rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R040"><td>Vitesse rare (bleue), 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Résistance +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PA +120 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R041"><td>Énergie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R042"><td>Énergie rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R043"><td>Gardien rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R044"><td>Fatal rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
-    <tr data-rune-id="L2-HAS-R045"><td>Fatal rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
-    <tr data-rune-id="L2-HAS-R046"><td>Fatal rare (bleue), 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R001"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PV +25 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R002"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +160</td><td class="rune-bonus">PV +60 ; Mana +20 ; Vitesse +4 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R017"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +160</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R018"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Attaque +16&nbsp;% ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R019"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R020"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R021"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +600</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R022"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R023"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R024"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vol de vie</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PA +120 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R025"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R026"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Mana +40 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R027"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R028"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R029"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +600</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R030"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R031"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R032"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Arcanique</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +51&nbsp;%</td><td class="rune-bonus">PA +120 ; Vitesse +8 ; PV +150 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R033"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">PA +120 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R034"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R035"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R036"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R037"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +600</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R038"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R039"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R040"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Vitesse</span><span class="lit-sr-only"> (rare (bleue))</span>, 5★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Résistance +51&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PA +120 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R041"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; Défense +30 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R042"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Énergie</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Défense +63&nbsp;%</td><td class="rune-bonus">PV +300 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R043"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Gardien</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PV +63&nbsp;%</td><td class="rune-bonus">Défense +60 ; Vitesse +8 ; PA +60 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R044"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Attaque +63&nbsp;%</td><td class="rune-bonus">Vitesse +8 ; PA +120 ; PV +150 ; Résistance +6&nbsp;%</td></tr>
+    <tr data-rune-id="L2-HAS-R045"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">PA +1&nbsp;200</td><td class="rune-bonus">Vitesse +8 ; Attaque +16&nbsp;% ; PV +150 ; Mana +30</td></tr>
+    <tr data-rune-id="L2-HAS-R046"><td><span class="lit-badge lit-badge--rune-rare" data-rarity="rare" title="Rune rare (bleue)">Fatal</span><span class="lit-sr-only"> (rare (bleue))</span>, 6★, <span class="upgrade-badge">+15</span></td><td class="rune-bonus">Vitesse +42</td><td class="rune-bonus">Attaque +16&nbsp;% ; PA +120 ; Défense +30 ; Mana +30</td></tr>
     </tbody>
   </table>
   </details>
@@ -8787,7 +8782,7 @@ La pierre se désagrégea.
 <div class="system-window lit-window" data-window-id="L2-C3-F05" data-window-type="activation">
   <picture class="lit-window__github-picture">
     <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C3-F05-mobile.svg">
-    <img src="assets/fenetres-livre-2/L2-C3-F05.svg" alt="Fenêtre du système — Coup critique">
+    <img src="assets/fenetres-livre-2/L2-C3-F05.svg" alt="Fenêtre du système — Coup critique. Version textuelle complète dans le volet suivant.">
   </picture>
   <details class="lit-window__transcript">
     <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>

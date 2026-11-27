@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="567" viewBox="0 0 680 567" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="567" viewBox="0 0 680 567" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">NOUVELLE COMPÉTENCE DÉBLOQUÉE Œil runique Classe : Arcaniste runique (légendaire) Type : Passive Révèle les caractéristiques secondaires qui seront découvertes lors de l&#x27;amélioration d&#x27;une rune. Leur nature est prédéterminée et reste identique quel que soit l&#x27;artisan. Si l&#x27;hôte réalise personnellement les améliorations restantes jusqu&#x27;à +15 et atteint ce palier, révèle également les renforcements attribués et leurs valeurs finales exactes. Lorsque quatre caractéristiques secondaires sont présentes, l&#x27;ordre exact des renforcements intermédiaires peut demeurer indéterminé. Ne garantit pas la réussite des tentatives d&#x27;amélioration.</desc>
 <rect x="4" y="7" width="672" height="557" rx="14" fill="#483615" opacity="0.08"/>
 <rect x="1" y="1" width="674" height="560" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
 <g transform="translate(28 28)" fill="none" stroke="#A17B35" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 5v8l-8 5-8-5V8Z M12 7v10 M8 10l8 4"/></g>
@@ -15,9 +16,8 @@
 <text x="87.40" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="91.72" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
 <text x="96.04" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="100.36" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="84.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Arcaniste</text>
-<text x="184.60" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
-<text x="188.92" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
+<rect x="100.36" y="141.60" width="166.44" height="27" rx="13.5" fill="#e9a34b" stroke="#884717"/>
+<text x="106.36" y="160.60" font-size="18" font-weight="700" fill="#242424" textLength="154.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Arcaniste runique</text>
 <text x="28.00" y="198.30" font-size="18" font-weight="700" fill="#242424" textLength="44.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Type</text>
 <text x="72.28" y="198.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
 <text x="76.60" y="198.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>

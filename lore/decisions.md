@@ -1399,6 +1399,7 @@
 - **Vie 2 :** Hasol ne se rappelle aucun drame de la première vie.
 - **À partir de la vie 3 :** après chaque réincarnation, elle reçoit des fragments cumulatifs, incomplets et désordonnés des drames terminaux vécus depuis la vie 2 jusqu’à la vie précédente. Elle ne reçoit pas les faits ordinaires exhaustifs, une chronologie fiable ou des événements jamais vécus.
 - **R11 :** la première vie reste entièrement inaccessible jusque-là. Mémoire runique restitue alors toutes les vies, première incluse ; mémoire parfaite ne vaut toujours pas omniscience.
+- **Exception ciblée ultérieure — DEC-193 :** Hasol voit et entend la scène de Carmela en cauchemar malgré son absence réelle ; ce n’est pas un souvenir personnel. Cette scène est autorisée sans explication technique/magique préalable, sans étendre la dérogation aux autres rêves ou fragments.
 
 ## DEC-133 — Ray Stratège runique rare en vie 4
 
@@ -1836,6 +1837,57 @@
 - **Portée :** effets, niveaux d'obtention, scènes, résultats des combats et paramètres ouverts restent strictement inchangés. La fenêtre `L2-C3-F06` affiche **Résonance runique**.
 - **Audit historique :** « Résonance approfondie », « Tempête arcanique » et « Convergence des cercles » sont les anciens noms remplacés. Ils ne restent valides que comme terminologie historique explicitement qualifiée dans les décisions ou les archives immuables.
 - **Fichiers concernés :** manuscrits des livres I et II, fenêtre `L2-C3-F06`, `AGENTS.md`, plans, `source.md`, références de `lore/` et rapport d'intégration du chapitre 3. `docs/new.txt` et `lore/transmission_mobile_chapitres_10_16.md` restent des archives intactes ; aucun SVG généré.
+
+## DEC-187 — Opposition impériale au mariage Ray/Hasol
+
+- **Statut : CANON pour le motif, 27 novembre 2026.** Source directe locale : « l'empire s'oppose au mariage car hasol est une astral astrae donc il veulent la controler ». L’Empire veut contrôler politiquement Hasol, Astrale Astrea, et s’oppose à son mariage avec Ray. Aucune loi universelle sur le mariage des Astraux n’est créée.
+- **Portée :** futur à préparer. La direction envisagée « vie 4, mariage interrompu, condamnation » ne valide ni nouvelle grille générale des vies 2–12 ni seize titres révisés. État du couple, placement et modalités ouverts ; aucune réécriture de la vie 3 ou romance universelle déduite.
+- **Provenance/fichiers :** session `ses_de3ed5617ffe7bP1oBeNSAf90I`, autorisation « enregistre les decisions » ; citations et limites dans `../docs/decisions_session_2026_11_27.md`. Rappel `AGENTS.md`, addenda de `PLAN_LIVRE_II.md`, `chronologie.md` et `personnages.md` ; aucun manuscrit modifié.
+
+## DEC-188 — Signalement obligatoire d’un enfant astral dans le pacte d’Iseria
+
+- **Statut : CANON — précision de l’auteur, 27 novembre 2026.** Citation : « on vait dit que iseria devais prevenir si un enfant astral naissait en plus de couper tout lien avec tenebria ».
+- **Décision :** le pacte comporte le signalement de la naissance d’un enfant astral, en plus de la rupture avec Ténébria. Avoir caché Hasol constitue la rupture reprochée et le motif de condamnation d’Iseria par son frère empereur. Complète DEC-137 sans inventer procédure, tribunal, délai, sanction automatique ou dispositif de détection.
+- **Provenance/fichiers :** même session et autorisation que DEC-187 ; citation dans la note de session, rappels dans `AGENTS.md`, plan II, chronologie et personnages. Événement futur, non savoir déjà acquis par Hasol.
+
+## DEC-189 — Enquête des tenues royales, Carmela et cauchemar d’Hasol
+
+- **Statut initial : CANON pour l’intention des scènes futures ; réserve de cauchemar levée ensuite par DEC-193.** Source auteur du 27 novembre : citation intégrale dans `../docs/decisions_session_2026_11_27.md`, section DEC-189, session `ses_de3ed5617ffe7bP1oBeNSAf90I`.
+- **Enchaînement retenu :** enquêteurs impériaux alertés par l’Astrale sanguinaire et son futur mariage ; tenues rappelant l’atelier royal ; registres de commandes identifiant Iseria Shun ; rapport à Carmela, qui reconnaît sa fille Iseria. La phrase de Carmela exprime son désarroi devant Hasol cachée et l’impossibilité de protéger Iseria de son frère cette fois-ci.
+- **Actualisation ciblée de DEC-137 :** pour cette nouvelle trajectoire, ce déclencheur remplace le rapprochement avec Ténébria comme cause de découverte de la filiation d’Hasol. L’ancien déclencheur reste historique ; ni ancienne grille entière effacée ni nouvelle répartition validée. Carmela reste épouse de l’ancien empereur, mère d’Iseria/de l’empereur actuel et grand-mère d’Hasol/Ténébria.
+- **Savoirs futurs distincts :** Hasol aura la phrase en cauchemar sans identifier Carmela, puis comprendra que sa grand-mère est la seule pouvant sauver sa fille **Iseria**, non un enfant d’Hasol. Ni réussite automatique ni pouvoir magique de sauvetage déduit.
+- **Réserve historique, levée par DEC-193 :** DEC-132 limitait les fragments aux drames terminaux personnellement vécus et aucun accès personnel à cette phrase n’était attesté. L’auteur précise ensuite qu’Hasol visualise la scène en cauchemar : elle la voit et l’entend sans l’avoir vécue, sans reconnaître Carmela. Ne plus bloquer cette présentation sur son origine technique/magique ; seul le chemin d’identification ultérieure et le placement restent à préparer. Pas de prémonition universelle ou d’omniscience créée ; dates et durée d’enquête ouverts.
+- **Fichiers concernés :** note de session, `AGENTS.md`, plan II, chronologie, personnages et note de questions dans `systeme.md` ; aucun manuscrit ni archive modifié.
+
+## DEC-190 — Piste de scène : Ray parle des enquêteurs à Hasol
+
+- **Statut : PROPOSITION de scène de l’auteur ; Ray retenu comme interlocuteur pour préparation.** Source du 27 novembre : « il pourrait y avoir une scene ou dit a hasol c'est bizzare des enqueteur de l'empire sont venu me voir a ton sujet . », puis « ou ray ».
+- **Portée :** Ray pourrait informer Hasol que les enquêteurs impériaux sont venus le voir à son sujet. Ni dialogue définitif ni scène rédigée validés. Réponses exactes, nom de la mère éventuellement donné, non-culpabilité explicitée et progression des questions suggérés par l’assistant ne sont pas canoniques. Ne pas donner à Ray les secrets du pacte ou de la filiation par déduction.
+- **Provenance/fichiers :** session et note communes DEC-187 ; addenda du plan, de la chronologie et des personnages. Placement et mise en scène à préparer.
+
+## DEC-191 — Éviter les retours à seize ans, grille à réarbitrer
+
+- **Statut : CANON comme orientation auteur ; modalités À DÉFINIR.** Citation du 27 novembre : « j'aimerais éviter un retour a 16 ans dans le livre 2 ».
+- **Réserve :** âge/état de remplacement, vies visées et portée au retour final vers la vie 13 restent ouverts. L’option de l’assistant de garder l’ultime retour à seize ans n’a pas reçu de réponse ; ne pas la transformer en choix auteur. Ne pas supprimer automatiquement la conclusion du II ou le début du III existants.
+- **Grille :** DEC-145/147/149 restent une base historique de travail, incomplète pour la nouvelle trajectoire ; champs affectés à réviser conjointement avec le plan. Vérifier Ray rare en vie 4, Aimant, Révélation, niveaux/cercles et mémoire sans nouvelle mécanique de conservation, nouvel âge ou nombre de vies/DING déduit.
+- **Provenance/fichiers :** session et note communes DEC-187 ; rappels dans `AGENTS.md`, plan II, chronologie, personnages et note de questions dans `systeme.md`. Aucune modification de rune, statistique, manuscrit ou sauvegarde chiffrée dans ce lot.
+
+## DEC-192 — Accord de principe de l’indice éditorial Iseria au II
+
+- **Statut : CANON pour l’accord de principe, contenu/placement À DÉFINIR.** Citation locale du 27 novembre : « OK ; pour les modifications des fenetres lance les subagent pour le faire », après proposition de fiche éditoriale lecteur autour des cadeaux écarlates. Provenance : session et note communes DEC-187 ; accord déjà décrit dans `../docs/refonte_bulles_rarete_2026_11_27.md`.
+- **Limites :** livre II seulement, fond violet contrastant avec la déclaration Rare, non fenêtre du Système vue par Hasol. Nom exact, contenu et placement restent ouverts ; aucune nouvelle fiche, classe, scène ou modification du I. Aucun secret supplémentaire appris par Hasol, aucune recoloration globale des fenêtres selon le savoir de l’auteur.
+- **Périmètre de consignation DEC-187 à DEC-192 :** discussion locale après import, pas réimport global de l’archive. Les arbitrages de fond de l’archive sur Iseria relèvent d’une synchronisation séparée ; ils ne sont ni invalidés ni complétés ici. Aucun nouveau chapitre, commit ou push autorisé.
+- **Fichiers concernés :** `AGENTS.md`, note de session, registre et addenda des références ; `runes.md` porte seulement la note de non-modification d’inventaire selon DEC-180.
+
+## DEC-193 — Hasol voit et entend la scène de Carmela en cauchemar
+
+- **Statut : CANON ciblé — clarification directe de l’auteur, 27 novembre 2026.** Citation exacte : « Comment Hasol entend-elle en cauchemar une phrase prononcée hors de sa présence ? -> elle visualise la scene en cauchemar tout simplement . » Provenance : suite locale de la session `ses_de3ed5617ffe7bP1oBeNSAf90I`, après DEC-187 à DEC-192 ; citation conservée dans `../docs/decisions_session_2026_11_27.md`.
+- **Décision :** Hasol **voit et entend** en cauchemar la scène de Carmela bien qu’elle soit absente de la scène réelle. Elle n’identifie pas Carmela à ce moment. Ce n’est **pas un souvenir personnel**.
+- **Précision directe ultérieure, même scène :** l’auteur ajoute « dans la scene un proche de carmela arrive avec une feuille , Carmela tiens regarde le rapport d'enquete . », puis « ça donne l'info du prenom ». Un proche non nommé apporte une feuille/le rapport et s’adresse à Carmela par son prénom. Formulation normalisée de préparation, non texte littéraire final : « Carmela, tiens, regarde le rapport d’enquête. » Hasol entend et apprend donc le prénom **Carmela dès ce futur cauchemar**, mais ignore encore l’identité de cette femme, son lien de grand-mère et son statut impérial. Nom, sexe et fonction du proche non fixés ; ne pas en faire nécessairement un enquêteur, ni attribuer à Hasol une lecture automatique de la feuille ou des pensées. Provenance : messages directs dans la suite de la même session, citations exactes dans la note de session.
+- **Priorité ciblée :** lève la réserve d’accès hors vécu de DEC-189 et déroge à la restriction de DEC-132 **uniquement pour cette scène**. La présentation est validée sans explication préalable de son origine technique ou magique ; ne pas redemander ce mécanisme comme condition de validation.
+- **Validation explicite ciblée ultérieure :** l’auteur répond **« je valide »** immédiatement après le récapitulatif de la scène : un proche apporte le rapport et nomme Carmela ; Hasol voit et entend la scène en cauchemar, apprend ce prénom mais ignore encore l’identité de la femme, son lien de grand-mère et son statut impérial. Source : suite de la même session locale, consignée dans la note de session. Cette confirmation porte sur ces éléments de DEC-193, sans nouvel ID, validation générale du plan, chapitre ou dialogue littéraire final. Le placement et l’identification ultérieure restent à préparer ; aucun savoir ajouté aux chapitres actuels.
+- **Limites :** aucune omniscience générale, vision universelle, faculté héréditaire supplémentaire ou extension automatique aux autres cauchemars/fragments. Le chemin d’identification ultérieure de la grand-mère, la compréhension de son rôle pour sauver Iseria et l’emplacement restent à préparer, mais ne rouvrent pas l’accès validé à cette scène.
+- **Fichiers concernés :** `AGENTS.md`, `PLAN_LIVRE_II.md`, `chronologie.md`, `personnages.md`, `systeme.md`, présent registre et note de session. Aucun événement ajouté aux manuscrits, aucun inventaire changé ; aucune archive, script, test ou SVG modifié. Aucun commit/push.
 
 ## Questions de système toujours ouvertes
 
