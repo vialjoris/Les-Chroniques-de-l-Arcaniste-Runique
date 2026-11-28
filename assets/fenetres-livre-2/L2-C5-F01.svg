@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="245" viewBox="0 0 680 245" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">Nouvelle compétence Aimant runique Compétence passive Effet : les chances d&#x27;obtention de runes sont améliorées.</desc>
+<rect x="4" y="7" width="672" height="235" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="238" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="104.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nouvelle</text>
+<text x="168.76" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="174.16" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="149.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">compétence</text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="68.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Aimant</text>
+<text x="96.04" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="100.36" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="74.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
+<text x="28.00" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="114.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Compétence</text>
+<text x="142.48" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="146.80" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">passive</text>
+<text x="28.00" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="45.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Effet</text>
+<text x="73.36" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="77.68" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="82.00" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="86.32" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="24.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">les</text>
+<text x="111.16" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="115.48" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="74.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">chances</text>
+<text x="190.00" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="194.32" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="103.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">d&#x27;obtention</text>
+<text x="298.00" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="302.32" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
+<text x="325.00" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="329.32" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="48.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runes</text>
+<text x="377.92" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="382.24" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="39.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">sont</text>
+<text x="422.20" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="426.52" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="98.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">améliorées.</text>
+</svg>

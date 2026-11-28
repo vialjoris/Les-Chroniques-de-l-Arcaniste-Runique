@@ -1,4 +1,4 @@
-"""Contrats métier des trois chapitres validés du livre II."""
+"""Contrats métier de l'import borné des sept chapitres du livre II."""
 
 from collections import Counter
 from pathlib import Path
@@ -6,7 +6,7 @@ import hashlib
 import re
 import unittest
 
-from lecture_support import Document, compact, before_bubble_presentation
+from lecture_support import Document, compact, before_bubble_presentation, historical_book_ii
 from test_fenetres_github import load_generator
 from test_securite_documents import assert_passive
 
@@ -22,6 +22,9 @@ ROMANS = (
 
 def chapters(source):
     matches = list(re.finditer(r"^## Chapitre (\d+) — ([^\n]+)$", source, re.M))
+    numbers = [int(match[1]) for match in matches]
+    if len(numbers) != len(set(numbers)):
+        raise ValueError("Chapitre dupliqué")
     return {
         int(match[1]): source[match.start():matches[index + 1].start()
                               if index + 1 < len(matches) else len(source)]
@@ -123,27 +126,95 @@ class ImportLivreIITests(unittest.TestCase):
     def setUpClass(cls):
         cls.source = SOURCE.read_text(encoding="utf-8")
         cls.document = Document(cls.source)
-        cls.parts = chapters(before_bubble_presentation(cls.source, book=2))
+        cls.parts = chapters(before_bubble_presentation(historical_book_ii(cls.source), book=2))
+        cls.parts.update({n: body for n, body in chapters(cls.source).items() if n >= 4})
         cls.windows = {window.attrs["data-window-id"]: window
                        for window in cls.document.windows}
 
-    def test_sommaire_ancres_et_trois_chapitres_structures(self):
+    def test_sommaire_ancres_et_sept_chapitres_structures(self):
         titles = re.findall(r"^## (Chapitre (\d+) — [^\n]+)$", self.source, re.M)
-        self.assertEqual([number for _, number in titles], ["1", "2", "3"])
+        self.assertEqual([number for _, number in titles], list(map(str, range(1, 8))))
         links = re.findall(r"^(\d+)\. \[([^\n]+)\]\(#chapitre-(\d+)\)$", self.source, re.M)
         self.assertEqual(links, [(number, title, number) for title, number in titles])
         self.assertEqual(re.findall(r'<span id="chapitre-(\d+)"></span>', self.source),
-                         ["1", "2", "3"])
-        expected = {1: 9, 2: 12, 3: 18}
+                         list(map(str, range(1, 8))))
+        expected = {1: 9, 2: 12, 3: 18, 4: 12, 5: 13, 6: 13, 7: 16}
         for number, count in expected.items():
             sections = re.findall(r"^### ([IVX]+)\.", self.parts[number], re.M)
             self.assertEqual(len(sections), count)
             self.assertEqual(len(sections), len(set(sections)))
-        self.assertNotRegex(self.source, r"(?im)^#+\s*(?:\*\*)?Chapitre\s+4\b")
+        self.assertNotRegex(self.source, r"(?im)^#+\s*(?:\*\*)?Chapitre\s+8\b")
 
     def test_chapitre_1_valide_reste_identique_a_la_reference_preexistante(self):
         self.assertEqual(hashlib.sha256(self.parts[1].encode()).hexdigest(),
-                         "999491e2506c8e92ac6f4b44f3e2676207b2eef175d85b636c82f8c366ec145a")
+                          "999491e2506c8e92ac6f4b44f3e2676207b2eef175d85b636c82f8c366ec145a")
+
+    def test_isolation_historique_refuse_mutations_des_trois_chapitres_et_du_sommaire(self):
+        original = historical_book_ii(self.source)
+        for number in (1, 2, 3):
+            heading = re.search(rf"^## Chapitre {number} — ([^\n]+)$", self.source, re.M)
+            position = heading.start(1)
+            mutated = self.source[:position] + "X" + self.source[position + 1:]
+            with self.subTest(chapitre=number):
+                with self.assertRaisesRegex(ValueError, "Chapitres 1–3 ou sommaire"):
+                    historical_book_ii(mutated)
+        for before, after in (("(#chapitre-1)", "(#chapitre-9)"),
+                              ("(#chapitre-4)", "(#chapitre-9)")):
+            with self.subTest(sommaire=before):
+                with self.assertRaises(ValueError):
+                    historical_book_ii(self.source.replace(before, after, 1))
+        self.assertEqual(historical_book_ii(self.source), original)
+
+    def test_chapitre_4_retient_la_nouvelle_xii_fiancailles_et_anneau(self):
+        ending = self.parts[4].split("### XII. Le cœur et la raison", 1)[1]
+        for phrase in ("Si tu es d'accord… Soyons fiancés, dans un premier temps.",
+                       "Ray récupéra délicatement le bijou et le glissa à son doigt.",
+                       "Et… Nous sommes fiancés.",
+                       "Pour cette nuit, cela lui suffisait."):
+            self.assertIn(phrase, ending)
+        self.assertNotIn("Il avait encore quelque chose à préparer.", ending)
+        self.assertNotIn("Cette section remplace intégralement", ending)
+        ring = compact(self.windows["L2-C4-F08"].text())
+        self.assertIn("inventaire exclusivement réservé au stockage des runes", ring)
+
+    def test_zio_au_5_et_temoignage_du_cousin_raccordent_le_reve_unique_du_6(self):
+        expedition = self.parts[5].split("### VIII. Deux expéditions", 1)[1].split("### IX.", 1)[0]
+        for phrase in ("Zio sourit avant de s'approcher de Ray et Hasol.",
+                       "Machinalement, Hasol recouvrit son anneau de son autre main."):
+            self.assertIn(phrase, expedition)
+            self.assertIn(phrase, self.parts[6].split("### II.", 1)[0])
+        testimony = "Samia est restée derrière pour nous laisser le temps de fuir…"
+        promise = "Elle m'avait promis de m'apprendre à tirer à l'arc."
+        scene = self.parts[5].split("### XII. Le village qui n'existe plus", 1)[1]
+        dream = self.parts[6].split("### II.", 1)[0]
+        for phrase in (testimony, promise):
+            self.assertIn(phrase, scene)
+            self.assertIn(phrase, dream)
+        self.assertEqual(dream.count("Hasol ouvrit brutalement les yeux."), 1)
+        self.assertIn("Ce garçon ne pouvait être que le petit cousin", dream)
+
+    def test_secrets_vision_et_classe_iseria_absents_du_texte_et_alternatives_1_a_7(self):
+        for number, body in chapters(self.source).items():
+            with self.subTest(chapitre=number):
+                document = Document(body)
+                accessible = document.root.text() + " ".join(
+                    node.attrs.get("alt", "") + node.attrs.get("title", "")
+                    for node in document.root.descendants())
+                self.assertNotRegex(accessible, r"(?i)rune\s+(?:de\s+)?vision|proph[eè]t(?:e|esse)")
+                self.assertNotRegex(accessible, r"(?i)(?:visions?|usages?)\s+restant[es]*\s*[:=]?\s*\d")
+
+    def test_proche_de_carmela_non_nomme_et_sans_sexe_ou_fonction_imposes(self):
+        dream = self.parts[7].split("### II.", 1)[0]
+        arrival = dream[dream.index("Une femme élégamment vêtue"):dream.index("La femme récupéra le document.")]
+        self.assertIn("Un proche vint la rejoindre, un document à la main.", arrival)
+        self.assertIn("— Carmela, tiens, regarde le rapport d'enquête.", arrival)
+        self.assertNotRegex(arrival, r"(?i)\b(?:homme|enquêteur|serviteur|conseiller|frère|sœur)\b")
+
+    def test_fins_des_vies_3_4_5_douze_dong_et_trois_quatre_cinq_ding(self):
+        for number, dings in ((5, 3), (6, 4), (7, 5)):
+            with self.subTest(chapitre=number):
+                sounds = re.findall(r"\b(?:DONG|DING)\b", self.parts[number])
+                self.assertEqual(sounds, ["DONG"] * 12 + ["DING"] * dings)
 
     def test_archive_chapitre_2_est_bornee_par_ancres_sans_absorber_les_appends(self):
         archive = (ROOT / "docs/conversation/archive_2.txt").read_text(encoding="utf-8")
@@ -261,20 +332,29 @@ class ImportLivreIITests(unittest.TestCase):
         self.assertTrue(self.parts[3].rstrip().endswith(
             "*Fin du chapitre 3 — Celle qui n'était pas dans les bois.*"))
 
-    def test_vingt_six_fenetres_et_cinquante_deux_svg_derives(self):
+    def test_fenetres_decouvertes_par_chapitre_et_deux_svg_par_identifiant(self):
         ids = [window.attrs["data-window-id"] for window in self.document.windows]
-        self.assertEqual(len(ids), 26)
         self.assertEqual(len(ids), len(set(ids)))
+        discovered = []
+        for number, body in chapters(self.source).items():
+            chapter_ids = [window.attrs["data-window-id"] for window in Document(body).windows]
+            if number in (4, 5):
+                self.assertTrue(chapter_ids, f"Fenêtres du chapitre {number} absentes")
+            for identifier in chapter_ids:
+                self.assertRegex(identifier, rf"^L2-C{number}-[FR]\d+$")
+            discovered.extend(chapter_ids)
+        self.assertEqual(discovered, ids)
         files = {path.name for path in ASSETS.glob("*.svg")}
         expected = {identifier + suffix + ".svg" for identifier in ids for suffix in ("", "-mobile")}
         self.assertEqual(files, expected)
-        self.assertEqual(len(files), 52)
+        self.assertEqual(len(files), 2 * len(ids))
 
     def test_generation_livre_ii_idempotente_et_derives_identiques(self):
-        generated, images = load_generator().produire(self.source)
-        self.assertEqual(generated.replace("assets/fenetres/", "assets/fenetres-livre-2/"), self.source)
+        generated, images = load_generator().produire(
+            self.source, asset_prefix="assets/fenetres-livre-2")
+        self.assertEqual(generated, self.source)
         self.assertEqual(set(images), {path.name for path in ASSETS.glob("*.svg")})
-        self.assertEqual(len(images), 52)
+        self.assertEqual(len(images), 2 * len(self.document.windows))
         for name, content in images.items():
             self.assertEqual((ASSETS / name).read_text(encoding="utf-8"), content)
 
@@ -363,7 +443,7 @@ class IdentifiantsRunesTests(unittest.TestCase):
             self.assertIn(phrase, section)
 
     def test_mutations_des_fiches_vie_2_divergentes_du_lore_sont_refusees(self):
-        historical = before_bubble_presentation(self.sources[ROMANS[1].name], book=2)
+        historical = before_bubble_presentation(historical_book_ii(self.sources[ROMANS[1].name]), book=2)
         window = next(w for w in Document(historical).windows
                       if w.attrs["data-window-id"] == "L2-C3-F04")
         source = historical[window.start:window.end]

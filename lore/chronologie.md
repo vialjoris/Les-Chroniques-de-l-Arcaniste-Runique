@@ -1,5 +1,48 @@
 # Chronologie
 
+## Chronologie prioritaire — apport intégral du 28 novembre 2026
+
+Source : `docs/conversation/28_11_2026.txt`, **17 431 lignes lues**. Derniers textes : 4, 2662–4286 avec XII remplacée par 4803–5115 (validé 6407–6410) ; 5, 6412–7624 + Zio 7641–7735 + témoin 7776–7808 ; 6, 9498–10816 (validé 10828) ; 7, **13941–15839** (validé 15854). GO local d'intégration 4–7 et corrections journalisées ; pas rédaction du 8 ou révision du I. Personnages et inventaires sont synchronisés dans leurs références, sans interpolation.
+
+**Statut des validations :** validations mobiles retrouvées pour les chapitres **4, 6 et 7** ; l’utilisateur désigne **5/6/7 comme validés dans son GO local**, qui autorise leur intégration et les corrections journalisées. **Aucune citation mobile autonome de validation littéraire du chapitre 5 n’a été retrouvée** ; son intégration est autorisée localement (DEC-202), sans attribuer au mobile une validation non sourcée.
+
+### CANON raconté — remplace les anciens placements des vies 3–5
+
+| Vie / chapitres | Sauvegarde réelle | Événements dans l'ordre | Clôture |
+|---|---|---|---|
+| 3 / 4–5 | **Lendemain de la réception des tenues écarlates** ; âge/niveau/cercles exacts non donnés | Rêves Siphon/bibliothèque/loup/Ray ; ellipses des événements communs ; Hasol niveau 40/Siphon ; 32 cercles à la discussion avec Ray ; confidence à Iseria et passage aperçu ; quatrième tenue/bâton ; Ray systématique aux raids ; mères et commande d'Anneau ; Ray 30/40/50 ; Hasol 36 cercles/36 runes/dix activations ; **fiançailles et Anneau fin du 4** ; Aimant au début du 5 après combat avec l'Anneau ; années heureuses ; premiers bleus ; portail Académie et évacuation du village en parallèle ; Samia tuée mais sa famille sauvée, autres héros trop tard | Bibliothèque avec Ray après décès de Samia, **12 DONG + 3 DING** |
+| 4 / 6 | **Nuit avant la séparation des deux groupes** | Rêve unique Zio/bague + témoignage du cousin ; Hasol part avec Samia, Ray/Yoon/Zio à l'Académie puis renforts ; village et Samia sauvés ; automatismes inconscients Hasol/Zio ; repas familial ; arc offert au cousin et dessin reçu ; mois écoulés ; mariage décidé ; enquête sur les tenues ; cérémonie interrompue par condamnation d'Iseria | Iseria emmenée, **pas exécution vue** ; mariage non accompli ; **12 DONG + 4 DING** |
+| 5 / 7 | Avant la visite des enquêteurs à Ray, pendant préparatifs du mariage ; date précise non chiffrée | Cauchemar mariage/passage/Carmela ; autorisation « Carmela A. » seulement ; portrait et parenté soupçonnée ; enquêteurs deux jours après ; audience encore deux jours après ; grand-mère confirmée, cauchemars confiés ; Carmela chez Iseria puis chez l'empereur ; protection d'Iseria contre rupture des fiançailles ; bague gardée, tête-à-tête évités ; Yoon/Samia informées ; travail accru chez Orven, toux depuis plus d'un mois ; Zéphyr annonce son départ ; recherche runique avec Samia ; aggravation/mort d'Orven ; explication de l'infusion | Hasol et Iseria enlacées, culpabilité d'Hasol ; **12 DONG + 5 DING** |
+
+Les intervalles de deux jours du 7 sont ceux du texte, pas une durée totale d'enquête impériale fixée pour toutes les vies. Le sauvetage de Ray se fait **sans rencontre du loup alpha** dans la vie 3. Le cadeau de l'Anneau est désormais au 4 XII, plus au 5 ; sa réponse n'est plus indéfiniment suspendue : elle accepte les fiançailles. **CANON — DEC-214, arbitrage local actuel :** Ray n’a pas changé de classe, le retour survenant après sa Révélation. Il conserve **Mage de feu Commun, cinq points**, en vie 4 et dans la continuité des chapitres 6–7. La réserve DEC-205 est levée ; les reprises ci-dessous de Stratège rare dès vie 4 sont historiques et remplacées pour ce placement seulement. Futur Stratège rare maintenu sans nouvelle vie/date ni condition universelle fixée ; aucune nouvelle cérémonie ou fiche inventée.
+
+**Âges/niveaux/équipement :** pas de fenêtre de réveil demandée ; anciens chiffres 23 ans/niveau 24/16 cercles (vie 3), 16 ans/1/2 (vie 4), 21 ans/22/15 (vie 5) ne décrivent plus ces points. Les jalons 32 puis 36 du 4 ne fixent pas un état final inchangé après les ellipses des 5–7. Ni âge de mort d'Orven « vers 26 ans », ni mort d'Armin « vers 24 ans » réutilisés pour la nouvelle suite. Vie 2/ch.3 à vingt-cinq ans demeure intacte ; le calendrier incompatible de la nouvelle trajectoire ne se répare pas par calcul inventé.
+
+**Politique / savoir :** condamnation d'Iseria avancée à la vie 4 ; sauvetage par Carmela et rupture avec Ray racontés en vie 5. Les anciens jalons Iseria exécutée vie 9 / découverte de Carmela vie 10 sont historiques pour ces seuls placements. Carnets et découverte de Ténébria non déplacés au 7 : Hasol ne lit que l'autorisation et ignore sa sœur. Le proche remettant le rapport n'est pas identifié. Répliques/classes DEC-200/201 réservées au III.
+
+### Futurs validés — non rédigés dans ce lot
+
+| Repère | Événement retenu | Statut / limite |
+|---|---|---|
+| Naissance d'Hasol, passé d'auteur | Iseria perd Vision à l'accouchement et lui transmet le pouvoir | CANON 8028–8041, révélation au III ; nombre d'usages Iseria non fixé |
+| 8 / vie 6 | Rêve de Zéphyr chez Orven et conversation sur l'infusion ; Hasol sauve Orven, néglige Zéphyr | CANON de préparation ; sauvegarde avant visite proposée, pas âge/niveau fixé |
+| 8 / vie 6 | Zéphyr meurt dans un **autre portail bleu** près du village maternel de Samia ; annonce à Samia après son raid, colère, familiarité inexpliquée d'Hasol ; culpabilité jusqu'à lèvre mordue au sang | CANON de préparation ; **ne déclenche pas de retour**, pas classe astrale immédiate de Samia au II |
+| Suite 8 / 9 | Mort d'Armin en voyage envisagée pour clore vie 6 ; scène de condoléances au village, cousin partant au lac, futur rêve d'Hasol focalisé sur son père | Modalités du voyage/décès et sort du cousin **À DÉFINIR** ; nouvelle répartition à valider, pas reprise automatique de la grille ancienne |
+| Futur II, après apparition des orange | Empereur envoie volontairement Ténébria et son équipe dans un portail orange hors de leurs capacités pour tester la prophétie face à l'existence d'Hasol | Direction auteur 17376–17431 ; mort maintenue, vie/chapitre à raccorder ; remplace la simple réaffectation comme motif |
+| Conclusion II / vie 12 | 20 000 livres par Ténébria, Vision devient Mémoire parfaite, drames submergeant Hasol, souvenir de bébé en dernier et battement de cœur ; dernier usage temporel et suppression | Compteur Vision **abandonné**, pas neuvième usage. **Raccord de placement À DÉFINIR** avec réveil vie 13 à seize ans, notification et répliques DEC-197/198 ; aucun des éléments supprimé implicitement |
+| III | Ténébria découvre avec Ray âme/émotions/éveils ; question de Ray, premier effondrement dans ses bras | CANON futur, Ténébria de marbre au II |
+| III, Hasol niveau 65 | **Héritage runique** actif, stèle/deux mains, moitié des cercles aux Shun, cinq perdus par Hasol, recharge dix ans ; auras violettes dans la ville et notification individuelle | Contrat/paramètres ouverts dans `systeme.md` ; pas gain présent de cercles au II |
+| III, activation puis enquête | Yoon reçoit Héritage, Zio non ; Ray interroge Armin, cousin d'Armin identifié comme père biologique de Yoon | Révélation différée ; Yoon croit jusque-là au même père que Zio |
+| Passé familial connu au III | Père de Zio mort malade **avant naissance de Yoon** ; mère veuve liée au cousin d'Armin puis dépouillée ; décès faute de soins ; Zio protège sa sœur dès quatorze ans | CANON auteur ; aucune infidélité, ni noms/âges supplémentaires fixés |
+| Après disparition des portails au III | **Twin Astrea**, frère aîné d'Iseria, remplace l'empereur ; double mariage impérial Hasol/Zio et Ténébria/Ray, décidé par les sœurs ; bagues choisies ensemble chez Corvus, Ray conseille le modèle reconnu par Hasol | CANON futur 16952–17069 ; modalités de succession/réhabilitation Notos non inventées |
+| Épilogue final III, cheminée | Hasol raconte à son petit-fils ; « Papa me l'avait racontée » lui révèle que son fils a vécu toutes les vies attaché à son âme ; ultime « Mamie, je suis sûr que tu finiras dans les livres d'histoire ! », FIN | CANON 17147–17199 ; aucun commentaire narrateur/épilogue supplémentaire après réplique. Dates/noms/âges ouverts |
+
+**Bébé / secret d'auteur :** menace de fausse couche après mort de Zio, activation initiale par l'enfant pour préserver la descendance Notos ; âme accompagnant les vies, fils naissant dans la dernière. Aucun changement du manuscrit I ni savoir acquis dans les chapitres 4–7. Les formulations anciennes « devenir de l'enfant ouvert » sont remplacées sur ce point ; mécanisme des retours ultérieurs encore ouvert.
+
+### Lecture des grilles antérieures
+
+Les tableaux DEC-145 et DEC-118–149 plus bas sont conservés comme **provenance historique des placements remplacés**. Ne pas les traiter comme une nouvelle grille active des vies 6–12 : l'apport propose un décalage des drames sans validation globale de tous les âges/titres. Les faits inchangés, dont seize chapitres cibles, vie 13, limites de groupe, portails rouges au III et Zio mort/Yoon vivante en vie 11, restent conservés. Pas de chapitre 8 rédigé ni autorisé par cette synchronisation.
+
 ## Révélations futures du III et passé d’auteur — DEC-199
 
 Sources, citations et statuts : [`../docs/secrets_clans_runes_2026_11_27.md`](../docs/secrets_clans_runes_2026_11_27.md), relecture ciblée 4700–5664. **Pas nouveaux événements racontés ni découpage du III validé.**
@@ -128,9 +171,9 @@ Source : `../livre_2_le_vertige_des_vies_oubliees.md` ; note `../docs/integratio
 
 **Révision conjointe en attente de validation auteur :** le tableau canonique ci-dessous conserve les inconnues. La grille suivante propose de les organiser pour la reprise du plan II ; aucun âge ou placement proposé ne devient canon avant validation des deux documents ensemble.
 
-### Grille validée du livre II — DEC-145/147/149
+### Grille historique du livre II — DEC-145/147/149, placements remplacés par la réception du 28 novembre
 
-Les âges du tableau sont canoniques lorsqu’ils sont chiffrés. Les niveaux et cercles de la colonne « sauvegarde » sont les états restaurés au retour, non des cumuls entre vies. L’équipement reste à préparer.
+Les âges, niveaux et cercles ci-dessous étaient ceux de la grille DEC-145. **Ne plus appliquer aux vies 3–5** ces états et drames remplacés par les chapitres 4–7 ; les vies suivantes nécessitent une révision conjointe avec le plan. Les nombres ne se cumulent jamais entre vies. Le tableau actif de réception figure en tête.
 
 | Vie | Chapitres | Point sauvegardé : âge / niveau / cercles | Événements dans l’ordre |
 |---|---|---|---|
@@ -149,7 +192,7 @@ Les âges du tableau sont canoniques lorsqu’ils sont chiffrés. Les niveaux et
 
 **Choix de mise en scène soumis avec le plan :** ne montrer qu’une fois en détail le cadeau amoureux (vie 3/ch. 5). Les autres vies différencient les liens d’Hasol et Ray sans répéter automatiquement une déclaration. Dans la vie 3, Hasol hésite sincèrement ; elle ne calcule pas encore l’exploitation consciente envisagée au III. La réponse qu’elle aurait donnée reste inconnue.
 
-### Repères validés et inconnues conservées
+### Repères antérieurs et inconnues — lire les remplacements prioritaires en tête
 
 **Complément — DEC-150 à DEC-152, précisé par les chapitres 1 et 2 validés :** en vie 2, les premières semaines d’apprentissage de la lame impressionnent Elric. Trois ans après la Révélation d’Hasol, Yoon et Samia ont seize ans et passent leur Révélation dans la même cérémonie ; Hasol a dix-neuf ans. Samia : faible lumière violette, **Marcheuse du voile de rang Commun** (DEC-181) ; Yoon : légendaire dès cette vie, pas seulement à partir de la vie 4. Les deux cercles de Samia dès neuf ans et sa rencontre avec Hasol à treize ans sont racontés au chapitre 1 validé, sans mécanisme causal inventé.
 
@@ -197,7 +240,7 @@ Les âges du tableau sont canoniques lorsqu’ils sont chiffrés. Les niveaux et
 
 **À arbitrer en priorité :** vie et âge lors du cadeau amoureux, temps avant le drame et identité de ce drame parmi les jalons existants ; âges des drames des vies 2–5 et 7–10 ; calendrier de la transformation de Vision en Mémoire parfaite en vie 12 (DEC-197). Aucun âge de la première vie n’est automatiquement transféré aux autres.
 
-## *Le Vertige des vies oubliées* — trajectoire future du livre II, priorité DEC-118 à DEC-139
+## *Le Vertige des vies oubliées* — trajectoire historique DEC-118 à DEC-139, placements actualisés en tête
 
 **Structure validée — DEC-130, actualisée jusqu’à DEC-149 :** seize titres et vies 2–12 selon `PLAN_LIVRE_II.md`, avec conclusion brève en vie 13. Les anciens drames ouverts sont résolus ; les paramètres explicitement non chiffrés restent à préparer. Cette validation n’autorise aucun chapitre.
 

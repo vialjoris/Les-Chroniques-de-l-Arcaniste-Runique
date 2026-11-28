@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="274" viewBox="0 0 680 274" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">Portail bleu Démons : niveau 30 Boss : niveau 50 Capacité du raid : 100 points Délai avant ouverture : 48 heures</desc>
+<rect x="4" y="7" width="672" height="264" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="267" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Portail</text>
+<text x="139.60" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="145.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="52.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">bleu</text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="72.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Démons</text>
+<text x="100.36" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="104.68" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="109.00" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="113.32" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="57.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">niveau</text>
+<text x="170.56" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="174.88" y="114.60" font-size="18" font-weight="700" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">30</text>
+<text x="28.00" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Boss</text>
+<text x="71.20" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="75.52" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="79.84" y="152.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="84.16" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="57.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">niveau</text>
+<text x="141.40" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="145.72" y="152.30" font-size="18" font-weight="700" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">50</text>
+<text x="28.00" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="79.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Capacité</text>
+<text x="107.92" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="112.24" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">du</text>
+<text x="134.92" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="139.24" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="33.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">raid</text>
+<text x="172.72" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="177.04" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="181.36" y="190.00" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="185.68" y="190.00" font-size="18" font-weight="700" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">100</text>
+<text x="218.08" y="190.00" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="222.40" y="190.00" font-size="18" font-weight="700" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">points</text>
+<text x="28.00" y="227.70" font-size="18" font-weight="400" fill="#242424" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Délai</text>
+<text x="71.20" y="227.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="75.52" y="227.70" font-size="18" font-weight="400" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">avant</text>
+<text x="125.20" y="227.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="129.52" y="227.70" font-size="18" font-weight="400" fill="#242424" textLength="85.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ouverture</text>
+<text x="214.84" y="227.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="219.16" y="227.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text x="223.48" y="227.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="227.80" y="227.70" font-size="18" font-weight="700" fill="#242424" textLength="21.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">48</text>
+<text x="249.40" y="227.70" font-size="18" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="253.72" y="227.70" font-size="18" font-weight="700" fill="#242424" textLength="59.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">heures</text>
+</svg>

@@ -1,5 +1,61 @@
 # Système LitRPG — Règles runiques
 
+## Règles prioritaires — apport intégral du 28 novembre 2026
+
+Source : `docs/conversation/28_11_2026.txt`, 17 431 lignes lues intégralement. Distinguer les faits racontés des chapitres 4–7, dont l’intégration est autorisée, des futurs de préparation du 8 et des révélations du III. Les anciennes notices ci-dessous sont historiques **uniquement sur les champs explicitement remplacés dans cette section** ; aucun autre contrat n'est annulé.
+
+**Statut des validations :** validations mobiles retrouvées pour les chapitres **4, 6 et 7** ; l’utilisateur désigne **5/6/7 comme validés dans son GO local**, qui autorise leur intégration et les corrections journalisées. **Aucune citation mobile autonome de validation littéraire du chapitre 5 n’a été retrouvée** ; son intégration est autorisée localement (DEC-202), sans attribuer au mobile une validation non sourcée.
+
+### Vision et sauvegardes : compteurs supprimés, pas omniscience
+
+- **CANON auteur, 7977–8026 :** abandon de toute limite/compteur d'utilisations de Vision, pour Hasol comme pour Iseria. Le nombre des visions d'Iseria sera fixé au III ; ne plus maintenir 3/9, six restants, quatre/cinq ou douze initiaux. Les réveils et transitions distinguent la mise en scène, pas un débit désormais inexistant.
+- **CANON auteur, 8028–8041 :** Iseria perd la Rune de Vision **à l'accouchement d'Hasol** ; son pouvoir est transmis à sa fille. Conditions détaillées, contenu des anciennes visions et maîtrise d'Iseria à développer au III. Ne pas lui attribuer après l'accouchement une réserve de visions active par déduction.
+- Les rêves d'Hasol sont involontaires, contiennent des fragments des vies précédentes et ne lui révèlent pas l'existence de ses retours. La scène Carmela/rapport conserve son exception ciblée DEC-193 : Hasol peut voir/entendre une scène où elle était absente, **sans** généralisation à une lecture des pensées, du rapport ou de tous les secrets. Au chapitre 7 elle entend le prénom, puis identifie la femme par documents, portrait et rencontre.
+- **Présentation :** l'existence, le nom et le mécanisme de Vision restent cachés au lecteur jusqu'à la conclusion du II ; classe réelle d'Iseria réservée au III selon DEC-200/201. Les pensées d'Iseria du 4 et indices Shun du 7 ne constituent pas une fenêtre révélant ces secrets.
+- **Sauvegardes racontées, remplaçant DEC-145 pour ces vies :** vie 3 = lendemain du don des tenues écarlates ; vie 4 = nuit avant séparation Académie/village ; vie 5 = avant interrogation de Ray par les enquêteurs, pendant préparatifs. Âges, niveaux, cercles au point exact non chiffrés ; ne pas recycler 23/24/16, 16/1/2 ou 21/22/15. L'état avant le point est conservé, pas le bilan adulte acquis après lui, aucun cumul d'inventaires entre vies.
+- **Raccord résolu — CANON, DEC-214 :** l’auteur confirme localement que Ray n’a pas changé de classe, le retour étant postérieur à sa Révélation. **Mage de feu Commun, cinq points**, conservé en vie 4 et dans la continuité des chapitres 6–7. Le placement Stratège rare dès vie 4 de DEC-133 est historique et remplacé, y compris ses reprises ci-dessous ; ce futur profil reste prévu sans nouvelle vie/date ni règle universelle fixée. Aimant est déjà acquis avant cette sauvegarde, sans seconde acquisition racontée.
+
+### Aura / Siphon, équipes et capacités réellement utilisées
+
+- Correction auteur 6358–6410 : **Aura imprègne une arme**, n'est pas une explosion offensive de zone. Siphon est l'onde de Vent pour dégâts/récupération de Mana dans les scènes de zone. Dans le rêve du loup, Aura Terre et deux frappes sont conservées, sans explosion autonome.
+- Les formulations abrégées « sous critique » ne remplacent pas DEC-075 : critique **au lancement d'Aura**, Infiltration durant ses trente premières secondes (évolution au 50 distincte), pas pénétration déclenchée à chaque critique de l'épée. Chaque activation coûte 200 Mana et détruit une rune de réserve ; arme à aura personnelle niveau 10 minimum. Le récit ne débite pas les pierres équipées ou clientes par défaut.
+- Siphon acquis par Hasol au 40 dans le 4 : 120 % PA, restitution de 75 % des dégâts en Mana, rayon 8 m, 100 Mana, 20 s, plafond 1 200 Mana. Pas coefficient nouveau ; explication naturelle dans le dialogue, valeurs dans la fiche.
+- Ray présente au 4 les paliers canoniques 30/Mur de flammes, 40/Déflagration et Combustion maîtrisée, 50/Fournaise. Déflagration = explosion sur point visible, **pas projectile** ; Fournaise = zone maintenue par concentration avec consommation continue. Ni Mana illimité ni absence de danger pour les alliés. Pas reprise automatique du niveau 50 comme niveau final après toutes les ellipses.
+- Trio permanent Hasol 25 + Yoon 20 + Samia 5 = **50 points**, sans Ray/Zio ajoutés. Au 4, raid de 100 points = Hasol/Yoon/Samia/Ray (55) + neuf communs (45), **13 chasseurs**. Les points ne sont pas un effectif maximal. Au 6, Ray Commun confirmé par DEC-214 : Ray/Yoon/Zio représentent **35 points**, et les cinq héros réunis **65 points de raid**, pas un groupe permanent légal à 50. Ne pas inventer l’effectif exact du raid. Répartition Académie/village puis renforts ne supprime ni les seuils de portail ni le minimum de trois en donjon.
+- Samia : Écho/Vision donnent positions dans les zones explorées et couleurs, ni heure exacte ni ancienneté du portail. Traversée = court déplacement vers point visible, pas téléportation à travers obstacle fermé. Chant de Yoon reste une zone autonome de soin progressif, sans guérison instantanée de blessures graves. Les autres paliers non exposés ne sont pas déclarés acquis à partir d'une ellipse.
+- Bilan du 4 : 32 puis 36 cercles, neuf puis dix activations ; second Fatal augmente les dégâts et donc le rendement du vol de vie, pas son pourcentage. Ce jalon de **vie 3** ne fixe pas le bilan de fin du II/III ; après les ellipses des 5–7, niveaux/équipement final non exposés. Fiches et réserves dans `runes.md`, aucun affixe choisi dans ce lot.
+
+### Âme et Révélation — CANON d'auteur, découverte au III seulement
+
+Décisions 13773–13937, 16222–16275 et validation 17131–17145 : **héritage sanguin = prédispositions ; état de l'âme = rareté ; aspirations profondes = orientation de classe**. L'âme conserve les émotions accumulées malgré les retours et l'absence de mémoire consciente. Les êtres astraux développent leur pouvoir par absorption des émotions négatives ; les légendaires nécessitent une grande ascendance et une âme très heureuse. Pas de seuil, calcul de points émotionnels, hérédité automatique ou rareté garantie inventés.
+
+Ténébria, privée d'amour enfant, est astrale dès sa première Révélation. Hasol/Samia portent les drames des vies ; Yoon légendaire après le bonheur du I auprès d'Hasol et Zio. Yoon aspire à soigner après la mort de sa mère ; Zio à protéger sa sœur. Ces vérités n'en font ni une soigneuse pure ni un Gardien invulnérable. **Ténébria établit le lien avec Ray à ses côtés au III** ; demeure de marbre au II, première rupture émotionnelle devant le lecteur dans les bras de Ray au III. Aucune explication acquise par Hasol au 7.
+
+### Héritage runique — CANON futur du III, 16361–16729
+
+| Champ | Contrat validé |
+|---|---|
+| Déblocage | Hasol, niveau **65**, naturellement par montée de niveau, au III |
+| Type / nom | **Actif : Héritage runique**, remplace la proposition de passif et le nom provisoire Stèle runique ancestrale |
+| Activation | Invoque une stèle runique ; le lanceur pose ses deux mains dessus |
+| Bénéficiaires | Membres du clan Shun ; Ténébria, fille d'Armin, et Yoon de sang Shun en bénéficient ; **Zio non** |
+| Gain | Chacun reçoit **la moitié des cercles du lanceur**, ajoutée à ses propres cercles |
+| Coût | **5 cercles perdus par Hasol au total**, pas cinq par bénéficiaire |
+| Recharge | **10 ans** |
+| Inscription | **« Disparaît en même temps que les portails. »** |
+| Manifestation | Auras violettes montant au ciel ; vue de la ville avec de nombreuses auras dispersées, ampleur du clan insoupçonnée ; aucun effectif chiffré |
+| Notification individuelle | « Réception de l'héritage runique », ajout de X cercles, en échange du sacrifice de 5 cercles de Hasol Shun |
+
+**À DÉFINIR :** arrondi si nombre impair, assiette avant/après coût (calcul avant coût proposé par l'assistant à 16431 puis repris à 16721, **pas arbitrage direct isolé**), durée/permanence des cercles reçus, devenir après disparition de la compétence, portée exacte, cas du lanceur parmi les bénéficiaires, conditions individuelles, runes devenant excédentaires après la perte de cinq cercles. La permanence n'est qu'une proposition, pas donnée certaine. La notification ne valide pas implicitement tous ces paramètres. L'exemple de cent cercles n'est pas un inventaire futur d'Hasol.
+
+L'activation révèle l'ascendance Shun de Yoon, non une nouvelle classe ; Ray demandera ensuite à Armin ce qu'il sait du cousin ayant fréquenté sa mère. Ténébria pourra conquérir des portails seule selon la direction auteur ; cela **n'abroge pas le minimum de trois en donjon**. Shun créateurs des runes/responsables ancestraux du salut : direction développée et approuvée autour de la compétence, pas protocole de fabrication ni attribution individuelle des quatre ancestrales.
+
+### Temporelle, bébé et conclusion — vérité d'auteur / limites de raccord
+
+16088–16220 : la Rune temporelle préserve la descendance Notos menacée ; le bébé de Zio et Hasol est le déclencheur initial, face à la fausse couche imminente après la mort de Zio. Son âme reste attachée à Hasol, accompagne les vies avec leurs souvenirs ; il naîtra comme leur fils dans la dernière vie. Hasol ne découvre sa présence continue que grand-mère, par la parole de son petit-fils à la fin du III. Aucun savoir anticipé, grossesse actuelle au II ou transport de corps inventé. La proposition de condition initiale puis retours émotionnels autonomes (16145–16149) **reste non arbitrée** ; ne pas déduire un mécanisme universel de toutes les réactivations.
+
+Vision devient **Mémoire parfaite** en fin du II : l'abandon du compteur n'annule pas les 20 000 livres par Ténébria et la chaîne DEC-197/198. L'apport 16088 enrichit le bouleversement par tous les drames, souvenir du bébé en dernier et battement de cœur. **Raccord de placement À DÉFINIR** avec réveil final à seize ans, notification de destruction incomprise et répliques déjà validées : pas suppression implicite de l'une de ces clôtures. Mémoire parfaite donne les souvenirs connus, pas des secrets jamais appris ; l'âme du fils et le sens du battement restent révélés au III. Le statut « enfant sans devenir fixé » des notices antérieures est historique sur ce point.
+
 ## Secrets des runes et clans — futur documentaire, DEC-199
 
 Source et citations : [`../docs/secrets_clans_runes_2026_11_27.md`](../docs/secrets_clans_runes_2026_11_27.md), extrait 4700–5664, pas archive intégrale.
@@ -13,13 +69,9 @@ Source et citations : [`../docs/secrets_clans_runes_2026_11_27.md`](../docs/secr
 
 Ray apprendra la traduction auprès d’Iseria et découvrira les informations par l’ouvrage des quatre runes, puis parenté et histoire Shun ; scènes/chronologie à préparer. Mobilité interportails de Samia : PROPOSITION (4999), nom et paramètres assistant non validés. La réserve DEC-198 interdit de déduire ces secrets du seul logo : elle ne nie pas leur existence dans le lore d’auteur. Mémoire parfaite ne les fournit pas à Hasol s’ils n’ont jamais été appris. Aucun inventaire matériel ou effet acquis ajouté.
 
-## Vision à l’ouverture du chapitre 4 du II — CANON ciblé, DEC-196
+## Historique du décompte Vision — DEC-196 remplacée par l'apport du 28 novembre
 
-**Limite de présentation — DEC-198 :** le décompte 3/9, six restants est interne documentaire, pas une notification visible au lecteur. L’existence, le nom et le mécanisme de la Rune de Vision ne sont révélés au lecteur qu’en conclusion du II ; les visions antérieures restent mystérieuses. Aucun savoir préalable précis d’Iseria ou d’Hasol n’est déduit de ce choix éditorial.
-
-Rectification directe de l’auteur en session locale du 27 novembre 2026, après DEC-195 : **trois visions/utilisations pour Hasol**, dans l’ordre **sort (Siphon), bibliothèque, scène de la mort de Ray**. Sur les neuf usages annoncés pour Hasol, **trois sont consommés et six restent**, et non quatre/cinq. Les réveils et le découpage narratif de cette ouverture ne créent pas d’usage supplémentaire.
-
-Le chapitre 4 est **validé mais pas intégré**, sans réécriture ; ce suivi documentaire n’ajoute aucune acquisition ou fiche d’inventaire. Aucune règle universelle « un fragment = un usage », de réinitialisation ou applicable aux autres vies n’est déduite. La conclusion est arbitrée par **DEC-197**, sans préciser la consommation des six usages restants ni qualifier la transformation de neuvième usage. Source et chronologie de l’audit : [note de réception](../docs/reception_conversation_28_11_2026.md), DEC-195 à DEC-197 dans `decisions.md`.
+La rectification locale DEC-196 décrivait le comptage documentaire de l'ouverture du 4. **Tout compteur, plafond ou nombre d'usages restant est désormais abandonné**, tant pour Hasol que pour Iseria (7977–8026). Les réveils validés du 4 sont préservés ; le rêve unique du 6 également. Cette évolution n'annule ni le secret lecteur de Vision jusqu'à la conclusion du II (DEC-198), ni la transformation finale en Mémoire parfaite. Voir les règles prioritaires en tête ; aucune notification de charge créée.
 
 ## Mémoire ciblée et questions de sauvegarde — DEC-189/191/193, 27 novembre 2026
 
@@ -38,7 +90,7 @@ L’auteur souhaite éviter les retours à seize ans au II (DEC-191). Âge/état
 remplacement et vies concernées restent ouverts ; **DEC-197 confirme explicitement
 le retour final à seize ans vers la vie 13**, sans arbitrer les autres sauvegardes. La grille ancienne est une
 base historique/incomplète à réviser avec le plan, pas une source de nouveaux
-états déductibles. Vérifier Ray rare en vie 4, Aimant, Révélation, mémoire,
+états déductibles. Appliquer Ray Commun aux 6–7 (DEC-214) ; vérifier Aimant, Révélation, mémoire,
 niveaux et cercles sans inventer mécanisme de conservation, chiffres ou XP.
 Le lot ne change ni âge de Révélation comme règle générale ni règle de cumul.
 
@@ -105,11 +157,11 @@ Le passif est présent dès qu’Hasol reconnaît Ténébria comme sa sœur. La 
 
 Un membre Astrea astral dans le groupe bénéficie du passif. Ténébria a ses **propres compteurs**, qui augmentent seulement lorsqu’elle est dans le groupe d’Hasol ; aucun transfert des compteurs d’Hasol ni dérogation aux règles d’accès en donjon. Seuils transmis, crédit des éliminations, état hors groupe et reports entre vies restent **À DÉFINIR**. Le savoir permettant la reconnaissance après retour n’est pas fixé par cette correction : préserver DEC-132, sans souvenir familial automatiquement conservé.
 
-## Points de sauvegarde temporels — CANON, DEC-145/149
+## Points de sauvegarde temporels — cadre DEC-145/149, grille historique à réviser
 
 - La Rune temporelle choisit seule un point de sauvegarde variable ; Hasol ne contrôle ni sa date ni son moment. Hormis le premier retour à la veille de la Révélation, le point ne précède jamais le jour de la Révélation.
 - Niveau, cercles et compteurs retrouvent leur état sauvegardé ; ils ne s’additionnent pas entre vies. L’équipement et les paramètres non consignés ne sont pas déduits du tableau.
-- Points validés : vie 2, veille de la Révélation/niveau 1 à la Révélation/2 cercles ; vie 3, 23 ans/24/16 ; vie 4, 16 ans/1/2 ; vie 5, 21 ans/22/15 ; vie 6, 23 ans/27/18 ; vie 7, 18 ans/12/8 ; vie 8, 30 ans/34/28 ; vie 9, 24 ans/27/20 ; vie 10, 27 ans/31/23 ; vie 11, 32 ans/39/28 ; vie 12, 38 ans/45/34.
+- **Grille historique, remplacée pour les vies 3–5 et à réviser pour les suivantes selon l’apport du 28 novembre en tête :** vie 2, veille de la Révélation/niveau 1 à la Révélation/2 cercles ; vie 3, 23 ans/24/16 ; vie 4, 16 ans/1/2 ; vie 5, 21 ans/22/15 ; vie 6, 23 ans/27/18 ; vie 7, 18 ans/12/8 ; vie 8, 30 ans/34/28 ; vie 9, 24 ans/27/20 ; vie 10, 27 ans/31/23 ; vie 11, 32 ans/39/28 ; vie 12, 38 ans/45/34.
 - La vie 13 commence à seize ans, le jour de la Révélation. La Rune est alors détruite ; aucun nouveau retour.
 - Un changement de classe ne modifie jamais les statistiques naturelles déjà acquises. Aucune courbe intermédiaire n’en est déduite.
 
@@ -615,11 +667,11 @@ Progression propre à Zio, validée par l'auteur ; ce n'est pas un calendrier un
 
 **Direction de progression au II — CANON, DEC-136 :** Hasol termine le tome nettement plus puissante que dans la première vie. Cette direction repose sur trois facteurs établis : portails présents tôt et urgence permanente de chasse, progression artisanale accélérée, Armin maintenu vivant dans les vies ultérieures pour gérer les affaires Shun et réduire sa charge administrative. Elle ne fixe aucune formule, courbe, quantité d’éliminations, réussite automatique d’amélioration, niveau, total de cercles ou équipement.
 
-## 17. Ray : mage de feu au I, Stratège runique rare en vie 4
+## 17. Ray : Mage de feu Commun ; futur Stratège runique rare sans placement fixé
 
 Ray reste de classe commune. Son répertoire repose sur des techniques directes, rendues efficaces par la maîtrise, les choix tactiques et les runes, sans pouvoirs exceptionnels supplémentaires déduits de ses cercles. Progression individuelle, pas calendrier universel des classes.
 
-**Actualisation ciblée — DEC-133 :** cette classe commune et le répertoire ci-dessous concernent le livre I et les vies où ils sont attestés. En vie 4, Ray devient **Stratège runique rare**, dix points. Son répertoire, ses caractéristiques, ses cercles et son équipement restent **À DÉFINIR** ; ne pas copier automatiquement ses sorts de feu ni modifier rétroactivement le I.
+**Actualisation ciblée — DEC-214, remplace le placement de DEC-133 :** cette classe commune et le répertoire ci-dessous concernent le livre I et les vies où ils sont attestés, dont les vies 4–5 aux chapitres 6–7 : retour après sa Révélation, sans changement de classe. Le futur **Stratège runique rare**, dix points, reste prévu sans nouvelle vie/date fixée. Son répertoire, ses caractéristiques, ses cercles et son équipement restent **À DÉFINIR** ; ne pas lui attribuer automatiquement les sorts de feu du Mage ni modifier rétroactivement le I.
 
 | Niveau | Type | Compétence | Effet et limites validés |
 |---|---|---|---|
@@ -662,7 +714,7 @@ Hasol reste Arcaniste runique légendaire au livre I, vingt points. Dans les nou
 
 Cette liste explicite remplace la simplification « anciens passifs seulement » et l'ancien réapprentissage rapide de Main. Elle n'accorde pas toutes les actives anciennes ni le sort offensif du niveau 40. **Aimant suit désormais DEC-148 ; Mémoire runique reste inaccessible avant R11**. L'accès à Croissance avant le niveau 10 ne définit pas les seuils d'admissibilité des monstres dans cette tranche.
 
-## 20. Rune temporelle, Vision et Mémoire parfaite — futur CANON, DEC-197 prioritaire
+## 20. Rune temporelle, Vision et Mémoire parfaite — cadre DEC-197/198, raccord du 28 novembre en tête
 
 - **Précisions de conclusion — DEC-198 :** après l’ultime usage et la suppression de la Rune temporelle, la notification de destruction apparaît **au réveil final à seize ans**, après le retour et avant les phrases de clôture. Distinguer la suppression effective du moment d’affichage, sans fixer un timing mécanique supplémentaire. Hasol ne comprend pas cette notification malgré Mémoire parfaite : celle-ci ne fournit aucune explication jamais connue ni omniscience. La rune portait le **logo du clan Notos**, piste motivant sa volonté d’en apprendre davantage sur la Rune temporelle ; dessin, origine, auteur, hérédité, lien causal ou complicité de Zio et quête détaillée non définis par cet indice.
 - **Comptage :** vie 1 au livre I ; R1 à R11 = vies totales 2 à 12 au livre II ; vie 13 au livre III. Le premier retour mène à la veille de la Révélation. Les suivants utilisent les points de sauvegarde variables validés par DEC-145. Après la dernière activation, la vie 13 commence à seize ans, **le jour de la Révélation** (DEC-149).

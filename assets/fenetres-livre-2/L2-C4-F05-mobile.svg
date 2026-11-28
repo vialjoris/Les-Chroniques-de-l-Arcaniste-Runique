@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="489" viewBox="0 0 320 489" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">Nouvelles compétences · Niveau 40 Déflagration Compétence active · Feu Provoque une explosion de feu autour d&#x27;un point visible. Combustion maîtrisée Compétence passive Réduit les pertes de Mana lors de l&#x27;utilisation des sorts de feu.</desc>
+<rect x="4" y="7" width="312" height="479" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="314" height="482" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<text x="56.00" y="45.00" font-size="24" font-weight="700" fill="#A17B35" textLength="116.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nouvelles</text>
+<text x="56.00" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="160.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">compétences</text>
+<text x="216.92" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="222.32" y="84.60" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">·</text>
+<text x="56.00" y="124.20" font-size="24" font-weight="700" fill="#A17B35" textLength="81.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="137.00" y="124.20" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="142.40" y="124.20" font-size="24" font-weight="700" fill="#A17B35" textLength="30.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">40</text>
+<path d="M20 148.79999999999998h280" stroke="#D8BF8F"/>
+<text x="20.00" y="192.80" font-size="20" font-weight="700" fill="#242424" textLength="119.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Déflagration</text>
+<text x="20.00" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="114.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Compétence</text>
+<text x="134.48" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="138.80" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="54.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">active</text>
+<text x="192.80" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="197.12" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">·</text>
+<text x="201.44" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="205.76" y="231.80" font-size="18" font-weight="400" fill="#242424" textLength="33.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Feu</text>
+<text x="20.00" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="85.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Provoque</text>
+<text x="105.32" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="109.64" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">une</text>
+<text x="142.04" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="146.36" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="85.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">explosion</text>
+<text x="231.68" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="236.00" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
+<text x="258.68" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="263.00" y="269.50" font-size="18" font-weight="400" fill="#242424" textLength="29.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">feu</text>
+<text x="20.00" y="299.20" font-size="18" font-weight="400" fill="#242424" textLength="58.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">autour</text>
+<text x="78.32" y="299.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="82.64" y="299.20" font-size="18" font-weight="400" fill="#242424" textLength="37.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">d&#x27;un</text>
+<text x="120.44" y="299.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="124.76" y="299.20" font-size="18" font-weight="400" fill="#242424" textLength="46.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">point</text>
+<text x="171.20" y="299.20" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="175.52" y="299.20" font-size="18" font-weight="400" fill="#242424" textLength="59.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">visible.</text>
+<text x="20.00" y="343.90" font-size="20" font-weight="700" fill="#242424" textLength="118.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Combustion</text>
+<text x="138.80" y="343.90" font-size="20" font-weight="700" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="143.12" y="343.90" font-size="20" font-weight="700" fill="#242424" textLength="91.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">maîtrisée</text>
+<text x="20.00" y="382.90" font-size="18" font-weight="400" fill="#242424" textLength="114.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Compétence</text>
+<text x="134.48" y="382.90" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="138.80" y="382.90" font-size="18" font-weight="400" fill="#242424" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">passive</text>
+<text x="20.00" y="420.60" font-size="18" font-weight="400" fill="#242424" textLength="56.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Réduit</text>
+<text x="76.16" y="420.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="80.48" y="420.60" font-size="18" font-weight="400" fill="#242424" textLength="24.84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">les</text>
+<text x="105.32" y="420.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="109.64" y="420.60" font-size="18" font-weight="400" fill="#242424" textLength="57.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">pertes</text>
+<text x="166.88" y="420.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="171.20" y="420.60" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
+<text x="193.88" y="420.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="198.20" y="420.60" font-size="18" font-weight="400" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mana</text>
+<text x="247.88" y="420.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="252.20" y="420.60" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">lors</text>
+<text x="20.00" y="450.30" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
+<text x="42.68" y="450.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="47.00" y="450.30" font-size="18" font-weight="400" fill="#242424" textLength="95.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">l&#x27;utilisation</text>
+<text x="142.04" y="450.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="146.36" y="450.30" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">des</text>
+<text x="178.76" y="450.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="183.08" y="450.30" font-size="18" font-weight="400" fill="#242424" textLength="45.36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">sorts</text>
+<text x="228.44" y="450.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="232.76" y="450.30" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
+<text x="255.44" y="450.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="259.76" y="450.30" font-size="18" font-weight="400" fill="#242424" textLength="33.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">feu.</text>
+</svg>

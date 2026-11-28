@@ -233,6 +233,33 @@ def before_approved_rune_corrections(source):
     return source
 
 
+def historical_book_ii(source):
+    """Isoler les 1–3 intacts ; seules les quatre entrées de sommaire sont retirées.
+
+    Longueur issue de livre-II-avant.md, identique à HEAD avant intégration.
+    L'empreinte existante du journal de bulles reste la preuve, sans nouvelle baseline.
+    """
+    boundary = re.search(r'\n---\n\n<span id="chapitre-4"></span>\n\n## Chapitre 4 — ', source)
+    if boundary is None:
+        return source
+    prefix = source[:boundary.start()]
+    for number in range(4, 8):
+        title = re.search(rf'^## (Chapitre {number} — [^\n]+)$', source, re.M)
+        if title is None:
+            raise ValueError("Extension II incomplète")
+        link = f'{number}. [{title[1]}](#chapitre-{number})\n'
+        if prefix.count(link) != 1:
+            raise ValueError("Entrée de sommaire ajoutée absente ou dupliquée")
+        prefix = prefix.replace(link, '', 1)
+    if len(prefix) != 250472:
+        raise ValueError("Borne historique II altérée")
+    stage = json.loads((Path(__file__).parent / "fixtures" /
+                        "bulles_20261127_inverse.json").read_text(encoding="utf-8"))["2"]
+    if digest(prefix) != stage["after_sha256"]:
+        raise ValueError("Chapitres 1–3 ou sommaire historique II altérés")
+    return prefix
+
+
 def before_bubble_presentation(source, book=1):
     """Inversion fermée pour appliquer les anciennes preuves, jamais pour le rendu courant."""
     if "data-rarity=" not in source:

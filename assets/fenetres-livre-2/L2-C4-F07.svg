@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="312" viewBox="0 0 680 312" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">Nouvelle compétence · Niveau 50 Fournaise Compétence active · Feu Crée une zone de flammes intenses maintenue par la concentration du lanceur. Consomme du Mana tant que la compétence est maintenue.</desc>
+<rect x="4" y="7" width="672" height="302" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="305" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="104.76" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nouvelle</text>
+<text x="168.76" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="174.16" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="149.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">compétence</text>
+<text x="323.20" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="328.60" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">·</text>
+<text x="334.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="339.40" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="81.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Niveau</text>
+<text x="420.40" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="425.80" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="30.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">50</text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="121.60" font-size="20" font-weight="700" fill="#242424" textLength="95.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Fournaise</text>
+<text x="28.00" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="114.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Compétence</text>
+<text x="142.48" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="146.80" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="54.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">active</text>
+<text x="200.80" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="205.12" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">·</text>
+<text x="209.44" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="213.76" y="160.60" font-size="18" font-weight="400" fill="#242424" textLength="33.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Feu</text>
+<text x="28.00" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="41.04" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Crée</text>
+<text x="69.04" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="73.36" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="32.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">une</text>
+<text x="105.76" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="110.08" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="43.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">zone</text>
+<text x="153.28" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="157.60" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">de</text>
+<text x="180.28" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="184.60" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">flammes</text>
+<text x="260.20" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="264.52" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="74.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">intenses</text>
+<text x="339.04" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="343.36" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="92.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">maintenue</text>
+<text x="436.24" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="440.56" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="29.16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">par</text>
+<text x="469.72" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="474.04" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="15.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">la</text>
+<text x="489.16" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="493.48" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="125.28" lengthAdjust="spacingAndGlyphs" xml:space="preserve">concentration</text>
+<text x="618.76" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="623.08" y="198.30" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">du</text>
+<text x="28.00" y="228.00" font-size="18" font-weight="400" fill="#242424" textLength="69.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">lanceur.</text>
+<text x="28.00" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="101.52" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Consomme</text>
+<text x="129.52" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="133.84" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="22.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">du</text>
+<text x="156.52" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="160.84" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="49.68" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mana</text>
+<text x="210.52" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="214.84" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="36.72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">tant</text>
+<text x="251.56" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="255.88" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="33.48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">que</text>
+<text x="289.36" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="293.68" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="15.12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">la</text>
+<text x="308.80" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="313.12" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="111.24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">compétence</text>
+<text x="424.36" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="428.68" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="28.08" lengthAdjust="spacingAndGlyphs" xml:space="preserve">est</text>
+<text x="456.76" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="461.08" y="265.70" font-size="18" font-weight="400" fill="#242424" textLength="97.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">maintenue.</text>
+</svg>

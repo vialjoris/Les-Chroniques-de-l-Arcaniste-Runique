@@ -1,5 +1,46 @@
 # Le Vertige des vies oubliées — Plan du livre II en seize chapitres
 
+## Actualisation prioritaire — suite mobile, DEC-202 à DEC-213
+
+Source relue intégralement : `docs/conversation/28_11_2026.txt:1–17431` ; [note de réception et raccords](docs/reception_suite_conversation_28_11_2026.md). **Cet addendum prime les champs remplacés des blocs suivants**, conservés comme historique de préparation. Il ne valide pas une nouvelle grille complète ni des paramètres absents. Intégration locale 5/6/7 et corrections journalisées autorisées par la demande actuelle ; pas d’attestation d’import effectif ici, pas de chapitre 8 rédigé ni publication/commit/push.
+
+### Chapitres retenus et nouvelle trajectoire racontée
+
+| Chapitre | Version source retenue | Statut / jalons |
+|---|---|---|
+| 4 — Cette fois, avec moi | I–XI 2662–4082 + XII 4803–5115, sans instruction 4805 | Base validée 4298, nouvelle fin validée 6407–6408 ; Anneau, déclaration et **fiançailles en fin du 4**. |
+| 5 — Le village sur la carte | 6412–7624 + raccord Zio 7647–7731 + paroles du cousin | Intégration autorisée localement, pas de validation littéraire mobile autonome retrouvée. Aimant après combat avec Anneau ; Samia meurt en couvrant l’évacuation, famille sauvée dans le texte ; 12 DONG + 3 DING. |
+| 6 — Préparer une place pour les vivants | 9498–10816 | Validé 10828 ; vie 4, retour la nuit avant séparation, Samia et village sauvés ; automatismes Hasol/Zio du I ; mariage interrompu et condamnation d’Iseria ; 12 DONG + 4 DING. |
+| 7 — Le poids du sang | 13941–15839 | Validé 15854, seize sections ; vie 5, Carmela trouvée via autorisation ateliers ; Iseria sauvée mais mariage et fiançailles interdits ; Orven meurt ; 12 DONG + 5 DING. Remplace « Le voyage sans retour ». |
+
+- Aura **n’est pas** une explosion offensive. Raccords DEC-203 : imprégnation/attaques à l’arme pour Aura ; Siphon pour zones **après niveau 40 seulement** ; Infiltration au critique de lancement. Préserver événements, coûts et résultats, sans nouvelle règle de pénétration.
+- Zio au portail de l’Académie sur appel du directeur ; Hasol cache instinctivement sa bague, sans explication. Rêve du 6 : cette scène puis témoignage du cousin, un seul sommeil. Hasol accompagne Samia ; Ray/Yoon/Zio ferment leur portail et viennent avec les volontaires. Coopération et raids distincts d’un groupe permanent, aucun relèvement implicite des plafonds.
+- Au 7, découverte **seulement** de l’autorisation « Carmela A. » dans la pièce ; pas carnets de grossesse ni sœur déjà identifiée. Ray apprend les cauchemars et aide à l’audience ; Hasol, puis Yoon/Samia apprennent la parenté impériale. Proche apportant le rapport sans nom/sexe/fonction imposés, conformément à DEC-193.
+- Carmela protège Iseria, pas la liberté matrimoniale : rupture imposée pour éviter les enfants interdits par l’empereur. Hasol garde l’Anneau mais évite les tête-à-tête, non par désamour. Samia devient interlocutrice de recherche, sans nouvel ensemble acquis déduit.
+- Orven au 7 : visites d’Iseria négligées pendant préparatifs ; toux constatée depuis plus d’un mois ; infusion **à temps suffisante**. Ce canon remplace la causalité et l’insuffisance de tisane de DEC-134 pour cette trajectoire ; pas remède universel ni culpabilité morale objective.
+- **Raccord résolu — CANON, DEC-214 :** l’auteur confirme dans l’échange local actuel que Ray n’a pas changé de classe : le retour survient après sa Révélation. **Mage de feu Commun, cinq points**, conservé en vie 4 et dans la continuité des chapitres 6–7. Le placement rare dès vie 4 de DEC-133 est remplacé ; Stratège runique rare reste un futur prévu sans nouvelle vie/date ni condition universelle fixée. Les reprises de cet ancien placement plus bas sont historiques, pas des instructions actives.
+
+### Vision et conclusion du II
+
+**CANON — DEC-204 :** aucun nombre maximal ni compteur de visions pour Hasol/Iseria ; abandon auteur 7977/8003. Les « 3/9 », « quatre utilisations » et « six restantes » ci-dessous sont historiques pour le comptage. Iseria perd Vision à l’accouchement d’Hasol et transmet son pouvoir ; nombre/contenu de ses visions à fixer au III. Réveils littéraires du 4 conservés ; aucune règle universelle réveil = usage. **Secret lecteur jusqu’à la conclusion du II conservé.**
+
+**CANON — DEC-209 :** 20 000 livres par Ténébria → Vision devient Mémoire parfaite, submersion de tous les drames, dernier souvenir du bébé → instabilité/dernier retour. **Battement de cœur en clôture.** Retour final à seize ans, notification temporelle incomprise et promesses DEC-197/198 ne sont pas explicitement retirés. L’auteur rappelle « Cette fois, tout ira bien » (17352) ; **ordre précis avec ce battement final à raccorder**, pas suppression automatique des étapes par la scène ChatGPT 16113–16139. Grossesse remémorée du I, pas actuelle ; pas omniscience.
+
+### Après le 7 : faits reçus, placements non globalement validés
+
+- **8 en préparation, vie 6 :** rêve atelier/Zéphyr/toux puis conversation sur infusion ; Orven sauvé ; Zéphyr mort au raid d’un **bleu** près du village maternel de Samia ; colère de Samia, émotion familière ressentie par Hasol sans comprendre ; culpabilité de l’indice oublié, lèvre mordue au sang, **aucun retour pour Zéphyr**. Nuit avant visite de Zéphyr : sauvegarde proposée, non figée.
+- **Armin/cousin :** scène à préparer de condoléances d’Armin au village, cousin annonçant son départ au lac pour le poisson ; futur rêve où Hasol ne pense qu’à sauver son père et néglige ce détail. Sort du cousin au lac, décès d’Armin et déclencheur suivant non définis ; placement scène au 8/rêve au 9 proposé par ChatGPT.
+- **Ténébria :** empereur l’envoyant volontairement dans un orange impossible pour éprouver la prophétie face à l’existence d’Hasol ; elle meurt. Remplace la simple causalité de réaffectation ; orange au moment chronologique approprié. Ténébria n’a pas tous les éléments d’Hasol et cherche surtout à sortir de son propre cauchemar.
+- **Grille :** condamnation en vie 4 et Orven en vie 5 remplacent les anciens placements ; titres/âges/vies suivants à réconcilier. Tableau ChatGPT 15986–15995 = **proposition**, pas validation globale. Conserver les drames préexistants sans réintroduire une seconde condamnation identique pour remplir la grille.
+
+### Réserves du III nouvellement fixées, pas révélations ajoutées au II
+
+DEC-208–212 : sang/prédisposition, âme/rareté et aspirations/orientation ; négatif astral, bonheur légendaire. Ténébria découvre avec Ray et s’effondre dans ses bras après sa question ; **de marbre au II**. Yoon/Zio demi-fratrie maternelle, cousin Shun père de Yoon, mère veuve non infidèle puis morte faute de soins après vol, Zio protecteur dès quatorze ans. Héritage runique révèle Yoon bénéficiaire et Zio non bénéficiaire, Ray apprend la réponse d’Armin.
+
+**Héritage runique :** actif naturel niveau 65, stèle/mains, moitié des cercles d’Hasol ajoutée aux membres Shun, perte de cinq pour Hasol, recharge dix ans ; disparaît avec les portails ; auras violettes à travers la ville et notifications personnelles. Assiette, arrondis, portée, permanence et devenir des gains non arbitrés. Pas nouvelle autorisation générale de donjon solo.
+
+Bébé Notos déclencheur initial face à la menace de disparition de descendance et de fausse couche ; âme attachée à Hasol, naissance du fils au III et mémoire secrète révélée par son enfant en toute fin. Twin Astrea, frère aîné d’Iseria, succède après disparition des portails ; double mariage Hasol/Zio et Ténébria/Ray, bagues choisies ensemble chez Corvus et même modèle conseillé par Ray à Zio. Épilogue cheminée/petit-fils, ultime réplique **« Mamie, je suis sûr que tu finiras dans les livres d’histoire ! »**, FIN sans suite narrative. Aucun détail de succession ou origine universelle des quatre runes inventé.
+
 ## Frontière des secrets II / III — DEC-199
 
 Voir [`docs/secrets_clans_runes_2026_11_27.md`](docs/secrets_clans_runes_2026_11_27.md) pour la réception ciblée des explications Notos/Shun/Iseria et les statuts distincts. **DEC-197/198 restent prioritaires** : existence, nom et mécanisme de Vision révélés au lecteur seulement en conclusion du II ; chaîne finale inchangée, logo Notos simple piste pour Hasol, notification incomprise malgré Mémoire parfaite. La réserve « aucun lien déduit du logo » ci-dessous ne nie pas les secrets documentés de l’auteur : elle interdit de les faire découler de ce seul indice ou d’en donner la compréhension automatique à Hasol.
@@ -58,7 +99,7 @@ titres et ne change pas les chapitres déjà racontés.
 - **Orientation CANON, modalités ouvertes — DEC-191 :** éviter les retours à
   seize ans au II. Âge/état de remplacement et vies concernées **À DÉFINIR** ;
   **DEC-197 valide l’exception de l’ultime retour à seize ans vers la vie 13**.
-  Les autres sauvegardes ne sont pas réarbitrées. Vérifier Ray rare en vie 4, Aimant et Révélation, niveaux/cercles
+  Les autres sauvegardes ne sont pas réarbitrées. Appliquer Ray Commun aux 6–7 (DEC-214) ; vérifier Aimant et Révélation, niveaux/cercles
   et mémoire, sans inventer de règle de conservation.
 - **Ancien indice de classe au II — DEC-192 remplacée par DEC-200 :** aucune fiche
   révélant la classe d’Iseria au II. Au **III seulement**, Hasol questionne sa mère,
@@ -136,7 +177,7 @@ n’est fixé par cet addendum. Aucune rédaction ou publication autorisée.
 ### Réserves communes avant rédaction
 
 - **CONTRADICTION de nom :** l’auteur écrit *Griffon Ardent* pour le secret maternel ; le I validé et DEC-080 nomment *Griffon d’Argent*. Ne pas les fusionner, créer une seconde guilde ou corriger le I sans arbitrage.
-- **Équipes :** donjon permanent = 3–5 membres, 50 points maximum. Hasol 25 + Yoon légendaire 20 = 45. Ray devient **Stratège runique rare, 10 points, en vie 4** : leur trio vaut alors **55** et n’est pas admissible. Les anciennes compositions avec Ray commun restent historiques pour les vies concernées et ne fixent pas les formations de la vie 4. Utiliser des formations distinctes, pas un relèvement implicite des plafonds.
+- **Équipes — DEC-214 :** donjon permanent = 3–5 membres, 50 points maximum. Hasol 25 + Yoon légendaire 20 + Ray Commun 5 = **50** ; cette compatibilité ne crée pas un trio permanent. Au 6, Ray/Yoon/Zio = **35** et les cinq héros réunis = **65 points de raid**, pas un groupe légal à 50. Le futur Stratège rare n’est plus placé en vie 4 ; ne pas relever implicitement les plafonds.
 - **Elric Arowell — DEC-140 :** Porte-bouclier commun, 5 points, **42 ans et niveau 45** à sa rencontre avec Hasol. Avec Hasol 25 et Yoon 20, il permet une formation exacte à 50 points ; cette compatibilité ne rend pas le trio permanent et n’ajoute pas Ray ou Zio au-delà du plafond.
 - Le vétéran obligatoire et les unités d’entraînement de 100 points sont des **PROPOSITIONS de ChatGPT**, non des règles nouvelles validées. Elric est désormais le mentor nommé par DEC-140 ; cela ne valide ni une obligation universelle d’encadrement ni une équipe permanente Hasol/Yoon/Elric.
 - **Portails :** 100/100/100/250/400 points pour blanc/vert/bleu/violet/orange ; points ≠ effectif. Présage du I (~10 h) reste distinct d’Écho/Vision au II, qui ne donne aucune heure ; l’ouverture intervient 48 h après manifestation.

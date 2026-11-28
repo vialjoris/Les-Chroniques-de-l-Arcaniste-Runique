@@ -1,5 +1,104 @@
 # Inventaire runique
 
+## Livre II — vies 3–5, réception intégrale du 28 novembre 2026
+
+**Suivi des faits racontés des chapitres 4–7, intégration autorisée localement.** Source : `docs/conversation/28_11_2026.txt`, 17 431 lignes lues ; 4 : 2662–4286 avec XII remplacée par 4803–5115 (validation 6407–6410), 5 : 6412–7624 et compléments Zio/témoignage ; 6 : 9498–10816 (validé 10828) ; 7 : 13941–15839 (validé 15854). Le journal de porteurs/savoirs est synchronisé dans `personnages.md`. Les annonces antérieures « aucune acquisition/changement par consignation » ne décrivent que leurs lots historiques, pas cette intégration.
+
+**Statut des validations :** validations mobiles retrouvées pour les chapitres **4, 6 et 7** ; l’utilisateur désigne **5/6/7 comme validés dans son GO local**, qui autorise leur intégration et les corrections journalisées. **Aucune citation mobile autonome de validation littéraire du chapitre 5 n’a été retrouvée** ; son intégration est autorisée localement (DEC-202), sans attribuer au mobile une validation non sourcée.
+
+### Identités des instantanés, sans fiches chiffrées inventées
+
+Au **chapitre 4 V, vie 3**, Hasol porte 32 runes : 8 Vol de vie / 8 Arcanique / 8 Vitesse / 2 Énergie / 2 Gardien / 4 Fatal, neuf activations. Au **4 XI**, elle acquiert et équipe quatre Fatal supplémentaires, `L2-V3-HAS-R033` à `036`, pour 36/36 et dix activations. Principales et secondaires recherchées : Attaque/Puissance arcanique ; le récit ne donne pas la répartition individuelle ni les valeurs réellement obtenues. Les 32 premières sont l'équipement attesté de cette vie, pas de nouvelles acquisitions à cette date.
+
+**Convention documentaire choisie :** les IDs ci-dessous identifient les pièces par vie et place dans les ensembles attestés ; cette numérotation est un repère, pas l'ordre d'acquisition. Les colonnes vie 4/vie 5 identifient les états correspondants aux sauvegardes, **pas un transport physique depuis la vie précédente**. On ne copie **aucune fiche de vie 2**, ni ses étoiles/grades/+15, faute de source individuelle dans ces chapitres. Les valeurs déléguées DEC-179 pour la vie 2 ne deviennent pas une règle de reproduction inter-vies. Les cadeaux paternels éventuels ne sont pas associés arbitrairement à l'une des nouvelles lignes Fatal/Gardien.
+
+Chaque ligne est une fiche minimale de continuité : propriétaire Hasol ; état équipé au bilan concerné ; ensemble connu ; **rareté/couleur, étoiles, amélioration, principale et toutes secondaires : À DÉFINIR** là où absents. « À DÉFINIR » ne signifie ni rune blanche, ni +0, ni absence de secondaire. Ces réserves ne sont pas des présentations complètes publiables : conserver le bilan d'ensembles sans créer 36 fenêtres individuelles fictives.
+
+| ID vie 3 (4 V / 4 XI) | ID vie 4 (sauvegarde du 6) | ID vie 5 (sauvegarde du 7) | Ensemble | Rareté/couleur ; étoiles ; amélioration | Principale réelle / valeur | Secondaires réelles / valeurs |
+|---|---|---|---|---|---|---|
+| `L2-V3-HAS-R001` | `L2-V4-HAS-R001` | `L2-V5-HAS-R001` | Vol de vie | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R002` | `L2-V4-HAS-R002` | `L2-V5-HAS-R002` | Vol de vie | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R003` | `L2-V4-HAS-R003` | `L2-V5-HAS-R003` | Vol de vie | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R004` | `L2-V4-HAS-R004` | `L2-V5-HAS-R004` | Vol de vie | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R005` | `L2-V4-HAS-R005` | `L2-V5-HAS-R005` | Vol de vie | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R006` | `L2-V4-HAS-R006` | `L2-V5-HAS-R006` | Vol de vie | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R007` | `L2-V4-HAS-R007` | `L2-V5-HAS-R007` | Vol de vie | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R008` | `L2-V4-HAS-R008` | `L2-V5-HAS-R008` | Vol de vie | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R009` | `L2-V4-HAS-R009` | `L2-V5-HAS-R009` | Arcanique | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R010` | `L2-V4-HAS-R010` | `L2-V5-HAS-R010` | Arcanique | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R011` | `L2-V4-HAS-R011` | `L2-V5-HAS-R011` | Arcanique | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R012` | `L2-V4-HAS-R012` | `L2-V5-HAS-R012` | Arcanique | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R013` | `L2-V4-HAS-R013` | `L2-V5-HAS-R013` | Arcanique | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R014` | `L2-V4-HAS-R014` | `L2-V5-HAS-R014` | Arcanique | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R015` | `L2-V4-HAS-R015` | `L2-V5-HAS-R015` | Arcanique | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R016` | `L2-V4-HAS-R016` | `L2-V5-HAS-R016` | Arcanique | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R017` | `L2-V4-HAS-R017` | `L2-V5-HAS-R017` | Vitesse | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R018` | `L2-V4-HAS-R018` | `L2-V5-HAS-R018` | Vitesse | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R019` | `L2-V4-HAS-R019` | `L2-V5-HAS-R019` | Vitesse | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R020` | `L2-V4-HAS-R020` | `L2-V5-HAS-R020` | Vitesse | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R021` | `L2-V4-HAS-R021` | `L2-V5-HAS-R021` | Vitesse | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R022` | `L2-V4-HAS-R022` | `L2-V5-HAS-R022` | Vitesse | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R023` | `L2-V4-HAS-R023` | `L2-V5-HAS-R023` | Vitesse | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R024` | `L2-V4-HAS-R024` | `L2-V5-HAS-R024` | Vitesse | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R025` | `L2-V4-HAS-R025` | `L2-V5-HAS-R025` | Énergie | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R026` | `L2-V4-HAS-R026` | `L2-V5-HAS-R026` | Énergie | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R027` | `L2-V4-HAS-R027` | `L2-V5-HAS-R027` | Gardien | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R028` | `L2-V4-HAS-R028` | `L2-V5-HAS-R028` | Gardien | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R029` | `L2-V4-HAS-R029` | `L2-V5-HAS-R029` | Fatal | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R030` | `L2-V4-HAS-R030` | `L2-V5-HAS-R030` | Fatal | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R031` | `L2-V4-HAS-R031` | `L2-V5-HAS-R031` | Fatal | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R032` | `L2-V4-HAS-R032` | `L2-V5-HAS-R032` | Fatal | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R033` | `L2-V4-HAS-R033` | `L2-V5-HAS-R033` | Fatal | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R034` | `L2-V4-HAS-R034` | `L2-V5-HAS-R034` | Fatal | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R035` | `L2-V4-HAS-R035` | `L2-V5-HAS-R035` | Fatal | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+| `L2-V3-HAS-R036` | `L2-V4-HAS-R036` | `L2-V5-HAS-R036` | Fatal | À DÉFINIR | À DÉFINIR | À DÉFINIR |
+
+**Contrôle des comptes :** lignes 001–032 = 32 pièces / 9 activations ; lignes 001–036 = 36 pièces / 10 activations, aucun troisième ensemble de quatre d'un même type. Le second Fatal augmente le rendement du vol de vie par les dégâts, **pas le pourcentage du bonus Vol de vie** ; aucun multiplicateur de PA accordé par Fatal lui-même.
+
+### Journal matériel et limites par chapitre
+
+| Repère | Opération et état | Limite conservée |
+|---|---|---|
+| 4, réveil vie 3 | Lendemain des tenues écarlates ; équipement au point exact non exposé | Pas 32/32 ni ancien 16/16 imposé au réveil ; bilan 4 V distinct |
+| 4 V | `L2-V3-HAS-R001` à `032` équipées | Valeurs individuelles non connues ; pas de copie `L2-HAS-R…` de vie 2 |
+| 4 XI | Quatre Fatal `033` à `036` ajoutées et équipées au passage à 36 cercles | Réserve anticipée selon DEC-177 ; date de chaque acquisition/palier et état avant équipement non exposés ; pas de retrait des 32 précédentes |
+| 4 XII remplacée | `L2-V3-ACC001` donné par Ray à Hasol, glissé au doigt ; fiançailles | Accessoire, pas 37e rune portée ; Aimant pas encore acquis |
+| 5 II | Anneau porté pendant le combat puis Aimant débloqué | Ni nouvelle rune équipée par le passif ni distribution cachée connue |
+| 5 III, années | Butin plus régulier, investissements d'équipement et artisanat évoqués globalement | Lots et évolution non exhaustifs ; **ne pas figer le dernier instantané à 36** ni créer des remplacements individuels non racontés |
+| 5, départ Samia / mort | Réserves d'Hasol préparées ; Samia utilise arc et compétences, meurt au village | Aucun héritage ou transfert de runes de Samia à Hasol ; équipement runique de Samia non exposé |
+| 6, sauvegarde vie 4 | Équipement sauvegardé correspondant aux pièces de vie 3, IDs `L2-V4-HAS-R001` à `036` ; Anneau `L2-V4-ACC001` déjà porté | Instantané de référence 36/36 antérieur, pas nouveau bilan chiffré au réveil après les ellipses ; le reste d'un équipement modifié non présenté reste inconnu |
+| 6, combats | Aura sur l'épée et réserve préparée dans l'Anneau ; Siphon attaque de zone | Toute activation d'Aura consomme une rune du lot sacrificiel distinct et 200 Mana ; aucun des IDs équipés débité par déduction, pas de stock final fictif |
+| 6, après village | Arc adapté offert au cousin, dessin reçu | Arc et dessin non runiques, aucune rune offerte au garçon |
+| 7, sauvegarde vie 5 | IDs `L2-V5-HAS-R001` à `036` et `L2-V5-ACC001` pour les états sauvegardés correspondants | Aucun transfert matériel depuis vie 4 ; pas d'inventaire ultérieur figé au dernier bilan |
+| 7 II | Autorisation royale recopiée, original reposé ; sortie immédiate de la pièce | Aucune rune secrète trouvée, collection acquise, carnet emporté ou fiche d'Iseria révélée |
+| 7 X–XI | Rupture imposée ; Hasol refuse de rendre la bague et continue à la porter | Pas de disparition d'Anneau, perte d'Aimant ou retrait de rune consécutif à la rupture |
+| 7 XIII | Deux Gardien d'atelier examinées via Œil, `L2-V5-ORV-R001/002` ; sélection d'une commande adaptée au budget | Pas deux nouvelles Gardien personnelles ni projection acquise ; voir fiches de réserve ci-dessous |
+| 7 XIV | Recherche avec Samia sur le prochain ensemble | Discussion seulement : aucun choix définitif, achat, amélioration ou équipement ajouté |
+| 7 XV–XVI | Mort d'Orven | Aucun héritage juridique de l'atelier, stock ou équipement transféré automatiquement à Hasol |
+
+### Accessoires identifiés — Anneaux des vies 3, 4 et 5
+
+- **IDs :** `L2-V3-ACC001` (vie 3, offert au 4 XII puis porté au 5), `L2-V4-ACC001` (vie 4, présent au point de sauvegarde du 6), `L2-V5-ACC001` (vie 5, présent au point du 7, conservé après rupture). Propriétaire/porteuse : Hasol ; donateur Ray, commande auprès de l'atelier familial Corvus. Identités temporelles distinctes, **pas trois cadeaux réitérés en scène**.
+- Or jaune poli, jonc épais lisse, diamant rond serti bas/encastré sans griffes saillantes pour ne pas gêner au combat. Effet : inventaire exclusivement réservé aux runes ; capacité chiffrée **À DÉFINIR**.
+- Pas rune d'ensemble, principale, secondaire, grade ou étoile d'une rune ordinaire. Aucun bonus matrimonial ou emplacement occupé. Le modèle conseillé par Ray à Zio au III sera reconnaissable par Hasol ; futur cadeau, pas déplacement de `L2-V3-ACC001`.
+
+### Pierres d'atelier du chapitre 7 XIII, vie 5
+
+| ID | Détenteur / ensemble | Rareté/couleur | Étoiles | Amélioration | Principale | Secondaires / valeurs | Devenir attesté |
+|---|---|---|---|---|---|---|---|
+| `L2-V5-ORV-R001` | Atelier d'Orven / Gardien | À DÉFINIR | À DÉFINIR | À DÉFINIR | À DÉFINIR | À DÉFINIR ; potentiel jugé plus adapté à un tank | Examinée, trop coûteuse pour le budget visé ; pas d'amélioration ou livraison individuelle prouvée |
+| `L2-V5-ORV-R002` | Atelier d'Orven / Gardien | À DÉFINIR | À DÉFINIR | À DÉFINIR | À DÉFINIR | À DÉFINIR ; potentiel plutôt offensif | Examinée ; pas attribution personnelle au client ou à Hasol par défaut |
+
+Le reste des pièces de la commande préparée puis remise au chasseur forme un **lot de commande non chiffré**, sans IDs supplémentaires ou affixes artificiels. Le récit ne relie pas explicitement chaque pièce livrée aux deux premières candidates ; ne pas transformer la première proposition refusée pour budget en livraison attestée. Propriétaires juridiques des stocks non nommés, détention par l'atelier seulement établie.
+
+### Runes exceptionnelles — actualisation d'auteur du même apport, futurs non acquis
+
+**Vision :** la limite d'usages est abandonnée explicitement (7977–8026), nombre d'Iseria non fixé. Iseria perd la rune **à l'accouchement d'Hasol**, pouvoir transmis alors (8028–8041). Transformation finale en Mémoire parfaite maintenue ; aucun ID ordinaire/étoile/affixe créé. Les anciens décomptes 3/9, 4/9 ou douze initiaux sont historiques, pas un stock à maintenir.
+
+**Temporelle :** activation initiale par l'enfant à naître, menace de fausse couche après mort de Zio, préservation de la descendance Notos ; âme de l'enfant attachée à Hasol pendant les vies, révélée au III seulement (16088–16220). Pas acquisition nouvelle au II ni règle universelle de débit d'une rune ordinaire. La mécanique des retours ultérieurs n'est pas résolue par la proposition de l'assistant.
+
+**Héritage runique** du niveau 65 au III est une **compétence**, pas une rune à ajouter à cet inventaire ; perte future de cinq cercles sans identité des runes affectées ni devenir de leur équipement fixés. Aucun débit présent ni destruction automatique des pierres. Les douze runes uniques de clôture et leurs usages restent distincts.
+
 **Runes exceptionnelles, secrets d’auteur et futurs — DEC-199/200 :** voir [`../docs/secrets_clans_runes_2026_11_27.md`](../docs/secrets_clans_runes_2026_11_27.md) et l’addendum de `systeme.md` pour Temporelle/Notos, Vision/Iseria, Destruction/Ténébria, fermeture/Samia et l’ouvrage des quatre ancestrales traduit par Ray. Renvoi documentaire, **pas fiche matérielle ou acquisition racontée** : aucun ID, porteur matériel, valeur, étoile ou affixe créé. Les quatre ancestrales ne sont pas les douze uniques de clôture de DEC-170. Iseria est officiellement Clerc terrestre, rang Rare, réellement Prophète, rang Astral selon DEC-200 ; la fenêtre de classe réelle est réservée au lecteur au III, sans révélation à Hasol. L’identification partielle du I et les fenêtres connues des personnages restent préservées. DEC-197/198 gouvernent la conclusion du II, sans secrets jamais appris fournis par Mémoire parfaite ; origine/transmission et explication familiale à développer au III. La réserve de non-déduction depuis le logo ne nie pas ces secrets d’auteur. Suivi des savoirs futurs synchronisé dans `personnages.md`, inventaire matériel inchangé.
 
 **Synchronisation documentaire du 27 novembre — DEC-187 à DEC-192 / DEC-180 :**

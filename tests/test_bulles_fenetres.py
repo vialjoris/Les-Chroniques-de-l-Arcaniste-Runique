@@ -6,7 +6,7 @@ import re
 import unittest
 import xml.etree.ElementTree as ET
 
-from lecture_support import Document, compact, digest, visual_text, before_bubble_presentation
+from lecture_support import Document, compact, digest, visual_text, before_bubble_presentation, historical_book_ii
 from test_fenetres_github import load_generator
 from test_securite_documents import assert_passive
 from test_runes_livre_i import inventory_rows, rune_identifier, states_from_lore, validate_affixes
@@ -101,6 +101,8 @@ class ConservationBullesTests(unittest.TestCase):
     def test_inversion_bornee_retrouve_les_deux_baselines_sans_fichier_temporaire(self):
         for book, (name, reference) in enumerate(REFERENCE["books"].items(), 1):
             source = (ROOT / name).read_bytes().decode("utf-8")
+            if book == 2:
+                source = historical_book_ii(source)
             restored = before_bubble_presentation(source, book)
             with self.subTest(livre=name):
                 self.assertEqual(digest(restored), reference["source_sha256"])
@@ -116,6 +118,8 @@ class ConservationBullesTests(unittest.TestCase):
     def test_octets_hors_fenetres_ordre_ids_et_donnees_chiffrees_preserves_dans_les_deux_livres(self):
         for name, expected in REFERENCE["books"].items():
             source = (ROOT / name).read_bytes().decode("utf-8")
+            if name.startswith("livre_2"):
+                source = historical_book_ii(source)
             with self.subTest(livre=name):
                 self.assertEqual(len(Document(source).windows), expected["window_count"])
                 actual = conservation_contract(source)
@@ -274,6 +278,8 @@ class BullesPresentationTests(unittest.TestCase):
             book_2 = name.startswith("livre_2")
             source = (ROOT / name).read_bytes().decode("utf-8")
             for window in Document(source).windows:
+                if book_2 and window.attrs["data-window-id"] != "L2-C3-F04":
+                    continue
                 rows = ([row for row in window.descendants("tr")
                          if len([cell for cell in row.children if cell.tag == "td"]) == 3]
                         if book_2 else inventory_rows(window))

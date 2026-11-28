@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="161" viewBox="0 0 680 161" font-family="Arial, sans-serif" role="img" aria-labelledby="fenetre-description">
+<desc id="fenetre-description">Coup critique Infiltration runique</desc>
+<rect x="4" y="7" width="672" height="151" rx="14" fill="#483615" opacity="0.08"/>
+<rect x="1" y="1" width="674" height="154" rx="14" fill="#FFFFFF" stroke="#D1AB61"/>
+<text x="64.00" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="66.96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Coup</text>
+<text x="130.96" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="5.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="136.36" y="53.00" font-size="24" font-weight="700" fill="#A17B35" textLength="89.64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">critique</text>
+<path d="M28 77.6h624" stroke="#D8BF8F"/>
+<text x="28.00" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="91.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Infiltration</text>
+<text x="119.80" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="4.32" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> </text>
+<text x="124.12" y="114.60" font-size="18" font-weight="400" fill="#242424" textLength="65.88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">runique</text>
+</svg>

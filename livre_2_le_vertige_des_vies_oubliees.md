@@ -7,6 +7,10 @@
 1. [Chapitre 1 — Une Astrale nommée Hasol](#chapitre-1)
 2. [Chapitre 2 — Les prodiges de l'Académie](#chapitre-2)
 3. [Chapitre 3 — Celle qui n'était pas dans les bois](#chapitre-3)
+4. [Chapitre 4 — Cette fois, avec moi](#chapitre-4)
+5. [Chapitre 5 — Le village sur la carte](#chapitre-5)
+6. [Chapitre 6 — Préparer une place pour les vivants](#chapitre-6)
+7. [Chapitre 7 — Le poids du sang](#chapitre-7)
 
 ---
 
@@ -9079,3 +9083,6161 @@ Puis le son changea.
 La bibliothèque disparut.
 
 *Fin du chapitre 3 — Celle qui n'était pas dans les bois.*
+
+---
+
+<span id="chapitre-4"></span>
+
+## Chapitre 4 — Cette fois, avec moi
+
+### I. Trois rêves et un cauchemar
+
+Les démons rouges se rapprochaient.
+
+Hasol se tenait au milieu d'eux, vêtue de sa nouvelle tenue écarlate. Plusieurs créatures levèrent leurs armes dans sa direction.
+
+Elle ne chercha pourtant pas à s'éloigner.
+
+— Siphon runique !
+
+Une violente onde de vent se propagea autour d'elle, frappant simultanément les créatures qui l'entouraient.
+
+Hasol sentit sa réserve de mana se remplir.
+
+Un sourire apparut sous son masque.
+
+Puis les démons disparurent.
+
+Hasol entrouvrit les yeux.
+
+— Siphon runique… murmura-t-elle.
+
+Encore à moitié endormie, elle se retourna dans son lit et remonta sa couverture jusqu'aux épaules.
+
+Quelques instants plus tard, elle dormait de nouveau.
+
+La bibliothèque.
+
+Plusieurs ouvrages étaient ouverts devant elle, ainsi qu'une feuille sur laquelle figuraient différentes combinaisons de runes.
+
+Ray était assis à ses côtés.
+
+— Avec trente-six cercles, tu pourrais équiper un ensemble supplémentaire, expliqua-t-il.
+
+Hasol examina les différentes possibilités.
+
+Ray retira ses lunettes et les posa sur la table.
+
+Elle tourna la tête vers lui.
+
+— C'est vrai que sans lunettes, tu as beaucoup de charme. Les lentilles, c'est pour quand ?
+
+Hasol ouvrit lentement les yeux.
+
+Elle fixa le plafond de sa chambre.
+
+— Ray, sans lunettes… N'importe quoi…
+
+Un léger sourire se dessina sur ses lèvres.
+
+Elle enfouit son visage dans son oreiller avant de se rendormir.
+
+Une forêt.
+
+Un immense loup se dressait devant elle.
+
+Hasol sortit une rune de sa réserve.
+
+— Aura runique !
+
+La rune se désagrégea et une aura de Terre enveloppa son épée.
+
+<div class="system-window lit-window" data-window-id="L2-C4-F01" data-window-type="activation">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C4-F01-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C4-F01.svg" alt="Fenêtre du système — Coup critique. Version textuelle complète dans le volet suivant.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Coup critique</div>
+  <p>Infiltration runique</p>
+  </details>
+</div>
+
+Hasol s'élança.
+
+Son épée imprégnée de Terre fendit l'air une première fois, puis une seconde.
+
+Deux traînées rouges formèrent une croix devant elle.
+
+Le loup alpha s'effondra.
+
+Hasol se réveilla brusquement.
+
+— Un loup alpha…
+
+Elle se redressa, attrapa le verre d'eau posé sur sa table de chevet et en but quelques gorgées.
+
+— C'est vraiment n'importe quoi… Comme si j'étais capable de tuer un loup alpha en deux coups d'épée !
+
+Elle reposa son verre et s'allongea de nouveau.
+
+Il lui fallut cette fois plusieurs minutes pour retrouver le sommeil.
+
+Hasol courait.
+
+Au pied d'un arbre dont certaines branches brûlaient encore se trouvait une silhouette immobile.
+
+Des lunettes.
+
+Un bâton dont le sommet était toujours enflammé.
+
+Ray.
+
+— RAY !
+
+Hasol se redressa brutalement dans son lit, le souffle court et le visage couvert de sueur.
+
+Son cœur battait à une vitesse impressionnante.
+
+Les premières lueurs du jour traversaient les rideaux de sa chambre.
+
+Elle ramena ses jambes contre elle et posa son front sur ses genoux.
+
+Il lui fallut un long moment pour se calmer.
+
+Cette fois, elle ne parvint pas à se rendormir.
+
+### II. Les chasseuses écarlates
+
+L'idée de Samia se révéla particulièrement efficace.
+
+Les démons rouges mettaient effectivement un peu plus de temps à identifier les trois chasseuses comme des ennemies, un avantage dont Hasol apprit rapidement à tirer profit.
+
+Les expéditions se succédèrent.
+
+Aura runique devint l'un de ses principaux atouts contre les créatures des portails. Les runes dont personne ne voulait lui permettaient d'imprégner son épée d'une aura élémentaire, avant de se battre au milieu des démons.
+
+Maître Orven, de son côté, poursuivait ses activités avec une élève dont les besoins en runes semblaient ne jamais diminuer.
+
+Hasol perfectionnait son équipement, développait ses talents d'artisane et consacrait une part toujours plus importante de son temps aux portails.
+
+Sa réputation grandissait également.
+
+Il ne fallut pas longtemps pour que certains chasseurs commencent à parler d'une jeune femme au masque de démon, capable d'abattre des groupes entiers de créatures avec son épée imprégnée.
+
+L'Astrale sanguinaire.
+
+Un surnom qui amusait énormément Yoon et dont Samia ne manquait jamais de rappeler l'existence lorsque l'occasion se présentait.
+
+Ray continuait de chasser avec ses propres compagnons et retrouvait régulièrement Hasol à la bibliothèque.
+
+Leurs recherches ne s'interrompirent jamais vraiment. Les questions changeaient simplement au fil de leur progression.
+
+Les mois passèrent.
+
+Les étranges rêves d'Hasol finirent par occuper une place de moins en moins importante dans ses pensées.
+
+Jusqu'au jour où elle atteignit le niveau quarante.
+
+### III. Une compétence familière
+
+Hasol venait d'éliminer un démon lorsqu'une notification apparut devant elle.
+
+<div class="system-window lit-window" data-window-id="L2-C4-F02" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C4-F02-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C4-F02.svg" alt="Fenêtre du système — Montée de niveau. Version textuelle complète dans le volet suivant.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Montée de niveau</div>
+  <p><strong>Niveau 40</strong></p>
+  <h3>Siphon runique</h3>
+  <p>Compétence active · Vent</p>
+  <p>Libère une onde de vent autour du lanceur et convertit une partie des dégâts infligés en Mana.</p>
+  <p>Dégâts : <strong>120&nbsp;% PA</strong></p>
+  <p>Conversion en Mana : <strong>75&nbsp;%</strong></p>
+  <p>Rayon : <strong>8 mètres</strong></p>
+  <p>Temps de recharge : <strong>20 secondes</strong></p>
+  <p>Coût : <strong>100 Mana</strong></p>
+  <p>Récupération maximale : <strong>1&nbsp;200 Mana</strong></p>
+  </details>
+</div>
+
+Hasol resta immobile.
+
+Elle relut le nom de la compétence.
+
+*Siphon runique.*
+
+— Hasol ! s'écria Samia.
+
+Une flèche passa à proximité de la jeune femme et atteignit un démon qui s'apprêtait à l'attaquer.
+
+Hasol recula précipitamment.
+
+— Qu'est-ce que tu fais ? demanda Samia.
+
+— Désolée… Je viens de passer niveau quarante.
+
+— Félicitations ! lança Yoon. Tu as obtenu quelque chose d'intéressant ?
+
+Hasol observa les démons qui se rapprochaient.
+
+— Je crois que oui.
+
+Elle attendit que plusieurs créatures pénètrent dans le rayon d'action de sa nouvelle compétence.
+
+— Siphon runique !
+
+Le vent se déchaîna autour d'elle.
+
+Une onde frappa simultanément les démons présents à proximité et Hasol sentit sa réserve de mana se remplir.
+
+Elle connaissait cette sensation.
+
+— Alors ? demanda Yoon.
+
+— Je récupère du mana en infligeant des dégâts aux ennemis qui m'entourent. Plus ils sont nombreux, plus j'en récupère !
+
+— Oh non… murmura Samia.
+
+Hasol se tourna vers elle.
+
+— Quoi ?
+
+— Tu vas encore nous demander de trouver davantage de monstres.
+
+Yoon éclata de rire.
+
+Hasol esquissa un sourire et sortit une rune de sa réserve.
+
+Le combat reprit.
+
+Pourtant, elle ne parvenait pas à se réjouir pleinement de sa nouvelle compétence.
+
+Elle se souvenait parfaitement de ce rêve.
+
+Comment avait-elle pu connaître le nom et les effets d'une compétence qu'elle ne possédait pas encore ?
+
+Elle pensa soudainement à Ray.
+
+### IV. Le charme de Ray
+
+Quelques jours plus tard, les quatre amis profitèrent d'un moment de repos.
+
+Ray retira ses lunettes pour les nettoyer.
+
+Yoon l'observa quelques instants.
+
+— Tu sais, Ray, tu as vraiment beaucoup de charme sans tes lunettes.
+
+Le jeune homme leva les yeux vers elle.
+
+— Pardon ?
+
+— Quoi ? Je dis simplement ce que je pense.
+
+Ray devint écarlate.
+
+Hasol éclata de rire, rapidement imitée par Samia.
+
+— Regarde-le ! s'amusa Yoon. Il est presque de la même couleur que nos tenues !
+
+— Merci, Yoon…
+
+Ray remit précipitamment ses lunettes.
+
+— Oh, dommage !
+
+— Tu devrais arrêter de l'embêter, intervint Hasol, incapable de dissimuler son amusement.
+
+— Très bien. Mais tu ne vas pas me dire que j'ai tort ?
+
+Hasol regarda Ray.
+
+— Je vais m'abstenir de répondre.
+
+— Voilà qui est intéressant, remarqua Samia.
+
+— Mais vous allez me laisser tranquille, oui ?
+
+Les trois jeunes femmes éclatèrent de rire.
+
+Ray finit par sourire à son tour.
+
+— Hasol, on se retrouve à la bibliothèque ce soir ?
+
+— Comme prévu !
+
+— Parfait. J'ai quelques idées concernant tes futurs cercles de mana.
+
+Yoon adressa un regard amusé à Samia.
+
+Ray fit semblant de ne pas le remarquer.
+
+### V. Les trente-six cercles
+
+Lorsque Ray arriva à la bibliothèque, Samia occupait sa place habituelle.
+
+Hasol lui adressa un signe de la main.
+
+— Installe-toi !
+
+Ray posa ses ouvrages sur la table et prit place à côté d'elle.
+
+Samia referma le livre qu'elle consultait.
+
+— Je vais vous laisser à vos passionnantes discussions sur les runes.
+
+— Tu pourrais rester, proposa Hasol.
+
+— Et vous écouter débattre pendant deux heures pour savoir s'il vaut mieux augmenter ton Attaque ou ta Puissance arcanique ?
+
+— Ce sont des questions importantes !
+
+— Je n'en doute pas.
+
+Samia se leva.
+
+— Bonne soirée, vous deux.
+
+Ray attendit qu'elle se soit éloignée avant de sortir une feuille de son carnet.
+
+— Alors, ces trente-six cercles…
+
+Hasol se pencha immédiatement vers lui.
+
+— Tu as trouvé quelque chose ?
+
+— J'ai surtout réfléchi à ce que tu possèdes déjà.
+
+Il inscrivit les différents ensembles sur la feuille.
+
+**Équipement runique actuel — 32 cercles de mana**
+
+| Ensemble | Runes | Ensembles actifs |
+|---|---:|---:|
+| Vol de vie | 8 | 2 |
+| Arcanique | 8 | 2 |
+| Vitesse | 8 | 2 |
+| Énergie | 2 | 1 |
+| Gardien | 2 | 1 |
+| Fatal | 4 | 1 |
+
+— Tes deux ensembles Vol de vie te permettent déjà de récupérer une quantité importante de points de vie, poursuivit Ray. Mais pourquoi ne pas augmenter les dégâts que tu infliges ?
+
+— Tu penses à un deuxième ensemble Fatal ?
+
+— Exactement. Avec de l'Attaque et de la Puissance arcanique comme statistiques principales. Il faudrait également rechercher ces deux statistiques en secondaire.
+
+**Ensemble supplémentaire envisagé : Fatal, quatre runes.**
+
+Principales recherchées : Attaque ou Puissance arcanique. Secondaires visées : Attaque et Puissance arcanique.
+
+— Tu augmenterais ainsi les dégâts de ton épée et de tes compétences magiques. Ton vol de vie n'en serait que plus efficace.
+
+— Sans avoir à sacrifier mes ensembles actuels…
+
+— Voilà.
+
+Hasol sourit.
+
+— J'aime beaucoup cette idée.
+
+— Je m'en doutais.
+
+Elle récupéra la feuille et commença à y ajouter quelques annotations.
+
+— Tu sais, Ray, tu devrais également consacrer davantage de temps à tes propres ensembles.
+
+— Je le fais.
+
+— Pas autant qu'aux miens.
+
+— Il faut dire que tu m'offres beaucoup plus de possibilités.
+
+Hasol rit.
+
+Ils poursuivirent leur discussion.
+
+Ray lui présenta plusieurs combinaisons de statistiques, puis retira ses lunettes pour se frotter les yeux.
+
+Il les posa sur la table.
+
+Hasol tourna la tête vers lui.
+
+Elle repensa à la remarque de Yoon.
+
+Un sourire amusé se dessina sur ses lèvres.
+
+Elle ouvrit la bouche.
+
+*C'est vrai que sans lunettes, tu as beaucoup de charme. Les lentilles, c'est pour quand ?*
+
+Elle se figea.
+
+Ray était assis à côté d'elle.
+
+Ses lunettes étaient posées sur la table.
+
+Devant eux se trouvait une feuille sur laquelle figuraient différentes combinaisons de runes.
+
+— Hasol ?
+
+Elle sentit ses joues s'échauffer.
+
+— Oui ?
+
+— Tu voulais me dire quelque chose ?
+
+— Non… Rien.
+
+Ray la regarda quelques instants, puis sourit timidement et remit ses lunettes.
+
+Hasol détourna les yeux.
+
+Elle comprenait maintenant pourquoi elle aurait pu prononcer cette phrase. Une simple plaisanterie pour poursuivre celle de Yoon.
+
+Mais comment avait-elle pu rêver de cette conversation si longtemps auparavant ?
+
+Ray, quant à lui, avait une tout autre interprétation de son silence.
+
+Elle n'avait jamais rougi de cette manière en sa présence.
+
+Il baissa les yeux vers ses notes, incapable de dissimuler complètement son sourire.
+
+Hasol ne le remarqua pas.
+
+Elle pensait à un arbre.
+
+À un bâton enflammé.
+
+À Ray.
+
+### VI. Une confidence nocturne
+
+Lorsqu'Hasol rentra chez elle, Iseria était encore installée dans le salon.
+
+— Tu rentres tard, ma chérie.
+
+— J'étais à la bibliothèque avec Ray.
+
+— Vous avez trouvé quelque chose d'intéressant ?
+
+Hasol ne répondit pas immédiatement.
+
+Elle retira ses chaussures et vint s'asseoir auprès de sa mère.
+
+— Maman… Est-ce que tu crois qu'il est possible de voir l'avenir dans ses rêves ?
+
+Iseria releva les yeux.
+
+— Pourquoi cette question ?
+
+— Tu te souviens du jour où tu nous as offert nos tenues de chasse ?
+
+— Bien sûr.
+
+— J'ai fait des rêves assez étranges cette nuit-là.
+
+Iseria posa ce qu'elle tenait entre les mains.
+
+— Je t'écoute.
+
+Hasol lui raconta son premier rêve. Elle lui expliqua comment elle avait découvert Siphon runique en atteignant le niveau quarante, alors qu'elle connaissait déjà le nom et les effets de cette compétence.
+
+Elle lui parla ensuite de la bibliothèque, des trente-six cercles de mana et de la conversation qu'elle venait d'avoir avec Ray.
+
+— J'allais vraiment lui dire la même chose que dans mon rêve, maman. Mot pour mot.
+
+— Et tu ne l'as pas fait ?
+
+— Non. Je me suis mise à rougir comme une idiote.
+
+Iseria esquissa un sourire.
+
+— Ce n'est pas bien grave, ma chérie.
+
+— Ce n'est pas ça qui m'inquiète.
+
+Hasol ramena ses jambes contre elle.
+
+— J'ai également rêvé que je tuais un loup alpha. Mais c'est surtout le cauchemar que j'ai fait ensuite qui me fait peur.
+
+Elle lui décrivit la forêt, l'arbre aux branches enflammées et la silhouette de Ray.
+
+Sa voix devint progressivement plus faible.
+
+— Il ne bougeait pas, maman.
+
+Iseria posa délicatement une main sur celle de sa fille.
+
+— Tu es certaine qu'il était blessé ?
+
+— Je ne sais pas… Je me suis réveillée avant de pouvoir le rejoindre.
+
+Hasol serra les doigts de sa mère.
+
+— Si mes autres rêves se réalisent, qu'est-ce qui me garantit que celui-ci ne se réalisera pas également ?
+
+— Rien ne t'oblige à considérer chacun de tes rêves comme une certitude.
+
+— Mais comment pourrais-je faire comme si je n'avais rien vu ?
+
+Iseria demeura silencieuse.
+
+Hasol posa sa tête contre son épaule.
+
+— Et puis, il y a autre chose…
+
+— Dis-moi.
+
+— Je pense énormément à Ray depuis quelque temps. J'ai toujours envie de le voir, de passer davantage de temps avec lui… Quand il part chasser avec ses compagnons, je ne peux pas m'empêcher de m'inquiéter.
+
+Elle marqua une pause.
+
+— Mais je ne sais pas pourquoi.
+
+— Comment cela ?
+
+— Maman… Je ne sais même plus ce que je ressens réellement pour lui.
+
+Hasol sentit les larmes lui monter aux yeux.
+
+— Est-ce que j'ai envie d'être avec lui parce que je suis amoureuse ? Ou simplement parce que j'ai peur qu'il lui arrive quelque chose ?
+
+Iseria attira doucement sa fille contre elle.
+
+— Depuis combien de temps connais-tu Ray ?
+
+— Des années.
+
+— Et depuis combien de temps aimes-tu passer tes soirées à discuter avec lui ?
+
+Hasol ne répondit pas.
+
+— Bien avant ces rêves, n'est-ce pas ?
+
+— Oui…
+
+— Alors ne laisse pas quelques mauvais rêves effacer tous les souvenirs heureux que vous avez construits ensemble.
+
+Iseria caressa doucement les cheveux de sa fille.
+
+— Tu n'es pas obligée de comprendre immédiatement tout ce que tu ressens. Laisse-toi un peu de temps.
+
+Hasol ferma les yeux.
+
+— Merci, maman.
+
+Elles discutèrent encore un moment, puis les réponses d'Hasol devinrent de plus en plus espacées.
+
+Elle finit par s'endormir contre sa mère.
+
+Iseria déposa délicatement un coussin sous sa tête et la recouvrit d'une couverture.
+
+Elle observa sa fille pendant plusieurs minutes.
+
+Son sourire avait disparu.
+
+Lorsqu'elle fut convaincue qu'Hasol dormait profondément, elle se leva et se dirigea vers le vaisselier.
+
+Elle actionna un mécanisme dissimulé.
+
+Le meuble se déplaça lentement, dévoilant un passage vers une pièce obscure.
+
+— Maman… Tu vas où ?
+
+Iseria se figea.
+
+Hasol avait entrouvert les yeux.
+
+— Nulle part, ma chérie. Rendors-toi.
+
+— D'accord…
+
+Hasol referma les yeux.
+
+Sa respiration redevint rapidement régulière.
+
+Iseria contempla une dernière fois sa fille endormie.
+
+*Pourquoi fallait-il que ma plus jeune fille possède, elle aussi, un don semblable au mien ?*
+
+Elle pénétra dans la pièce obscure.
+
+Le vaisselier reprit silencieusement sa place.
+
+### VII. Une quatrième tenue écarlate
+
+Le lendemain matin, Hasol retrouva sa mère.
+
+— Maman, j'aurais besoin d'un service.
+
+— Je t'écoute.
+
+— Est-ce que tu pourrais me procurer une quatrième tenue de chasse ? Du même style que les nôtres.
+
+— Une quatrième ?
+
+— Oui. Une tenue pour un mage offensif, avec un bâton assorti.
+
+Iseria observa attentivement sa fille.
+
+— Pour Ray ?
+
+— Oui.
+
+Un sourire apparut sur le visage de sa mère.
+
+— Je devrais pouvoir arranger cela.
+
+— Mais cette fois, c'est moi qui paie !
+
+— Pourquoi ?
+
+— Parce que c'est un cadeau que je souhaite lui faire.
+
+Iseria ne put s'empêcher de sourire davantage.
+
+Hasol fronça les sourcils.
+
+— Quoi ?
+
+— Rien, ma chérie.
+
+— Maman…
+
+— Je vais m'en occuper.
+
+— Et tu me diras combien je te dois !
+
+— Bien sûr.
+
+Hasol repartit satisfaite.
+
+Iseria attendit qu'elle ait quitté la pièce avant de laisser échapper un petit rire.
+
+Deux jours plus tard, Iseria invita sa fille à découvrir les équipements.
+
+Hasol resta émerveillée devant le résultat.
+
+Comme leurs propres tenues, celle de Ray associait le rouge écarlate, le noir et de magnifiques ornements dorés. Le bâton avait été conçu dans le même esprit.
+
+— C'est exactement ce que je souhaitais !
+
+— Tu penses qu'il lui plaira ?
+
+— J'en suis certaine !
+
+Hasol contempla encore quelques instants la tenue avant de se tourner vers sa mère.
+
+— Alors, combien est-ce que je te dois ?
+
+— Rien du tout.
+
+Hasol fronça immédiatement les sourcils.
+
+— Maman, nous en avions parlé !
+
+— Considère cela comme un cadeau.
+
+— Mais c'est mon cadeau pour Ray !
+
+— Et c'est le mien pour toi.
+
+— Ce n'est pas pareil !
+
+Iseria rit.
+
+— Hasol, tu n'as pas besoin de me rembourser.
+
+— Si ! Je gagne suffisamment d'argent maintenant. Entre mon travail avec maître Orven et les portails, j'ai largement de quoi te payer.
+
+— Tu en es certaine ?
+
+— Évidemment !
+
+— Très bien.
+
+Iseria lui annonça le prix.
+
+Hasol cessa immédiatement de parler.
+
+Elle fixa sa mère.
+
+Puis la tenue.
+
+Puis le bâton.
+
+— Attends…
+
+Elle chercha une chaise et s'assit lentement.
+
+— Tu es sérieuse ?
+
+— Tout à fait.
+
+— Pour une seule tenue et un bâton ?
+
+— Oui.
+
+Hasol tenta mentalement de comparer cette somme à ce qu'elle avait gagné depuis le début de son activité artisanale.
+
+Iseria croisa les bras, amusée.
+
+— Alors, souhaites-tu toujours me rembourser ?
+
+Hasol leva les yeux vers elle.
+
+— Ne me dis pas que nos tenues et nos armes ont également coûté aussi cher ?
+
+— À peu de chose près.
+
+— Maman !
+
+Elle repensa soudainement à la garde-robe d'Iseria, à ces vêtements dont la qualité avait toujours semblé parfaitement ordinaire à ses yeux, simplement parce qu'elle avait grandi en les voyant.
+
+Et à Yoon qui s'amusait à la surnommer princesse.
+
+— Mais… Comment peux-tu te permettre de dépenser autant ?
+
+— Ne t'inquiète pas pour moi, ma chérie.
+
+— C'est justement ce que tu dis à chaque fois !
+
+Iseria récupéra soigneusement les équipements.
+
+— Tu devrais plutôt réfléchir à la manière dont tu souhaites offrir tout cela à Ray.
+
+Hasol ouvrit la bouche, puis la referma.
+
+Sa mère venait une fois encore de détourner la conversation.
+
+Elle observa la magnifique tenue écarlate.
+
+— Tu ne lui diras pas combien elle coûte, hein ?
+
+— C'était justement ce que j'allais te conseiller.
+
+### VIII. Cette fois, avec moi
+
+Ray examina attentivement les deux paquets qu'Hasol venait de déposer devant lui.
+
+— Qu'est-ce que c'est ?
+
+— Ouvre-les !
+
+Il défit le premier emballage.
+
+Lorsqu'il découvrit la tenue écarlate, il resta silencieux.
+
+Hasol attendit sa réaction avec impatience.
+
+— Alors ?
+
+— Hasol… C'est pour moi ?
+
+— Évidemment !
+
+Il souleva délicatement la tenue.
+
+— Elle ressemble aux vôtres.
+
+— C'était l'idée.
+
+Ray contempla les ornements dorés.
+
+Il connaissait suffisamment bien le travail des artisans pour reconnaître la qualité exceptionnelle de cet équipement.
+
+— Ça a dû te coûter…
+
+— Ne pose pas cette question !
+
+Ray leva les yeux vers elle.
+
+— Enfin… Je veux dire que ce n'est pas important.
+
+— Mais…
+
+— Ouvre le deuxième !
+
+Ray découvrit le bâton.
+
+Son expression changea de nouveau.
+
+— Hasol !
+
+— Tu aimes ?
+
+— Bien sûr que j'aime ! Mais tu ne peux pas m'offrir tout cela sans raison !
+
+Hasol s'assit face à lui.
+
+— Justement, j'ai quelque chose à te proposer.
+
+Ray posa délicatement le bâton.
+
+— Je t'écoute.
+
+— J'aimerais que tu participes à toutes nos expéditions dans les portails.
+
+— Toutes ?
+
+— Oui.
+
+Il la regarda avec étonnement.
+
+— Et Yoon et Samia sont d'accord ?
+
+— Je leur en ai déjà parlé.
+
+— Mais votre groupe est complet.
+
+— Notre groupe permanent, oui. Pas nos raids. Il suffit de te réserver une place à chaque expédition.
+
+Ray réfléchit quelques instants.
+
+— Vous passez presque tout votre temps dans les portails.
+
+— Exactement.
+
+— Je risque de ne plus avoir beaucoup de temps pour mes autres chasses.
+
+— Ce serait dommage de refuser une telle occasion de progresser, non ?
+
+Ray sourit.
+
+— Tu as raison.
+
+— Alors ?
+
+— J'accepte avec plaisir !
+
+Le soulagement d'Hasol fut immédiat.
+
+— Vraiment ?
+
+— Évidemment ! Entre les portails et nos soirées à la bibliothèque, nous allons finir par passer toutes nos journées ensemble.
+
+Hasol rougit légèrement.
+
+— Ça te dérange ?
+
+— Absolument pas.
+
+Ray contempla de nouveau les équipements.
+
+— Merci, Hasol. Sincèrement.
+
+Elle lui sourit.
+
+— Désormais, tu viendras avec moi.
+
+Ray acquiesça.
+
+Pour la première fois depuis plusieurs jours, Hasol se sentit véritablement rassurée.
+
+### IX. Les quatre écarlates
+
+Lors de leur expédition suivante, Ray retrouva les trois jeunes femmes devant le portail.
+
+Yoon fut la première à l'apercevoir.
+
+— Oh !
+
+Samia se tourna vers lui.
+
+— Eh bien, nous voilà quatre maintenant.
+
+Ray sourit.
+
+— Qu'en pensez-vous ?
+
+— Magnifique ! répondit Yoon.
+
+Elle se rapprocha d'Hasol et lui murmura quelques mots.
+
+— Tu as très bon goût.
+
+Hasol lui donna un léger coup de coude.
+
+— Arrête.
+
+Yoon éclata de rire.
+
+Les autres chasseurs arrivèrent progressivement.
+
+L'un d'eux s'approcha de Ray.
+
+— Sympa, ta tenue ! Et ton bâton aussi. Ça a dû te coûter une fortune.
+
+— C'est un cadeau d'une amie.
+
+— Eh bien, tu as de la chance !
+
+Le chasseur observa les personnes présentes avant de froncer les sourcils.
+
+— C'est étrange, nous ne sommes que treize. À quelle heure arrivent les autres ?
+
+— Quels autres ?
+
+— Les autres chasseurs du raid. Nous sommes encore loin des cent points, non ?
+
+Ray le regarda avec étonnement.
+
+— Tu ne connais pas mes coéquipières ?
+
+— Non, c'est la première fois que je participe à un raid avec vous.
+
+Ray désigna successivement les trois jeunes femmes.
+
+— Samia est de classe commune, comme nous. Yoon est de classe légendaire et Hasol de classe astrale.
+
+Le chasseur resta silencieux quelques secondes.
+
+— Une légendaire et une astrale ? Dans le même raid ?
+
+— Exactement.
+
+— Mais… Vous représentez cinquante-cinq points à vous quatre !
+
+— Voilà. Avec vous neuf, nous sommes à cent.
+
+<div class="system-window lit-window" data-window-id="L2-C4-F03" data-window-type="groupe">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C4-F03-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C4-F03.svg" alt="Fenêtre du système — Composition du raid. Version textuelle complète dans le volet suivant.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Composition du raid</div>
+  <p><strong>100 / 100 points de raid · 13 chasseurs</strong></p>
+  <p>Hasol — <span class="lit-badge lit-badge--astral" data-rarity="astral" title="Classe astrale">Arcaniste Astral</span><span class="lit-sr-only"> (classe astrale)</span> — 25 points</p>
+  <p>Yoon — <span class="lit-badge lit-badge--legendary" data-rarity="legendary" title="Classe légendaire">Sage runique</span><span class="lit-sr-only"> (classe légendaire)</span> — 20 points</p>
+  <p>Samia — <span class="lit-badge lit-badge--common" data-rarity="common" title="Classe commune">Marcheuse du voile</span><span class="lit-sr-only"> (classe commune)</span> — 5 points</p>
+  <p>Ray — <span class="lit-badge lit-badge--common" data-rarity="common" title="Classe commune">Mage de feu</span><span class="lit-sr-only"> (classe commune)</span> — 5 points</p>
+  <p>9 autres chasseurs de classe commune — 5 points par chasseur — 45 points</p>
+  </details>
+</div>
+
+— Je n'ai jamais participé à un raid avec une légendaire. Alors une astrale…
+
+Son regard s'arrêta sur Hasol, qui venait d'enfiler son masque de démon écarlate.
+
+— Attends une seconde… Ce serait elle, l'Astrale sanguinaire ?
+
+— En personne.
+
+— Et tu participes régulièrement à leurs raids ?
+
+— Désormais, oui.
+
+— Décidément, tu en as de la chance…
+
+Ray sourit en regardant Hasol.
+
+— Je commence à le croire.
+
+Les treize chasseurs franchirent le portail.
+
+Ray ne tarda pas à découvrir l'avantage que lui procurait sa nouvelle tenue.
+
+Lorsqu'un groupe de démons rouges s'approcha des quatre chasseurs écarlates, les créatures hésitèrent brièvement.
+
+— Ray ! Maintenant ! lança Hasol.
+
+— Boule de feu !
+
+Le projectile traversa l'espace qui les séparait des monstres et explosa au milieu d'eux.
+
+Hasol profita immédiatement de cette ouverture pour s'élancer.
+
+Samia décocha plusieurs flèches tandis que Yoon soutenait ses compagnons.
+
+Ray observa attentivement les déplacements d'Hasol, attendant qu'elle se trouve suffisamment éloignée des démons avant de lancer son prochain sort.
+
+— Trait incandescent !
+
+Un projectile enflammé atteignit une créature qui s'apprêtait à rejoindre le combat.
+
+Hasol tourna brièvement la tête vers lui.
+
+— Bien joué !
+
+Les quatre chasseurs poursuivirent leur progression.
+
+Lorsque l'expédition prit fin, Ray vint naturellement retrouver ses trois partenaires de raid.
+
+— Alors, demanda Hasol, prêt à recommencer ?
+
+— Quand vous voulez !
+
+— Demain ? proposa Samia.
+
+Ray rit.
+
+— Je commence à comprendre pourquoi vous progressez aussi vite.
+
+— Tu vas t'habituer, lui assura Yoon.
+
+Hasol retira son masque et lui adressa un sourire.
+
+### X. Les secrets de deux mères
+
+Quelques jours plus tard, Iseria retrouva Irène Corvus.
+
+Les deux femmes se connaissaient depuis de nombreuses années et avaient régulièrement l'occasion de discuter de leurs enfants.
+
+Mais cette fois-ci, Iseria avait quelque chose de particulièrement intéressant à lui raconter.
+
+— Tu aurais dû voir Hasol l'autre jour !
+
+— Pourquoi ? demanda Irène.
+
+— Elle est venue me demander une tenue de chasse et un bâton pour Ray.
+
+— Il me les a montrés ! Ils sont magnifiques. Je voulais justement te remercier.
+
+— Ce qui est amusant, c'est qu'elle voulait absolument les payer elle-même.
+
+Irène haussa les sourcils.
+
+— Vraiment ?
+
+— Elle s'est presque disputée avec moi lorsque j'ai refusé son argent.
+
+— Cela ne m'étonne pas d'elle.
+
+— Il a fallu que je lui révèle le prix pour qu'elle abandonne.
+
+Irène éclata de rire.
+
+— La pauvre !
+
+— Elle a dû s'asseoir.
+
+Les deux femmes rirent ensemble.
+
+— Mais ce n'est pas tout, poursuivit Iseria. Elle souhaite désormais que Ray participe à toutes leurs expéditions.
+
+Irène sourit.
+
+— Oui, il m'en a parlé. Je ne l'avais pas vu aussi enthousiaste depuis longtemps.
+
+Iseria se pencha légèrement vers elle.
+
+— Je crois que nos enfants commencent sérieusement à s'apprécier.
+
+— Commencent ?
+
+Irène lui adressa un regard malicieux.
+
+— Tu sais que Ray s'est rendu dans notre atelier d'orfèvrerie pour commander un Anneau runique ?
+
+Iseria ouvrit de grands yeux.
+
+— Pour Hasol ?
+
+— Pour qui d'autre ?
+
+— Oh !
+
+— Et il a demandé qu'on l'orne d'un diamant.
+
+Iseria porta une main à sa bouche, incapable de dissimuler son enthousiasme.
+
+— Un diamant ?
+
+— Oui. Il accorde énormément d'importance à cette commande.
+
+— Il ne lui en a pas encore parlé ?
+
+— Pas à ma connaissance. Et j'espère que tu ne lui diras rien !
+
+— Évidemment !
+
+Iseria récupéra sa tasse.
+
+— Hasol, qui se dispute avec moi pour payer les équipements de Ray, pendant que ton fils commande un anneau spécialement pour elle…
+
+Irène sourit tendrement.
+
+— Ils nous en auront fait attendre, ces deux-là.
+
+— Beaucoup trop longtemps !
+
+Les deux mères éclatèrent de rire.
+
+Leur conversation se prolongea une bonne partie de l'après-midi.
+
+### XI. Un avenir différent
+
+Les mois suivants furent particulièrement riches en expéditions.
+
+Ray découvrit rapidement les avantages d'une fréquentation aussi intensive des portails.
+
+Avec Hasol, Yoon et Samia, il affrontait bien davantage de créatures que lors de ses chasses habituelles.
+
+Sa progression s'accéléra considérablement.
+
+Un soir, alors qu'Hasol l'attendait à la bibliothèque, Ray arriva avec un large sourire.
+
+— J'ai quelque chose à te montrer !
+
+— Une nouvelle rune ?
+
+— Pour une fois, non.
+
+Il s'assit devant elle.
+
+— Niveau trente !
+
+— C'est pas trop tôt ! Tu aurais dû passer moins de temps à la bibliothèque durant tes années à l'Académie.
+
+— Et qui aurait répondu à toutes tes questions sur les runes ?
+
+Hasol éclata de rire.
+
+— Bon, je te l'accorde. Alors, montre-moi ta nouvelle compétence !
+
+<div class="system-window lit-window" data-window-id="L2-C4-F04" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C4-F04-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C4-F04.svg" alt="Fenêtre du système — Nouvelle compétence · Niveau 30. Version textuelle complète dans le volet suivant.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Nouvelle compétence · Niveau 30</div>
+  <h3>Mur de flammes</h3>
+  <p>Compétence active · Feu</p>
+  <p>Crée une ligne de flammes temporaire permettant de contrôler une partie du terrain.</p>
+  <p>Les flammes peuvent également blesser les alliés.</p>
+  </details>
+</div>
+
+Hasol examina attentivement la description.
+
+— Ça pourrait être particulièrement intéressant contre les groupes de démons.
+
+— C'est ce que je pensais. Je pourrais les obliger à contourner certaines zones.
+
+— Ou les inciter à se regrouper !
+
+Ray la regarda.
+
+— Pour Siphon runique ?
+
+Hasol sourit.
+
+— Tu commences à vraiment bien me connaître.
+
+Dès leur expédition suivante, ils expérimentèrent ensemble les possibilités offertes par cette nouvelle compétence.
+
+Ray dressa un mur de flammes à proximité d'un groupe de démons.
+
+Plusieurs créatures modifièrent leur trajectoire pour éviter le feu.
+
+Hasol profita de leur regroupement.
+
+— Siphon runique !
+
+Une onde de vent frappa les démons regroupés autour d'Hasol.
+
+Ray observa le résultat.
+
+— Je crois que ça fonctionne plutôt bien.
+
+— Plutôt bien ? C'est excellent !
+
+Les expéditions se poursuivirent.
+
+Zio les accompagna à quelques reprises lorsque ses disponibilités le lui permettaient, sans pour autant abandonner son propre groupe.
+
+Ray, lui, ne manquait pratiquement aucun de leurs raids.
+
+Il avait progressivement délaissé les chasses classiques. Ses anciens compagnons comprenaient parfaitement son choix. Peu de chasseurs avaient la possibilité de participer aussi régulièrement aux expéditions d'une Astrale et d'une Légendaire.
+
+Lorsqu'il atteignit le niveau quarante, Hasol fut une nouvelle fois la première personne à laquelle il souhaita présenter ses nouvelles compétences.
+
+<div class="system-window lit-window" data-window-id="L2-C4-F05" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C4-F05-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C4-F05.svg" alt="Fenêtre du système — Nouvelles compétences · Niveau 40. Version textuelle complète dans le volet suivant.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Nouvelles compétences · Niveau 40</div>
+  <h3>Déflagration</h3>
+  <p>Compétence active · Feu</p>
+  <p>Provoque une explosion de feu autour d'un point visible.</p>
+  <h3>Combustion maîtrisée</h3>
+  <p>Compétence passive</p>
+  <p>Réduit les pertes de Mana lors de l'utilisation des sorts de feu.</p>
+  </details>
+</div>
+
+— Enfin ! s'exclama Ray.
+
+Hasol releva les yeux.
+
+— Tu attendais une compétence particulière ?
+
+— Combustion maîtrisée. Je vais enfin pouvoir utiliser un peu plus souvent mes sorts sans craindre de manquer de mana.
+
+— Et Déflagration ?
+
+Ray sourit.
+
+— J'ai hâte de l'essayer.
+
+Il n'eut pas à attendre longtemps.
+
+Lors de leur expédition suivante, Yoon ralentit un rassemblement de démons grâce à son Domaine des Entraves runiques.
+
+Ray attendit qu'Hasol s'écarte des créatures.
+
+Il pointa son bâton dans leur direction.
+
+— Déflagration !
+
+Une violente explosion de feu illumina les environs.
+
+Samia tourna immédiatement la tête vers lui.
+
+— Eh bien !
+
+— Pas mal, hein ?
+
+— Préviens-moi avant de faire ça à côté de moi !
+
+Hasol acheva l'un des démons encore debout.
+
+— On devrait essayer de combiner Déflagration avec Siphon runique !
+
+Samia soupira.
+
+— Il ne manquait plus que ça…
+
+Yoon éclata de rire.
+
+De son côté, Hasol poursuivait sa croissance runique.
+
+Lorsqu'elle disposa enfin de trente-six cercles de mana, elle concrétisa le projet qu'elle avait élaboré avec Ray à la bibliothèque.
+
+Elle avait préparé les runes nécessaires en réserve et les avait équipées au fil des nouveaux cercles. Quatre nouvelles runes Fatal vinrent ainsi compléter son équipement.
+
+Elle avait consacré de nombreuses heures à rechercher les statistiques qu'ils avaient sélectionnées ensemble, se montrant particulièrement exigeante concernant l'Attaque et la Puissance arcanique.
+
+<div class="system-window lit-window" data-window-id="L2-C4-F06" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C4-F06-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C4-F06.svg" alt="Fenêtre du système — Équipement runique. Version textuelle complète dans le volet suivant.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Équipement runique</div>
+  <p><strong>36 / 36 runes équipées · 10 bonus d’ensemble actifs</strong></p>
+  <p>Vol de vie — 8 runes · 2 ensembles</p>
+  <p>Arcanique — 8 runes · 2 ensembles</p>
+  <p>Vitesse — 8 runes · 2 ensembles</p>
+  <p>Énergie — 2 runes · 1 ensemble</p>
+  <p>Gardien — 2 runes · 1 ensemble</p>
+  <p>Fatal — 8 runes · 2 ensembles</p>
+  </details>
+</div>
+
+Les résultats confirmèrent les attentes de Ray.
+
+— Tu avais raison ! lui annonça-t-elle après une expédition.
+
+— Concernant quoi ?
+
+— Le deuxième ensemble Fatal ! Mon vol de vie est encore plus efficace qu'avant.
+
+— Je suis heureux de l'apprendre.
+
+Hasol lui adressa un large sourire.
+
+— Qu'est-ce que je ferais sans toi ?
+
+Ray la regarda quelques instants.
+
+— Tu trouverais probablement quelqu'un d'autre pour passer ses soirées à étudier des combinaisons de runes.
+
+— Certainement pas !
+
+Elle lui donna un léger coup d'épaule.
+
+— Tu es irremplaçable.
+
+Ray devint silencieux.
+
+Hasol, qui examinait déjà ses notes, ne remarqua pas son expression.
+
+Le temps continua de s'écouler.
+
+Ray atteignit finalement le niveau cinquante.
+
+Une nouvelle fois, il vint présenter sa compétence à Hasol.
+
+<div class="system-window lit-window" data-window-id="L2-C4-F07" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C4-F07-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C4-F07.svg" alt="Fenêtre du système — Nouvelle compétence · Niveau 50. Version textuelle complète dans le volet suivant.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Nouvelle compétence · Niveau 50</div>
+  <h3>Fournaise</h3>
+  <p>Compétence active · Feu</p>
+  <p>Crée une zone de flammes intenses maintenue par la concentration du lanceur.</p>
+  <p>Consomme du Mana tant que la compétence est maintenue.</p>
+  </details>
+</div>
+
+— Une nouvelle compétence de zone ! s'enthousiasma Hasol.
+
+— Oui, mais elle risque d'être particulièrement gourmande en mana.
+
+— Il faudra réfléchir à de nouveaux ensembles pour ton équipement.
+
+— Je savais que tu allais me dire ça.
+
+Hasol éclata de rire.
+
+Ray rangea son carnet.
+
+— Tu sais, je n'aurais jamais imaginé atteindre le niveau cinquante aussi rapidement.
+
+— Tu te débrouilles vraiment bien.
+
+— Grâce aux portails.
+
+Il regarda Hasol.
+
+— Et grâce à toi.
+
+Elle lui sourit.
+
+— Tu as travaillé autant que nous.
+
+— Peut-être. Mais sans ton invitation, je serais probablement encore en train de chasser avec mes anciens compagnons.
+
+Hasol baissa brièvement les yeux.
+
+Voilà bien longtemps que Ray n'avait pas participé à une chasse en forêt.
+
+— Tu ne regrettes pas ?
+
+— Pas une seule seconde.
+
+Il lui adressa un sourire.
+
+— Pourquoi cette question ?
+
+— Pour rien.
+
+Elle sourit à son tour.
+
+### XII. Le cœur et la raison
+
+— On devrait aller manger quelque chose, proposa Ray.
+
+Hasol releva la tête.
+
+— Tu as terminé tes recherches ?
+
+— Non.
+
+— Alors pourquoi veux-tu partir ?
+
+— Parce que tu n'as pas quitté cette chaise depuis des heures.
+
+Hasol regarda autour d'elle.
+
+La bibliothèque s'était progressivement vidée.
+
+— Il est si tard que ça ?
+
+— Oui.
+
+Elle referma son carnet.
+
+— Très bien. Mais c'est toi qui choisis où nous allons.
+
+— Avec plaisir.
+
+Ils quittèrent ensemble la bibliothèque.
+
+Les rues étaient encore animées malgré l'heure.
+
+Hasol marchait tranquillement aux côtés de Ray, profitant de la douceur de la soirée.
+
+— Tu te souviens de nos premières recherches à l'Académie ? demanda-t-il.
+
+— Comment pourrais-je les oublier ?
+
+— Tu venais me voir presque tous les jours avec de nouvelles questions.
+
+— Et tu avais toujours une réponse.
+
+— Pas toujours.
+
+— Dans ce cas, tu passais les jours suivants à la chercher.
+
+Ray sourit.
+
+— Tu étais particulièrement tenace.
+
+— J'avais trouvé quelqu'un de compétent. J'allais quand même pas le laisser filer !
+
+— Je vois. J'étais donc simplement utile.
+
+— Très utile, même !
+
+Ray prit un air faussement vexé.
+
+Hasol éclata de rire.
+
+Ils arrivèrent devant un établissement que Ray connaissait bien.
+
+Pour une fois, Hasol ne sortit ni son carnet ni ses notes sur les runes. La soirée se déroula agréablement, même si elle remarqua que Ray semblait parfois préoccupé.
+
+— Tout va bien ? lui demanda-t-elle.
+
+— Oui, pourquoi ?
+
+— Tu as l'air nerveux.
+
+— C'est possible…
+
+— Tu veux me parler de quelque chose ?
+
+Ray hésita.
+
+— Après le repas.
+
+Hasol haussa légèrement les sourcils.
+
+— Très mystérieux, monsieur Corvus.
+
+Il sourit.
+
+Lorsqu'ils quittèrent l'établissement, ils poursuivirent leur promenade jusqu'à trouver un endroit tranquille.
+
+Ray s'arrêta.
+
+— Hasol…
+
+— Oui ?
+
+Il sortit un petit écrin de sa poche.
+
+— J'aimerais t'offrir quelque chose.
+
+Hasol le regarda avec étonnement.
+
+— Pour quelle occasion ?
+
+— Ouvre-le.
+
+Elle souleva délicatement le couvercle.
+
+À l'intérieur se trouvait un anneau en or jaune, au jonc épais et parfaitement lisse. Un magnifique diamant rond était serti directement dans le métal, sans griffes saillantes.
+
+— Ray… Il est magnifique !
+
+Elle sortit délicatement le bijou de son écrin.
+
+— J'ai demandé à notre atelier de réaliser un sertissage particulier, expliqua-t-il. Je ne voulais pas que la pierre puisse te gêner lorsque tu tiens ton épée.
+
+— Tu l'as fait fabriquer spécialement pour moi ?
+
+— Oui. Et ce n'est pas un anneau ordinaire.
+
+Hasol l'examina avec davantage d'attention.
+
+<div class="system-window lit-window" data-window-id="L2-C4-F08" data-window-type="equipement">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C4-F08-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C4-F08.svg" alt="Fenêtre du système — Anneau runique. Version textuelle complète dans le volet suivant.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Anneau runique</div>
+  <p>Accessoire</p>
+  <p>Effet : donne accès à un inventaire exclusivement réservé au stockage des runes.</p>
+  </details>
+</div>
+
+Ses yeux s'illuminèrent.
+
+— Un inventaire réservé aux runes !
+
+— Je me suis dit que ça pourrait t'être utile.
+
+— Utile ? Mais c'est génial ! Tu n'imagines pas le temps que je passe à chercher certaines runes dans mon inventaire !
+
+Ray rit.
+
+— Si, justement.
+
+Hasol contempla de nouveau le diamant.
+
+— Mais pourquoi avoir fait fabriquer un anneau aussi beau ?
+
+Ray prit une profonde inspiration.
+
+— Parce que je ne voulais pas simplement t'offrir un équipement.
+
+Hasol releva les yeux.
+
+— Depuis toutes ces années, tu es devenue la personne avec laquelle j'ai le plus envie de passer mon temps. Et pas uniquement pour parler de runes.
+
+Il marqua une courte pause.
+
+— Hasol, je suis amoureux de toi.
+
+La jeune femme resta silencieuse.
+
+Elle sentit ses joues s'échauffer.
+
+Elle avait imaginé cette conversation à plusieurs reprises, sans jamais parvenir à déterminer ce qu'elle lui répondrait.
+
+Maintenant qu'elle se trouvait devant lui, les mots lui manquaient.
+
+— Ray…
+
+Il attendit patiemment.
+
+— Tu sais que je tiens énormément à toi ?
+
+— Oui.
+
+— Ces derniers mois, je me suis souvent posé des questions sur ce que je ressentais.
+
+Elle baissa les yeux vers l'anneau.
+
+— J'aimerais pouvoir te donner une réponse sans la moindre hésitation. Mais je crois que j'ai encore besoin d'un peu de temps.
+
+Ray acquiesça.
+
+— Je comprends.
+
+Hasol observa son visage.
+
+— Ça ne veut pas dire que je ne souhaite pas être avec toi !
+
+— Hasol, tu n'es pas obligée de…
+
+— Attends !
+
+Elle réfléchit quelques instants.
+
+Puis elle releva les yeux vers lui.
+
+— Si tu es d'accord… Soyons fiancés, dans un premier temps.
+
+Ray resta bouche bée.
+
+— Fiancés ?
+
+— Oui. On n'est pas obligés de se marier demain, non plus !
+
+— Non, évidemment !
+
+— On pourrait prendre notre temps. Continuer à faire ce qu'on aime ensemble et voir où tout cela nous mène.
+
+Un immense sourire apparut sur le visage de Ray.
+
+— Avec plaisir.
+
+Hasol lui tendit l'anneau, puis sa main.
+
+— Alors ?
+
+Ray récupéra délicatement le bijou et le glissa à son doigt.
+
+Hasol contempla sa main.
+
+— Il me va parfaitement.
+
+— Heureusement.
+
+— Tu connaissais ma taille ?
+
+— J'ai mes sources.
+
+— Ta mère ?
+
+Ray éclata de rire.
+
+Hasol sourit avant de se rapprocher de lui et de le prendre dans ses bras.
+
+— Merci, Ray.
+
+Il la serra doucement contre lui.
+
+Ils reprirent leur promenade quelques instants plus tard.
+
+Cette fois, lorsque Ray lui prit la main, Hasol ne la retira pas.
+
+Lorsqu'elle rentra chez elle, Iseria était installée dans le salon.
+
+— Tu as passé une bonne soirée ?
+
+— Excellente !
+
+Hasol s'approcha de sa mère.
+
+— Regarde.
+
+Elle lui présenta sa main.
+
+Iseria reconnut immédiatement l'anneau.
+
+— Oh !
+
+— Ray me l'a offert.
+
+— Il est magnifique, ma chérie.
+
+Hasol sourit timidement.
+
+— Et… Nous sommes fiancés.
+
+Iseria se leva brusquement.
+
+— Vous êtes quoi ?
+
+— Fiancés.
+
+Sa mère la prit aussitôt dans ses bras.
+
+— Oh, ma chérie !
+
+— Maman, calme-toi ! On n'a pas encore prévu de se marier !
+
+— Je sais, je sais !
+
+Iseria recula pour examiner de nouveau l'anneau.
+
+— Il faudra que j'invite Irène.
+
+Hasol plissa les yeux.
+
+— Tu savais quelque chose, n'est-ce pas ?
+
+— Moi ?
+
+— Maman…
+
+Iseria éclata de rire.
+
+— Bonne nuit, ma chérie.
+
+— C'est ça…
+
+Hasol rejoignit sa chambre, toujours souriante.
+
+Une fois allongée, elle leva sa main devant elle et contempla le diamant à la lumière de sa lampe.
+
+Elle repensa aux paroles de Ray.
+
+Puis aux siennes.
+
+*Soyons fiancés.*
+
+Elle ne savait pas encore si elle avait trouvé toutes les réponses qu'elle cherchait.
+
+Mais elle avait envie de découvrir la suite à ses côtés.
+
+Pour cette nuit, cela lui suffisait.
+
+*Fin du chapitre 4 — Cette fois, avec moi.*
+
+---
+
+<span id="chapitre-5"></span>
+
+## Chapitre 5 — Le village sur la carte
+
+### I. Une nouvelle fiancée
+
+— Fais voir !
+
+Hasol tendit sa main à Yoon.
+
+Cette dernière contempla attentivement l'anneau avant de se tourner vers Samia.
+
+— Tu vois ? Je te l'avais dit !
+
+— Qu'est-ce que tu lui avais dit ? demanda Hasol.
+
+— Que Ray finirait par se déclarer.
+
+Samia sourit.
+
+— Elle commençait même à trouver le temps long.
+
+— Vous parliez de nous dans mon dos ?
+
+— Évidemment !
+
+Hasol leva les yeux au ciel.
+
+Yoon examina de nouveau le bijou.
+
+— Il a vraiment choisi quelque chose de magnifique.
+
+— Il l'a fait fabriquer dans l'atelier de sa famille. Le diamant est serti dans l'anneau pour ne pas me gêner lorsque je combats.
+
+— Et maintenant, vous êtes ensemble ?
+
+— Nous sommes fiancés.
+
+Yoon lâcha immédiatement sa main.
+
+— FIANCÉS ?!
+
+Plusieurs chasseurs se retournèrent dans leur direction.
+
+— Moins fort ! s'exclama Hasol.
+
+Samia éclata de rire.
+
+— Eh bien, félicitations !
+
+Yoon prit aussitôt son amie dans ses bras.
+
+— Il va falloir fêter ça !
+
+— On n'a encore rien prévu !
+
+— Ça ne change rien !
+
+Ray arriva quelques instants plus tard, son bâton à la main.
+
+— Bonjour !
+
+Yoon se tourna vers lui.
+
+— Tiens, voilà le fiancé !
+
+Ray regarda Hasol.
+
+— Tu leur as déjà annoncé la nouvelle ?
+
+— Je crois que tous les chasseurs présents sont au courant maintenant.
+
+— De rien ! répondit Yoon.
+
+Samia désigna le portail.
+
+— Bon, les amoureux, on est quand même venus pour travailler.
+
+Hasol enfila son masque de démon.
+
+— Heureusement que tu es là.
+
+— Je me le dis de plus en plus souvent.
+
+### II. Aimant runique
+
+Les chasseurs pénétrèrent dans le portail.
+
+Hasol avait conservé son anneau, impatiente d'expérimenter son nouvel inventaire au cours d'une véritable expédition.
+
+Elle ne tarda pas à en apprécier l'utilité.
+
+Les runes qu'elle obtenait pouvaient désormais être rangées séparément du reste de son butin.
+
+Elle allait enfin pouvoir accéder plus facilement à celles qu'elle réservait à Aura runique.
+
+Un peu plus loin, plusieurs démons rouges s'approchèrent d'elle.
+
+Hasol attendit qu'ils soient suffisamment proches.
+
+— Siphon runique !
+
+Une violente onde de vent frappa les créatures qui l'entouraient, éliminant les plus affaiblies tout en restaurant une partie de son Mana.
+
+Elle acheva les survivants à l'épée.
+
+Alors qu'elle s'apprêtait à rejoindre ses compagnons, de petites inscriptions turquoise apparurent brièvement autour de son anneau.
+
+Une notification se manifesta devant elle.
+
+<div class="system-window lit-window" data-window-id="L2-C5-F01" data-window-type="competence">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C5-F01-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C5-F01.svg" alt="Fenêtre du système — Nouvelle compétence. Version textuelle complète dans le volet suivant.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Nouvelle compétence</div>
+  <h3>Aimant runique</h3>
+  <p>Compétence passive</p>
+  <p>Effet : les chances d'obtention de runes sont améliorées.</p>
+  </details>
+</div>
+
+— Oh !
+
+Hasol relut attentivement la fenêtre avant de regarder l'anneau à son doigt.
+
+— Ray !
+
+Le mage se tourna vers elle.
+
+— Qu'est-ce qu'il y a ?
+
+— Ton anneau vient de me débloquer une compétence !
+
+— Mon anneau ?
+
+— Regarde !
+
+Elle lui présenta la description d'Aimant runique.
+
+Ray ajusta ses lunettes.
+
+— C'est intéressant… Tu sais de combien tes chances sont améliorées ?
+
+— Non, ce n'est pas précisé.
+
+— Il faudra comparer les résultats de tes prochaines expéditions.
+
+Hasol hocha la tête avec enthousiasme.
+
+Samia, qui venait de les rejoindre, consulta à son tour la description.
+
+— Encore plus de runes…
+
+— Tu te rends compte de ce que ça représente pour mon artisanat ?
+
+— Malheureusement, oui.
+
+Yoon rit.
+
+— Ray, je crois que tu viens de lui offrir le meilleur cadeau possible.
+
+Hasol contempla de nouveau son anneau.
+
+— Je crois aussi.
+
+Elle se rapprocha de lui et déposa un baiser sur sa joue.
+
+Ray devint écarlate.
+
+Yoon porta immédiatement une main à sa bouche.
+
+— Oh !
+
+— Pas un mot ! lança Hasol.
+
+Samia secoua la tête.
+
+— Ça va être long, cette expédition…
+
+### III. Les années heureuses
+
+Les fiançailles ne bouleversèrent pas les habitudes des deux chasseurs.
+
+Hasol et Ray continuèrent de consacrer une grande partie de leur temps aux portails et à leurs recherches, tout en prenant régulièrement quelques soirées pour eux.
+
+Iseria et Irène trouvaient également de plus en plus d'occasions de réunir leurs enfants autour d'un repas.
+
+— Vous n'avez toujours pas choisi de date ? demanda un soir Irène.
+
+— Maman… murmura Ray.
+
+— Je pose simplement une question.
+
+— Nous avons le temps, répondit Hasol.
+
+— Bien sûr, intervint Iseria. Absolument tout notre temps.
+
+Irène lui adressa un regard amusé.
+
+Hasol soupira.
+
+— Vous êtes terribles, toutes les deux.
+
+À mesure que les années passaient, Hasol poursuivait ses activités auprès de maître Orven.
+
+Aimant runique lui permettait d'obtenir plus régulièrement de nouvelles pièces, dont certaines présentaient un véritable intérêt pour son équipement.
+
+Maître Orven se réjouissait de cette nouvelle compétence.
+
+— Si tous mes élèves pouvaient obtenir autant de runes que toi…
+
+— Vous manqueriez de place dans votre atelier.
+
+— J'en manque déjà à cause de toi !
+
+Hasol éclata de rire.
+
+Ray continuait de l'aider à rechercher les meilleures combinaisons, tout en perfectionnant son propre équipement.
+
+Leurs discussions se prolongeaient parfois jusque tard dans la soirée.
+
+Il n'était plus rare qu'Hasol s'endorme sur l'épaule de son fiancé, au milieu de leurs ouvrages.
+
+Ray avait appris à poursuivre ses recherches sans la réveiller.
+
+Les quatre écarlates continuaient également de participer régulièrement aux expéditions organisées par les guildes.
+
+Leur présence était particulièrement appréciée des autres chasseurs.
+
+Samia, quant à elle, consacrait une part toujours plus importante de son temps à une tout autre activité.
+
+### IV. La carte de Samia
+
+Les guildes accordaient une importance croissante aux informations fournies par Samia.
+
+Grâce à Écho des Mondes et Vision du Voile, elle était capable de localiser les portails dans les régions qu'elle avait déjà explorées et d'en identifier la couleur.
+
+Hasol la retrouva un après-midi dans une salle où plusieurs officiers préparaient les prochaines interventions.
+
+Samia était penchée sur une grande carte.
+
+— Celui-ci est vert, expliqua-t-elle en désignant un emplacement. Et il y en a un blanc un peu plus au sud.
+
+L'un des officiers ajouta deux marques sur la carte.
+
+— Une estimation de leur ouverture ?
+
+— Toujours pas.
+
+— Nous allons envoyer des éclaireurs.
+
+— Prévenez également les habitants de cette région. Il y a plusieurs exploitations agricoles près du portail vert.
+
+L'officier acquiesça.
+
+Lorsqu'il quitta la salle, Hasol s'approcha de son amie.
+
+— Tu es devenue indispensable, on dirait.
+
+Samia sourit.
+
+— Je préférerais qu'ils arrêtent de venir me chercher pendant mes jours de repos.
+
+— Tu pourrais leur demander de te mettre à disposition une salle entière.
+
+— Ne leur donne pas cette idée !
+
+Hasol observa la carte.
+
+Plusieurs régions étaient couvertes de marques de différentes couleurs.
+
+— Tu as vraiment parcouru tous ces endroits ?
+
+— Pas chaque chemin, évidemment. Mais une bonne partie.
+
+Samia désigna une région de villages agricoles.
+
+— C'est par ici que j'ai grandi.
+
+— Tu y retournes régulièrement ?
+
+— Pas suffisamment au goût de ma tante.
+
+Elle sortit une lettre de sa sacoche.
+
+— D'ailleurs, elle m'a écrit récemment.
+
+— De bonnes nouvelles ?
+
+— Mon petit cousin a décidé qu'il deviendrait chasseur.
+
+Hasol sourit.
+
+— Il a quel genre de classe ?
+
+— Il est encore bien trop jeune pour ça ! Il a fabriqué un arc avec une branche et de la ficelle. Il prétend pouvoir atteindre les pommes du jardin depuis le toit de la remise.
+
+— Et il y arrive ?
+
+— Absolument pas. Mais il aurait déjà cassé deux pots et effrayé toutes les poules.
+
+Hasol éclata de rire.
+
+— Une carrière prometteuse !
+
+Samia replia soigneusement la lettre.
+
+— Il veut que je lui apprenne à tirer. Je lui ai promis de passer dès que j'aurais quelques jours.
+
+— Tu devrais y aller.
+
+— Quand les interventions se calmeront.
+
+— On arrivera très bien à se débrouiller sans toi pendant quelques jours.
+
+Samia regarda Hasol d'un air sceptique.
+
+— Qui va vérifier que tu manges correctement ?
+
+— Ray.
+
+— Alors vous êtes perdus tous les deux.
+
+Hasol rit.
+
+Samia rangea sa lettre avant de reprendre son travail.
+
+### V. Une nouvelle couleur
+
+Un matin, Samia fit une découverte inhabituelle.
+
+Un portail venait d'être détecté dans une région qu'elle connaissait.
+
+Sa couleur n'était ni blanche ni verte.
+
+Elle se rendit immédiatement auprès des responsables de la guilde.
+
+— Un portail bleu ? répéta l'un des officiers.
+
+— Oui.
+
+— Tu en es certaine ?
+
+— Absolument.
+
+Les responsables mobilisèrent rapidement plusieurs équipes.
+
+D'autres signalements confirmèrent bientôt l'apparition de cette nouvelle catégorie de portails.
+
+Les premières expéditions révélèrent des créatures bien plus dangereuses que celles rencontrées jusqu'alors.
+
+<div class="system-window lit-window" data-window-id="L2-C5-F02" data-window-type="portail">
+  <picture class="lit-window__github-picture">
+    <source media="(max-width: 600px)" srcset="assets/fenetres-livre-2/L2-C5-F02-mobile.svg">
+    <img src="assets/fenetres-livre-2/L2-C5-F02.svg" alt="Fenêtre du système — Portail bleu. Version textuelle complète dans le volet suivant.">
+  </picture>
+  <details class="lit-window__transcript">
+    <summary class="lit-window__transcript-toggle">Version textuelle de la fenêtre</summary>
+  <div class="system-header">Portail bleu</div>
+  <p>Démons : <strong>niveau 30</strong></p>
+  <p>Boss : <strong>niveau 50</strong></p>
+  <p>Capacité du raid : <strong>100 points</strong></p>
+  <p>Délai avant ouverture : <strong>48 heures</strong></p>
+  </details>
+</div>
+
+Les guildes durent revoir leur organisation.
+
+Les chasseurs capables d'affronter de tels adversaires étaient moins nombreux, et leur répartition entre les différentes interventions devenait difficile.
+
+Samia passa de longues heures auprès des officiers, actualisant leurs cartes à chaque nouvelle détection.
+
+Les quatre écarlates participèrent à plusieurs expéditions contre ces nouveaux portails.
+
+Leurs années de préparation portèrent leurs fruits.
+
+Ray utilisait désormais Fournaise avec une grande maîtrise. Samia ralentissait les créatures qui tentaient de s'échapper de ses flammes, tandis que Yoon soutenait les membres de son groupe.
+
+Hasol alternait les attaques à l'épée et Siphon runique, profitant de ses ensembles Vol de vie pour maintenir sa présence au milieu des démons.
+
+Les portails bleus représentaient une nouvelle étape dans leur progression.
+
+Pour les guildes, en revanche, chaque nouvelle apparition devenait une source d'inquiétude.
+
+### VI. Un portail près de l'Académie
+
+Hasol venait de terminer une commande chez maître Orven lorsqu'elle reçut un message du directeur de l'Académie.
+
+Un portail bleu était apparu à proximité de l'établissement.
+
+Une intervention était en cours de préparation.
+
+Le directeur souhaitait savoir si elle pouvait y participer.
+
+Hasol se rendit à l'Académie dans l'après-midi.
+
+— Hasol ! Je suis heureux que tu sois venue.
+
+— Vous souhaitiez me voir au sujet du portail ?
+
+— Effectivement. Nous avons déjà contacté plusieurs guildes, mais je dois t'avouer que ta présence lors de cette expédition me rassurerait énormément.
+
+Hasol sourit.
+
+— Je participerai au raid.
+
+Le directeur sembla immédiatement soulagé.
+
+— Merci.
+
+Il lui présenta une carte des environs.
+
+— Nous avons interdit aux élèves de s'approcher de cette zone. Certains parents commencent également à s'inquiéter.
+
+— Je comprends. Ray et Yoon pourront certainement m'accompagner.
+
+— Et Samia ?
+
+— Elle passe beaucoup de temps auprès des guildes en ce moment. Je lui demanderai.
+
+Le directeur acquiesça.
+
+— Lorsque je repense à vos premières années ici…
+
+— Quoi donc ?
+
+— J'étais loin d'imaginer que je finirais un jour par solliciter ton aide pour assurer la sécurité de l'Académie.
+
+Hasol éclata de rire.
+
+— Vous étiez pourtant particulièrement exigeant avec moi.
+
+— Et je ne le regrette absolument pas !
+
+Ils discutèrent encore quelques instants avant qu'Hasol ne rejoigne ses compagnons.
+
+### VII. Le village sur la carte
+
+Samia se tenait devant la grande carte de la guilde.
+
+Un officier venait d'ajouter plusieurs marques bleues lorsqu'elle lui demanda de s'arrêter.
+
+— Attendez.
+
+Elle désigna une région à l'écart des autres portails.
+
+— Il y en a un autre, ici.
+
+L'officier récupéra son crayon.
+
+— Quelle couleur ?
+
+Samia ne répondit pas immédiatement.
+
+— Bleu.
+
+Elle se pencha davantage sur la carte.
+
+Son doigt suivit une route avant de s'arrêter sur un petit village.
+
+— Il faut envoyer quelqu'un là-bas.
+
+— Nous allons transmettre l'information.
+
+— Il y a un village juste à côté !
+
+— Samia, nous avons plusieurs interventions en cours. Je vais demander aux guildes de la région quelles équipes sont disponibles.
+
+— Et pour l'évacuation ?
+
+— Nous allons prévenir les autorités locales.
+
+Samia observa encore quelques instants la carte.
+
+— Je vais m'y rendre.
+
+— Attends au moins que nous ayons une réponse concernant les renforts.
+
+— Ma famille vit dans ce village.
+
+L'officier releva les yeux.
+
+— Je comprends. Mais ne tente surtout pas de pénétrer dans ce portail seule.
+
+— Ce n'est pas mon intention.
+
+Samia récupéra ses affaires.
+
+Elle retrouva Hasol et Ray alors qu'ils préparaient leur prochaine expédition.
+
+— Hasol, je ne pourrai pas venir avec vous cette fois-ci.
+
+— Oh ? Quelque chose de prévu ?
+
+— Un portail bleu est apparu près du village de ma tante.
+
+Hasol cessa immédiatement de ranger ses runes.
+
+— Celui dont tu m'avais parlé ?
+
+— Oui.
+
+— Tu sais depuis combien de temps il est là ?
+
+— Non. Je viens seulement de le détecter.
+
+— La guilde envoie une équipe ?
+
+— Ils cherchent des chasseurs disponibles.
+
+Samia vérifia les attaches de sa sacoche.
+
+— Je vais prévenir ma famille et aider les habitants à quitter le village.
+
+Hasol réfléchit quelques instants.
+
+— Tu veux que je vienne avec toi ?
+
+— Tu n'as pas promis au directeur de participer à l'expédition près de l'Académie ?
+
+— Si…
+
+— Alors vas-y. Je ne compte pas combattre le boss toute seule, de toute façon.
+
+Ray intervint.
+
+— Tu nous enverras un message lorsque tu seras arrivée ?
+
+— Bien sûr.
+
+Hasol sourit à son amie.
+
+— Et profite-en pour passer un peu de temps avec ton petit cousin, une fois le portail fermé.
+
+— C'est bien mon intention !
+
+Samia ajusta son arc.
+
+— À bientôt, vous deux.
+
+— À bientôt !
+
+Hasol reprit la préparation de son équipement.
+
+— Tu crois qu'on pourrait trouver quelques chasseurs pour l'aider ? demanda-t-elle à Ray.
+
+— Je vais me renseigner auprès de la guilde avant notre départ.
+
+— Merci.
+
+### VIII. Deux expéditions
+
+Samia arriva au village en fin de journée.
+
+Elle reconnut les terres agricoles, les petites maisons et le chemin qui menait à la demeure de sa tante.
+
+Elle n'avait pas parcouru quelques mètres dans la rue principale qu'une voix familière retentit derrière elle.
+
+— SAMIA !
+
+Un jeune garçon courut dans sa direction.
+
+Il tenait un morceau de bois courbé auquel était attachée une ficelle.
+
+— Regarde !
+
+Samia éclata de rire.
+
+— Alors, c'est donc toi, le terrible chasseur dont tout le monde parle ?
+
+— Regarde mon arc !
+
+Il lui présenta fièrement sa création.
+
+Samia s'accroupit devant lui.
+
+— Pas mal du tout. Mais il faudra revoir la manière dont tu tiens tes flèches.
+
+— Tu vas m'apprendre ?
+
+— Bien sûr !
+
+— Maintenant ?
+
+— Pas tout de suite. Où est ta mère ?
+
+— À la maison !
+
+Il lui prit la main et l'entraîna jusqu'au jardin.
+
+Comme à son habitude, sa tante avait planté de nombreuses fleurs devant la maison.
+
+Lorsqu'elle aperçut Samia, elle abandonna immédiatement ses occupations.
+
+— Tu aurais pu nous prévenir !
+
+Elle la prit chaleureusement dans ses bras.
+
+— Je t'aurais préparé quelque chose !
+
+— Je ne vais malheureusement pas pouvoir rester longtemps.
+
+L'expression de sa tante changea.
+
+— Il y a un problème ?
+
+— Un portail est apparu non loin du village. Il faudrait préparer quelques affaires et quitter les lieux par précaution.
+
+— Un portail ?
+
+— Les guildes sont prévenues. Mais je préférerais que vous soyez tous à l'abri avant leur arrivée.
+
+Sa tante acquiesça.
+
+— Je vais chercher ton oncle.
+
+Le petit garçon leva les yeux vers Samia.
+
+— Tu vas combattre des monstres ?
+
+— J'espère que non.
+
+— Je peux venir avec toi ?
+
+— Certainement pas !
+
+Elle lui ébouriffa les cheveux.
+
+— Ta première mission de chasseur sera d'aider tes parents à préparer leurs affaires.
+
+Il redressa fièrement les épaules.
+
+— D'accord !
+
+Samia sourit.
+
+— Et n'oublie pas ton arc.
+
+Près de l'Académie, Hasol retrouvait les chasseurs mobilisés pour l'expédition.
+
+Le directeur était également présent.
+
+Lorsqu'il aperçut les trois tenues écarlates, il vint immédiatement à leur rencontre.
+
+— Merci à tous les trois.
+
+Yoon lui adressa un sourire.
+
+— Cela faisait longtemps, monsieur le directeur.
+
+— Effectivement ! Je suis heureux de vous revoir, même dans de telles circonstances.
+
+Il remarqua l'anneau d'Hasol.
+
+— Tiens donc…
+
+Hasol suivit son regard.
+
+— Ah, oui…
+
+Elle désigna Ray.
+
+— Nous sommes fiancés.
+
+— Eh bien ! Mes félicitations !
+
+Ray le remercia.
+
+— Vous formiez déjà un duo inséparable à la bibliothèque, poursuivit le directeur. Je suppose que je ne devrais pas être surpris.
+
+Yoon éclata de rire.
+
+— Vous voyez ? Même lui l'avait remarqué !
+
+Hasol soupira.
+
+— On pourrait peut-être se concentrer sur le portail ?
+
+— Excellente idée, répondit Ray.
+
+Une voix familière retentit derrière eux.
+
+— Bonjour à tous !
+
+Yoon se retourna immédiatement.
+
+— Zio !
+
+Elle courut rejoindre son frère et le prit dans ses bras.
+
+— Tu participes aussi à l'expédition ?
+
+— Oui, le directeur m'a appelé. Il m'a demandé si je pouvais me libérer pour ce portail.
+
+— C'est génial ! Ça fait longtemps qu'on n'a pas combattu ensemble !
+
+Zio sourit avant de s'approcher de Ray et Hasol.
+
+Machinalement, Hasol recouvrit son anneau de son autre main.
+
+— Comment allez-vous ? demanda Zio.
+
+— Très bien ! répondit Ray. Et toi ?
+
+— Pas de quoi me plaindre.
+
+— Tu aurais pu nous prévenir que tu venais ! ajouta Yoon.
+
+— Et gâcher la surprise ?
+
+Yoon lui donna un léger coup d'épaule.
+
+— Idiot !
+
+Le directeur sourit en observant ses anciens élèves.
+
+— Avec vous quatre, je crois que je vais enfin pouvoir dormir tranquillement.
+
+— Vous pouvez compter sur nous, lui assura Zio.
+
+Les chasseurs terminèrent leurs préparatifs avant de rejoindre les autres membres du raid.
+
+### IX. Avant l'arrivée des renforts
+
+L'évacuation du village avait commencé.
+
+Samia parcourait les rues pour s'assurer que chaque famille avait été informée.
+
+Certaines avaient déjà quitté les lieux. D'autres préparaient leurs charrettes ou rassemblaient leurs animaux.
+
+Quelques habitants hésitaient encore à abandonner leurs maisons.
+
+— Les guildes vont fermer le portail, leur expliquait Samia. Vous pourrez revenir dès que la région sera sécurisée.
+
+Elle rejoignit un petit groupe de chasseurs venus des environs.
+
+— Vous avez reçu des nouvelles des renforts ?
+
+— Une équipe doit nous rejoindre, mais elle termine une autre intervention.
+
+— Quand ?
+
+— On ne sait pas encore.
+
+Samia regarda en direction des terres agricoles.
+
+— Il faut accélérer l'évacuation.
+
+Les chasseurs se répartirent dans le village.
+
+Samia retourna auprès de sa famille.
+
+Son oncle terminait de charger quelques provisions sur une charrette.
+
+— Tout est prêt !
+
+— Parfait. Rejoignez les autres habitants sur la route principale.
+
+— Et toi ?
+
+— Je vais aider les derniers à partir.
+
+Sa tante lui prit la main.
+
+— Ne reste pas trop longtemps.
+
+— Ne t'inquiète pas.
+
+Samia se pencha vers son petit cousin.
+
+— Alors, ta mission est terminée ?
+
+Il hocha fièrement la tête.
+
+— J'ai aidé maman !
+
+— Excellent travail !
+
+Elle lui adressa un clin d'œil avant de s'éloigner.
+
+Un cri retentit à l'entrée du village.
+
+Samia se retourna.
+
+Un chasseur courait dans leur direction.
+
+— LE PORTAIL S'EST OUVERT !
+
+Elle saisit immédiatement son arc.
+
+Des silhouettes rouges apparurent au loin.
+
+Les premiers démons avaient franchi le portail.
+
+— Faites partir les habitants !
+
+Les chasseurs présents se précipitèrent vers les rues les plus exposées.
+
+Samia décocha une première flèche.
+
+— Flèche du Néant !
+
+Le projectile frappa un démon qui se dirigeait vers une charrette.
+
+— Flèche d'entrave !
+
+La créature ralentit suffisamment pour permettre aux habitants de s'éloigner.
+
+Un autre chasseur vint se placer auprès d'elle.
+
+— Ils sont trop nombreux !
+
+— Il faut tenir jusqu'à ce que les derniers habitants soient partis !
+
+Samia décocha plusieurs nouvelles flèches.
+
+Au loin, d'autres démons apparaissaient déjà.
+
+### X. Le portail de l'Académie
+
+— Fournaise !
+
+Les flammes de Ray engloutirent un groupe de démons.
+
+Zio maintenait les démons à distance des autres chasseurs, son bouclier levé. Lorsque les flammes s'éteignirent, Hasol s'élança vers les créatures encore debout.
+
+— Siphon runique !
+
+Une violente onde de vent frappa les démons qui l'entouraient.
+
+Elle acheva les survivants à l'épée tandis que Yoon veillait sur les membres de son groupe.
+
+Les chasseurs poursuivirent leur avancée jusqu'à atteindre le boss.
+
+L'affrontement fut particulièrement intense, mais leur coordination permit de maintenir la pression sur la créature.
+
+Lorsque le boss s'effondra, plusieurs chasseurs laissèrent échapper des cris de victoire.
+
+Hasol rangea son épée.
+
+— Tout le monde va bien ?
+
+Yoon acquiesça.
+
+— Quelques blessés, mais rien de grave.
+
+Zio abaissa son bouclier et rejoignit sa sœur.
+
+Ray s'approcha d'elles.
+
+— On devrait aller retrouver Samia après notre retour.
+
+— Bonne idée, répondit Hasol. On pourra peut-être encore l'aider à fermer son portail.
+
+Les trois chasseurs rejoignirent la sortie.
+
+Le directeur les attendait à l'extérieur avec plusieurs responsables de l'Académie.
+
+— Le portail est fermé ?
+
+— Oui, répondit Hasol.
+
+Un immense soulagement apparut sur son visage.
+
+— Je ne sais comment vous remercier.
+
+— Vous n'avez plus à vous inquiéter.
+
+Yoon retira son masque.
+
+— Et vous pouvez rassurer vos élèves.
+
+Le directeur leur serra chaleureusement la main.
+
+Ils discutèrent encore quelques instants avant de prendre congé.
+
+Ray se rendit directement auprès d'un représentant de la guilde.
+
+— Avez-vous reçu des informations concernant le portail situé près des villages agricoles ?
+
+L'homme consulta ses documents.
+
+— Lequel ?
+
+Ray lui indiqua l'emplacement que Samia leur avait communiqué.
+
+L'expression du représentant changea.
+
+— Des renforts ont été envoyés. Mais le portail s'est ouvert avant leur arrivée.
+
+Hasol se rapprocha.
+
+— Les habitants ont été évacués ?
+
+— L'évacuation était encore en cours lorsque les premières créatures ont atteint le village.
+
+— Et les chasseurs qui étaient sur place ?
+
+— Nous attendons toujours un rapport complet.
+
+Hasol regarda Ray.
+
+— On y va.
+
+### XI. Le dernier combat de Samia
+
+Une partie du village était déjà en flammes.
+
+Samia se déplaçait entre les maisons, attirant l'attention des démons qui se rapprochaient des habitants.
+
+— Traversée du voile !
+
+Elle se déplaça rapidement jusqu'à une clôture située quelques mètres plus loin et décocha une nouvelle flèche.
+
+Deux chasseurs tentaient de retenir les créatures à l'entrée d'une rue.
+
+— Il faut reculer ! cria l'un d'eux.
+
+Samia regarda derrière elle.
+
+Plusieurs familles étaient encore présentes.
+
+Parmi elles se trouvaient sa tante, son oncle et ses cousins, dont la charrette avait été abandonnée après avoir heurté des débris.
+
+— Par ici !
+
+Elle leur indiqua une rue encore accessible.
+
+Les habitants se mirent à courir.
+
+Samia aperçut soudain son petit cousin.
+
+Il s'était arrêté près de la charrette.
+
+— Qu'est-ce que tu fais ?!
+
+— Mon arc !
+
+— LAISSE-LE !
+
+Le garçon sursauta.
+
+Un démon apparut à l'extrémité de la rue.
+
+Samia leva son arme.
+
+— Flèche d'entrave !
+
+La créature ralentit.
+
+— Cours !
+
+Sa tante récupéra le garçon et l'entraîna avec elle.
+
+Samia continua de tirer.
+
+Une flèche.
+
+Puis une autre.
+
+Les créatures se rapprochaient malgré ses efforts.
+
+Elle recula progressivement afin de couvrir la fuite des derniers habitants.
+
+Un chasseur tenta de la rejoindre.
+
+— Samia ! Il faut partir !
+
+— Emmène-les !
+
+Elle décocha une nouvelle Flèche du Néant.
+
+— Je vous rejoins !
+
+Le chasseur hésita avant de courir vers les habitants.
+
+Samia consulta brièvement sa réserve de Mana.
+
+Elle devenait dangereusement faible.
+
+Elle chercha un nouvel itinéraire.
+
+Plusieurs démons occupaient désormais la rue par laquelle elle comptait se retirer.
+
+Elle aperçut un passage entre deux maisons.
+
+— Traversée du voile !
+
+Elle échappa de justesse à une attaque.
+
+Mais un autre démon la frappa avant qu'elle puisse reprendre sa course.
+
+Une douleur fulgurante lui traversa le flanc.
+
+Samia tomba à genoux.
+
+Son arc lui échappa des mains.
+
+Elle le récupéra difficilement et tenta de se relever.
+
+Au loin, elle aperçut les derniers habitants qui atteignaient les terres agricoles.
+
+Son petit cousin courait auprès de sa mère.
+
+Elle esquissa un sourire.
+
+— C'est bien…
+
+Un démon se rapprocha d'elle.
+
+Samia leva une dernière fois son arc.
+
+### XII. Le village qui n'existe plus
+
+Hasol, Ray et Yoon chevauchèrent aussi rapidement qu'ils le purent.
+
+Ils croisèrent plusieurs groupes d'habitants accompagnés de chasseurs.
+
+Certains étaient blessés.
+
+D'autres avaient abandonné toutes leurs possessions.
+
+En apercevant les premières maisons détruites, Hasol sentit son cœur se serrer.
+
+Elle descendit de cheval avant même d'avoir atteint le centre du village.
+
+— SAMIA !
+
+Personne ne répondit.
+
+Des équipes de secours parcouraient les rues.
+
+Les renforts étaient finalement arrivés. Le portail avait été fermé et les derniers démons avaient été éliminés.
+
+Hasol se précipita vers un chasseur.
+
+— Vous avez vu une femme aux cheveux argentés ? Elle porte une tenue écarlate et utilise un arc !
+
+L'homme regarda ses vêtements.
+
+— Vous êtes ses compagnons ?
+
+— Oui !
+
+Il hésita.
+
+Yoon s'approcha.
+
+— Où est-elle ?
+
+— Venez avec moi.
+
+Ils traversèrent la place du village.
+
+Hasol aperçut un puits, une vieille fontaine, plusieurs maisons effondrées et des habitants réunis autour des soigneurs.
+
+Le chasseur les conduisit jusqu'à un bâtiment partiellement préservé.
+
+Plusieurs corps avaient été recouverts de couvertures.
+
+Hasol s'arrêta.
+
+— Non…
+
+Ray se plaça immédiatement auprès d'elle.
+
+Le chasseur s'approcha de l'une des couvertures.
+
+— Elle a aidé à évacuer les derniers habitants. Lorsque les renforts sont arrivés, il était déjà trop tard.
+
+Hasol secoua la tête.
+
+Elle avança lentement.
+
+Un arc reposait à côté de la couverture.
+
+Elle le reconnut immédiatement.
+
+Yoon porta une main à sa bouche.
+
+Hasol s'agenouilla.
+
+Elle souleva délicatement la couverture.
+
+Les cheveux argentés de Samia étaient couverts de poussière.
+
+Hasol lui prit la main.
+
+— Samia…
+
+Ray baissa les yeux.
+
+Yoon s'effondra à genoux auprès de son amie.
+
+Hasol attendit une réaction.
+
+Un mouvement.
+
+Quelque chose.
+
+Mais la main de Samia était froide.
+
+Un peu plus tard, une femme vint les retrouver.
+
+Un jeune garçon l'accompagnait.
+
+— Vous êtes les amies de Samia ?
+
+Yoon essuya ses larmes.
+
+— Oui.
+
+La femme tenta de parler.
+
+Sa voix se brisa.
+
+— Elle nous a sauvés.
+
+Elle serra son fils contre elle.
+
+— Sans elle, nous n'aurions jamais réussi à quitter le village.
+
+Le garçon regarda Hasol.
+
+— Vous êtes une chasseuse aussi ?
+
+Hasol acquiesça difficilement.
+
+— Samia est restée derrière pour nous laisser le temps de fuir…
+
+Il baissa les yeux.
+
+— Elle m'avait promis de m'apprendre à tirer à l'arc.
+
+Il baissa les yeux.
+
+— J'ai perdu le mien.
+
+Hasol ne trouva rien à lui répondre.
+
+Elle se souvint de la lettre que Samia lui avait montrée.
+
+Des deux pots cassés.
+
+Des poules effrayées.
+
+Elle se tourna vers Ray et enfouit son visage contre sa poitrine.
+
+Il la serra dans ses bras.
+
+### XIII. Trois coups
+
+Quelques jours plus tard, Hasol retrouva Ray à la bibliothèque.
+
+Elle n'avait pas participé à la moindre expédition depuis leur retour.
+
+Ray avait apporté plusieurs ouvrages, mais aucun des deux ne parvenait véritablement à se concentrer.
+
+Hasol contemplait son anneau.
+
+— Ray…
+
+— Oui ?
+
+— Tu te souviens du jour où Samia nous a laissés seuls pour discuter de mes trente-six cercles ?
+
+— Bien sûr.
+
+— Elle disait qu'elle ne voulait pas nous écouter débattre pendant deux heures de mes statistiques.
+
+Ray esquissa un triste sourire.
+
+— Elle avait probablement raison.
+
+Hasol tenta de sourire à son tour.
+
+Les larmes lui montèrent aux yeux.
+
+— Elle me manque.
+
+Ray posa sa main sur la sienne.
+
+— À moi aussi.
+
+Hasol baissa la tête.
+
+— J'aurais dû l'accompagner.
+
+— Tu ne pouvais pas savoir ce qui allait se passer.
+
+— Elle m'avait dit où se trouvait le portail.
+
+— Hasol…
+
+— Elle était juste devant moi, Ray. Elle m'a dit qu'elle partait retrouver sa famille.
+
+Sa voix tremblait.
+
+— Et je lui ai dit à bientôt.
+
+Ray vint s'asseoir auprès d'elle.
+
+Hasol posa sa tête contre son épaule.
+
+Il lui caressa doucement les cheveux.
+
+Elle ferma les yeux.
+
+Un son grave retentit.
+
+**DONG.**
+
+Hasol releva la tête.
+
+**DONG.**
+
+**DONG.**
+
+Elle regarda autour d'elle.
+
+— Ray ?
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+Les doigts de Ray étaient toujours posés sur les siens.
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+Hasol contempla une dernière fois son anneau.
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+Puis le son changea.
+
+**DING.**
+
+**DING.**
+
+**DING.**
+
+La bibliothèque disparut.
+
+*Fin du chapitre 5 — Le village sur la carte.*
+
+---
+
+<span id="chapitre-6"></span>
+
+## Chapitre 6 — Préparer une place pour les vivants
+
+### I. Deux souvenirs, un seul rêve
+
+— Zio !
+
+Yoon courut rejoindre son frère et le prit dans ses bras.
+
+— Tu participes aussi à l'expédition ?
+
+— Oui, le directeur m'a appelé. Il m'a demandé si je pouvais me libérer pour ce portail.
+
+— C'est génial ! Ça fait longtemps qu'on n'a pas combattu ensemble !
+
+Zio sourit avant de s'approcher de Ray et Hasol.
+
+Machinalement, Hasol recouvrit son anneau de son autre main.
+
+— Comment allez-vous ?
+
+— Très bien ! répondit Ray. Et toi ?
+
+— Pas de quoi me plaindre.
+
+Dans son sommeil, Hasol fronça légèrement les sourcils et se retourna dans son lit.
+
+Les voix de ses compagnons s'estompèrent progressivement.
+
+Un village dévasté.
+
+Des maisons effondrées.
+
+Un petit garçon se tenait devant elle.
+
+— Samia est restée derrière pour nous laisser le temps de fuir…
+
+Il baissa les yeux.
+
+— Elle m'avait promis de m'apprendre à tirer à l'arc.
+
+Hasol aperçut Ray à ses côtés.
+
+Elle enfouit son visage contre sa poitrine et se mit à pleurer.
+
+Hasol ouvrit brutalement les yeux.
+
+— Samia !
+
+Elle se redressa dans son lit.
+
+Pendant plusieurs minutes, elle tenta de remettre de l'ordre dans ses pensées.
+
+Ce garçon ne pouvait être que le petit cousin dont Samia lui avait parlé.
+
+Mais pourquoi avait-elle également rêvé de Zio ?
+
+Elle regarda l'anneau à son doigt.
+
+— Pourquoi est-ce que je cachais ma bague ?
+
+Elle resta un moment perplexe avant de repousser sa couverture.
+
+Les premières lueurs du jour n'étaient pas encore visibles.
+
+Hasol descendit dans le salon, se servit un verre d'eau et s'installa sur le canapé.
+
+Elle repensa à ses anciens rêves.
+
+À Siphon runique.
+
+À Ray et ses lunettes.
+
+Cette fois, elle ne prendrait aucun risque.
+
+### II. Un changement de programme
+
+Plus tard dans la matinée, Hasol retrouva Ray pour préparer leur expédition près de l'Académie.
+
+— Tu as mal dormi ? demanda-t-il.
+
+— Un peu.
+
+— Tu devrais te reposer avant le raid.
+
+— Ça ira, ne t'inquiète pas.
+
+Elle terminait de vérifier son équipement lorsque Samia arriva.
+
+— Hasol, je ne pourrai pas venir avec vous cette fois-ci.
+
+La jeune femme releva immédiatement les yeux.
+
+— Pourquoi ?
+
+— Un portail bleu est apparu près du village de ma tante.
+
+Hasol déposa la rune qu'elle tenait entre ses doigts.
+
+— Je viens avec toi.
+
+Samia la regarda avec étonnement.
+
+— Mais je ne t'ai même pas encore expliqué ce que je comptais faire !
+
+— Tu vas prévenir ta famille et aider les habitants à évacuer le village, n'est-ce pas ?
+
+— Oui… Comment le sais-tu ?
+
+— C'est ce que j'aurais fait à ta place.
+
+Samia haussa les épaules.
+
+— Et le directeur de l'Académie ? Tu lui avais promis de participer au raid.
+
+Hasol se tourna vers Ray.
+
+— Vous devriez pouvoir vous en sortir avec Yoon et Zio.
+
+— Zio ? répéta Ray.
+
+— Il devrait également participer à votre expédition.
+
+— Tu lui as parlé ?
+
+— Non.
+
+Ray ajusta ses lunettes.
+
+— Alors comment…
+
+— Tu peux me faire confiance ?
+
+Il observa quelques instants sa fiancée.
+
+— Évidemment.
+
+Hasol lui prit la main.
+
+— J'aimerais que vous terminiez votre expédition aussi rapidement que possible. Dès que vous aurez fermé le portail, rejoignez-nous au village avec les chasseurs qui accepteront de vous accompagner.
+
+— D'accord.
+
+Samia croisa les bras.
+
+— Tu sais, Hasol, je ne comptais pas pénétrer seule dans ce portail.
+
+— Je sais.
+
+— Tu n'es donc pas obligée de venir.
+
+Hasol récupéra son épée.
+
+— Tant mieux, parce que je viens quand même.
+
+Samia finit par sourire.
+
+— Tu es vraiment têtue.
+
+— Depuis le temps, tu devrais le savoir.
+
+### III. Le frère de Yoon
+
+Près de l'Académie, le directeur accueillit Ray et Yoon.
+
+— Hasol ne vous accompagne pas ?
+
+— Samia a détecté un portail près de son village natal, expliqua Ray. Hasol est partie avec elle.
+
+— Oh… Je comprends.
+
+Yoon lui adressa un sourire.
+
+— Ne vous inquiétez pas, monsieur le directeur. Nous allons nous en occuper.
+
+Une voix familière retentit derrière eux.
+
+— Bonjour à tous !
+
+Yoon se retourna.
+
+— Zio !
+
+Elle courut rejoindre son frère et le prit dans ses bras.
+
+— Tu participes aussi à l'expédition ?
+
+— Oui, le directeur m'a appelé. Il m'a demandé si je pouvais me libérer pour ce portail.
+
+— C'est génial ! Ça fait longtemps qu'on n'a pas combattu ensemble !
+
+Zio sourit avant de s'approcher de Ray.
+
+— Comment vas-tu ?
+
+— Très bien… Et toi ?
+
+— Pas de quoi me plaindre.
+
+Ray demeura silencieux quelques instants.
+
+Comment Hasol avait-elle pu savoir que Zio participerait à cette expédition ?
+
+— Hasol et Samia ne viennent pas ? demanda Zio.
+
+— Elles sont parties vers un autre portail. On leur a promis de les rejoindre dès que nous aurons terminé ici.
+
+— Dans ce cas, ne perdons pas de temps.
+
+Le directeur leur adressa un sourire.
+
+— Je vous confie la sécurité de l'Académie.
+
+Zio ajusta son bouclier.
+
+— Vous pouvez compter sur nous.
+
+### IV. Le village de Samia
+
+Les deux jeunes femmes arrivèrent au village en fin de journée.
+
+Samia ralentit son cheval à l'approche des premières habitations.
+
+— Ça faisait longtemps que je n'étais pas venue ici.
+
+Hasol observa les maisons et les terres agricoles qui les entouraient.
+
+Tout était intact.
+
+Des enfants jouaient dans la rue tandis que plusieurs habitants terminaient leurs occupations.
+
+— SAMIA !
+
+Un jeune garçon courut dans leur direction.
+
+Il tenait un morceau de bois courbé auquel était attachée une ficelle.
+
+— Regarde !
+
+Samia descendit de cheval et éclata de rire.
+
+— Alors, c'est donc toi, le terrible chasseur dont tout le monde parle ?
+
+— Regarde mon arc !
+
+Hasol resta immobile.
+
+Elle reconnut immédiatement le visage du garçon.
+
+— Hasol, viens ! Je vais te présenter ma famille.
+
+La jeune femme descendit à son tour de cheval.
+
+— Bonjour, répondit-elle en souriant au petit garçon.
+
+— Tu es une chasseuse, toi aussi ?
+
+— Oui.
+
+— Tu utilises un arc ?
+
+— Une épée.
+
+— Oh !
+
+Il observa attentivement l'arme d'Hasol avant de lui présenter son arc.
+
+— Samia va m'apprendre à tirer !
+
+— Tu as choisi un excellent professeur.
+
+Samia lui ébouriffa les cheveux.
+
+— Allez, conduis-nous jusqu'à ta mère.
+
+Le garçon lui prit la main.
+
+Hasol les suivit.
+
+Lorsqu'elles arrivèrent devant la maison, Samia retrouva sa tante occupée à entretenir ses fleurs.
+
+— Tu aurais pu nous prévenir !
+
+Elle abandonna immédiatement ses occupations pour prendre sa nièce dans ses bras.
+
+— Et tu as amené une amie !
+
+— Je te présente Hasol.
+
+— Enchantée, répondit la jeune femme.
+
+— C'est donc toi, la fameuse Hasol dont Samia nous parle régulièrement ?
+
+Hasol sourit.
+
+— J'espère qu'elle vous en dit du bien.
+
+— La plupart du temps, répondit Samia.
+
+— Hé !
+
+Sa tante éclata de rire.
+
+— Venez, je vais vous préparer quelque chose.
+
+— Malheureusement, nous ne sommes pas venues pour nous reposer, expliqua Samia.
+
+Elle lui annonça la présence du portail bleu et lui demanda de préparer les affaires nécessaires pour quitter temporairement le village.
+
+Pendant ce temps, Hasol observa le jardin.
+
+Les fleurs étaient magnifiques.
+
+— Samia, on devrait commencer l'évacuation immédiatement.
+
+— C'est ce que j'avais prévu.
+
+— Il faudrait également demander aux chasseurs présents de surveiller les environs du portail. Nous pourrions tenir les créatures à distance du village si elles commencent à en sortir.
+
+Samia réfléchit quelques instants.
+
+— Bonne idée.
+
+Elle se tourna vers son petit cousin.
+
+— Tu vas devoir m'aider.
+
+— Moi ?
+
+— Oui. Ta première mission de chasseur sera d'aider tes parents à préparer leurs affaires.
+
+Le garçon redressa fièrement les épaules.
+
+— D'accord !
+
+### V. Deux fronts
+
+Près de l'Académie, les chasseurs progressaient rapidement à l'intérieur du portail.
+
+— Domaine des Entraves runiques !
+
+Un cercle violet apparut sous les pieds des démons.
+
+Zio s'avança, son bouclier levé.
+
+— Défi du Gardien !
+
+L'une des créatures se détourna des autres chasseurs pour se précipiter dans sa direction.
+
+— Ray, maintenant !
+
+— Déflagration !
+
+Une explosion de feu frappa les démons ralentis par Yoon.
+
+Zio acheva celui qui se trouvait devant lui avant de rejoindre les autres combattants.
+
+Ray consulta brièvement sa réserve de Mana.
+
+— On peut continuer.
+
+Yoon le regarda avec amusement.
+
+— Tu es particulièrement pressé aujourd'hui.
+
+— J'ai promis à Hasol de la rejoindre rapidement.
+
+— Ah, les jeunes fiancés…
+
+— Yoon !
+
+Zio tourna la tête vers Ray.
+
+— Vous êtes fiancés ?
+
+— Oui.
+
+— Eh bien, félicitations ! Depuis combien de temps ?
+
+— Quelques années déjà.
+
+— Et vous n'avez toujours pas prévu de mariage ?
+
+Yoon leva les bras.
+
+— Merci ! Enfin quelqu'un qui pose la bonne question !
+
+— On pourrait terminer ce portail avant d'en parler ? demanda Ray.
+
+— Très bien, répondit Zio en souriant.
+
+Il reprit sa place à l'avant de la formation.
+
+Au village, les derniers préparatifs de l'évacuation étaient en cours.
+
+Hasol et Samia avaient retrouvé plusieurs chasseurs de la région.
+
+Ils s'étaient réparti les tâches. Certains accompagnaient les habitants tandis que les autres surveillaient les environs du portail.
+
+Hasol se trouvait parmi ces derniers.
+
+Elle avait déjà imprégné son épée d'une aura élémentaire et préparé plusieurs runes dans son anneau.
+
+— Tu as prévu de combattre tous les démons toute seule ? lui demanda Samia en la rejoignant.
+
+— Seulement ceux qui ne voudront pas attendre Ray et Yoon.
+
+Samia sourit.
+
+— Ma famille est presque prête à partir.
+
+— Parfait.
+
+Elles observèrent le portail.
+
+— Tu sais, Hasol, tu n'étais vraiment pas obligée de venir.
+
+— Et manquer l'occasion de rencontrer le célèbre fabricant d'arcs ?
+
+Samia éclata de rire.
+
+— Je te préviens, si tu lui offres des runes, ma tante risque de ne jamais te pardonner.
+
+— Je lui offrirai plutôt un véritable arc lorsqu'il sera plus grand.
+
+Samia lui donna un léger coup d'épaule.
+
+— Marché conclu.
+
+### VI. Avant qu'il ne soit trop tard
+
+Le portail s'ouvrit alors que les derniers habitants quittaient le village.
+
+Les premiers démons apparurent.
+
+— Prévenez les autres chasseurs ! ordonna Samia.
+
+Hasol enfila son masque et dégaina son épée.
+
+Deux créatures se précipitèrent vers elle.
+
+Elle esquiva la première attaque avant de frapper son adversaire au flanc.
+
+— Flèche du Néant !
+
+Le projectile de Samia atteignit le second démon.
+
+Hasol l'acheva avant de s'avancer vers les créatures suivantes.
+
+Elles combattirent ainsi pendant plusieurs minutes.
+
+Lorsque les démons commencèrent à se regrouper autour d'Hasol, celle-ci activa sa compétence.
+
+— Siphon runique !
+
+Une violente onde de vent frappa les créatures qui l'entouraient.
+
+Elle profita du Mana récupéré pour poursuivre le combat.
+
+Derrière elle, Samia surveillait les déplacements des démons.
+
+— Flèche d'entrave !
+
+L'une des créatures qui tentait de contourner Hasol ralentit suffisamment pour permettre à un autre chasseur de l'intercepter.
+
+— Il y en a d'autres qui arrivent ! cria-t-il.
+
+Hasol leva les yeux vers le portail.
+
+De nouvelles silhouettes rouges en sortaient.
+
+— Reculez vers le village !
+
+Les chasseurs se replièrent progressivement.
+
+Samia se déplaça jusqu'à un point depuis lequel elle pouvait surveiller la route empruntée par les habitants.
+
+Au loin, elle aperçut la charrette de son oncle.
+
+Puis son petit cousin, assis auprès de sa mère.
+
+Elle sourit.
+
+Ils étaient suffisamment éloignés.
+
+— Hasol ! Les habitants sont presque tous partis !
+
+— Très bien !
+
+Hasol repoussa un démon d'un coup d'épée.
+
+Les deux jeunes femmes continuèrent de combattre côte à côte.
+
+À plusieurs reprises, Samia dut utiliser Traversée du voile pour se repositionner et éviter les créatures qui s'approchaient d'elle.
+
+Mais les chasseurs commençaient à fatiguer.
+
+Leurs réserves de Mana diminuaient et de nouveaux démons continuaient d'apparaître.
+
+— On va devoir reculer encore, annonça Samia.
+
+Hasol acquiesça.
+
+C'est alors qu'une voix familière retentit derrière elles.
+
+— Déflagration !
+
+Une explosion de feu frappa les démons.
+
+— Ray !
+
+Plusieurs chasseurs arrivaient en renfort.
+
+À leur tête se trouvaient Ray, Yoon et Zio.
+
+— Désolé pour le retard ! lança Ray.
+
+— Tu as été suffisamment rapide !
+
+Yoon s'approcha immédiatement des deux jeunes femmes.
+
+— Chant runique !
+
+Un cercle vert apparut sous leurs pieds.
+
+— Vous allez bien ?
+
+— Quelques égratignures, répondit Samia.
+
+Zio vint se placer devant elles.
+
+Il leva son bouclier pour intercepter une attaque destinée à Hasol.
+
+— Rempart de lumière !
+
+Une protection lumineuse se déploya devant lui.
+
+— Reprenez votre souffle. On prend le relais.
+
+Hasol recula de quelques pas avant de consulter ses réserves de Mana.
+
+— Samia, reste auprès de Yoon. Je retourne au combat.
+
+Zio laissa retomber sa protection lumineuse avant de reprendre sa progression. Hasol le rejoignit alors qu'il repoussait un démon avec son bouclier.
+
+Celui-ci pivota légèrement sur sa gauche.
+
+Avant même qu'il ait terminé son mouvement, Hasol s'était déjà engouffrée dans l'ouverture.
+
+Son épée traversa le flanc de la créature.
+
+Zio lui adressa un regard surpris.
+
+Un second démon s'approcha par la droite. Hasol poursuivit son attaque sans se retourner.
+
+Zio intercepta le coup qui lui était destiné.
+
+Elle profita aussitôt de la proximité du démon pour l'abattre.
+
+Les deux chasseurs avancèrent.
+
+Lorsqu'Hasol reculait, Zio prenait immédiatement sa place. Lorsqu'il repoussait un adversaire, elle se trouvait déjà en position pour le frapper.
+
+Ils n'avaient pratiquement pas besoin de se parler.
+
+Hasol semblait savoir exactement quand Zio allait avancer, reculer ou lever son bouclier.
+
+De son côté, Zio adapta rapidement ses mouvements aux siens.
+
+Un démon tenta de contourner le jeune homme.
+
+Hasol l'intercepta avant même qu'il ait besoin de se retourner.
+
+— Merci !
+
+— Chacun son tour !
+
+Zio éclata de rire.
+
+Depuis l'arrière de la formation, Yoon observait les deux chasseurs avec étonnement.
+
+— On dirait qu'ils combattent ensemble depuis des années.
+
+Samia acquiesça.
+
+— C'est pourtant rare de les voir combattre côte à côte.
+
+Un peu plus tard, Zio profita d'un court répit pour s'adresser à Hasol.
+
+— Comment fais-tu pour anticiper aussi bien mes mouvements ?
+
+— Je ne sais pas… Je trouve ta manière de combattre assez prévisible.
+
+— Je dois prendre ça comme un compliment ?
+
+— Évidemment !
+
+— Eh bien, ce n'est pas l'avis de tout le monde…
+
+— Pourtant, je trouve ça plutôt naturel.
+
+Zio sourit.
+
+— Dans ce cas, ne change rien !
+
+Les deux chasseurs reprirent leur progression.
+
+### VII. Tous ensemble
+
+Les renforts permirent aux chasseurs de reprendre l'avantage.
+
+Zio et Hasol maintenaient leur position au front, soutenus par plusieurs autres combattants.
+
+Ray et Samia réduisaient progressivement le nombre de démons tandis que Yoon s'occupait des blessés.
+
+Lorsque la situation fut suffisamment maîtrisée à l'extérieur, une partie des chasseurs resta auprès du village pour en assurer la protection.
+
+Les autres pénétrèrent dans le portail.
+
+Hasol et Samia participèrent toutes deux à l'expédition.
+
+Il leur fallut encore plusieurs heures pour atteindre le boss.
+
+Zio maintint l'attention de la créature avec l'aide des autres combattants défensifs. Hasol combattait à ses côtés, profitant de chaque ouverture pour frapper.
+
+Samia exploitait sa mobilité pour attaquer depuis différentes positions.
+
+— Écartez-vous ! lança Ray.
+
+Hasol recula. Zio s'écarta à son tour pour laisser à Ray une ligne de tir dégagée.
+
+— Déflagration !
+
+Une violente explosion de feu frappa la créature.
+
+Hasol s'élança aussitôt après la disparition des flammes.
+
+Zio dévia une attaque du boss avec son bouclier, lui permettant d'atteindre son flanc.
+
+Son épée imprégnée fendit l'air.
+
+La créature chancela.
+
+Les dernières attaques des chasseurs finirent par l'abattre.
+
+— Enfin ! s'exclama Samia.
+
+Hasol rengaina son épée et retira son masque.
+
+— On l'a fait.
+
+Samia sourit.
+
+— Oui !
+
+Zio observa les deux jeunes femmes.
+
+— Vous avez bien fait de venir ici toutes les deux. Vu le nombre de démons qui étaient déjà sortis, je n'imagine pas l'état dans lequel nous aurions retrouvé le village sans vous.
+
+Hasol tourna les yeux vers Samia.
+
+Elle ne répondit pas.
+
+À leur sortie, les derniers démons avaient été éliminés.
+
+Les habitants commencèrent progressivement à revenir.
+
+Quelques bâtiments avaient subi des dégâts, mais le village avait été préservé.
+
+Samia retrouva rapidement sa famille.
+
+Son petit cousin courut dans sa direction.
+
+— SAMIA !
+
+Elle s'accroupit pour l'accueillir dans ses bras.
+
+— Alors, tu as bien rempli ta mission ?
+
+— Oui ! Et j'ai même aidé papa avec la charrette !
+
+— Je suis fière de toi.
+
+Il lui présenta son arc.
+
+— Tu vas pouvoir m'apprendre maintenant ?
+
+Samia regarda sa tante.
+
+— Tu crois que je peux rester quelques jours ?
+
+— Évidemment !
+
+Hasol s'approcha d'eux.
+
+Le petit garçon leva les yeux vers elle.
+
+— Samia va m'apprendre à tirer à l'arc !
+
+— Je sais.
+
+Elle sourit.
+
+— Écoute bien tout ce qu'elle te dira.
+
+Samia remarqua que les yeux de son amie étaient humides.
+
+— Hasol ?
+
+— Viens là, toi !
+
+Hasol la prit brusquement dans ses bras.
+
+— Mais qu'est-ce qui te prend ?
+
+— Rien.
+
+Samia rit avant de lui rendre son étreinte.
+
+— Tu es vraiment bizarre, parfois.
+
+### VIII. Une soirée au village
+
+La tante de Samia insista pour accueillir les compagnons de sa nièce autour d'un repas.
+
+Les chasseurs acceptèrent avec plaisir.
+
+Quelques tables furent installées dans le jardin.
+
+Le petit cousin de Samia s'intéressa immédiatement au bouclier de Zio.
+
+— Il est lourd ?
+
+— Un peu.
+
+— Je peux le porter ?
+
+Zio déposa son bouclier devant lui.
+
+— Essaie.
+
+Le garçon saisit les poignées et tenta de le soulever.
+
+Il ne parvint qu'à le faire légèrement basculer.
+
+— Il est trop lourd !
+
+— Tu as encore quelques années pour t'entraîner.
+
+— Mais moi, je serai archer !
+
+— Alors tu auras besoin de quelqu'un pour te protéger.
+
+Yoon sourit.
+
+— Tu essaies déjà de recruter de nouveaux chasseurs ?
+
+— Il faut bien préparer la relève.
+
+Le repas se déroula dans la bonne humeur.
+
+Samia raconta plusieurs anecdotes de son enfance, dont certaines firent particulièrement rire ses compagnons.
+
+Hasol, assise à côté de Ray, observait son amie.
+
+Elle parlait, riait et se disputait gentiment avec son petit cousin.
+
+Ray se pencha vers Hasol.
+
+— Ça va mieux ?
+
+— Beaucoup mieux.
+
+Elle posa sa tête contre son épaule.
+
+— Merci d'être venu aussi rapidement.
+
+— Je te l'avais promis.
+
+Hasol entrelaça ses doigts aux siens.
+
+Un peu plus tard, Samia leur annonça qu'elle resterait quelques jours auprès de sa famille.
+
+— Ne vous inquiétez pas, dit-elle. Je reviendrai surveiller vos repas dès la semaine prochaine.
+
+— Profites-en plutôt pour te reposer, répondit Hasol.
+
+— C'est prévu !
+
+Hasol lui adressa un sourire.
+
+Pour une fois, elle était heureuse de devoir se séparer d'elle.
+
+### IX. Une question de mariage
+
+Les mois passèrent.
+
+Samia reprit ses activités auprès des guildes et retourna régulièrement dans son village.
+
+Son petit cousin lui écrivait désormais lui-même pour lui raconter ses progrès.
+
+Hasol avait tenu parole. Avec l'autorisation de sa tante, elle lui avait fait parvenir un véritable arc adapté à sa taille.
+
+Elle reçut en retour un dessin représentant les cinq chasseurs.
+
+Ray était reconnaissable à ses lunettes, Zio à son immense bouclier et Hasol à son masque de démon.
+
+— Pourquoi suis-je aussi petite ? demanda Yoon en découvrant le dessin.
+
+— Il a probablement voulu respecter les proportions, répondit Samia.
+
+— Pardon ?!
+
+Hasol éclata de rire.
+
+Elle conserva précieusement le dessin.
+
+Un soir, alors qu'elle dînait avec Ray, Hasol contempla son anneau.
+
+— Dis-moi…
+
+— Oui ?
+
+— Tu as toujours envie de m'épouser ?
+
+Ray manqua de s'étouffer.
+
+— Quelle question !
+
+— Réponds-moi !
+
+— Bien sûr que oui !
+
+Hasol sourit.
+
+— Alors, pourquoi est-ce qu'on ne commencerait pas à réfléchir à une date ?
+
+Ray posa ses couverts.
+
+— Tu es sérieuse ?
+
+— Absolument.
+
+— Mais tu m'avais dit que tu souhaitais prendre ton temps.
+
+— Je crois qu'on en a pris suffisamment, non ?
+
+Ray resta silencieux quelques instants.
+
+— Tu es certaine de toi ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Un large sourire apparut sur le visage de Ray.
+
+Il lui prit la main.
+
+— Dans ce cas, avec plaisir.
+
+Elle sourit en observant son fiancé.
+
+— Le plus difficile sera probablement de l'annoncer à nos mères.
+
+— Tu crois ?
+
+— Tu imagines leur réaction ?
+
+Ray réfléchit.
+
+— On pourrait peut-être leur envoyer une lettre et partir quelques jours en chasse.
+
+Hasol éclata de rire.
+
+— Excellente idée !
+
+### X. Deux mères impatientes
+
+— ENFIN !
+
+Hasol sursauta.
+
+Iseria venait de se lever de sa chaise.
+
+— Maman !
+
+— Depuis le temps que nous attendons cette nouvelle !
+
+Irène se leva à son tour pour prendre son fils dans ses bras.
+
+— Félicitations, mon chéri !
+
+Ray regarda Hasol.
+
+— La lettre aurait été une meilleure idée.
+
+— Je te l'avais dit.
+
+Les deux jeunes gens éclatèrent de rire.
+
+Iseria s'installa auprès de sa fille.
+
+— Alors, vous avez réfléchi à la cérémonie ?
+
+— Pas encore.
+
+— Et à la robe ?
+
+— Maman, on vient seulement de vous annoncer la nouvelle !
+
+— Justement ! Il va falloir s'en occuper.
+
+Irène acquiesça.
+
+— Nous pourrions commencer par établir une liste d'invités.
+
+— Et trouver un endroit suffisamment agréable pour la réception, ajouta Iseria.
+
+Hasol observa Ray.
+
+— Je crois qu'on vient de perdre le contrôle de notre mariage.
+
+— Je crois aussi.
+
+Iseria lui prit les mains.
+
+— Ne t'inquiète pas, ma chérie. Laisse-moi au moins m'occuper de ta robe.
+
+Hasol sourit.
+
+— D'accord. Mais pas de dépenses extravagantes !
+
+Sa mère lui adressa un sourire innocent.
+
+— Évidemment.
+
+Hasol soupira.
+
+— Pourquoi est-ce que je ne te crois pas ?
+
+### XI. D'étranges visiteurs
+
+Les préparatifs du mariage occupèrent une partie des semaines suivantes.
+
+Hasol continuait néanmoins de travailler auprès de maître Orven et de participer aux expéditions organisées par les guildes.
+
+La nouvelle de son futur mariage se répandit rapidement parmi les chasseurs.
+
+Yoon n'y était probablement pas étrangère.
+
+Un après-midi, Ray retrouva Hasol à la bibliothèque.
+
+— Il m'est arrivé quelque chose d'assez étrange aujourd'hui.
+
+— Quoi donc ?
+
+— Des enquêteurs de l'Empire sont venus me voir à ton sujet.
+
+Hasol releva les yeux.
+
+— À mon sujet ?
+
+— Oui. Ils semblaient particulièrement intéressés par nos tenues de chasse.
+
+— Pourquoi ?
+
+— Je n'en ai aucune idée. Ils voulaient savoir où nous les avions obtenues et qui les avait fait fabriquer.
+
+Hasol fronça les sourcils.
+
+— Et tu leur as répondu quoi ?
+
+— Que la mienne était un cadeau de ta part. Je ne connais pas le nom de l'atelier qui l'a confectionnée.
+
+— C'est maman qui s'en était occupée.
+
+— Je le sais.
+
+Ray s'assit devant elle.
+
+— Ils m'ont également posé quelques questions concernant notre mariage.
+
+— Notre mariage ?
+
+— Oui.
+
+Hasol demeura perplexe.
+
+— Depuis quand l'Empire s'intéresse-t-il au mariage des chasseurs ?
+
+— C'est justement ce que je me demande.
+
+Elle referma son carnet.
+
+— Je vais en parler à maman.
+
+Le soir même, Hasol raconta sa conversation à Iseria.
+
+— Des enquêteurs impériaux ?
+
+— Oui. Tu crois qu'ils connaissent l'atelier qui a confectionné nos tenues ?
+
+Iseria resta silencieuse.
+
+— Maman ?
+
+— C'est possible.
+
+— Tu les avais commandées dans un atelier particulièrement réputé ?
+
+— On peut dire ça.
+
+Hasol sourit.
+
+— Vu leur prix, ça ne m'étonnerait pas.
+
+Iseria esquissa un sourire.
+
+— S'ils reviennent vous poser des questions, dites-leur simplement de s'adresser à moi.
+
+— D'accord.
+
+Hasol récupéra son carnet.
+
+— Au fait, Irène voulait savoir si tu avais choisi le modèle de ma robe.
+
+— Presque.
+
+— Je peux le voir ?
+
+— Certainement pas !
+
+— Mais c'est ma robe !
+
+— Tu la découvriras lorsqu'elle sera prête.
+
+Hasol soupira avant de rejoindre sa chambre.
+
+Iseria resta seule dans le salon.
+
+Elle contempla longuement le vaisselier.
+
+### XII. Le jour tant attendu
+
+Le jour du mariage arriva.
+
+Hasol se tenait devant un grand miroir.
+
+Iseria terminait les derniers ajustements de sa robe.
+
+— Tu es magnifique, ma chérie.
+
+Hasol contempla son reflet.
+
+— Elle est vraiment splendide, maman.
+
+— Je suis heureuse qu'elle te plaise.
+
+Yoon entra dans la pièce, suivie de Samia.
+
+Toutes deux s'arrêtèrent immédiatement.
+
+— Oh…
+
+Hasol se tourna vers elles.
+
+— Alors ?
+
+Yoon s'approcha.
+
+— J'ai toujours su que tu étais une princesse !
+
+Samia sourit.
+
+— Ray risque d'oublier ce qu'il doit dire.
+
+— Ne me porte pas malheur !
+
+Les trois jeunes femmes éclatèrent de rire.
+
+Yoon examina attentivement la robe.
+
+— Madame Shun, il faudra absolument me donner l'adresse de votre couturière !
+
+— Nous en reparlerons, répondit Iseria.
+
+Samia s'approcha d'Hasol.
+
+— Prête ?
+
+— Je crois.
+
+— Tu crois ?
+
+— Bon, d'accord, je suis un peu nerveuse.
+
+— Après avoir affronté autant de boss ?
+
+— Ce n'est pas la même chose !
+
+Yoon lui prit la main.
+
+— Tout va bien se passer.
+
+Hasol sourit.
+
+Ray attendait le début de la cérémonie.
+
+Zio se tenait auprès de lui.
+
+— Tu devrais arrêter de toucher à tes lunettes.
+
+— Je ne fais pas ça.
+
+Zio le regarda.
+
+Ray retira aussitôt sa main.
+
+— D'accord…
+
+— Détends-toi.
+
+— Facile à dire.
+
+Zio sourit et posa une main sur son épaule.
+
+— Toutes mes félicitations, Ray.
+
+— Merci.
+
+La musique commença.
+
+Les conversations s'interrompirent progressivement.
+
+Lorsque Hasol apparut, Ray resta silencieux.
+
+Elle s'avança jusqu'à lui.
+
+— Alors ? murmura-t-elle.
+
+Il contempla sa robe.
+
+— Tu es magnifique.
+
+— Merci.
+
+Elle lui adressa un sourire.
+
+— Yoon pensait que tu oublierais ce que tu devais dire.
+
+— Pour être honnête, je crois qu'elle avait raison.
+
+Hasol rit doucement.
+
+Iseria et Irène observaient leurs enfants depuis les premières places.
+
+Irène essuya discrètement une larme.
+
+— Depuis toutes ces années…
+
+Iseria lui prit la main.
+
+— Oui.
+
+### XIII. Au nom de l'Empire
+
+La cérémonie venait de commencer lorsque les portes s'ouvrirent.
+
+Plusieurs gardes impériaux pénétrèrent dans la salle.
+
+Les conversations cessèrent.
+
+Le responsable de la cérémonie s'interrompit.
+
+Un officier s'avança.
+
+— Iseria Shun ?
+
+Hasol se tourna vers sa mère.
+
+Iseria se leva lentement.
+
+— C'est moi.
+
+L'officier déplia un document portant le sceau impérial.
+
+— Par ordre de Sa Majesté, cette cérémonie doit être interrompue.
+
+Ray fronça les sourcils.
+
+— Pour quelle raison ?
+
+L'officier ne lui accorda pas un regard.
+
+— Iseria Shun, vous avez enfreint le pacte conclu avec Sa Majesté impériale.
+
+Iseria ferma les yeux.
+
+Hasol regarda sa mère avec incompréhension.
+
+— Quel pacte ?
+
+L'officier poursuivit.
+
+— Pour avoir dissimulé la naissance d'une enfant de classe astrale, vous êtes condamnée à mort.
+
+Un silence absolu s'abattit sur la salle.
+
+Hasol sentit les doigts de Ray se resserrer autour des siens.
+
+— Quoi ?
+
+Elle lâcha sa main.
+
+— Attendez ! Vous devez faire erreur !
+
+Les gardes s'approchèrent d'Iseria.
+
+Zio se leva immédiatement.
+
+Samia et Yoon en firent autant.
+
+Hasol se précipita vers sa mère.
+
+— Maman ! Dis-leur qu'ils se trompent !
+
+Iseria posa ses mains sur les épaules de sa fille.
+
+— Hasol, écoute-moi.
+
+— Pourquoi parlent-ils de ma naissance ? Qu'est-ce que tu as fait ?
+
+Iseria caressa doucement sa joue.
+
+— Ma chérie…
+
+— Maman !
+
+Les gardes s'approchèrent davantage.
+
+Hasol voulut faire apparaître son épée.
+
+Iseria lui saisit fermement le poignet.
+
+— Non.
+
+— Mais ils veulent te tuer !
+
+— Je t'en prie.
+
+Les yeux d'Iseria se remplirent de larmes.
+
+— Ne fais rien.
+
+— Pourquoi ?!
+
+Sa mère la prit dans ses bras.
+
+— Pardonne-moi, ma chérie.
+
+Hasol sentit ses jambes trembler.
+
+— Maman…
+
+Les gardes les séparèrent.
+
+— NON !
+
+Ray tenta de retenir Hasol tandis qu'Iseria était emmenée vers la sortie.
+
+— MAMAN !
+
+Un son grave retentit.
+
+**DONG.**
+
+Hasol aperçut une dernière fois le visage de sa mère.
+
+**DONG.**
+
+**DONG.**
+
+Elle tenta de se dégager des bras de Ray.
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+Les larmes coulaient sur son visage.
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+Iseria disparut derrière les portes.
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+Puis le son changea.
+
+**DING.**
+
+**DING.**
+
+**DING.**
+
+**DING.**
+
+*Fin du chapitre 6 — Préparer une place pour les vivants.*
+
+---
+
+<span id="chapitre-7"></span>
+
+## Chapitre 7 — Le poids du sang
+
+### I. Les portes du mariage
+
+Les portes de la salle s'ouvrirent.
+
+Plusieurs gardes impériaux pénétrèrent dans la pièce, interrompant la cérémonie.
+
+Un officier s'avança.
+
+— Iseria Shun ?
+
+Hasol se tourna vers sa mère.
+
+— C'est moi.
+
+L'homme déplia un document portant le sceau impérial.
+
+— Iseria Shun, vous avez enfreint le pacte conclu avec Sa Majesté impériale. Pour avoir dissimulé la naissance d'une enfant de classe astrale, vous êtes condamnée à mort.
+
+— Maman ! Dis-leur qu'ils se trompent !
+
+Iseria posa ses mains sur les épaules de sa fille.
+
+— Pardonne-moi, ma chérie.
+
+Les gardes les séparèrent.
+
+— MAMAN !
+
+Hasol remua dans son sommeil.
+
+Elle se trouvait désormais dans le salon familial, allongée sur le canapé.
+
+Sa mère déposa délicatement une couverture sur elle avant de se diriger vers le vaisselier.
+
+Le meuble se déplaça lentement, dévoilant un passage vers une pièce obscure.
+
+Une femme élégamment vêtue était assise près d'une fenêtre.
+
+Un proche vint la rejoindre, un document à la main.
+
+— Carmela, tiens, regarde le rapport d'enquête.
+
+La femme récupéra le document.
+
+À mesure qu'elle en parcourait les lignes, son expression changea.
+
+— Oh non, Iseria… Pourquoi nous as-tu caché ça ?
+
+Elle porta une main à son front.
+
+— Je ne pourrai pas te protéger de ton frère cette fois-ci.
+
+Hasol ouvrit brutalement les yeux.
+
+— Maman !
+
+Elle repoussa sa couverture et quitta précipitamment sa chambre.
+
+Elle descendit les escaliers avant de rejoindre la chambre de ses parents.
+
+— Maman !
+
+Iseria ouvrit les yeux.
+
+— Hasol ?
+
+Armin se redressa à son tour.
+
+— Qu'est-ce qui se passe ?
+
+Hasol se précipita dans les bras de sa mère.
+
+— Tu es là…
+
+Iseria passa doucement une main dans ses cheveux.
+
+— Bien sûr que je suis là, ma chérie.
+
+— Encore un cauchemar ? demanda Armin.
+
+Hasol acquiesça.
+
+— Tu veux nous en parler ? proposa sa mère.
+
+— Non… Ça va aller.
+
+Iseria observa attentivement sa fille.
+
+— Tu es certaine ?
+
+— Oui. Désolée de vous avoir réveillés.
+
+Hasol resta encore quelques instants auprès de ses parents avant de regagner sa chambre.
+
+Elle s'assit au bord de son lit.
+
+*Carmela…*
+
+Elle n'avait jamais entendu ce prénom auparavant.
+
+Et depuis quand sa mère avait-elle un frère ?
+
+### II. Derrière le vaisselier
+
+Le lendemain matin, Iseria quitta la demeure afin de retrouver Irène. Les deux femmes devaient encore s'occuper de plusieurs détails concernant le mariage.
+
+Armin était également parti.
+
+Hasol descendit dans le salon et s'arrêta devant le vaisselier.
+
+Elle examina attentivement le meuble. Rien ne semblait indiquer la présence d'un quelconque mécanisme.
+
+Elle posa une main contre celui-ci.
+
+— Main runique.
+
+Un léger déclic retentit.
+
+Le vaisselier se déplaça lentement, dévoilant le passage qu'elle avait aperçu dans son rêve.
+
+— Alors, c'était vrai…
+
+Hasol pénétra dans la pièce.
+
+Plusieurs étagères occupaient les murs. Des ouvrages, des coffrets et différents documents y étaient soigneusement rangés.
+
+Elle s'approcha du bureau et parcourut rapidement les quelques feuilles qui s'y trouvaient.
+
+L'une d'elles attira son attention.
+
+Le papier était d'une qualité exceptionnelle et portait un sceau qu'elle reconnut immédiatement.
+
+Le sceau impérial.
+
+
+
+> **Autorisation permanente**
+>
+> La présente autorisation accorde à Iseria Shun un accès libre et illimité aux ateliers royaux de l'Empire.
+>
+> Cette autorisation est personnelle et sans limitation de durée.
+>
+> *Carmela A.*
+>
+> Sceau impérial
+
+— Carmela…
+
+Hasol relut la signature.
+
+Il s'agissait du prénom qu'elle avait entendu dans son cauchemar.
+
+Elle repensa aussitôt aux tenues écarlates, à leurs armes et à la somme astronomique que sa mère lui avait annoncée lorsqu'elle avait souhaité offrir un équipement à Ray.
+
+*Les ateliers royaux…*
+
+Elle recopia rapidement les informations figurant sur le document, le reposa à sa place et quitta la pièce.
+
+Elle remit le vaisselier dans sa position initiale avant de récupérer ses affaires.
+
+Elle savait exactement qui pourrait l'aider.
+
+### III. Un nom dans les livres
+
+Ray était installé à leur table habituelle lorsqu'Hasol arriva à la bibliothèque.
+
+— Tu es en avance aujourd'hui !
+
+— Ray, j'ai besoin de ton aide.
+
+Il referma immédiatement son ouvrage.
+
+— Qu'est-ce qui se passe ?
+
+— Je cherche une femme du nom de Carmela.
+
+— Carmela ?
+
+— Oui. Elle semble avoir des liens avec la famille impériale.
+
+Hasol lui présenta les informations qu'elle avait recopiées.
+
+Ray les parcourut attentivement.
+
+— Une autorisation permanente d'accès aux ateliers royaux ?
+
+— C'est bien ce qui était écrit.
+
+— Au nom de ta mère ?
+
+— Oui.
+
+Ray ajusta ses lunettes.
+
+— Ça expliquerait beaucoup de choses concernant nos équipements…
+
+— C'est également ce que je me suis dit.
+
+— Où as-tu trouvé ce document ?
+
+Hasol hésita.
+
+— Chez moi.
+
+Ray remarqua son embarras, mais n'insista pas.
+
+Il relut la signature.
+
+— Carmela A. Nous devrions pouvoir trouver quelque chose.
+
+Il se leva et parcourut plusieurs rayonnages consacrés à l'histoire de l'Empire.
+
+Hasol resta pensive.
+
+*Carmela A.*
+
+Elle avait l'impression qu'un élément lui échappait.
+
+Elle relut la signature, puis releva les yeux vers les ouvrages que Ray consultait.
+
+— Ray !
+
+Il se retourna.
+
+— Oui ?
+
+— Tu crois que cette initiale pourrait nous aider ?
+
+Ray parcourut les noms dans l'ouvrage qu'il tenait.
+
+— Elle pourrait correspondre aux Astrea.
+
+— Qui sont-ils ?
+
+Il récupéra un autre ouvrage.
+
+— C'est le nom de la famille impériale.
+
+Hasol se figea.
+
+— Tu es sérieux ?
+
+— Tout à fait.
+
+Il revint s'asseoir auprès d'elle et commença à parcourir les pages.
+
+Plusieurs portraits de membres de la famille impériale accompagnaient les textes.
+
+Ray tourna encore quelques pages.
+
+— Tiens, regarde.
+
+Hasol aperçut le portrait d'une femme.
+
+Elle la reconnut immédiatement.
+
+— C'est elle !
+
+— Carmela Astrea, épouse de l'ancien empereur et mère de l'empereur actuel.
+
+Hasol contempla longuement le portrait.
+
+Ray se tourna vers elle.
+
+— Tu l'as déjà rencontrée ?
+
+— Non…
+
+Elle repensa aux paroles prononcées par cette femme.
+
+*Je ne pourrai pas te protéger de ton frère cette fois-ci.*
+
+— Ray…
+
+— Oui ?
+
+— Je crois que cette femme est ma grand-mère.
+
+Le jeune homme resta silencieux.
+
+— Ta grand-mère ?
+
+— Je crois que ma mère est la sœur de l'empereur.
+
+Ray retira ses lunettes.
+
+Il regarda successivement Hasol, le portrait et les notes qu'elle lui avait apportées.
+
+— Attends… Si ce que tu dis est vrai…
+
+— Oui ?
+
+— Yoon ne va jamais nous laisser tranquilles.
+
+Hasol le regarda.
+
+— Quoi ?
+
+— Elle te surnomme princesse depuis des années.
+
+Malgré son inquiétude, Hasol laissa échapper un petit rire.
+
+— Ce n'est vraiment pas le moment…
+
+Ray remit ses lunettes.
+
+— Qu'est-ce que tu comptes faire ?
+
+— Il faut que je rencontre Carmela.
+
+— Tu ne préfères pas commencer par en parler à ta mère ?
+
+Hasol secoua la tête.
+
+— Pas maintenant.
+
+Elle prit la main de son fiancé.
+
+— C'est important, Ray.
+
+— Très bien. Je vais voir ce que je peux faire.
+
+### IV. Des visiteurs impériaux
+
+Deux jours plus tard, Ray retrouva Hasol à la bibliothèque.
+
+— Il m'est arrivé quelque chose d'assez étrange aujourd'hui.
+
+Hasol referma aussitôt son carnet.
+
+— Quoi donc ?
+
+— Des enquêteurs de l'Empire sont venus me voir à ton sujet.
+
+Elle sentit son cœur se serrer.
+
+— Ils t'ont posé des questions sur nos tenues ?
+
+Ray la regarda avec étonnement.
+
+— Oui… Comment le sais-tu ?
+
+— Qu'est-ce qu'ils voulaient savoir exactement ?
+
+— Où nous les avions obtenues, qui les avait fait fabriquer… Ils m'ont également posé quelques questions concernant notre mariage.
+
+Hasol se leva.
+
+— As-tu trouvé un moyen de contacter Carmela ?
+
+— Mon père connaît quelques personnes qui travaillent régulièrement avec les ateliers royaux. Il devrait pouvoir faire transmettre une demande d'audience.
+
+— Il faut que je la rencontre au plus vite.
+
+Ray posa ses mains sur les épaules de sa fiancée.
+
+— Hasol, qu'est-ce qui se passe ?
+
+Elle baissa les yeux.
+
+— J'ai peur qu'il arrive quelque chose à ma mère.
+
+— À cause de ces enquêteurs ?
+
+— Oui.
+
+— Tu ne veux toujours pas m'expliquer comment tu sais tout cela ?
+
+Hasol hésita longuement.
+
+— J'ai fait un cauchemar.
+
+Ray attendit qu'elle poursuive.
+
+— Le jour de notre mariage, des gardes impériaux viennent chercher maman. Ils la condamnent à mort.
+
+— Pour quelle raison ?
+
+— Parce qu'elle aurait dissimulé la naissance d'une enfant astrale.
+
+Ray fronça les sourcils.
+
+— Ta naissance ?
+
+Hasol acquiesça.
+
+— Tu comprends maintenant pourquoi je dois rencontrer Carmela ?
+
+— Oui… Mais comment peux-tu être certaine que ce cauchemar va se réaliser ?
+
+— Parce que ce n'est pas la première fois que ça m'arrive.
+
+Ray ne répondit pas immédiatement.
+
+Il repensa au jour où Hasol avait décidé d'accompagner Samia dans son village.
+
+— Zio… murmura-t-il.
+
+— Quoi ?
+
+— Le portail près de l'Académie. Tu savais déjà qu'il serait là.
+
+Elle acquiesça.
+
+Ray récupéra son manteau.
+
+— Viens. Nous allons retrouver mon père.
+
+### V. Carmela Astrea
+
+Il fallut encore deux jours avant qu'Hasol obtienne une réponse.
+
+Carmela acceptait de la recevoir en privé.
+
+Ray l'accompagna jusqu'à la résidence impériale, où un domestique vint les accueillir.
+
+— Mademoiselle Shun ?
+
+— C'est moi.
+
+— Madame vous attend. Je vais vous conduire auprès d'elle.
+
+Hasol se tourna vers Ray.
+
+— Tu m'attends ?
+
+— Bien sûr.
+
+Elle lui adressa un sourire avant de suivre le domestique.
+
+Ils traversèrent plusieurs couloirs richement décorés. Hasol remarqua quelques tableaux représentant d'anciens membres de la famille impériale.
+
+Le domestique s'arrêta finalement devant une porte.
+
+— Vous pouvez entrer.
+
+Hasol pénétra dans la pièce.
+
+Une femme se tenait près d'une fenêtre.
+
+Elle portait une robe dont le style rappelait étrangement celles que sa mère affectionnait tant.
+
+— Approchez, je vous en prie.
+
+Hasol s'inclina maladroitement.
+
+— Madame…
+
+Carmela sourit.
+
+— Vous ne semblez pas très habituée à ce genre de rencontre.
+
+— Pas vraiment.
+
+— Asseyez-vous.
+
+Hasol prit place face à elle.
+
+Carmela récupéra la demande d'audience posée sur sa table.
+
+— Hasol Shun… Vous souhaitiez me rencontrer au sujet d'une affaire familiale ?
+
+— Oui. Il s'agit de ma mère.
+
+— Je vous écoute.
+
+— Elle s'appelle Iseria Shun.
+
+Le sourire de Carmela disparut.
+
+Elle reposa lentement la feuille.
+
+— Iseria est ta mère ?
+
+— Oui.
+
+Carmela examina attentivement le visage de la jeune femme.
+
+— Quel âge as-tu ?
+
+Hasol lui répondit.
+
+La matriarche demeura silencieuse quelques instants.
+
+— Toutes ces années…
+
+— Vous êtes bien sa mère, n'est-ce pas ?
+
+Carmela acquiesça.
+
+— Oui.
+
+Hasol baissa les yeux.
+
+Elle avait donc une grand-mère.
+
+Une grand-mère dont sa mère ne lui avait jamais parlé.
+
+— Comment as-tu découvert mon identité ? demanda Carmela.
+
+— J'ai trouvé une autorisation d'accès aux ateliers royaux que vous aviez signée.
+
+— Je vois.
+
+Carmela esquissa un sourire.
+
+— Ta mère en a donc fait bon usage ?
+
+— Oui. Elle m'a notamment offert plusieurs équipements de chasse.
+
+— Tu es chasseuse ?
+
+— Effectivement.
+
+— Quelle classe possèdes-tu ?
+
+Hasol hésita.
+
+— Arcaniste Astral.
+
+— Je ne connais pas cette classe.
+
+— C'est une classe astrale.
+
+Carmela resta bouche bée.
+
+— Astrale ?
+
+Hasol acquiesça.
+
+— Depuis ta Révélation ?
+
+— Oui.
+
+Carmela se leva et fit quelques pas dans la pièce.
+
+— Iseria… Qu'as-tu donc fait ?
+
+Hasol se leva à son tour.
+
+— C'est justement pour cette raison que je suis venue vous voir.
+
+Carmela se retourna.
+
+— Comment cela ?
+
+— Des enquêteurs impériaux ont commencé à poser des questions à mon fiancé.
+
+— Ton fiancé ?
+
+— Ray Corvus. Nous devons bientôt nous marier.
+
+Carmela observa l'anneau qu'Hasol portait à son doigt.
+
+— Et que cherchaient ces enquêteurs ?
+
+— Ils s'intéressent aux équipements que maman nous a offerts.
+
+Carmela ferma les yeux.
+
+— Évidemment…
+
+— Vous savez ce qui risque d'arriver, n'est-ce pas ?
+
+La matriarche regarda sa petite-fille sans répondre.
+
+### VI. Sauvez ma mère
+
+— J'ai fait un cauchemar il y a quelques jours, poursuivit Hasol.
+
+— Un cauchemar ?
+
+— Des gardes impériaux sont venus interrompre mon mariage. Ils ont annoncé que ma mère avait enfreint un pacte et qu'elle était condamnée à mort.
+
+Carmela s'approcha lentement.
+
+— Continue.
+
+— J'ai également rêvé de vous.
+
+— De moi ?
+
+— Quelqu'un vous remettait un rapport d'enquête.
+
+Hasol prit quelques instants pour se remémorer les paroles exactes.
+
+— Après l'avoir lu, vous avez dit : « Oh non, Iseria… Pourquoi nous as-tu caché ça ? Je ne pourrai pas te protéger de ton frère cette fois-ci. »
+
+Carmela pâlit.
+
+— Tu as entendu ces paroles dans ton sommeil ?
+
+— Oui.
+
+— Et tu ne connaissais pas mon identité ?
+
+— Non. J'ai dû demander à Ray de m'aider à vous retrouver.
+
+Carmela se rassit.
+
+— Depuis combien de temps fais-tu ce genre de rêves ?
+
+— Plusieurs années.
+
+— Et certains se sont déjà réalisés ?
+
+— Oui. J'ai même réussi à empêcher certaines choses de se produire.
+
+La matriarche resta silencieuse.
+
+Hasol s'approcha d'elle.
+
+— Je vous en prie. Je ne sais pas ce que maman a fait, ni pourquoi elle ne m'a jamais parlé de vous. Mais vous devez la sauver.
+
+— Hasol…
+
+— Elle ne mérite pas de mourir !
+
+Les larmes lui montèrent aux yeux.
+
+— C'est votre fille…
+
+Carmela lui prit doucement les mains.
+
+— Je le sais, ma chérie.
+
+Hasol baissa la tête.
+
+C'était la première fois que sa grand-mère s'adressait à elle de cette manière.
+
+— Je vais faire tout ce qui est en mon pouvoir pour la protéger, lui promit Carmela.
+
+— Vous pensez pouvoir convaincre l'empereur ?
+
+— Ton oncle et moi avons certaines choses à régler.
+
+Hasol releva les yeux.
+
+*Ton oncle…*
+
+Il lui semblait encore impossible d'associer ces mots à l'empereur.
+
+Carmela lui tendit un mouchoir.
+
+— Pour le moment, rentre chez toi. Je viendrai voir ta mère.
+
+— Quand ?
+
+— Aujourd'hui.
+
+Hasol essuya ses larmes.
+
+— Merci…
+
+Carmela l'attira doucement contre elle.
+
+— Tu n'as pas à me remercier pour cela.
+
+Ray attendait patiemment lorsqu'Hasol le retrouva.
+
+Il se leva en l'apercevant.
+
+— Alors ?
+
+— C'est bien ma grand-mère.
+
+— Et concernant ta mère ?
+
+— Elle m'a promis de faire tout son possible pour la protéger.
+
+Ray lui tendit la main.
+
+— C'est déjà une bonne nouvelle.
+
+Hasol la saisit.
+
+— Oui…
+
+Elle se rapprocha de lui et posa sa tête contre son épaule.
+
+— J'ai tellement hâte que tout ça soit terminé.
+
+### VII. Une visite inattendue
+
+Iseria venait de rentrer lorsqu'on frappa à la porte de la demeure Shun.
+
+— J'y vais ! lança Hasol.
+
+Elle ouvrit la porte.
+
+Carmela se tenait devant elle.
+
+— Bonjour, ma chérie.
+
+— Entrez, je vous en prie.
+
+Hasol la conduisit jusqu'au salon.
+
+— Maman ! Nous avons de la visite !
+
+Iseria arriva quelques instants plus tard.
+
+Elle s'immobilisa en apercevant Carmela.
+
+— Mère ?
+
+Hasol observa les deux femmes.
+
+Elle n'avait jamais vu sa mère adopter une telle expression.
+
+— Bonjour, Iseria.
+
+— Qu'est-ce que tu fais ici ?
+
+Carmela tourna les yeux vers Hasol.
+
+Iseria suivit son regard.
+
+— Hasol ?
+
+— C'est moi qui suis allée la voir.
+
+— Mais comment…
+
+— J'ai trouvé l'autorisation pour les ateliers royaux.
+
+Iseria porta immédiatement son regard vers le vaisselier.
+
+— Je suis désolée, maman. Mais je devais absolument la rencontrer.
+
+Carmela s'approcha de sa fille.
+
+— Pourquoi ne m'as-tu rien dit ?
+
+Iseria baissa les yeux.
+
+— Je voulais simplement qu'elle puisse vivre librement.
+
+— Tu savais pourtant ce que ton frère risquait de faire en apprenant son existence.
+
+— C'est précisément pour cette raison que je ne vous ai rien dit.
+
+Carmela soupira.
+
+— Des enquêteurs s'intéressent déjà à elle. Ils finiront par retrouver les commandes passées auprès des ateliers royaux.
+
+Iseria se tourna vers Hasol.
+
+— Tu leur as parlé ?
+
+— Non. Ils sont allés voir Ray.
+
+— Et comment as-tu compris que…
+
+Elle s'interrompit.
+
+— Tu as encore fait un cauchemar, n'est-ce pas ?
+
+Hasol acquiesça.
+
+— J'ai rêvé qu'ils venaient te chercher le jour de mon mariage.
+
+Iseria ferma les yeux.
+
+Carmela posa une main sur son épaule.
+
+— Je vais parler à ton frère.
+
+— Mère…
+
+— Tu aurais dû venir me voir bien plus tôt.
+
+Iseria ne répondit pas.
+
+Carmela se tourna vers Hasol.
+
+— Pourrais-tu nous laisser seules quelques instants ?
+
+— Bien sûr.
+
+Hasol quitta le salon.
+
+Un peu plus tard, Carmela vint prendre congé de sa petite-fille.
+
+— Je reviendrai dès que j'aurai parlé à ton oncle.
+
+— Merci.
+
+Carmela lui caressa doucement la joue.
+
+— J'espère que nous aurons bientôt l'occasion de nous revoir dans de meilleures circonstances.
+
+Hasol lui sourit.
+
+Après son départ, elle retrouva sa mère.
+
+Iseria était assise sur le canapé.
+
+— Maman…
+
+— Viens près de moi, ma chérie.
+
+Hasol s'installa à ses côtés.
+
+— Pourquoi ne m'as-tu jamais dit que tu faisais partie de la famille impériale ?
+
+— Parce que je ne voulais pas que cela change ta manière de vivre.
+
+— Mais pourquoi ?
+
+Iseria lui prit la main.
+
+— Être née dans cette famille ne signifie pas que l'on peut faire tout ce que l'on souhaite. Bien au contraire.
+
+Hasol contempla sa mère.
+
+— Alors, Yoon avait raison toutes ces années ?
+
+— À quel sujet ?
+
+— Elle n'arrête pas de me surnommer princesse.
+
+Iseria esquissa un sourire.
+
+— Elle n'était finalement pas si loin de la vérité.
+
+Hasol se blottit contre elle.
+
+— Je préfère être une Shun.
+
+Iseria resta silencieuse quelques instants avant de sourire tendrement.
+
+— C'est drôle que tu dises ça, ma chérie…
+
+— Pourquoi ?
+
+— Tu comprendras peut-être un jour.
+
+Elle embrassa sa fille sur le front.
+
+### VIII. La matriarche
+
+Carmela se présenta auprès de son fils.
+
+L'empereur venait de prendre connaissance du rapport d'enquête.
+
+— Tu savais ? demanda-t-il en apercevant sa mère.
+
+— Je viens de l'apprendre.
+
+— Iseria a enfreint notre pacte.
+
+— Je suis parfaitement au courant.
+
+— Une enfant astrale ! Toutes ces années sans que nous en sachions rien !
+
+Il déposa le rapport sur son bureau.
+
+— Et elle s'apprête à épouser un homme de classe commune.
+
+— Il s'appelle Ray Corvus.
+
+— Peu importe son nom.
+
+Carmela fronça les sourcils.
+
+— Il importe à ta nièce.
+
+— Ce mariage n'aura pas lieu.
+
+— Et que comptes-tu faire d'Iseria ?
+
+L'empereur ne répondit pas immédiatement.
+
+— Elle connaissait les conséquences d'une rupture du pacte.
+
+— C'est ta sœur.
+
+— Cela ne lui donne pas le droit de manquer à ses engagements.
+
+Carmela s'approcha du bureau.
+
+— Dois-je te rappeler certaines circonstances de ton accession au trône ?
+
+L'empereur releva brusquement les yeux.
+
+— Mère…
+
+— Ton frère ignore toujours la vérité. Je me demande quelle serait sa réaction s'il venait à l'apprendre.
+
+— Tu n'oserais pas.
+
+— Ne me demande pas de choisir entre mon silence et la vie de ma fille.
+
+L'empereur se leva.
+
+Il fit quelques pas dans la pièce avant de s'arrêter devant une fenêtre.
+
+— Très bien. Je renonce à poursuivre Iseria.
+
+Carmela ne répondit pas.
+
+— Mais je maintiens mon opposition à ce mariage.
+
+— Laisse cette enfant vivre sa vie.
+
+— Elle possède une classe astrale et appartient à notre famille. Son mariage ne peut être considéré comme une simple affaire personnelle.
+
+— Elle a vécu jusqu'à présent sans rien vous demander.
+
+— Cela ne change rien.
+
+Carmela observa longuement son fils.
+
+— Que proposes-tu ?
+
+— Qu'elle mette fin à ses fiançailles.
+
+— Et ensuite ?
+
+— Nous déciderons en temps voulu de ce qu'il convient de faire.
+
+Carmela serra les dents.
+
+— Tu ne lui imposeras pas un mariage.
+
+L'empereur demeura silencieux quelques instants.
+
+— Tant qu'elle respecte nos conditions, elle pourra continuer à vivre auprès de ses parents.
+
+— Quelles conditions ?
+
+— Je veux m'assurer qu'il n'y aura aucun bâtard au sein de notre famille.
+
+Carmela détourna les yeux.
+
+— Je te rappelle qu'il s'agit de ta nièce.
+
+— C'est précisément pour cette raison que je prends cette décision.
+
+### IX. Le prix de la liberté
+
+Quelques heures plus tard, Carmela retrouva Iseria et Hasol dans le salon familial.
+
+— Ton frère renonce à te poursuivre pour avoir enfreint le pacte, annonça-t-elle.
+
+Hasol laissa échapper un immense soupir de soulagement.
+
+Elle se précipita dans les bras de sa mère.
+
+— Maman !
+
+Iseria serra sa fille contre elle.
+
+Carmela les observa quelques instants.
+
+— Cependant…
+
+Hasol se tourna vers elle.
+
+— Quoi ?
+
+— Ton oncle s'oppose formellement à ton mariage avec Ray.
+
+— Pardon ?
+
+— Il considère que ton mariage doit servir les intérêts de la famille impériale.
+
+Hasol resta bouche bée.
+
+— Mais je ne lui ai jamais rien demandé !
+
+— J'ai fait tout ce qui était en mon pouvoir.
+
+— Il ne me connaît même pas ! Il ne m'a jamais rencontrée !
+
+Carmela baissa les yeux.
+
+— Il exige également que tu mettes fin à tes fiançailles.
+
+Hasol contempla son anneau.
+
+— Pourquoi ?
+
+— Il refuse que des enfants naissent d'une union qu'il n'aurait pas autorisée.
+
+— Et si je refuse ?
+
+Iseria se redressa.
+
+— Hasol…
+
+Carmela resta silencieuse.
+
+Ce silence suffit.
+
+Hasol s'assit lentement.
+
+Elle passa plusieurs fois son pouce sur le diamant de sa bague.
+
+— Je ne veux pas épouser quelqu'un d'autre.
+
+— Je ne laisserai personne t'imposer un époux, lui assura Carmela.
+
+— Mais je veux épouser Ray !
+
+Sa voix se brisa.
+
+Iseria s'installa auprès d'elle.
+
+— Je suis tellement désolée, ma chérie…
+
+Hasol secoua la tête.
+
+Elle lui prit la main.
+
+— Tu es en vie. C'est le plus important.
+
+Carmela contempla sa petite-fille.
+
+Elle aurait aimé pouvoir lui annoncer une autre nouvelle.
+
+### X. Les fiançailles brisées
+
+Hasol retrouva Ray à la bibliothèque.
+
+Il se leva immédiatement en l'apercevant.
+
+— Alors ?
+
+— Maman ne risque plus rien.
+
+— C'est merveilleux !
+
+Ray la prit dans ses bras.
+
+Hasol ne dit rien.
+
+Il remarqua rapidement qu'elle ne partageait pas son enthousiasme.
+
+— Qu'est-ce qu'il y a ?
+
+— Ray… Il faut qu'on parle.
+
+Ils s'installèrent à leur table.
+
+Hasol posa ses mains devant elle.
+
+— L'empereur s'oppose à notre mariage.
+
+Ray fronça les sourcils.
+
+— Pour quelle raison ?
+
+— Il considère que mon mariage doit servir les intérêts de sa famille.
+
+Ray resta silencieux quelques instants.
+
+— Je vois…
+
+Il tenta de sourire.
+
+— Rien ne nous empêche de rester fiancés, n'est-ce pas ?
+
+Hasol baissa les yeux.
+
+— Ce n'est pas aussi simple… L'empereur veut s'assurer qu'il n'y aura pas de bâtards au sein de la famille impériale.
+
+— Des bâtards ?!
+
+— Ce sont ses mots, pas les miens.
+
+Ray resta silencieux quelques instants.
+
+— Est-ce qu'on pourra au moins continuer à se voir ?
+
+— Oui… Mais je préfère qu'on évite de se retrouver seuls tous les deux.
+
+— Hasol…
+
+— Je ne veux pas prendre le risque de céder à la tentation, Ray. C'est la vie de ma mère qui est en jeu.
+
+Ray baissa la tête.
+
+— Je comprends…
+
+Hasol contempla son anneau.
+
+— Mais je refuse de te rendre cette bague.
+
+Ray lui prit doucement la main.
+
+— Je ne te l'aurais jamais demandée.
+
+Les larmes montèrent aux yeux d'Hasol.
+
+— Je suis désolée, Ray…
+
+Il la prit une dernière fois dans ses bras.
+
+Ils demeurèrent ainsi pendant de longues minutes.
+
+Lorsqu'elle finit par se séparer de lui, Ray lui tendit son mouchoir.
+
+— On se retrouve demain pour le raid ?
+
+Hasol acquiesça.
+
+— Oui.
+
+Elle récupéra ses affaires.
+
+— À demain, Ray.
+
+— À demain, Hasol.
+
+Ray resta seul à leur table.
+
+Deux ouvrages étaient ouverts devant lui.
+
+Il avait passé une bonne partie de la journée à préparer de nouvelles combinaisons runiques qu'il souhaitait présenter à sa fiancée.
+
+Il referma lentement les livres.
+
+### XI. Une véritable princesse
+
+Le lendemain, Hasol retrouva Yoon et Samia devant la guilde.
+
+— Alors, demanda Yoon, les préparatifs avancent ?
+
+Hasol ne répondit pas.
+
+Samia remarqua immédiatement son expression.
+
+— Tout va bien ?
+
+— Le mariage est annulé.
+
+— QUOI ?!
+
+Plusieurs chasseurs se retournèrent vers elles.
+
+— Yoon, moins fort…
+
+— Mais pourquoi ? Qu'est-ce qui s'est passé ? Vous vous êtes disputés ?
+
+— Non.
+
+Hasol les invita à s'éloigner un peu.
+
+— Yoon, tu te souviens que tu me surnommes princesse depuis des années ?
+
+— Oui…
+
+— Eh bien… Tu n'étais pas si loin de la vérité.
+
+Yoon la regarda sans comprendre.
+
+Hasol leur expliqua ce qu'elle venait de découvrir concernant sa mère et la famille impériale.
+
+Samia resta bouche bée.
+
+— Attends… Ta mère est la sœur de l'empereur ?
+
+— Oui.
+
+— Donc l'empereur est ton oncle ?
+
+— Oui.
+
+Yoon ouvrit la bouche.
+
+Puis la referma.
+
+Samia se tourna vers elle.
+
+— Eh bien, c'est la première fois que je te vois sans voix !
+
+— Laissez-moi le temps de réfléchir !
+
+Yoon regarda Hasol de haut en bas.
+
+— Toutes ces robes… Les tenues écarlates… Les armes…
+
+Hasol acquiesça.
+
+— Maman dispose d'une autorisation permanente d'accès aux ateliers royaux.
+
+— Je savais bien qu'elles étaient beaucoup trop belles pour provenir d'un atelier ordinaire !
+
+Samia lui donna un léger coup de coude.
+
+— Ce n'est pas le problème, Yoon.
+
+— Oui, pardon…
+
+Hasol poursuivit ses explications.
+
+À mesure qu'elle leur racontait les exigences de l'empereur, le visage de Yoon s'assombrit.
+
+— Mais c'est complètement injuste !
+
+— Je sais.
+
+— Tu ne peux même pas choisir avec qui tu veux passer ta vie ?
+
+Hasol secoua la tête.
+
+Samia posa une main sur son épaule.
+
+— Et Ray ?
+
+— Il comprend ma décision.
+
+Yoon baissa les yeux vers l'anneau.
+
+— Tu l'as gardé.
+
+— Je ne compte pas l'enlever.
+
+Les deux jeunes femmes prirent Hasol dans leurs bras.
+
+L'expédition se déroula sans incident majeur.
+
+Ray et Hasol combattirent avec la même efficacité qu'à leur habitude.
+
+Lorsque le raid prit fin, Ray vint la retrouver.
+
+— J'ai trouvé quelque chose d'intéressant concernant tes ensembles runiques.
+
+— Ah oui ?
+
+— Je pensais te montrer ça ce soir à la bibliothèque.
+
+Hasol hésita.
+
+— Je vais plutôt travailler chez maître Orven.
+
+Ray marqua une courte pause.
+
+— D'accord… Une prochaine fois, alors.
+
+— Oui.
+
+Elle lui adressa un sourire.
+
+— À demain, Ray.
+
+— À demain.
+
+Yoon observa Hasol s'éloigner avant de rejoindre le mage.
+
+— Tu veux qu'on aille manger quelque chose avec Samia ?
+
+Ray acquiesça.
+
+— Avec plaisir.
+
+### XII. Les préparatifs abandonnés
+
+Lorsqu'Hasol rentra chez elle, plusieurs tissus étaient disposés sur la table du salon.
+
+Iseria les rangeait soigneusement dans un coffret.
+
+Hasol reconnut immédiatement certains échantillons.
+
+Sa mère les lui avait présentés quelques semaines auparavant pour choisir les couleurs qui accompagneraient sa robe de mariée.
+
+— Tu n'es pas obligée de ranger tout ça maintenant, maman.
+
+Iseria releva les yeux.
+
+— Je préfère m'en occuper.
+
+Hasol s'approcha de la table.
+
+— Tu as prévenu Irène ?
+
+— Oui.
+
+— Comment a-t-elle réagi ?
+
+— Elle est très triste pour vous deux.
+
+Hasol passa doucement ses doigts sur l'un des tissus.
+
+— Moi qui pensais que vous alliez toutes les deux nous rendre complètement fous avec ce mariage…
+
+Iseria esquissa un sourire.
+
+— C'était pourtant bien parti.
+
+Hasol rit légèrement.
+
+Sa mère referma le coffret.
+
+— Si je n'avais pas enfreint ce pacte, tu aurais pu épouser Ray…
+
+Hasol s'installa auprès d'elle.
+
+— Et si tu l'avais respecté, quelle vie aurais-je eue, maman ?
+
+Iseria ne répondit pas.
+
+— Tu m'as permis de vivre librement pendant toutes ces années. De devenir chasseuse, de travailler avec maître Orven, de choisir mes amis…
+
+Hasol lui prit les mains.
+
+— Maintenant, c'est à mon tour de te protéger.
+
+Iseria attira sa fille contre elle.
+
+Elles restèrent un moment enlacées.
+
+— Tu sais, maman, je crois que je vais passer davantage de temps à l'atelier.
+
+— Chez Orven ?
+
+— Oui. Ça me fera du bien de m'occuper l'esprit.
+
+— C'est une bonne idée.
+
+Hasol sourit.
+
+— Et puis, il paraît que je peux encore devenir meilleure.
+
+— Tu en doutes ?
+
+— Maître Orven trouvera bien quelque chose à me reprocher !
+
+Iseria éclata doucement de rire.
+
+### XIII. Encore des choses à apprendre
+
+— Depuis quand passes-tu autant de temps ici ? Ton fiancé ne va pas finir par m'en vouloir ?
+
+Hasol déposa la rune qu'elle examinait.
+
+— Nous ne sommes plus fiancés…
+
+Orven toussa légèrement avant de reprendre.
+
+— Oh… Je suis désolé, Hasol.
+
+— Ne vous inquiétez pas. Vous allez simplement devoir me supporter un peu plus souvent !
+
+— Comme si je ne te supportais pas déjà depuis suffisamment d'années !
+
+Hasol éclata de rire.
+
+— Allez, montre-moi cette rune.
+
+Orven récupéra la pièce lorsque la porte de l'atelier s'ouvrit.
+
+— Bonjour à vous deux !
+
+Hasol releva la tête.
+
+— Oh, Zéphyr ! Bonjour !
+
+— Alors, on travaille dur ?
+
+— Comme toujours ! répondit-elle.
+
+Orven esquissa un sourire.
+
+— Elle ne me laisse même plus le temps de me reposer.
+
+— Ce n'est pas vrai !
+
+Zéphyr éclata de rire.
+
+— Je vois que les choses n'ont pas beaucoup changé ici.
+
+— Qu'est-ce qui vous amène ? demanda Hasol.
+
+— Je retourne au village dans quelques jours. Je voulais passer vous saluer avant de partir.
+
+— Samia vous accompagne ?
+
+— Non, elle restera ici.
+
+— Vous saluerez tout le monde de ma part !
+
+— Je n'y manquerai pas.
+
+Orven fut soudainement pris d'une quinte de toux.
+
+— Vous allez bien, maître ? demanda Hasol.
+
+— Oui, oui… Une mauvaise toux dont je n'arrive pas à me débarrasser.
+
+— En effet, elle est plutôt persistante. Ça fait déjà plus d'un mois que vous toussez, maintenant. Vous devriez vous reposer un peu.
+
+— Et te laisser seule dans mon atelier ? Certainement pas !
+
+— Comme si je pouvais encore faire des bêtises !
+
+— Tu serais bien capable de m'en inventer de nouvelles.
+
+Zéphyr éclata de rire.
+
+— Bon, je vais vous laisser travailler.
+
+— Bon séjour au village ! lui lança Hasol.
+
+— Merci. À bientôt !
+
+Zéphyr quitta l'atelier.
+
+Orven but quelques gorgées d'eau avant de reprendre ses explications.
+
+— Regarde attentivement cette inscription…
+
+Il désigna deux runes disposées sur son établi.
+
+— Un chasseur est venu nous demander de lui trouver de nouvelles runes Gardien. Il souhaite améliorer sa capacité à rester au front.
+
+Hasol examina les deux pièces à l'aide d'Œil runique.
+
+— Celle-ci me semble bien plus intéressante.
+
+— Pourquoi ?
+
+— Ses futures statistiques secondaires correspondent davantage aux besoins d'un tank.
+
+— Et l'autre ?
+
+— Elle pourrait convenir à un chasseur plus offensif qui cherche simplement à compléter un ensemble Gardien.
+
+Orven acquiesça.
+
+— Très bien. Laquelle comptes-tu proposer au client ?
+
+Hasol le regarda avec étonnement.
+
+— La première, évidemment.
+
+— Même si elle risque de dépasser ses moyens ?
+
+Hasol resta silencieuse.
+
+Orven sourit.
+
+— Tu as trouvé la meilleure rune. Maintenant, trouve la meilleure rune qu'il puisse réellement s'offrir.
+
+Elle récupéra le registre des commandes.
+
+— Ah… Effectivement.
+
+— Tous nos clients ne disposent pas de tes ressources, Hasol.
+
+— Je pourrais lui faire une réduction.
+
+— Et tu pourrais également apprendre à lui proposer un équipement adapté à ses besoins sans travailler à perte.
+
+Hasol rit.
+
+— D'accord, maître.
+
+Elle examina de nouveau les stocks de l'atelier.
+
+Quelques minutes plus tard, elle déposa plusieurs runes devant lui.
+
+— Celles-ci devraient convenir.
+
+Orven consulta le registre.
+
+— Bien mieux !
+
+Hasol sourit, satisfaite.
+
+— Vous voyez ? J'ai encore des choses à apprendre.
+
+— Ton Œil runique te permet de voir ce qu'aucun autre artisan ne peut voir. Mais ce n'est pas lui qui te dira ce dont tes clients ont réellement besoin.
+
+— Je m'en souviendrai.
+
+Orven fut de nouveau pris d'une quinte de toux.
+
+Hasol lui tendit son verre d'eau.
+
+— Merci.
+
+Il attendit quelques instants avant de reprendre.
+
+— Allez, au travail !
+
+— À vos ordres !
+
+Plus tard dans l'après-midi, un chasseur vint récupérer une commande.
+
+Hasol lui présenta les runes qu'elle avait préparées, lui expliquant les raisons de ses choix et les avantages qu'il pourrait en tirer.
+
+Le client repartit particulièrement satisfait.
+
+Orven, qui avait assisté à la conversation depuis son établi, adressa un sourire à son élève.
+
+— Tu sais, lorsque ta mère t'a amenée ici pour la première fois, j'étais loin d'imaginer que tu deviendrais une artisane aussi compétente.
+
+— Vous pensiez que j'étais mauvaise ?
+
+— Je pensais surtout que tu avais davantage envie de parcourir les forêts que de passer tes journées dans un atelier.
+
+— Ce n'est pas complètement faux.
+
+— Et pourtant, regarde-toi maintenant.
+
+Hasol contempla les nombreuses runes disposées sur son établi.
+
+— J'aime vraiment ce métier.
+
+— Je l'avais remarqué.
+
+Orven se redressa.
+
+— Tu pourrais même ouvrir ton propre atelier, si tu le souhaitais.
+
+— Pour vous faire concurrence ?
+
+— Je ne m'en remettrais probablement pas !
+
+Hasol éclata de rire.
+
+— Je n'en ai pas envie pour le moment. Je me plais bien ici.
+
+Orven sourit.
+
+— Alors, je vais devoir te supporter encore longtemps.
+
+— Exactement !
+
+### XIV. Une nouvelle partenaire de recherche
+
+Quelques jours plus tard, Hasol retrouva Samia à l'issue d'un raid.
+
+— Tu as quelque chose de prévu cet après-midi ?
+
+— Pas particulièrement. Pourquoi ?
+
+— Tu veux bien m'accompagner à la bibliothèque ?
+
+Samia la regarda avec étonnement.
+
+— Ray ne t'accompagne pas ?
+
+— Non.
+
+— Ah… Oui, évidemment. Excuse-moi.
+
+Hasol lui sourit.
+
+— Alors, tu viens ?
+
+— Avec plaisir.
+
+Les deux jeunes femmes s'installèrent à une table de la bibliothèque.
+
+Hasol sortit plusieurs feuilles de son sac et les disposa devant elle.
+
+Samia observa les différentes combinaisons runiques inscrites sur les documents.
+
+— Dis-moi, qu'est-ce que tu me conseillerais comme prochain ensemble runique ? demanda Hasol.
+
+Samia releva les yeux.
+
+— Tu me demandes vraiment conseil sur les runes ?
+
+— Oui, pourquoi ?
+
+— Hasol… Depuis qu'on se connaît, c'est toi qui me conseilles sur mon équipement !
+
+— Il faut bien que ça change un jour !
+
+Samia examina les notes de son amie.
+
+— Tu te souviens pourquoi je vous laissais toujours seuls à la bibliothèque, Ray et toi ?
+
+— Oui…
+
+— Eh bien, en regardant tes feuilles, je me souviens parfaitement pourquoi !
+
+Hasol éclata de rire.
+
+Samia récupéra néanmoins les documents.
+
+— Bon, explique-moi ce que tu recherches exactement. Je vais essayer de t'aider.
+
+Hasol rapprocha sa chaise de celle de son amie et commença à lui présenter les différentes possibilités qu'elle avait envisagées.
+
+— Tu hésites donc entre améliorer tes dégâts et augmenter ta résistance ? demanda Samia.
+
+— Entre autres.
+
+— Et tu n'as pas déjà suffisamment de résistance ?
+
+— On n'en a jamais suffisamment !
+
+— Dans ce cas, pourquoi me demandes-tu mon avis ?
+
+Hasol éclata de rire.
+
+— Parce que j'aimerais savoir ce que tu en penses !
+
+Samia soupira avant de reprendre l'examen des documents.
+
+— Très bien, mais la prochaine fois, c'est toi qui m'aides à choisir mes runes !
+
+— Comme d'habitude, finalement !
+
+Les deux amies se mirent à rire.
+
+Elles passèrent une bonne partie de l'après-midi à discuter.
+
+Lorsque Samia repartit, Hasol resta encore quelques instants à la bibliothèque.
+
+Elle rangea lentement ses documents avant de jeter un regard vers la table à laquelle Ray et elle avaient l'habitude de s'installer.
+
+Puis elle récupéra son sac et quitta les lieux.
+
+### XV. Un atelier silencieux
+
+Un matin, Hasol se présenta comme à son habitude devant l'atelier d'Orven.
+
+La porte était fermée.
+
+Elle frappa.
+
+— Maître Orven ?
+
+Aucune réponse.
+
+Elle attendit quelques instants avant de frapper de nouveau.
+
+Il était rare qu'Orven ouvre son atelier en retard.
+
+Un commerçant voisin l'aperçut.
+
+— Hasol ?
+
+— Bonjour ! Vous n'avez pas vu maître Orven aujourd'hui ?
+
+L'homme s'approcha.
+
+— Tu n'es pas au courant ?
+
+— Au courant de quoi ?
+
+— Il a passé une très mauvaise nuit. Un soigneur s'est rendu chez lui ce matin.
+
+Hasol fronça les sourcils.
+
+— À cause de sa toux ?
+
+— Je crois.
+
+Elle le remercia avant de prendre immédiatement la direction de la demeure d'Orven.
+
+Lorsqu'elle arriva, un soigneur se trouvait encore auprès du maître artisan.
+
+Orven était allongé dans son lit.
+
+Son visage était particulièrement pâle et chacune de ses respirations semblait lui demander un effort considérable.
+
+— Maître ?
+
+Il tourna lentement la tête vers elle.
+
+— Hasol…
+
+Elle s'approcha de son lit.
+
+— Mais qu'est-ce qui vous est arrivé ?
+
+— Il semblerait que tu avais raison.
+
+Il tenta de sourire.
+
+— J'aurais peut-être dû me reposer un peu.
+
+Hasol se tourna vers le soigneur.
+
+— Vous pouvez le guérir ?
+
+— Nous faisons tout notre possible.
+
+— Il lui faut quelque chose ? Des médicaments ? Je peux aller les chercher !
+
+— Pour le moment, laissez-le se reposer.
+
+Hasol s'assit auprès de son maître.
+
+— Vous auriez dû me dire que vous vous sentiez aussi mal.
+
+— Je me sentais encore parfaitement capable de travailler hier.
+
+Une quinte de toux l'interrompit.
+
+Hasol lui tendit un verre d'eau.
+
+Il en but difficilement quelques gorgées.
+
+— Ne t'inquiète pas pour les commandes, murmura-t-il.
+
+— Vous croyez vraiment que je pense aux commandes en ce moment ?
+
+Orven esquissa un sourire.
+
+— Non, je suppose que non.
+
+Hasol lui prit la main.
+
+— Vous allez vous reposer. Je m'occuperai de l'atelier en attendant votre retour.
+
+— Je sais que je peux te faire confiance.
+
+— Et lorsque vous irez mieux, vous pourrez de nouveau me reprocher mes erreurs.
+
+— Avec plaisir…
+
+Hasol tenta de sourire.
+
+Elle resta auprès de lui une bonne partie de la journée.
+
+Mais son état ne s'améliora pas.
+
+En fin d'après-midi, Orven finit par s'endormir.
+
+Hasol attendait dans la pièce voisine lorsque le soigneur vint la retrouver.
+
+Il s'arrêta devant elle.
+
+— Mademoiselle Shun…
+
+Elle se leva.
+
+— Comment va-t-il ?
+
+Le soigneur baissa les yeux.
+
+— Je suis désolé.
+
+Hasol resta immobile.
+
+— Quoi ?
+
+— Nous n'avons pas réussi à le sauver.
+
+Elle secoua lentement la tête.
+
+— Non…
+
+Elle retourna précipitamment dans la chambre.
+
+— Maître Orven ?
+
+Elle s'approcha du lit.
+
+— Maître ?
+
+Elle lui prit la main.
+
+— Vous m'aviez promis de me laisser travailler sur les prochaines commandes…
+
+Sa voix trembla.
+
+— Maître Orven…
+
+Il ne répondit pas.
+
+Hasol s'assit auprès de lui, incapable de lâcher sa main.
+
+Les larmes commencèrent à couler le long de ses joues.
+
+### XVI. Une simple infusion
+
+Lorsqu'Hasol rentra chez elle, le soleil avait déjà disparu.
+
+Iseria était installée dans le salon.
+
+— Tu rentres tard, ma chérie.
+
+Hasol ne répondit pas.
+
+Sa mère releva les yeux et remarqua immédiatement son visage.
+
+— Hasol ? Qu'est-ce qu'il y a ?
+
+— Maître Orven…
+
+Sa voix se brisa.
+
+— Il est mort, maman.
+
+Iseria se leva.
+
+— Quoi ?
+
+Hasol éclata en sanglots.
+
+Sa mère la prit immédiatement dans ses bras.
+
+— Mais comment ? Je ne savais même pas qu'il était malade…
+
+— Il toussait depuis plusieurs semaines, expliqua Hasol. Je pensais que ce n'était rien de grave…
+
+Iseria releva brusquement les yeux.
+
+— Il toussait ?
+
+— Oui… Pourquoi ?
+
+— Mais pourquoi ne m'en as-tu pas parlé ? Une simple infusion aurait suffi à le soigner !
+
+Hasol se figea.
+
+— Une infusion ?
+
+Iseria baissa la tête.
+
+— Avec les préparatifs de ton mariage, cela faisait tellement longtemps que je n'étais pas allée le voir…
+
+Les larmes lui montèrent aux yeux.
+
+— J'aurais dû lui rendre visite…
+
+— Et moi, j'aurais dû t'en parler, maman…
+
+Mère et fille se blottirent l'une contre l'autre.
+
+Hasol repensa à toutes ces années durant lesquelles maître Orven lui avait appris les rouages du métier.
+
+À sa patience lorsqu'elle commettait ses premières erreurs, à ses conseils, à leurs longues journées passées dans l'atelier.
+
+Elle se souvenait encore de la fierté qu'il avait exprimée lorsqu'elle avait réalisé ses premières améliorations.
+
+Ses larmes coulèrent de plus belle.
+
+— Je suis tellement bête de ne pas t'en avoir parlé !
+
+Elle serra les poings, envahie par une colère qu'elle ne dirigeait que contre elle-même.
+
+— Il suffisait que je t'en parle… C'était pourtant si simple !
+
+Iseria resserra son étreinte autour de sa fille.
+
+— Hasol…
+
+Un son grave retentit.
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+Hasol enfouit son visage contre l'épaule de sa mère.
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+— Pardonnez-moi, maître Orven…
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+Elle aurait tellement aimé passer une journée de plus dans son atelier.
+
+**DONG.**
+
+**DONG.**
+
+**DONG.**
+
+Puis le son changea.
+
+**DING.**
+
+**DING.**
+
+**DING.**
+
+**DING.**
+
+**DING.**
+
+*Fin du chapitre 7 — Le poids du sang.*
